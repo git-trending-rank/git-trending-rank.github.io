@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2026年5月
-date: 2026-05-09T10:42:11Z
+date: 2026-05-09T12:42:51Z
 categories:
 - monthly
 keywords:
@@ -30,32 +30,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 </span>
-						<span>⭐ 121628</span>
-						<span>🔱 12291</span>
+						<span>⭐ 121736</span>
+						<span>🔱 12303</span>
 					</div>
 				<div class="stars-today">⭐ 112013 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/NousResearch/hermes-agent" target="_blank">
-    
-
-
-      
-        NousResearch /
-
-      hermes-agent</a></p>
-				<p>
-      The agent that grows with you
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 140151</span>
-						<span>🔱 21695</span>
-					</div>
-				<div class="stars-today">⭐ 104052 stars this month</div>
 				</div>
 			</div>
 	
@@ -74,10 +52,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Shell</span>
-						<span>⭐ 67380</span>
-						<span>🔱 5800</span>
+						<span>⭐ 67480</span>
+						<span>🔱 5806</span>
 					</div>
 				<div class="stars-today">⭐ 53203 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/NousResearch/hermes-agent" target="_blank">
+    
+
+
+      
+        NousResearch /
+
+      hermes-agent</a></p>
+				<p>
+      The agent that grows with you
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 140270</span>
+						<span>🔱 21728</span>
+					</div>
+				<div class="stars-today">⭐ 104052 stars this month</div>
 				</div>
 			</div>
 	
@@ -96,8 +96,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 23040</span>
-						<span>🔱 3342</span>
+						<span>⭐ 23078</span>
+						<span>🔱 3351</span>
 					</div>
 				<div class="stars-today">⭐ 20993 stars this month</div>
 				</div>
@@ -118,32 +118,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 26445</span>
-						<span>🔱 3194</span>
+						<span>⭐ 26482</span>
+						<span>🔱 3196</span>
 					</div>
 				<div class="stars-today">⭐ 23942 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/shiyu-coder/Kronos" target="_blank">
-    
-
-
-      
-        shiyu-coder /
-
-      Kronos</a></p>
-				<p>
-      Kronos: A Foundation Model for the Language of Financial Markets
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 23735</span>
-						<span>🔱 4151</span>
-					</div>
-				<div class="stars-today">⭐ 12092 stars this month</div>
 				</div>
 			</div>
 	
@@ -162,32 +140,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Shell</span>
-						<span>⭐ 36755</span>
-						<span>🔱 4130</span>
+						<span>⭐ 36865</span>
+						<span>🔱 4134</span>
 					</div>
 				<div class="stars-today">⭐ 25346 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/lsdefine/GenericAgent" target="_blank">
-    
-
-
-      
-        lsdefine /
-
-      GenericAgent</a></p>
-				<p>
-      Self-evolving agent: grows skill tree from 3.3K-line seed, achieving full system control with 6x less token consumption
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 10191</span>
-						<span>🔱 1163</span>
-					</div>
-				<div class="stars-today">⭐ 8855 stars this month</div>
 				</div>
 			</div>
 	
@@ -206,98 +162,54 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 14013</span>
-						<span>🔱 2075</span>
+						<span>⭐ 14036</span>
+						<span>🔱 2079</span>
 					</div>
 				<div class="stars-today">⭐ 10269 stars this month</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/OpenBMB/VoxCPM" target="_blank">
+				<p><a href="https://github.com/lsdefine/GenericAgent" target="_blank">
     
 
 
       
-        OpenBMB /
+        lsdefine /
 
-      VoxCPM</a></p>
+      GenericAgent</a></p>
 				<p>
-      VoxCPM2: Tokenizer-Free TTS for Multilingual Speech Generation, Creative Voice Design, and True-to-Life Cloning
+      Self-evolving agent: grows skill tree from 3.3K-line seed, achieving full system control with 6x less token consumption
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 17939</span>
-						<span>🔱 2126</span>
+						<span>⭐ 10217</span>
+						<span>🔱 1165</span>
 					</div>
-				<div class="stars-today">⭐ 11007 stars this month</div>
+				<div class="stars-today">⭐ 8855 stars this month</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/coleam00/Archon" target="_blank">
+				<p><a href="https://github.com/shiyu-coder/Kronos" target="_blank">
     
 
 
       
-        coleam00 /
+        shiyu-coder /
 
-      Archon</a></p>
+      Kronos</a></p>
 				<p>
-      The first open-source harness builder for AI coding. Make AI coding deterministic and repeatable.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 21108</span>
-						<span>🔱 3217</span>
-					</div>
-				<div class="stars-today">⭐ 7274 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/microsoft/markitdown" target="_blank">
-    
-
-
-      
-        microsoft /
-
-      markitdown</a></p>
-				<p>
-      Python tool for converting files and office documents to Markdown.
+      Kronos: A Foundation Model for the Language of Financial Markets
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 122106</span>
-						<span>🔱 8226</span>
+						<span>⭐ 23747</span>
+						<span>🔱 4154</span>
 					</div>
-				<div class="stars-today">⭐ 28653 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/Z4nzu/hackingtool" target="_blank">
-    
-
-
-      
-        Z4nzu /
-
-      hackingtool</a></p>
-				<p>
-      ALL IN ONE Hacking Tool For Hackers
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 73082</span>
-						<span>🔱 8259</span>
-					</div>
-				<div class="stars-today">⭐ 15265 stars this month</div>
+				<div class="stars-today">⭐ 12092 stars this month</div>
 				</div>
 			</div>
 	
@@ -316,10 +228,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 7741</span>
+						<span>⭐ 7754</span>
 						<span>🔱 504</span>
 					</div>
 				<div class="stars-today">⭐ 6940 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/Z4nzu/hackingtool" target="_blank">
+    
+
+
+      
+        Z4nzu /
+
+      hackingtool</a></p>
+				<p>
+      ALL IN ONE Hacking Tool For Hackers
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 73098</span>
+						<span>🔱 8261</span>
+					</div>
+				<div class="stars-today">⭐ 15265 stars this month</div>
 				</div>
 			</div>
 	
@@ -338,8 +272,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 73939</span>
-						<span>🔱 6345</span>
+						<span>⭐ 73977</span>
+						<span>🔱 6347</span>
 					</div>
 				<div class="stars-today">⭐ 27861 stars this month</div>
 				</div>
@@ -360,54 +294,76 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 13788</span>
-						<span>🔱 1397</span>
+						<span>⭐ 13820</span>
+						<span>🔱 1399</span>
 					</div>
 				<div class="stars-today">⭐ 9337 stars this month</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/soxoj/maigret" target="_blank">
+				<p><a href="https://github.com/Anil-matcha/Open-Generative-AI" target="_blank">
     
 
 
       
-        soxoj /
+        Anil-matcha /
 
-      maigret</a></p>
+      Open-Generative-AI</a></p>
 				<p>
-      🕵️‍♂️ Collect a dossier on a person by username from 3000+ sites
+      Unrestricted, open-source alternative to AI video platforms — Free, unrestricted AI image & video generation studio with 200+ models (Flux, Midjourney, Kling, Sora, Veo). No content filters. Self-hosted, MIT licensed.
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 26784</span>
-						<span>🔱 1882</span>
+						<span>🔠 JavaScript</span>
+						<span>⭐ 12266</span>
+						<span>🔱 2188</span>
 					</div>
-				<div class="stars-today">⭐ 7182 stars this month</div>
+				<div class="stars-today">⭐ 8791 stars this month</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/TauricResearch/TradingAgents" target="_blank">
+				<p><a href="https://github.com/OpenBMB/VoxCPM" target="_blank">
     
 
 
       
-        TauricResearch /
+        OpenBMB /
 
-      TradingAgents</a></p>
+      VoxCPM</a></p>
 				<p>
-      TradingAgents: Multi-Agents LLM Financial Trading Framework
+      VoxCPM2: Tokenizer-Free TTS for Multilingual Speech Generation, Creative Voice Design, and True-to-Life Cloning
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 72157</span>
-						<span>🔱 14009</span>
+						<span>⭐ 17959</span>
+						<span>🔱 2130</span>
 					</div>
-				<div class="stars-today">⭐ 23486 stars this month</div>
+				<div class="stars-today">⭐ 11007 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/microsoft/markitdown" target="_blank">
+    
+
+
+      
+        microsoft /
+
+      markitdown</a></p>
+				<p>
+      Python tool for converting files and office documents to Markdown.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 122117</span>
+						<span>🔱 8229</span>
+					</div>
+				<div class="stars-today">⭐ 28653 stars this month</div>
 				</div>
 			</div>
 	

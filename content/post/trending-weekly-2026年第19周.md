@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2026年第19周
-date: 2026-05-09T10:42:11Z
+date: 2026-05-09T12:42:51Z
 categories:
 - weekly
 keywords:
@@ -14,6 +14,26 @@ keywords:
 	<main class="container">
         <div class="repo-list" id="repoList">
 
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/anthropics/financial-services" target="_blank">
+    
+
+
+      
+        anthropics /
+
+      financial-services</a></p>
+				<p></p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 16674</span>
+						<span>🔱 2092</span>
+					</div>
+				<div class="stars-today">⭐ 5848 stars this week</div>
+				</div>
+			</div>
 	
 			<div class="repo-card">
 				<p><a href="https://github.com/ruvnet/ruflo" target="_blank">
@@ -30,30 +50,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 47304</span>
-						<span>🔱 5248</span>
+						<span>⭐ 47365</span>
+						<span>🔱 5250</span>
 					</div>
 				<div class="stars-today">⭐ 12226 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/anthropics/financial-services" target="_blank">
-    
-
-
-      
-        anthropics /
-
-      financial-services</a></p>
-				<p></p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 16541</span>
-						<span>🔱 2072</span>
-					</div>
-				<div class="stars-today">⭐ 5848 stars this week</div>
 				</div>
 			</div>
 	
@@ -72,10 +72,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 72157</span>
-						<span>🔱 14009</span>
+						<span>⭐ 72228</span>
+						<span>🔱 14023</span>
 					</div>
 				<div class="stars-today">⭐ 12981 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/docusealco/docuseal" target="_blank">
+    
+
+
+      
+        docusealco /
+
+      docuseal</a></p>
+				<p>
+      Open source DocuSign alternative. Create, fill, and sign digital documents ✍️
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Ruby</span>
+						<span>⭐ 15993</span>
+						<span>🔱 1445</span>
+					</div>
+				<div class="stars-today">⭐ 4069 stars this week</div>
 				</div>
 			</div>
 	
@@ -94,8 +116,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 24958</span>
-						<span>🔱 3037</span>
+						<span>⭐ 24977</span>
+						<span>🔱 3038</span>
 					</div>
 				<div class="stars-today">⭐ 3278 stars this week</div>
 				</div>
@@ -116,54 +138,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 26784</span>
-						<span>🔱 1882</span>
+						<span>⭐ 26858</span>
+						<span>🔱 1883</span>
 					</div>
 				<div class="stars-today">⭐ 5398 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/browserbase/skills" target="_blank">
-    
-
-
-      
-        browserbase /
-
-      skills</a></p>
-				<p>
-      Claude Agent SDK with a web browsing tool
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 JavaScript</span>
-						<span>⭐ 2857</span>
-						<span>🔱 184</span>
-					</div>
-				<div class="stars-today">⭐ 1621 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/docusealco/docuseal" target="_blank">
-    
-
-
-      
-        docusealco /
-
-      docuseal</a></p>
-				<p>
-      Open source DocuSign alternative. Create, fill, and sign digital documents ✍️
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Ruby</span>
-						<span>⭐ 15977</span>
-						<span>🔱 1442</span>
-					</div>
-				<div class="stars-today">⭐ 4069 stars this week</div>
 				</div>
 			</div>
 	
@@ -182,54 +160,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Rust</span>
-						<span>⭐ 5215</span>
-						<span>🔱 519</span>
+						<span>⭐ 5237</span>
+						<span>🔱 522</span>
 					</div>
 				<div class="stars-today">⭐ 2925 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/mattpocock/skills" target="_blank">
-    
-
-
-      
-        mattpocock /
-
-      skills</a></p>
-				<p>
-      Skills for Real Engineers. Straight from my .claude directory.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Shell</span>
-						<span>⭐ 67380</span>
-						<span>🔱 5800</span>
-					</div>
-				<div class="stars-today">⭐ 14928 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/AIDC-AI/Pixelle-Video" target="_blank">
-    
-
-
-      
-        AIDC-AI /
-
-      Pixelle-Video</a></p>
-				<p>
-      🚀 AI 全自动短视频引擎 | AI Fully Automated Short Video Engine
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 14013</span>
-						<span>🔱 2075</span>
-					</div>
-				<div class="stars-today">⭐ 5136 stars this week</div>
 				</div>
 			</div>
 	
@@ -248,76 +182,76 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 9229</span>
-						<span>🔱 690</span>
+						<span>⭐ 9245</span>
+						<span>🔱 691</span>
 					</div>
 				<div class="stars-today">⭐ 1909 stars this week</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/warpdotdev/warp" target="_blank">
+				<p><a href="https://github.com/AIDC-AI/Pixelle-Video" target="_blank">
     
 
 
       
-        warpdotdev /
+        AIDC-AI /
 
-      warp</a></p>
+      Pixelle-Video</a></p>
 				<p>
-      Warp is an agentic development environment, born out of the terminal.
+      🚀 AI 全自动短视频引擎 | AI Fully Automated Short Video Engine
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Rust</span>
-						<span>⭐ 57000</span>
-						<span>🔱 4271</span>
+						<span>🔠 Python</span>
+						<span>⭐ 14036</span>
+						<span>🔱 2079</span>
 					</div>
-				<div class="stars-today">⭐ 6136 stars this week</div>
+				<div class="stars-today">⭐ 5136 stars this week</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/openai/symphony" target="_blank">
+				<p><a href="https://github.com/mattpocock/skills" target="_blank">
     
 
 
       
-        openai /
+        mattpocock /
 
-      symphony</a></p>
+      skills</a></p>
 				<p>
-      Symphony turns project work into isolated, autonomous implementation runs, allowing teams to manage work instead of supervising coding agents.
+      Skills for Real Engineers. Straight from my .claude directory.
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Elixir</span>
-						<span>⭐ 22790</span>
-						<span>🔱 2130</span>
+						<span>🔠 Shell</span>
+						<span>⭐ 67480</span>
+						<span>🔱 5806</span>
 					</div>
-				<div class="stars-today">⭐ 2335 stars this week</div>
+				<div class="stars-today">⭐ 14928 stars this week</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/fspecii/ace-step-ui" target="_blank">
+				<p><a href="https://github.com/browserbase/skills" target="_blank">
     
 
 
       
-        fspecii /
+        browserbase /
 
-      ace-step-ui</a></p>
+      skills</a></p>
 				<p>
-      🎵 The Ultimate Open Source Suno Alternative - Professional UI for ACE-Step 1.5 AI Music Generation. Free, local, unlimited. Stop paying for Suno!
+      Claude Agent SDK with a web browsing tool
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 JavaScript</span>
-						<span>⭐ 3443</span>
-						<span>🔱 487</span>
+						<span>⭐ 2879</span>
+						<span>🔱 188</span>
 					</div>
-				<div class="stars-today">⭐ 1122 stars this week</div>
+				<div class="stars-today">⭐ 1621 stars this week</div>
 				</div>
 			</div>
 	
@@ -336,10 +270,98 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 JavaScript</span>
-						<span>⭐ 6075</span>
-						<span>🔱 1112</span>
+						<span>⭐ 6135</span>
+						<span>🔱 1121</span>
 					</div>
 				<div class="stars-today">⭐ 1781 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/openai/symphony" target="_blank">
+    
+
+
+      
+        openai /
+
+      symphony</a></p>
+				<p>
+      Symphony turns project work into isolated, autonomous implementation runs, allowing teams to manage work instead of supervising coding agents.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Elixir</span>
+						<span>⭐ 22816</span>
+						<span>🔱 2134</span>
+					</div>
+				<div class="stars-today">⭐ 2335 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/InsForge/InsForge" target="_blank">
+    
+
+
+      
+        InsForge /
+
+      InsForge</a></p>
+				<p>
+      The all-in-one, open-source backend platform for agentic coding. InsForge gives your coding agent database, auth, storage, compute, hosting, and AI gateway to ship full-stack apps end-to-end.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 9169</span>
+						<span>🔱 753</span>
+					</div>
+				<div class="stars-today">⭐ 1201 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/fspecii/ace-step-ui" target="_blank">
+    
+
+
+      
+        fspecii /
+
+      ace-step-ui</a></p>
+				<p>
+      🎵 The Ultimate Open Source Suno Alternative - Professional UI for ACE-Step 1.5 AI Music Generation. Free, local, unlimited. Stop paying for Suno!
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 JavaScript</span>
+						<span>⭐ 3455</span>
+						<span>🔱 490</span>
+					</div>
+				<div class="stars-today">⭐ 1122 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/Q00/ouroboros" target="_blank">
+    
+
+
+      
+        Q00 /
+
+      ouroboros</a></p>
+				<p>
+      Agent OS: Stop prompting. Start specifying.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 3773</span>
+						<span>🔱 365</span>
+					</div>
+				<div class="stars-today">⭐ 867 stars this week</div>
 				</div>
 			</div>
 	
