@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2026-05-10
-date: 2026-05-10T16:37:22Z
+date: 2026-05-10T18:40:30Z
 categories:
 - daily
 keywords:
@@ -30,8 +30,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 31927</span>
-						<span>🔱 3167</span>
+						<span>⭐ 31964</span>
+						<span>🔱 3175</span>
 					</div>
 				<div class="stars-today">⭐ 656 stars today</div>
 				</div>
@@ -50,8 +50,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 18415</span>
-						<span>🔱 2366</span>
+						<span>⭐ 18535</span>
+						<span>🔱 2392</span>
 					</div>
 				<div class="stars-today">⭐ 1479 stars today</div>
 				</div>
@@ -72,8 +72,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Shell</span>
-						<span>⭐ 38121</span>
-						<span>🔱 4239</span>
+						<span>⭐ 38195</span>
+						<span>🔱 4243</span>
 					</div>
 				<div class="stars-today">⭐ 1092 stars today</div>
 				</div>
@@ -94,8 +94,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 4385</span>
-						<span>🔱 353</span>
+						<span>⭐ 4480</span>
+						<span>🔱 354</span>
 					</div>
 				<div class="stars-today">⭐ 567 stars today</div>
 				</div>
@@ -116,8 +116,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 15342</span>
-						<span>🔱 2510</span>
+						<span>⭐ 15399</span>
+						<span>🔱 2515</span>
 					</div>
 				<div class="stars-today">⭐ 255 stars today</div>
 				</div>
@@ -138,8 +138,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 13158</span>
-						<span>🔱 1126</span>
+						<span>⭐ 13189</span>
+						<span>🔱 1129</span>
 					</div>
 				<div class="stars-today">⭐ 187 stars today</div>
 				</div>
@@ -155,13 +155,13 @@ keywords:
 
       easy-vibe</a></p>
 				<p>
-      💻 vibe coding 2026 | Your first modern programming course for beginners to master step by step.
+      💻 vibe coding 2026 | Your first modern Coding course for beginners to master step by step.
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 JavaScript</span>
-						<span>⭐ 8970</span>
-						<span>🔱 889</span>
+						<span>⭐ 9013</span>
+						<span>🔱 891</span>
 					</div>
 				<div class="stars-today">⭐ 642 stars today</div>
 				</div>
@@ -182,32 +182,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 6653</span>
-						<span>🔱 755</span>
+						<span>⭐ 6696</span>
+						<span>🔱 759</span>
 					</div>
 				<div class="stars-today">⭐ 604 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/masterking32/MasterDnsVPN" target="_blank">
-    
-
-
-      
-        masterking32 /
-
-      MasterDnsVPN</a></p>
-				<p>
-      Advanced DNS tunneling VPN for censorship bypass, optimized beyond DNSTT and SlipStream with low-overhead ARQ, resolver load balancing, high packet-loss stability and speed.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Go</span>
-						<span>⭐ 2903</span>
-						<span>🔱 308</span>
-					</div>
-				<div class="stars-today">⭐ 694 stars today</div>
 				</div>
 			</div>
 	
@@ -226,8 +204,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 10430</span>
-						<span>🔱 1187</span>
+						<span>⭐ 10457</span>
+						<span>🔱 1189</span>
 					</div>
 				<div class="stars-today">⭐ 170 stars today</div>
 				</div>
@@ -248,8 +226,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 JavaScript</span>
-						<span>⭐ 7073</span>
-						<span>🔱 1225</span>
+						<span>⭐ 7136</span>
+						<span>🔱 1230</span>
 					</div>
 				<div class="stars-today">⭐ 806 stars today</div>
 				</div>
@@ -270,8 +248,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 JavaScript</span>
-						<span>⭐ 177690</span>
-						<span>🔱 27457</span>
+						<span>⭐ 177839</span>
+						<span>🔱 27473</span>
 					</div>
 				<div class="stars-today">⭐ 1011 stars today</div>
 				</div>
@@ -292,8 +270,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 46320</span>
-						<span>🔱 5584</span>
+						<span>⭐ 46366</span>
+						<span>🔱 5589</span>
 					</div>
 				<div class="stars-today">⭐ 756 stars today</div>
 				</div>
