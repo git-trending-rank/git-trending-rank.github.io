@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2026-05-10
-date: 2026-05-10T10:49:10Z
+date: 2026-05-10T12:43:26Z
 categories:
 - daily
 keywords:
@@ -14,26 +14,6 @@ keywords:
 	<main class="container">
         <div class="repo-list" id="repoList">
 
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/anthropics/financial-services" target="_blank">
-    
-
-
-      
-        anthropics /
-
-      financial-services</a></p>
-				<p></p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 18006</span>
-						<span>🔱 2314</span>
-					</div>
-				<div class="stars-today">⭐ 1479 stars today</div>
-				</div>
-			</div>
 	
 			<div class="repo-card">
 				<p><a href="https://github.com/bytedance/UI-TARS-desktop" target="_blank">
@@ -50,186 +30,30 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 31693</span>
-						<span>🔱 3153</span>
+						<span>⭐ 31758</span>
+						<span>🔱 3159</span>
 					</div>
 				<div class="stars-today">⭐ 656 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/rohitg00/agentmemory" target="_blank">
+				<p><a href="https://github.com/anthropics/financial-services" target="_blank">
     
 
 
       
-        rohitg00 /
+        anthropics /
 
-      agentmemory</a></p>
-				<p>
-      #1 Persistent memory for AI coding agents based on real-world benchmarks
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 3767</span>
-						<span>🔱 367</span>
-					</div>
-				<div class="stars-today">⭐ 754 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/datawhalechina/hello-agents" target="_blank">
-    
-
-
-      
-        datawhalechina /
-
-      hello-agents</a></p>
-				<p>
-      📚 《从零开始构建智能体》——从零开始的智能体原理与实践教程
-    </p>
+      financial-services</a></p>
+				<p></p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 46065</span>
-						<span>🔱 5559</span>
+						<span>⭐ 18104</span>
+						<span>🔱 2326</span>
 					</div>
-				<div class="stars-today">⭐ 756 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/datawhalechina/easy-vibe" target="_blank">
-    
-
-
-      
-        datawhalechina /
-
-      easy-vibe</a></p>
-				<p>
-      💻 vibe coding 2026 | Your first modern programming course for beginners to master step by step.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 JavaScript</span>
-						<span>⭐ 8800</span>
-						<span>🔱 872</span>
-					</div>
-				<div class="stars-today">⭐ 642 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/rowboatlabs/rowboat" target="_blank">
-    
-
-
-      
-        rowboatlabs /
-
-      rowboat</a></p>
-				<p>
-      Open-source AI coworker, with memory
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 13946</span>
-						<span>🔱 1383</span>
-					</div>
-				<div class="stars-today">⭐ 433 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/ChromeDevTools/chrome-devtools-mcp" target="_blank">
-    
-
-
-      
-        ChromeDevTools /
-
-      chrome-devtools-mcp</a></p>
-				<p>
-      Chrome DevTools for coding agents
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 39011</span>
-						<span>🔱 2465</span>
-					</div>
-				<div class="stars-today">⭐ 431 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/masterking32/MasterDnsVPN" target="_blank">
-    
-
-
-      
-        masterking32 /
-
-      MasterDnsVPN</a></p>
-				<p>
-      Advanced DNS tunneling VPN for censorship bypass, optimized beyond DNSTT and SlipStream with low-overhead ARQ, resolver load balancing, high packet-loss stability and speed.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Go</span>
-						<span>⭐ 2754</span>
-						<span>🔱 298</span>
-					</div>
-				<div class="stars-today">⭐ 694 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/playcanvas/supersplat" target="_blank">
-    
-
-
-      
-        playcanvas /
-
-      supersplat</a></p>
-				<p>
-      3D Gaussian Splat Editor
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 6523</span>
-						<span>🔱 747</span>
-					</div>
-				<div class="stars-today">⭐ 604 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/Lordog/dive-into-llms" target="_blank">
-    
-
-
-      
-        Lordog /
-
-      dive-into-llms</a></p>
-				<p>
-      《动手学大模型Dive into LLMs》系列编程实践教程
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Jupyter Notebook</span>
-						<span>⭐ 36702</span>
-						<span>🔱 4506</span>
-					</div>
-				<div class="stars-today">⭐ 349 stars today</div>
+				<div class="stars-today">⭐ 1479 stars today</div>
 				</div>
 			</div>
 	
@@ -248,10 +72,164 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Shell</span>
-						<span>⭐ 37835</span>
-						<span>🔱 4213</span>
+						<span>⭐ 37914</span>
+						<span>🔱 4221</span>
 					</div>
 				<div class="stars-today">⭐ 1092 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/CloakHQ/CloakBrowser" target="_blank">
+    
+
+
+      
+        CloakHQ /
+
+      CloakBrowser</a></p>
+				<p>
+      Stealth Chromium that passes every bot detection test. Drop-in Playwright replacement with source-level fingerprint patches. 30/30 tests passed.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 4194</span>
+						<span>🔱 339</span>
+					</div>
+				<div class="stars-today">⭐ 1167 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/HKUDS/AI-Trader" target="_blank">
+    
+
+
+      
+        HKUDS /
+
+      AI-Trader</a></p>
+				<p>
+      "AI-Trader: 100% Fully-Automated Agent-Native Trading" 
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 15194</span>
+						<span>🔱 2502</span>
+					</div>
+				<div class="stars-today">⭐ 646 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/jundot/omlx" target="_blank">
+    
+
+
+      
+        jundot /
+
+      omlx</a></p>
+				<p>
+      LLM inference server with continuous batching & SSD caching for Apple Silicon — managed from the macOS menu bar
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 13095</span>
+						<span>🔱 1123</span>
+					</div>
+				<div class="stars-today">⭐ 187 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/datawhalechina/easy-vibe" target="_blank">
+    
+
+
+      
+        datawhalechina /
+
+      easy-vibe</a></p>
+				<p>
+      💻 vibe coding 2026 | Your first modern programming course for beginners to master step by step.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 JavaScript</span>
+						<span>⭐ 8842</span>
+						<span>🔱 875</span>
+					</div>
+				<div class="stars-today">⭐ 642 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/playcanvas/supersplat" target="_blank">
+    
+
+
+      
+        playcanvas /
+
+      supersplat</a></p>
+				<p>
+      3D Gaussian Splat Editor
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 6558</span>
+						<span>🔱 753</span>
+					</div>
+				<div class="stars-today">⭐ 604 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/masterking32/MasterDnsVPN" target="_blank">
+    
+
+
+      
+        masterking32 /
+
+      MasterDnsVPN</a></p>
+				<p>
+      Advanced DNS tunneling VPN for censorship bypass, optimized beyond DNSTT and SlipStream with low-overhead ARQ, resolver load balancing, high packet-loss stability and speed.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Go</span>
+						<span>⭐ 2805</span>
+						<span>🔱 304</span>
+					</div>
+				<div class="stars-today">⭐ 694 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/lsdefine/GenericAgent" target="_blank">
+    
+
+
+      
+        lsdefine /
+
+      GenericAgent</a></p>
+				<p>
+      Self-evolving agent: grows skill tree from 3.3K-line seed, achieving full system control with 6x less token consumption
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 10381</span>
+						<span>🔱 1180</span>
+					</div>
+				<div class="stars-today">⭐ 538 stars today</div>
 				</div>
 			</div>
 	
@@ -270,32 +248,54 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 JavaScript</span>
-						<span>⭐ 6868</span>
-						<span>🔱 1203</span>
+						<span>⭐ 6921</span>
+						<span>🔱 1207</span>
 					</div>
 				<div class="stars-today">⭐ 806 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/oracle-devrel/oracle-ai-developer-hub" target="_blank">
+				<p><a href="https://github.com/affaan-m/everything-claude-code" target="_blank">
     
 
 
       
-        oracle-devrel /
+        affaan-m /
 
-      oracle-ai-developer-hub</a></p>
+      everything-claude-code</a></p>
 				<p>
-      Technical resources for AI developers to build applications, agents, and systems using Oracle AI Database and OCI services
+      The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Jupyter Notebook</span>
-						<span>⭐ 936</span>
-						<span>🔱 242</span>
+						<span>🔠 JavaScript</span>
+						<span>⭐ 177353</span>
+						<span>🔱 27421</span>
 					</div>
-				<div class="stars-today">⭐ 307 stars today</div>
+				<div class="stars-today">⭐ 1011 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/datawhalechina/hello-agents" target="_blank">
+    
+
+
+      
+        datawhalechina /
+
+      hello-agents</a></p>
+				<p>
+      📚 《从零开始构建智能体》——从零开始的智能体原理与实践教程
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 46129</span>
+						<span>🔱 5565</span>
+					</div>
+				<div class="stars-today">⭐ 756 stars today</div>
 				</div>
 			</div>
 	

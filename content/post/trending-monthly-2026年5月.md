@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2026年5月
-date: 2026-05-10T10:49:10Z
+date: 2026-05-10T12:43:26Z
 categories:
 - monthly
 keywords:
@@ -30,8 +30,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 </span>
-						<span>⭐ 122906</span>
-						<span>🔱 12456</span>
+						<span>⭐ 122993</span>
+						<span>🔱 12471</span>
 					</div>
 				<div class="stars-today">⭐ 112447 stars this month</div>
 				</div>
@@ -52,32 +52,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Shell</span>
-						<span>⭐ 68488</span>
-						<span>🔱 5915</span>
+						<span>⭐ 68582</span>
+						<span>🔱 5916</span>
 					</div>
 				<div class="stars-today">⭐ 54450 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/NousResearch/hermes-agent" target="_blank">
-    
-
-
-      
-        NousResearch /
-
-      hermes-agent</a></p>
-				<p>
-      The agent that grows with you
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 141631</span>
-						<span>🔱 22025</span>
-					</div>
-				<div class="stars-today">⭐ 99643 stars this month</div>
 				</div>
 			</div>
 	
@@ -96,76 +74,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 23368</span>
-						<span>🔱 3415</span>
+						<span>⭐ 23389</span>
+						<span>🔱 3418</span>
 					</div>
 				<div class="stars-today">⭐ 21435 stars this month</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/multica-ai/multica" target="_blank">
+				<p><a href="https://github.com/NousResearch/hermes-agent" target="_blank">
     
 
 
       
-        multica-ai /
+        NousResearch /
 
-      multica</a></p>
+      hermes-agent</a></p>
 				<p>
-      The open-source managed agents platform. Turn coding agents into real teammates — assign tasks, track progress, compound skills.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 26740</span>
-						<span>🔱 3223</span>
-					</div>
-				<div class="stars-today">⭐ 22977 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/addyosmani/agent-skills" target="_blank">
-    
-
-
-      
-        addyosmani /
-
-      agent-skills</a></p>
-				<p>
-      Production-grade engineering skills for AI coding agents.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Shell</span>
-						<span>⭐ 37835</span>
-						<span>🔱 4213</span>
-					</div>
-				<div class="stars-today">⭐ 27168 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/AIDC-AI/Pixelle-Video" target="_blank">
-    
-
-
-      
-        AIDC-AI /
-
-      Pixelle-Video</a></p>
-				<p>
-      🚀 AI 全自动短视频引擎 | AI Fully Automated Short Video Engine
+      The agent that grows with you
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 14349</span>
-						<span>🔱 2109</span>
+						<span>⭐ 141767</span>
+						<span>🔱 22056</span>
 					</div>
-				<div class="stars-today">⭐ 10641 stars this month</div>
+				<div class="stars-today">⭐ 99643 stars this month</div>
 				</div>
 			</div>
 	
@@ -184,54 +118,76 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 10365</span>
-						<span>🔱 1176</span>
+						<span>⭐ 10381</span>
+						<span>🔱 1180</span>
 					</div>
 				<div class="stars-today">⭐ 9381 stars this month</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/shiyu-coder/Kronos" target="_blank">
+				<p><a href="https://github.com/multica-ai/multica" target="_blank">
     
 
 
       
-        shiyu-coder /
+        multica-ai /
 
-      Kronos</a></p>
+      multica</a></p>
 				<p>
-      Kronos: A Foundation Model for the Language of Financial Markets
+      The open-source managed agents platform. Turn coding agents into real teammates — assign tasks, track progress, compound skills.
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 23826</span>
-						<span>🔱 4162</span>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 26762</span>
+						<span>🔱 3223</span>
 					</div>
-				<div class="stars-today">⭐ 12001 stars this month</div>
+				<div class="stars-today">⭐ 22977 stars this month</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/ComposioHQ/awesome-codex-skills" target="_blank">
+				<p><a href="https://github.com/AIDC-AI/Pixelle-Video" target="_blank">
     
 
 
       
-        ComposioHQ /
+        AIDC-AI /
 
-      awesome-codex-skills</a></p>
+      Pixelle-Video</a></p>
 				<p>
-      A curated list of practical Codex skills for automating workflows across the Codex CLI and API.
+      🚀 AI 全自动短视频引擎 | AI Fully Automated Short Video Engine
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 7872</span>
-						<span>🔱 514</span>
+						<span>⭐ 14384</span>
+						<span>🔱 2109</span>
 					</div>
-				<div class="stars-today">⭐ 7096 stars this month</div>
+				<div class="stars-today">⭐ 10641 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/addyosmani/agent-skills" target="_blank">
+    
+
+
+      
+        addyosmani /
+
+      agent-skills</a></p>
+				<p>
+      Production-grade engineering skills for AI coding agents.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Shell</span>
+						<span>⭐ 37914</span>
+						<span>🔱 4221</span>
+					</div>
+				<div class="stars-today">⭐ 27168 stars this month</div>
 				</div>
 			</div>
 	
@@ -250,10 +206,54 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 73316</span>
-						<span>🔱 8277</span>
+						<span>⭐ 73328</span>
+						<span>🔱 8278</span>
 					</div>
 				<div class="stars-today">⭐ 15445 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/ComposioHQ/awesome-codex-skills" target="_blank">
+    
+
+
+      
+        ComposioHQ /
+
+      awesome-codex-skills</a></p>
+				<p>
+      A curated list of practical Codex skills for automating workflows across the Codex CLI and API.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 7885</span>
+						<span>🔱 514</span>
+					</div>
+				<div class="stars-today">⭐ 7096 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/shiyu-coder/Kronos" target="_blank">
+    
+
+
+      
+        shiyu-coder /
+
+      Kronos</a></p>
+				<p>
+      Kronos: A Foundation Model for the Language of Financial Markets
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 23835</span>
+						<span>🔱 4163</span>
+					</div>
+				<div class="stars-today">⭐ 12001 stars this month</div>
 				</div>
 			</div>
 	
@@ -272,8 +272,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 74273</span>
-						<span>🔱 6370</span>
+						<span>⭐ 74306</span>
+						<span>🔱 6371</span>
 					</div>
 				<div class="stars-today">⭐ 27964 stars this month</div>
 				</div>
@@ -294,7 +294,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 JavaScript</span>
-						<span>⭐ 12520</span>
+						<span>⭐ 12538</span>
 						<span>🔱 2236</span>
 					</div>
 				<div class="stars-today">⭐ 8586 stars this month</div>
@@ -302,46 +302,46 @@ keywords:
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/OpenBMB/VoxCPM" target="_blank">
+				<p><a href="https://github.com/soxoj/maigret" target="_blank">
     
 
 
       
-        OpenBMB /
+        soxoj /
 
-      VoxCPM</a></p>
+      maigret</a></p>
 				<p>
-      VoxCPM2: Tokenizer-Free TTS for Multilingual Speech Generation, Creative Voice Design, and True-to-Life Cloning
+      🕵️‍♂️ Collect a dossier on a person by username from 3000+ sites
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 18103</span>
-						<span>🔱 2143</span>
+						<span>⭐ 27225</span>
+						<span>🔱 1914</span>
 					</div>
-				<div class="stars-today">⭐ 10790 stars this month</div>
+				<div class="stars-today">⭐ 7649 stars this month</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/microsoft/markitdown" target="_blank">
+				<p><a href="https://github.com/TauricResearch/TradingAgents" target="_blank">
     
 
 
       
-        microsoft /
+        TauricResearch /
 
-      markitdown</a></p>
+      TradingAgents</a></p>
 				<p>
-      Python tool for converting files and office documents to Markdown.
+      TradingAgents: Multi-Agents LLM Financial Trading Framework
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 122349</span>
-						<span>🔱 8239</span>
+						<span>⭐ 72820</span>
+						<span>🔱 14167</span>
 					</div>
-				<div class="stars-today">⭐ 26970 stars this month</div>
+				<div class="stars-today">⭐ 23874 stars this month</div>
 				</div>
 			</div>
 	
