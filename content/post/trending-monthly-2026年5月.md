@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2026年5月
-date: 2026-05-11T08:49:36Z
+date: 2026-05-11T12:32:01Z
 categories:
 - monthly
 keywords:
@@ -30,8 +30,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 </span>
-						<span>⭐ 124353</span>
-						<span>🔱 12633</span>
+						<span>⭐ 124665</span>
+						<span>🔱 12672</span>
 					</div>
 				<div class="stars-today">⭐ 112371 stars this month</div>
 				</div>
@@ -52,8 +52,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Shell</span>
-						<span>⭐ 70121</span>
-						<span>🔱 6057</span>
+						<span>⭐ 70741</span>
+						<span>🔱 6106</span>
 					</div>
 				<div class="stars-today">⭐ 55276 stars this month</div>
 				</div>
@@ -74,8 +74,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 23644</span>
-						<span>🔱 3467</span>
+						<span>⭐ 23689</span>
+						<span>🔱 3486</span>
 					</div>
 				<div class="stars-today">⭐ 21766 stars this month</div>
 				</div>
@@ -96,8 +96,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 143369</span>
-						<span>🔱 22377</span>
+						<span>⭐ 143760</span>
+						<span>🔱 22439</span>
 					</div>
 				<div class="stars-today">⭐ 92870 stars this month</div>
 				</div>
@@ -118,32 +118,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 10732</span>
-						<span>🔱 1206</span>
+						<span>⭐ 10836</span>
+						<span>🔱 1225</span>
 					</div>
 				<div class="stars-today">⭐ 9574 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/multica-ai/multica" target="_blank">
-    
-
-
-      
-        multica-ai /
-
-      multica</a></p>
-				<p>
-      The open-source managed agents platform. Turn coding agents into real teammates — assign tasks, track progress, compound skills.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 27104</span>
-						<span>🔱 3254</span>
-					</div>
-				<div class="stars-today">⭐ 21605 stars this month</div>
 				</div>
 			</div>
 	
@@ -162,8 +140,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 14909</span>
-						<span>🔱 2168</span>
+						<span>⭐ 15007</span>
+						<span>🔱 2182</span>
 					</div>
 				<div class="stars-today">⭐ 11017 stars this month</div>
 				</div>
@@ -184,32 +162,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Shell</span>
-						<span>⭐ 39012</span>
-						<span>🔱 4309</span>
+						<span>⭐ 39167</span>
+						<span>🔱 4328</span>
 					</div>
 				<div class="stars-today">⭐ 26792 stars this month</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/Z4nzu/hackingtool" target="_blank">
+				<p><a href="https://github.com/multica-ai/multica" target="_blank">
     
 
 
       
-        Z4nzu /
+        multica-ai /
 
-      hackingtool</a></p>
+      multica</a></p>
 				<p>
-      ALL IN ONE Hacking Tool For Hackers
+      The open-source managed agents platform. Turn coding agents into real teammates — assign tasks, track progress, compound skills.
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 73528</span>
-						<span>🔱 8300</span>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 27169</span>
+						<span>🔱 3267</span>
 					</div>
-				<div class="stars-today">⭐ 15661 stars this month</div>
+				<div class="stars-today">⭐ 21605 stars this month</div>
 				</div>
 			</div>
 	
@@ -228,98 +206,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 8050</span>
-						<span>🔱 527</span>
+						<span>⭐ 8074</span>
+						<span>🔱 530</span>
 					</div>
 				<div class="stars-today">⭐ 7228 stars this month</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/shiyu-coder/Kronos" target="_blank">
+				<p><a href="https://github.com/Z4nzu/hackingtool" target="_blank">
     
 
 
       
-        shiyu-coder /
+        Z4nzu /
 
-      Kronos</a></p>
+      hackingtool</a></p>
 				<p>
-      Kronos: A Foundation Model for the Language of Financial Markets
+      ALL IN ONE Hacking Tool For Hackers
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 23911</span>
-						<span>🔱 4180</span>
+						<span>⭐ 73570</span>
+						<span>🔱 8306</span>
 					</div>
-				<div class="stars-today">⭐ 11475 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/thedotmack/claude-mem" target="_blank">
-    
-
-
-      
-        thedotmack /
-
-      claude-mem</a></p>
-				<p>
-      Persistent Context Across Sessions for Every Agent – Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 74637</span>
-						<span>🔱 6402</span>
-					</div>
-				<div class="stars-today">⭐ 27652 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/hugohe3/ppt-master" target="_blank">
-    
-
-
-      
-        hugohe3 /
-
-      ppt-master</a></p>
-				<p>
-      AI generates natively editable PPTX from any document — real PowerPoint shapes with native animations, not images · by Hugo He
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 14484</span>
-						<span>🔱 1458</span>
-					</div>
-				<div class="stars-today">⭐ 10059 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/Anil-matcha/Open-Generative-AI" target="_blank">
-    
-
-
-      
-        Anil-matcha /
-
-      Open-Generative-AI</a></p>
-				<p>
-      Unrestricted, open-source alternative to AI video platforms — Free, unrestricted AI image & video generation studio with 200+ models (Flux, Midjourney, Kling, Sora, Veo). No content filters. Self-hosted, MIT licensed.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 JavaScript</span>
-						<span>⭐ 12735</span>
-						<span>🔱 2261</span>
-					</div>
-				<div class="stars-today">⭐ 8591 stars this month</div>
+				<div class="stars-today">⭐ 15661 stars this month</div>
 				</div>
 			</div>
 	
@@ -338,8 +250,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 27598</span>
-						<span>🔱 1952</span>
+						<span>⭐ 27687</span>
+						<span>🔱 1967</span>
 					</div>
 				<div class="stars-today">⭐ 7958 stars this month</div>
 				</div>
@@ -360,10 +272,98 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 73436</span>
-						<span>🔱 14309</span>
+						<span>⭐ 73548</span>
+						<span>🔱 14335</span>
 					</div>
 				<div class="stars-today">⭐ 24174 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/thedotmack/claude-mem" target="_blank">
+    
+
+
+      
+        thedotmack /
+
+      claude-mem</a></p>
+				<p>
+      Persistent Context Across Sessions for Every Agent – Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 74706</span>
+						<span>🔱 6409</span>
+					</div>
+				<div class="stars-today">⭐ 27652 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/Anil-matcha/Open-Generative-AI" target="_blank">
+    
+
+
+      
+        Anil-matcha /
+
+      Open-Generative-AI</a></p>
+				<p>
+      Unrestricted, open-source alternative to AI video platforms — Free, unrestricted AI image & video generation studio with 200+ models (Flux, Midjourney, Kling, Sora, Veo). No content filters. Self-hosted, MIT licensed.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 JavaScript</span>
+						<span>⭐ 12758</span>
+						<span>🔱 2264</span>
+					</div>
+				<div class="stars-today">⭐ 8591 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/hugohe3/ppt-master" target="_blank">
+    
+
+
+      
+        hugohe3 /
+
+      ppt-master</a></p>
+				<p>
+      AI generates natively editable PPTX from any document — real PowerPoint shapes with native animations, not images · by Hugo He
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 14608</span>
+						<span>🔱 1465</span>
+					</div>
+				<div class="stars-today">⭐ 10059 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/z-lab/dflash" target="_blank">
+    
+
+
+      
+        z-lab /
+
+      dflash</a></p>
+				<p>
+      DFlash: Block Diffusion for Flash Speculative Decoding
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 4338</span>
+						<span>🔱 303</span>
+					</div>
+				<div class="stars-today">⭐ 3219 stars this month</div>
 				</div>
 			</div>
 	

@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2026-05-11
-date: 2026-05-11T08:49:36Z
+date: 2026-05-11T12:32:01Z
 categories:
 - daily
 keywords:
@@ -30,52 +30,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 32558</span>
-						<span>🔱 3221</span>
+						<span>⭐ 32691</span>
+						<span>🔱 3237</span>
 					</div>
-				<div class="stars-today">⭐ 669 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/anthropics/financial-services" target="_blank">
-    
-
-
-      
-        anthropics /
-
-      financial-services</a></p>
-				<p></p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 19570</span>
-						<span>🔱 2538</span>
-					</div>
-				<div class="stars-today">⭐ 1449 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/addyosmani/agent-skills" target="_blank">
-    
-
-
-      
-        addyosmani /
-
-      agent-skills</a></p>
-				<p>
-      Production-grade engineering skills for AI coding agents.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Shell</span>
-						<span>⭐ 39012</span>
-						<span>🔱 4309</span>
-					</div>
-				<div class="stars-today">⭐ 1065 stars today</div>
+				<div class="stars-today">⭐ 956 stars today</div>
 				</div>
 			</div>
 	
@@ -94,76 +52,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 5254</span>
-						<span>🔱 395</span>
+						<span>⭐ 5497</span>
+						<span>🔱 420</span>
 					</div>
-				<div class="stars-today">⭐ 496 stars today</div>
+				<div class="stars-today">⭐ 1325 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/HKUDS/AI-Trader" target="_blank">
+				<p><a href="https://github.com/yikart/AiToEarn" target="_blank">
     
 
 
       
-        HKUDS /
+        yikart /
 
-      AI-Trader</a></p>
+      AiToEarn</a></p>
 				<p>
-      "AI-Trader: 100% Fully-Automated Agent-Native Trading" 
+      Let's use AI to Earn!
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 15925</span>
-						<span>🔱 2554</span>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 10260</span>
+						<span>🔱 1961</span>
 					</div>
-				<div class="stars-today">⭐ 163 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/jundot/omlx" target="_blank">
-    
-
-
-      
-        jundot /
-
-      omlx</a></p>
-				<p>
-      LLM inference server with continuous batching & SSD caching for Apple Silicon — managed from the macOS menu bar
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 13477</span>
-						<span>🔱 1146</span>
-					</div>
-				<div class="stars-today">⭐ 185 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/datawhalechina/easy-vibe" target="_blank">
-    
-
-
-      
-        datawhalechina /
-
-      easy-vibe</a></p>
-				<p>
-      💻 vibe coding 2026 | Your first modern Coding course for beginners to master step by step.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 JavaScript</span>
-						<span>⭐ 9502</span>
-						<span>🔱 916</span>
-					</div>
-				<div class="stars-today">⭐ 635 stars today</div>
+				<div class="stars-today">⭐ 397 stars today</div>
 				</div>
 			</div>
 	
@@ -182,32 +96,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 7012</span>
-						<span>🔱 778</span>
+						<span>⭐ 7073</span>
+						<span>🔱 783</span>
 					</div>
-				<div class="stars-today">⭐ 579 stars today</div>
+				<div class="stars-today">⭐ 533 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/lsdefine/GenericAgent" target="_blank">
+				<p><a href="https://github.com/datawhalechina/easy-vibe" target="_blank">
     
 
 
       
-        lsdefine /
+        datawhalechina /
 
-      GenericAgent</a></p>
+      easy-vibe</a></p>
 				<p>
-      Self-evolving agent: grows skill tree from 3.3K-line seed, achieving full system control with 6x less token consumption
+      💻 vibe coding 2026 | Your first modern Coding course for beginners to master step by step.
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 10732</span>
-						<span>🔱 1206</span>
+						<span>🔠 JavaScript</span>
+						<span>⭐ 9632</span>
+						<span>🔱 922</span>
 					</div>
-				<div class="stars-today">⭐ 174 stars today</div>
+				<div class="stars-today">⭐ 808 stars today</div>
 				</div>
 			</div>
 	
@@ -226,54 +140,164 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 JavaScript</span>
-						<span>⭐ 7668</span>
-						<span>🔱 1265</span>
+						<span>⭐ 7839</span>
+						<span>🔱 1283</span>
 					</div>
-				<div class="stars-today">⭐ 803 stars today</div>
+				<div class="stars-today">⭐ 942 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/affaan-m/everything-claude-code" target="_blank">
+				<p><a href="https://github.com/tinyhumansai/openhuman" target="_blank">
     
 
 
       
-        affaan-m /
+        tinyhumansai /
 
-      everything-claude-code</a></p>
+      openhuman</a></p>
 				<p>
-      The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.
+      Your Personal AI super intelligence. Private, Simple and extremely powerful.
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 JavaScript</span>
-						<span>⭐ 178833</span>
-						<span>🔱 27576</span>
+						<span>🔠 Rust</span>
+						<span>⭐ 976</span>
+						<span>🔱 138</span>
 					</div>
-				<div class="stars-today">⭐ 1081 stars today</div>
+				<div class="stars-today">⭐ 154 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/datawhalechina/hello-agents" target="_blank">
+				<p><a href="https://github.com/millionco/react-doctor" target="_blank">
     
 
 
       
-        datawhalechina /
+        millionco /
 
-      hello-agents</a></p>
+      react-doctor</a></p>
 				<p>
-      📚 《从零开始构建智能体》——从零开始的智能体原理与实践教程
+      Your agent writes bad React. This catches it
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 7658</span>
+						<span>🔱 242</span>
+					</div>
+				<div class="stars-today">⭐ 312 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/Lordog/dive-into-llms" target="_blank">
+    
+
+
+      
+        Lordog /
+
+      dive-into-llms</a></p>
+				<p>
+      《动手学大模型Dive into LLMs》系列编程实践教程
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Jupyter Notebook</span>
+						<span>⭐ 37140</span>
+						<span>🔱 4559</span>
+					</div>
+				<div class="stars-today">⭐ 373 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/AUTOMATIC1111/stable-diffusion-webui" target="_blank">
+    
+
+
+      
+        AUTOMATIC1111 /
+
+      stable-diffusion-webui</a></p>
+				<p>
+      Stable Diffusion web UI
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 47158</span>
-						<span>🔱 5671</span>
+						<span>⭐ 162822</span>
+						<span>🔱 30326</span>
 					</div>
-				<div class="stars-today">⭐ 748 stars today</div>
+				<div class="stars-today">⭐ 29 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/rasbt/LLMs-from-scratch" target="_blank">
+    
+
+
+      
+        rasbt /
+
+      LLMs-from-scratch</a></p>
+				<p>
+      Implement a ChatGPT-like LLM in PyTorch from scratch, step by step
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Jupyter Notebook</span>
+						<span>⭐ 92626</span>
+						<span>🔱 14307</span>
+					</div>
+				<div class="stars-today">⭐ 141 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/NousResearch/hermes-agent" target="_blank">
+    
+
+
+      
+        NousResearch /
+
+      hermes-agent</a></p>
+				<p>
+      The agent that grows with you
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 143760</span>
+						<span>🔱 22439</span>
+					</div>
+				<div class="stars-today">⭐ 1496 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/rohitg00/agentmemory" target="_blank">
+    
+
+
+      
+        rohitg00 /
+
+      agentmemory</a></p>
+				<p>
+      #1 Persistent memory for AI coding agents based on real-world benchmarks
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 4226</span>
+						<span>🔱 403</span>
+					</div>
+				<div class="stars-today">⭐ 655 stars today</div>
 				</div>
 			</div>
 	

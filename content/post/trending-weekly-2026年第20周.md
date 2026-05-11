@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2026年第20周
-date: 2026-05-11T08:49:36Z
+date: 2026-05-11T12:32:01Z
 categories:
 - weekly
 keywords:
@@ -30,8 +30,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Rust</span>
-						<span>⭐ 24626</span>
-						<span>🔱 2022</span>
+						<span>⭐ 24811</span>
+						<span>🔱 2046</span>
 					</div>
 				<div class="stars-today">⭐ 22034 stars this week</div>
 				</div>
@@ -50,8 +50,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 19570</span>
-						<span>🔱 2538</span>
+						<span>⭐ 19811</span>
+						<span>🔱 2571</span>
 					</div>
 				<div class="stars-today">⭐ 10272 stars this week</div>
 				</div>
@@ -72,230 +72,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 48691</span>
-						<span>🔱 5396</span>
+						<span>⭐ 48798</span>
+						<span>🔱 5414</span>
 					</div>
 				<div class="stars-today">⭐ 10779 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/docusealco/docuseal" target="_blank">
-    
-
-
-      
-        docusealco /
-
-      docuseal</a></p>
-				<p>
-      Open source DocuSign alternative. Create, fill, and sign digital documents ✍️
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Ruby</span>
-						<span>⭐ 16294</span>
-						<span>🔱 1478</span>
-					</div>
-				<div class="stars-today">⭐ 4020 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/TauricResearch/TradingAgents" target="_blank">
-    
-
-
-      
-        TauricResearch /
-
-      TradingAgents</a></p>
-				<p>
-      TradingAgents: Multi-Agents LLM Financial Trading Framework
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 73436</span>
-						<span>🔱 14309</span>
-					</div>
-				<div class="stars-today">⭐ 8872 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/LearningCircuit/local-deep-research" target="_blank">
-    
-
-
-      
-        LearningCircuit /
-
-      local-deep-research</a></p>
-				<p>
-       ~95% on SimpleQA (e.g. Qwen3.6-27B on a 3090). Supports all local and cloud LLMs (llama.cpp, Ollama, Google, ...). 10+ search engines - arXiv, PubMed, your private documents. Everything Local & Encrypted.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 7139</span>
-						<span>🔱 632</span>
-					</div>
-				<div class="stars-today">⭐ 2483 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/virattt/dexter" target="_blank">
-    
-
-
-      
-        virattt /
-
-      dexter</a></p>
-				<p>
-      An autonomous agent for deep financial research
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 25220</span>
-						<span>🔱 3075</span>
-					</div>
-				<div class="stars-today">⭐ 2741 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/decolua/9router" target="_blank">
-    
-
-
-      
-        decolua /
-
-      9router</a></p>
-				<p>
-      Unlimited FREE AI coding. Connect Claude Code, Codex, Cursor, Cline, Copilot, Antigravity to FREE Claude/GPT/Gemini via 40+ providers. Auto-fallback, RTK -40% tokens, never hit limits.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 JavaScript</span>
-						<span>⭐ 7668</span>
-						<span>🔱 1265</span>
-					</div>
-				<div class="stars-today">⭐ 3318 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/1jehuang/jcode" target="_blank">
-    
-
-
-      
-        1jehuang /
-
-      jcode</a></p>
-				<p>
-      Coding Agent Harness
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Rust</span>
-						<span>⭐ 5650</span>
-						<span>🔱 575</span>
-					</div>
-				<div class="stars-today">⭐ 2328 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/AIDC-AI/Pixelle-Video" target="_blank">
-    
-
-
-      
-        AIDC-AI /
-
-      Pixelle-Video</a></p>
-				<p>
-      🚀 AI 全自动短视频引擎 | AI Fully Automated Short Video Engine
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 14909</span>
-						<span>🔱 2168</span>
-					</div>
-				<div class="stars-today">⭐ 5038 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/cocoindex-io/cocoindex" target="_blank">
-    
-
-
-      
-        cocoindex-io /
-
-      cocoindex</a></p>
-				<p>
-      Incremental engine for long horizon agents 🌟 Star if you like it!
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 9532</span>
-						<span>🔱 730</span>
-					</div>
-				<div class="stars-today">⭐ 1831 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/browserbase/skills" target="_blank">
-    
-
-
-      
-        browserbase /
-
-      skills</a></p>
-				<p>
-      Browserbase's official collection of agent skills to access the web.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 JavaScript</span>
-						<span>⭐ 3125</span>
-						<span>🔱 206</span>
-					</div>
-				<div class="stars-today">⭐ 1403 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/mattpocock/skills" target="_blank">
-    
-
-
-      
-        mattpocock /
-
-      skills</a></p>
-				<p>
-      Skills for Real Engineers. Straight from my .claude directory.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Shell</span>
-						<span>⭐ 70121</span>
-						<span>🔱 6057</span>
-					</div>
-				<div class="stars-today">⭐ 12722 stars this week</div>
 				</div>
 			</div>
 	
@@ -314,32 +94,164 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 32558</span>
-						<span>🔱 3221</span>
+						<span>⭐ 32691</span>
+						<span>🔱 3237</span>
 					</div>
 				<div class="stars-today">⭐ 2191 stars this week</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/withastro/flue" target="_blank">
+				<p><a href="https://github.com/LearningCircuit/local-deep-research" target="_blank">
     
 
 
       
-        withastro /
+        LearningCircuit /
 
-      flue</a></p>
+      local-deep-research</a></p>
 				<p>
-      The sandbox agent framework.
+       ~95% on SimpleQA (e.g. Qwen3.6-27B on a 3090). Supports all local and cloud LLMs (llama.cpp, Ollama, Google, ...). 10+ search engines - arXiv, PubMed, your private documents. Everything Local & Encrypted.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 7158</span>
+						<span>🔱 632</span>
+					</div>
+				<div class="stars-today">⭐ 2483 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/docusealco/docuseal" target="_blank">
+    
+
+
+      
+        docusealco /
+
+      docuseal</a></p>
+				<p>
+      Open source DocuSign alternative. Create, fill, and sign digital documents ✍️
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Ruby</span>
+						<span>⭐ 16314</span>
+						<span>🔱 1481</span>
+					</div>
+				<div class="stars-today">⭐ 4020 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/decolua/9router" target="_blank">
+    
+
+
+      
+        decolua /
+
+      9router</a></p>
+				<p>
+      Unlimited FREE AI coding. Connect Claude Code, Codex, Cursor, Cline, Copilot, Antigravity to FREE Claude/GPT/Gemini via 40+ providers. Auto-fallback, RTK -40% tokens, never hit limits.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 JavaScript</span>
+						<span>⭐ 7839</span>
+						<span>🔱 1283</span>
+					</div>
+				<div class="stars-today">⭐ 3318 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/TauricResearch/TradingAgents" target="_blank">
+    
+
+
+      
+        TauricResearch /
+
+      TradingAgents</a></p>
+				<p>
+      TradingAgents: Multi-Agents LLM Financial Trading Framework
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 73548</span>
+						<span>🔱 14335</span>
+					</div>
+				<div class="stars-today">⭐ 8872 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/bwya77/vscode-dark-islands" target="_blank">
+    
+
+
+      
+        bwya77 /
+
+      vscode-dark-islands</a></p>
+				<p>
+      VSCode theme based off the easemate IDE and Jetbrains islands theme
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 PowerShell</span>
+						<span>⭐ 8401</span>
+						<span>🔱 263</span>
+					</div>
+				<div class="stars-today">⭐ 1588 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/virattt/dexter" target="_blank">
+    
+
+
+      
+        virattt /
+
+      dexter</a></p>
+				<p>
+      An autonomous agent for deep financial research
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 3158</span>
-						<span>🔱 166</span>
+						<span>⭐ 25235</span>
+						<span>🔱 3080</span>
 					</div>
-				<div class="stars-today">⭐ 1014 stars this week</div>
+				<div class="stars-today">⭐ 2741 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/AIDC-AI/Pixelle-Video" target="_blank">
+    
+
+
+      
+        AIDC-AI /
+
+      Pixelle-Video</a></p>
+				<p>
+      🚀 AI 全自动短视频引擎 | AI Fully Automated Short Video Engine
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 15007</span>
+						<span>🔱 2182</span>
+					</div>
+				<div class="stars-today">⭐ 5038 stars this week</div>
 				</div>
 			</div>
 	
@@ -358,54 +270,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Shell</span>
-						<span>⭐ 39012</span>
-						<span>🔱 4309</span>
+						<span>⭐ 39167</span>
+						<span>🔱 4328</span>
 					</div>
 				<div class="stars-today">⭐ 10738 stars this week</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/InsForge/InsForge" target="_blank">
+				<p><a href="https://github.com/cocoindex-io/cocoindex" target="_blank">
     
 
 
       
-        InsForge /
+        cocoindex-io /
 
-      InsForge</a></p>
+      cocoindex</a></p>
 				<p>
-      The all-in-one, open-source backend platform for agentic coding. InsForge gives your coding agent database, auth, storage, compute, hosting, and AI gateway to ship full-stack apps end-to-end.
+      Incremental engine for long horizon agents 🌟 Star if you like it!
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 9385</span>
-						<span>🔱 777</span>
+						<span>🔠 Python</span>
+						<span>⭐ 9552</span>
+						<span>🔱 732</span>
 					</div>
-				<div class="stars-today">⭐ 1377 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/openai/symphony" target="_blank">
-    
-
-
-      
-        openai /
-
-      symphony</a></p>
-				<p>
-      Symphony turns project work into isolated, autonomous implementation runs, allowing teams to manage work instead of supervising coding agents.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Elixir</span>
-						<span>⭐ 23270</span>
-						<span>🔱 2188</span>
-					</div>
-				<div class="stars-today">⭐ 2204 stars this week</div>
+				<div class="stars-today">⭐ 1831 stars this week</div>
 				</div>
 			</div>
 	
@@ -424,10 +314,120 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 30527</span>
-						<span>🔱 2596</span>
+						<span>⭐ 30563</span>
+						<span>🔱 2601</span>
 					</div>
 				<div class="stars-today">⭐ 4328 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/InsForge/InsForge" target="_blank">
+    
+
+
+      
+        InsForge /
+
+      InsForge</a></p>
+				<p>
+      The all-in-one, open-source backend platform for agentic coding. InsForge gives your coding agent database, auth, storage, compute, hosting, and AI gateway to ship full-stack apps end-to-end.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 9407</span>
+						<span>🔱 779</span>
+					</div>
+				<div class="stars-today">⭐ 1377 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/PriorLabs/TabPFN" target="_blank">
+    
+
+
+      
+        PriorLabs /
+
+      TabPFN</a></p>
+				<p>
+      ⚡ TabPFN: Foundation Model for Tabular Data ⚡
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 6939</span>
+						<span>🔱 683</span>
+					</div>
+				<div class="stars-today">⭐ 748 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/1jehuang/jcode" target="_blank">
+    
+
+
+      
+        1jehuang /
+
+      jcode</a></p>
+				<p>
+      Coding Agent Harness
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Rust</span>
+						<span>⭐ 5688</span>
+						<span>🔱 580</span>
+					</div>
+				<div class="stars-today">⭐ 2328 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/mattpocock/skills" target="_blank">
+    
+
+
+      
+        mattpocock /
+
+      skills</a></p>
+				<p>
+      Skills for Real Engineers. Straight from my .claude directory.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Shell</span>
+						<span>⭐ 70741</span>
+						<span>🔱 6106</span>
+					</div>
+				<div class="stars-today">⭐ 12722 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/yikart/AiToEarn" target="_blank">
+    
+
+
+      
+        yikart /
+
+      AiToEarn</a></p>
+				<p>
+      Let's use AI to Earn!
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 10260</span>
+						<span>🔱 1961</span>
+					</div>
+				<div class="stars-today">⭐ 789 stars this week</div>
 				</div>
 			</div>
 	
