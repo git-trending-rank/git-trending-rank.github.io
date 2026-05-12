@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2026年5月
-date: 2026-05-12T08:14:38Z
+date: 2026-05-12T11:44:34Z
 categories:
 - monthly
 keywords:
@@ -30,8 +30,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 </span>
-						<span>⭐ 126025</span>
-						<span>🔱 12815</span>
+						<span>⭐ 126331</span>
+						<span>🔱 12844</span>
 					</div>
 				<div class="stars-today">⭐ 112987 stars this month</div>
 				</div>
@@ -52,8 +52,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Shell</span>
-						<span>⭐ 73800</span>
-						<span>🔱 6377</span>
+						<span>⭐ 74436</span>
+						<span>🔱 6419</span>
 					</div>
 				<div class="stars-today">⭐ 57314 stars this month</div>
 				</div>
@@ -74,32 +74,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 23913</span>
-						<span>🔱 3535</span>
+						<span>⭐ 23958</span>
+						<span>🔱 3549</span>
 					</div>
 				<div class="stars-today">⭐ 22043 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/NousResearch/hermes-agent" target="_blank">
-    
-
-
-      
-        NousResearch /
-
-      hermes-agent</a></p>
-				<p>
-      The agent that grows with you
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 145699</span>
-						<span>🔱 22792</span>
-					</div>
-				<div class="stars-today">⭐ 88781 stars this month</div>
 				</div>
 			</div>
 	
@@ -118,10 +96,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 10992</span>
-						<span>🔱 1249</span>
+						<span>⭐ 11022</span>
+						<span>🔱 1255</span>
 					</div>
 				<div class="stars-today">⭐ 10019 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/NousResearch/hermes-agent" target="_blank">
+    
+
+
+      
+        NousResearch /
+
+      hermes-agent</a></p>
+				<p>
+      The agent that grows with you
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 146073</span>
+						<span>🔱 22856</span>
+					</div>
+				<div class="stars-today">⭐ 88781 stars this month</div>
 				</div>
 			</div>
 	
@@ -140,10 +140,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 15381</span>
-						<span>🔱 2235</span>
+						<span>⭐ 15461</span>
+						<span>🔱 2243</span>
 					</div>
 				<div class="stars-today">⭐ 11635 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/Tracer-Cloud/opensre" target="_blank">
+    
+
+
+      
+        Tracer-Cloud /
+
+      opensre</a></p>
+				<p>
+      Build your own AI SRE agents. The open source toolkit for the AI era.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 4832</span>
+						<span>🔱 615</span>
+					</div>
+				<div class="stars-today">⭐ 4339 stars this month</div>
 				</div>
 			</div>
 	
@@ -162,32 +184,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Shell</span>
-						<span>⭐ 39825</span>
-						<span>🔱 4391</span>
+						<span>⭐ 40019</span>
+						<span>🔱 4409</span>
 					</div>
 				<div class="stars-today">⭐ 27000 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/multica-ai/multica" target="_blank">
-    
-
-
-      
-        multica-ai /
-
-      multica</a></p>
-				<p>
-      The open-source managed agents platform. Turn coding agents into real teammates — assign tasks, track progress, compound skills.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 27498</span>
-						<span>🔱 3310</span>
-					</div>
-				<div class="stars-today">⭐ 20178 stars this month</div>
 				</div>
 			</div>
 	
@@ -206,8 +206,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 8539</span>
-						<span>🔱 629</span>
+						<span>⭐ 8583</span>
+						<span>🔱 638</span>
 					</div>
 				<div class="stars-today">⭐ 7415 stars this month</div>
 				</div>
@@ -228,8 +228,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 73752</span>
-						<span>🔱 8320</span>
+						<span>⭐ 73791</span>
+						<span>🔱 8325</span>
 					</div>
 				<div class="stars-today">⭐ 15885 stars this month</div>
 				</div>
@@ -250,8 +250,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 27933</span>
-						<span>🔱 1999</span>
+						<span>⭐ 27982</span>
+						<span>🔱 2008</span>
 					</div>
 				<div class="stars-today">⭐ 8398 stars this month</div>
 				</div>
@@ -272,32 +272,52 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 74036</span>
-						<span>🔱 14443</span>
+						<span>⭐ 74137</span>
+						<span>🔱 14462</span>
 					</div>
 				<div class="stars-today">⭐ 24574 stars this month</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/thedotmack/claude-mem" target="_blank">
+				<p><a href="https://github.com/multica-ai/multica" target="_blank">
     
 
 
       
-        thedotmack /
+        multica-ai /
 
-      claude-mem</a></p>
+      multica</a></p>
 				<p>
-      Persistent Context Across Sessions for Every Agent – Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More
+      The open-source managed agents platform. Turn coding agents into real teammates — assign tasks, track progress, compound skills.
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 75022</span>
-						<span>🔱 6434</span>
+						<span>⭐ 27553</span>
+						<span>🔱 3318</span>
 					</div>
-				<div class="stars-today">⭐ 27417 stars this month</div>
+				<div class="stars-today">⭐ 20178 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/anthropics/financial-services" target="_blank">
+    
+
+
+      
+        anthropics /
+
+      financial-services</a></p>
+				<p></p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 20969</span>
+						<span>🔱 2785</span>
+					</div>
+				<div class="stars-today">⭐ 12642 stars this month</div>
 				</div>
 			</div>
 	
@@ -316,8 +336,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 JavaScript</span>
-						<span>⭐ 12898</span>
-						<span>🔱 2283</span>
+						<span>⭐ 12915</span>
+						<span>🔱 2286</span>
 					</div>
 				<div class="stars-today">⭐ 8596 stars this month</div>
 				</div>
@@ -338,8 +358,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 14996</span>
-						<span>🔱 1486</span>
+						<span>⭐ 15103</span>
+						<span>🔱 1496</span>
 					</div>
 				<div class="stars-today">⭐ 10239 stars this month</div>
 				</div>
@@ -360,8 +380,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 4429</span>
-						<span>🔱 311</span>
+						<span>⭐ 4443</span>
+						<span>🔱 312</span>
 					</div>
 				<div class="stars-today">⭐ 3377 stars this month</div>
 				</div>
