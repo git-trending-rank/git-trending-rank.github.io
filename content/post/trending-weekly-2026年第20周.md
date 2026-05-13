@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2026年第20周
-date: 2026-05-13T08:26:05Z
+date: 2026-05-13T11:51:44Z
 categories:
 - weekly
 keywords:
@@ -28,8 +28,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 21839</span>
-						<span>🔱 2941</span>
+						<span>⭐ 21970</span>
+						<span>🔱 2959</span>
 					</div>
 				<div class="stars-today">⭐ 13176 stars this week</div>
 				</div>
@@ -50,8 +50,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Rust</span>
-						<span>⭐ 27085</span>
-						<span>🔱 2264</span>
+						<span>⭐ 27265</span>
+						<span>🔱 2279</span>
 					</div>
 				<div class="stars-today">⭐ 20835 stars this week</div>
 				</div>
@@ -72,32 +72,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 33611</span>
-						<span>🔱 3336</span>
+						<span>⭐ 33645</span>
+						<span>🔱 3339</span>
 					</div>
 				<div class="stars-today">⭐ 3872 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/CloakHQ/CloakBrowser" target="_blank">
-    
-
-
-      
-        CloakHQ /
-
-      CloakBrowser</a></p>
-				<p>
-      Stealth Chromium that passes every bot detection test. Drop-in Playwright replacement with source-level fingerprint patches. 30/30 tests passed.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 8577</span>
-						<span>🔱 635</span>
-					</div>
-				<div class="stars-today">⭐ 5488 stars this week</div>
 				</div>
 			</div>
 	
@@ -116,120 +94,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 JavaScript</span>
-						<span>⭐ 9613</span>
-						<span>🔱 1484</span>
+						<span>⭐ 9704</span>
+						<span>🔱 1491</span>
 					</div>
 				<div class="stars-today">⭐ 5204 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/LearningCircuit/local-deep-research" target="_blank">
-    
-
-
-      
-        LearningCircuit /
-
-      local-deep-research</a></p>
-				<p>
-       ~95% on SimpleQA (e.g. Qwen3.6-27B on a 3090). Supports all local and cloud LLMs (llama.cpp, Ollama, Google, ...). 10+ search engines - arXiv, PubMed, your private documents. Everything Local & Encrypted.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 7419</span>
-						<span>🔱 645</span>
-					</div>
-				<div class="stars-today">⭐ 2412 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/ruvnet/ruflo" target="_blank">
-    
-
-
-      
-        ruvnet /
-
-      ruflo</a></p>
-				<p>
-      🌊 The leading agent orchestration platform for Claude. Deploy intelligent multi-agent swarms, coordinate autonomous workflows, and build conversational AI systems. Features enterprise-grade architecture, self-learning swarm intelligence, RAG integration, and native Claude Code / Codex Integration
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 49935</span>
-						<span>🔱 5557</span>
-					</div>
-				<div class="stars-today">⭐ 7088 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/VectifyAI/PageIndex" target="_blank">
-    
-
-
-      
-        VectifyAI /
-
-      PageIndex</a></p>
-				<p>
-      📑 PageIndex: Document Index for Vectorless, Reasoning-based RAG
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 30951</span>
-						<span>🔱 2638</span>
-					</div>
-				<div class="stars-today">⭐ 4351 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/addyosmani/agent-skills" target="_blank">
-    
-
-
-      
-        addyosmani /
-
-      agent-skills</a></p>
-				<p>
-      Production-grade engineering skills for AI coding agents.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Shell</span>
-						<span>⭐ 40595</span>
-						<span>🔱 4474</span>
-					</div>
-				<div class="stars-today">⭐ 11791 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/docusealco/docuseal" target="_blank">
-    
-
-
-      
-        docusealco /
-
-      docuseal</a></p>
-				<p>
-      Open source DocuSign alternative. Create, fill, and sign digital documents ✍️
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Ruby</span>
-						<span>⭐ 16481</span>
-						<span>🔱 1513</span>
-					</div>
-				<div class="stars-today">⭐ 2819 stars this week</div>
 				</div>
 			</div>
 	
@@ -248,32 +116,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 12291</span>
-						<span>🔱 2122</span>
+						<span>⭐ 12461</span>
+						<span>🔱 2152</span>
 					</div>
 				<div class="stars-today">⭐ 2348 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/Imbad0202/academic-research-skills" target="_blank">
-    
-
-
-      
-        Imbad0202 /
-
-      academic-research-skills</a></p>
-				<p>
-      Academic Research Skills for Claude Code: research → write → review → revise → finalize
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 6508</span>
-						<span>🔱 769</span>
-					</div>
-				<div class="stars-today">⭐ 1893 stars this week</div>
 				</div>
 			</div>
 	
@@ -292,54 +138,54 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 6390</span>
-						<span>🔱 581</span>
+						<span>⭐ 6628</span>
+						<span>🔱 599</span>
 					</div>
 				<div class="stars-today">⭐ 3096 stars this week</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/AIDC-AI/Pixelle-Video" target="_blank">
+				<p><a href="https://github.com/addyosmani/agent-skills" target="_blank">
     
 
 
       
-        AIDC-AI /
+        addyosmani /
 
-      Pixelle-Video</a></p>
+      agent-skills</a></p>
 				<p>
-      🚀 AI 全自动短视频引擎 | AI Fully Automated Short Video Engine
+      Production-grade engineering skills for AI coding agents.
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 15783</span>
-						<span>🔱 2269</span>
+						<span>🔠 Shell</span>
+						<span>⭐ 40735</span>
+						<span>🔱 4489</span>
 					</div>
-				<div class="stars-today">⭐ 4301 stars this week</div>
+				<div class="stars-today">⭐ 11791 stars this week</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/playcanvas/supersplat" target="_blank">
+				<p><a href="https://github.com/LearningCircuit/local-deep-research" target="_blank">
     
 
 
       
-        playcanvas /
+        LearningCircuit /
 
-      supersplat</a></p>
+      local-deep-research</a></p>
 				<p>
-      3D Gaussian Splat Editor
+       ~95% on SimpleQA (e.g. Qwen3.6-27B on a 3090). Supports all local and cloud LLMs (llama.cpp, Ollama, Google, ...). 10+ search engines - arXiv, PubMed, your private documents. Everything Local & Encrypted.
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 7749</span>
-						<span>🔱 844</span>
+						<span>🔠 Python</span>
+						<span>⭐ 7443</span>
+						<span>🔱 647</span>
 					</div>
-				<div class="stars-today">⭐ 2600 stars this week</div>
+				<div class="stars-today">⭐ 2412 stars this week</div>
 				</div>
 			</div>
 	
@@ -358,54 +204,142 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 16869</span>
-						<span>🔱 2628</span>
+						<span>⭐ 16942</span>
+						<span>🔱 2633</span>
 					</div>
 				<div class="stars-today">⭐ 2282 stars this week</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/TauricResearch/TradingAgents" target="_blank">
+				<p><a href="https://github.com/Imbad0202/academic-research-skills" target="_blank">
     
 
 
       
-        TauricResearch /
+        Imbad0202 /
 
-      TradingAgents</a></p>
+      academic-research-skills</a></p>
 				<p>
-      TradingAgents: Multi-Agents LLM Financial Trading Framework
+      Academic Research Skills for Claude Code: research → write → review → revise → finalize
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 74619</span>
-						<span>🔱 14547</span>
+						<span>⭐ 6593</span>
+						<span>🔱 773</span>
 					</div>
-				<div class="stars-today">⭐ 5683 stars this week</div>
+				<div class="stars-today">⭐ 1893 stars this week</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/InsForge/InsForge" target="_blank">
+				<p><a href="https://github.com/ruvnet/ruflo" target="_blank">
     
 
 
       
-        InsForge /
+        ruvnet /
 
-      InsForge</a></p>
+      ruflo</a></p>
 				<p>
-      The all-in-one, open-source backend platform for agentic coding. InsForge gives your coding agent database, auth, storage, compute, hosting, and AI gateway to ship full-stack apps end-to-end.
+      🌊 The leading agent orchestration platform for Claude. Deploy intelligent multi-agent swarms, coordinate autonomous workflows, and build conversational AI systems. Features enterprise-grade architecture, self-learning swarm intelligence, RAG integration, and native Claude Code / Codex Integration
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 9635</span>
-						<span>🔱 793</span>
+						<span>⭐ 50010</span>
+						<span>🔱 5573</span>
 					</div>
-				<div class="stars-today">⭐ 1549 stars this week</div>
+				<div class="stars-today">⭐ 7088 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/playcanvas/supersplat" target="_blank">
+    
+
+
+      
+        playcanvas /
+
+      supersplat</a></p>
+				<p>
+      3D Gaussian Splat Editor
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 7775</span>
+						<span>🔱 846</span>
+					</div>
+				<div class="stars-today">⭐ 2600 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/VectifyAI/PageIndex" target="_blank">
+    
+
+
+      
+        VectifyAI /
+
+      PageIndex</a></p>
+				<p>
+      📑 PageIndex: Document Index for Vectorless, Reasoning-based RAG
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 31015</span>
+						<span>🔱 2643</span>
+					</div>
+				<div class="stars-today">⭐ 4351 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/mattpocock/skills" target="_blank">
+    
+
+
+      
+        mattpocock /
+
+      skills</a></p>
+				<p>
+      Skills for Real Engineers. Straight from my .claude directory.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Shell</span>
+						<span>⭐ 77792</span>
+						<span>🔱 6708</span>
+					</div>
+				<div class="stars-today">⭐ 15234 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/datawhalechina/easy-vibe" target="_blank">
+    
+
+
+      
+        datawhalechina /
+
+      easy-vibe</a></p>
+				<p>
+      💻 vibe coding 2026 | Your first modern Coding course for beginners to master step by step.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 JavaScript</span>
+						<span>⭐ 10468</span>
+						<span>🔱 986</span>
+					</div>
+				<div class="stars-today">⭐ 2833 stars this week</div>
 				</div>
 			</div>
 	

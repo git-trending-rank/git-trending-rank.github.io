@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2026年5月
-date: 2026-05-13T08:26:05Z
+date: 2026-05-13T11:51:44Z
 categories:
 - monthly
 keywords:
@@ -30,8 +30,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 </span>
-						<span>⭐ 127601</span>
-						<span>🔱 12962</span>
+						<span>⭐ 127852</span>
+						<span>🔱 12982</span>
 					</div>
 				<div class="stars-today">⭐ 112357 stars this month</div>
 				</div>
@@ -52,8 +52,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Shell</span>
-						<span>⭐ 77270</span>
-						<span>🔱 6670</span>
+						<span>⭐ 77792</span>
+						<span>🔱 6708</span>
 					</div>
 				<div class="stars-today">⭐ 60612 stars this month</div>
 				</div>
@@ -74,8 +74,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 24215</span>
-						<span>🔱 3584</span>
+						<span>⭐ 24253</span>
+						<span>🔱 3590</span>
 					</div>
 				<div class="stars-today">⭐ 22285 stars this month</div>
 				</div>
@@ -96,32 +96,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 11135</span>
-						<span>🔱 1271</span>
+						<span>⭐ 11157</span>
+						<span>🔱 1274</span>
 					</div>
 				<div class="stars-today">⭐ 10192 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/NousResearch/hermes-agent" target="_blank">
-    
-
-
-      
-        NousResearch /
-
-      hermes-agent</a></p>
-				<p>
-      The agent that grows with you
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 147607</span>
-						<span>🔱 23193</span>
-					</div>
-				<div class="stars-today">⭐ 84327 stars this month</div>
 				</div>
 			</div>
 	
@@ -140,54 +118,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 15783</span>
-						<span>🔱 2269</span>
+						<span>⭐ 15902</span>
+						<span>🔱 2283</span>
 					</div>
 				<div class="stars-today">⭐ 12025 stars this month</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/Tracer-Cloud/opensre" target="_blank">
+				<p><a href="https://github.com/NousResearch/hermes-agent" target="_blank">
     
 
 
       
-        Tracer-Cloud /
+        NousResearch /
 
-      opensre</a></p>
+      hermes-agent</a></p>
 				<p>
-      Build your own AI SRE agents. The open source toolkit for the AI era.
+      The agent that grows with you
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 4941</span>
-						<span>🔱 622</span>
+						<span>⭐ 147920</span>
+						<span>🔱 23255</span>
 					</div>
-				<div class="stars-today">⭐ 4343 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/addyosmani/agent-skills" target="_blank">
-    
-
-
-      
-        addyosmani /
-
-      agent-skills</a></p>
-				<p>
-      Production-grade engineering skills for AI coding agents.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Shell</span>
-						<span>⭐ 40595</span>
-						<span>🔱 4474</span>
-					</div>
-				<div class="stars-today">⭐ 27115 stars this month</div>
+				<div class="stars-today">⭐ 84327 stars this month</div>
 				</div>
 			</div>
 	
@@ -206,10 +162,54 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 8924</span>
-						<span>🔱 727</span>
+						<span>⭐ 8965</span>
+						<span>🔱 735</span>
 					</div>
 				<div class="stars-today">⭐ 7910 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/addyosmani/agent-skills" target="_blank">
+    
+
+
+      
+        addyosmani /
+
+      agent-skills</a></p>
+				<p>
+      Production-grade engineering skills for AI coding agents.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Shell</span>
+						<span>⭐ 40735</span>
+						<span>🔱 4489</span>
+					</div>
+				<div class="stars-today">⭐ 27115 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/Tracer-Cloud/opensre" target="_blank">
+    
+
+
+      
+        Tracer-Cloud /
+
+      opensre</a></p>
+				<p>
+      Build your own AI SRE agents. The open source toolkit for the AI era.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 4953</span>
+						<span>🔱 624</span>
+					</div>
+				<div class="stars-today">⭐ 4343 stars this month</div>
 				</div>
 			</div>
 	
@@ -228,8 +228,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 73976</span>
-						<span>🔱 8346</span>
+						<span>⭐ 74013</span>
+						<span>🔱 8352</span>
 					</div>
 				<div class="stars-today">⭐ 16078 stars this month</div>
 				</div>
@@ -250,8 +250,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 28252</span>
-						<span>🔱 2032</span>
+						<span>⭐ 28294</span>
+						<span>🔱 2037</span>
 					</div>
 				<div class="stars-today">⭐ 8676 stars this month</div>
 				</div>
@@ -272,32 +272,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 74619</span>
-						<span>🔱 14547</span>
+						<span>⭐ 74704</span>
+						<span>🔱 14560</span>
 					</div>
 				<div class="stars-today">⭐ 24880 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/multica-ai/multica" target="_blank">
-    
-
-
-      
-        multica-ai /
-
-      multica</a></p>
-				<p>
-      The open-source managed agents platform. Turn coding agents into real teammates — assign tasks, track progress, compound skills.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 27873</span>
-						<span>🔱 3349</span>
-					</div>
-				<div class="stars-today">⭐ 19082 stars this month</div>
 				</div>
 			</div>
 	
@@ -314,8 +292,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 21839</span>
-						<span>🔱 2941</span>
+						<span>⭐ 21970</span>
+						<span>🔱 2959</span>
 					</div>
 				<div class="stars-today">⭐ 13692 stars this month</div>
 				</div>
@@ -336,10 +314,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 JavaScript</span>
-						<span>⭐ 13078</span>
-						<span>🔱 2307</span>
+						<span>⭐ 13098</span>
+						<span>🔱 2311</span>
 					</div>
 				<div class="stars-today">⭐ 8544 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/multica-ai/multica" target="_blank">
+    
+
+
+      
+        multica-ai /
+
+      multica</a></p>
+				<p>
+      The open-source managed agents platform. Turn coding agents into real teammates — assign tasks, track progress, compound skills.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 27940</span>
+						<span>🔱 3356</span>
+					</div>
+				<div class="stars-today">⭐ 19082 stars this month</div>
 				</div>
 			</div>
 	
@@ -358,32 +358,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 15576</span>
-						<span>🔱 1531</span>
+						<span>⭐ 15681</span>
+						<span>🔱 1535</span>
 					</div>
 				<div class="stars-today">⭐ 10574 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/z-lab/dflash" target="_blank">
-    
-
-
-      
-        z-lab /
-
-      dflash</a></p>
-				<p>
-      DFlash: Block Diffusion for Flash Speculative Decoding
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 4507</span>
-						<span>🔱 318</span>
-					</div>
-				<div class="stars-today">⭐ 3448 stars this month</div>
 				</div>
 			</div>
 	

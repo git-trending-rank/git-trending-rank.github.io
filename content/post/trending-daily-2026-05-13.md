@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2026-05-13
-date: 2026-05-13T08:26:05Z
+date: 2026-05-13T11:51:44Z
 categories:
 - daily
 keywords:
@@ -30,10 +30,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Rust</span>
-						<span>⭐ 3355</span>
-						<span>🔱 311</span>
+						<span>⭐ 3688</span>
+						<span>🔱 329</span>
 					</div>
-				<div class="stars-today">⭐ 1014 stars today</div>
+				<div class="stars-today">⭐ 1595 stars today</div>
 				</div>
 			</div>
 	
@@ -52,164 +52,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 6390</span>
-						<span>🔱 581</span>
+						<span>⭐ 6628</span>
+						<span>🔱 599</span>
 					</div>
-				<div class="stars-today">⭐ 1048 stars today</div>
+				<div class="stars-today">⭐ 1335 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/CloakHQ/CloakBrowser" target="_blank">
+				<p><a href="https://github.com/obra/superpowers" target="_blank">
     
 
 
       
-        CloakHQ /
+        obra /
 
-      CloakBrowser</a></p>
+      superpowers</a></p>
 				<p>
-      Stealth Chromium that passes every bot detection test. Drop-in Playwright replacement with source-level fingerprint patches. 30/30 tests passed.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 8577</span>
-						<span>🔱 635</span>
-					</div>
-				<div class="stars-today">⭐ 1606 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/apernet/hysteria" target="_blank">
-    
-
-
-      
-        apernet /
-
-      hysteria</a></p>
-				<p>
-      Hysteria is a powerful, lightning fast and censorship resistant proxy.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Go</span>
-						<span>⭐ 20411</span>
-						<span>🔱 2112</span>
-					</div>
-				<div class="stars-today">⭐ 51 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/mattpocock/skills" target="_blank">
-    
-
-
-      
-        mattpocock /
-
-      skills</a></p>
-				<p>
-      Skills for Real Engineers. Straight from my .claude directory.
+      An agentic skills framework & software development methodology that works.
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Shell</span>
-						<span>⭐ 77270</span>
-						<span>🔱 6670</span>
+						<span>⭐ 188810</span>
+						<span>🔱 16784</span>
 					</div>
-				<div class="stars-today">⭐ 3867 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/anonfaded/FadCam" target="_blank">
-    
-
-
-      
-        anonfaded /
-
-      FadCam</a></p>
-				<p>
-      Open-source, ad-free Android multimedia recorder with background video recording, screen recording, live streaming, and remote camera control
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Java</span>
-						<span>⭐ 2324</span>
-						<span>🔱 177</span>
-					</div>
-				<div class="stars-today">⭐ 116 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/millionco/react-doctor" target="_blank">
-    
-
-
-      
-        millionco /
-
-      react-doctor</a></p>
-				<p>
-      Your agent writes bad React. This catches it
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 8962</span>
-						<span>🔱 283</span>
-					</div>
-				<div class="stars-today">⭐ 788 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/rasbt/LLMs-from-scratch" target="_blank">
-    
-
-
-      
-        rasbt /
-
-      LLMs-from-scratch</a></p>
-				<p>
-      Implement a ChatGPT-like LLM in PyTorch from scratch, step by step
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Jupyter Notebook</span>
-						<span>⭐ 94075</span>
-						<span>🔱 14439</span>
-					</div>
-				<div class="stars-today">⭐ 772 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/datawhalechina/hello-agents" target="_blank">
-    
-
-
-      
-        datawhalechina /
-
-      hello-agents</a></p>
-				<p>
-      📚 《从零开始构建智能体》——从零开始的智能体原理与实践教程
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 48706</span>
-						<span>🔱 5851</span>
-					</div>
-				<div class="stars-today">⭐ 599 stars today</div>
+				<div class="stars-today">⭐ 1419 stars today</div>
 				</div>
 			</div>
 	
@@ -228,32 +96,340 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 12291</span>
-						<span>🔱 2122</span>
+						<span>⭐ 12461</span>
+						<span>🔱 2152</span>
 					</div>
-				<div class="stars-today">⭐ 1282 stars today</div>
+				<div class="stars-today">⭐ 987 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/HKUDS/AI-Trader" target="_blank">
+				<p><a href="https://github.com/influxdata/telegraf" target="_blank">
     
 
 
       
-        HKUDS /
+        influxdata /
 
-      AI-Trader</a></p>
+      telegraf</a></p>
 				<p>
-      "AI-Trader: 100% Fully-Automated Agent-Native Trading" 
+      Agent for collecting, processing, aggregating, and writing metrics, logs, and other arbitrary data.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Go</span>
+						<span>⭐ 16894</span>
+						<span>🔱 5773</span>
+					</div>
+				<div class="stars-today">⭐ 6 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/millionco/react-doctor" target="_blank">
+    
+
+
+      
+        millionco /
+
+      react-doctor</a></p>
+				<p>
+      Your agent writes bad React. This catches it
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 9027</span>
+						<span>🔱 285</span>
+					</div>
+				<div class="stars-today">⭐ 620 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/K-Dense-AI/scientific-agent-skills" target="_blank">
+    
+
+
+      
+        K-Dense-AI /
+
+      scientific-agent-skills</a></p>
+				<p>
+      A set of ready to use Agent Skills for research, science, engineering, analysis, finance and writing.
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 16869</span>
-						<span>🔱 2628</span>
+						<span>⭐ 20839</span>
+						<span>🔱 2306</span>
 					</div>
-				<div class="stars-today">⭐ 229 stars today</div>
+				<div class="stars-today">⭐ 83 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/danielmiessler/Personal_AI_Infrastructure" target="_blank">
+    
+
+
+      
+        danielmiessler /
+
+      Personal_AI_Infrastructure</a></p>
+				<p>
+      Agentic AI Infrastructure for magnifying HUMAN capabilities.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 13052</span>
+						<span>🔱 1840</span>
+					</div>
+				<div class="stars-today">⭐ 620 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/supertone-inc/supertonic" target="_blank">
+    
+
+
+      
+        supertone-inc /
+
+      supertonic</a></p>
+				<p>
+      Lightning-Fast, On-Device, Multilingual TTS — running natively via ONNX.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Swift</span>
+						<span>⭐ 3794</span>
+						<span>🔱 389</span>
+					</div>
+				<div class="stars-today">⭐ 53 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/CloakHQ/CloakBrowser" target="_blank">
+    
+
+
+      
+        CloakHQ /
+
+      CloakBrowser</a></p>
+				<p>
+      Stealth Chromium that passes every bot detection test. Drop-in Playwright replacement with source-level fingerprint patches. 30/30 tests passed.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 8866</span>
+						<span>🔱 655</span>
+					</div>
+				<div class="stars-today">⭐ 1829 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/Greedeks/GTweak" target="_blank">
+    
+
+
+      
+        Greedeks /
+
+      GTweak</a></p>
+				<p>
+      Portable Tool for an Ideal Windows Setup
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 C#</span>
+						<span>⭐ 740</span>
+						<span>🔱 70</span>
+					</div>
+				<div class="stars-today">⭐ 220 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/mattpocock/skills" target="_blank">
+    
+
+
+      
+        mattpocock /
+
+      skills</a></p>
+				<p>
+      Skills for Real Engineers. Straight from my .claude directory.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Shell</span>
+						<span>⭐ 77792</span>
+						<span>🔱 6708</span>
+					</div>
+				<div class="stars-today">⭐ 3867 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/ArthurBrussee/brush" target="_blank">
+    
+
+
+      
+        ArthurBrussee /
+
+      brush</a></p>
+				<p>
+      3D Reconstruction for all
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Rust</span>
+						<span>⭐ 4238</span>
+						<span>🔱 227</span>
+					</div>
+				<div class="stars-today">⭐ 78 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/imthenachoman/How-To-Secure-A-Linux-Server" target="_blank">
+    
+
+
+      
+        imthenachoman /
+
+      How-To-Secure-A-Linux-Server</a></p>
+				<p>
+      An evolving how-to guide for securing a Linux server.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 </span>
+						<span>⭐ 26829</span>
+						<span>🔱 1758</span>
+					</div>
+				<div class="stars-today">⭐ 233 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/apernet/hysteria" target="_blank">
+    
+
+
+      
+        apernet /
+
+      hysteria</a></p>
+				<p>
+      Hysteria is a powerful, lightning fast and censorship resistant proxy.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Go</span>
+						<span>⭐ 20470</span>
+						<span>🔱 2116</span>
+					</div>
+				<div class="stars-today">⭐ 51 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/rasbt/LLMs-from-scratch" target="_blank">
+    
+
+
+      
+        rasbt /
+
+      LLMs-from-scratch</a></p>
+				<p>
+      Implement a ChatGPT-like LLM in PyTorch from scratch, step by step
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Jupyter Notebook</span>
+						<span>⭐ 94180</span>
+						<span>🔱 14448</span>
+					</div>
+				<div class="stars-today">⭐ 824 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/ton-blockchain/acton" target="_blank">
+    
+
+
+      
+        ton-blockchain /
+
+      acton</a></p>
+				<p>
+      Toolchain for TON smart contract development and beyond
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Rust</span>
+						<span>⭐ 94</span>
+						<span>🔱 19</span>
+					</div>
+				<div class="stars-today">⭐ 15 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/trycua/cua" target="_blank">
+    
+
+
+      
+        trycua /
+
+      cua</a></p>
+				<p>
+      Open-source infrastructure for Computer-Use Agents. Sandboxes, SDKs, and benchmarks to train and evaluate AI agents that can control full desktops (macOS, Linux, Windows).
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 HTML</span>
+						<span>⭐ 16357</span>
+						<span>🔱 1033</span>
+					</div>
+				<div class="stars-today">⭐ 307 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/github/spec-kit" target="_blank">
+    
+
+
+      
+        github /
+
+      spec-kit</a></p>
+				<p>
+      💫 Toolkit to help you get started with Spec-Driven Development
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 97760</span>
+						<span>🔱 8516</span>
+					</div>
+				<div class="stars-today">⭐ 1299 stars today</div>
 				</div>
 			</div>
 	
