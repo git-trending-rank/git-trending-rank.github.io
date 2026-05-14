@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2026年第20周
-date: 2026-05-14T08:19:20Z
+date: 2026-05-14T11:29:52Z
 categories:
 - weekly
 keywords:
@@ -28,32 +28,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 22482</span>
-						<span>🔱 3060</span>
+						<span>⭐ 22567</span>
+						<span>🔱 3080</span>
 					</div>
 				<div class="stars-today">⭐ 13555 stars this week</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/Hmbown/DeepSeek-TUI" target="_blank">
+				<p><a href="https://github.com/CloakHQ/CloakBrowser" target="_blank">
     
 
 
       
-        Hmbown /
+        CloakHQ /
 
-      DeepSeek-TUI</a></p>
+      CloakBrowser</a></p>
 				<p>
-      Coding agent for DeepSeek models that runs in your terminal
+      Stealth Chromium that passes every bot detection test. Drop-in Playwright replacement with source-level fingerprint patches. 30/30 tests passed.
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Rust</span>
-						<span>⭐ 28437</span>
-						<span>🔱 2361</span>
+						<span>🔠 Python</span>
+						<span>⭐ 10193</span>
+						<span>🔱 770</span>
 					</div>
-				<div class="stars-today">⭐ 15975 stars this week</div>
+				<div class="stars-today">⭐ 8328 stars this week</div>
 				</div>
 			</div>
 	
@@ -72,54 +72,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 33819</span>
-						<span>🔱 3359</span>
+						<span>⭐ 33846</span>
+						<span>🔱 3361</span>
 					</div>
 				<div class="stars-today">⭐ 4096 stars this week</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/decolua/9router" target="_blank">
+				<p><a href="https://github.com/Hmbown/DeepSeek-TUI" target="_blank">
     
 
 
       
-        decolua /
+        Hmbown /
 
-      9router</a></p>
+      DeepSeek-TUI</a></p>
 				<p>
-      Unlimited FREE AI coding. Connect Claude Code, Codex, Cursor, Cline, Copilot, Antigravity to FREE Claude/GPT/Gemini via 40+ providers. Auto-fallback, RTK -40% tokens, never hit limits.
+      Coding agent for DeepSeek models that runs in your terminal
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 JavaScript</span>
-						<span>⭐ 10054</span>
-						<span>🔱 1542</span>
+						<span>🔠 Rust</span>
+						<span>⭐ 28636</span>
+						<span>🔱 2377</span>
 					</div>
-				<div class="stars-today">⭐ 5796 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/yikart/AiToEarn" target="_blank">
-    
-
-
-      
-        yikart /
-
-      AiToEarn</a></p>
-				<p>
-      Let's use AI to Earn!
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 13374</span>
-						<span>🔱 2283</span>
-					</div>
-				<div class="stars-today">⭐ 3302 stars this week</div>
+				<div class="stars-today">⭐ 15975 stars this week</div>
 				</div>
 			</div>
 	
@@ -138,54 +116,54 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 8319</span>
-						<span>🔱 700</span>
+						<span>⭐ 8553</span>
+						<span>🔱 709</span>
 					</div>
 				<div class="stars-today">⭐ 4450 stars this week</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/addyosmani/agent-skills" target="_blank">
+				<p><a href="https://github.com/yikart/AiToEarn" target="_blank">
     
 
 
       
-        addyosmani /
+        yikart /
 
-      agent-skills</a></p>
+      AiToEarn</a></p>
 				<p>
-      Production-grade engineering skills for AI coding agents.
+      Let's use AI to Earn!
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Shell</span>
-						<span>⭐ 41276</span>
-						<span>🔱 4542</span>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 13556</span>
+						<span>🔱 2301</span>
 					</div>
-				<div class="stars-today">⭐ 11732 stars this week</div>
+				<div class="stars-today">⭐ 3302 stars this week</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/LearningCircuit/local-deep-research" target="_blank">
+				<p><a href="https://github.com/decolua/9router" target="_blank">
     
 
 
       
-        LearningCircuit /
+        decolua /
 
-      local-deep-research</a></p>
+      9router</a></p>
 				<p>
-       ~95% on SimpleQA (e.g. Qwen3.6-27B on a 3090). Supports all local and cloud LLMs (llama.cpp, Ollama, Google, ...). 10+ search engines - arXiv, PubMed, your private documents. Everything Local & Encrypted.
+      Unlimited FREE AI coding. Connect Claude Code, Codex, Cursor, Cline, Copilot, Antigravity to FREE Claude/GPT/Gemini via 40+ providers. Auto-fallback, RTK -40% tokens, never hit limits.
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 7538</span>
-						<span>🔱 652</span>
+						<span>🔠 JavaScript</span>
+						<span>⭐ 10115</span>
+						<span>🔱 1556</span>
 					</div>
-				<div class="stars-today">⭐ 2046 stars this week</div>
+				<div class="stars-today">⭐ 5796 stars this week</div>
 				</div>
 			</div>
 	
@@ -204,8 +182,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 17109</span>
-						<span>🔱 2650</span>
+						<span>⭐ 17128</span>
+						<span>🔱 2654</span>
 					</div>
 				<div class="stars-today">⭐ 2962 stars this week</div>
 				</div>
@@ -226,32 +204,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 6955</span>
-						<span>🔱 798</span>
+						<span>⭐ 7020</span>
+						<span>🔱 803</span>
 					</div>
 				<div class="stars-today">⭐ 1968 stars this week</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/ruvnet/ruflo" target="_blank">
+				<p><a href="https://github.com/addyosmani/agent-skills" target="_blank">
     
 
 
       
-        ruvnet /
+        addyosmani /
 
-      ruflo</a></p>
+      agent-skills</a></p>
 				<p>
-      🌊 The leading agent orchestration platform for Claude. Deploy intelligent multi-agent swarms, coordinate autonomous workflows, and build conversational AI systems. Features enterprise-grade architecture, self-learning swarm intelligence, RAG integration, and native Claude Code / Codex Integration
+      Production-grade engineering skills for AI coding agents.
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 50599</span>
-						<span>🔱 5655</span>
+						<span>🔠 Shell</span>
+						<span>⭐ 41359</span>
+						<span>🔱 4544</span>
 					</div>
-				<div class="stars-today">⭐ 5510 stars this week</div>
+				<div class="stars-today">⭐ 11732 stars this week</div>
 				</div>
 			</div>
 	
@@ -270,32 +248,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 7892</span>
-						<span>🔱 853</span>
+						<span>⭐ 7902</span>
+						<span>🔱 855</span>
 					</div>
 				<div class="stars-today">⭐ 2745 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/VectifyAI/PageIndex" target="_blank">
-    
-
-
-      
-        VectifyAI /
-
-      PageIndex</a></p>
-				<p>
-      📑 PageIndex: Document Index for Vectorless, Reasoning-based RAG
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 31210</span>
-						<span>🔱 2660</span>
-					</div>
-				<div class="stars-today">⭐ 2805 stars this week</div>
 				</div>
 			</div>
 	
@@ -314,10 +270,54 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Shell</span>
-						<span>⭐ 80102</span>
-						<span>🔱 6909</span>
+						<span>⭐ 80661</span>
+						<span>🔱 6956</span>
 					</div>
 				<div class="stars-today">⭐ 15813 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/ruvnet/ruflo" target="_blank">
+    
+
+
+      
+        ruvnet /
+
+      ruflo</a></p>
+				<p>
+      🌊 The leading agent orchestration platform for Claude. Deploy intelligent multi-agent swarms, coordinate autonomous workflows, and build conversational AI systems. Features enterprise-grade architecture, self-learning swarm intelligence, RAG integration, and native Claude Code / Codex Integration
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 50691</span>
+						<span>🔱 5664</span>
+					</div>
+				<div class="stars-today">⭐ 5510 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/apernet/hysteria" target="_blank">
+    
+
+
+      
+        apernet /
+
+      hysteria</a></p>
+				<p>
+      Hysteria is a powerful, lightning fast and censorship resistant proxy.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Go</span>
+						<span>⭐ 20728</span>
+						<span>🔱 2143</span>
+					</div>
+				<div class="stars-today">⭐ 692 stars this week</div>
 				</div>
 			</div>
 	
@@ -336,10 +336,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 JavaScript</span>
-						<span>⭐ 10696</span>
-						<span>🔱 999</span>
+						<span>⭐ 10741</span>
+						<span>🔱 1007</span>
 					</div>
 				<div class="stars-today">⭐ 2869 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/LearningCircuit/local-deep-research" target="_blank">
+    
+
+
+      
+        LearningCircuit /
+
+      local-deep-research</a></p>
+				<p>
+       ~95% on SimpleQA (e.g. Qwen3.6-27B on a 3090). Supports all local and cloud LLMs (llama.cpp, Ollama, Google, ...). 10+ search engines - arXiv, PubMed, your private documents. Everything Local & Encrypted.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 7554</span>
+						<span>🔱 652</span>
+					</div>
+				<div class="stars-today">⭐ 2046 stars this week</div>
 				</div>
 			</div>
 	
