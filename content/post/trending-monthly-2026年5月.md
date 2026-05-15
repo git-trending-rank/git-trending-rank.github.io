@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2026年5月
-date: 2026-05-15T08:32:03Z
+date: 2026-05-15T11:44:30Z
 categories:
 - monthly
 keywords:
@@ -14,28 +14,6 @@ keywords:
 	<main class="container">
         <div class="repo-list" id="repoList">
 
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/multica-ai/andrej-karpathy-skills" target="_blank">
-    
-
-
-      
-        multica-ai /
-
-      andrej-karpathy-skills</a></p>
-				<p>
-      A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 </span>
-						<span>⭐ 130158</span>
-						<span>🔱 13200</span>
-					</div>
-				<div class="stars-today">⭐ 99894 stars this month</div>
-				</div>
-			</div>
 	
 			<div class="repo-card">
 				<p><a href="https://github.com/mattpocock/skills" target="_blank">
@@ -52,8 +30,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Shell</span>
-						<span>⭐ 83436</span>
-						<span>🔱 7216</span>
+						<span>⭐ 83854</span>
+						<span>🔱 7259</span>
 					</div>
 				<div class="stars-today">⭐ 66519 stars this month</div>
 				</div>
@@ -74,10 +52,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 24670</span>
-						<span>🔱 3664</span>
+						<span>⭐ 24712</span>
+						<span>🔱 3674</span>
 					</div>
 				<div class="stars-today">⭐ 22809 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/multica-ai/andrej-karpathy-skills" target="_blank">
+    
+
+
+      
+        multica-ai /
+
+      andrej-karpathy-skills</a></p>
+				<p>
+      A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 </span>
+						<span>⭐ 130323</span>
+						<span>🔱 13219</span>
+					</div>
+				<div class="stars-today">⭐ 99894 stars this month</div>
 				</div>
 			</div>
 	
@@ -96,32 +96,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 16870</span>
-						<span>🔱 2448</span>
+						<span>⭐ 16945</span>
+						<span>🔱 2457</span>
 					</div>
 				<div class="stars-today">⭐ 12733 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/lsdefine/GenericAgent" target="_blank">
-    
-
-
-      
-        lsdefine /
-
-      GenericAgent</a></p>
-				<p>
-      Self-evolving agent: grows skill tree from 3.3K-line seed, achieving full system control with 6x less token consumption
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 11470</span>
-						<span>🔱 1309</span>
-					</div>
-				<div class="stars-today">⭐ 10252 stars this month</div>
 				</div>
 			</div>
 	
@@ -140,54 +118,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 9695</span>
+						<span>⭐ 9735</span>
 						<span>🔱 907</span>
 					</div>
 				<div class="stars-today">⭐ 8774 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/NousResearch/hermes-agent" target="_blank">
-    
-
-
-      
-        NousResearch /
-
-      hermes-agent</a></p>
-				<p>
-      The agent that grows with you
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 151049</span>
-						<span>🔱 23925</span>
-					</div>
-				<div class="stars-today">⭐ 68208 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/addyosmani/agent-skills" target="_blank">
-    
-
-
-      
-        addyosmani /
-
-      agent-skills</a></p>
-				<p>
-      Production-grade engineering skills for AI coding agents.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Shell</span>
-						<span>⭐ 41757</span>
-						<span>🔱 4584</span>
-					</div>
-				<div class="stars-today">⭐ 26393 stars this month</div>
 				</div>
 			</div>
 	
@@ -206,8 +140,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 74568</span>
-						<span>🔱 8415</span>
+						<span>⭐ 74604</span>
+						<span>🔱 8419</span>
 					</div>
 				<div class="stars-today">⭐ 16576 stars this month</div>
 				</div>
@@ -226,8 +160,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 22951</span>
-						<span>🔱 3154</span>
+						<span>⭐ 23029</span>
+						<span>🔱 3166</span>
 					</div>
 				<div class="stars-today">⭐ 15279 stars this month</div>
 				</div>
@@ -248,32 +182,54 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 28708</span>
-						<span>🔱 2062</span>
+						<span>⭐ 28731</span>
+						<span>🔱 2066</span>
 					</div>
 				<div class="stars-today">⭐ 9233 stars this month</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/Tracer-Cloud/opensre" target="_blank">
+				<p><a href="https://github.com/addyosmani/agent-skills" target="_blank">
     
 
 
       
-        Tracer-Cloud /
+        addyosmani /
 
-      opensre</a></p>
+      agent-skills</a></p>
 				<p>
-      Build your own AI SRE agents. The open source toolkit for the AI era.
+      Production-grade engineering skills for AI coding agents.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Shell</span>
+						<span>⭐ 41841</span>
+						<span>🔱 4596</span>
+					</div>
+				<div class="stars-today">⭐ 26393 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/NousResearch/hermes-agent" target="_blank">
+    
+
+
+      
+        NousResearch /
+
+      hermes-agent</a></p>
+				<p>
+      The agent that grows with you
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 5098</span>
-						<span>🔱 648</span>
+						<span>⭐ 151301</span>
+						<span>🔱 23981</span>
 					</div>
-				<div class="stars-today">⭐ 4410 stars this month</div>
+				<div class="stars-today">⭐ 68208 stars this month</div>
 				</div>
 			</div>
 	
@@ -292,76 +248,54 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 75639</span>
-						<span>🔱 14719</span>
+						<span>⭐ 75694</span>
+						<span>🔱 14727</span>
 					</div>
 				<div class="stars-today">⭐ 25430 stars this month</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/Anil-matcha/Open-Generative-AI" target="_blank">
+				<p><a href="https://github.com/Tracer-Cloud/opensre" target="_blank">
     
 
 
       
-        Anil-matcha /
+        Tracer-Cloud /
 
-      Open-Generative-AI</a></p>
+      opensre</a></p>
 				<p>
-      Open-source alternative to AI video platforms — Free AI image & video generation studio with 200+ models (Flux, Midjourney, Kling, Sora, Veo). No content filters. Self-hosted, MIT licensed.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 JavaScript</span>
-						<span>⭐ 13711</span>
-						<span>🔱 2408</span>
-					</div>
-				<div class="stars-today">⭐ 8834 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/hugohe3/ppt-master" target="_blank">
-    
-
-
-      
-        hugohe3 /
-
-      ppt-master</a></p>
-				<p>
-      AI generates natively editable PPTX from any document — real PowerPoint shapes with native animations, not images · by Hugo He
+      Build your own AI SRE agents. The open source toolkit for the AI era.
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 16641</span>
-						<span>🔱 1603</span>
+						<span>⭐ 5108</span>
+						<span>🔱 648</span>
 					</div>
-				<div class="stars-today">⭐ 11276 stars this month</div>
+				<div class="stars-today">⭐ 4410 stars this month</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/zilliztech/claude-context" target="_blank">
+				<p><a href="https://github.com/lsdefine/GenericAgent" target="_blank">
     
 
 
       
-        zilliztech /
+        lsdefine /
 
-      claude-context</a></p>
+      GenericAgent</a></p>
 				<p>
-      Code search MCP for Claude Code. Make entire codebase the context for any coding agent.
+      Self-evolving agent: grows skill tree from 3.3K-line seed, achieving full system control with 6x less token consumption
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 11085</span>
-						<span>🔱 828</span>
+						<span>🔠 Python</span>
+						<span>⭐ 11487</span>
+						<span>🔱 1311</span>
 					</div>
-				<div class="stars-today">⭐ 5157 stars this month</div>
+				<div class="stars-today">⭐ 10252 stars this month</div>
 				</div>
 			</div>
 	
@@ -380,10 +314,76 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 11351</span>
-						<span>🔱 852</span>
+						<span>⭐ 11523</span>
+						<span>🔱 865</span>
 					</div>
 				<div class="stars-today">⭐ 9136 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/Anil-matcha/Open-Generative-AI" target="_blank">
+    
+
+
+      
+        Anil-matcha /
+
+      Open-Generative-AI</a></p>
+				<p>
+      Open-source alternative to AI video platforms — Free AI image & video generation studio with 200+ models (Flux, Midjourney, Kling, Sora, Veo). No content filters. Self-hosted, MIT licensed.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 JavaScript</span>
+						<span>⭐ 13752</span>
+						<span>🔱 2414</span>
+					</div>
+				<div class="stars-today">⭐ 8834 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/zilliztech/claude-context" target="_blank">
+    
+
+
+      
+        zilliztech /
+
+      claude-context</a></p>
+				<p>
+      Code search MCP for Claude Code. Make entire codebase the context for any coding agent.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 11097</span>
+						<span>🔱 830</span>
+					</div>
+				<div class="stars-today">⭐ 5157 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/rohitg00/agentmemory" target="_blank">
+    
+
+
+      
+        rohitg00 /
+
+      agentmemory</a></p>
+				<p>
+      #1 Persistent memory for AI coding agents based on real-world benchmarks
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 9370</span>
+						<span>🔱 777</span>
+					</div>
+				<div class="stars-today">⭐ 7223 stars this month</div>
 				</div>
 			</div>
 	
@@ -402,32 +402,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 JavaScript</span>
-						<span>⭐ 10429</span>
-						<span>🔱 1598</span>
+						<span>⭐ 10492</span>
+						<span>🔱 1615</span>
 					</div>
 				<div class="stars-today">⭐ 7780 stars this month</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/multica-ai/multica" target="_blank">
+				<p><a href="https://github.com/ruvnet/ruflo" target="_blank">
     
 
 
       
-        multica-ai /
+        ruvnet /
 
-      multica</a></p>
+      ruflo</a></p>
 				<p>
-      The open-source managed agents platform. Turn coding agents into real teammates — assign tasks, track progress, compound skills.
+      🌊 The leading agent orchestration platform for Claude. Deploy intelligent multi-agent swarms, coordinate autonomous workflows, and build conversational AI systems. Features enterprise-grade architecture, self-learning swarm intelligence, RAG integration, and native Claude Code / Codex Integration
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 28594</span>
-						<span>🔱 3449</span>
+						<span>⭐ 51284</span>
+						<span>🔱 5750</span>
 					</div>
-				<div class="stars-today">⭐ 16456 stars this month</div>
+				<div class="stars-today">⭐ 19491 stars this month</div>
 				</div>
 			</div>
 	
