@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2026-05-16
-date: 2026-05-16T09:16:26Z
+date: 2026-05-16T10:49:54Z
 categories:
 - daily
 keywords:
@@ -16,46 +16,24 @@ keywords:
 
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/tinyhumansai/openhuman" target="_blank">
+				<p><a href="https://github.com/oven-sh/bun" target="_blank">
     
 
 
       
-        tinyhumansai /
+        oven-sh /
 
-      openhuman</a></p>
+      bun</a></p>
 				<p>
-      Your Personal AI super intelligence. Private, Simple and extremely powerful.
+      Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Rust</span>
-						<span>⭐ 9652</span>
-						<span>🔱 813</span>
+						<span>⭐ 90717</span>
+						<span>🔱 4520</span>
 					</div>
-				<div class="stars-today">⭐ 1271 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/obra/superpowers" target="_blank">
-    
-
-
-      
-        obra /
-
-      superpowers</a></p>
-				<p>
-      An agentic skills framework & software development methodology that works.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Shell</span>
-						<span>⭐ 193283</span>
-						<span>🔱 17187</span>
-					</div>
-				<div class="stars-today">⭐ 1648 stars today</div>
+				<div class="stars-today">⭐ 448 stars today</div>
 				</div>
 			</div>
 	
@@ -74,10 +52,54 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 22697</span>
-						<span>🔱 2452</span>
+						<span>⭐ 22739</span>
+						<span>🔱 2455</span>
 					</div>
 				<div class="stars-today">⭐ 646 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/obra/superpowers" target="_blank">
+    
+
+
+      
+        obra /
+
+      superpowers</a></p>
+				<p>
+      An agentic skills framework & software development methodology that works.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Shell</span>
+						<span>⭐ 193358</span>
+						<span>🔱 17196</span>
+					</div>
+				<div class="stars-today">⭐ 1648 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/Anil-matcha/Open-Generative-AI" target="_blank">
+    
+
+
+      
+        Anil-matcha /
+
+      Open-Generative-AI</a></p>
+				<p>
+      Open-source alternative to AI video platforms — Free AI image & video generation studio with 200+ models (Flux, Midjourney, Kling, Sora, Veo). No content filters. Self-hosted, MIT licensed.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 JavaScript</span>
+						<span>⭐ 14030</span>
+						<span>🔱 2469</span>
+					</div>
+				<div class="stars-today">⭐ 356 stars today</div>
 				</div>
 			</div>
 	
@@ -96,10 +118,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Swift</span>
-						<span>⭐ 6279</span>
-						<span>🔱 624</span>
+						<span>⭐ 6344</span>
+						<span>🔱 637</span>
 					</div>
 				<div class="stars-today">⭐ 719 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/tinyhumansai/openhuman" target="_blank">
+    
+
+
+      
+        tinyhumansai /
+
+      openhuman</a></p>
+				<p>
+      Your Personal AI super intelligence. Private, Simple and extremely powerful.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Rust</span>
+						<span>⭐ 9801</span>
+						<span>🔱 830</span>
+					</div>
+				<div class="stars-today">⭐ 1271 stars today</div>
 				</div>
 			</div>
 	
@@ -118,164 +162,54 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Rust</span>
-						<span>⭐ 57775</span>
-						<span>🔱 7569</span>
+						<span>⭐ 57832</span>
+						<span>🔱 7572</span>
 					</div>
 				<div class="stars-today">⭐ 1859 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/influxdata/telegraf" target="_blank">
+				<p><a href="https://github.com/pranshuparmar/witr" target="_blank">
     
 
 
       
-        influxdata /
+        pranshuparmar /
 
-      telegraf</a></p>
+      witr</a></p>
 				<p>
-      Agent for collecting, processing, aggregating, and writing metrics, logs, and other arbitrary data.
+      Why is this running?
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Go</span>
-						<span>⭐ 17479</span>
-						<span>🔱 5803</span>
+						<span>⭐ 16491</span>
+						<span>🔱 499</span>
 					</div>
-				<div class="stars-today">⭐ 212 stars today</div>
+				<div class="stars-today">⭐ 484 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/anthropics/skills" target="_blank">
+				<p><a href="https://github.com/colbymchenry/codegraph" target="_blank">
     
 
 
       
-        anthropics /
+        colbymchenry /
 
-      skills</a></p>
+      codegraph</a></p>
 				<p>
-      Public repository for Agent Skills
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 135489</span>
-						<span>🔱 15965</span>
-					</div>
-				<div class="stars-today">⭐ 689 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/czlonkowski/n8n-mcp" target="_blank">
-    
-
-
-      
-        czlonkowski /
-
-      n8n-mcp</a></p>
-				<p>
-      A MCP for Claude Desktop / Claude Code / Windsurf / Cursor to build n8n workflows for you 
+      Pre-indexed code knowledge graph for Claude Code — fewer tokens, fewer tool calls, 100% local
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 20969</span>
-						<span>🔱 3403</span>
+						<span>⭐ 2062</span>
+						<span>🔱 188</span>
 					</div>
-				<div class="stars-today">⭐ 68 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/NVIDIA-AI-Blueprints/video-search-and-summarization" target="_blank">
-    
-
-
-      
-        NVIDIA-AI-Blueprints /
-
-      video-search-and-summarization</a></p>
-				<p>
-      Suite of reference architectures for building GPU-accelerated vision agents and AI-powered video analytics applications.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 1255</span>
-						<span>🔱 268</span>
-					</div>
-				<div class="stars-today">⭐ 308 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/oven-sh/bun" target="_blank">
-    
-
-
-      
-        oven-sh /
-
-      bun</a></p>
-				<p>
-      Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Rust</span>
-						<span>⭐ 90705</span>
-						<span>🔱 4520</span>
-					</div>
-				<div class="stars-today">⭐ 448 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/mattpocock/skills" target="_blank">
-    
-
-
-      
-        mattpocock /
-
-      skills</a></p>
-				<p>
-      Skills for Real Engineers. Straight from my .claude directory.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Shell</span>
-						<span>⭐ 85696</span>
-						<span>🔱 7432</span>
-					</div>
-				<div class="stars-today">⭐ 3132 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/joeseesun/qiaomu-anything-to-notebooklm" target="_blank">
-    
-
-
-      
-        joeseesun /
-
-      qiaomu-anything-to-notebooklm</a></p>
-				<p>
-      Claude Skill: Multi-source content processor for NotebookLM. Supports WeChat articles, web pages, YouTube, PDF, Markdown, search queries → Podcast/PPT/MindMap/Quiz etc.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 2904</span>
-						<span>🔱 294</span>
-					</div>
-				<div class="stars-today">⭐ 438 stars today</div>
+				<div class="stars-today">⭐ 397 stars today</div>
 				</div>
 			</div>
 	
