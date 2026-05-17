@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2026年5月
-date: 2026-05-17T08:04:08Z
+date: 2026-05-17T10:56:49Z
 categories:
 - monthly
 keywords:
@@ -30,8 +30,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Shell</span>
-						<span>⭐ 87460</span>
-						<span>🔱 7622</span>
+						<span>⭐ 87722</span>
+						<span>🔱 7641</span>
 					</div>
 				<div class="stars-today">⭐ 70819 stars this month</div>
 				</div>
@@ -52,8 +52,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 25068</span>
-						<span>🔱 3739</span>
+						<span>⭐ 25102</span>
+						<span>🔱 3742</span>
 					</div>
 				<div class="stars-today">⭐ 23165 stars this month</div>
 				</div>
@@ -74,32 +74,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 </span>
-						<span>⭐ 133050</span>
-						<span>🔱 13574</span>
+						<span>⭐ 133249</span>
+						<span>🔱 13608</span>
 					</div>
 				<div class="stars-today">⭐ 85711 stars this month</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/heygen-com/hyperframes" target="_blank">
+				<p><a href="https://github.com/Fincept-Corporation/FinceptTerminal" target="_blank">
     
 
 
       
-        heygen-com /
+        Fincept-Corporation /
 
-      hyperframes</a></p>
+      FinceptTerminal</a></p>
 				<p>
-      Write HTML. Render video. Built for agents.
+      FinceptTerminal is a modern finance application offering advanced market analytics, investment research, and economic data tools, designed for interactive exploration and data-driven decision-making in a user-friendly environment.
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 18791</span>
-						<span>🔱 1764</span>
+						<span>🔠 Python</span>
+						<span>⭐ 21327</span>
+						<span>🔱 2886</span>
 					</div>
-				<div class="stars-today">⭐ 18580 stars this month</div>
+				<div class="stars-today">⭐ 18337 stars this month</div>
 				</div>
 			</div>
 	
@@ -118,10 +118,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 17582</span>
-						<span>🔱 2529</span>
+						<span>⭐ 17627</span>
+						<span>🔱 2535</span>
 					</div>
 				<div class="stars-today">⭐ 13265 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/heygen-com/hyperframes" target="_blank">
+    
+
+
+      
+        heygen-com /
+
+      hyperframes</a></p>
+				<p>
+      Write HTML. Render video. Built for agents.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 18830</span>
+						<span>🔱 1771</span>
+					</div>
+				<div class="stars-today">⭐ 18580 stars this month</div>
 				</div>
 			</div>
 	
@@ -140,7 +162,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 10114</span>
+						<span>⭐ 10141</span>
 						<span>🔱 944</span>
 					</div>
 				<div class="stars-today">⭐ 9254 stars this month</div>
@@ -160,8 +182,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 23966</span>
-						<span>🔱 3309</span>
+						<span>⭐ 24042</span>
+						<span>🔱 3322</span>
 					</div>
 				<div class="stars-today">⭐ 16163 stars this month</div>
 				</div>
@@ -182,32 +204,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 75018</span>
-						<span>🔱 8466</span>
+						<span>⭐ 75037</span>
+						<span>🔱 8469</span>
 					</div>
 				<div class="stars-today">⭐ 17059 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/addyosmani/agent-skills" target="_blank">
-    
-
-
-      
-        addyosmani /
-
-      agent-skills</a></p>
-				<p>
-      Production-grade engineering skills for AI coding agents.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Shell</span>
-						<span>⭐ 42626</span>
-						<span>🔱 4679</span>
-					</div>
-				<div class="stars-today">⭐ 26268 stars this month</div>
 				</div>
 			</div>
 	
@@ -226,10 +226,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 29040</span>
-						<span>🔱 2083</span>
+						<span>⭐ 29069</span>
+						<span>🔱 2084</span>
 					</div>
 				<div class="stars-today">⭐ 9553 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/addyosmani/agent-skills" target="_blank">
+    
+
+
+      
+        addyosmani /
+
+      agent-skills</a></p>
+				<p>
+      Production-grade engineering skills for AI coding agents.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Shell</span>
+						<span>⭐ 42670</span>
+						<span>🔱 4690</span>
+					</div>
+				<div class="stars-today">⭐ 26268 stars this month</div>
 				</div>
 			</div>
 	
@@ -248,54 +270,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 76244</span>
-						<span>🔱 14845</span>
+						<span>⭐ 76296</span>
+						<span>🔱 14863</span>
 					</div>
 				<div class="stars-today">⭐ 25591 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/thunderbird/thunderbolt" target="_blank">
-    
-
-
-      
-        thunderbird /
-
-      thunderbolt</a></p>
-				<p>
-      AI You Control: Choose your models. Own your data. Eliminate vendor lock-in.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 4599</span>
-						<span>🔱 313</span>
-					</div>
-				<div class="stars-today">⭐ 4595 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/NousResearch/hermes-agent" target="_blank">
-    
-
-
-      
-        NousResearch /
-
-      hermes-agent</a></p>
-				<p>
-      The agent that grows with you
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 153831</span>
-						<span>🔱 24556</span>
-					</div>
-				<div class="stars-today">⭐ 61663 stars this month</div>
 				</div>
 			</div>
 	
@@ -314,8 +292,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 12932</span>
-						<span>🔱 998</span>
+						<span>⭐ 13067</span>
+						<span>🔱 1011</span>
 					</div>
 				<div class="stars-today">⭐ 11015 stars this month</div>
 				</div>
@@ -336,8 +314,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 10576</span>
-						<span>🔱 890</span>
+						<span>⭐ 10704</span>
+						<span>🔱 904</span>
 					</div>
 				<div class="stars-today">⭐ 8330 stars this month</div>
 				</div>
@@ -358,8 +336,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 JavaScript</span>
-						<span>⭐ 14648</span>
-						<span>🔱 2545</span>
+						<span>⭐ 14743</span>
+						<span>🔱 2552</span>
 					</div>
 				<div class="stars-today">⭐ 9226 stars this month</div>
 				</div>
@@ -380,7 +358,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 11240</span>
+						<span>⭐ 11253</span>
 						<span>🔱 835</span>
 					</div>
 				<div class="stars-today">⭐ 5285 stars this month</div>
@@ -388,24 +366,24 @@ keywords:
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/Tracer-Cloud/opensre" target="_blank">
+				<p><a href="https://github.com/NousResearch/hermes-agent" target="_blank">
     
 
 
       
-        Tracer-Cloud /
+        NousResearch /
 
-      opensre</a></p>
+      hermes-agent</a></p>
 				<p>
-      Build your own AI SRE agents. The open source toolkit for the AI era.
+      The agent that grows with you
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 5278</span>
-						<span>🔱 663</span>
+						<span>⭐ 154001</span>
+						<span>🔱 24608</span>
 					</div>
-				<div class="stars-today">⭐ 4294 stars this month</div>
+				<div class="stars-today">⭐ 61663 stars this month</div>
 				</div>
 			</div>
 	
@@ -424,10 +402,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 JavaScript</span>
-						<span>⭐ 11233</span>
-						<span>🔱 1724</span>
+						<span>⭐ 11296</span>
+						<span>🔱 1731</span>
 					</div>
 				<div class="stars-today">⭐ 8431 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/ruvnet/ruflo" target="_blank">
+    
+
+
+      
+        ruvnet /
+
+      ruflo</a></p>
+				<p>
+      🌊 The leading agent orchestration platform for Claude. Deploy intelligent multi-agent swarms, coordinate autonomous workflows, and build conversational AI systems. Features enterprise-grade architecture, self-learning swarm intelligence, RAG integration, and native Claude Code / Codex Integration
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 52084</span>
+						<span>🔱 5879</span>
+					</div>
+				<div class="stars-today">⭐ 20156 stars this month</div>
 				</div>
 			</div>
 	
