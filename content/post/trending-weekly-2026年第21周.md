@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2026年第21周
-date: 2026-05-18T05:58:53Z
+date: 2026-05-18T11:33:22Z
 categories:
 - weekly
 keywords:
@@ -30,8 +30,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 14095</span>
-						<span>🔱 1096</span>
+						<span>⭐ 14483</span>
+						<span>🔱 1130</span>
 					</div>
 				<div class="stars-today">⭐ 9007 stars this week</div>
 				</div>
@@ -52,52 +52,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 11595</span>
-						<span>🔱 977</span>
+						<span>⭐ 11945</span>
+						<span>🔱 1014</span>
 					</div>
 				<div class="stars-today">⭐ 7103 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/yikart/AiToEarn" target="_blank">
-    
-
-
-      
-        yikart /
-
-      AiToEarn</a></p>
-				<p>
-      Let's use AI to Earn!
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 14864</span>
-						<span>🔱 2465</span>
-					</div>
-				<div class="stars-today">⭐ 4687 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/anthropics/financial-services" target="_blank">
-    
-
-
-      
-        anthropics /
-
-      financial-services</a></p>
-				<p></p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 24615</span>
-						<span>🔱 3400</span>
-					</div>
-				<div class="stars-today">⭐ 5977 stars this week</div>
 				</div>
 			</div>
 	
@@ -116,8 +74,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Rust</span>
-						<span>⭐ 91794</span>
-						<span>🔱 4579</span>
+						<span>⭐ 91882</span>
+						<span>🔱 4588</span>
 					</div>
 				<div class="stars-today">⭐ 2098 stars this week</div>
 				</div>
@@ -138,10 +96,52 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 9699</span>
-						<span>🔱 1067</span>
+						<span>⭐ 10224</span>
+						<span>🔱 1100</span>
 					</div>
 				<div class="stars-today">⭐ 3624 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/yikart/AiToEarn" target="_blank">
+    
+
+
+      
+        yikart /
+
+      AiToEarn</a></p>
+				<p>
+      Let's use AI to Earn!
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 15016</span>
+						<span>🔱 2481</span>
+					</div>
+				<div class="stars-today">⭐ 4687 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/anthropics/financial-services" target="_blank">
+    
+
+
+      
+        anthropics /
+
+      financial-services</a></p>
+				<p></p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 24947</span>
+						<span>🔱 3448</span>
+					</div>
+				<div class="stars-today">⭐ 5977 stars this week</div>
 				</div>
 			</div>
 	
@@ -160,8 +160,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Shell</span>
-						<span>⭐ 89730</span>
-						<span>🔱 7856</span>
+						<span>⭐ 90655</span>
+						<span>🔱 7949</span>
 					</div>
 				<div class="stars-today">⭐ 19679 stars this week</div>
 				</div>
@@ -182,98 +182,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Rust</span>
-						<span>⭐ 59350</span>
-						<span>🔱 7743</span>
+						<span>⭐ 59505</span>
+						<span>🔱 7763</span>
 					</div>
 				<div class="stars-today">⭐ 6733 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/bytedance/UI-TARS-desktop" target="_blank">
-    
-
-
-      
-        bytedance /
-
-      UI-TARS-desktop</a></p>
-				<p>
-      The Open-Source Multimodal AI Agent Stack: Connecting Cutting-Edge AI Models and Agent Infra
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 34483</span>
-						<span>🔱 3455</span>
-					</div>
-				<div class="stars-today">⭐ 2563 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/apernet/hysteria" target="_blank">
-    
-
-
-      
-        apernet /
-
-      hysteria</a></p>
-				<p>
-      Hysteria is a powerful, lightning fast and censorship resistant proxy.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Go</span>
-						<span>⭐ 21127</span>
-						<span>🔱 2171</span>
-					</div>
-				<div class="stars-today">⭐ 1124 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/decolua/9router" target="_blank">
-    
-
-
-      
-        decolua /
-
-      9router</a></p>
-				<p>
-      Unlimited FREE AI coding. Connect Claude Code, Codex, Cursor, Cline, Copilot, Antigravity to FREE Claude/GPT/Gemini via 40+ providers. Auto-fallback, RTK -40% tokens, never hit limits.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 JavaScript</span>
-						<span>⭐ 11767</span>
-						<span>🔱 1789</span>
-					</div>
-				<div class="stars-today">⭐ 4458 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/HKUDS/AI-Trader" target="_blank">
-    
-
-
-      
-        HKUDS /
-
-      AI-Trader</a></p>
-				<p>
-      "AI-Trader: 100% Fully-Automated Agent-Native Trading" 
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 17969</span>
-						<span>🔱 2735</span>
-					</div>
-				<div class="stars-today">⭐ 2499 stars this week</div>
 				</div>
 			</div>
 	
@@ -292,32 +204,54 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 10015</span>
-						<span>🔱 317</span>
+						<span>⭐ 10065</span>
+						<span>🔱 320</span>
 					</div>
 				<div class="stars-today">⭐ 2430 stars this week</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/Hmbown/DeepSeek-TUI" target="_blank">
+				<p><a href="https://github.com/colbymchenry/codegraph" target="_blank">
     
 
 
       
-        Hmbown /
+        colbymchenry /
 
-      DeepSeek-TUI</a></p>
+      codegraph</a></p>
 				<p>
-      Coding agent for DeepSeek models that runs in your terminal
+      Pre-indexed code knowledge graph for Claude Code, Codex, Cursor, and OpenCode — fewer tokens, fewer tool calls, 100% local
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Rust</span>
-						<span>⭐ 31493</span>
-						<span>🔱 2658</span>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 3886</span>
+						<span>🔱 282</span>
 					</div>
-				<div class="stars-today">⭐ 7444 stars this week</div>
+				<div class="stars-today">⭐ 1935 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/apernet/hysteria" target="_blank">
+    
+
+
+      
+        apernet /
+
+      hysteria</a></p>
+				<p>
+      Hysteria is a powerful, lightning fast and censorship resistant proxy.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Go</span>
+						<span>⭐ 21169</span>
+						<span>🔱 2179</span>
+					</div>
+				<div class="stars-today">⭐ 1124 stars this week</div>
 				</div>
 			</div>
 	
@@ -336,32 +270,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Rust</span>
-						<span>⭐ 6136</span>
-						<span>🔱 363</span>
+						<span>⭐ 6160</span>
+						<span>🔱 366</span>
 					</div>
 				<div class="stars-today">⭐ 394 stars this week</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/obra/superpowers" target="_blank">
+				<p><a href="https://github.com/bytedance/UI-TARS-desktop" target="_blank">
     
 
 
       
-        obra /
+        bytedance /
 
-      superpowers</a></p>
+      UI-TARS-desktop</a></p>
 				<p>
-      An agentic skills framework & software development methodology that works.
+      The Open-Source Multimodal AI Agent Stack: Connecting Cutting-Edge AI Models and Agent Infra
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Shell</span>
-						<span>⭐ 195520</span>
-						<span>🔱 17395</span>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 34556</span>
+						<span>🔱 3465</span>
 					</div>
-				<div class="stars-today">⭐ 10094 stars this week</div>
+				<div class="stars-today">⭐ 2563 stars this week</div>
 				</div>
 			</div>
 	

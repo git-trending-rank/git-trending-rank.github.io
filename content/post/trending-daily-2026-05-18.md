@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2026-05-18
-date: 2026-05-18T05:58:53Z
+date: 2026-05-18T11:33:22Z
 categories:
 - daily
 keywords:
@@ -30,10 +30,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Rust</span>
-						<span>⭐ 14226</span>
-						<span>🔱 1221</span>
+						<span>⭐ 15399</span>
+						<span>🔱 1323</span>
 					</div>
 				<div class="stars-today">⭐ 1690 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/Imbad0202/academic-research-skills" target="_blank">
+    
+
+
+      
+        Imbad0202 /
+
+      academic-research-skills</a></p>
+				<p>
+      Academic Research Skills for Claude Code: research → write → review → revise → finalize
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 10224</span>
+						<span>🔱 1100</span>
+					</div>
+				<div class="stars-today">⭐ 1302 stars today</div>
 				</div>
 			</div>
 	
@@ -52,164 +74,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 35944</span>
-						<span>🔱 3502</span>
+						<span>⭐ 36258</span>
+						<span>🔱 3522</span>
 					</div>
 				<div class="stars-today">⭐ 238 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/calcom/cal.diy" target="_blank">
-    
-
-
-      
-        calcom /
-
-      cal.diy</a></p>
-				<p>
-      Scheduling infrastructure for absolutely everyone.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 43417</span>
-						<span>🔱 13419</span>
-					</div>
-				<div class="stars-today">⭐ 433 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/oven-sh/bun" target="_blank">
-    
-
-
-      
-        oven-sh /
-
-      bun</a></p>
-				<p>
-      Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Rust</span>
-						<span>⭐ 91794</span>
-						<span>🔱 4579</span>
-					</div>
-				<div class="stars-today">⭐ 910 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/Anil-matcha/Open-Generative-AI" target="_blank">
-    
-
-
-      
-        Anil-matcha /
-
-      Open-Generative-AI</a></p>
-				<p>
-      Open-source alternative to AI video platforms — Free AI image & video generation studio with 200+ models (Flux, Midjourney, Kling, Sora, Veo). No content filters. Self-hosted, MIT licensed.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 JavaScript</span>
-						<span>⭐ 15351</span>
-						<span>🔱 2612</span>
-					</div>
-				<div class="stars-today">⭐ 703 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/BigBodyCobain/Shadowbroker" target="_blank">
-    
-
-
-      
-        BigBodyCobain /
-
-      Shadowbroker</a></p>
-				<p>
-      Open-source intelligence for the global theater. Track everything from the corporate/private jets of the wealthy, and spy satellites, to seismic events in one unified interface. Hook an AI agent up to have it parse through data and find previously unseen correlations. The knowledge is available to all but rarely aggregated in the open, until now.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 7274</span>
-						<span>🔱 1130</span>
-					</div>
-				<div class="stars-today">⭐ 333 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/tech-leads-club/agent-skills" target="_blank">
-    
-
-
-      
-        tech-leads-club /
-
-      agent-skills</a></p>
-				<p>
-      The secure, validated skill registry for professional AI coding agents. Extend Antigravity, Claude Code, Cursor, Copilot and more with absolute confidence.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 3668</span>
-						<span>🔱 326</span>
-					</div>
-				<div class="stars-today">⭐ 225 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/NirDiamant/agents-towards-production" target="_blank">
-    
-
-
-      
-        NirDiamant /
-
-      agents-towards-production</a></p>
-				<p>
-      End-to-end, code-first tutorials for building production-grade GenAI agents. From prototype to enterprise deployment.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Jupyter Notebook</span>
-						<span>⭐ 20048</span>
-						<span>🔱 2656</span>
-					</div>
-				<div class="stars-today">⭐ 172 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/dograh-hq/dograh" target="_blank">
-    
-
-
-      
-        dograh-hq /
-
-      dograh</a></p>
-				<p>
-      Open Source Voice Agent Platform
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 1847</span>
-						<span>🔱 385</span>
-					</div>
-				<div class="stars-today">⭐ 223 stars today</div>
 				</div>
 			</div>
 	
@@ -228,164 +96,186 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 23962</span>
-						<span>🔱 2549</span>
+						<span>⭐ 24130</span>
+						<span>🔱 2556</span>
 					</div>
 				<div class="stars-today">⭐ 762 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/Light-Heart-Labs/DreamServer" target="_blank">
+				<p><a href="https://github.com/supertone-inc/supertonic" target="_blank">
     
 
 
       
-        Light-Heart-Labs /
+        supertone-inc /
 
-      DreamServer</a></p>
+      supertonic</a></p>
 				<p>
-      Local AI anywhere, for everyone — LLM inference, chat UI, voice, agents, workflows, RAG, and image generation. No cloud, no subscriptions.
+      Lightning-Fast, On-Device, Multilingual TTS — running natively via ONNX.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Swift</span>
+						<span>⭐ 7947</span>
+						<span>🔱 816</span>
+					</div>
+				<div class="stars-today">⭐ 827 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/ggml-org/llama.cpp" target="_blank">
+    
+
+
+      
+        ggml-org /
+
+      llama.cpp</a></p>
+				<p>
+      LLM inference in C/C++
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 C++</span>
+						<span>⭐ 110736</span>
+						<span>🔱 18339</span>
+					</div>
+				<div class="stars-today">⭐ 179 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/ruvnet/RuView" target="_blank">
+    
+
+
+      
+        ruvnet /
+
+      RuView</a></p>
+				<p>
+      π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Rust</span>
+						<span>⭐ 59505</span>
+						<span>🔱 7763</span>
+					</div>
+				<div class="stars-today">⭐ 963 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/CloakHQ/CloakBrowser" target="_blank">
+    
+
+
+      
+        CloakHQ /
+
+      CloakBrowser</a></p>
+				<p>
+      Stealth Chromium that passes every bot detection test. Drop-in Playwright replacement with source-level fingerprint patches. 30/30 tests passed.
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 1310</span>
-						<span>🔱 215</span>
+						<span>⭐ 14483</span>
+						<span>🔱 1130</span>
 					</div>
-				<div class="stars-today">⭐ 112 stars today</div>
+				<div class="stars-today">⭐ 1391 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/KeygraphHQ/shannon" target="_blank">
+				<p><a href="https://github.com/tech-leads-club/agent-skills" target="_blank">
     
 
 
       
-        KeygraphHQ /
+        tech-leads-club /
 
-      shannon</a></p>
+      agent-skills</a></p>
 				<p>
-      Shannon Lite is an autonomous, white-box AI pentester for web applications and APIs. It analyzes your source code, identifies attack vectors, and executes real exploits to prove vulnerabilities before they reach production.
+      The secure, validated skill registry for professional AI coding agents. Extend Antigravity, Claude Code, Cursor, Copilot and more with absolute confidence.
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 42835</span>
-						<span>🔱 4878</span>
+						<span>⭐ 3794</span>
+						<span>🔱 334</span>
 					</div>
-				<div class="stars-today">⭐ 200 stars today</div>
+				<div class="stars-today">⭐ 225 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/TryGhost/Ghost" target="_blank">
+				<p><a href="https://github.com/BigBodyCobain/Shadowbroker" target="_blank">
     
 
 
       
-        TryGhost /
+        BigBodyCobain /
 
-      Ghost</a></p>
+      Shadowbroker</a></p>
 				<p>
-      Independent technology for modern publishing, memberships, subscriptions and newsletters.
+      Open-source intelligence for the global theater. Track everything from the corporate/private jets of the wealthy, and spy satellites, to seismic events in one unified interface. Hook an AI agent up to have it parse through data and find previously unseen correlations. The knowledge is available to all but rarely aggregated in the open, until now.
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 JavaScript</span>
-						<span>⭐ 53407</span>
-						<span>🔱 11617</span>
+						<span>🔠 Python</span>
+						<span>⭐ 7446</span>
+						<span>🔱 1165</span>
 					</div>
-				<div class="stars-today">⭐ 231 stars today</div>
+				<div class="stars-today">⭐ 333 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/medusajs/medusa" target="_blank">
+				<p><a href="https://github.com/humanlayer/12-factor-agents" target="_blank">
     
 
 
       
-        medusajs /
+        humanlayer /
 
-      medusa</a></p>
+      12-factor-agents</a></p>
 				<p>
-      The world's most flexible commerce platform.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 33610</span>
-						<span>🔱 4478</span>
-					</div>
-				<div class="stars-today">⭐ 211 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/knadh/listmonk" target="_blank">
-    
-
-
-      
-        knadh /
-
-      listmonk</a></p>
-				<p>
-      High performance, self-hosted, newsletter and mailing list manager with a modern dashboard. Single binary app.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Go</span>
-						<span>⭐ 20690</span>
-						<span>🔱 2154</span>
-					</div>
-				<div class="stars-today">⭐ 242 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/plausible/analytics" target="_blank">
-    
-
-
-      
-        plausible /
-
-      analytics</a></p>
-				<p>
-      Open source, privacy-first web analytics. Lightweight, cookie-free Google Analytics alternative. Self-hosted or cloud.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Elixir</span>
-						<span>⭐ 25571</span>
-						<span>🔱 1470</span>
-					</div>
-				<div class="stars-today">⭐ 186 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/colbymchenry/codegraph" target="_blank">
-    
-
-
-      
-        colbymchenry /
-
-      codegraph</a></p>
-				<p>
-      Pre-indexed code knowledge graph for Claude Code, Codex, Cursor, and OpenCode — fewer tokens, fewer tool calls, 100% local
+      What are the principles we can use to build LLM-powered software that is actually good enough to put in the hands of production customers?
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 3612</span>
-						<span>🔱 274</span>
+						<span>⭐ 20204</span>
+						<span>🔱 1530</span>
 					</div>
-				<div class="stars-today">⭐ 857 stars today</div>
+				<div class="stars-today">⭐ 359 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/NVlabs/Sana" target="_blank">
+    
+
+
+      
+        NVlabs /
+
+      Sana</a></p>
+				<p>
+      SANA: Efficient High-Resolution Image Synthesis with Linear Diffusion Transformer
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 6288</span>
+						<span>🔱 446</span>
+					</div>
+				<div class="stars-today">⭐ 472 stars today</div>
 				</div>
 			</div>
 	
@@ -404,10 +294,54 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Jupyter Notebook</span>
-						<span>⭐ 62805</span>
-						<span>🔱 21077</span>
+						<span>⭐ 63072</span>
+						<span>🔱 21124</span>
 					</div>
 				<div class="stars-today">⭐ 485 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/ZhuLinsen/daily_stock_analysis" target="_blank">
+    
+
+
+      
+        ZhuLinsen /
+
+      daily_stock_analysis</a></p>
+				<p>
+      LLM驱动的 A/H/美股智能分析：多数据源行情 + 实时新闻 + LLM决策仪表盘 + 多渠道推送，零成本定时运行，纯白嫖. LLM-powered stock analysis system for A/H/US markets.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 36748</span>
+						<span>🔱 36063</span>
+					</div>
+				<div class="stars-today">⭐ 290 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/plausible/analytics" target="_blank">
+    
+
+
+      
+        plausible /
+
+      analytics</a></p>
+				<p>
+      Open source, privacy-first web analytics. Lightweight, cookie-free Google Analytics alternative. Self-hosted or cloud.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Elixir</span>
+						<span>⭐ 25702</span>
+						<span>🔱 1479</span>
+					</div>
+				<div class="stars-today">⭐ 186 stars today</div>
 				</div>
 			</div>
 	
