@@ -6,7 +6,355 @@
         <description>Recent content in Daily on Git Trending Rank</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en</language>
-        <lastBuildDate>Mon, 18 May 2026 22:43:44 +0000</lastBuildDate><atom:link href="https://git-trending-rank.github.io/categories/daily/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Tue, 19 May 2026 01:51:34 +0000</lastBuildDate><atom:link href="https://git-trending-rank.github.io/categories/daily/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>GitHub 趋势 2026-05-19</title>
+        <link>https://git-trending-rank.github.io/post/trending-daily-2026-05-19/</link>
+        <pubDate>Tue, 19 May 2026 01:51:34 +0000</pubDate>
+        
+        <guid>https://git-trending-rank.github.io/post/trending-daily-2026-05-19/</guid>
+        <description>&lt;link rel=&#34;stylesheet&#34; href=&#34;https://git-trending-rank.github.io/public/css/trending.css&#34;&gt;
+
+	&lt;main class=&#34;container&#34;&gt;
+        &lt;div class=&#34;repo-list&#34; id=&#34;repoList&#34;&gt;
+
+	
+			&lt;div class=&#34;repo-card&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/tinyhumansai/openhuman&#34; target=&#34;_blank&#34;&gt;
+    
+
+
+      
+        tinyhumansai /
+
+      openhuman&lt;/a&gt;&lt;/p&gt;
+				&lt;p&gt;
+      Your Personal AI super intelligence. Private, Simple and extremely powerful.
+    &lt;/p&gt;
+				&lt;div class=&#34;repo-stats&#34;&gt;
+					&lt;div&gt;
+						&lt;span&gt;🔠 Rust&lt;/span&gt;
+						&lt;span&gt;⭐ 17441&lt;/span&gt;
+						&lt;span&gt;🔱 1519&lt;/span&gt;
+					&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 3941 stars today&lt;/div&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+	
+			&lt;div class=&#34;repo-card&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/Imbad0202/academic-research-skills&#34; target=&#34;_blank&#34;&gt;
+    
+
+
+      
+        Imbad0202 /
+
+      academic-research-skills&lt;/a&gt;&lt;/p&gt;
+				&lt;p&gt;
+      Academic Research Skills for Claude Code: research → write → review → revise → finalize
+    &lt;/p&gt;
+				&lt;div class=&#34;repo-stats&#34;&gt;
+					&lt;div&gt;
+						&lt;span&gt;🔠 Python&lt;/span&gt;
+						&lt;span&gt;⭐ 11887&lt;/span&gt;
+						&lt;span&gt;🔱 1213&lt;/span&gt;
+					&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 1439 stars today&lt;/div&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+	
+			&lt;div class=&#34;repo-card&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/HKUDS/CLI-Anything&#34; target=&#34;_blank&#34;&gt;
+    
+
+
+      
+        HKUDS /
+
+      CLI-Anything&lt;/a&gt;&lt;/p&gt;
+				&lt;p&gt;
+      &#34;CLI-Anything: Making ALL Software Agent-Native&#34; -- CLI-Hub: https://clianything.cc/
+    &lt;/p&gt;
+				&lt;div class=&#34;repo-stats&#34;&gt;
+					&lt;div&gt;
+						&lt;span&gt;🔠 Python&lt;/span&gt;
+						&lt;span&gt;⭐ 36685&lt;/span&gt;
+						&lt;span&gt;🔱 3560&lt;/span&gt;
+					&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 1049 stars today&lt;/div&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+	
+			&lt;div class=&#34;repo-card&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/K-Dense-AI/scientific-agent-skills&#34; target=&#34;_blank&#34;&gt;
+    
+
+
+      
+        K-Dense-AI /
+
+      scientific-agent-skills&lt;/a&gt;&lt;/p&gt;
+				&lt;p&gt;
+      A set of ready to use Agent Skills for research, science, engineering, analysis, finance and writing.
+    &lt;/p&gt;
+				&lt;div class=&#34;repo-stats&#34;&gt;
+					&lt;div&gt;
+						&lt;span&gt;🔠 Python&lt;/span&gt;
+						&lt;span&gt;⭐ 24423&lt;/span&gt;
+						&lt;span&gt;🔱 2578&lt;/span&gt;
+					&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 609 stars today&lt;/div&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+	
+			&lt;div class=&#34;repo-card&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/supertone-inc/supertonic&#34; target=&#34;_blank&#34;&gt;
+    
+
+
+      
+        supertone-inc /
+
+      supertonic&lt;/a&gt;&lt;/p&gt;
+				&lt;p&gt;
+      Lightning-Fast, On-Device, Multilingual TTS — running natively via ONNX.
+    &lt;/p&gt;
+				&lt;div class=&#34;repo-stats&#34;&gt;
+					&lt;div&gt;
+						&lt;span&gt;🔠 Swift&lt;/span&gt;
+						&lt;span&gt;⭐ 8373&lt;/span&gt;
+						&lt;span&gt;🔱 853&lt;/span&gt;
+					&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 715 stars today&lt;/div&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+	
+			&lt;div class=&#34;repo-card&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/ggml-org/llama.cpp&#34; target=&#34;_blank&#34;&gt;
+    
+
+
+      
+        ggml-org /
+
+      llama.cpp&lt;/a&gt;&lt;/p&gt;
+				&lt;p&gt;
+      LLM inference in C/C++
+    &lt;/p&gt;
+				&lt;div class=&#34;repo-stats&#34;&gt;
+					&lt;div&gt;
+						&lt;span&gt;🔠 C++&lt;/span&gt;
+						&lt;span&gt;⭐ 111069&lt;/span&gt;
+						&lt;span&gt;🔱 18387&lt;/span&gt;
+					&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 213 stars today&lt;/div&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+	
+			&lt;div class=&#34;repo-card&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/ruvnet/RuView&#34; target=&#34;_blank&#34;&gt;
+    
+
+
+      
+        ruvnet /
+
+      RuView&lt;/a&gt;&lt;/p&gt;
+				&lt;p&gt;
+      π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.
+    &lt;/p&gt;
+				&lt;div class=&#34;repo-stats&#34;&gt;
+					&lt;div&gt;
+						&lt;span&gt;🔠 Rust&lt;/span&gt;
+						&lt;span&gt;⭐ 59932&lt;/span&gt;
+						&lt;span&gt;🔱 7811&lt;/span&gt;
+					&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 700 stars today&lt;/div&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+	
+			&lt;div class=&#34;repo-card&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/CloakHQ/CloakBrowser&#34; target=&#34;_blank&#34;&gt;
+    
+
+
+      
+        CloakHQ /
+
+      CloakBrowser&lt;/a&gt;&lt;/p&gt;
+				&lt;p&gt;
+      Stealth Chromium that passes every bot detection test. Drop-in Playwright replacement with source-level fingerprint patches. 30/30 tests passed.
+    &lt;/p&gt;
+				&lt;div class=&#34;repo-stats&#34;&gt;
+					&lt;div&gt;
+						&lt;span&gt;🔠 Python&lt;/span&gt;
+						&lt;span&gt;⭐ 15291&lt;/span&gt;
+						&lt;span&gt;🔱 1194&lt;/span&gt;
+					&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 1420 stars today&lt;/div&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+	
+			&lt;div class=&#34;repo-card&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/tech-leads-club/agent-skills&#34; target=&#34;_blank&#34;&gt;
+    
+
+
+      
+        tech-leads-club /
+
+      agent-skills&lt;/a&gt;&lt;/p&gt;
+				&lt;p&gt;
+      The secure, validated skill registry for professional AI coding agents. Extend Antigravity, Claude Code, Cursor, Copilot and more with absolute confidence.
+    &lt;/p&gt;
+				&lt;div class=&#34;repo-stats&#34;&gt;
+					&lt;div&gt;
+						&lt;span&gt;🔠 TypeScript&lt;/span&gt;
+						&lt;span&gt;⭐ 4069&lt;/span&gt;
+						&lt;span&gt;🔱 351&lt;/span&gt;
+					&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 1244 stars today&lt;/div&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+	
+			&lt;div class=&#34;repo-card&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/BigBodyCobain/Shadowbroker&#34; target=&#34;_blank&#34;&gt;
+    
+
+
+      
+        BigBodyCobain /
+
+      Shadowbroker&lt;/a&gt;&lt;/p&gt;
+				&lt;p&gt;
+      Open-source intelligence for the global theater. Track everything from the corporate/private jets of the wealthy, and spy satellites, to seismic events in one unified interface. Hook an AI agent up to have it parse through data and find previously unseen correlations. The knowledge is available to all but rarely aggregated in the open, until now.
+    &lt;/p&gt;
+				&lt;div class=&#34;repo-stats&#34;&gt;
+					&lt;div&gt;
+						&lt;span&gt;🔠 Python&lt;/span&gt;
+						&lt;span&gt;⭐ 7758&lt;/span&gt;
+						&lt;span&gt;🔱 1194&lt;/span&gt;
+					&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 767 stars today&lt;/div&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+	
+			&lt;div class=&#34;repo-card&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/humanlayer/12-factor-agents&#34; target=&#34;_blank&#34;&gt;
+    
+
+
+      
+        humanlayer /
+
+      12-factor-agents&lt;/a&gt;&lt;/p&gt;
+				&lt;p&gt;
+      What are the principles we can use to build LLM-powered software that is actually good enough to put in the hands of production customers?
+    &lt;/p&gt;
+				&lt;div class=&#34;repo-stats&#34;&gt;
+					&lt;div&gt;
+						&lt;span&gt;🔠 TypeScript&lt;/span&gt;
+						&lt;span&gt;⭐ 20616&lt;/span&gt;
+						&lt;span&gt;🔱 1561&lt;/span&gt;
+					&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 399 stars today&lt;/div&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+	
+			&lt;div class=&#34;repo-card&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/NVlabs/Sana&#34; target=&#34;_blank&#34;&gt;
+    
+
+
+      
+        NVlabs /
+
+      Sana&lt;/a&gt;&lt;/p&gt;
+				&lt;p&gt;
+      SANA: Efficient High-Resolution Image Synthesis with Linear Diffusion Transformer
+    &lt;/p&gt;
+				&lt;div class=&#34;repo-stats&#34;&gt;
+					&lt;div&gt;
+						&lt;span&gt;🔠 Python&lt;/span&gt;
+						&lt;span&gt;⭐ 6544&lt;/span&gt;
+						&lt;span&gt;🔱 468&lt;/span&gt;
+					&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 387 stars today&lt;/div&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+	
+			&lt;div class=&#34;repo-card&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/microsoft/ai-agents-for-beginners&#34; target=&#34;_blank&#34;&gt;
+    
+
+
+      
+        microsoft /
+
+      ai-agents-for-beginners&lt;/a&gt;&lt;/p&gt;
+				&lt;p&gt;
+      12 Lessons to Get Started Building AI Agents
+    &lt;/p&gt;
+				&lt;div class=&#34;repo-stats&#34;&gt;
+					&lt;div&gt;
+						&lt;span&gt;🔠 Jupyter Notebook&lt;/span&gt;
+						&lt;span&gt;⭐ 63488&lt;/span&gt;
+						&lt;span&gt;🔱 21177&lt;/span&gt;
+					&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 1012 stars today&lt;/div&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+	
+			&lt;div class=&#34;repo-card&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/ZhuLinsen/daily_stock_analysis&#34; target=&#34;_blank&#34;&gt;
+    
+
+
+      
+        ZhuLinsen /
+
+      daily_stock_analysis&lt;/a&gt;&lt;/p&gt;
+				&lt;p&gt;
+      LLM驱动的 A/H/美股智能分析：多数据源行情 + 实时新闻 + LLM决策仪表盘 + 多渠道推送，零成本定时运行，纯白嫖. LLM-powered stock analysis system for A/H/US markets.
+    &lt;/p&gt;
+				&lt;div class=&#34;repo-stats&#34;&gt;
+					&lt;div&gt;
+						&lt;span&gt;🔠 Python&lt;/span&gt;
+						&lt;span&gt;⭐ 37173&lt;/span&gt;
+						&lt;span&gt;🔱 36200&lt;/span&gt;
+					&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 310 stars today&lt;/div&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+	
+			&lt;div class=&#34;repo-card&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/plausible/analytics&#34; target=&#34;_blank&#34;&gt;
+    
+
+
+      
+        plausible /
+
+      analytics&lt;/a&gt;&lt;/p&gt;
+				&lt;p&gt;
+      Open source, privacy-first web analytics. Lightweight, cookie-free Google Analytics alternative. Self-hosted or cloud.
+    &lt;/p&gt;
+				&lt;div class=&#34;repo-stats&#34;&gt;
+					&lt;div&gt;
+						&lt;span&gt;🔠 Elixir&lt;/span&gt;
+						&lt;span&gt;⭐ 25983&lt;/span&gt;
+						&lt;span&gt;🔱 1494&lt;/span&gt;
+					&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 638 stars today&lt;/div&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+	
+
+		&lt;/div&gt;
+    &lt;/main&gt;
+
+</description>
+        </item>
+        <item>
         <title>GitHub 趋势 2026-05-18</title>
         <link>https://git-trending-rank.github.io/post/trending-daily-2026-05-18/</link>
         <pubDate>Mon, 18 May 2026 22:43:44 +0000</pubDate>
