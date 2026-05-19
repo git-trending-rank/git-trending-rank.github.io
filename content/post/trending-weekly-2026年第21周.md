@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2026年第21周
-date: 2026-05-19T08:58:57Z
+date: 2026-05-19T12:30:48Z
 categories:
 - weekly
 keywords:
@@ -16,24 +16,24 @@ keywords:
 
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/CloakHQ/CloakBrowser" target="_blank">
+				<p><a href="https://github.com/tinyhumansai/openhuman" target="_blank">
     
 
 
       
-        CloakHQ /
+        tinyhumansai /
 
-      CloakBrowser</a></p>
+      openhuman</a></p>
 				<p>
-      Stealth Chromium that passes every bot detection test. Drop-in Playwright replacement with source-level fingerprint patches. 30/30 tests passed.
+      Your Personal AI super intelligence. Private, Simple and extremely powerful.
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 15787</span>
-						<span>🔱 1239</span>
+						<span>🔠 Rust</span>
+						<span>⭐ 19518</span>
+						<span>🔱 1703</span>
 					</div>
-				<div class="stars-today">⭐ 9124 stars this week</div>
+				<div class="stars-today">⭐ 15349 stars this week</div>
 				</div>
 			</div>
 	
@@ -52,32 +52,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 13401</span>
-						<span>🔱 1136</span>
+						<span>⭐ 13601</span>
+						<span>🔱 1145</span>
 					</div>
 				<div class="stars-today">⭐ 7830 stars this week</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/oven-sh/bun" target="_blank">
+				<p><a href="https://github.com/CloakHQ/CloakBrowser" target="_blank">
     
 
 
       
-        oven-sh /
+        CloakHQ /
 
-      bun</a></p>
+      CloakBrowser</a></p>
 				<p>
-      Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one
+      Stealth Chromium that passes every bot detection test. Drop-in Playwright replacement with source-level fingerprint patches. 30/30 tests passed.
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Rust</span>
-						<span>⭐ 91989</span>
-						<span>🔱 4599</span>
+						<span>🔠 Python</span>
+						<span>⭐ 16013</span>
+						<span>🔱 1244</span>
 					</div>
-				<div class="stars-today">⭐ 2350 stars this week</div>
+				<div class="stars-today">⭐ 9124 stars this week</div>
 				</div>
 			</div>
 	
@@ -96,74 +96,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 13038</span>
-						<span>🔱 1266</span>
+						<span>⭐ 13500</span>
+						<span>🔱 1289</span>
 					</div>
 				<div class="stars-today">⭐ 4402 stars this week</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/yikart/AiToEarn" target="_blank">
+				<p><a href="https://github.com/oven-sh/bun" target="_blank">
     
 
 
       
-        yikart /
+        oven-sh /
 
-      AiToEarn</a></p>
+      bun</a></p>
 				<p>
-      Let's use AI to Earn!
+      Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 15358</span>
-						<span>🔱 2512</span>
+						<span>🔠 Rust</span>
+						<span>⭐ 92011</span>
+						<span>🔱 4600</span>
 					</div>
-				<div class="stars-today">⭐ 4851 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/anthropics/financial-services" target="_blank">
-    
-
-
-      
-        anthropics /
-
-      financial-services</a></p>
-				<p></p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 25667</span>
-						<span>🔱 3558</span>
-					</div>
-				<div class="stars-today">⭐ 5259 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/mattpocock/skills" target="_blank">
-    
-
-
-      
-        mattpocock /
-
-      skills</a></p>
-				<p>
-      Skills for Real Engineers. Straight from my .claude directory.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Shell</span>
-						<span>⭐ 92943</span>
-						<span>🔱 8165</span>
-					</div>
-				<div class="stars-today">⭐ 20361 stars this week</div>
+				<div class="stars-today">⭐ 2350 stars this week</div>
 				</div>
 			</div>
 	
@@ -182,32 +140,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Rust</span>
-						<span>⭐ 60260</span>
-						<span>🔱 7850</span>
+						<span>⭐ 60394</span>
+						<span>🔱 7875</span>
 					</div>
 				<div class="stars-today">⭐ 7217 stars this week</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/millionco/react-doctor" target="_blank">
+				<p><a href="https://github.com/mattpocock/skills" target="_blank">
     
 
 
       
-        millionco /
+        mattpocock /
 
-      react-doctor</a></p>
+      skills</a></p>
 				<p>
-      Your agent writes bad React. This catches it
+      Skills for Real Engineers. Straight from my .claude directory.
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 10244</span>
-						<span>🔱 328</span>
+						<span>🔠 Shell</span>
+						<span>⭐ 93412</span>
+						<span>🔱 8210</span>
 					</div>
-				<div class="stars-today">⭐ 2453 stars this week</div>
+				<div class="stars-today">⭐ 20361 stars this week</div>
 				</div>
 			</div>
 	
@@ -226,32 +184,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 5526</span>
-						<span>🔱 378</span>
+						<span>⭐ 5765</span>
+						<span>🔱 392</span>
 					</div>
 				<div class="stars-today">⭐ 2690 stars this week</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/apernet/hysteria" target="_blank">
+				<p><a href="https://github.com/yikart/AiToEarn" target="_blank">
     
 
 
       
-        apernet /
+        yikart /
 
-      hysteria</a></p>
+      AiToEarn</a></p>
 				<p>
-      Hysteria is a powerful, lightning fast and censorship resistant proxy.
+      Let's use AI to Earn!
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Go</span>
-						<span>⭐ 21295</span>
-						<span>🔱 2186</span>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 15406</span>
+						<span>🔱 2515</span>
 					</div>
-				<div class="stars-today">⭐ 1254 stars this week</div>
+				<div class="stars-today">⭐ 4851 stars this week</div>
 				</div>
 			</div>
 	
@@ -270,7 +228,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Rust</span>
-						<span>⭐ 6239</span>
+						<span>⭐ 6250</span>
 						<span>🔱 370</span>
 					</div>
 				<div class="stars-today">⭐ 481 stars this week</div>
@@ -278,24 +236,110 @@ keywords:
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/bytedance/UI-TARS-desktop" target="_blank">
+				<p><a href="https://github.com/anthropics/financial-services" target="_blank">
     
 
 
       
-        bytedance /
+        anthropics /
 
-      UI-TARS-desktop</a></p>
+      financial-services</a></p>
+				<p></p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 25738</span>
+						<span>🔱 3569</span>
+					</div>
+				<div class="stars-today">⭐ 5259 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/BigBodyCobain/Shadowbroker" target="_blank">
+    
+
+
+      
+        BigBodyCobain /
+
+      Shadowbroker</a></p>
 				<p>
-      The Open-Source Multimodal AI Agent Stack: Connecting Cutting-Edge AI Models and Agent Infra
+      Open-source intelligence for the global theater. Track everything from the corporate/private jets of the wealthy, and spy satellites, to seismic events in one unified interface. Hook an AI agent up to have it parse through data and find previously unseen correlations. The knowledge is available to all but rarely aggregated in the open, until now.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 8062</span>
+						<span>🔱 1223</span>
+					</div>
+				<div class="stars-today">⭐ 1376 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/millionco/react-doctor" target="_blank">
+    
+
+
+      
+        millionco /
+
+      react-doctor</a></p>
+				<p>
+      Your agent writes bad React. This catches it
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 34710</span>
-						<span>🔱 3485</span>
+						<span>⭐ 10269</span>
+						<span>🔱 328</span>
 					</div>
-				<div class="stars-today">⭐ 1939 stars this week</div>
+				<div class="stars-today">⭐ 2453 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/obra/superpowers" target="_blank">
+    
+
+
+      
+        obra /
+
+      superpowers</a></p>
+				<p>
+      An agentic skills framework & software development methodology that works.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Shell</span>
+						<span>⭐ 197735</span>
+						<span>🔱 17641</span>
+					</div>
+				<div class="stars-today">⭐ 10476 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/apernet/hysteria" target="_blank">
+    
+
+
+      
+        apernet /
+
+      hysteria</a></p>
+				<p>
+      Hysteria is a powerful, lightning fast and censorship resistant proxy.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Go</span>
+						<span>⭐ 21308</span>
+						<span>🔱 2186</span>
+					</div>
+				<div class="stars-today">⭐ 1254 stars this week</div>
 				</div>
 			</div>
 	

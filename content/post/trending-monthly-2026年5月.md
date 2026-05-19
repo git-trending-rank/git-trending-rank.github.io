@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2026年5月
-date: 2026-05-19T08:58:57Z
+date: 2026-05-19T12:30:48Z
 categories:
 - monthly
 keywords:
@@ -30,8 +30,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Shell</span>
-						<span>⭐ 92943</span>
-						<span>🔱 8165</span>
+						<span>⭐ 93412</span>
+						<span>🔱 8210</span>
 					</div>
 				<div class="stars-today">⭐ 75156 stars this month</div>
 				</div>
@@ -52,8 +52,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 25869</span>
-						<span>🔱 3860</span>
+						<span>⭐ 25963</span>
+						<span>🔱 3875</span>
 					</div>
 				<div class="stars-today">⭐ 23648 stars this month</div>
 				</div>
@@ -74,8 +74,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 </span>
-						<span>⭐ 136829</span>
-						<span>🔱 14036</span>
+						<span>⭐ 137141</span>
+						<span>🔱 14059</span>
 					</div>
 				<div class="stars-today">⭐ 79827 stars this month</div>
 				</div>
@@ -96,74 +96,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 18272</span>
-						<span>🔱 2608</span>
+						<span>⭐ 18321</span>
+						<span>🔱 2614</span>
 					</div>
 				<div class="stars-today">⭐ 13920 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/Fincept-Corporation/FinceptTerminal" target="_blank">
-    
-
-
-      
-        Fincept-Corporation /
-
-      FinceptTerminal</a></p>
-				<p>
-      FinceptTerminal is a modern finance application offering advanced market analytics, investment research, and economic data tools, designed for interactive exploration and data-driven decision-making in a user-friendly environment.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 21676</span>
-						<span>🔱 2920</span>
-					</div>
-				<div class="stars-today">⭐ 17662 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/anthropics/financial-services" target="_blank">
-    
-
-
-      
-        anthropics /
-
-      financial-services</a></p>
-				<p></p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 25667</span>
-						<span>🔱 3558</span>
-					</div>
-				<div class="stars-today">⭐ 17541 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/Z4nzu/hackingtool" target="_blank">
-    
-
-
-      
-        Z4nzu /
-
-      hackingtool</a></p>
-				<p>
-      ALL IN ONE Hacking Tool For Hackers
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 75454</span>
-						<span>🔱 8510</span>
-					</div>
-				<div class="stars-today">⭐ 17407 stars this month</div>
 				</div>
 			</div>
 	
@@ -182,76 +118,30 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 15787</span>
-						<span>🔱 1239</span>
+						<span>⭐ 16013</span>
+						<span>🔱 1244</span>
 					</div>
 				<div class="stars-today">⭐ 13346 stars this month</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/soxoj/maigret" target="_blank">
+				<p><a href="https://github.com/anthropics/financial-services" target="_blank">
     
 
 
       
-        soxoj /
+        anthropics /
 
-      maigret</a></p>
-				<p>
-      🕵️‍♂️ Collect a dossier on a person by username from 3000+ sites
-    </p>
+      financial-services</a></p>
+				<p></p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 29421</span>
-						<span>🔱 2110</span>
+						<span>⭐ 25738</span>
+						<span>🔱 3569</span>
 					</div>
-				<div class="stars-today">⭐ 9898 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/addyosmani/agent-skills" target="_blank">
-    
-
-
-      
-        addyosmani /
-
-      agent-skills</a></p>
-				<p>
-      Production-grade engineering skills for AI coding agents.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Shell</span>
-						<span>⭐ 43567</span>
-						<span>🔱 4796</span>
-					</div>
-				<div class="stars-today">⭐ 26123 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/TauricResearch/TradingAgents" target="_blank">
-    
-
-
-      
-        TauricResearch /
-
-      TradingAgents</a></p>
-				<p>
-      TradingAgents: Multi-Agents LLM Financial Trading Framework
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 77134</span>
-						<span>🔱 15047</span>
-					</div>
-				<div class="stars-today">⭐ 25921 stars this month</div>
+				<div class="stars-today">⭐ 17541 stars this month</div>
 				</div>
 			</div>
 	
@@ -270,32 +160,98 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 13401</span>
-						<span>🔱 1136</span>
+						<span>⭐ 13601</span>
+						<span>🔱 1145</span>
 					</div>
 				<div class="stars-today">⭐ 10333 stars this month</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/heygen-com/hyperframes" target="_blank">
+				<p><a href="https://github.com/Z4nzu/hackingtool" target="_blank">
     
 
 
       
-        heygen-com /
+        Z4nzu /
 
-      hyperframes</a></p>
+      hackingtool</a></p>
 				<p>
-      Write HTML. Render video. Built for agents.
+      ALL IN ONE Hacking Tool For Hackers
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 19496</span>
-						<span>🔱 1838</span>
+						<span>🔠 Python</span>
+						<span>⭐ 75492</span>
+						<span>🔱 8514</span>
 					</div>
-				<div class="stars-today">⭐ 15723 stars this month</div>
+				<div class="stars-today">⭐ 17407 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/soxoj/maigret" target="_blank">
+    
+
+
+      
+        soxoj /
+
+      maigret</a></p>
+				<p>
+      🕵️‍♂️ Collect a dossier on a person by username from 3000+ sites
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 29443</span>
+						<span>🔱 2112</span>
+					</div>
+				<div class="stars-today">⭐ 9898 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/TauricResearch/TradingAgents" target="_blank">
+    
+
+
+      
+        TauricResearch /
+
+      TradingAgents</a></p>
+				<p>
+      TradingAgents: Multi-Agents LLM Financial Trading Framework
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 77204</span>
+						<span>🔱 15063</span>
+					</div>
+				<div class="stars-today">⭐ 25921 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/addyosmani/agent-skills" target="_blank">
+    
+
+
+      
+        addyosmani /
+
+      agent-skills</a></p>
+				<p>
+      Production-grade engineering skills for AI coding agents.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Shell</span>
+						<span>⭐ 43637</span>
+						<span>🔱 4805</span>
+					</div>
+				<div class="stars-today">⭐ 26123 stars this month</div>
 				</div>
 			</div>
 	
@@ -314,32 +270,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 JavaScript</span>
-						<span>⭐ 15899</span>
-						<span>🔱 2684</span>
+						<span>⭐ 15944</span>
+						<span>🔱 2690</span>
 					</div>
 				<div class="stars-today">⭐ 10606 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/zilliztech/claude-context" target="_blank">
-    
-
-
-      
-        zilliztech /
-
-      claude-context</a></p>
-				<p>
-      Code search MCP for Claude Code. Make entire codebase the context for any coding agent.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 11437</span>
-						<span>🔱 842</span>
-					</div>
-				<div class="stars-today">⭐ 5469 stars this month</div>
 				</div>
 			</div>
 	
@@ -358,10 +292,76 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 JavaScript</span>
-						<span>⭐ 12332</span>
-						<span>🔱 1865</span>
+						<span>⭐ 12382</span>
+						<span>🔱 1869</span>
 					</div>
 				<div class="stars-today">⭐ 9426 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/Fincept-Corporation/FinceptTerminal" target="_blank">
+    
+
+
+      
+        Fincept-Corporation /
+
+      FinceptTerminal</a></p>
+				<p>
+      FinceptTerminal is a modern finance application offering advanced market analytics, investment research, and economic data tools, designed for interactive exploration and data-driven decision-making in a user-friendly environment.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 21691</span>
+						<span>🔱 2921</span>
+					</div>
+				<div class="stars-today">⭐ 17662 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/Imbad0202/academic-research-skills" target="_blank">
+    
+
+
+      
+        Imbad0202 /
+
+      academic-research-skills</a></p>
+				<p>
+      Academic Research Skills for Claude Code: research → write → review → revise → finalize
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 13500</span>
+						<span>🔱 1289</span>
+					</div>
+				<div class="stars-today">⭐ 7957 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/heygen-com/hyperframes" target="_blank">
+    
+
+
+      
+        heygen-com /
+
+      hyperframes</a></p>
+				<p>
+      Write HTML. Render video. Built for agents.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 19557</span>
+						<span>🔱 1841</span>
+					</div>
+				<div class="stars-today">⭐ 15723 stars this month</div>
 				</div>
 			</div>
 	
@@ -380,32 +380,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 52975</span>
-						<span>🔱 5996</span>
+						<span>⭐ 53039</span>
+						<span>🔱 6003</span>
 					</div>
 				<div class="stars-today">⭐ 20788 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/NousResearch/hermes-agent" target="_blank">
-    
-
-
-      
-        NousResearch /
-
-      hermes-agent</a></p>
-				<p>
-      The agent that grows with you
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 157107</span>
-						<span>🔱 25320</span>
-					</div>
-				<div class="stars-today">⭐ 58667 stars this month</div>
 				</div>
 			</div>
 	
