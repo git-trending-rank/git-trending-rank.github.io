@@ -6,10 +6,10 @@
         <description>Recent content in Daily on Git Trending Rank</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en</language>
-        <lastBuildDate>Tue, 19 May 2026 08:58:57 +0000</lastBuildDate><atom:link href="https://git-trending-rank.github.io/categories/daily/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Tue, 19 May 2026 12:30:48 +0000</lastBuildDate><atom:link href="https://git-trending-rank.github.io/categories/daily/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>GitHub 趋势 2026-05-19</title>
         <link>https://git-trending-rank.github.io/post/trending-daily-2026-05-19/</link>
-        <pubDate>Tue, 19 May 2026 08:58:57 +0000</pubDate>
+        <pubDate>Tue, 19 May 2026 12:30:48 +0000</pubDate>
         
         <guid>https://git-trending-rank.github.io/post/trending-daily-2026-05-19/</guid>
         <description>&lt;link rel=&#34;stylesheet&#34; href=&#34;https://git-trending-rank.github.io/public/css/trending.css&#34;&gt;
@@ -33,32 +33,10 @@
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;div&gt;
 						&lt;span&gt;🔠 Rust&lt;/span&gt;
-						&lt;span&gt;⭐ 18885&lt;/span&gt;
-						&lt;span&gt;🔱 1658&lt;/span&gt;
+						&lt;span&gt;⭐ 19518&lt;/span&gt;
+						&lt;span&gt;🔱 1703&lt;/span&gt;
 					&lt;/div&gt;
-				&lt;div class=&#34;stars-today&#34;&gt;⭐ 3941 stars today&lt;/div&gt;
-				&lt;/div&gt;
-			&lt;/div&gt;
-	
-			&lt;div class=&#34;repo-card&#34;&gt;
-				&lt;p&gt;&lt;a href=&#34;https://github.com/Imbad0202/academic-research-skills&#34; target=&#34;_blank&#34;&gt;
-    
-
-
-      
-        Imbad0202 /
-
-      academic-research-skills&lt;/a&gt;&lt;/p&gt;
-				&lt;p&gt;
-      Academic Research Skills for Claude Code: research → write → review → revise → finalize
-    &lt;/p&gt;
-				&lt;div class=&#34;repo-stats&#34;&gt;
-					&lt;div&gt;
-						&lt;span&gt;🔠 Python&lt;/span&gt;
-						&lt;span&gt;⭐ 13038&lt;/span&gt;
-						&lt;span&gt;🔱 1266&lt;/span&gt;
-					&lt;/div&gt;
-				&lt;div class=&#34;stars-today&#34;&gt;⭐ 1439 stars today&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 3991 stars today&lt;/div&gt;
 				&lt;/div&gt;
 			&lt;/div&gt;
 	
@@ -77,98 +55,98 @@
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;div&gt;
 						&lt;span&gt;🔠 Python&lt;/span&gt;
-						&lt;span&gt;⭐ 37136&lt;/span&gt;
-						&lt;span&gt;🔱 3578&lt;/span&gt;
+						&lt;span&gt;⭐ 37315&lt;/span&gt;
+						&lt;span&gt;🔱 3584&lt;/span&gt;
 					&lt;/div&gt;
-				&lt;div class=&#34;stars-today&#34;&gt;⭐ 1049 stars today&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 1027 stars today&lt;/div&gt;
 				&lt;/div&gt;
 			&lt;/div&gt;
 	
 			&lt;div class=&#34;repo-card&#34;&gt;
-				&lt;p&gt;&lt;a href=&#34;https://github.com/K-Dense-AI/scientific-agent-skills&#34; target=&#34;_blank&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/Imbad0202/academic-research-skills&#34; target=&#34;_blank&#34;&gt;
     
 
 
       
-        K-Dense-AI /
+        Imbad0202 /
 
-      scientific-agent-skills&lt;/a&gt;&lt;/p&gt;
+      academic-research-skills&lt;/a&gt;&lt;/p&gt;
 				&lt;p&gt;
-      A set of ready to use Agent Skills for research, science, engineering, analysis, finance and writing.
+      Academic Research Skills for Claude Code: research → write → review → revise → finalize
     &lt;/p&gt;
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;div&gt;
 						&lt;span&gt;🔠 Python&lt;/span&gt;
-						&lt;span&gt;⭐ 24650&lt;/span&gt;
-						&lt;span&gt;🔱 2593&lt;/span&gt;
+						&lt;span&gt;⭐ 13500&lt;/span&gt;
+						&lt;span&gt;🔱 1289&lt;/span&gt;
 					&lt;/div&gt;
-				&lt;div class=&#34;stars-today&#34;&gt;⭐ 609 stars today&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 3184 stars today&lt;/div&gt;
 				&lt;/div&gt;
 			&lt;/div&gt;
 	
 			&lt;div class=&#34;repo-card&#34;&gt;
-				&lt;p&gt;&lt;a href=&#34;https://github.com/supertone-inc/supertonic&#34; target=&#34;_blank&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/obra/superpowers&#34; target=&#34;_blank&#34;&gt;
     
 
 
       
-        supertone-inc /
+        obra /
 
-      supertonic&lt;/a&gt;&lt;/p&gt;
+      superpowers&lt;/a&gt;&lt;/p&gt;
 				&lt;p&gt;
-      Lightning-Fast, On-Device, Multilingual TTS — running natively via ONNX.
+      An agentic skills framework &amp; software development methodology that works.
     &lt;/p&gt;
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;div&gt;
-						&lt;span&gt;🔠 Swift&lt;/span&gt;
-						&lt;span&gt;⭐ 8555&lt;/span&gt;
-						&lt;span&gt;🔱 869&lt;/span&gt;
+						&lt;span&gt;🔠 Shell&lt;/span&gt;
+						&lt;span&gt;⭐ 197735&lt;/span&gt;
+						&lt;span&gt;🔱 17641&lt;/span&gt;
 					&lt;/div&gt;
-				&lt;div class=&#34;stars-today&#34;&gt;⭐ 715 stars today&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 1620 stars today&lt;/div&gt;
 				&lt;/div&gt;
 			&lt;/div&gt;
 	
 			&lt;div class=&#34;repo-card&#34;&gt;
-				&lt;p&gt;&lt;a href=&#34;https://github.com/ggml-org/llama.cpp&#34; target=&#34;_blank&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/anthropics/claude-plugins-official&#34; target=&#34;_blank&#34;&gt;
     
 
 
       
-        ggml-org /
+        anthropics /
 
-      llama.cpp&lt;/a&gt;&lt;/p&gt;
+      claude-plugins-official&lt;/a&gt;&lt;/p&gt;
 				&lt;p&gt;
-      LLM inference in C/C++
+      Official, Anthropic-managed directory of high quality Claude Code Plugins.
     &lt;/p&gt;
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;div&gt;
-						&lt;span&gt;🔠 C++&lt;/span&gt;
-						&lt;span&gt;⭐ 111269&lt;/span&gt;
-						&lt;span&gt;🔱 18407&lt;/span&gt;
+						&lt;span&gt;🔠 Python&lt;/span&gt;
+						&lt;span&gt;⭐ 19826&lt;/span&gt;
+						&lt;span&gt;🔱 2489&lt;/span&gt;
 					&lt;/div&gt;
-				&lt;div class=&#34;stars-today&#34;&gt;⭐ 213 stars today&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 127 stars today&lt;/div&gt;
 				&lt;/div&gt;
 			&lt;/div&gt;
 	
 			&lt;div class=&#34;repo-card&#34;&gt;
-				&lt;p&gt;&lt;a href=&#34;https://github.com/ruvnet/RuView&#34; target=&#34;_blank&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/rohitg00/agentmemory&#34; target=&#34;_blank&#34;&gt;
     
 
 
       
-        ruvnet /
+        rohitg00 /
 
-      RuView&lt;/a&gt;&lt;/p&gt;
+      agentmemory&lt;/a&gt;&lt;/p&gt;
 				&lt;p&gt;
-      π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.
+      #1 Persistent memory for AI coding agents based on real-world benchmarks
     &lt;/p&gt;
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;div&gt;
-						&lt;span&gt;🔠 Rust&lt;/span&gt;
-						&lt;span&gt;⭐ 60260&lt;/span&gt;
-						&lt;span&gt;🔱 7850&lt;/span&gt;
+						&lt;span&gt;🔠 TypeScript&lt;/span&gt;
+						&lt;span&gt;⭐ 13601&lt;/span&gt;
+						&lt;span&gt;🔱 1145&lt;/span&gt;
 					&lt;/div&gt;
-				&lt;div class=&#34;stars-today&#34;&gt;⭐ 700 stars today&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 1244 stars today&lt;/div&gt;
 				&lt;/div&gt;
 			&lt;/div&gt;
 	
@@ -187,54 +165,98 @@
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;div&gt;
 						&lt;span&gt;🔠 Python&lt;/span&gt;
-						&lt;span&gt;⭐ 15787&lt;/span&gt;
-						&lt;span&gt;🔱 1239&lt;/span&gt;
+						&lt;span&gt;⭐ 16013&lt;/span&gt;
+						&lt;span&gt;🔱 1244&lt;/span&gt;
 					&lt;/div&gt;
-				&lt;div class=&#34;stars-today&#34;&gt;⭐ 1420 stars today&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 1466 stars today&lt;/div&gt;
 				&lt;/div&gt;
 			&lt;/div&gt;
 	
 			&lt;div class=&#34;repo-card&#34;&gt;
-				&lt;p&gt;&lt;a href=&#34;https://github.com/tech-leads-club/agent-skills&#34; target=&#34;_blank&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/rtk-ai/rtk&#34; target=&#34;_blank&#34;&gt;
     
 
 
       
-        tech-leads-club /
+        rtk-ai /
 
-      agent-skills&lt;/a&gt;&lt;/p&gt;
+      rtk&lt;/a&gt;&lt;/p&gt;
 				&lt;p&gt;
-      The secure, validated skill registry for professional AI coding agents. Extend Antigravity, Claude Code, Cursor, Copilot and more with absolute confidence.
+      CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies
+    &lt;/p&gt;
+				&lt;div class=&#34;repo-stats&#34;&gt;
+					&lt;div&gt;
+						&lt;span&gt;🔠 Rust&lt;/span&gt;
+						&lt;span&gt;⭐ 50380&lt;/span&gt;
+						&lt;span&gt;🔱 3080&lt;/span&gt;
+					&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 667 stars today&lt;/div&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+	
+			&lt;div class=&#34;repo-card&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/msitarzewski/agency-agents&#34; target=&#34;_blank&#34;&gt;
+    
+
+
+      
+        msitarzewski /
+
+      agency-agents&lt;/a&gt;&lt;/p&gt;
+				&lt;p&gt;
+      A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.
+    &lt;/p&gt;
+				&lt;div class=&#34;repo-stats&#34;&gt;
+					&lt;div&gt;
+						&lt;span&gt;🔠 Shell&lt;/span&gt;
+						&lt;span&gt;⭐ 100701&lt;/span&gt;
+						&lt;span&gt;🔱 16694&lt;/span&gt;
+					&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 983 stars today&lt;/div&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+	
+			&lt;div class=&#34;repo-card&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/colbymchenry/codegraph&#34; target=&#34;_blank&#34;&gt;
+    
+
+
+      
+        colbymchenry /
+
+      codegraph&lt;/a&gt;&lt;/p&gt;
+				&lt;p&gt;
+      Pre-indexed code knowledge graph for Claude Code, Codex, Cursor, and OpenCode — fewer tokens, fewer tool calls, 100% local
     &lt;/p&gt;
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;div&gt;
 						&lt;span&gt;🔠 TypeScript&lt;/span&gt;
-						&lt;span&gt;⭐ 4230&lt;/span&gt;
-						&lt;span&gt;🔱 361&lt;/span&gt;
+						&lt;span&gt;⭐ 5765&lt;/span&gt;
+						&lt;span&gt;🔱 392&lt;/span&gt;
 					&lt;/div&gt;
-				&lt;div class=&#34;stars-today&#34;&gt;⭐ 1244 stars today&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 952 stars today&lt;/div&gt;
 				&lt;/div&gt;
 			&lt;/div&gt;
 	
 			&lt;div class=&#34;repo-card&#34;&gt;
-				&lt;p&gt;&lt;a href=&#34;https://github.com/BigBodyCobain/Shadowbroker&#34; target=&#34;_blank&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/multica-ai/andrej-karpathy-skills&#34; target=&#34;_blank&#34;&gt;
     
 
 
       
-        BigBodyCobain /
+        multica-ai /
 
-      Shadowbroker&lt;/a&gt;&lt;/p&gt;
+      andrej-karpathy-skills&lt;/a&gt;&lt;/p&gt;
 				&lt;p&gt;
-      Open-source intelligence for the global theater. Track everything from the corporate/private jets of the wealthy, and spy satellites, to seismic events in one unified interface. Hook an AI agent up to have it parse through data and find previously unseen correlations. The knowledge is available to all but rarely aggregated in the open, until now.
+      A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy&#39;s observations on LLM coding pitfalls.
     &lt;/p&gt;
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;div&gt;
-						&lt;span&gt;🔠 Python&lt;/span&gt;
-						&lt;span&gt;⭐ 7966&lt;/span&gt;
-						&lt;span&gt;🔱 1210&lt;/span&gt;
+						&lt;span&gt;🔠 &lt;/span&gt;
+						&lt;span&gt;⭐ 137141&lt;/span&gt;
+						&lt;span&gt;🔱 14059&lt;/span&gt;
 					&lt;/div&gt;
-				&lt;div class=&#34;stars-today&#34;&gt;⭐ 767 stars today&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 2014 stars today&lt;/div&gt;
 				&lt;/div&gt;
 			&lt;/div&gt;
 	
@@ -253,32 +275,98 @@
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;div&gt;
 						&lt;span&gt;🔠 TypeScript&lt;/span&gt;
-						&lt;span&gt;⭐ 20892&lt;/span&gt;
-						&lt;span&gt;🔱 1582&lt;/span&gt;
+						&lt;span&gt;⭐ 20958&lt;/span&gt;
+						&lt;span&gt;🔱 1584&lt;/span&gt;
 					&lt;/div&gt;
-				&lt;div class=&#34;stars-today&#34;&gt;⭐ 399 stars today&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 733 stars today&lt;/div&gt;
 				&lt;/div&gt;
 			&lt;/div&gt;
 	
 			&lt;div class=&#34;repo-card&#34;&gt;
-				&lt;p&gt;&lt;a href=&#34;https://github.com/NVlabs/Sana&#34; target=&#34;_blank&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/Diolinux/PhotoGIMP&#34; target=&#34;_blank&#34;&gt;
     
 
 
       
-        NVlabs /
+        Diolinux /
 
-      Sana&lt;/a&gt;&lt;/p&gt;
+      PhotoGIMP&lt;/a&gt;&lt;/p&gt;
 				&lt;p&gt;
-      SANA: Efficient High-Resolution Image Synthesis with Linear Diffusion Transformer
+      A Patch for GIMP 3+ for Photoshop Users
+    &lt;/p&gt;
+				&lt;div class=&#34;repo-stats&#34;&gt;
+					&lt;div&gt;
+						&lt;span&gt;🔠 CSS&lt;/span&gt;
+						&lt;span&gt;⭐ 10420&lt;/span&gt;
+						&lt;span&gt;🔱 365&lt;/span&gt;
+					&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 930 stars today&lt;/div&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+	
+			&lt;div class=&#34;repo-card&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/Alishahryar1/free-claude-code&#34; target=&#34;_blank&#34;&gt;
+    
+
+
+      
+        Alishahryar1 /
+
+      free-claude-code&lt;/a&gt;&lt;/p&gt;
+				&lt;p&gt;
+      Use claude-code for free in the terminal, VSCode extension or discord like OpenClaw (voice supported)
     &lt;/p&gt;
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;div&gt;
 						&lt;span&gt;🔠 Python&lt;/span&gt;
-						&lt;span&gt;⭐ 6805&lt;/span&gt;
-						&lt;span&gt;🔱 489&lt;/span&gt;
+						&lt;span&gt;⭐ 25963&lt;/span&gt;
+						&lt;span&gt;🔱 3875&lt;/span&gt;
 					&lt;/div&gt;
-				&lt;div class=&#34;stars-today&#34;&gt;⭐ 387 stars today&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 543 stars today&lt;/div&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+	
+			&lt;div class=&#34;repo-card&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/pascalorg/editor&#34; target=&#34;_blank&#34;&gt;
+    
+
+
+      
+        pascalorg /
+
+      editor&lt;/a&gt;&lt;/p&gt;
+				&lt;p&gt;
+      Create and share 3D architectural projects.
+    &lt;/p&gt;
+				&lt;div class=&#34;repo-stats&#34;&gt;
+					&lt;div&gt;
+						&lt;span&gt;🔠 TypeScript&lt;/span&gt;
+						&lt;span&gt;⭐ 15717&lt;/span&gt;
+						&lt;span&gt;🔱 2075&lt;/span&gt;
+					&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 88 stars today&lt;/div&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+	
+			&lt;div class=&#34;repo-card&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/frappe/erpnext&#34; target=&#34;_blank&#34;&gt;
+    
+
+
+      
+        frappe /
+
+      erpnext&lt;/a&gt;&lt;/p&gt;
+				&lt;p&gt;
+      Free and Open Source Enterprise Resource Planning (ERP)
+    &lt;/p&gt;
+				&lt;div class=&#34;repo-stats&#34;&gt;
+					&lt;div&gt;
+						&lt;span&gt;🔠 Python&lt;/span&gt;
+						&lt;span&gt;⭐ 34065&lt;/span&gt;
+						&lt;span&gt;🔱 11301&lt;/span&gt;
+					&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 65 stars today&lt;/div&gt;
 				&lt;/div&gt;
 			&lt;/div&gt;
 	
@@ -297,54 +385,32 @@
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;div&gt;
 						&lt;span&gt;🔠 Jupyter Notebook&lt;/span&gt;
-						&lt;span&gt;⭐ 63795&lt;/span&gt;
-						&lt;span&gt;🔱 21216&lt;/span&gt;
+						&lt;span&gt;⭐ 63916&lt;/span&gt;
+						&lt;span&gt;🔱 21233&lt;/span&gt;
 					&lt;/div&gt;
-				&lt;div class=&#34;stars-today&#34;&gt;⭐ 1012 stars today&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 820 stars today&lt;/div&gt;
 				&lt;/div&gt;
 			&lt;/div&gt;
 	
 			&lt;div class=&#34;repo-card&#34;&gt;
-				&lt;p&gt;&lt;a href=&#34;https://github.com/ZhuLinsen/daily_stock_analysis&#34; target=&#34;_blank&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/HKUDS/ViMax&#34; target=&#34;_blank&#34;&gt;
     
 
 
       
-        ZhuLinsen /
+        HKUDS /
 
-      daily_stock_analysis&lt;/a&gt;&lt;/p&gt;
+      ViMax&lt;/a&gt;&lt;/p&gt;
 				&lt;p&gt;
-      LLM驱动的 A/H/美股智能分析：多数据源行情 + 实时新闻 + LLM决策仪表盘 + 多渠道推送，零成本定时运行，纯白嫖. LLM-powered stock analysis system for A/H/US markets.
+      &#34;ViMax: Agentic Video Generation (Director, Screenwriter, Producer, and Video Generator All-in-One)&#34;
     &lt;/p&gt;
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;div&gt;
 						&lt;span&gt;🔠 Python&lt;/span&gt;
-						&lt;span&gt;⭐ 37563&lt;/span&gt;
-						&lt;span&gt;🔱 36374&lt;/span&gt;
+						&lt;span&gt;⭐ 5108&lt;/span&gt;
+						&lt;span&gt;🔱 895&lt;/span&gt;
 					&lt;/div&gt;
-				&lt;div class=&#34;stars-today&#34;&gt;⭐ 310 stars today&lt;/div&gt;
-				&lt;/div&gt;
-			&lt;/div&gt;
-	
-			&lt;div class=&#34;repo-card&#34;&gt;
-				&lt;p&gt;&lt;a href=&#34;https://github.com/plausible/analytics&#34; target=&#34;_blank&#34;&gt;
-    
-
-
-      
-        plausible /
-
-      analytics&lt;/a&gt;&lt;/p&gt;
-				&lt;p&gt;
-      Open source, privacy-first web analytics. Lightweight, cookie-free Google Analytics alternative. Self-hosted or cloud.
-    &lt;/p&gt;
-				&lt;div class=&#34;repo-stats&#34;&gt;
-					&lt;div&gt;
-						&lt;span&gt;🔠 Elixir&lt;/span&gt;
-						&lt;span&gt;⭐ 26121&lt;/span&gt;
-						&lt;span&gt;🔱 1500&lt;/span&gt;
-					&lt;/div&gt;
-				&lt;div class=&#34;stars-today&#34;&gt;⭐ 638 stars today&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 504 stars today&lt;/div&gt;
 				&lt;/div&gt;
 			&lt;/div&gt;
 	

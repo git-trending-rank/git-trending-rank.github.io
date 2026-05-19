@@ -6,10 +6,10 @@
         <description>Recent content in Weekly on Git Trending Rank</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en</language>
-        <lastBuildDate>Tue, 19 May 2026 08:58:57 +0000</lastBuildDate><atom:link href="https://git-trending-rank.github.io/categories/weekly/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Tue, 19 May 2026 12:30:48 +0000</lastBuildDate><atom:link href="https://git-trending-rank.github.io/categories/weekly/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>GitHub 趋势 2026年第21周</title>
         <link>https://git-trending-rank.github.io/post/trending-weekly-2026%E5%B9%B4%E7%AC%AC21%E5%91%A8/</link>
-        <pubDate>Tue, 19 May 2026 08:58:57 +0000</pubDate>
+        <pubDate>Tue, 19 May 2026 12:30:48 +0000</pubDate>
         
         <guid>https://git-trending-rank.github.io/post/trending-weekly-2026%E5%B9%B4%E7%AC%AC21%E5%91%A8/</guid>
         <description>&lt;link rel=&#34;stylesheet&#34; href=&#34;https://git-trending-rank.github.io/public/css/trending.css&#34;&gt;
@@ -19,24 +19,24 @@
 
 	
 			&lt;div class=&#34;repo-card&#34;&gt;
-				&lt;p&gt;&lt;a href=&#34;https://github.com/CloakHQ/CloakBrowser&#34; target=&#34;_blank&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/tinyhumansai/openhuman&#34; target=&#34;_blank&#34;&gt;
     
 
 
       
-        CloakHQ /
+        tinyhumansai /
 
-      CloakBrowser&lt;/a&gt;&lt;/p&gt;
+      openhuman&lt;/a&gt;&lt;/p&gt;
 				&lt;p&gt;
-      Stealth Chromium that passes every bot detection test. Drop-in Playwright replacement with source-level fingerprint patches. 30/30 tests passed.
+      Your Personal AI super intelligence. Private, Simple and extremely powerful.
     &lt;/p&gt;
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;div&gt;
-						&lt;span&gt;🔠 Python&lt;/span&gt;
-						&lt;span&gt;⭐ 15787&lt;/span&gt;
-						&lt;span&gt;🔱 1239&lt;/span&gt;
+						&lt;span&gt;🔠 Rust&lt;/span&gt;
+						&lt;span&gt;⭐ 19518&lt;/span&gt;
+						&lt;span&gt;🔱 1703&lt;/span&gt;
 					&lt;/div&gt;
-				&lt;div class=&#34;stars-today&#34;&gt;⭐ 9124 stars this week&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 15349 stars this week&lt;/div&gt;
 				&lt;/div&gt;
 			&lt;/div&gt;
 	
@@ -55,32 +55,32 @@
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;div&gt;
 						&lt;span&gt;🔠 TypeScript&lt;/span&gt;
-						&lt;span&gt;⭐ 13401&lt;/span&gt;
-						&lt;span&gt;🔱 1136&lt;/span&gt;
+						&lt;span&gt;⭐ 13601&lt;/span&gt;
+						&lt;span&gt;🔱 1145&lt;/span&gt;
 					&lt;/div&gt;
 				&lt;div class=&#34;stars-today&#34;&gt;⭐ 7830 stars this week&lt;/div&gt;
 				&lt;/div&gt;
 			&lt;/div&gt;
 	
 			&lt;div class=&#34;repo-card&#34;&gt;
-				&lt;p&gt;&lt;a href=&#34;https://github.com/oven-sh/bun&#34; target=&#34;_blank&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/CloakHQ/CloakBrowser&#34; target=&#34;_blank&#34;&gt;
     
 
 
       
-        oven-sh /
+        CloakHQ /
 
-      bun&lt;/a&gt;&lt;/p&gt;
+      CloakBrowser&lt;/a&gt;&lt;/p&gt;
 				&lt;p&gt;
-      Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one
+      Stealth Chromium that passes every bot detection test. Drop-in Playwright replacement with source-level fingerprint patches. 30/30 tests passed.
     &lt;/p&gt;
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;div&gt;
-						&lt;span&gt;🔠 Rust&lt;/span&gt;
-						&lt;span&gt;⭐ 91989&lt;/span&gt;
-						&lt;span&gt;🔱 4599&lt;/span&gt;
+						&lt;span&gt;🔠 Python&lt;/span&gt;
+						&lt;span&gt;⭐ 16013&lt;/span&gt;
+						&lt;span&gt;🔱 1244&lt;/span&gt;
 					&lt;/div&gt;
-				&lt;div class=&#34;stars-today&#34;&gt;⭐ 2350 stars this week&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 9124 stars this week&lt;/div&gt;
 				&lt;/div&gt;
 			&lt;/div&gt;
 	
@@ -99,74 +99,32 @@
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;div&gt;
 						&lt;span&gt;🔠 Python&lt;/span&gt;
-						&lt;span&gt;⭐ 13038&lt;/span&gt;
-						&lt;span&gt;🔱 1266&lt;/span&gt;
+						&lt;span&gt;⭐ 13500&lt;/span&gt;
+						&lt;span&gt;🔱 1289&lt;/span&gt;
 					&lt;/div&gt;
 				&lt;div class=&#34;stars-today&#34;&gt;⭐ 4402 stars this week&lt;/div&gt;
 				&lt;/div&gt;
 			&lt;/div&gt;
 	
 			&lt;div class=&#34;repo-card&#34;&gt;
-				&lt;p&gt;&lt;a href=&#34;https://github.com/yikart/AiToEarn&#34; target=&#34;_blank&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/oven-sh/bun&#34; target=&#34;_blank&#34;&gt;
     
 
 
       
-        yikart /
+        oven-sh /
 
-      AiToEarn&lt;/a&gt;&lt;/p&gt;
+      bun&lt;/a&gt;&lt;/p&gt;
 				&lt;p&gt;
-      Let&#39;s use AI to Earn!
+      Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one
     &lt;/p&gt;
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;div&gt;
-						&lt;span&gt;🔠 TypeScript&lt;/span&gt;
-						&lt;span&gt;⭐ 15358&lt;/span&gt;
-						&lt;span&gt;🔱 2512&lt;/span&gt;
+						&lt;span&gt;🔠 Rust&lt;/span&gt;
+						&lt;span&gt;⭐ 92011&lt;/span&gt;
+						&lt;span&gt;🔱 4600&lt;/span&gt;
 					&lt;/div&gt;
-				&lt;div class=&#34;stars-today&#34;&gt;⭐ 4851 stars this week&lt;/div&gt;
-				&lt;/div&gt;
-			&lt;/div&gt;
-	
-			&lt;div class=&#34;repo-card&#34;&gt;
-				&lt;p&gt;&lt;a href=&#34;https://github.com/anthropics/financial-services&#34; target=&#34;_blank&#34;&gt;
-    
-
-
-      
-        anthropics /
-
-      financial-services&lt;/a&gt;&lt;/p&gt;
-				&lt;p&gt;&lt;/p&gt;
-				&lt;div class=&#34;repo-stats&#34;&gt;
-					&lt;div&gt;
-						&lt;span&gt;🔠 Python&lt;/span&gt;
-						&lt;span&gt;⭐ 25667&lt;/span&gt;
-						&lt;span&gt;🔱 3558&lt;/span&gt;
-					&lt;/div&gt;
-				&lt;div class=&#34;stars-today&#34;&gt;⭐ 5259 stars this week&lt;/div&gt;
-				&lt;/div&gt;
-			&lt;/div&gt;
-	
-			&lt;div class=&#34;repo-card&#34;&gt;
-				&lt;p&gt;&lt;a href=&#34;https://github.com/mattpocock/skills&#34; target=&#34;_blank&#34;&gt;
-    
-
-
-      
-        mattpocock /
-
-      skills&lt;/a&gt;&lt;/p&gt;
-				&lt;p&gt;
-      Skills for Real Engineers. Straight from my .claude directory.
-    &lt;/p&gt;
-				&lt;div class=&#34;repo-stats&#34;&gt;
-					&lt;div&gt;
-						&lt;span&gt;🔠 Shell&lt;/span&gt;
-						&lt;span&gt;⭐ 92943&lt;/span&gt;
-						&lt;span&gt;🔱 8165&lt;/span&gt;
-					&lt;/div&gt;
-				&lt;div class=&#34;stars-today&#34;&gt;⭐ 20361 stars this week&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 2350 stars this week&lt;/div&gt;
 				&lt;/div&gt;
 			&lt;/div&gt;
 	
@@ -185,32 +143,32 @@
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;div&gt;
 						&lt;span&gt;🔠 Rust&lt;/span&gt;
-						&lt;span&gt;⭐ 60260&lt;/span&gt;
-						&lt;span&gt;🔱 7850&lt;/span&gt;
+						&lt;span&gt;⭐ 60394&lt;/span&gt;
+						&lt;span&gt;🔱 7875&lt;/span&gt;
 					&lt;/div&gt;
 				&lt;div class=&#34;stars-today&#34;&gt;⭐ 7217 stars this week&lt;/div&gt;
 				&lt;/div&gt;
 			&lt;/div&gt;
 	
 			&lt;div class=&#34;repo-card&#34;&gt;
-				&lt;p&gt;&lt;a href=&#34;https://github.com/millionco/react-doctor&#34; target=&#34;_blank&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/mattpocock/skills&#34; target=&#34;_blank&#34;&gt;
     
 
 
       
-        millionco /
+        mattpocock /
 
-      react-doctor&lt;/a&gt;&lt;/p&gt;
+      skills&lt;/a&gt;&lt;/p&gt;
 				&lt;p&gt;
-      Your agent writes bad React. This catches it
+      Skills for Real Engineers. Straight from my .claude directory.
     &lt;/p&gt;
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;div&gt;
-						&lt;span&gt;🔠 TypeScript&lt;/span&gt;
-						&lt;span&gt;⭐ 10244&lt;/span&gt;
-						&lt;span&gt;🔱 328&lt;/span&gt;
+						&lt;span&gt;🔠 Shell&lt;/span&gt;
+						&lt;span&gt;⭐ 93412&lt;/span&gt;
+						&lt;span&gt;🔱 8210&lt;/span&gt;
 					&lt;/div&gt;
-				&lt;div class=&#34;stars-today&#34;&gt;⭐ 2453 stars this week&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 20361 stars this week&lt;/div&gt;
 				&lt;/div&gt;
 			&lt;/div&gt;
 	
@@ -229,32 +187,32 @@
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;div&gt;
 						&lt;span&gt;🔠 TypeScript&lt;/span&gt;
-						&lt;span&gt;⭐ 5526&lt;/span&gt;
-						&lt;span&gt;🔱 378&lt;/span&gt;
+						&lt;span&gt;⭐ 5765&lt;/span&gt;
+						&lt;span&gt;🔱 392&lt;/span&gt;
 					&lt;/div&gt;
 				&lt;div class=&#34;stars-today&#34;&gt;⭐ 2690 stars this week&lt;/div&gt;
 				&lt;/div&gt;
 			&lt;/div&gt;
 	
 			&lt;div class=&#34;repo-card&#34;&gt;
-				&lt;p&gt;&lt;a href=&#34;https://github.com/apernet/hysteria&#34; target=&#34;_blank&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/yikart/AiToEarn&#34; target=&#34;_blank&#34;&gt;
     
 
 
       
-        apernet /
+        yikart /
 
-      hysteria&lt;/a&gt;&lt;/p&gt;
+      AiToEarn&lt;/a&gt;&lt;/p&gt;
 				&lt;p&gt;
-      Hysteria is a powerful, lightning fast and censorship resistant proxy.
+      Let&#39;s use AI to Earn!
     &lt;/p&gt;
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;div&gt;
-						&lt;span&gt;🔠 Go&lt;/span&gt;
-						&lt;span&gt;⭐ 21295&lt;/span&gt;
-						&lt;span&gt;🔱 2186&lt;/span&gt;
+						&lt;span&gt;🔠 TypeScript&lt;/span&gt;
+						&lt;span&gt;⭐ 15406&lt;/span&gt;
+						&lt;span&gt;🔱 2515&lt;/span&gt;
 					&lt;/div&gt;
-				&lt;div class=&#34;stars-today&#34;&gt;⭐ 1254 stars this week&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 4851 stars this week&lt;/div&gt;
 				&lt;/div&gt;
 			&lt;/div&gt;
 	
@@ -273,7 +231,7 @@
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;div&gt;
 						&lt;span&gt;🔠 Rust&lt;/span&gt;
-						&lt;span&gt;⭐ 6239&lt;/span&gt;
+						&lt;span&gt;⭐ 6250&lt;/span&gt;
 						&lt;span&gt;🔱 370&lt;/span&gt;
 					&lt;/div&gt;
 				&lt;div class=&#34;stars-today&#34;&gt;⭐ 481 stars this week&lt;/div&gt;
@@ -281,24 +239,110 @@
 			&lt;/div&gt;
 	
 			&lt;div class=&#34;repo-card&#34;&gt;
-				&lt;p&gt;&lt;a href=&#34;https://github.com/bytedance/UI-TARS-desktop&#34; target=&#34;_blank&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/anthropics/financial-services&#34; target=&#34;_blank&#34;&gt;
     
 
 
       
-        bytedance /
+        anthropics /
 
-      UI-TARS-desktop&lt;/a&gt;&lt;/p&gt;
+      financial-services&lt;/a&gt;&lt;/p&gt;
+				&lt;p&gt;&lt;/p&gt;
+				&lt;div class=&#34;repo-stats&#34;&gt;
+					&lt;div&gt;
+						&lt;span&gt;🔠 Python&lt;/span&gt;
+						&lt;span&gt;⭐ 25738&lt;/span&gt;
+						&lt;span&gt;🔱 3569&lt;/span&gt;
+					&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 5259 stars this week&lt;/div&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+	
+			&lt;div class=&#34;repo-card&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/BigBodyCobain/Shadowbroker&#34; target=&#34;_blank&#34;&gt;
+    
+
+
+      
+        BigBodyCobain /
+
+      Shadowbroker&lt;/a&gt;&lt;/p&gt;
 				&lt;p&gt;
-      The Open-Source Multimodal AI Agent Stack: Connecting Cutting-Edge AI Models and Agent Infra
+      Open-source intelligence for the global theater. Track everything from the corporate/private jets of the wealthy, and spy satellites, to seismic events in one unified interface. Hook an AI agent up to have it parse through data and find previously unseen correlations. The knowledge is available to all but rarely aggregated in the open, until now.
+    &lt;/p&gt;
+				&lt;div class=&#34;repo-stats&#34;&gt;
+					&lt;div&gt;
+						&lt;span&gt;🔠 Python&lt;/span&gt;
+						&lt;span&gt;⭐ 8062&lt;/span&gt;
+						&lt;span&gt;🔱 1223&lt;/span&gt;
+					&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 1376 stars this week&lt;/div&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+	
+			&lt;div class=&#34;repo-card&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/millionco/react-doctor&#34; target=&#34;_blank&#34;&gt;
+    
+
+
+      
+        millionco /
+
+      react-doctor&lt;/a&gt;&lt;/p&gt;
+				&lt;p&gt;
+      Your agent writes bad React. This catches it
     &lt;/p&gt;
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;div&gt;
 						&lt;span&gt;🔠 TypeScript&lt;/span&gt;
-						&lt;span&gt;⭐ 34710&lt;/span&gt;
-						&lt;span&gt;🔱 3485&lt;/span&gt;
+						&lt;span&gt;⭐ 10269&lt;/span&gt;
+						&lt;span&gt;🔱 328&lt;/span&gt;
 					&lt;/div&gt;
-				&lt;div class=&#34;stars-today&#34;&gt;⭐ 1939 stars this week&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 2453 stars this week&lt;/div&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+	
+			&lt;div class=&#34;repo-card&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/obra/superpowers&#34; target=&#34;_blank&#34;&gt;
+    
+
+
+      
+        obra /
+
+      superpowers&lt;/a&gt;&lt;/p&gt;
+				&lt;p&gt;
+      An agentic skills framework &amp; software development methodology that works.
+    &lt;/p&gt;
+				&lt;div class=&#34;repo-stats&#34;&gt;
+					&lt;div&gt;
+						&lt;span&gt;🔠 Shell&lt;/span&gt;
+						&lt;span&gt;⭐ 197735&lt;/span&gt;
+						&lt;span&gt;🔱 17641&lt;/span&gt;
+					&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 10476 stars this week&lt;/div&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+	
+			&lt;div class=&#34;repo-card&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/apernet/hysteria&#34; target=&#34;_blank&#34;&gt;
+    
+
+
+      
+        apernet /
+
+      hysteria&lt;/a&gt;&lt;/p&gt;
+				&lt;p&gt;
+      Hysteria is a powerful, lightning fast and censorship resistant proxy.
+    &lt;/p&gt;
+				&lt;div class=&#34;repo-stats&#34;&gt;
+					&lt;div&gt;
+						&lt;span&gt;🔠 Go&lt;/span&gt;
+						&lt;span&gt;⭐ 21308&lt;/span&gt;
+						&lt;span&gt;🔱 2186&lt;/span&gt;
+					&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 1254 stars this week&lt;/div&gt;
 				&lt;/div&gt;
 			&lt;/div&gt;
 	
