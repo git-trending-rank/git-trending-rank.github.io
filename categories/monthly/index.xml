@@ -6,10 +6,10 @@
         <description>Recent content in Monthly on Git Trending Rank</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en</language>
-        <lastBuildDate>Wed, 20 May 2026 08:50:59 +0000</lastBuildDate><atom:link href="https://git-trending-rank.github.io/categories/monthly/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Wed, 20 May 2026 12:11:58 +0000</lastBuildDate><atom:link href="https://git-trending-rank.github.io/categories/monthly/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>GitHub 趋势 2026年5月</title>
         <link>https://git-trending-rank.github.io/post/trending-monthly-2026%E5%B9%B45%E6%9C%88/</link>
-        <pubDate>Wed, 20 May 2026 08:50:59 +0000</pubDate>
+        <pubDate>Wed, 20 May 2026 12:11:58 +0000</pubDate>
         
         <guid>https://git-trending-rank.github.io/post/trending-monthly-2026%E5%B9%B45%E6%9C%88/</guid>
         <description>&lt;link rel=&#34;stylesheet&#34; href=&#34;https://git-trending-rank.github.io/public/css/trending.css&#34;&gt;
@@ -33,8 +33,8 @@
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;div&gt;
 						&lt;span&gt;🔠 Shell&lt;/span&gt;
-						&lt;span&gt;⭐ 95586&lt;/span&gt;
-						&lt;span&gt;🔱 8426&lt;/span&gt;
+						&lt;span&gt;⭐ 95936&lt;/span&gt;
+						&lt;span&gt;🔱 8456&lt;/span&gt;
 					&lt;/div&gt;
 				&lt;div class=&#34;stars-today&#34;&gt;⭐ 77724 stars this month&lt;/div&gt;
 				&lt;/div&gt;
@@ -55,10 +55,32 @@
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;div&gt;
 						&lt;span&gt;🔠 Python&lt;/span&gt;
-						&lt;span&gt;⭐ 26608&lt;/span&gt;
-						&lt;span&gt;🔱 3955&lt;/span&gt;
+						&lt;span&gt;⭐ 26717&lt;/span&gt;
+						&lt;span&gt;🔱 3966&lt;/span&gt;
 					&lt;/div&gt;
 				&lt;div class=&#34;stars-today&#34;&gt;⭐ 24210 stars this month&lt;/div&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+	
+			&lt;div class=&#34;repo-card&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/CloakHQ/CloakBrowser&#34; target=&#34;_blank&#34;&gt;
+    
+
+
+      
+        CloakHQ /
+
+      CloakBrowser&lt;/a&gt;&lt;/p&gt;
+				&lt;p&gt;
+      Stealth Chromium that passes every bot detection test. Drop-in Playwright replacement with source-level fingerprint patches. 30/30 tests passed.
+    &lt;/p&gt;
+				&lt;div class=&#34;repo-stats&#34;&gt;
+					&lt;div&gt;
+						&lt;span&gt;🔠 Python&lt;/span&gt;
+						&lt;span&gt;⭐ 17232&lt;/span&gt;
+						&lt;span&gt;🔱 1336&lt;/span&gt;
+					&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 14849 stars this month&lt;/div&gt;
 				&lt;/div&gt;
 			&lt;/div&gt;
 	
@@ -77,8 +99,8 @@
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;div&gt;
 						&lt;span&gt;🔠 &lt;/span&gt;
-						&lt;span&gt;⭐ 139301&lt;/span&gt;
-						&lt;span&gt;🔱 14281&lt;/span&gt;
+						&lt;span&gt;⭐ 139666&lt;/span&gt;
+						&lt;span&gt;🔱 14324&lt;/span&gt;
 					&lt;/div&gt;
 				&lt;div class=&#34;stars-today&#34;&gt;⭐ 78225 stars this month&lt;/div&gt;
 				&lt;/div&gt;
@@ -99,52 +121,10 @@
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;div&gt;
 						&lt;span&gt;🔠 Python&lt;/span&gt;
-						&lt;span&gt;⭐ 18538&lt;/span&gt;
-						&lt;span&gt;🔱 2643&lt;/span&gt;
+						&lt;span&gt;⭐ 18587&lt;/span&gt;
+						&lt;span&gt;🔱 2651&lt;/span&gt;
 					&lt;/div&gt;
 				&lt;div class=&#34;stars-today&#34;&gt;⭐ 14219 stars this month&lt;/div&gt;
-				&lt;/div&gt;
-			&lt;/div&gt;
-	
-			&lt;div class=&#34;repo-card&#34;&gt;
-				&lt;p&gt;&lt;a href=&#34;https://github.com/CloakHQ/CloakBrowser&#34; target=&#34;_blank&#34;&gt;
-    
-
-
-      
-        CloakHQ /
-
-      CloakBrowser&lt;/a&gt;&lt;/p&gt;
-				&lt;p&gt;
-      Stealth Chromium that passes every bot detection test. Drop-in Playwright replacement with source-level fingerprint patches. 30/30 tests passed.
-    &lt;/p&gt;
-				&lt;div class=&#34;repo-stats&#34;&gt;
-					&lt;div&gt;
-						&lt;span&gt;🔠 Python&lt;/span&gt;
-						&lt;span&gt;⭐ 17059&lt;/span&gt;
-						&lt;span&gt;🔱 1319&lt;/span&gt;
-					&lt;/div&gt;
-				&lt;div class=&#34;stars-today&#34;&gt;⭐ 14849 stars this month&lt;/div&gt;
-				&lt;/div&gt;
-			&lt;/div&gt;
-	
-			&lt;div class=&#34;repo-card&#34;&gt;
-				&lt;p&gt;&lt;a href=&#34;https://github.com/anthropics/financial-services&#34; target=&#34;_blank&#34;&gt;
-    
-
-
-      
-        anthropics /
-
-      financial-services&lt;/a&gt;&lt;/p&gt;
-				&lt;p&gt;&lt;/p&gt;
-				&lt;div class=&#34;repo-stats&#34;&gt;
-					&lt;div&gt;
-						&lt;span&gt;🔠 Python&lt;/span&gt;
-						&lt;span&gt;⭐ 26069&lt;/span&gt;
-						&lt;span&gt;🔱 3626&lt;/span&gt;
-					&lt;/div&gt;
-				&lt;div class=&#34;stars-today&#34;&gt;⭐ 18269 stars this month&lt;/div&gt;
 				&lt;/div&gt;
 			&lt;/div&gt;
 	
@@ -163,32 +143,30 @@
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;div&gt;
 						&lt;span&gt;🔠 TypeScript&lt;/span&gt;
-						&lt;span&gt;⭐ 14557&lt;/span&gt;
-						&lt;span&gt;🔱 1208&lt;/span&gt;
+						&lt;span&gt;⭐ 14696&lt;/span&gt;
+						&lt;span&gt;🔱 1218&lt;/span&gt;
 					&lt;/div&gt;
 				&lt;div class=&#34;stars-today&#34;&gt;⭐ 11984 stars this month&lt;/div&gt;
 				&lt;/div&gt;
 			&lt;/div&gt;
 	
 			&lt;div class=&#34;repo-card&#34;&gt;
-				&lt;p&gt;&lt;a href=&#34;https://github.com/Z4nzu/hackingtool&#34; target=&#34;_blank&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/anthropics/financial-services&#34; target=&#34;_blank&#34;&gt;
     
 
 
       
-        Z4nzu /
+        anthropics /
 
-      hackingtool&lt;/a&gt;&lt;/p&gt;
-				&lt;p&gt;
-      ALL IN ONE Hacking Tool For Hackers
-    &lt;/p&gt;
+      financial-services&lt;/a&gt;&lt;/p&gt;
+				&lt;p&gt;&lt;/p&gt;
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;div&gt;
 						&lt;span&gt;🔠 Python&lt;/span&gt;
-						&lt;span&gt;⭐ 75688&lt;/span&gt;
-						&lt;span&gt;🔱 8538&lt;/span&gt;
+						&lt;span&gt;⭐ 26120&lt;/span&gt;
+						&lt;span&gt;🔱 3633&lt;/span&gt;
 					&lt;/div&gt;
-				&lt;div class=&#34;stars-today&#34;&gt;⭐ 17621 stars this month&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 18269 stars this month&lt;/div&gt;
 				&lt;/div&gt;
 			&lt;/div&gt;
 	
@@ -207,10 +185,32 @@
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;div&gt;
 						&lt;span&gt;🔠 Python&lt;/span&gt;
-						&lt;span&gt;⭐ 29560&lt;/span&gt;
+						&lt;span&gt;⭐ 29592&lt;/span&gt;
 						&lt;span&gt;🔱 2125&lt;/span&gt;
 					&lt;/div&gt;
 				&lt;div class=&#34;stars-today&#34;&gt;⭐ 10054 stars this month&lt;/div&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+	
+			&lt;div class=&#34;repo-card&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/Z4nzu/hackingtool&#34; target=&#34;_blank&#34;&gt;
+    
+
+
+      
+        Z4nzu /
+
+      hackingtool&lt;/a&gt;&lt;/p&gt;
+				&lt;p&gt;
+      ALL IN ONE Hacking Tool For Hackers
+    &lt;/p&gt;
+				&lt;div class=&#34;repo-stats&#34;&gt;
+					&lt;div&gt;
+						&lt;span&gt;🔠 Python&lt;/span&gt;
+						&lt;span&gt;⭐ 75722&lt;/span&gt;
+						&lt;span&gt;🔱 8539&lt;/span&gt;
+					&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 17621 stars this month&lt;/div&gt;
 				&lt;/div&gt;
 			&lt;/div&gt;
 	
@@ -229,98 +229,10 @@
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;div&gt;
 						&lt;span&gt;🔠 Python&lt;/span&gt;
-						&lt;span&gt;⭐ 77537&lt;/span&gt;
-						&lt;span&gt;🔱 15108&lt;/span&gt;
+						&lt;span&gt;⭐ 77593&lt;/span&gt;
+						&lt;span&gt;🔱 15119&lt;/span&gt;
 					&lt;/div&gt;
 				&lt;div class=&#34;stars-today&#34;&gt;⭐ 26106 stars this month&lt;/div&gt;
-				&lt;/div&gt;
-			&lt;/div&gt;
-	
-			&lt;div class=&#34;repo-card&#34;&gt;
-				&lt;p&gt;&lt;a href=&#34;https://github.com/addyosmani/agent-skills&#34; target=&#34;_blank&#34;&gt;
-    
-
-
-      
-        addyosmani /
-
-      agent-skills&lt;/a&gt;&lt;/p&gt;
-				&lt;p&gt;
-      Production-grade engineering skills for AI coding agents.
-    &lt;/p&gt;
-				&lt;div class=&#34;repo-stats&#34;&gt;
-					&lt;div&gt;
-						&lt;span&gt;🔠 Shell&lt;/span&gt;
-						&lt;span&gt;⭐ 44017&lt;/span&gt;
-						&lt;span&gt;🔱 4853&lt;/span&gt;
-					&lt;/div&gt;
-				&lt;div class=&#34;stars-today&#34;&gt;⭐ 26168 stars this month&lt;/div&gt;
-				&lt;/div&gt;
-			&lt;/div&gt;
-	
-			&lt;div class=&#34;repo-card&#34;&gt;
-				&lt;p&gt;&lt;a href=&#34;https://github.com/Anil-matcha/Open-Generative-AI&#34; target=&#34;_blank&#34;&gt;
-    
-
-
-      
-        Anil-matcha /
-
-      Open-Generative-AI&lt;/a&gt;&lt;/p&gt;
-				&lt;p&gt;
-      Open-source alternative to AI video platforms — Free AI image &amp; video generation studio with 200+ models (Flux, Midjourney, Kling, Sora, Veo). No content filters. Self-hosted, MIT licensed.
-    &lt;/p&gt;
-				&lt;div class=&#34;repo-stats&#34;&gt;
-					&lt;div&gt;
-						&lt;span&gt;🔠 JavaScript&lt;/span&gt;
-						&lt;span&gt;⭐ 16132&lt;/span&gt;
-						&lt;span&gt;🔱 2721&lt;/span&gt;
-					&lt;/div&gt;
-				&lt;div class=&#34;stars-today&#34;&gt;⭐ 10880 stars this month&lt;/div&gt;
-				&lt;/div&gt;
-			&lt;/div&gt;
-	
-			&lt;div class=&#34;repo-card&#34;&gt;
-				&lt;p&gt;&lt;a href=&#34;https://github.com/decolua/9router&#34; target=&#34;_blank&#34;&gt;
-    
-
-
-      
-        decolua /
-
-      9router&lt;/a&gt;&lt;/p&gt;
-				&lt;p&gt;
-      Unlimited FREE AI coding. Connect Claude Code, Codex, Cursor, Cline, Copilot, Antigravity to FREE Claude/GPT/Gemini via 40+ providers. Auto-fallback, RTK -40% tokens, never hit limits.
-    &lt;/p&gt;
-				&lt;div class=&#34;repo-stats&#34;&gt;
-					&lt;div&gt;
-						&lt;span&gt;🔠 JavaScript&lt;/span&gt;
-						&lt;span&gt;⭐ 12691&lt;/span&gt;
-						&lt;span&gt;🔱 1905&lt;/span&gt;
-					&lt;/div&gt;
-				&lt;div class=&#34;stars-today&#34;&gt;⭐ 9811 stars this month&lt;/div&gt;
-				&lt;/div&gt;
-			&lt;/div&gt;
-	
-			&lt;div class=&#34;repo-card&#34;&gt;
-				&lt;p&gt;&lt;a href=&#34;https://github.com/Fincept-Corporation/FinceptTerminal&#34; target=&#34;_blank&#34;&gt;
-    
-
-
-      
-        Fincept-Corporation /
-
-      FinceptTerminal&lt;/a&gt;&lt;/p&gt;
-				&lt;p&gt;
-      FinceptTerminal is a modern finance application offering advanced market analytics, investment research, and economic data tools, designed for interactive exploration and data-driven decision-making in a user-friendly environment.
-    &lt;/p&gt;
-				&lt;div class=&#34;repo-stats&#34;&gt;
-					&lt;div&gt;
-						&lt;span&gt;🔠 Python&lt;/span&gt;
-						&lt;span&gt;⭐ 21799&lt;/span&gt;
-						&lt;span&gt;🔱 2931&lt;/span&gt;
-					&lt;/div&gt;
-				&lt;div class=&#34;stars-today&#34;&gt;⭐ 16436 stars this month&lt;/div&gt;
 				&lt;/div&gt;
 			&lt;/div&gt;
 	
@@ -339,32 +251,98 @@
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;div&gt;
 						&lt;span&gt;🔠 Python&lt;/span&gt;
-						&lt;span&gt;⭐ 14791&lt;/span&gt;
-						&lt;span&gt;🔱 1373&lt;/span&gt;
+						&lt;span&gt;⭐ 15081&lt;/span&gt;
+						&lt;span&gt;🔱 1393&lt;/span&gt;
 					&lt;/div&gt;
 				&lt;div class=&#34;stars-today&#34;&gt;⭐ 10628 stars this month&lt;/div&gt;
 				&lt;/div&gt;
 			&lt;/div&gt;
 	
 			&lt;div class=&#34;repo-card&#34;&gt;
-				&lt;p&gt;&lt;a href=&#34;https://github.com/heygen-com/hyperframes&#34; target=&#34;_blank&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/addyosmani/agent-skills&#34; target=&#34;_blank&#34;&gt;
     
 
 
       
-        heygen-com /
+        addyosmani /
 
-      hyperframes&lt;/a&gt;&lt;/p&gt;
+      agent-skills&lt;/a&gt;&lt;/p&gt;
 				&lt;p&gt;
-      Write HTML. Render video. Built for agents.
+      Production-grade engineering skills for AI coding agents.
+    &lt;/p&gt;
+				&lt;div class=&#34;repo-stats&#34;&gt;
+					&lt;div&gt;
+						&lt;span&gt;🔠 Shell&lt;/span&gt;
+						&lt;span&gt;⭐ 44068&lt;/span&gt;
+						&lt;span&gt;🔱 4857&lt;/span&gt;
+					&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 26168 stars this month&lt;/div&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+	
+			&lt;div class=&#34;repo-card&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/colbymchenry/codegraph&#34; target=&#34;_blank&#34;&gt;
+    
+
+
+      
+        colbymchenry /
+
+      codegraph&lt;/a&gt;&lt;/p&gt;
+				&lt;p&gt;
+      Pre-indexed code knowledge graph for Claude Code, Codex, Cursor, and OpenCode — fewer tokens, fewer tool calls, 100% local
     &lt;/p&gt;
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;div&gt;
 						&lt;span&gt;🔠 TypeScript&lt;/span&gt;
-						&lt;span&gt;⭐ 19820&lt;/span&gt;
-						&lt;span&gt;🔱 1863&lt;/span&gt;
+						&lt;span&gt;⭐ 7620&lt;/span&gt;
+						&lt;span&gt;🔱 495&lt;/span&gt;
 					&lt;/div&gt;
-				&lt;div class=&#34;stars-today&#34;&gt;⭐ 13702 stars this month&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 6885 stars this month&lt;/div&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+	
+			&lt;div class=&#34;repo-card&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/decolua/9router&#34; target=&#34;_blank&#34;&gt;
+    
+
+
+      
+        decolua /
+
+      9router&lt;/a&gt;&lt;/p&gt;
+				&lt;p&gt;
+      Unlimited FREE AI coding. Connect Claude Code, Codex, Cursor, Cline, Copilot, Antigravity to FREE Claude/GPT/Gemini via 40+ providers. Auto-fallback, RTK -40% tokens, never hit limits.
+    &lt;/p&gt;
+				&lt;div class=&#34;repo-stats&#34;&gt;
+					&lt;div&gt;
+						&lt;span&gt;🔠 JavaScript&lt;/span&gt;
+						&lt;span&gt;⭐ 12743&lt;/span&gt;
+						&lt;span&gt;🔱 1913&lt;/span&gt;
+					&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 9811 stars this month&lt;/div&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+	
+			&lt;div class=&#34;repo-card&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/Anil-matcha/Open-Generative-AI&#34; target=&#34;_blank&#34;&gt;
+    
+
+
+      
+        Anil-matcha /
+
+      Open-Generative-AI&lt;/a&gt;&lt;/p&gt;
+				&lt;p&gt;
+      Open-source alternative to AI video platforms — Free AI image &amp; video generation studio with 200+ models (Flux, Midjourney, Kling, Sora, Veo). No content filters. Self-hosted, MIT licensed.
+    &lt;/p&gt;
+				&lt;div class=&#34;repo-stats&#34;&gt;
+					&lt;div&gt;
+						&lt;span&gt;🔠 JavaScript&lt;/span&gt;
+						&lt;span&gt;⭐ 16155&lt;/span&gt;
+						&lt;span&gt;🔱 2723&lt;/span&gt;
+					&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 10880 stars this month&lt;/div&gt;
 				&lt;/div&gt;
 			&lt;/div&gt;
 	
@@ -383,8 +361,8 @@
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;div&gt;
 						&lt;span&gt;🔠 TypeScript&lt;/span&gt;
-						&lt;span&gt;⭐ 53358&lt;/span&gt;
-						&lt;span&gt;🔱 6043&lt;/span&gt;
+						&lt;span&gt;⭐ 53416&lt;/span&gt;
+						&lt;span&gt;🔱 6050&lt;/span&gt;
 					&lt;/div&gt;
 				&lt;div class=&#34;stars-today&#34;&gt;⭐ 21104 stars this month&lt;/div&gt;
 				&lt;/div&gt;
