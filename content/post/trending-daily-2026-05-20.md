@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2026-05-20
-date: 2026-05-20T08:50:59Z
+date: 2026-05-20T12:11:58Z
 categories:
 - daily
 keywords:
@@ -16,46 +16,24 @@ keywords:
 
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/tinyhumansai/openhuman" target="_blank">
+				<p><a href="https://github.com/colbymchenry/codegraph" target="_blank">
     
 
 
       
-        tinyhumansai /
+        colbymchenry /
 
-      openhuman</a></p>
+      codegraph</a></p>
 				<p>
-      Your Personal AI super intelligence. Private, Simple and extremely powerful.
+      Pre-indexed code knowledge graph for Claude Code, Codex, Cursor, and OpenCode — fewer tokens, fewer tool calls, 100% local
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Rust</span>
-						<span>⭐ 22598</span>
-						<span>🔱 2011</span>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 7620</span>
+						<span>🔱 495</span>
 					</div>
-				<div class="stars-today">⭐ 3973 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/HKUDS/CLI-Anything" target="_blank">
-    
-
-
-      
-        HKUDS /
-
-      CLI-Anything</a></p>
-				<p>
-      "CLI-Anything: Making ALL Software Agent-Native" -- CLI-Hub: https://clianything.cc/
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 38094</span>
-						<span>🔱 3634</span>
-					</div>
-				<div class="stars-today">⭐ 1038 stars today</div>
+				<div class="stars-today">⭐ 1850 stars today</div>
 				</div>
 			</div>
 	
@@ -74,10 +52,120 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 14791</span>
-						<span>🔱 1373</span>
+						<span>⭐ 15081</span>
+						<span>🔱 1393</span>
 					</div>
 				<div class="stars-today">⭐ 3164 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/tinyhumansai/openhuman" target="_blank">
+    
+
+
+      
+        tinyhumansai /
+
+      openhuman</a></p>
+				<p>
+      Your Personal AI super intelligence. Private, Simple and extremely powerful.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Rust</span>
+						<span>⭐ 22999</span>
+						<span>🔱 2039</span>
+					</div>
+				<div class="stars-today">⭐ 3973 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/multica-ai/andrej-karpathy-skills" target="_blank">
+    
+
+
+      
+        multica-ai /
+
+      andrej-karpathy-skills</a></p>
+				<p>
+      A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 </span>
+						<span>⭐ 139666</span>
+						<span>🔱 14324</span>
+					</div>
+				<div class="stars-today">⭐ 1955 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/rohitg00/ai-engineering-from-scratch" target="_blank">
+    
+
+
+      
+        rohitg00 /
+
+      ai-engineering-from-scratch</a></p>
+				<p>
+      Learn it. Build it. Ship it for others.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 8961</span>
+						<span>🔱 1859</span>
+					</div>
+				<div class="stars-today">⭐ 762 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/HKUDS/CLI-Anything" target="_blank">
+    
+
+
+      
+        HKUDS /
+
+      CLI-Anything</a></p>
+				<p>
+      "CLI-Anything: Making ALL Software Agent-Native" -- CLI-Hub: https://clianything.cc/
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 38213</span>
+						<span>🔱 3646</span>
+					</div>
+				<div class="stars-today">⭐ 1038 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/can1357/oh-my-pi" target="_blank">
+    
+
+
+      
+        can1357 /
+
+      oh-my-pi</a></p>
+				<p>
+      ⌥ AI Coding agent for the terminal — hash-anchored edits, optimized tool harness, LSP, Python, browser, subagents, and more
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 5187</span>
+						<span>🔱 450</span>
+					</div>
+				<div class="stars-today">⭐ 237 stars today</div>
 				</div>
 			</div>
 	
@@ -96,8 +184,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Shell</span>
-						<span>⭐ 199183</span>
-						<span>🔱 17759</span>
+						<span>⭐ 199441</span>
+						<span>🔱 17787</span>
 					</div>
 				<div class="stars-today">⭐ 1623 stars today</div>
 				</div>
@@ -118,76 +206,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 20440</span>
-						<span>🔱 2526</span>
+						<span>⭐ 20510</span>
+						<span>🔱 2528</span>
 					</div>
 				<div class="stars-today">⭐ 171 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/rohitg00/agentmemory" target="_blank">
-    
-
-
-      
-        rohitg00 /
-
-      agentmemory</a></p>
-				<p>
-      #1 Persistent memory for AI coding agents based on real-world benchmarks
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 14557</span>
-						<span>🔱 1208</span>
-					</div>
-				<div class="stars-today">⭐ 1609 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/CloakHQ/CloakBrowser" target="_blank">
-    
-
-
-      
-        CloakHQ /
-
-      CloakBrowser</a></p>
-				<p>
-      Stealth Chromium that passes every bot detection test. Drop-in Playwright replacement with source-level fingerprint patches. 30/30 tests passed.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 17059</span>
-						<span>🔱 1319</span>
-					</div>
-				<div class="stars-today">⭐ 1463 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/rtk-ai/rtk" target="_blank">
-    
-
-
-      
-        rtk-ai /
-
-      rtk</a></p>
-				<p>
-      CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Rust</span>
-						<span>⭐ 51388</span>
-						<span>🔱 3127</span>
-					</div>
-				<div class="stars-today">⭐ 704 stars today</div>
 				</div>
 			</div>
 	
@@ -206,186 +228,142 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Shell</span>
-						<span>⭐ 102151</span>
-						<span>🔱 16873</span>
+						<span>⭐ 102336</span>
+						<span>🔱 16891</span>
 					</div>
 				<div class="stars-today">⭐ 1120 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/colbymchenry/codegraph" target="_blank">
+				<p><a href="https://github.com/rmyndharis/OpenWA" target="_blank">
     
 
 
       
-        colbymchenry /
+        rmyndharis /
 
-      codegraph</a></p>
+      OpenWA</a></p>
 				<p>
-      Pre-indexed code knowledge graph for Claude Code, Codex, Cursor, and OpenCode — fewer tokens, fewer tool calls, 100% local
+      Free, Open Source, Self-Hosted WhatsApp API Gateway
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 7235</span>
-						<span>🔱 476</span>
+						<span>⭐ 4423</span>
+						<span>🔱 900</span>
 					</div>
-				<div class="stars-today">⭐ 1850 stars today</div>
+				<div class="stars-today">⭐ 1870 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/multica-ai/andrej-karpathy-skills" target="_blank">
+				<p><a href="https://github.com/truelockmc/streambert" target="_blank">
     
 
 
       
-        multica-ai /
+        truelockmc /
 
-      andrej-karpathy-skills</a></p>
+      streambert</a></p>
 				<p>
-      A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.
+      A cross-platform Electron Desktop App to stream and download any Movie, TV Series or Anime in the World. Zero Ads and Tracking
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 </span>
-						<span>⭐ 139301</span>
-						<span>🔱 14281</span>
+						<span>🔠 JavaScript</span>
+						<span>⭐ 2438</span>
+						<span>🔱 213</span>
 					</div>
-				<div class="stars-today">⭐ 1955 stars today</div>
+				<div class="stars-today">⭐ 925 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/humanlayer/12-factor-agents" target="_blank">
+				<p><a href="https://github.com/opentoonz/opentoonz" target="_blank">
     
 
 
       
-        humanlayer /
+        opentoonz /
 
-      12-factor-agents</a></p>
+      opentoonz</a></p>
 				<p>
-      What are the principles we can use to build LLM-powered software that is actually good enough to put in the hands of production customers?
+      OpenToonz - An open-source full-featured 2D animation creation software
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 21339</span>
-						<span>🔱 1606</span>
+						<span>🔠 C++</span>
+						<span>⭐ 6111</span>
+						<span>🔱 711</span>
 					</div>
-				<div class="stars-today">⭐ 736 stars today</div>
+				<div class="stars-today">⭐ 206 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/Diolinux/PhotoGIMP" target="_blank">
+				<p><a href="https://github.com/zakirullin/files.md" target="_blank">
     
 
 
       
-        Diolinux /
+        zakirullin /
 
-      PhotoGIMP</a></p>
+      files.md</a></p>
 				<p>
-      A Patch for GIMP 3+ for Photoshop Users
+      🌱 Private, quiet space for thinking. A simple app for your .md files.
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 CSS</span>
-						<span>⭐ 10917</span>
-						<span>🔱 379</span>
+						<span>🔠 Go</span>
+						<span>⭐ 1971</span>
+						<span>🔱 48</span>
 					</div>
-				<div class="stars-today">⭐ 493 stars today</div>
+				<div class="stars-today">⭐ 468 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/Alishahryar1/free-claude-code" target="_blank">
+				<p><a href="https://github.com/rohitg00/agentmemory" target="_blank">
     
 
 
       
-        Alishahryar1 /
+        rohitg00 /
 
-      free-claude-code</a></p>
+      agentmemory</a></p>
 				<p>
-      Use claude-code for free in the terminal, VSCode extension or discord like OpenClaw (voice supported)
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 26608</span>
-						<span>🔱 3955</span>
-					</div>
-				<div class="stars-today">⭐ 563 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/pascalorg/editor" target="_blank">
-    
-
-
-      
-        pascalorg /
-
-      editor</a></p>
-				<p>
-      Create and share 3D architectural projects.
+      #1 Persistent memory for AI coding agents based on real-world benchmarks
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 16023</span>
-						<span>🔱 2085</span>
+						<span>⭐ 14696</span>
+						<span>🔱 1218</span>
 					</div>
-				<div class="stars-today">⭐ 110 stars today</div>
+				<div class="stars-today">⭐ 1609 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/frappe/erpnext" target="_blank">
+				<p><a href="https://github.com/ggml-org/llama.cpp" target="_blank">
     
 
 
       
-        frappe /
+        ggml-org /
 
-      erpnext</a></p>
+      llama.cpp</a></p>
 				<p>
-      Free and Open Source Enterprise Resource Planning (ERP)
+      LLM inference in C/C++
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 34445</span>
-						<span>🔱 11332</span>
+						<span>🔠 C++</span>
+						<span>⭐ 111603</span>
+						<span>🔱 18474</span>
 					</div>
-				<div class="stars-today">⭐ 98 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/microsoft/ai-agents-for-beginners" target="_blank">
-    
-
-
-      
-        microsoft /
-
-      ai-agents-for-beginners</a></p>
-				<p>
-      12 Lessons to Get Started Building AI Agents
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Jupyter Notebook</span>
-						<span>⭐ 64737</span>
-						<span>🔱 21380</span>
-					</div>
-				<div class="stars-today">⭐ 818 stars today</div>
+				<div class="stars-today">⭐ 549 stars today</div>
 				</div>
 			</div>
 	
@@ -404,8 +382,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 5700</span>
-						<span>🔱 952</span>
+						<span>⭐ 5783</span>
+						<span>🔱 958</span>
 					</div>
 				<div class="stars-today">⭐ 503 stars today</div>
 				</div>

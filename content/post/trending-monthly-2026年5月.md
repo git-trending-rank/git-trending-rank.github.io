@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2026年5月
-date: 2026-05-20T08:50:59Z
+date: 2026-05-20T12:11:58Z
 categories:
 - monthly
 keywords:
@@ -30,8 +30,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Shell</span>
-						<span>⭐ 95586</span>
-						<span>🔱 8426</span>
+						<span>⭐ 95936</span>
+						<span>🔱 8456</span>
 					</div>
 				<div class="stars-today">⭐ 77724 stars this month</div>
 				</div>
@@ -52,10 +52,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 26608</span>
-						<span>🔱 3955</span>
+						<span>⭐ 26717</span>
+						<span>🔱 3966</span>
 					</div>
 				<div class="stars-today">⭐ 24210 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/CloakHQ/CloakBrowser" target="_blank">
+    
+
+
+      
+        CloakHQ /
+
+      CloakBrowser</a></p>
+				<p>
+      Stealth Chromium that passes every bot detection test. Drop-in Playwright replacement with source-level fingerprint patches. 30/30 tests passed.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 17232</span>
+						<span>🔱 1336</span>
+					</div>
+				<div class="stars-today">⭐ 14849 stars this month</div>
 				</div>
 			</div>
 	
@@ -74,8 +96,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 </span>
-						<span>⭐ 139301</span>
-						<span>🔱 14281</span>
+						<span>⭐ 139666</span>
+						<span>🔱 14324</span>
 					</div>
 				<div class="stars-today">⭐ 78225 stars this month</div>
 				</div>
@@ -96,52 +118,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 18538</span>
-						<span>🔱 2643</span>
+						<span>⭐ 18587</span>
+						<span>🔱 2651</span>
 					</div>
 				<div class="stars-today">⭐ 14219 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/CloakHQ/CloakBrowser" target="_blank">
-    
-
-
-      
-        CloakHQ /
-
-      CloakBrowser</a></p>
-				<p>
-      Stealth Chromium that passes every bot detection test. Drop-in Playwright replacement with source-level fingerprint patches. 30/30 tests passed.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 17059</span>
-						<span>🔱 1319</span>
-					</div>
-				<div class="stars-today">⭐ 14849 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/anthropics/financial-services" target="_blank">
-    
-
-
-      
-        anthropics /
-
-      financial-services</a></p>
-				<p></p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 26069</span>
-						<span>🔱 3626</span>
-					</div>
-				<div class="stars-today">⭐ 18269 stars this month</div>
 				</div>
 			</div>
 	
@@ -160,32 +140,30 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 14557</span>
-						<span>🔱 1208</span>
+						<span>⭐ 14696</span>
+						<span>🔱 1218</span>
 					</div>
 				<div class="stars-today">⭐ 11984 stars this month</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/Z4nzu/hackingtool" target="_blank">
+				<p><a href="https://github.com/anthropics/financial-services" target="_blank">
     
 
 
       
-        Z4nzu /
+        anthropics /
 
-      hackingtool</a></p>
-				<p>
-      ALL IN ONE Hacking Tool For Hackers
-    </p>
+      financial-services</a></p>
+				<p></p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 75688</span>
-						<span>🔱 8538</span>
+						<span>⭐ 26120</span>
+						<span>🔱 3633</span>
 					</div>
-				<div class="stars-today">⭐ 17621 stars this month</div>
+				<div class="stars-today">⭐ 18269 stars this month</div>
 				</div>
 			</div>
 	
@@ -204,10 +182,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 29560</span>
+						<span>⭐ 29592</span>
 						<span>🔱 2125</span>
 					</div>
 				<div class="stars-today">⭐ 10054 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/Z4nzu/hackingtool" target="_blank">
+    
+
+
+      
+        Z4nzu /
+
+      hackingtool</a></p>
+				<p>
+      ALL IN ONE Hacking Tool For Hackers
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 75722</span>
+						<span>🔱 8539</span>
+					</div>
+				<div class="stars-today">⭐ 17621 stars this month</div>
 				</div>
 			</div>
 	
@@ -226,98 +226,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 77537</span>
-						<span>🔱 15108</span>
+						<span>⭐ 77593</span>
+						<span>🔱 15119</span>
 					</div>
 				<div class="stars-today">⭐ 26106 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/addyosmani/agent-skills" target="_blank">
-    
-
-
-      
-        addyosmani /
-
-      agent-skills</a></p>
-				<p>
-      Production-grade engineering skills for AI coding agents.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Shell</span>
-						<span>⭐ 44017</span>
-						<span>🔱 4853</span>
-					</div>
-				<div class="stars-today">⭐ 26168 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/Anil-matcha/Open-Generative-AI" target="_blank">
-    
-
-
-      
-        Anil-matcha /
-
-      Open-Generative-AI</a></p>
-				<p>
-      Open-source alternative to AI video platforms — Free AI image & video generation studio with 200+ models (Flux, Midjourney, Kling, Sora, Veo). No content filters. Self-hosted, MIT licensed.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 JavaScript</span>
-						<span>⭐ 16132</span>
-						<span>🔱 2721</span>
-					</div>
-				<div class="stars-today">⭐ 10880 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/decolua/9router" target="_blank">
-    
-
-
-      
-        decolua /
-
-      9router</a></p>
-				<p>
-      Unlimited FREE AI coding. Connect Claude Code, Codex, Cursor, Cline, Copilot, Antigravity to FREE Claude/GPT/Gemini via 40+ providers. Auto-fallback, RTK -40% tokens, never hit limits.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 JavaScript</span>
-						<span>⭐ 12691</span>
-						<span>🔱 1905</span>
-					</div>
-				<div class="stars-today">⭐ 9811 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/Fincept-Corporation/FinceptTerminal" target="_blank">
-    
-
-
-      
-        Fincept-Corporation /
-
-      FinceptTerminal</a></p>
-				<p>
-      FinceptTerminal is a modern finance application offering advanced market analytics, investment research, and economic data tools, designed for interactive exploration and data-driven decision-making in a user-friendly environment.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 21799</span>
-						<span>🔱 2931</span>
-					</div>
-				<div class="stars-today">⭐ 16436 stars this month</div>
 				</div>
 			</div>
 	
@@ -336,32 +248,98 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 14791</span>
-						<span>🔱 1373</span>
+						<span>⭐ 15081</span>
+						<span>🔱 1393</span>
 					</div>
 				<div class="stars-today">⭐ 10628 stars this month</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/heygen-com/hyperframes" target="_blank">
+				<p><a href="https://github.com/addyosmani/agent-skills" target="_blank">
     
 
 
       
-        heygen-com /
+        addyosmani /
 
-      hyperframes</a></p>
+      agent-skills</a></p>
 				<p>
-      Write HTML. Render video. Built for agents.
+      Production-grade engineering skills for AI coding agents.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Shell</span>
+						<span>⭐ 44068</span>
+						<span>🔱 4857</span>
+					</div>
+				<div class="stars-today">⭐ 26168 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/colbymchenry/codegraph" target="_blank">
+    
+
+
+      
+        colbymchenry /
+
+      codegraph</a></p>
+				<p>
+      Pre-indexed code knowledge graph for Claude Code, Codex, Cursor, and OpenCode — fewer tokens, fewer tool calls, 100% local
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 19820</span>
-						<span>🔱 1863</span>
+						<span>⭐ 7620</span>
+						<span>🔱 495</span>
 					</div>
-				<div class="stars-today">⭐ 13702 stars this month</div>
+				<div class="stars-today">⭐ 6885 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/decolua/9router" target="_blank">
+    
+
+
+      
+        decolua /
+
+      9router</a></p>
+				<p>
+      Unlimited FREE AI coding. Connect Claude Code, Codex, Cursor, Cline, Copilot, Antigravity to FREE Claude/GPT/Gemini via 40+ providers. Auto-fallback, RTK -40% tokens, never hit limits.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 JavaScript</span>
+						<span>⭐ 12743</span>
+						<span>🔱 1913</span>
+					</div>
+				<div class="stars-today">⭐ 9811 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/Anil-matcha/Open-Generative-AI" target="_blank">
+    
+
+
+      
+        Anil-matcha /
+
+      Open-Generative-AI</a></p>
+				<p>
+      Open-source alternative to AI video platforms — Free AI image & video generation studio with 200+ models (Flux, Midjourney, Kling, Sora, Veo). No content filters. Self-hosted, MIT licensed.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 JavaScript</span>
+						<span>⭐ 16155</span>
+						<span>🔱 2723</span>
+					</div>
+				<div class="stars-today">⭐ 10880 stars this month</div>
 				</div>
 			</div>
 	
@@ -380,8 +358,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 53358</span>
-						<span>🔱 6043</span>
+						<span>⭐ 53416</span>
+						<span>🔱 6050</span>
 					</div>
 				<div class="stars-today">⭐ 21104 stars this month</div>
 				</div>
