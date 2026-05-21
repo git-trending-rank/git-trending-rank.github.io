@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2026年5月
-date: 2026-05-21T05:57:05Z
+date: 2026-05-21T10:54:44Z
 categories:
 - monthly
 keywords:
@@ -30,8 +30,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Shell</span>
-						<span>⭐ 97416</span>
-						<span>🔱 8616</span>
+						<span>⭐ 97948</span>
+						<span>🔱 8662</span>
 					</div>
 				<div class="stars-today">⭐ 80029 stars this month</div>
 				</div>
@@ -52,8 +52,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 27031</span>
-						<span>🔱 4017</span>
+						<span>⭐ 27129</span>
+						<span>🔱 4033</span>
 					</div>
 				<div class="stars-today">⭐ 24944 stars this month</div>
 				</div>
@@ -74,10 +74,96 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 17766</span>
-						<span>🔱 1393</span>
+						<span>⭐ 17943</span>
+						<span>🔱 1413</span>
 					</div>
 				<div class="stars-today">⭐ 16037 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/rohitg00/agentmemory" target="_blank">
+    
+
+
+      
+        rohitg00 /
+
+      agentmemory</a></p>
+				<p>
+      #1 Persistent memory for AI coding agents based on real-world benchmarks
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 15502</span>
+						<span>🔱 1284</span>
+					</div>
+				<div class="stars-today">⭐ 13014 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/anthropics/financial-services" target="_blank">
+    
+
+
+      
+        anthropics /
+
+      financial-services</a></p>
+				<p></p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 26370</span>
+						<span>🔱 3676</span>
+					</div>
+				<div class="stars-today">⭐ 18624 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/huggingface/ml-intern" target="_blank">
+    
+
+
+      
+        huggingface /
+
+      ml-intern</a></p>
+				<p>
+      🤗 ml-intern: an open-source ML engineer that reads papers, trains models, and ships ML models
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 9694</span>
+						<span>🔱 1032</span>
+					</div>
+				<div class="stars-today">⭐ 9710 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/colbymchenry/codegraph" target="_blank">
+    
+
+
+      
+        colbymchenry /
+
+      codegraph</a></p>
+				<p>
+      Pre-indexed code knowledge graph for Claude Code, Codex, Cursor, and OpenCode — fewer tokens, fewer tool calls, 100% local
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 11695</span>
+						<span>🔱 696</span>
+					</div>
+				<div class="stars-today">⭐ 7557 stars this month</div>
 				</div>
 			</div>
 	
@@ -96,8 +182,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 </span>
-						<span>⭐ 141486</span>
-						<span>🔱 14529</span>
+						<span>⭐ 142109</span>
+						<span>🔱 14579</span>
 					</div>
 				<div class="stars-today">⭐ 76112 stars this month</div>
 				</div>
@@ -118,52 +204,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 18770</span>
-						<span>🔱 2673</span>
+						<span>⭐ 18875</span>
+						<span>🔱 2688</span>
 					</div>
 				<div class="stars-today">⭐ 14190 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/rohitg00/agentmemory" target="_blank">
-    
-
-
-      
-        rohitg00 /
-
-      agentmemory</a></p>
-				<p>
-      #1 Persistent memory for AI coding agents based on real-world benchmarks
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 15315</span>
-						<span>🔱 1269</span>
-					</div>
-				<div class="stars-today">⭐ 13014 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/anthropics/financial-services" target="_blank">
-    
-
-
-      
-        anthropics /
-
-      financial-services</a></p>
-				<p></p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 26294</span>
-						<span>🔱 3676</span>
-					</div>
-				<div class="stars-today">⭐ 18624 stars this month</div>
 				</div>
 			</div>
 	
@@ -182,54 +226,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 29712</span>
-						<span>🔱 2130</span>
+						<span>⭐ 29739</span>
+						<span>🔱 2133</span>
 					</div>
 				<div class="stars-today">⭐ 10198 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/Z4nzu/hackingtool" target="_blank">
-    
-
-
-      
-        Z4nzu /
-
-      hackingtool</a></p>
-				<p>
-      ALL IN ONE Hacking Tool For Hackers
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 75850</span>
-						<span>🔱 8547</span>
-					</div>
-				<div class="stars-today">⭐ 17826 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/TauricResearch/TradingAgents" target="_blank">
-    
-
-
-      
-        TauricResearch /
-
-      TradingAgents</a></p>
-				<p>
-      TradingAgents: Multi-Agents LLM Financial Trading Framework
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 77897</span>
-						<span>🔱 15171</span>
-					</div>
-				<div class="stars-today">⭐ 26200 stars this month</div>
 				</div>
 			</div>
 	
@@ -248,54 +248,54 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 16781</span>
-						<span>🔱 1476</span>
+						<span>⭐ 17562</span>
+						<span>🔱 1516</span>
 					</div>
 				<div class="stars-today">⭐ 12191 stars this month</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/addyosmani/agent-skills" target="_blank">
+				<p><a href="https://github.com/TauricResearch/TradingAgents" target="_blank">
     
 
 
       
-        addyosmani /
+        TauricResearch /
 
-      agent-skills</a></p>
+      TradingAgents</a></p>
 				<p>
-      Production-grade engineering skills for AI coding agents.
+      TradingAgents: Multi-Agents LLM Financial Trading Framework
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Shell</span>
-						<span>⭐ 44328</span>
-						<span>🔱 4890</span>
+						<span>🔠 Python</span>
+						<span>⭐ 78008</span>
+						<span>🔱 15191</span>
 					</div>
-				<div class="stars-today">⭐ 26157 stars this month</div>
+				<div class="stars-today">⭐ 26200 stars this month</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/colbymchenry/codegraph" target="_blank">
+				<p><a href="https://github.com/Z4nzu/hackingtool" target="_blank">
     
 
 
       
-        colbymchenry /
+        Z4nzu /
 
-      codegraph</a></p>
+      hackingtool</a></p>
 				<p>
-      Pre-indexed code knowledge graph for Claude Code, Codex, Cursor, and OpenCode — fewer tokens, fewer tool calls, 100% local
+      ALL IN ONE Hacking Tool For Hackers
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 10628</span>
-						<span>🔱 654</span>
+						<span>🔠 Python</span>
+						<span>⭐ 75908</span>
+						<span>🔱 8552</span>
 					</div>
-				<div class="stars-today">⭐ 7557 stars this month</div>
+				<div class="stars-today">⭐ 17826 stars this month</div>
 				</div>
 			</div>
 	
@@ -314,32 +314,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 JavaScript</span>
-						<span>⭐ 12973</span>
-						<span>🔱 1942</span>
+						<span>⭐ 13054</span>
+						<span>🔱 1953</span>
 					</div>
 				<div class="stars-today">⭐ 10123 stars this month</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/Anil-matcha/Open-Generative-AI" target="_blank">
+				<p><a href="https://github.com/addyosmani/agent-skills" target="_blank">
     
 
 
       
-        Anil-matcha /
+        addyosmani /
 
-      Open-Generative-AI</a></p>
+      agent-skills</a></p>
 				<p>
-      Open-source alternative to AI video platforms — Free AI image & video generation studio with 200+ models (Flux, Midjourney, Kling, Sora, Veo). No content filters. Self-hosted, MIT licensed.
+      Production-grade engineering skills for AI coding agents.
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 JavaScript</span>
-						<span>⭐ 16279</span>
-						<span>🔱 2739</span>
+						<span>🔠 Shell</span>
+						<span>⭐ 44402</span>
+						<span>🔱 4896</span>
 					</div>
-				<div class="stars-today">⭐ 10937 stars this month</div>
+				<div class="stars-today">⭐ 26157 stars this month</div>
 				</div>
 			</div>
 	
@@ -358,10 +358,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 53665</span>
-						<span>🔱 6080</span>
+						<span>⭐ 53732</span>
+						<span>🔱 6088</span>
 					</div>
 				<div class="stars-today">⭐ 21381 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/Anil-matcha/Open-Generative-AI" target="_blank">
+    
+
+
+      
+        Anil-matcha /
+
+      Open-Generative-AI</a></p>
+				<p>
+      Open-source alternative to AI video platforms — Free AI image & video generation studio with 200+ models (Flux, Midjourney, Kling, Sora, Veo). No content filters. Self-hosted, MIT licensed.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 JavaScript</span>
+						<span>⭐ 16327</span>
+						<span>🔱 2746</span>
+					</div>
+				<div class="stars-today">⭐ 10937 stars this month</div>
 				</div>
 			</div>
 	
