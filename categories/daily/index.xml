@@ -6,7 +6,399 @@
         <description>Recent content in Daily on Git Trending Rank</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en</language>
-        <lastBuildDate>Wed, 20 May 2026 23:00:07 +0000</lastBuildDate><atom:link href="https://git-trending-rank.github.io/categories/daily/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Thu, 21 May 2026 01:49:44 +0000</lastBuildDate><atom:link href="https://git-trending-rank.github.io/categories/daily/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>GitHub 趋势 2026-05-21</title>
+        <link>https://git-trending-rank.github.io/post/trending-daily-2026-05-21/</link>
+        <pubDate>Thu, 21 May 2026 01:49:44 +0000</pubDate>
+        
+        <guid>https://git-trending-rank.github.io/post/trending-daily-2026-05-21/</guid>
+        <description>&lt;link rel=&#34;stylesheet&#34; href=&#34;https://git-trending-rank.github.io/public/css/trending.css&#34;&gt;
+
+	&lt;main class=&#34;container&#34;&gt;
+        &lt;div class=&#34;repo-list&#34; id=&#34;repoList&#34;&gt;
+
+	
+			&lt;div class=&#34;repo-card&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/colbymchenry/codegraph&#34; target=&#34;_blank&#34;&gt;
+    
+
+
+      
+        colbymchenry /
+
+      codegraph&lt;/a&gt;&lt;/p&gt;
+				&lt;p&gt;
+      Pre-indexed code knowledge graph for Claude Code, Codex, Cursor, and OpenCode — fewer tokens, fewer tool calls, 100% local
+    &lt;/p&gt;
+				&lt;div class=&#34;repo-stats&#34;&gt;
+					&lt;div&gt;
+						&lt;span&gt;🔠 TypeScript&lt;/span&gt;
+						&lt;span&gt;⭐ 9774&lt;/span&gt;
+						&lt;span&gt;🔱 599&lt;/span&gt;
+					&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 2123 stars today&lt;/div&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+	
+			&lt;div class=&#34;repo-card&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/Imbad0202/academic-research-skills&#34; target=&#34;_blank&#34;&gt;
+    
+
+
+      
+        Imbad0202 /
+
+      academic-research-skills&lt;/a&gt;&lt;/p&gt;
+				&lt;p&gt;
+      Academic Research Skills for Claude Code: research → write → review → revise → finalize
+    &lt;/p&gt;
+				&lt;div class=&#34;repo-stats&#34;&gt;
+					&lt;div&gt;
+						&lt;span&gt;🔠 Python&lt;/span&gt;
+						&lt;span&gt;⭐ 16278&lt;/span&gt;
+						&lt;span&gt;🔱 1451&lt;/span&gt;
+					&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 1667 stars today&lt;/div&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+	
+			&lt;div class=&#34;repo-card&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/tinyhumansai/openhuman&#34; target=&#34;_blank&#34;&gt;
+    
+
+
+      
+        tinyhumansai /
+
+      openhuman&lt;/a&gt;&lt;/p&gt;
+				&lt;p&gt;
+      Your Personal AI super intelligence. Private, Simple and extremely powerful.
+    &lt;/p&gt;
+				&lt;div class=&#34;repo-stats&#34;&gt;
+					&lt;div&gt;
+						&lt;span&gt;🔠 Rust&lt;/span&gt;
+						&lt;span&gt;⭐ 23711&lt;/span&gt;
+						&lt;span&gt;🔱 2118&lt;/span&gt;
+					&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 3394 stars today&lt;/div&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+	
+			&lt;div class=&#34;repo-card&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/multica-ai/andrej-karpathy-skills&#34; target=&#34;_blank&#34;&gt;
+    
+
+
+      
+        multica-ai /
+
+      andrej-karpathy-skills&lt;/a&gt;&lt;/p&gt;
+				&lt;p&gt;
+      A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy&#39;s observations on LLM coding pitfalls.
+    &lt;/p&gt;
+				&lt;div class=&#34;repo-stats&#34;&gt;
+					&lt;div&gt;
+						&lt;span&gt;🔠 &lt;/span&gt;
+						&lt;span&gt;⭐ 140969&lt;/span&gt;
+						&lt;span&gt;🔱 14470&lt;/span&gt;
+					&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 2679 stars today&lt;/div&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+	
+			&lt;div class=&#34;repo-card&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/rohitg00/ai-engineering-from-scratch&#34; target=&#34;_blank&#34;&gt;
+    
+
+
+      
+        rohitg00 /
+
+      ai-engineering-from-scratch&lt;/a&gt;&lt;/p&gt;
+				&lt;p&gt;
+      Learn it. Build it. Ship it for others.
+    &lt;/p&gt;
+				&lt;div class=&#34;repo-stats&#34;&gt;
+					&lt;div&gt;
+						&lt;span&gt;🔠 Python&lt;/span&gt;
+						&lt;span&gt;⭐ 9624&lt;/span&gt;
+						&lt;span&gt;🔱 1949&lt;/span&gt;
+					&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 765 stars today&lt;/div&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+	
+			&lt;div class=&#34;repo-card&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/HKUDS/CLI-Anything&#34; target=&#34;_blank&#34;&gt;
+    
+
+
+      
+        HKUDS /
+
+      CLI-Anything&lt;/a&gt;&lt;/p&gt;
+				&lt;p&gt;
+      &#34;CLI-Anything: Making ALL Software Agent-Native&#34; -- CLI-Hub: https://clianything.cc/
+    &lt;/p&gt;
+				&lt;div class=&#34;repo-stats&#34;&gt;
+					&lt;div&gt;
+						&lt;span&gt;🔠 Python&lt;/span&gt;
+						&lt;span&gt;⭐ 38563&lt;/span&gt;
+						&lt;span&gt;🔱 3664&lt;/span&gt;
+					&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 890 stars today&lt;/div&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+	
+			&lt;div class=&#34;repo-card&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/can1357/oh-my-pi&#34; target=&#34;_blank&#34;&gt;
+    
+
+
+      
+        can1357 /
+
+      oh-my-pi&lt;/a&gt;&lt;/p&gt;
+				&lt;p&gt;
+      ⌥ AI Coding agent for the terminal — hash-anchored edits, optimized tool harness, LSP, Python, browser, subagents, and more
+    &lt;/p&gt;
+				&lt;div class=&#34;repo-stats&#34;&gt;
+					&lt;div&gt;
+						&lt;span&gt;🔠 TypeScript&lt;/span&gt;
+						&lt;span&gt;⭐ 5443&lt;/span&gt;
+						&lt;span&gt;🔱 454&lt;/span&gt;
+					&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 270 stars today&lt;/div&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+	
+			&lt;div class=&#34;repo-card&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/obra/superpowers&#34; target=&#34;_blank&#34;&gt;
+    
+
+
+      
+        obra /
+
+      superpowers&lt;/a&gt;&lt;/p&gt;
+				&lt;p&gt;
+      An agentic skills framework &amp; software development methodology that works.
+    &lt;/p&gt;
+				&lt;div class=&#34;repo-stats&#34;&gt;
+					&lt;div&gt;
+						&lt;span&gt;🔠 Shell&lt;/span&gt;
+						&lt;span&gt;⭐ 200102&lt;/span&gt;
+						&lt;span&gt;🔱 17842&lt;/span&gt;
+					&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 1743 stars today&lt;/div&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+	
+			&lt;div class=&#34;repo-card&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/anthropics/claude-plugins-official&#34; target=&#34;_blank&#34;&gt;
+    
+
+
+      
+        anthropics /
+
+      claude-plugins-official&lt;/a&gt;&lt;/p&gt;
+				&lt;p&gt;
+      Official, Anthropic-managed directory of high quality Claude Code Plugins.
+    &lt;/p&gt;
+				&lt;div class=&#34;repo-stats&#34;&gt;
+					&lt;div&gt;
+						&lt;span&gt;🔠 Python&lt;/span&gt;
+						&lt;span&gt;⭐ 20816&lt;/span&gt;
+						&lt;span&gt;🔱 2547&lt;/span&gt;
+					&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 674 stars today&lt;/div&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+	
+			&lt;div class=&#34;repo-card&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/msitarzewski/agency-agents&#34; target=&#34;_blank&#34;&gt;
+    
+
+
+      
+        msitarzewski /
+
+      agency-agents&lt;/a&gt;&lt;/p&gt;
+				&lt;p&gt;
+      A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.
+    &lt;/p&gt;
+				&lt;div class=&#34;repo-stats&#34;&gt;
+					&lt;div&gt;
+						&lt;span&gt;🔠 Shell&lt;/span&gt;
+						&lt;span&gt;⭐ 102880&lt;/span&gt;
+						&lt;span&gt;🔱 16955&lt;/span&gt;
+					&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 1636 stars today&lt;/div&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+	
+			&lt;div class=&#34;repo-card&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/rmyndharis/OpenWA&#34; target=&#34;_blank&#34;&gt;
+    
+
+
+      
+        rmyndharis /
+
+      OpenWA&lt;/a&gt;&lt;/p&gt;
+				&lt;p&gt;
+      Free, Open Source, Self-Hosted WhatsApp API Gateway
+    &lt;/p&gt;
+				&lt;div class=&#34;repo-stats&#34;&gt;
+					&lt;div&gt;
+						&lt;span&gt;🔠 TypeScript&lt;/span&gt;
+						&lt;span&gt;⭐ 4883&lt;/span&gt;
+						&lt;span&gt;🔱 986&lt;/span&gt;
+					&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 741 stars today&lt;/div&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+	
+			&lt;div class=&#34;repo-card&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/truelockmc/streambert&#34; target=&#34;_blank&#34;&gt;
+    
+
+
+      
+        truelockmc /
+
+      streambert&lt;/a&gt;&lt;/p&gt;
+				&lt;p&gt;
+      A cross-platform Electron Desktop App to stream and download any Movie, TV Series or Anime in the World. Zero Ads and Tracking
+    &lt;/p&gt;
+				&lt;div class=&#34;repo-stats&#34;&gt;
+					&lt;div&gt;
+						&lt;span&gt;🔠 JavaScript&lt;/span&gt;
+						&lt;span&gt;⭐ 3081&lt;/span&gt;
+						&lt;span&gt;🔱 251&lt;/span&gt;
+					&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 582 stars today&lt;/div&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+	
+			&lt;div class=&#34;repo-card&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/opentoonz/opentoonz&#34; target=&#34;_blank&#34;&gt;
+    
+
+
+      
+        opentoonz /
+
+      opentoonz&lt;/a&gt;&lt;/p&gt;
+				&lt;p&gt;
+      OpenToonz - An open-source full-featured 2D animation creation software
+    &lt;/p&gt;
+				&lt;div class=&#34;repo-stats&#34;&gt;
+					&lt;div&gt;
+						&lt;span&gt;🔠 C++&lt;/span&gt;
+						&lt;span&gt;⭐ 6371&lt;/span&gt;
+						&lt;span&gt;🔱 734&lt;/span&gt;
+					&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 236 stars today&lt;/div&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+	
+			&lt;div class=&#34;repo-card&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/zakirullin/files.md&#34; target=&#34;_blank&#34;&gt;
+    
+
+
+      
+        zakirullin /
+
+      files.md&lt;/a&gt;&lt;/p&gt;
+				&lt;p&gt;
+      🌱 Private, quiet space for thinking. A simple app for your .md files.
+    &lt;/p&gt;
+				&lt;div class=&#34;repo-stats&#34;&gt;
+					&lt;div&gt;
+						&lt;span&gt;🔠 Go&lt;/span&gt;
+						&lt;span&gt;⭐ 2231&lt;/span&gt;
+						&lt;span&gt;🔱 50&lt;/span&gt;
+					&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 429 stars today&lt;/div&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+	
+			&lt;div class=&#34;repo-card&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/rohitg00/agentmemory&#34; target=&#34;_blank&#34;&gt;
+    
+
+
+      
+        rohitg00 /
+
+      agentmemory&lt;/a&gt;&lt;/p&gt;
+				&lt;p&gt;
+      #1 Persistent memory for AI coding agents based on real-world benchmarks
+    &lt;/p&gt;
+				&lt;div class=&#34;repo-stats&#34;&gt;
+					&lt;div&gt;
+						&lt;span&gt;🔠 TypeScript&lt;/span&gt;
+						&lt;span&gt;⭐ 15172&lt;/span&gt;
+						&lt;span&gt;🔱 1253&lt;/span&gt;
+					&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 1080 stars today&lt;/div&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+	
+			&lt;div class=&#34;repo-card&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/ggml-org/llama.cpp&#34; target=&#34;_blank&#34;&gt;
+    
+
+
+      
+        ggml-org /
+
+      llama.cpp&lt;/a&gt;&lt;/p&gt;
+				&lt;p&gt;
+      LLM inference in C/C++
+    &lt;/p&gt;
+				&lt;div class=&#34;repo-stats&#34;&gt;
+					&lt;div&gt;
+						&lt;span&gt;🔠 C++&lt;/span&gt;
+						&lt;span&gt;⭐ 111864&lt;/span&gt;
+						&lt;span&gt;🔱 18510&lt;/span&gt;
+					&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 309 stars today&lt;/div&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+	
+			&lt;div class=&#34;repo-card&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/HKUDS/ViMax&#34; target=&#34;_blank&#34;&gt;
+    
+
+
+      
+        HKUDS /
+
+      ViMax&lt;/a&gt;&lt;/p&gt;
+				&lt;p&gt;
+      &#34;ViMax: Agentic Video Generation (Director, Screenwriter, Producer, and Video Generator All-in-One)&#34;
+    &lt;/p&gt;
+				&lt;div class=&#34;repo-stats&#34;&gt;
+					&lt;div&gt;
+						&lt;span&gt;🔠 Python&lt;/span&gt;
+						&lt;span&gt;⭐ 6088&lt;/span&gt;
+						&lt;span&gt;🔱 983&lt;/span&gt;
+					&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 674 stars today&lt;/div&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+	
+
+		&lt;/div&gt;
+    &lt;/main&gt;
+
+</description>
+        </item>
+        <item>
         <title>GitHub 趋势 2026-05-20</title>
         <link>https://git-trending-rank.github.io/post/trending-daily-2026-05-20/</link>
         <pubDate>Wed, 20 May 2026 23:00:07 +0000</pubDate>
