@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2026年第21周
-date: 2026-05-23T07:58:22Z
+date: 2026-05-23T11:01:23Z
 categories:
 - weekly
 keywords:
@@ -30,8 +30,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 17405</span>
-						<span>🔱 963</span>
+						<span>⭐ 17800</span>
+						<span>🔱 987</span>
 					</div>
 				<div class="stars-today">⭐ 14072 stars this week</div>
 				</div>
@@ -52,8 +52,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Rust</span>
-						<span>⭐ 25892</span>
-						<span>🔱 2374</span>
+						<span>⭐ 25994</span>
+						<span>🔱 2382</span>
 					</div>
 				<div class="stars-today">⭐ 17124 stars this week</div>
 				</div>
@@ -74,8 +74,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 19253</span>
-						<span>🔱 1650</span>
+						<span>⭐ 19357</span>
+						<span>🔱 1662</span>
 					</div>
 				<div class="stars-today">⭐ 11550 stars this week</div>
 				</div>
@@ -96,8 +96,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Rust</span>
-						<span>⭐ 64266</span>
-						<span>🔱 8487</span>
+						<span>⭐ 64370</span>
+						<span>🔱 8498</span>
 					</div>
 				<div class="stars-today">⭐ 6773 stars this week</div>
 				</div>
@@ -118,8 +118,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 16530</span>
-						<span>🔱 1356</span>
+						<span>⭐ 16577</span>
+						<span>🔱 1362</span>
 					</div>
 				<div class="stars-today">⭐ 6891 stars this week</div>
 				</div>
@@ -140,8 +140,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Swift</span>
-						<span>⭐ 9584</span>
-						<span>🔱 983</span>
+						<span>⭐ 9627</span>
+						<span>🔱 988</span>
 					</div>
 				<div class="stars-today">⭐ 3621 stars this week</div>
 				</div>
@@ -162,8 +162,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 18950</span>
-						<span>🔱 1504</span>
+						<span>⭐ 19078</span>
+						<span>🔱 1515</span>
 					</div>
 				<div class="stars-today">⭐ 7042 stars this week</div>
 				</div>
@@ -184,8 +184,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 6787</span>
-						<span>🔱 1075</span>
+						<span>⭐ 6815</span>
+						<span>🔱 1078</span>
 					</div>
 				<div class="stars-today">⭐ 2685 stars this week</div>
 				</div>
@@ -206,98 +206,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 21805</span>
-						<span>🔱 1638</span>
+						<span>⭐ 21823</span>
+						<span>🔱 1639</span>
 					</div>
 				<div class="stars-today">⭐ 1907 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/oven-sh/bun" target="_blank">
-    
-
-
-      
-        oven-sh /
-
-      bun</a></p>
-				<p>
-      Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Rust</span>
-						<span>⭐ 92337</span>
-						<span>🔱 4639</span>
-					</div>
-				<div class="stars-today">⭐ 2016 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/datawhalechina/easy-vibe" target="_blank">
-    
-
-
-      
-        datawhalechina /
-
-      easy-vibe</a></p>
-				<p>
-      💻 vibe coding 2026 | Your first modern Coding course for beginners to master step by step.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 JavaScript</span>
-						<span>⭐ 14092</span>
-						<span>🔱 1340</span>
-					</div>
-				<div class="stars-today">⭐ 2942 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/obra/superpowers" target="_blank">
-    
-
-
-      
-        obra /
-
-      superpowers</a></p>
-				<p>
-      An agentic skills framework & software development methodology that works.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Shell</span>
-						<span>⭐ 203239</span>
-						<span>🔱 18101</span>
-					</div>
-				<div class="stars-today">⭐ 10497 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/facebook/pyrefly" target="_blank">
-    
-
-
-      
-        facebook /
-
-      pyrefly</a></p>
-				<p>
-      A fast type checker and language server for Python
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Rust</span>
-						<span>⭐ 6460</span>
-						<span>🔱 381</span>
-					</div>
-				<div class="stars-today">⭐ 517 stars this week</div>
 				</div>
 			</div>
 	
@@ -316,32 +228,120 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 12420</span>
-						<span>🔱 2341</span>
+						<span>⭐ 12685</span>
+						<span>🔱 2383</span>
 					</div>
 				<div class="stars-today">⭐ 3715 stars this week</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/Stremio/stremio-web" target="_blank">
+				<p><a href="https://github.com/datawhalechina/easy-vibe" target="_blank">
     
 
 
       
-        Stremio /
+        datawhalechina /
 
-      stremio-web</a></p>
+      easy-vibe</a></p>
 				<p>
-      Stremio - Freedom to Stream
+      💻 vibe coding 2026 | Your first modern Coding course for beginners to master step by step.
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 JavaScript</span>
-						<span>⭐ 11707</span>
-						<span>🔱 1291</span>
+						<span>⭐ 14114</span>
+						<span>🔱 1344</span>
 					</div>
-				<div class="stars-today">⭐ 865 stars this week</div>
+				<div class="stars-today">⭐ 2942 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/Lum1104/Understand-Anything" target="_blank">
+    
+
+
+      
+        Lum1104 /
+
+      Understand-Anything</a></p>
+				<p>
+      Graphs that teach > graphs that impress. Turn any code into an interactive knowledge graph you can explore, search, and ask questions about. Works with Claude Code, Codex, Cursor, Copilot, Gemini CLI, and more.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 19488</span>
+						<span>🔱 1767</span>
+					</div>
+				<div class="stars-today">⭐ 4680 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/obra/superpowers" target="_blank">
+    
+
+
+      
+        obra /
+
+      superpowers</a></p>
+				<p>
+      An agentic skills framework & software development methodology that works.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Shell</span>
+						<span>⭐ 203433</span>
+						<span>🔱 18112</span>
+					</div>
+				<div class="stars-today">⭐ 10497 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/can1357/oh-my-pi" target="_blank">
+    
+
+
+      
+        can1357 /
+
+      oh-my-pi</a></p>
+				<p>
+      ⌥ AI Coding agent for the terminal — hash-anchored edits, optimized tool harness, LSP, Python, browser, subagents, and more
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 6571</span>
+						<span>🔱 535</span>
+					</div>
+				<div class="stars-today">⭐ 1762 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/K-Dense-AI/scientific-agent-skills" target="_blank">
+    
+
+
+      
+        K-Dense-AI /
+
+      scientific-agent-skills</a></p>
+				<p>
+      A set of ready to use Agent Skills for research, science, engineering, analysis, finance and writing.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 25255</span>
+						<span>🔱 2652</span>
+					</div>
+				<div class="stars-today">⭐ 2977 stars this week</div>
 				</div>
 			</div>
 	

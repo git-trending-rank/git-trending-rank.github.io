@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2026年5月
-date: 2026-05-23T07:58:22Z
+date: 2026-05-23T11:01:23Z
 categories:
 - monthly
 keywords:
@@ -30,54 +30,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Shell</span>
-						<span>⭐ 101477</span>
-						<span>🔱 8978</span>
+						<span>⭐ 101682</span>
+						<span>🔱 8996</span>
 					</div>
 				<div class="stars-today">⭐ 83850 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/Alishahryar1/free-claude-code" target="_blank">
-    
-
-
-      
-        Alishahryar1 /
-
-      free-claude-code</a></p>
-				<p>
-      Use claude-code for free in the terminal, VSCode extension or discord like OpenClaw (voice supported)
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 28180</span>
-						<span>🔱 4187</span>
-					</div>
-				<div class="stars-today">⭐ 25874 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/CloakHQ/CloakBrowser" target="_blank">
-    
-
-
-      
-        CloakHQ /
-
-      CloakBrowser</a></p>
-				<p>
-      Stealth Chromium that passes every bot detection test. Drop-in Playwright replacement with source-level fingerprint patches. 30/30 tests passed.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 18950</span>
-						<span>🔱 1504</span>
-					</div>
-				<div class="stars-today">⭐ 17246 stars this month</div>
 				</div>
 			</div>
 	
@@ -96,8 +52,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 17405</span>
-						<span>🔱 963</span>
+						<span>⭐ 17800</span>
+						<span>🔱 987</span>
 					</div>
 				<div class="stars-today">⭐ 15112 stars this month</div>
 				</div>
@@ -116,32 +72,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 26840</span>
-						<span>🔱 3753</span>
+						<span>⭐ 26871</span>
+						<span>🔱 3761</span>
 					</div>
 				<div class="stars-today">⭐ 19054 stars this month</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/refactoringhq/tolaria" target="_blank">
+				<p><a href="https://github.com/CloakHQ/CloakBrowser" target="_blank">
     
 
 
       
-        refactoringhq /
+        CloakHQ /
 
-      tolaria</a></p>
+      CloakBrowser</a></p>
 				<p>
-      Desktop app to manage markdown knowledge bases
+      Stealth Chromium that passes every bot detection test. Drop-in Playwright replacement with source-level fingerprint patches. 30/30 tests passed.
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 11301</span>
-						<span>🔱 804</span>
+						<span>🔠 Python</span>
+						<span>⭐ 19078</span>
+						<span>🔱 1515</span>
 					</div>
-				<div class="stars-today">⭐ 11204 stars this month</div>
+				<div class="stars-today">⭐ 17246 stars this month</div>
 				</div>
 			</div>
 	
@@ -160,32 +116,54 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 16530</span>
-						<span>🔱 1356</span>
+						<span>⭐ 16577</span>
+						<span>🔱 1362</span>
 					</div>
 				<div class="stars-today">⭐ 14360 stars this month</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/multica-ai/andrej-karpathy-skills" target="_blank">
+				<p><a href="https://github.com/Alishahryar1/free-claude-code" target="_blank">
     
 
 
       
-        multica-ai /
+        Alishahryar1 /
 
-      andrej-karpathy-skills</a></p>
+      free-claude-code</a></p>
 				<p>
-      A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.
+      Use claude-code for free in the terminal, VSCode extension or discord like OpenClaw (voice supported)
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 </span>
-						<span>⭐ 147783</span>
-						<span>🔱 15144</span>
+						<span>🔠 Python</span>
+						<span>⭐ 28263</span>
+						<span>🔱 4201</span>
 					</div>
-				<div class="stars-today">⭐ 71455 stars this month</div>
+				<div class="stars-today">⭐ 25874 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/ComposioHQ/awesome-codex-skills" target="_blank">
+    
+
+
+      
+        ComposioHQ /
+
+      awesome-codex-skills</a></p>
+				<p>
+      A curated list of practical Codex skills for automating workflows across the Codex CLI and API.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 11127</span>
+						<span>🔱 1047</span>
+					</div>
+				<div class="stars-today">⭐ 10312 stars this month</div>
 				</div>
 			</div>
 	
@@ -204,32 +182,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 19253</span>
-						<span>🔱 1650</span>
+						<span>⭐ 19357</span>
+						<span>🔱 1662</span>
 					</div>
 				<div class="stars-today">⭐ 15541 stars this month</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/AIDC-AI/Pixelle-Video" target="_blank">
+				<p><a href="https://github.com/multica-ai/andrej-karpathy-skills" target="_blank">
     
 
 
       
-        AIDC-AI /
+        multica-ai /
 
-      Pixelle-Video</a></p>
+      andrej-karpathy-skills</a></p>
 				<p>
-      🚀 AI 全自动短视频引擎 | AI Fully Automated Short Video Engine
+      A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 19239</span>
-						<span>🔱 2732</span>
+						<span>🔠 </span>
+						<span>⭐ 148202</span>
+						<span>🔱 15193</span>
 					</div>
-				<div class="stars-today">⭐ 14067 stars this month</div>
+				<div class="stars-today">⭐ 71455 stars this month</div>
 				</div>
 			</div>
 	
@@ -248,8 +226,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 29979</span>
-						<span>🔱 2148</span>
+						<span>⭐ 29993</span>
+						<span>🔱 2149</span>
 					</div>
 				<div class="stars-today">⭐ 10448 stars this month</div>
 				</div>
@@ -270,10 +248,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 78684</span>
-						<span>🔱 15331</span>
+						<span>⭐ 78743</span>
+						<span>🔱 15347</span>
 					</div>
 				<div class="stars-today">⭐ 26605 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/AIDC-AI/Pixelle-Video" target="_blank">
+    
+
+
+      
+        AIDC-AI /
+
+      Pixelle-Video</a></p>
+				<p>
+      🚀 AI 全自动短视频引擎 | AI Fully Automated Short Video Engine
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 19265</span>
+						<span>🔱 2737</span>
+					</div>
+				<div class="stars-today">⭐ 14067 stars this month</div>
 				</div>
 			</div>
 	
@@ -292,32 +292,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 JavaScript</span>
-						<span>⭐ 13614</span>
-						<span>🔱 2044</span>
+						<span>⭐ 13658</span>
+						<span>🔱 2053</span>
 					</div>
 				<div class="stars-today">⭐ 10617 stars this month</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/Z4nzu/hackingtool" target="_blank">
+				<p><a href="https://github.com/refactoringhq/tolaria" target="_blank">
     
 
 
       
-        Z4nzu /
+        refactoringhq /
 
-      hackingtool</a></p>
+      tolaria</a></p>
 				<p>
-      ALL IN ONE Hacking Tool For Hackers
+      Desktop app to manage markdown knowledge bases
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 76221</span>
-						<span>🔱 8578</span>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 11320</span>
+						<span>🔱 806</span>
 					</div>
-				<div class="stars-today">⭐ 17403 stars this month</div>
+				<div class="stars-today">⭐ 11204 stars this month</div>
 				</div>
 			</div>
 	
@@ -336,54 +336,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 54256</span>
-						<span>🔱 6149</span>
+						<span>⭐ 54294</span>
+						<span>🔱 6154</span>
 					</div>
 				<div class="stars-today">⭐ 21765 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/addyosmani/agent-skills" target="_blank">
-    
-
-
-      
-        addyosmani /
-
-      agent-skills</a></p>
-				<p>
-      Production-grade engineering skills for AI coding agents.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Shell</span>
-						<span>⭐ 44993</span>
-						<span>🔱 4972</span>
-					</div>
-				<div class="stars-today">⭐ 24389 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/Anil-matcha/Open-Generative-AI" target="_blank">
-    
-
-
-      
-        Anil-matcha /
-
-      Open-Generative-AI</a></p>
-				<p>
-      Open-source alternative to AI video platforms — Free AI image & video generation studio with 200+ models (Flux, Midjourney, Kling, Sora, Veo). No content filters. Self-hosted, MIT licensed.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 JavaScript</span>
-						<span>⭐ 16683</span>
-						<span>🔱 2795</span>
-					</div>
-				<div class="stars-today">⭐ 10502 stars this month</div>
 				</div>
 			</div>
 	
@@ -402,10 +358,98 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 35020</span>
-						<span>🔱 3518</span>
+						<span>⭐ 35023</span>
+						<span>🔱 3519</span>
 					</div>
 				<div class="stars-today">⭐ 5606 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/Z4nzu/hackingtool" target="_blank">
+    
+
+
+      
+        Z4nzu /
+
+      hackingtool</a></p>
+				<p>
+      ALL IN ONE Hacking Tool For Hackers
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 76240</span>
+						<span>🔱 8579</span>
+					</div>
+				<div class="stars-today">⭐ 17403 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/addyosmani/agent-skills" target="_blank">
+    
+
+
+      
+        addyosmani /
+
+      agent-skills</a></p>
+				<p>
+      Production-grade engineering skills for AI coding agents.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Shell</span>
+						<span>⭐ 45028</span>
+						<span>🔱 4977</span>
+					</div>
+				<div class="stars-today">⭐ 24389 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/HKUDS/ViMax" target="_blank">
+    
+
+
+      
+        HKUDS /
+
+      ViMax</a></p>
+				<p>
+      "ViMax: Agentic Video Generation (Director, Screenwriter, Producer, and Video Generator All-in-One)"
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 6815</span>
+						<span>🔱 1078</span>
+					</div>
+				<div class="stars-today">⭐ 3983 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/mattpocock/sandcastle" target="_blank">
+    
+
+
+      
+        mattpocock /
+
+      sandcastle</a></p>
+				<p>
+      Orchestrate sandboxed coding agents in TypeScript with sandcastle.run()
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 4794</span>
+						<span>🔱 512</span>
+					</div>
+				<div class="stars-today">⭐ 3899 stars this month</div>
 				</div>
 			</div>
 	
