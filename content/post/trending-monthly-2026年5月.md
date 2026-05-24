@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2026年5月
-date: 2026-05-24T08:09:36Z
+date: 2026-05-24T11:04:20Z
 categories:
 - monthly
 keywords:
@@ -30,8 +30,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Shell</span>
-						<span>⭐ 102757</span>
-						<span>🔱 9095</span>
+						<span>⭐ 102918</span>
+						<span>🔱 9102</span>
 					</div>
 				<div class="stars-today">⭐ 85195 stars this month</div>
 				</div>
@@ -52,8 +52,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 20471</span>
-						<span>🔱 1148</span>
+						<span>⭐ 20792</span>
+						<span>🔱 1160</span>
 					</div>
 				<div class="stars-today">⭐ 17463 stars this month</div>
 				</div>
@@ -72,8 +72,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 27135</span>
-						<span>🔱 3806</span>
+						<span>⭐ 27177</span>
+						<span>🔱 3807</span>
 					</div>
 				<div class="stars-today">⭐ 19289 stars this month</div>
 				</div>
@@ -94,8 +94,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 19824</span>
-						<span>🔱 1563</span>
+						<span>⭐ 19916</span>
+						<span>🔱 1572</span>
 					</div>
 				<div class="stars-today">⭐ 17847 stars this month</div>
 				</div>
@@ -116,54 +116,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 17016</span>
-						<span>🔱 1399</span>
+						<span>⭐ 17074</span>
+						<span>🔱 1401</span>
 					</div>
 				<div class="stars-today">⭐ 14753 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/Alishahryar1/free-claude-code" target="_blank">
-    
-
-
-      
-        Alishahryar1 /
-
-      free-claude-code</a></p>
-				<p>
-      Use claude-code for free in the terminal, VSCode extension or discord like OpenClaw (voice supported)
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 28745</span>
-						<span>🔱 4310</span>
-					</div>
-				<div class="stars-today">⭐ 24512 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/ComposioHQ/awesome-codex-skills" target="_blank">
-    
-
-
-      
-        ComposioHQ /
-
-      awesome-codex-skills</a></p>
-				<p>
-      A curated list of practical Codex skills for automating workflows across the Codex CLI and API.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 11332</span>
-						<span>🔱 1078</span>
-					</div>
-				<div class="stars-today">⭐ 10326 stars this month</div>
 				</div>
 			</div>
 	
@@ -182,10 +138,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 20020</span>
-						<span>🔱 1713</span>
+						<span>⭐ 20146</span>
+						<span>🔱 1721</span>
 					</div>
 				<div class="stars-today">⭐ 16073 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/ComposioHQ/awesome-codex-skills" target="_blank">
+    
+
+
+      
+        ComposioHQ /
+
+      awesome-codex-skills</a></p>
+				<p>
+      A curated list of practical Codex skills for automating workflows across the Codex CLI and API.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 11359</span>
+						<span>🔱 1081</span>
+					</div>
+				<div class="stars-today">⭐ 10326 stars this month</div>
 				</div>
 			</div>
 	
@@ -204,8 +182,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 </span>
-						<span>⭐ 150375</span>
-						<span>🔱 15431</span>
+						<span>⭐ 150699</span>
+						<span>🔱 15464</span>
 					</div>
 				<div class="stars-today">⭐ 70773 stars this month</div>
 				</div>
@@ -226,7 +204,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 30104</span>
+						<span>⭐ 30119</span>
 						<span>🔱 2155</span>
 					</div>
 				<div class="stars-today">⭐ 10535 stars this month</div>
@@ -248,10 +226,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 79033</span>
-						<span>🔱 15399</span>
+						<span>⭐ 79079</span>
+						<span>🔱 15413</span>
 					</div>
 				<div class="stars-today">⭐ 26704 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/Alishahryar1/free-claude-code" target="_blank">
+    
+
+
+      
+        Alishahryar1 /
+
+      free-claude-code</a></p>
+				<p>
+      Use claude-code for free in the terminal, VSCode extension or discord like OpenClaw (voice supported)
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 28812</span>
+						<span>🔱 4320</span>
+					</div>
+				<div class="stars-today">⭐ 24512 stars this month</div>
 				</div>
 			</div>
 	
@@ -270,8 +270,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 19429</span>
-						<span>🔱 2758</span>
+						<span>⭐ 19443</span>
+						<span>🔱 2761</span>
 					</div>
 				<div class="stars-today">⭐ 13218 stars this month</div>
 				</div>
@@ -292,120 +292,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 JavaScript</span>
-						<span>⭐ 13867</span>
-						<span>🔱 2076</span>
+						<span>⭐ 13896</span>
+						<span>🔱 2077</span>
 					</div>
 				<div class="stars-today">⭐ 10813 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/refactoringhq/tolaria" target="_blank">
-    
-
-
-      
-        refactoringhq /
-
-      tolaria</a></p>
-				<p>
-      Desktop app to manage markdown knowledge bases
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 11405</span>
-						<span>🔱 813</span>
-					</div>
-				<div class="stars-today">⭐ 10527 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/ruvnet/ruflo" target="_blank">
-    
-
-
-      
-        ruvnet /
-
-      ruflo</a></p>
-				<p>
-      🌊 The leading agent orchestration platform for Claude. Deploy intelligent multi-agent swarms, coordinate autonomous workflows, and build conversational AI systems. Features enterprise-grade architecture, self-learning swarm intelligence, RAG integration, and native Claude Code / Codex Integration
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 54569</span>
-						<span>🔱 6197</span>
-					</div>
-				<div class="stars-today">⭐ 21850 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/bytedance/UI-TARS-desktop" target="_blank">
-    
-
-
-      
-        bytedance /
-
-      UI-TARS-desktop</a></p>
-				<p>
-      The Open-Source Multimodal AI Agent Stack: Connecting Cutting-Edge AI Models and Agent Infra
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 35081</span>
-						<span>🔱 3525</span>
-					</div>
-				<div class="stars-today">⭐ 5666 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/Z4nzu/hackingtool" target="_blank">
-    
-
-
-      
-        Z4nzu /
-
-      hackingtool</a></p>
-				<p>
-      ALL IN ONE Hacking Tool For Hackers
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 76370</span>
-						<span>🔱 8595</span>
-					</div>
-				<div class="stars-today">⭐ 16237 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/addyosmani/agent-skills" target="_blank">
-    
-
-
-      
-        addyosmani /
-
-      agent-skills</a></p>
-				<p>
-      Production-grade engineering skills for AI coding agents.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Shell</span>
-						<span>⭐ 45230</span>
-						<span>🔱 5005</span>
-					</div>
-				<div class="stars-today">⭐ 23686 stars this month</div>
 				</div>
 			</div>
 	
@@ -424,10 +314,120 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 7128</span>
-						<span>🔱 1122</span>
+						<span>⭐ 7163</span>
+						<span>🔱 1127</span>
 					</div>
 				<div class="stars-today">⭐ 4152 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/ruvnet/ruflo" target="_blank">
+    
+
+
+      
+        ruvnet /
+
+      ruflo</a></p>
+				<p>
+      🌊 The leading agent orchestration platform for Claude. Deploy intelligent multi-agent swarms, coordinate autonomous workflows, and build conversational AI systems. Features enterprise-grade architecture, self-learning swarm intelligence, RAG integration, and native Claude Code / Codex Integration
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 54616</span>
+						<span>🔱 6203</span>
+					</div>
+				<div class="stars-today">⭐ 21850 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/yikart/AiToEarn" target="_blank">
+    
+
+
+      
+        yikart /
+
+      AiToEarn</a></p>
+				<p>
+      Let's use AI to Earn!
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 16193</span>
+						<span>🔱 2623</span>
+					</div>
+				<div class="stars-today">⭐ 7232 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/bytedance/UI-TARS-desktop" target="_blank">
+    
+
+
+      
+        bytedance /
+
+      UI-TARS-desktop</a></p>
+				<p>
+      The Open-Source Multimodal AI Agent Stack: Connecting Cutting-Edge AI Models and Agent Infra
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 35091</span>
+						<span>🔱 3527</span>
+					</div>
+				<div class="stars-today">⭐ 5666 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/CJackHwang/ds2api" target="_blank">
+    
+
+
+      
+        CJackHwang /
+
+      ds2api</a></p>
+				<p>
+      DeepSeek-Compatible Middleware Interface: A technical exploration project in Go, focusing on high-concurrency protocol adaptation. It serves as a reference implementation for converting diverse web protocols into standardized formats.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Go</span>
+						<span>⭐ 4560</span>
+						<span>🔱 1456</span>
+					</div>
+				<div class="stars-today">⭐ 3417 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/addyosmani/agent-skills" target="_blank">
+    
+
+
+      
+        addyosmani /
+
+      agent-skills</a></p>
+				<p>
+      Production-grade engineering skills for AI coding agents.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Shell</span>
+						<span>⭐ 45263</span>
+						<span>🔱 5007</span>
+					</div>
+				<div class="stars-today">⭐ 23686 stars this month</div>
 				</div>
 			</div>
 	
@@ -446,8 +446,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 4896</span>
-						<span>🔱 519</span>
+						<span>⭐ 4914</span>
+						<span>🔱 520</span>
 					</div>
 				<div class="stars-today">⭐ 3929 stars this month</div>
 				</div>
