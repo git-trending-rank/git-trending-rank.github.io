@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2026年5月
-date: 2026-05-25T06:21:34Z
+date: 2026-05-25T11:39:05Z
 categories:
 - monthly
 keywords:
@@ -30,8 +30,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Shell</span>
-						<span>⭐ 104015</span>
-						<span>🔱 9203</span>
+						<span>⭐ 104504</span>
+						<span>🔱 9248</span>
 					</div>
 				<div class="stars-today">⭐ 85843 stars this month</div>
 				</div>
@@ -52,8 +52,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 23119</span>
-						<span>🔱 1270</span>
+						<span>⭐ 23994</span>
+						<span>🔱 1317</span>
 					</div>
 				<div class="stars-today">⭐ 20676 stars this month</div>
 				</div>
@@ -72,8 +72,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 27379</span>
-						<span>🔱 3846</span>
+						<span>⭐ 27442</span>
+						<span>🔱 3849</span>
 					</div>
 				<div class="stars-today">⭐ 19626 stars this month</div>
 				</div>
@@ -94,8 +94,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 20544</span>
-						<span>🔱 1623</span>
+						<span>⭐ 20722</span>
+						<span>🔱 1641</span>
 					</div>
 				<div class="stars-today">⭐ 18723 stars this month</div>
 				</div>
@@ -116,8 +116,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 17518</span>
-						<span>🔱 1430</span>
+						<span>⭐ 17635</span>
+						<span>🔱 1443</span>
 					</div>
 				<div class="stars-today">⭐ 15283 stars this month</div>
 				</div>
@@ -138,54 +138,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 20866</span>
-						<span>🔱 1780</span>
+						<span>⭐ 21147</span>
+						<span>🔱 1794</span>
 					</div>
 				<div class="stars-today">⭐ 16935 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/ComposioHQ/awesome-codex-skills" target="_blank">
-    
-
-
-      
-        ComposioHQ /
-
-      awesome-codex-skills</a></p>
-				<p>
-      A curated list of practical Codex skills for automating workflows across the Codex CLI and API.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 11528</span>
-						<span>🔱 1099</span>
-					</div>
-				<div class="stars-today">⭐ 10414 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/multica-ai/andrej-karpathy-skills" target="_blank">
-    
-
-
-      
-        multica-ai /
-
-      andrej-karpathy-skills</a></p>
-				<p>
-      A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 </span>
-						<span>⭐ 152849</span>
-						<span>🔱 15668</span>
-					</div>
-				<div class="stars-today">⭐ 69590 stars this month</div>
 				</div>
 			</div>
 	
@@ -204,8 +160,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 30265</span>
-						<span>🔱 2162</span>
+						<span>⭐ 30296</span>
+						<span>🔱 2163</span>
 					</div>
 				<div class="stars-today">⭐ 10671 stars this month</div>
 				</div>
@@ -226,32 +182,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 79312</span>
-						<span>🔱 15462</span>
+						<span>⭐ 79386</span>
+						<span>🔱 15474</span>
 					</div>
 				<div class="stars-today">⭐ 26930 stars this month</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/Alishahryar1/free-claude-code" target="_blank">
+				<p><a href="https://github.com/multica-ai/andrej-karpathy-skills" target="_blank">
     
 
 
       
-        Alishahryar1 /
+        multica-ai /
 
-      free-claude-code</a></p>
+      andrej-karpathy-skills</a></p>
 				<p>
-      Use claude-code for free in the terminal, VSCode extension or discord like OpenClaw (voice supported)
+      A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 29289</span>
-						<span>🔱 4401</span>
+						<span>🔠 </span>
+						<span>⭐ 153454</span>
+						<span>🔱 15723</span>
 					</div>
-				<div class="stars-today">⭐ 22082 stars this month</div>
+				<div class="stars-today">⭐ 69590 stars this month</div>
 				</div>
 			</div>
 	
@@ -270,10 +226,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 19612</span>
-						<span>🔱 2776</span>
+						<span>⭐ 19684</span>
+						<span>🔱 2779</span>
 					</div>
 				<div class="stars-today">⭐ 13052 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/ComposioHQ/awesome-codex-skills" target="_blank">
+    
+
+
+      
+        ComposioHQ /
+
+      awesome-codex-skills</a></p>
+				<p>
+      A curated list of practical Codex skills for automating workflows across the Codex CLI and API.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 11574</span>
+						<span>🔱 1105</span>
+					</div>
+				<div class="stars-today">⭐ 10414 stars this month</div>
 				</div>
 			</div>
 	
@@ -292,32 +270,54 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 JavaScript</span>
-						<span>⭐ 14083</span>
-						<span>🔱 2103</span>
+						<span>⭐ 14123</span>
+						<span>🔱 2114</span>
 					</div>
 				<div class="stars-today">⭐ 11024 stars this month</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/HKUDS/ViMax" target="_blank">
+				<p><a href="https://github.com/Lum1104/Understand-Anything" target="_blank">
     
 
 
       
-        HKUDS /
+        Lum1104 /
 
-      ViMax</a></p>
+      Understand-Anything</a></p>
 				<p>
-      "ViMax: Agentic Video Generation (Director, Screenwriter, Producer, and Video Generator All-in-One)"
+      Graphs that teach > graphs that impress. Turn any code into an interactive knowledge graph you can explore, search, and ask questions about. Works with Claude Code, Codex, Cursor, Copilot, Gemini CLI, and more.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 29081</span>
+						<span>🔱 2430</span>
+					</div>
+				<div class="stars-today">⭐ 16304 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/Alishahryar1/free-claude-code" target="_blank">
+    
+
+
+      
+        Alishahryar1 /
+
+      free-claude-code</a></p>
+				<p>
+      Use claude-code for free in the terminal, VSCode extension or discord like OpenClaw (voice supported)
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 7413</span>
-						<span>🔱 1148</span>
+						<span>⭐ 29448</span>
+						<span>🔱 4422</span>
 					</div>
-				<div class="stars-today">⭐ 4531 stars this month</div>
+				<div class="stars-today">⭐ 22082 stars this month</div>
 				</div>
 			</div>
 	
@@ -336,8 +336,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 54859</span>
-						<span>🔱 6236</span>
+						<span>⭐ 54907</span>
+						<span>🔱 6243</span>
 					</div>
 				<div class="stars-today">⭐ 22025 stars this month</div>
 				</div>
@@ -358,8 +358,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 16373</span>
-						<span>🔱 2640</span>
+						<span>⭐ 16426</span>
+						<span>🔱 2649</span>
 					</div>
 				<div class="stars-today">⭐ 7332 stars this month</div>
 				</div>
@@ -380,32 +380,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 35169</span>
-						<span>🔱 3533</span>
+						<span>⭐ 35193</span>
+						<span>🔱 3535</span>
 					</div>
 				<div class="stars-today">⭐ 5740 stars this month</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/CJackHwang/ds2api" target="_blank">
+				<p><a href="https://github.com/rohitg00/ai-engineering-from-scratch" target="_blank">
     
 
 
       
-        CJackHwang /
+        rohitg00 /
 
-      ds2api</a></p>
+      ai-engineering-from-scratch</a></p>
 				<p>
-      DeepSeek-Compatible Middleware Interface: A technical exploration project in Go, focusing on high-concurrency protocol adaptation. It serves as a reference implementation for converting diverse web protocols into standardized formats.
+      Learn it. Build it. Ship it for others.
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Go</span>
-						<span>⭐ 4588</span>
-						<span>🔱 1465</span>
+						<span>🔠 Python</span>
+						<span>⭐ 17713</span>
+						<span>🔱 3029</span>
 					</div>
-				<div class="stars-today">⭐ 3378 stars this month</div>
+				<div class="stars-today">⭐ 10183 stars this month</div>
 				</div>
 			</div>
 	
@@ -424,8 +424,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Shell</span>
-						<span>⭐ 45464</span>
-						<span>🔱 5032</span>
+						<span>⭐ 45545</span>
+						<span>🔱 5040</span>
 					</div>
 				<div class="stars-today">⭐ 22991 stars this month</div>
 				</div>
@@ -446,7 +446,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 5006</span>
+						<span>⭐ 5026</span>
 						<span>🔱 525</span>
 					</div>
 				<div class="stars-today">⭐ 4042 stars this month</div>

@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2026年第22周
-date: 2026-05-25T06:21:34Z
+date: 2026-05-25T11:39:05Z
 categories:
 - weekly
 keywords:
@@ -30,8 +30,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 23119</span>
-						<span>🔱 1270</span>
+						<span>⭐ 23994</span>
+						<span>🔱 1317</span>
 					</div>
 				<div class="stars-today">⭐ 18136 stars this week</div>
 				</div>
@@ -52,10 +52,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Rust</span>
-						<span>⭐ 27379</span>
-						<span>🔱 2537</span>
+						<span>⭐ 27554</span>
+						<span>🔱 2552</span>
 					</div>
 				<div class="stars-today">⭐ 15194 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/Lum1104/Understand-Anything" target="_blank">
+    
+
+
+      
+        Lum1104 /
+
+      Understand-Anything</a></p>
+				<p>
+      Graphs that teach > graphs that impress. Turn any code into an interactive knowledge graph you can explore, search, and ask questions about. Works with Claude Code, Codex, Cursor, Copilot, Gemini CLI, and more.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 29081</span>
+						<span>🔱 2430</span>
+					</div>
+				<div class="stars-today">⭐ 9102 stars this week</div>
 				</div>
 			</div>
 	
@@ -74,8 +96,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 20866</span>
-						<span>🔱 1780</span>
+						<span>⭐ 21147</span>
+						<span>🔱 1794</span>
 					</div>
 				<div class="stars-today">⭐ 11401 stars this week</div>
 				</div>
@@ -96,8 +118,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 16883</span>
-						<span>🔱 2945</span>
+						<span>⭐ 17713</span>
+						<span>🔱 3029</span>
 					</div>
 				<div class="stars-today">⭐ 6944 stars this week</div>
 				</div>
@@ -118,8 +140,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Rust</span>
-						<span>⭐ 65555</span>
-						<span>🔱 8664</span>
+						<span>⭐ 65660</span>
+						<span>🔱 8677</span>
 					</div>
 				<div class="stars-today">⭐ 6461 stars this week</div>
 				</div>
@@ -140,32 +162,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 17518</span>
-						<span>🔱 1430</span>
+						<span>⭐ 17635</span>
+						<span>🔱 1443</span>
 					</div>
 				<div class="stars-today">⭐ 6391 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/Lum1104/Understand-Anything" target="_blank">
-    
-
-
-      
-        Lum1104 /
-
-      Understand-Anything</a></p>
-				<p>
-      Graphs that teach > graphs that impress. Turn any code into an interactive knowledge graph you can explore, search, and ask questions about. Works with Claude Code, Codex, Cursor, Copilot, Gemini CLI, and more.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 27567</span>
-						<span>🔱 2343</span>
-					</div>
-				<div class="stars-today">⭐ 9102 stars this week</div>
 				</div>
 			</div>
 	
@@ -184,8 +184,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 20544</span>
-						<span>🔱 1623</span>
+						<span>⭐ 20722</span>
+						<span>🔱 1641</span>
 					</div>
 				<div class="stars-today">⭐ 6892 stars this week</div>
 				</div>
@@ -206,8 +206,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Swift</span>
-						<span>⭐ 10265</span>
-						<span>🔱 1053</span>
+						<span>⭐ 10346</span>
+						<span>🔱 1056</span>
 					</div>
 				<div class="stars-today">⭐ 2726 stars this week</div>
 				</div>
@@ -228,98 +228,54 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 7126</span>
-						<span>🔱 572</span>
+						<span>⭐ 7193</span>
+						<span>🔱 580</span>
 					</div>
 				<div class="stars-today">⭐ 2361 stars this week</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/datawhalechina/easy-vibe" target="_blank">
+				<p><a href="https://github.com/dograh-hq/dograh" target="_blank">
     
 
 
       
-        datawhalechina /
+        dograh-hq /
 
-      easy-vibe</a></p>
+      dograh</a></p>
 				<p>
-      💻 vibe coding 2026 | Your first modern Coding course for beginners to master step by step.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 JavaScript</span>
-						<span>⭐ 14564</span>
-						<span>🔱 1386</span>
-					</div>
-				<div class="stars-today">⭐ 2406 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/obra/superpowers" target="_blank">
-    
-
-
-      
-        obra /
-
-      superpowers</a></p>
-				<p>
-      An agentic skills framework & software development methodology that works.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Shell</span>
-						<span>⭐ 205335</span>
-						<span>🔱 18297</span>
-					</div>
-				<div class="stars-today">⭐ 10171 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/K-Dense-AI/scientific-agent-skills" target="_blank">
-    
-
-
-      
-        K-Dense-AI /
-
-      scientific-agent-skills</a></p>
-				<p>
-      A set of ready to use Agent Skills for research, science, engineering, analysis, finance and writing.
+      Open Source Voice Agent Platform
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 25710</span>
-						<span>🔱 2685</span>
+						<span>⭐ 2704</span>
+						<span>🔱 608</span>
 					</div>
-				<div class="stars-today">⭐ 2001 stars this week</div>
+				<div class="stars-today">⭐ 1125 stars this week</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/stablyai/orca" target="_blank">
+				<p><a href="https://github.com/presenton/presenton" target="_blank">
     
 
 
       
-        stablyai /
+        presenton /
 
-      orca</a></p>
+      presenton</a></p>
 				<p>
-      Orca is the next-gen IDE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop and mobile.
+      Open-Source AI Presentation Generator and API (Gamma, Beautiful AI, Decktopus Alternative)
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 3290</span>
-						<span>🔱 221</span>
+						<span>⭐ 6791</span>
+						<span>🔱 1153</span>
 					</div>
-				<div class="stars-today">⭐ 554 stars this week</div>
+				<div class="stars-today">⭐ 1684 stars this week</div>
 				</div>
 			</div>
 	
@@ -338,32 +294,54 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 40160</span>
-						<span>🔱 3793</span>
+						<span>⭐ 40241</span>
+						<span>🔱 3796</span>
 					</div>
 				<div class="stars-today">⭐ 4759 stars this week</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/yikart/AiToEarn" target="_blank">
+				<p><a href="https://github.com/obra/superpowers" target="_blank">
     
 
 
       
-        yikart /
+        obra /
 
-      AiToEarn</a></p>
+      superpowers</a></p>
 				<p>
-      Let's use AI to Earn!
+      An agentic skills framework & software development methodology that works.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Shell</span>
+						<span>⭐ 205743</span>
+						<span>🔱 18327</span>
+					</div>
+				<div class="stars-today">⭐ 10171 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/wechat-article/wechat-article-exporter" target="_blank">
+    
+
+
+      
+        wechat-article /
+
+      wechat-article-exporter</a></p>
+				<p>
+      一款在线的 微信公众号文章批量下载 工具，支持导出阅读量与评论数据，无需搭建任何环境，可通过 在线网站 使用，支持 docker 私有化部署和 Cloudflare 部署。 支持下载各种文件格式，其中 HTML 格式可100%还原文章排版与样式。
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 16373</span>
-						<span>🔱 2640</span>
+						<span>⭐ 10792</span>
+						<span>🔱 1882</span>
 					</div>
-				<div class="stars-today">⭐ 1765 stars this week</div>
+				<div class="stars-today">⭐ 1290 stars this week</div>
 				</div>
 			</div>
 	
@@ -382,10 +360,54 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 759</span>
-						<span>🔱 84</span>
+						<span>⭐ 771</span>
+						<span>🔱 85</span>
 					</div>
 				<div class="stars-today">⭐ 303 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/phodal/routa" target="_blank">
+    
+
+
+      
+        phodal /
+
+      routa</a></p>
+				<p>
+      Workspace-first multi-agent coordination platform for AI development, with shared Specs, Kanban orchestration, and MCP/ACP/ A2A support across web and desktop.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 1361</span>
+						<span>🔱 194</span>
+					</div>
+				<div class="stars-today">⭐ 410 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/ChromeDevTools/chrome-devtools-mcp" target="_blank">
+    
+
+
+      
+        ChromeDevTools /
+
+      chrome-devtools-mcp</a></p>
+				<p>
+      Chrome DevTools for coding agents
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 41638</span>
+						<span>🔱 2648</span>
+					</div>
+				<div class="stars-today">⭐ 1732 stars this week</div>
 				</div>
 			</div>
 	
