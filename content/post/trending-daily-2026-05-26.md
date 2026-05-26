@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2026-05-26
-date: 2026-05-26T09:33:38Z
+date: 2026-05-26T17:01:25Z
 categories:
 - daily
 keywords:
@@ -30,54 +30,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 33280</span>
-						<span>🔱 2707</span>
+						<span>⭐ 34878</span>
+						<span>🔱 2818</span>
 					</div>
-				<div class="stars-today">⭐ 5604 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/anthropics/knowledge-work-plugins" target="_blank">
-    
-
-
-      
-        anthropics /
-
-      knowledge-work-plugins</a></p>
-				<p>
-      Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 16163</span>
-						<span>🔱 1914</span>
-					</div>
-				<div class="stars-today">⭐ 1441 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/rohitg00/ai-engineering-from-scratch" target="_blank">
-    
-
-
-      
-        rohitg00 /
-
-      ai-engineering-from-scratch</a></p>
-				<p>
-      Learn it. Build it. Ship it for others.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 19637</span>
-						<span>🔱 3286</span>
-					</div>
-				<div class="stars-today">⭐ 3154 stars today</div>
+				<div class="stars-today">⭐ 4721 stars today</div>
 				</div>
 			</div>
 	
@@ -96,10 +52,54 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 JavaScript</span>
-						<span>⭐ 193229</span>
-						<span>🔱 29863</span>
+						<span>⭐ 193905</span>
+						<span>🔱 29930</span>
 					</div>
-				<div class="stars-today">⭐ 2025 stars today</div>
+				<div class="stars-today">⭐ 1912 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/rohitg00/ai-engineering-from-scratch" target="_blank">
+    
+
+
+      
+        rohitg00 /
+
+      ai-engineering-from-scratch</a></p>
+				<p>
+      Learn it. Build it. Ship it for others.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 20336</span>
+						<span>🔱 3397</span>
+					</div>
+				<div class="stars-today">⭐ 2169 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/anthropics/knowledge-work-plugins" target="_blank">
+    
+
+
+      
+        anthropics /
+
+      knowledge-work-plugins</a></p>
+				<p>
+      Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 16483</span>
+						<span>🔱 1935</span>
+					</div>
+				<div class="stars-today">⭐ 1698 stars today</div>
 				</div>
 			</div>
 	
@@ -118,230 +118,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 9610</span>
-						<span>🔱 1157</span>
+						<span>⭐ 9876</span>
+						<span>🔱 1172</span>
 					</div>
-				<div class="stars-today">⭐ 1004 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/colbymchenry/codegraph" target="_blank">
-    
-
-
-      
-        colbymchenry /
-
-      codegraph</a></p>
-				<p>
-      Pre-indexed code knowledge graph for Claude Code, Codex, Cursor, OpenCode, and Hermes Agent — fewer tokens, fewer tool calls, 100% local
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 26562</span>
-						<span>🔱 1483</span>
-					</div>
-				<div class="stars-today">⭐ 3161 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/manaflow-ai/cmux" target="_blank">
-    
-
-
-      
-        manaflow-ai /
-
-      cmux</a></p>
-				<p>
-      Ghostty-based macOS terminal with vertical tabs and notifications for AI coding agents
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Swift</span>
-						<span>⭐ 19675</span>
-						<span>🔱 1480</span>
-					</div>
-				<div class="stars-today">⭐ 603 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/multica-ai/andrej-karpathy-skills" target="_blank">
-    
-
-
-      
-        multica-ai /
-
-      andrej-karpathy-skills</a></p>
-				<p>
-      A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 </span>
-						<span>⭐ 156049</span>
-						<span>🔱 15999</span>
-					</div>
-				<div class="stars-today">⭐ 2749 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/Fincept-Corporation/FinceptTerminal" target="_blank">
-    
-
-
-      
-        Fincept-Corporation /
-
-      FinceptTerminal</a></p>
-				<p>
-      FinceptTerminal is a modern finance application offering advanced market analytics, investment research, and economic data tools, designed for interactive exploration and data-driven decision-making in a user-friendly environment.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 24078</span>
-						<span>🔱 3305</span>
-					</div>
-				<div class="stars-today">⭐ 317 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/paperless-ngx/paperless-ngx" target="_blank">
-    
-
-
-      
-        paperless-ngx /
-
-      paperless-ngx</a></p>
-				<p>
-      A community-supported supercharged document management system: scan, index and archive all your documents
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 41490</span>
-						<span>🔱 2750</span>
-					</div>
-				<div class="stars-today">⭐ 176 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/anthropics/claude-cookbooks" target="_blank">
-    
-
-
-      
-        anthropics /
-
-      claude-cookbooks</a></p>
-				<p>
-      A collection of notebooks/recipes showcasing some fun and effective ways of using Claude.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Jupyter Notebook</span>
-						<span>⭐ 44226</span>
-						<span>🔱 5059</span>
-					</div>
-				<div class="stars-today">⭐ 141 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/Leonxlnx/taste-skill" target="_blank">
-    
-
-
-      
-        Leonxlnx /
-
-      taste-skill</a></p>
-				<p>
-      Taste-Skill - gives your AI good taste. stops the AI from generating boring, generic slop 
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Shell</span>
-						<span>⭐ 20337</span>
-						<span>🔱 1671</span>
-					</div>
-				<div class="stars-today">⭐ 264 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/moeru-ai/airi" target="_blank">
-    
-
-
-      
-        moeru-ai /
-
-      airi</a></p>
-				<p>
-      💖🧸 Self hosted, you-owned Grok Companion, a container of souls of waifu, cyber livings to bring them into our worlds, wishing to achieve Neuro-sama's altitude. Capable of realtime voice chat, Minecraft, Factorio playing. Web / macOS / Windows supported.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 39941</span>
-						<span>🔱 4028</span>
-					</div>
-				<div class="stars-today">⭐ 62 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/shiyu-coder/Kronos" target="_blank">
-    
-
-
-      
-        shiyu-coder /
-
-      Kronos</a></p>
-				<p>
-      Kronos: A Foundation Model for the Language of Financial Markets
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 26269</span>
-						<span>🔱 4559</span>
-					</div>
-				<div class="stars-today">⭐ 245 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/Axorax/awesome-free-apps" target="_blank">
-    
-
-
-      
-        Axorax /
-
-      awesome-free-apps</a></p>
-				<p>
-      Curated list of the best free apps for PC and mobile
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 JavaScript</span>
-						<span>⭐ 4843</span>
-						<span>🔱 244</span>
-					</div>
-				<div class="stars-today">⭐ 192 stars today</div>
+				<div class="stars-today">⭐ 871 stars today</div>
 				</div>
 			</div>
 	
@@ -360,32 +140,186 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 </span>
-						<span>⭐ 4645</span>
-						<span>🔱 390</span>
+						<span>⭐ 4845</span>
+						<span>🔱 399</span>
 					</div>
-				<div class="stars-today">⭐ 345 stars today</div>
+				<div class="stars-today">⭐ 547 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/garrytan/gstack" target="_blank">
+				<p><a href="https://github.com/Leonxlnx/taste-skill" target="_blank">
     
 
 
       
-        garrytan /
+        Leonxlnx /
 
-      gstack</a></p>
+      taste-skill</a></p>
 				<p>
-      Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, and QA
+      Taste-Skill - gives your AI good taste. stops the AI from generating boring, generic slop 
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Shell</span>
+						<span>⭐ 20971</span>
+						<span>🔱 1710</span>
+					</div>
+				<div class="stars-today">⭐ 1440 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/DigitalPlatDev/FreeDomain" target="_blank">
+    
+
+
+      
+        DigitalPlatDev /
+
+      FreeDomain</a></p>
+				<p>
+      DigitalPlat FreeDomain: Free Domain For Everyone
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 HTML</span>
+						<span>⭐ 166811</span>
+						<span>🔱 3053</span>
+					</div>
+				<div class="stars-today">⭐ 1127 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/jellyfin/jellyfin" target="_blank">
+    
+
+
+      
+        jellyfin /
+
+      jellyfin</a></p>
+				<p>
+      The Free Software Media System - Server Backend & API
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 C#</span>
+						<span>⭐ 52299</span>
+						<span>🔱 4866</span>
+					</div>
+				<div class="stars-today">⭐ 91 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/Axorax/awesome-free-apps" target="_blank">
+    
+
+
+      
+        Axorax /
+
+      awesome-free-apps</a></p>
+				<p>
+      Curated list of the best free apps for PC and mobile
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 JavaScript</span>
+						<span>⭐ 5087</span>
+						<span>🔱 255</span>
+					</div>
+				<div class="stars-today">⭐ 738 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/twentyhq/twenty" target="_blank">
+    
+
+
+      
+        twentyhq /
+
+      twenty</a></p>
+				<p>
+      The open alternative to Salesforce, designed for AI.
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 102881</span>
-						<span>🔱 15335</span>
+						<span>⭐ 46689</span>
+						<span>🔱 6628</span>
 					</div>
-				<div class="stars-today">⭐ 640 stars today</div>
+				<div class="stars-today">⭐ 237 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/Open-Dev-Society/OpenStock" target="_blank">
+    
+
+
+      
+        Open-Dev-Society /
+
+      OpenStock</a></p>
+				<p>
+      OpenStock is an open-source alternative to expensive market platforms. Track real-time prices, set personalized alerts, and explore detailed company insights — built openly, for everyone, forever free.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 11924</span>
+						<span>🔱 1621</span>
+					</div>
+				<div class="stars-today">⭐ 128 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/thedotmack/claude-mem" target="_blank">
+    
+
+
+      
+        thedotmack /
+
+      claude-mem</a></p>
+				<p>
+      Persistent Context Across Sessions for Every Agent – Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 78468</span>
+						<span>🔱 6760</span>
+					</div>
+				<div class="stars-today">⭐ 319 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/st-tech/ppf-contact-solver" target="_blank">
+    
+
+
+      
+        st-tech /
+
+      ppf-contact-solver</a></p>
+				<p>
+      A contact solver for physics-based simulations involving 👚 shells, 🪵 solids and 🪢 rods.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 3364</span>
+						<span>🔱 245</span>
+					</div>
+				<div class="stars-today">⭐ 207 stars today</div>
 				</div>
 			</div>
 	

@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2026年5月
-date: 2026-05-26T09:33:39Z
+date: 2026-05-26T17:01:25Z
 categories:
 - monthly
 keywords:
@@ -14,6 +14,28 @@ keywords:
 	<main class="container">
         <div class="repo-list" id="repoList">
 
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/colbymchenry/codegraph" target="_blank">
+    
+
+
+      
+        colbymchenry /
+
+      codegraph</a></p>
+				<p>
+      Pre-indexed code knowledge graph for Claude Code, Codex, Gemini, Cursor, OpenCode, AntiGravity, and Hermes Agent — fewer tokens, fewer tool calls, 100% local
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 27295</span>
+						<span>🔱 1530</span>
+					</div>
+				<div class="stars-today">⭐ 23688 stars this month</div>
+				</div>
+			</div>
 	
 			<div class="repo-card">
 				<p><a href="https://github.com/mattpocock/skills" target="_blank">
@@ -30,32 +52,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Shell</span>
-						<span>⭐ 106044</span>
-						<span>🔱 9360</span>
+						<span>⭐ 106599</span>
+						<span>🔱 9426</span>
 					</div>
 				<div class="stars-today">⭐ 86188 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/colbymchenry/codegraph" target="_blank">
-    
-
-
-      
-        colbymchenry /
-
-      codegraph</a></p>
-				<p>
-      Pre-indexed code knowledge graph for Claude Code, Codex, Cursor, OpenCode, and Hermes Agent — fewer tokens, fewer tool calls, 100% local
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 26562</span>
-						<span>🔱 1483</span>
-					</div>
-				<div class="stars-today">⭐ 23688 stars this month</div>
 				</div>
 			</div>
 	
@@ -72,8 +72,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 27668</span>
-						<span>🔱 3880</span>
+						<span>⭐ 27735</span>
+						<span>🔱 3891</span>
 					</div>
 				<div class="stars-today">⭐ 19853 stars this month</div>
 				</div>
@@ -94,8 +94,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 21197</span>
-						<span>🔱 1675</span>
+						<span>⭐ 21340</span>
+						<span>🔱 1695</span>
 					</div>
 				<div class="stars-today">⭐ 19438 stars this month</div>
 				</div>
@@ -116,8 +116,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 18015</span>
-						<span>🔱 1472</span>
+						<span>⭐ 18135</span>
+						<span>🔱 1489</span>
 					</div>
 				<div class="stars-today">⭐ 15782 stars this month</div>
 				</div>
@@ -138,10 +138,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 21834</span>
-						<span>🔱 1854</span>
+						<span>⭐ 22065</span>
+						<span>🔱 1871</span>
 					</div>
 				<div class="stars-today">⭐ 17780 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/Lum1104/Understand-Anything" target="_blank">
+    
+
+
+      
+        Lum1104 /
+
+      Understand-Anything</a></p>
+				<p>
+      Graphs that teach > graphs that impress. Turn any code into an interactive knowledge graph you can explore, search, and ask questions about. Works with Claude Code, Codex, Cursor, Copilot, Gemini CLI, and more.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 34878</span>
+						<span>🔱 2818</span>
+					</div>
+				<div class="stars-today">⭐ 20742 stars this month</div>
 				</div>
 			</div>
 	
@@ -160,8 +182,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 30447</span>
-						<span>🔱 2175</span>
+						<span>⭐ 30497</span>
+						<span>🔱 2178</span>
 					</div>
 				<div class="stars-today">⭐ 10826 stars this month</div>
 				</div>
@@ -182,8 +204,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 79664</span>
-						<span>🔱 15529</span>
+						<span>⭐ 79764</span>
+						<span>🔱 15541</span>
 					</div>
 				<div class="stars-today">⭐ 27064 stars this month</div>
 				</div>
@@ -204,8 +226,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 </span>
-						<span>⭐ 156049</span>
-						<span>🔱 15999</span>
+						<span>⭐ 156711</span>
+						<span>🔱 16062</span>
 					</div>
 				<div class="stars-today">⭐ 68832 stars this month</div>
 				</div>
@@ -226,32 +248,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 19870</span>
-						<span>🔱 2794</span>
+						<span>⭐ 19941</span>
+						<span>🔱 2805</span>
 					</div>
 				<div class="stars-today">⭐ 13152 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/ComposioHQ/awesome-codex-skills" target="_blank">
-    
-
-
-      
-        ComposioHQ /
-
-      awesome-codex-skills</a></p>
-				<p>
-      A curated list of practical Codex skills for automating workflows across the Codex CLI and API.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 11741</span>
-						<span>🔱 1116</span>
-					</div>
-				<div class="stars-today">⭐ 10408 stars this month</div>
 				</div>
 			</div>
 	
@@ -270,54 +270,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 JavaScript</span>
-						<span>⭐ 14387</span>
-						<span>🔱 2154</span>
+						<span>⭐ 14498</span>
+						<span>🔱 2171</span>
 					</div>
 				<div class="stars-today">⭐ 11172 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/Lum1104/Understand-Anything" target="_blank">
-    
-
-
-      
-        Lum1104 /
-
-      Understand-Anything</a></p>
-				<p>
-      Graphs that teach > graphs that impress. Turn any code into an interactive knowledge graph you can explore, search, and ask questions about. Works with Claude Code, Codex, Cursor, Copilot, Gemini CLI, and more.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 33280</span>
-						<span>🔱 2707</span>
-					</div>
-				<div class="stars-today">⭐ 20742 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/Alishahryar1/free-claude-code" target="_blank">
-    
-
-
-      
-        Alishahryar1 /
-
-      free-claude-code</a></p>
-				<p>
-      Use claude-code for free in the terminal, VSCode extension or discord like OpenClaw (voice supported)
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 29811</span>
-						<span>🔱 4482</span>
-					</div>
-				<div class="stars-today">⭐ 19114 stars this month</div>
 				</div>
 			</div>
 	
@@ -336,10 +292,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 55240</span>
-						<span>🔱 6278</span>
+						<span>⭐ 55365</span>
+						<span>🔱 6289</span>
 					</div>
 				<div class="stars-today">⭐ 22151 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/rohitg00/ai-engineering-from-scratch" target="_blank">
+    
+
+
+      
+        rohitg00 /
+
+      ai-engineering-from-scratch</a></p>
+				<p>
+      Learn it. Build it. Ship it for others.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 20336</span>
+						<span>🔱 3397</span>
+					</div>
+				<div class="stars-today">⭐ 12957 stars this month</div>
 				</div>
 			</div>
 	
@@ -358,8 +336,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 16568</span>
-						<span>🔱 2660</span>
+						<span>⭐ 16608</span>
+						<span>🔱 2665</span>
 					</div>
 				<div class="stars-today">⭐ 7524 stars this month</div>
 				</div>
@@ -380,54 +358,76 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 35283</span>
-						<span>🔱 3547</span>
+						<span>⭐ 35332</span>
+						<span>🔱 3551</span>
 					</div>
 				<div class="stars-today">⭐ 5825 stars this month</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/rohitg00/ai-engineering-from-scratch" target="_blank">
+				<p><a href="https://github.com/ComposioHQ/awesome-codex-skills" target="_blank">
     
 
 
       
-        rohitg00 /
+        ComposioHQ /
 
-      ai-engineering-from-scratch</a></p>
+      awesome-codex-skills</a></p>
 				<p>
-      Learn it. Build it. Ship it for others.
+      A curated list of practical Codex skills for automating workflows across the Codex CLI and API.
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 19637</span>
-						<span>🔱 3286</span>
+						<span>⭐ 11837</span>
+						<span>🔱 1128</span>
 					</div>
-				<div class="stars-today">⭐ 12957 stars this month</div>
+				<div class="stars-today">⭐ 10408 stars this month</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/addyosmani/agent-skills" target="_blank">
+				<p><a href="https://github.com/Alishahryar1/free-claude-code" target="_blank">
     
 
 
       
-        addyosmani /
+        Alishahryar1 /
 
-      agent-skills</a></p>
+      free-claude-code</a></p>
 				<p>
-      Production-grade engineering skills for AI coding agents.
+      Use claude-code for free in the terminal, VSCode extension or discord like OpenClaw (voice supported)
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Shell</span>
-						<span>⭐ 45846</span>
-						<span>🔱 5077</span>
+						<span>🔠 Python</span>
+						<span>⭐ 29923</span>
+						<span>🔱 4502</span>
 					</div>
-				<div class="stars-today">⭐ 22920 stars this month</div>
+				<div class="stars-today">⭐ 19114 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/LearningCircuit/local-deep-research" target="_blank">
+    
+
+
+      
+        LearningCircuit /
+
+      local-deep-research</a></p>
+				<p>
+       ~95% on SimpleQA (e.g. Qwen3.6-27B on a 3090). Supports all local and cloud LLMs (llama.cpp, Ollama, Google, ...). 10+ search engines - arXiv, PubMed, your private documents. Everything Local & Encrypted.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 7980</span>
+						<span>🔱 695</span>
+					</div>
+				<div class="stars-today">⭐ 3618 stars this month</div>
 				</div>
 			</div>
 	
@@ -446,10 +446,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 5103</span>
-						<span>🔱 531</span>
+						<span>⭐ 5132</span>
+						<span>🔱 532</span>
 					</div>
 				<div class="stars-today">⭐ 4110 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/addyosmani/agent-skills" target="_blank">
+    
+
+
+      
+        addyosmani /
+
+      agent-skills</a></p>
+				<p>
+      Production-grade engineering skills for AI coding agents.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Shell</span>
+						<span>⭐ 45974</span>
+						<span>🔱 5102</span>
+					</div>
+				<div class="stars-today">⭐ 22920 stars this month</div>
 				</div>
 			</div>
 	

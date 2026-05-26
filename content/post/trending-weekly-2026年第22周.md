@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2026年第22周
-date: 2026-05-26T09:33:38Z
+date: 2026-05-26T17:01:25Z
 categories:
 - weekly
 keywords:
@@ -25,37 +25,15 @@ keywords:
 
       codegraph</a></p>
 				<p>
-      Pre-indexed code knowledge graph for Claude Code, Codex, Cursor, OpenCode, and Hermes Agent — fewer tokens, fewer tool calls, 100% local
+      Pre-indexed code knowledge graph for Claude Code, Codex, Gemini, Cursor, OpenCode, AntiGravity, and Hermes Agent — fewer tokens, fewer tool calls, 100% local
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 26562</span>
-						<span>🔱 1483</span>
+						<span>⭐ 27295</span>
+						<span>🔱 1530</span>
 					</div>
 				<div class="stars-today">⭐ 20208 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/tinyhumansai/openhuman" target="_blank">
-    
-
-
-      
-        tinyhumansai /
-
-      openhuman</a></p>
-				<p>
-      Your Personal AI super intelligence. Private, Simple and extremely powerful.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Rust</span>
-						<span>⭐ 28016</span>
-						<span>🔱 2599</span>
-					</div>
-				<div class="stars-today">⭐ 11906 stars this week</div>
 				</div>
 			</div>
 	
@@ -74,32 +52,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 33280</span>
-						<span>🔱 2707</span>
+						<span>⭐ 34878</span>
+						<span>🔱 2818</span>
 					</div>
 				<div class="stars-today">⭐ 14750 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/Imbad0202/academic-research-skills" target="_blank">
-    
-
-
-      
-        Imbad0202 /
-
-      academic-research-skills</a></p>
-				<p>
-      Academic Research Skills for Claude Code: research → write → review → revise → finalize
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 21834</span>
-						<span>🔱 1854</span>
-					</div>
-				<div class="stars-today">⭐ 10678 stars this week</div>
 				</div>
 			</div>
 	
@@ -118,10 +74,54 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 19637</span>
-						<span>🔱 3286</span>
+						<span>⭐ 20336</span>
+						<span>🔱 3397</span>
 					</div>
 				<div class="stars-today">⭐ 10035 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/tinyhumansai/openhuman" target="_blank">
+    
+
+
+      
+        tinyhumansai /
+
+      openhuman</a></p>
+				<p>
+      Your Personal AI super intelligence. Private, Simple and extremely powerful.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Rust</span>
+						<span>⭐ 28221</span>
+						<span>🔱 2622</span>
+					</div>
+				<div class="stars-today">⭐ 11906 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/Imbad0202/academic-research-skills" target="_blank">
+    
+
+
+      
+        Imbad0202 /
+
+      academic-research-skills</a></p>
+				<p>
+      Academic Research Skills for Claude Code: research → write → review → revise → finalize
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 22065</span>
+						<span>🔱 1871</span>
+					</div>
+				<div class="stars-today">⭐ 10678 stars this week</div>
 				</div>
 			</div>
 	
@@ -140,10 +140,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Rust</span>
-						<span>⭐ 66053</span>
-						<span>🔱 8745</span>
+						<span>⭐ 66187</span>
+						<span>🔱 8765</span>
 					</div>
 				<div class="stars-today">⭐ 6396 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/HKUDS/ViMax" target="_blank">
+    
+
+
+      
+        HKUDS /
+
+      ViMax</a></p>
+				<p>
+      "ViMax: Agentic Video Generation (Director, Screenwriter, Producer, and Video Generator All-in-One)"
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 7606</span>
+						<span>🔱 1189</span>
+					</div>
+				<div class="stars-today">⭐ 2790 stars this week</div>
 				</div>
 			</div>
 	
@@ -162,54 +184,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 18015</span>
-						<span>🔱 1472</span>
+						<span>⭐ 18135</span>
+						<span>🔱 1489</span>
 					</div>
 				<div class="stars-today">⭐ 5687 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/CloakHQ/CloakBrowser" target="_blank">
-    
-
-
-      
-        CloakHQ /
-
-      CloakBrowser</a></p>
-				<p>
-      Stealth Chromium that passes every bot detection test. Drop-in Playwright replacement with source-level fingerprint patches. 30/30 tests passed.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 21197</span>
-						<span>🔱 1675</span>
-					</div>
-				<div class="stars-today">⭐ 6167 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/supertone-inc/supertonic" target="_blank">
-    
-
-
-      
-        supertone-inc /
-
-      supertonic</a></p>
-				<p>
-      Lightning-Fast, On-Device, Multilingual TTS — running natively via ONNX.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Swift</span>
-						<span>⭐ 10544</span>
-						<span>🔱 1083</span>
-					</div>
-				<div class="stars-today">⭐ 2329 stars this week</div>
 				</div>
 			</div>
 	
@@ -228,32 +206,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 7392</span>
-						<span>🔱 597</span>
+						<span>⭐ 7478</span>
+						<span>🔱 605</span>
 					</div>
 				<div class="stars-today">⭐ 2584 stars this week</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/dograh-hq/dograh" target="_blank">
+				<p><a href="https://github.com/NVlabs/Sana" target="_blank">
     
 
 
       
-        dograh-hq /
+        NVlabs /
 
-      dograh</a></p>
+      Sana</a></p>
 				<p>
-      Open source voice AI platform. Self-hosted alternative to Vapi and Retell. On Prem, BYOK across Speech to Speech or LLM/STT/TTS, with a visual workflow builder, MCP native and telephony support.
+      SANA: Efficient High-Resolution Image Synthesis with Linear Diffusion Transformer
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 3079</span>
-						<span>🔱 675</span>
+						<span>⭐ 7693</span>
+						<span>🔱 589</span>
 					</div>
-				<div class="stars-today">⭐ 693 stars this week</div>
+				<div class="stars-today">⭐ 1233 stars this week</div>
 				</div>
 			</div>
 	
@@ -272,10 +250,98 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 6971</span>
-						<span>🔱 1167</span>
+						<span>⭐ 7038</span>
+						<span>🔱 1168</span>
 					</div>
 				<div class="stars-today">⭐ 1787 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/humanlayer/12-factor-agents" target="_blank">
+    
+
+
+      
+        humanlayer /
+
+      12-factor-agents</a></p>
+				<p>
+      What are the principles we can use to build LLM-powered software that is actually good enough to put in the hands of production customers?
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 22390</span>
+						<span>🔱 1689</span>
+					</div>
+				<div class="stars-today">⭐ 1985 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/anthropics/knowledge-work-plugins" target="_blank">
+    
+
+
+      
+        anthropics /
+
+      knowledge-work-plugins</a></p>
+				<p>
+      Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 16483</span>
+						<span>🔱 1935</span>
+					</div>
+				<div class="stars-today">⭐ 2666 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/supertone-inc/supertonic" target="_blank">
+    
+
+
+      
+        supertone-inc /
+
+      supertonic</a></p>
+				<p>
+      Lightning-Fast, On-Device, Multilingual TTS — running natively via ONNX.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Swift</span>
+						<span>⭐ 10603</span>
+						<span>🔱 1094</span>
+					</div>
+				<div class="stars-today">⭐ 2329 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/dograh-hq/dograh" target="_blank">
+    
+
+
+      
+        dograh-hq /
+
+      dograh</a></p>
+				<p>
+      Open source voice AI platform. Self-hosted alternative to Vapi and Retell. On Prem, BYOK across Speech to Speech or LLM/STT/TTS, with a visual workflow builder, MCP native and telephony support.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 3187</span>
+						<span>🔱 694</span>
+					</div>
+				<div class="stars-today">⭐ 693 stars this week</div>
 				</div>
 			</div>
 	
@@ -294,54 +360,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 40479</span>
-						<span>🔱 3827</span>
+						<span>⭐ 40566</span>
+						<span>🔱 3836</span>
 					</div>
 				<div class="stars-today">⭐ 4010 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/obra/superpowers" target="_blank">
-    
-
-
-      
-        obra /
-
-      superpowers</a></p>
-				<p>
-      An agentic skills framework & software development methodology that works.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Shell</span>
-						<span>⭐ 207192</span>
-						<span>🔱 18450</span>
-					</div>
-				<div class="stars-today">⭐ 9950 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/wechat-article/wechat-article-exporter" target="_blank">
-    
-
-
-      
-        wechat-article /
-
-      wechat-article-exporter</a></p>
-				<p>
-      一款在线的 微信公众号文章批量下载 工具，支持导出阅读量与评论数据，无需搭建任何环境，可通过 在线网站 使用，支持 docker 私有化部署和 Cloudflare 部署。 支持下载各种文件格式，其中 HTML 格式可100%还原文章排版与样式。
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 10894</span>
-						<span>🔱 1897</span>
-					</div>
-				<div class="stars-today">⭐ 809 stars this week</div>
 				</div>
 			</div>
 	
@@ -360,54 +382,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 852</span>
-						<span>🔱 90</span>
+						<span>⭐ 893</span>
+						<span>🔱 91</span>
 					</div>
 				<div class="stars-today">⭐ 366 stars this week</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/phodal/routa" target="_blank">
+				<p><a href="https://github.com/dotnet/skills" target="_blank">
     
 
 
       
-        phodal /
+        dotnet /
 
-      routa</a></p>
+      skills</a></p>
 				<p>
-      Workspace-first multi-agent coordination platform for AI development, with shared Specs, Kanban orchestration, and MCP/ACP/ A2A support across web and desktop.
+      Repository for skills to assist AI coding agents with .NET and C#
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 1485</span>
-						<span>🔱 205</span>
+						<span>🔠 C#</span>
+						<span>⭐ 3097</span>
+						<span>🔱 227</span>
 					</div>
-				<div class="stars-today">⭐ 470 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/ChromeDevTools/chrome-devtools-mcp" target="_blank">
-    
-
-
-      
-        ChromeDevTools /
-
-      chrome-devtools-mcp</a></p>
-				<p>
-      Chrome DevTools for coding agents
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 41803</span>
-						<span>🔱 2657</span>
-					</div>
-				<div class="stars-today">⭐ 1818 stars this week</div>
+				<div class="stars-today">⭐ 1313 stars this week</div>
 				</div>
 			</div>
 	
