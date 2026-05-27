@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2026年第22周
-date: 2026-05-27T06:13:59Z
+date: 2026-05-27T11:23:32Z
 categories:
 - weekly
 keywords:
@@ -30,8 +30,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 28476</span>
-						<span>🔱 1608</span>
+						<span>⭐ 29110</span>
+						<span>🔱 1643</span>
 					</div>
 				<div class="stars-today">⭐ 21211 stars this week</div>
 				</div>
@@ -52,8 +52,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 36928</span>
-						<span>🔱 2958</span>
+						<span>⭐ 38089</span>
+						<span>🔱 3037</span>
 					</div>
 				<div class="stars-today">⭐ 19191 stars this week</div>
 				</div>
@@ -74,54 +74,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 21160</span>
-						<span>🔱 3500</span>
+						<span>⭐ 21557</span>
+						<span>🔱 3553</span>
 					</div>
 				<div class="stars-today">⭐ 11840 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/tinyhumansai/openhuman" target="_blank">
-    
-
-
-      
-        tinyhumansai /
-
-      openhuman</a></p>
-				<p>
-      Your Personal AI super intelligence. Private, Simple and extremely powerful.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Rust</span>
-						<span>⭐ 28513</span>
-						<span>🔱 2661</span>
-					</div>
-				<div class="stars-today">⭐ 8542 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/Imbad0202/academic-research-skills" target="_blank">
-    
-
-
-      
-        Imbad0202 /
-
-      academic-research-skills</a></p>
-				<p>
-      Academic Research Skills for Claude Code: research → write → review → revise → finalize
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 22341</span>
-						<span>🔱 1893</span>
-					</div>
-				<div class="stars-today">⭐ 8422 stars this week</div>
 				</div>
 			</div>
 	
@@ -140,142 +96,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Rust</span>
-						<span>⭐ 66412</span>
-						<span>🔱 8805</span>
+						<span>⭐ 66503</span>
+						<span>🔱 8813</span>
 					</div>
 				<div class="stars-today">⭐ 5986 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/HKUDS/ViMax" target="_blank">
-    
-
-
-      
-        HKUDS /
-
-      ViMax</a></p>
-				<p>
-      "ViMax: Agentic Video Generation (Director, Screenwriter, Producer, and Video Generator All-in-One)"
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 7678</span>
-						<span>🔱 1196</span>
-					</div>
-				<div class="stars-today">⭐ 2466 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/rohitg00/agentmemory" target="_blank">
-    
-
-
-      
-        rohitg00 /
-
-      agentmemory</a></p>
-				<p>
-      #1 Persistent memory for AI coding agents based on real-world benchmarks
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 18341</span>
-						<span>🔱 1518</span>
-					</div>
-				<div class="stars-today">⭐ 4444 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/can1357/oh-my-pi" target="_blank">
-    
-
-
-      
-        can1357 /
-
-      oh-my-pi</a></p>
-				<p>
-      ⌥ AI Coding agent for the terminal — hash-anchored edits, optimized tool harness, LSP, Python, browser, subagents, and more
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 7600</span>
-						<span>🔱 614</span>
-					</div>
-				<div class="stars-today">⭐ 2508 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/NVlabs/Sana" target="_blank">
-    
-
-
-      
-        NVlabs /
-
-      Sana</a></p>
-				<p>
-      SANA: Efficient High-Resolution Image Synthesis with Linear Diffusion Transformer
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 7723</span>
-						<span>🔱 592</span>
-					</div>
-				<div class="stars-today">⭐ 780 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/presenton/presenton" target="_blank">
-    
-
-
-      
-        presenton /
-
-      presenton</a></p>
-				<p>
-      Open-Source AI Presentation Generator and API (Gamma, Beautiful AI, Decktopus Alternative)
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 7134</span>
-						<span>🔱 1176</span>
-					</div>
-				<div class="stars-today">⭐ 1981 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/humanlayer/12-factor-agents" target="_blank">
-    
-
-
-      
-        humanlayer /
-
-      12-factor-agents</a></p>
-				<p>
-      What are the principles we can use to build LLM-powered software that is actually good enough to put in the hands of production customers?
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 22458</span>
-						<span>🔱 1695</span>
-					</div>
-				<div class="stars-today">⭐ 1393 stars this week</div>
 				</div>
 			</div>
 	
@@ -294,98 +118,120 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 16826</span>
-						<span>🔱 1972</span>
+						<span>⭐ 16962</span>
+						<span>🔱 1990</span>
 					</div>
 				<div class="stars-today">⭐ 4086 stars this week</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/supertone-inc/supertonic" target="_blank">
+				<p><a href="https://github.com/Imbad0202/academic-research-skills" target="_blank">
     
 
 
       
-        supertone-inc /
+        Imbad0202 /
 
-      supertonic</a></p>
+      academic-research-skills</a></p>
 				<p>
-      Lightning-Fast, On-Device, Multilingual TTS — running natively via ONNX.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Swift</span>
-						<span>⭐ 10692</span>
-						<span>🔱 1106</span>
-					</div>
-				<div class="stars-today">⭐ 1944 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/dograh-hq/dograh" target="_blank">
-    
-
-
-      
-        dograh-hq /
-
-      dograh</a></p>
-				<p>
-      Open source voice AI platform. Self-hosted alternative to Vapi and Retell. On Prem, BYOK across Speech to Speech or LLM/STT/TTS, with a visual workflow builder, MCP native and telephony support.
+      Academic Research Skills for Claude Code: research → write → review → revise → finalize
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 3297</span>
-						<span>🔱 709</span>
+						<span>⭐ 22526</span>
+						<span>🔱 1905</span>
 					</div>
-				<div class="stars-today">⭐ 881 stars this week</div>
+				<div class="stars-today">⭐ 8422 stars this week</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/HKUDS/CLI-Anything" target="_blank">
+				<p><a href="https://github.com/rmyndharis/OpenWA" target="_blank">
+    
+
+
+      
+        rmyndharis /
+
+      OpenWA</a></p>
+				<p>
+      Free, Open Source, Self-Hosted WhatsApp API Gateway
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 6576</span>
+						<span>🔱 1349</span>
+					</div>
+				<div class="stars-today">⭐ 2594 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/HKUDS/ViMax" target="_blank">
     
 
 
       
         HKUDS /
 
-      CLI-Anything</a></p>
+      ViMax</a></p>
 				<p>
-      "CLI-Anything: Making ALL Software Agent-Native" -- CLI-Hub: https://clianything.cc/
+      "ViMax: Agentic Video Generation (Director, Screenwriter, Producer, and Video Generator All-in-One)"
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 40699</span>
-						<span>🔱 3850</span>
+						<span>⭐ 7722</span>
+						<span>🔱 1205</span>
 					</div>
-				<div class="stars-today">⭐ 3203 stars this week</div>
+				<div class="stars-today">⭐ 2466 stars this week</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/Chachamaru127/claude-code-harness" target="_blank">
+				<p><a href="https://github.com/tinyhumansai/openhuman" target="_blank">
     
 
 
       
-        Chachamaru127 /
+        tinyhumansai /
 
-      claude-code-harness</a></p>
+      openhuman</a></p>
 				<p>
-      Claude Code Dedicated Development Harness - Achieving High-Quality Development Through an Autonomous Plan→Work→Review Cycle
+      Your Personal AI super intelligence. Private, Simple and extremely powerful.
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Shell</span>
-						<span>⭐ 1715</span>
-						<span>🔱 191</span>
+						<span>🔠 Rust</span>
+						<span>⭐ 28646</span>
+						<span>🔱 2682</span>
 					</div>
-				<div class="stars-today">⭐ 704 stars this week</div>
+				<div class="stars-today">⭐ 8542 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/can1357/oh-my-pi" target="_blank">
+    
+
+
+      
+        can1357 /
+
+      oh-my-pi</a></p>
+				<p>
+      ⌥ AI Coding agent for the terminal — hash-anchored edits, optimized tool harness, LSP, Python, browser, subagents, and more
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 7646</span>
+						<span>🔱 620</span>
+					</div>
+				<div class="stars-today">⭐ 2508 stars this week</div>
 				</div>
 			</div>
 	
@@ -404,7 +250,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 934</span>
+						<span>⭐ 954</span>
 						<span>🔱 91</span>
 					</div>
 				<div class="stars-today">⭐ 464 stars this week</div>
@@ -412,24 +258,156 @@ keywords:
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/dotnet/skills" target="_blank">
+				<p><a href="https://github.com/hardikpandya/stop-slop" target="_blank">
     
 
 
       
-        dotnet /
+        hardikpandya /
 
-      skills</a></p>
+      stop-slop</a></p>
 				<p>
-      Repository for skills to assist AI coding agents with .NET and C#
+      A skill file for removing AI tells from prose
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 C#</span>
-						<span>⭐ 3128</span>
-						<span>🔱 228</span>
+						<span>🔠 </span>
+						<span>⭐ 5317</span>
+						<span>🔱 414</span>
 					</div>
-				<div class="stars-today">⭐ 1292 stars this week</div>
+				<div class="stars-today">⭐ 1341 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/rohitg00/agentmemory" target="_blank">
+    
+
+
+      
+        rohitg00 /
+
+      agentmemory</a></p>
+				<p>
+      #1 Persistent memory for AI coding agents based on real-world benchmarks
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 18450</span>
+						<span>🔱 1524</span>
+					</div>
+				<div class="stars-today">⭐ 4444 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/dograh-hq/dograh" target="_blank">
+    
+
+
+      
+        dograh-hq /
+
+      dograh</a></p>
+				<p>
+      Open source voice AI platform. Self-hosted alternative to Vapi and Retell. On Prem, BYOK across Speech to Speech or LLM/STT/TTS, with a visual workflow builder, MCP native and telephony support.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 3343</span>
+						<span>🔱 714</span>
+					</div>
+				<div class="stars-today">⭐ 881 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/mukul975/Anthropic-Cybersecurity-Skills" target="_blank">
+    
+
+
+      
+        mukul975 /
+
+      Anthropic-Cybersecurity-Skills</a></p>
+				<p>
+      754 structured cybersecurity skills for AI agents · Mapped to 5 frameworks: MITRE ATT&CK, NIST CSF 2.0, MITRE ATLAS, D3FEND & NIST AI RMF · agentskills.io standard · Works with Claude Code, GitHub Copilot, Codex CLI, Cursor, Gemini CLI & 20+ platforms · 26 security domains · Apache 2.0
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 10534</span>
+						<span>🔱 1224</span>
+					</div>
+				<div class="stars-today">⭐ 3379 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/supertone-inc/supertonic" target="_blank">
+    
+
+
+      
+        supertone-inc /
+
+      supertonic</a></p>
+				<p>
+      Lightning-Fast, On-Device, Multilingual TTS — running natively via ONNX.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Swift</span>
+						<span>⭐ 10726</span>
+						<span>🔱 1109</span>
+					</div>
+				<div class="stars-today">⭐ 1944 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/aiming-lab/AutoResearchClaw" target="_blank">
+    
+
+
+      
+        aiming-lab /
+
+      AutoResearchClaw</a></p>
+				<p>
+      Fully autonomous & self-evolving research from idea to paper. Chat an Idea. Get a Paper. 🦞
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 12774</span>
+						<span>🔱 1494</span>
+					</div>
+				<div class="stars-today">⭐ 432 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/humanlayer/12-factor-agents" target="_blank">
+    
+
+
+      
+        humanlayer /
+
+      12-factor-agents</a></p>
+				<p>
+      What are the principles we can use to build LLM-powered software that is actually good enough to put in the hands of production customers?
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 22491</span>
+						<span>🔱 1696</span>
+					</div>
+				<div class="stars-today">⭐ 1393 stars this week</div>
 				</div>
 			</div>
 	

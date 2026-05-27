@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2026年5月
-date: 2026-05-27T06:13:59Z
+date: 2026-05-27T11:23:32Z
 categories:
 - monthly
 keywords:
@@ -30,32 +30,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 28476</span>
-						<span>🔱 1608</span>
+						<span>⭐ 29110</span>
+						<span>🔱 1643</span>
 					</div>
 				<div class="stars-today">⭐ 26518 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/mattpocock/skills" target="_blank">
-    
-
-
-      
-        mattpocock /
-
-      skills</a></p>
-				<p>
-      Skills for Real Engineers. Straight from my .claude directory.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Shell</span>
-						<span>⭐ 107291</span>
-						<span>🔱 9467</span>
-					</div>
-				<div class="stars-today">⭐ 85195 stars this month</div>
 				</div>
 			</div>
 	
@@ -72,8 +50,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 27870</span>
-						<span>🔱 3913</span>
+						<span>⭐ 27983</span>
+						<span>🔱 3927</span>
 					</div>
 				<div class="stars-today">⭐ 20088 stars this month</div>
 				</div>
@@ -94,10 +72,54 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 21522</span>
-						<span>🔱 1715</span>
+						<span>⭐ 21628</span>
+						<span>🔱 1723</span>
 					</div>
 				<div class="stars-today">⭐ 19976 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/mattpocock/skills" target="_blank">
+    
+
+
+      
+        mattpocock /
+
+      skills</a></p>
+				<p>
+      Skills for Real Engineers. Straight from my .claude directory.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Shell</span>
+						<span>⭐ 107755</span>
+						<span>🔱 9503</span>
+					</div>
+				<div class="stars-today">⭐ 85195 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/warpdotdev/warp" target="_blank">
+    
+
+
+      
+        warpdotdev /
+
+      warp</a></p>
+				<p>
+      Warp is an agentic development environment, born out of the terminal.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Rust</span>
+						<span>⭐ 60143</span>
+						<span>🔱 4773</span>
+					</div>
+				<div class="stars-today">⭐ 34001 stars this month</div>
 				</div>
 			</div>
 	
@@ -116,32 +138,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 18341</span>
-						<span>🔱 1518</span>
+						<span>⭐ 18450</span>
+						<span>🔱 1524</span>
 					</div>
 				<div class="stars-today">⭐ 16176 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/Imbad0202/academic-research-skills" target="_blank">
-    
-
-
-      
-        Imbad0202 /
-
-      academic-research-skills</a></p>
-				<p>
-      Academic Research Skills for Claude Code: research → write → review → revise → finalize
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 22341</span>
-						<span>🔱 1893</span>
-					</div>
-				<div class="stars-today">⭐ 18500 stars this month</div>
 				</div>
 			</div>
 	
@@ -160,10 +160,76 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 36928</span>
-						<span>🔱 2958</span>
+						<span>⭐ 38089</span>
+						<span>🔱 3037</span>
 					</div>
 				<div class="stars-today">⭐ 25394 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/Imbad0202/academic-research-skills" target="_blank">
+    
+
+
+      
+        Imbad0202 /
+
+      academic-research-skills</a></p>
+				<p>
+      Academic Research Skills for Claude Code: research → write → review → revise → finalize
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 22526</span>
+						<span>🔱 1905</span>
+					</div>
+				<div class="stars-today">⭐ 18500 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/1jehuang/jcode" target="_blank">
+    
+
+
+      
+        1jehuang /
+
+      jcode</a></p>
+				<p>
+      Coding Agent Harness
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Rust</span>
+						<span>⭐ 6587</span>
+						<span>🔱 742</span>
+					</div>
+				<div class="stars-today">⭐ 6272 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/HKUDS/ViMax" target="_blank">
+    
+
+
+      
+        HKUDS /
+
+      ViMax</a></p>
+				<p>
+      "ViMax: Agentic Video Generation (Director, Screenwriter, Producer, and Video Generator All-in-One)"
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 7722</span>
+						<span>🔱 1205</span>
+					</div>
+				<div class="stars-today">⭐ 5043 stars this month</div>
 				</div>
 			</div>
 	
@@ -182,8 +248,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 30569</span>
-						<span>🔱 2183</span>
+						<span>⭐ 30602</span>
+						<span>🔱 2184</span>
 					</div>
 				<div class="stars-today">⭐ 10987 stars this month</div>
 				</div>
@@ -204,54 +270,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 79939</span>
-						<span>🔱 15575</span>
+						<span>⭐ 80048</span>
+						<span>🔱 15586</span>
 					</div>
 				<div class="stars-today">⭐ 27088 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/multica-ai/andrej-karpathy-skills" target="_blank">
-    
-
-
-      
-        multica-ai /
-
-      andrej-karpathy-skills</a></p>
-				<p>
-      A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 </span>
-						<span>⭐ 157644</span>
-						<span>🔱 16148</span>
-					</div>
-				<div class="stars-today">⭐ 68097 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/AIDC-AI/Pixelle-Video" target="_blank">
-    
-
-
-      
-        AIDC-AI /
-
-      Pixelle-Video</a></p>
-				<p>
-      🚀 AI 全自动短视频引擎 | AI Fully Automated Short Video Engine
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 20012</span>
-						<span>🔱 2817</span>
-					</div>
-				<div class="stars-today">⭐ 13230 stars this month</div>
 				</div>
 			</div>
 	
@@ -270,32 +292,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 JavaScript</span>
-						<span>⭐ 14597</span>
-						<span>🔱 2183</span>
+						<span>⭐ 14654</span>
+						<span>🔱 2191</span>
 					</div>
 				<div class="stars-today">⭐ 11432 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/ruvnet/ruflo" target="_blank">
-    
-
-
-      
-        ruvnet /
-
-      ruflo</a></p>
-				<p>
-      🌊 The leading agent orchestration platform for Claude. Deploy intelligent multi-agent swarms, coordinate autonomous workflows, and build conversational AI systems. Features enterprise-grade architecture, self-learning swarm intelligence, RAG integration, and native Claude Code / Codex Integration
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 55552</span>
-						<span>🔱 6313</span>
-					</div>
-				<div class="stars-today">⭐ 22289 stars this month</div>
 				</div>
 			</div>
 	
@@ -314,10 +314,76 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 21160</span>
-						<span>🔱 3500</span>
+						<span>⭐ 21557</span>
+						<span>🔱 3553</span>
 					</div>
 				<div class="stars-today">⭐ 14997 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/AIDC-AI/Pixelle-Video" target="_blank">
+    
+
+
+      
+        AIDC-AI /
+
+      Pixelle-Video</a></p>
+				<p>
+      🚀 AI 全自动短视频引擎 | AI Fully Automated Short Video Engine
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 20086</span>
+						<span>🔱 2826</span>
+					</div>
+				<div class="stars-today">⭐ 13230 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/multica-ai/andrej-karpathy-skills" target="_blank">
+    
+
+
+      
+        multica-ai /
+
+      andrej-karpathy-skills</a></p>
+				<p>
+      A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 </span>
+						<span>⭐ 158190</span>
+						<span>🔱 16216</span>
+					</div>
+				<div class="stars-today">⭐ 68097 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/ruvnet/ruflo" target="_blank">
+    
+
+
+      
+        ruvnet /
+
+      ruflo</a></p>
+				<p>
+      🌊 The leading agent orchestration platform for Claude. Deploy intelligent multi-agent swarms, coordinate autonomous workflows, and build conversational AI systems. Features enterprise-grade architecture, self-learning swarm intelligence, RAG integration, and native Claude Code / Codex Integration
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 55628</span>
+						<span>🔱 6319</span>
+					</div>
+				<div class="stars-today">⭐ 22289 stars this month</div>
 				</div>
 			</div>
 	
@@ -336,8 +402,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 16679</span>
-						<span>🔱 2677</span>
+						<span>⭐ 16728</span>
+						<span>🔱 2679</span>
 					</div>
 				<div class="stars-today">⭐ 7702 stars this month</div>
 				</div>
@@ -358,76 +424,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 35413</span>
-						<span>🔱 3559</span>
+						<span>⭐ 35443</span>
+						<span>🔱 3561</span>
 					</div>
 				<div class="stars-today">⭐ 5915 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/ComposioHQ/awesome-codex-skills" target="_blank">
-    
-
-
-      
-        ComposioHQ /
-
-      awesome-codex-skills</a></p>
-				<p>
-      A curated list of practical Codex skills for automating workflows across the Codex CLI and API.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 11947</span>
-						<span>🔱 1133</span>
-					</div>
-				<div class="stars-today">⭐ 10072 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/Alishahryar1/free-claude-code" target="_blank">
-    
-
-
-      
-        Alishahryar1 /
-
-      free-claude-code</a></p>
-				<p>
-      Use claude-code for free in the terminal, VSCode extension or discord like OpenClaw (voice supported)
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 30112</span>
-						<span>🔱 4541</span>
-					</div>
-				<div class="stars-today">⭐ 17716 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/LearningCircuit/local-deep-research" target="_blank">
-    
-
-
-      
-        LearningCircuit /
-
-      local-deep-research</a></p>
-				<p>
-       ~95% on SimpleQA (e.g. Qwen3.6-27B on a 3090). Supports all local and cloud LLMs (llama.cpp, Ollama, Google, ...). 10+ search engines - arXiv, PubMed, your private documents. Everything Local & Encrypted.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 8011</span>
-						<span>🔱 696</span>
-					</div>
-				<div class="stars-today">⭐ 3637 stars this month</div>
 				</div>
 			</div>
 	
@@ -446,7 +446,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 5181</span>
+						<span>⭐ 5194</span>
 						<span>🔱 535</span>
 					</div>
 				<div class="stars-today">⭐ 4159 stars this month</div>
@@ -454,24 +454,24 @@ keywords:
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/addyosmani/agent-skills" target="_blank">
+				<p><a href="https://github.com/LearningCircuit/local-deep-research" target="_blank">
     
 
 
       
-        addyosmani /
+        LearningCircuit /
 
-      agent-skills</a></p>
+      local-deep-research</a></p>
 				<p>
-      Production-grade engineering skills for AI coding agents.
+       ~95% on SimpleQA (e.g. Qwen3.6-27B on a 3090). Supports all local and cloud LLMs (llama.cpp, Ollama, Google, ...). 10+ search engines - arXiv, PubMed, your private documents. Everything Local & Encrypted.
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Shell</span>
-						<span>⭐ 46195</span>
-						<span>🔱 5128</span>
+						<span>🔠 Python</span>
+						<span>⭐ 8017</span>
+						<span>🔱 696</span>
 					</div>
-				<div class="stars-today">⭐ 22719 stars this month</div>
+				<div class="stars-today">⭐ 3637 stars this month</div>
 				</div>
 			</div>
 	
