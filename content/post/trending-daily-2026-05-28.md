@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2026-05-28
-date: 2026-05-28T05:55:54Z
+date: 2026-05-28T11:24:53Z
 categories:
 - daily
 keywords:
@@ -30,54 +30,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 63358</span>
-						<span>🔱 9214</span>
+						<span>⭐ 64830</span>
+						<span>🔱 9381</span>
 					</div>
 				<div class="stars-today">⭐ 1742 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/Lum1104/Understand-Anything" target="_blank">
-    
-
-
-      
-        Lum1104 /
-
-      Understand-Anything</a></p>
-				<p>
-      Graphs that teach > graphs that impress. Turn any code into an interactive knowledge graph you can explore, search, and ask questions about. Works with Claude Code, Codex, Cursor, Copilot, Gemini CLI, and more.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 40826</span>
-						<span>🔱 3266</span>
-					</div>
-				<div class="stars-today">⭐ 4465 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/hardikpandya/stop-slop" target="_blank">
-    
-
-
-      
-        hardikpandya /
-
-      stop-slop</a></p>
-				<p>
-      A skill file for removing AI tells from prose
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 </span>
-						<span>⭐ 5899</span>
-						<span>🔱 438</span>
-					</div>
-				<div class="stars-today">⭐ 664 stars today</div>
 				</div>
 			</div>
 	
@@ -96,32 +52,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 JavaScript</span>
-						<span>⭐ 196335</span>
-						<span>🔱 30206</span>
+						<span>⭐ 196688</span>
+						<span>🔱 30255</span>
 					</div>
 				<div class="stars-today">⭐ 2062 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/anthropics/knowledge-work-plugins" target="_blank">
-    
-
-
-      
-        anthropics /
-
-      knowledge-work-plugins</a></p>
-				<p>
-      Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 17431</span>
-						<span>🔱 2034</span>
-					</div>
-				<div class="stars-today">⭐ 695 stars today</div>
 				</div>
 			</div>
 	
@@ -140,76 +74,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Shell</span>
-						<span>⭐ 24797</span>
-						<span>🔱 1901</span>
+						<span>⭐ 25359</span>
+						<span>🔱 1927</span>
 					</div>
 				<div class="stars-today">⭐ 2715 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/p-e-w/heretic" target="_blank">
+				<p><a href="https://github.com/hardikpandya/stop-slop" target="_blank">
     
 
 
       
-        p-e-w /
+        hardikpandya /
 
-      heretic</a></p>
+      stop-slop</a></p>
 				<p>
-      Fully automatic censorship removal for language models
+      A skill file for removing AI tells from prose
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 22115</span>
-						<span>🔱 2358</span>
+						<span>🔠 </span>
+						<span>⭐ 6081</span>
+						<span>🔱 447</span>
 					</div>
-				<div class="stars-today">⭐ 211 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/shiyu-coder/Kronos" target="_blank">
-    
-
-
-      
-        shiyu-coder /
-
-      Kronos</a></p>
-				<p>
-      Kronos: A Foundation Model for the Language of Financial Markets
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 26977</span>
-						<span>🔱 4670</span>
-					</div>
-				<div class="stars-today">⭐ 401 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/mukul975/Anthropic-Cybersecurity-Skills" target="_blank">
-    
-
-
-      
-        mukul975 /
-
-      Anthropic-Cybersecurity-Skills</a></p>
-				<p>
-      754 structured cybersecurity skills for AI agents · Mapped to 5 frameworks: MITRE ATT&CK, NIST CSF 2.0, MITRE ATLAS, D3FEND & NIST AI RMF · agentskills.io standard · Works with Claude Code, GitHub Copilot, Codex CLI, Cursor, Gemini CLI & 20+ platforms · 26 security domains · Apache 2.0
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 11155</span>
-						<span>🔱 1269</span>
-					</div>
-				<div class="stars-today">⭐ 886 stars today</div>
+				<div class="stars-today">⭐ 664 stars today</div>
 				</div>
 			</div>
 	
@@ -228,32 +118,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 47446</span>
-						<span>🔱 6733</span>
+						<span>⭐ 47561</span>
+						<span>🔱 6752</span>
 					</div>
 				<div class="stars-today">⭐ 519 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/Chachamaru127/claude-code-harness" target="_blank">
-    
-
-
-      
-        Chachamaru127 /
-
-      claude-code-harness</a></p>
-				<p>
-      Claude Code Dedicated Development Harness - Achieving High-Quality Development Through an Autonomous Plan→Work→Review Cycle
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Shell</span>
-						<span>⭐ 1954</span>
-						<span>🔱 207</span>
-					</div>
-				<div class="stars-today">⭐ 87 stars today</div>
 				</div>
 			</div>
 	
@@ -272,32 +140,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 HTML</span>
-						<span>⭐ 169542</span>
-						<span>🔱 3230</span>
+						<span>⭐ 169991</span>
+						<span>🔱 3251</span>
 					</div>
 				<div class="stars-today">⭐ 2222 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/obra/superpowers" target="_blank">
-    
-
-
-      
-        obra /
-
-      superpowers</a></p>
-				<p>
-      An agentic skills framework & software development methodology that works.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Shell</span>
-						<span>⭐ 209944</span>
-						<span>🔱 18706</span>
-					</div>
-				<div class="stars-today">⭐ 1511 stars today</div>
 				</div>
 			</div>
 	
@@ -316,76 +162,208 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 </span>
-						<span>⭐ 47231</span>
-						<span>🔱 4965</span>
+						<span>⭐ 47744</span>
+						<span>🔱 5008</span>
 					</div>
 				<div class="stars-today">⭐ 1163 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/iii-hq/iii" target="_blank">
+				<p><a href="https://github.com/microsoft/markitdown" target="_blank">
     
 
 
       
-        iii-hq /
+        microsoft /
 
-      iii</a></p>
+      markitdown</a></p>
 				<p>
-      Effortlessly compose, extend, and observe every service in real-time for the first time ever.
+      Python tool for converting files and office documents to Markdown.
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Rust</span>
-						<span>⭐ 16975</span>
-						<span>🔱 1115</span>
+						<span>🔠 Python</span>
+						<span>⭐ 126695</span>
+						<span>🔱 8666</span>
 					</div>
-				<div class="stars-today">⭐ 376 stars today</div>
+				<div class="stars-today">⭐ 1263 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/Axorax/awesome-free-apps" target="_blank">
+				<p><a href="https://github.com/obra/superpowers" target="_blank">
     
 
 
       
-        Axorax /
+        obra /
 
-      awesome-free-apps</a></p>
+      superpowers</a></p>
 				<p>
-      Curated list of the best free apps for PC and mobile
+      An agentic skills framework & software development methodology that works.
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 JavaScript</span>
-						<span>⭐ 6029</span>
-						<span>🔱 299</span>
+						<span>🔠 Shell</span>
+						<span>⭐ 210462</span>
+						<span>🔱 18739</span>
 					</div>
-				<div class="stars-today">⭐ 728 stars today</div>
+				<div class="stars-today">⭐ 1511 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/moeru-ai/airi" target="_blank">
+				<p><a href="https://github.com/revfactory/harness" target="_blank">
     
 
 
       
-        moeru-ai /
+        revfactory /
 
-      airi</a></p>
+      harness</a></p>
 				<p>
-      💖🧸 Self hosted, you-owned Grok Companion, a container of souls of waifu, cyber livings to bring them into our worlds, wishing to achieve Neuro-sama's altitude. Capable of realtime voice chat, Minecraft, Factorio playing. Web / macOS / Windows supported.
+      A meta-skill that designs domain-specific agent teams, defines specialized agents, and generates the skills they use.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 HTML</span>
+						<span>⭐ 3686</span>
+						<span>🔱 563</span>
+					</div>
+				<div class="stars-today">⭐ 68 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/codecrafters-io/build-your-own-x" target="_blank">
+    
+
+
+      
+        codecrafters-io /
+
+      build-your-own-x</a></p>
+				<p>
+      Master programming by recreating your favorite technologies from scratch.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Markdown</span>
+						<span>⭐ 506101</span>
+						<span>🔱 48056</span>
+					</div>
+				<div class="stars-today">⭐ 739 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/Lum1104/Understand-Anything" target="_blank">
+    
+
+
+      
+        Lum1104 /
+
+      Understand-Anything</a></p>
+				<p>
+      Graphs that teach > graphs that impress. Turn any code into an interactive knowledge graph you can explore, search, and ask questions about. Works with Claude Code, Codex, Cursor, Copilot, Gemini CLI, and more.
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 40322</span>
-						<span>🔱 4048</span>
+						<span>⭐ 41874</span>
+						<span>🔱 3333</span>
 					</div>
-				<div class="stars-today">⭐ 72 stars today</div>
+				<div class="stars-today">⭐ 4465 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/unclecode/crawl4ai" target="_blank">
+    
+
+
+      
+        unclecode /
+
+      crawl4ai</a></p>
+				<p>
+      🚀🤖 Crawl4AI: Open-source LLM Friendly Web Crawler & Scraper. Don't be shy, join here: https://discord.gg/jP8KfhDhyN
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 66674</span>
+						<span>🔱 6841</span>
+					</div>
+				<div class="stars-today">⭐ 210 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/OpenMOSS/MOSS-TTS" target="_blank">
+    
+
+
+      
+        OpenMOSS /
+
+      MOSS-TTS</a></p>
+				<p>
+      MOSS‑TTS Family is an open‑source speech and sound generation model family from MOSI.AI and the OpenMOSS team. It is designed for high‑fidelity, high‑expressiveness, and complex real‑world scenarios, covering stable long‑form speech, multi‑speaker dialogue, voice/character design, environmental sound effects, and real‑time streaming TTS.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 2021</span>
+						<span>🔱 202</span>
+					</div>
+				<div class="stars-today">⭐ 53 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/EveryInc/compound-engineering-plugin" target="_blank">
+    
+
+
+      
+        EveryInc /
+
+      compound-engineering-plugin</a></p>
+				<p>
+      Official Compound Engineering plugin for Claude Code, Codex, Cursor, and more
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 17599</span>
+						<span>🔱 1349</span>
+					</div>
+				<div class="stars-today">⭐ 180 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/anthropics/skills" target="_blank">
+    
+
+
+      
+        anthropics /
+
+      skills</a></p>
+				<p>
+      Public repository for Agent Skills
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 142335</span>
+						<span>🔱 16810</span>
+					</div>
+				<div class="stars-today">⭐ 686 stars today</div>
 				</div>
 			</div>
 	

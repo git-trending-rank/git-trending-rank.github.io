@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2026年5月
-date: 2026-05-28T05:55:54Z
+date: 2026-05-28T11:24:54Z
 categories:
 - monthly
 keywords:
@@ -30,8 +30,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 30405</span>
-						<span>🔱 1750</span>
+						<span>⭐ 31013</span>
+						<span>🔱 1805</span>
 					</div>
 				<div class="stars-today">⭐ 28837 stars this month</div>
 				</div>
@@ -50,8 +50,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 28312</span>
-						<span>🔱 3969</span>
+						<span>⭐ 28404</span>
+						<span>🔱 3980</span>
 					</div>
 				<div class="stars-today">⭐ 20415 stars this month</div>
 				</div>
@@ -72,54 +72,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 21850</span>
-						<span>🔱 1742</span>
+						<span>⭐ 21949</span>
+						<span>🔱 1753</span>
 					</div>
 				<div class="stars-today">⭐ 20333 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/mattpocock/skills" target="_blank">
-    
-
-
-      
-        mattpocock /
-
-      skills</a></p>
-				<p>
-      Skills for Real Engineers. Straight from my .claude directory.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Shell</span>
-						<span>⭐ 108994</span>
-						<span>🔱 9584</span>
-					</div>
-				<div class="stars-today">⭐ 81117 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/warpdotdev/warp" target="_blank">
-    
-
-
-      
-        warpdotdev /
-
-      warp</a></p>
-				<p>
-      Warp is an agentic development environment, born out of the terminal.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Rust</span>
-						<span>⭐ 60258</span>
-						<span>🔱 4792</span>
-					</div>
-				<div class="stars-today">⭐ 34105 stars this month</div>
 				</div>
 			</div>
 	
@@ -138,10 +94,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 18866</span>
-						<span>🔱 1549</span>
+						<span>⭐ 19102</span>
+						<span>🔱 1562</span>
 					</div>
 				<div class="stars-today">⭐ 16556 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/mattpocock/skills" target="_blank">
+    
+
+
+      
+        mattpocock /
+
+      skills</a></p>
+				<p>
+      Skills for Real Engineers. Straight from my .claude directory.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Shell</span>
+						<span>⭐ 109491</span>
+						<span>🔱 9615</span>
+					</div>
+				<div class="stars-today">⭐ 81117 stars this month</div>
 				</div>
 			</div>
 	
@@ -160,8 +138,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 40826</span>
-						<span>🔱 3266</span>
+						<span>⭐ 41874</span>
+						<span>🔱 3333</span>
 					</div>
 				<div class="stars-today">⭐ 29679 stars this month</div>
 				</div>
@@ -182,54 +160,54 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 22931</span>
-						<span>🔱 1925</span>
+						<span>⭐ 23134</span>
+						<span>🔱 1936</span>
 					</div>
 				<div class="stars-today">⭐ 19046 stars this month</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/1jehuang/jcode" target="_blank">
+				<p><a href="https://github.com/rohitg00/ai-engineering-from-scratch" target="_blank">
     
 
 
       
-        1jehuang /
+        rohitg00 /
 
-      jcode</a></p>
+      ai-engineering-from-scratch</a></p>
 				<p>
-      Coding Agent Harness
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Rust</span>
-						<span>⭐ 6619</span>
-						<span>🔱 742</span>
-					</div>
-				<div class="stars-today">⭐ 6232 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/HKUDS/ViMax" target="_blank">
-    
-
-
-      
-        HKUDS /
-
-      ViMax</a></p>
-				<p>
-      "ViMax: Agentic Video Generation (Director, Screenwriter, Producer, and Video Generator All-in-One)"
+      Learn it. Build it. Ship it for others.
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 7855</span>
-						<span>🔱 1217</span>
+						<span>⭐ 23299</span>
+						<span>🔱 3789</span>
 					</div>
-				<div class="stars-today">⭐ 5067 stars this month</div>
+				<div class="stars-today">⭐ 16501 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/decolua/9router" target="_blank">
+    
+
+
+      
+        decolua /
+
+      9router</a></p>
+				<p>
+      Unlimited FREE AI coding. Connect Claude Code, Codex, Cursor, Cline, Copilot, Antigravity to FREE Claude/GPT/Gemini via 40+ providers. Auto-fallback, RTK -40% tokens, never hit limits.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 JavaScript</span>
+						<span>⭐ 14825</span>
+						<span>🔱 2218</span>
+					</div>
+				<div class="stars-today">⭐ 11580 stars this month</div>
 				</div>
 			</div>
 	
@@ -248,8 +226,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 30692</span>
-						<span>🔱 2197</span>
+						<span>⭐ 30730</span>
+						<span>🔱 2199</span>
 					</div>
 				<div class="stars-today">⭐ 11026 stars this month</div>
 				</div>
@@ -270,54 +248,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 80256</span>
-						<span>🔱 15621</span>
+						<span>⭐ 80338</span>
+						<span>🔱 15638</span>
 					</div>
 				<div class="stars-today">⭐ 27184 stars this month</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/decolua/9router" target="_blank">
+				<p><a href="https://github.com/1jehuang/jcode" target="_blank">
     
 
 
       
-        decolua /
+        1jehuang /
 
-      9router</a></p>
+      jcode</a></p>
 				<p>
-      Unlimited FREE AI coding. Connect Claude Code, Codex, Cursor, Cline, Copilot, Antigravity to FREE Claude/GPT/Gemini via 40+ providers. Auto-fallback, RTK -40% tokens, never hit limits.
+      Coding Agent Harness
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 JavaScript</span>
-						<span>⭐ 14773</span>
-						<span>🔱 2210</span>
+						<span>🔠 Rust</span>
+						<span>⭐ 6640</span>
+						<span>🔱 746</span>
 					</div>
-				<div class="stars-today">⭐ 11580 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/rohitg00/ai-engineering-from-scratch" target="_blank">
-    
-
-
-      
-        rohitg00 /
-
-      ai-engineering-from-scratch</a></p>
-				<p>
-      Learn it. Build it. Ship it for others.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 22916</span>
-						<span>🔱 3734</span>
-					</div>
-				<div class="stars-today">⭐ 16501 stars this month</div>
+				<div class="stars-today">⭐ 6232 stars this month</div>
 				</div>
 			</div>
 	
@@ -336,32 +292,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 20187</span>
-						<span>🔱 2844</span>
+						<span>⭐ 20231</span>
+						<span>🔱 2846</span>
 					</div>
 				<div class="stars-today">⭐ 13195 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/multica-ai/andrej-karpathy-skills" target="_blank">
-    
-
-
-      
-        multica-ai /
-
-      andrej-karpathy-skills</a></p>
-				<p>
-      A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 </span>
-						<span>⭐ 159434</span>
-						<span>🔱 16337</span>
-					</div>
-				<div class="stars-today">⭐ 66700 stars this month</div>
 				</div>
 			</div>
 	
@@ -380,10 +314,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 55896</span>
-						<span>🔱 6355</span>
+						<span>⭐ 55982</span>
+						<span>🔱 6359</span>
 					</div>
 				<div class="stars-today">⭐ 22453 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/multica-ai/andrej-karpathy-skills" target="_blank">
+    
+
+
+      
+        multica-ai /
+
+      andrej-karpathy-skills</a></p>
+				<p>
+      A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 </span>
+						<span>⭐ 159889</span>
+						<span>🔱 16368</span>
+					</div>
+				<div class="stars-today">⭐ 66700 stars this month</div>
 				</div>
 			</div>
 	
@@ -402,8 +358,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 16812</span>
-						<span>🔱 2689</span>
+						<span>⭐ 16848</span>
+						<span>🔱 2693</span>
 					</div>
 				<div class="stars-today">⭐ 7860 stars this month</div>
 				</div>
@@ -424,32 +380,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 35542</span>
-						<span>🔱 3572</span>
+						<span>⭐ 35582</span>
+						<span>🔱 3573</span>
 					</div>
 				<div class="stars-today">⭐ 6059 stars this month</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/mattpocock/sandcastle" target="_blank">
+				<p><a href="https://github.com/warpdotdev/warp" target="_blank">
     
 
 
       
-        mattpocock /
+        warpdotdev /
 
-      sandcastle</a></p>
+      warp</a></p>
 				<p>
-      Orchestrate sandboxed coding agents in TypeScript with sandcastle.run()
+      Warp is an agentic development environment, born out of the terminal.
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 5242</span>
-						<span>🔱 539</span>
+						<span>🔠 Rust</span>
+						<span>⭐ 60310</span>
+						<span>🔱 4797</span>
 					</div>
-				<div class="stars-today">⭐ 4201 stars this month</div>
+				<div class="stars-today">⭐ 34105 stars this month</div>
 				</div>
 			</div>
 	
@@ -468,7 +424,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 8069</span>
+						<span>⭐ 8084</span>
 						<span>🔱 700</span>
 					</div>
 				<div class="stars-today">⭐ 3679 stars this month</div>
