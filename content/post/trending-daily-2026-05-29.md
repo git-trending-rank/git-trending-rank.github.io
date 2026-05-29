@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2026-05-29
-date: 2026-05-29T05:59:20Z
+date: 2026-05-29T10:59:27Z
 categories:
 - daily
 keywords:
@@ -30,142 +30,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 67249</span>
-						<span>🔱 9720</span>
+						<span>⭐ 68244</span>
+						<span>🔱 9862</span>
 					</div>
 				<div class="stars-today">⭐ 4698 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/affaan-m/ECC" target="_blank">
-    
-
-
-      
-        affaan-m /
-
-      ECC</a></p>
-				<p>
-      The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 JavaScript</span>
-						<span>⭐ 197572</span>
-						<span>🔱 30384</span>
-					</div>
-				<div class="stars-today">⭐ 1385 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/Leonxlnx/taste-skill" target="_blank">
-    
-
-
-      
-        Leonxlnx /
-
-      taste-skill</a></p>
-				<p>
-      Taste-Skill - gives your AI good taste. stops the AI from generating boring, generic slop 
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Shell</span>
-						<span>⭐ 26918</span>
-						<span>🔱 2010</span>
-					</div>
-				<div class="stars-today">⭐ 2234 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/hardikpandya/stop-slop" target="_blank">
-    
-
-
-      
-        hardikpandya /
-
-      stop-slop</a></p>
-				<p>
-      A skill file for removing AI tells from prose
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 </span>
-						<span>⭐ 6561</span>
-						<span>🔱 475</span>
-					</div>
-				<div class="stars-today">⭐ 761 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/twentyhq/twenty" target="_blank">
-    
-
-
-      
-        twentyhq /
-
-      twenty</a></p>
-				<p>
-      The open alternative to Salesforce, designed for AI.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 47994</span>
-						<span>🔱 6809</span>
-					</div>
-				<div class="stars-today">⭐ 493 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/DigitalPlatDev/FreeDomain" target="_blank">
-    
-
-
-      
-        DigitalPlatDev /
-
-      FreeDomain</a></p>
-				<p>
-      DigitalPlat FreeDomain: Free Domain For Everyone
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 HTML</span>
-						<span>⭐ 170986</span>
-						<span>🔱 3306</span>
-					</div>
-				<div class="stars-today">⭐ 1761 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/byoungd/English-level-up-tips" target="_blank">
-    
-
-
-      
-        byoungd /
-
-      English-level-up-tips</a></p>
-				<p>
-      An advanced guide to learn English which might benefit you a lot 🎉 . 离谱的英语学习指南/英语学习教程/英语学习/学英语
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 </span>
-						<span>⭐ 48886</span>
-						<span>🔱 5132</span>
-					</div>
-				<div class="stars-today">⭐ 2019 stars today</div>
 				</div>
 			</div>
 	
@@ -184,142 +52,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 128102</span>
-						<span>🔱 8776</span>
+						<span>⭐ 128469</span>
+						<span>🔱 8811</span>
 					</div>
 				<div class="stars-today">⭐ 1410 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/obra/superpowers" target="_blank">
-    
-
-
-      
-        obra /
-
-      superpowers</a></p>
-				<p>
-      An agentic skills framework & software development methodology that works.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Shell</span>
-						<span>⭐ 211428</span>
-						<span>🔱 18827</span>
-					</div>
-				<div class="stars-today">⭐ 1730 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/revfactory/harness" target="_blank">
-    
-
-
-      
-        revfactory /
-
-      harness</a></p>
-				<p>
-      A meta-skill that designs domain-specific agent teams, defines specialized agents, and generates the skills they use.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 HTML</span>
-						<span>⭐ 3995</span>
-						<span>🔱 587</span>
-					</div>
-				<div class="stars-today">⭐ 65 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/codecrafters-io/build-your-own-x" target="_blank">
-    
-
-
-      
-        codecrafters-io /
-
-      build-your-own-x</a></p>
-				<p>
-      Master programming by recreating your favorite technologies from scratch.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Markdown</span>
-						<span>⭐ 506737</span>
-						<span>🔱 48115</span>
-					</div>
-				<div class="stars-today">⭐ 1066 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/Lum1104/Understand-Anything" target="_blank">
-    
-
-
-      
-        Lum1104 /
-
-      Understand-Anything</a></p>
-				<p>
-      Graphs that teach > graphs that impress. Turn any code into an interactive knowledge graph you can explore, search, and ask questions about. Works with Claude Code, Codex, Cursor, Copilot, Gemini CLI, and more.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 43298</span>
-						<span>🔱 3463</span>
-					</div>
-				<div class="stars-today">⭐ 3776 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/unclecode/crawl4ai" target="_blank">
-    
-
-
-      
-        unclecode /
-
-      crawl4ai</a></p>
-				<p>
-      🚀🤖 Crawl4AI: Open-source LLM Friendly Web Crawler & Scraper. Don't be shy, join here: https://discord.gg/jP8KfhDhyN
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 67099</span>
-						<span>🔱 6864</span>
-					</div>
-				<div class="stars-today">⭐ 154 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/OpenMOSS/MOSS-TTS" target="_blank">
-    
-
-
-      
-        OpenMOSS /
-
-      MOSS-TTS</a></p>
-				<p>
-      MOSS‑TTS Family is an open‑source speech and sound generation model family from MOSI.AI and the OpenMOSS team. It is designed for high‑fidelity, high‑expressiveness, and complex real‑world scenarios, covering stable long‑form speech, multi‑speaker dialogue, voice/character design, environmental sound effects, and real‑time streaming TTS.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 2352</span>
-						<span>🔱 218</span>
-					</div>
-				<div class="stars-today">⭐ 71 stars today</div>
 				</div>
 			</div>
 	
@@ -338,32 +74,316 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 17864</span>
-						<span>🔱 1365</span>
+						<span>⭐ 17942</span>
+						<span>🔱 1368</span>
 					</div>
 				<div class="stars-today">⭐ 184 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/anthropics/skills" target="_blank">
+				<p><a href="https://github.com/twentyhq/twenty" target="_blank">
+    
+
+
+      
+        twentyhq /
+
+      twenty</a></p>
+				<p>
+      The open alternative to Salesforce, designed for AI.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 48110</span>
+						<span>🔱 6822</span>
+					</div>
+				<div class="stars-today">⭐ 493 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/anthropics/claude-code" target="_blank">
     
 
 
       
         anthropics /
 
-      skills</a></p>
+      claude-code</a></p>
 				<p>
-      Public repository for Agent Skills
+      Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 143100</span>
-						<span>🔱 16899</span>
+						<span>⭐ 127570</span>
+						<span>🔱 20884</span>
 					</div>
-				<div class="stars-today">⭐ 718 stars today</div>
+				<div class="stars-today">⭐ 319 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/Leonxlnx/taste-skill" target="_blank">
+    
+
+
+      
+        Leonxlnx /
+
+      taste-skill</a></p>
+				<p>
+      Taste-Skill - gives your AI good taste. stops the AI from generating boring, generic slop 
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Shell</span>
+						<span>⭐ 27389</span>
+						<span>🔱 2035</span>
+					</div>
+				<div class="stars-today">⭐ 2234 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/cursor/plugins" target="_blank">
+    
+
+
+      
+        cursor /
+
+      plugins</a></p>
+				<p>
+      Cursor plugin specification and official plugins
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 1148</span>
+						<span>🔱 105</span>
+					</div>
+				<div class="stars-today">⭐ 129 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/run-llama/liteparse" target="_blank">
+    
+
+
+      
+        run-llama /
+
+      liteparse</a></p>
+				<p>
+      A fast, helpful, and open-source document parser
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Rust</span>
+						<span>⭐ 6682</span>
+						<span>🔱 423</span>
+					</div>
+				<div class="stars-today">⭐ 932 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/galilai-group/stable-worldmodel" target="_blank">
+    
+
+
+      
+        galilai-group /
+
+      stable-worldmodel</a></p>
+				<p>
+      A platform for reproducible world model research and evaluation
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 1029</span>
+						<span>🔱 140</span>
+					</div>
+				<div class="stars-today">⭐ 346 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/byoungd/English-level-up-tips" target="_blank">
+    
+
+
+      
+        byoungd /
+
+      English-level-up-tips</a></p>
+				<p>
+      An advanced guide to learn English which might benefit you a lot 🎉 . 离谱的英语学习指南/英语学习教程/英语学习/学英语
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 </span>
+						<span>⭐ 49233</span>
+						<span>🔱 5167</span>
+					</div>
+				<div class="stars-today">⭐ 2019 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/Biohub/esm" target="_blank">
+    
+
+
+      
+        Biohub /
+
+      esm</a></p>
+				<p></p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Jupyter Notebook</span>
+						<span>⭐ 2498</span>
+						<span>🔱 311</span>
+					</div>
+				<div class="stars-today">⭐ 102 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/Crosstalk-Solutions/project-nomad" target="_blank">
+    
+
+
+      
+        Crosstalk-Solutions /
+
+      project-nomad</a></p>
+				<p>
+      Project N.O.M.A.D, is a self-contained, offline survival computer packed with critical tools, knowledge, and AI to keep you informed and empowered—anytime, anywhere.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 26661</span>
+						<span>🔱 2640</span>
+					</div>
+				<div class="stars-today">⭐ 294 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/DigitalPlatDev/FreeDomain" target="_blank">
+    
+
+
+      
+        DigitalPlatDev /
+
+      FreeDomain</a></p>
+				<p>
+      DigitalPlat FreeDomain: Free Domain For Everyone
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 HTML</span>
+						<span>⭐ 171273</span>
+						<span>🔱 3319</span>
+					</div>
+				<div class="stars-today">⭐ 1761 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/affaan-m/ECC" target="_blank">
+    
+
+
+      
+        affaan-m /
+
+      ECC</a></p>
+				<p>
+      The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 JavaScript</span>
+						<span>⭐ 198001</span>
+						<span>🔱 30436</span>
+					</div>
+				<div class="stars-today">⭐ 1385 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/hardikpandya/stop-slop" target="_blank">
+    
+
+
+      
+        hardikpandya /
+
+      stop-slop</a></p>
+				<p>
+      A skill file for removing AI tells from prose
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 </span>
+						<span>⭐ 6684</span>
+						<span>🔱 477</span>
+					</div>
+				<div class="stars-today">⭐ 761 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/DataTalksClub/data-engineering-zoomcamp" target="_blank">
+    
+
+
+      
+        DataTalksClub /
+
+      data-engineering-zoomcamp</a></p>
+				<p>
+      Data Engineering Zoomcamp is a free 9-week course on building production-ready data pipelines. The next cohort starts in January 2026. Join the course here 👇🏼
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Jupyter Notebook</span>
+						<span>⭐ 41406</span>
+						<span>🔱 8259</span>
+					</div>
+				<div class="stars-today">⭐ 161 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/codecrafters-io/build-your-own-x" target="_blank">
+    
+
+
+      
+        codecrafters-io /
+
+      build-your-own-x</a></p>
+				<p>
+      Master programming by recreating your favorite technologies from scratch.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Markdown</span>
+						<span>⭐ 506924</span>
+						<span>🔱 48135</span>
+					</div>
+				<div class="stars-today">⭐ 1066 stars today</div>
 				</div>
 			</div>
 	

@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2026年5月
-date: 2026-05-29T05:59:19Z
+date: 2026-05-29T10:59:27Z
 categories:
 - monthly
 keywords:
@@ -30,8 +30,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 32186</span>
-						<span>🔱 1915</span>
+						<span>⭐ 32673</span>
+						<span>🔱 1958</span>
 					</div>
 				<div class="stars-today">⭐ 30718 stars this month</div>
 				</div>
@@ -50,8 +50,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 28557</span>
-						<span>🔱 4000</span>
+						<span>⭐ 28606</span>
+						<span>🔱 4009</span>
 					</div>
 				<div class="stars-today">⭐ 20790 stars this month</div>
 				</div>
@@ -72,10 +72,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 22159</span>
-						<span>🔱 1769</span>
+						<span>⭐ 22244</span>
+						<span>🔱 1772</span>
 					</div>
 				<div class="stars-today">⭐ 20646 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/Lum1104/Understand-Anything" target="_blank">
+    
+
+
+      
+        Lum1104 /
+
+      Understand-Anything</a></p>
+				<p>
+      Graphs that teach > graphs that impress. Turn any code into an interactive knowledge graph you can explore, search, and ask questions about. Works with Claude Code, Codex, Cursor, Copilot, Gemini CLI, and more.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 43808</span>
+						<span>🔱 3497</span>
+					</div>
+				<div class="stars-today">⭐ 33147 stars this month</div>
 				</div>
 			</div>
 	
@@ -94,8 +116,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 19388</span>
-						<span>🔱 1586</span>
+						<span>⭐ 19488</span>
+						<span>🔱 1591</span>
 					</div>
 				<div class="stars-today">⭐ 17217 stars this month</div>
 				</div>
@@ -116,32 +138,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Shell</span>
-						<span>⭐ 110483</span>
-						<span>🔱 9695</span>
+						<span>⭐ 110885</span>
+						<span>🔱 9733</span>
 					</div>
 				<div class="stars-today">⭐ 75448 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/Lum1104/Understand-Anything" target="_blank">
-    
-
-
-      
-        Lum1104 /
-
-      Understand-Anything</a></p>
-				<p>
-      Graphs that teach > graphs that impress. Turn any code into an interactive knowledge graph you can explore, search, and ask questions about. Works with Claude Code, Codex, Cursor, Copilot, Gemini CLI, and more.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 43298</span>
-						<span>🔱 3463</span>
-					</div>
-				<div class="stars-today">⭐ 33147 stars this month</div>
 				</div>
 			</div>
 	
@@ -160,8 +160,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 23511</span>
-						<span>🔱 1964</span>
+						<span>⭐ 23667</span>
+						<span>🔱 1969</span>
 					</div>
 				<div class="stars-today">⭐ 19583 stars this month</div>
 				</div>
@@ -182,8 +182,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 24081</span>
-						<span>🔱 3902</span>
+						<span>⭐ 24274</span>
+						<span>🔱 3936</span>
 					</div>
 				<div class="stars-today">⭐ 18067 stars this month</div>
 				</div>
@@ -204,98 +204,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 JavaScript</span>
-						<span>⭐ 14937</span>
-						<span>🔱 2237</span>
+						<span>⭐ 14972</span>
+						<span>🔱 2243</span>
 					</div>
 				<div class="stars-today">⭐ 11689 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/soxoj/maigret" target="_blank">
-    
-
-
-      
-        soxoj /
-
-      maigret</a></p>
-				<p>
-      🕵️‍♂️ Collect a dossier on a person by username from 3000+ sites
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 30819</span>
-						<span>🔱 2203</span>
-					</div>
-				<div class="stars-today">⭐ 11082 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/TauricResearch/TradingAgents" target="_blank">
-    
-
-
-      
-        TauricResearch /
-
-      TradingAgents</a></p>
-				<p>
-      TradingAgents: Multi-Agents LLM Financial Trading Framework
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 80515</span>
-						<span>🔱 15678</span>
-					</div>
-				<div class="stars-today">⭐ 26548 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/1jehuang/jcode" target="_blank">
-    
-
-
-      
-        1jehuang /
-
-      jcode</a></p>
-				<p>
-      Coding Agent Harness
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Rust</span>
-						<span>⭐ 6676</span>
-						<span>🔱 748</span>
-					</div>
-				<div class="stars-today">⭐ 6050 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/AIDC-AI/Pixelle-Video" target="_blank">
-    
-
-
-      
-        AIDC-AI /
-
-      Pixelle-Video</a></p>
-				<p>
-      🚀 AI 全自动短视频引擎 | AI Fully Automated Short Video Engine
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 20347</span>
-						<span>🔱 2860</span>
-					</div>
-				<div class="stars-today">⭐ 13182 stars this month</div>
 				</div>
 			</div>
 	
@@ -314,32 +226,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 56202</span>
-						<span>🔱 6394</span>
+						<span>⭐ 56259</span>
+						<span>🔱 6405</span>
 					</div>
 				<div class="stars-today">⭐ 22670 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/multica-ai/andrej-karpathy-skills" target="_blank">
-    
-
-
-      
-        multica-ai /
-
-      andrej-karpathy-skills</a></p>
-				<p>
-      A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 </span>
-						<span>⭐ 160808</span>
-						<span>🔱 16467</span>
-					</div>
-				<div class="stars-today">⭐ 65313 stars this month</div>
 				</div>
 			</div>
 	
@@ -358,8 +248,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 16917</span>
-						<span>🔱 2700</span>
+						<span>⭐ 16946</span>
+						<span>🔱 2703</span>
 					</div>
 				<div class="stars-today">⭐ 7963 stars this month</div>
 				</div>
@@ -380,32 +270,120 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 35627</span>
-						<span>🔱 3581</span>
+						<span>⭐ 35648</span>
+						<span>🔱 3585</span>
 					</div>
 				<div class="stars-today">⭐ 6182 stars this month</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/warpdotdev/warp" target="_blank">
+				<p><a href="https://github.com/AIDC-AI/Pixelle-Video" target="_blank">
     
 
 
       
-        warpdotdev /
+        AIDC-AI /
 
-      warp</a></p>
+      Pixelle-Video</a></p>
 				<p>
-      Warp is an agentic development environment, born out of the terminal.
+      🚀 AI 全自动短视频引擎 | AI Fully Automated Short Video Engine
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 20403</span>
+						<span>🔱 2864</span>
+					</div>
+				<div class="stars-today">⭐ 13182 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/soxoj/maigret" target="_blank">
+    
+
+
+      
+        soxoj /
+
+      maigret</a></p>
+				<p>
+      🕵️‍♂️ Collect a dossier on a person by username from 3000+ sites
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 30865</span>
+						<span>🔱 2208</span>
+					</div>
+				<div class="stars-today">⭐ 11082 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/TauricResearch/TradingAgents" target="_blank">
+    
+
+
+      
+        TauricResearch /
+
+      TradingAgents</a></p>
+				<p>
+      TradingAgents: Multi-Agents LLM Financial Trading Framework
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 80564</span>
+						<span>🔱 15685</span>
+					</div>
+				<div class="stars-today">⭐ 26548 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/multica-ai/andrej-karpathy-skills" target="_blank">
+    
+
+
+      
+        multica-ai /
+
+      andrej-karpathy-skills</a></p>
+				<p>
+      A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 </span>
+						<span>⭐ 161109</span>
+						<span>🔱 16496</span>
+					</div>
+				<div class="stars-today">⭐ 65313 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/1jehuang/jcode" target="_blank">
+    
+
+
+      
+        1jehuang /
+
+      jcode</a></p>
+				<p>
+      Coding Agent Harness
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Rust</span>
-						<span>⭐ 60465</span>
-						<span>🔱 4814</span>
+						<span>⭐ 6693</span>
+						<span>🔱 749</span>
 					</div>
-				<div class="stars-today">⭐ 34268 stars this month</div>
+				<div class="stars-today">⭐ 6050 stars this month</div>
 				</div>
 			</div>
 	
@@ -424,7 +402,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 8124</span>
+						<span>⭐ 8134</span>
 						<span>🔱 703</span>
 					</div>
 				<div class="stars-today">⭐ 3745 stars this month</div>
