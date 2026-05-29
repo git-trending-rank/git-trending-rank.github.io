@@ -6,10 +6,10 @@
         <description>Recent content in Weekly on Git Trending Rank</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en</language>
-        <lastBuildDate>Fri, 29 May 2026 05:59:19 +0000</lastBuildDate><atom:link href="https://git-trending-rank.github.io/categories/weekly/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Fri, 29 May 2026 10:59:28 +0000</lastBuildDate><atom:link href="https://git-trending-rank.github.io/categories/weekly/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>GitHub 趋势 2026年第22周</title>
         <link>https://git-trending-rank.github.io/post/trending-weekly-2026%E5%B9%B4%E7%AC%AC22%E5%91%A8/</link>
-        <pubDate>Fri, 29 May 2026 05:59:19 +0000</pubDate>
+        <pubDate>Fri, 29 May 2026 10:59:28 +0000</pubDate>
         
         <guid>https://git-trending-rank.github.io/post/trending-weekly-2026%E5%B9%B4%E7%AC%AC22%E5%91%A8/</guid>
         <description>&lt;link rel=&#34;stylesheet&#34; href=&#34;https://git-trending-rank.github.io/public/css/trending.css&#34;&gt;
@@ -33,76 +33,10 @@
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;div&gt;
 						&lt;span&gt;🔠 TypeScript&lt;/span&gt;
-						&lt;span&gt;⭐ 43298&lt;/span&gt;
-						&lt;span&gt;🔱 3463&lt;/span&gt;
+						&lt;span&gt;⭐ 43808&lt;/span&gt;
+						&lt;span&gt;🔱 3497&lt;/span&gt;
 					&lt;/div&gt;
 				&lt;div class=&#34;stars-today&#34;&gt;⭐ 26212 stars this week&lt;/div&gt;
-				&lt;/div&gt;
-			&lt;/div&gt;
-	
-			&lt;div class=&#34;repo-card&#34;&gt;
-				&lt;p&gt;&lt;a href=&#34;https://github.com/colbymchenry/codegraph&#34; target=&#34;_blank&#34;&gt;
-    
-
-
-      
-        colbymchenry /
-
-      codegraph&lt;/a&gt;&lt;/p&gt;
-				&lt;p&gt;
-      Pre-indexed code knowledge graph for Claude Code, Codex, Gemini, Cursor, OpenCode, AntiGravity, Kiro, and Hermes Agent — fewer tokens, fewer tool calls, 100% local
-    &lt;/p&gt;
-				&lt;div class=&#34;repo-stats&#34;&gt;
-					&lt;div&gt;
-						&lt;span&gt;🔠 TypeScript&lt;/span&gt;
-						&lt;span&gt;⭐ 32186&lt;/span&gt;
-						&lt;span&gt;🔱 1915&lt;/span&gt;
-					&lt;/div&gt;
-				&lt;div class=&#34;stars-today&#34;&gt;⭐ 19128 stars this week&lt;/div&gt;
-				&lt;/div&gt;
-			&lt;/div&gt;
-	
-			&lt;div class=&#34;repo-card&#34;&gt;
-				&lt;p&gt;&lt;a href=&#34;https://github.com/rohitg00/ai-engineering-from-scratch&#34; target=&#34;_blank&#34;&gt;
-    
-
-
-      
-        rohitg00 /
-
-      ai-engineering-from-scratch&lt;/a&gt;&lt;/p&gt;
-				&lt;p&gt;
-      Learn it. Build it. Ship it for others.
-    &lt;/p&gt;
-				&lt;div class=&#34;repo-stats&#34;&gt;
-					&lt;div&gt;
-						&lt;span&gt;🔠 Python&lt;/span&gt;
-						&lt;span&gt;⭐ 24081&lt;/span&gt;
-						&lt;span&gt;🔱 3902&lt;/span&gt;
-					&lt;/div&gt;
-				&lt;div class=&#34;stars-today&#34;&gt;⭐ 13159 stars this week&lt;/div&gt;
-				&lt;/div&gt;
-			&lt;/div&gt;
-	
-			&lt;div class=&#34;repo-card&#34;&gt;
-				&lt;p&gt;&lt;a href=&#34;https://github.com/anthropics/knowledge-work-plugins&#34; target=&#34;_blank&#34;&gt;
-    
-
-
-      
-        anthropics /
-
-      knowledge-work-plugins&lt;/a&gt;&lt;/p&gt;
-				&lt;p&gt;
-      Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork
-    &lt;/p&gt;
-				&lt;div class=&#34;repo-stats&#34;&gt;
-					&lt;div&gt;
-						&lt;span&gt;🔠 Python&lt;/span&gt;
-						&lt;span&gt;⭐ 17815&lt;/span&gt;
-						&lt;span&gt;🔱 2089&lt;/span&gt;
-					&lt;/div&gt;
-				&lt;div class=&#34;stars-today&#34;&gt;⭐ 5282 stars this week&lt;/div&gt;
 				&lt;/div&gt;
 			&lt;/div&gt;
 	
@@ -121,32 +55,76 @@
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;div&gt;
 						&lt;span&gt;🔠 Python&lt;/span&gt;
-						&lt;span&gt;⭐ 67249&lt;/span&gt;
-						&lt;span&gt;🔱 9720&lt;/span&gt;
+						&lt;span&gt;⭐ 68244&lt;/span&gt;
+						&lt;span&gt;🔱 9862&lt;/span&gt;
 					&lt;/div&gt;
 				&lt;div class=&#34;stars-today&#34;&gt;⭐ 7948 stars this week&lt;/div&gt;
 				&lt;/div&gt;
 			&lt;/div&gt;
 	
 			&lt;div class=&#34;repo-card&#34;&gt;
-				&lt;p&gt;&lt;a href=&#34;https://github.com/presenton/presenton&#34; target=&#34;_blank&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/rohitg00/ai-engineering-from-scratch&#34; target=&#34;_blank&#34;&gt;
     
 
 
       
-        presenton /
+        rohitg00 /
 
-      presenton&lt;/a&gt;&lt;/p&gt;
+      ai-engineering-from-scratch&lt;/a&gt;&lt;/p&gt;
 				&lt;p&gt;
-      Open-Source AI Presentation Generator and API (Gamma, Beautiful AI, Decktopus Alternative)
+      Learn it. Build it. Ship it for others.
+    &lt;/p&gt;
+				&lt;div class=&#34;repo-stats&#34;&gt;
+					&lt;div&gt;
+						&lt;span&gt;🔠 Python&lt;/span&gt;
+						&lt;span&gt;⭐ 24274&lt;/span&gt;
+						&lt;span&gt;🔱 3936&lt;/span&gt;
+					&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 13159 stars this week&lt;/div&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+	
+			&lt;div class=&#34;repo-card&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/colbymchenry/codegraph&#34; target=&#34;_blank&#34;&gt;
+    
+
+
+      
+        colbymchenry /
+
+      codegraph&lt;/a&gt;&lt;/p&gt;
+				&lt;p&gt;
+      Pre-indexed code knowledge graph for Claude Code, Codex, Gemini, Cursor, OpenCode, AntiGravity, Kiro, and Hermes Agent — fewer tokens, fewer tool calls, 100% local
     &lt;/p&gt;
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;div&gt;
 						&lt;span&gt;🔠 TypeScript&lt;/span&gt;
-						&lt;span&gt;⭐ 7342&lt;/span&gt;
-						&lt;span&gt;🔱 1185&lt;/span&gt;
+						&lt;span&gt;⭐ 32673&lt;/span&gt;
+						&lt;span&gt;🔱 1958&lt;/span&gt;
 					&lt;/div&gt;
-				&lt;div class=&#34;stars-today&#34;&gt;⭐ 1740 stars this week&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 19128 stars this week&lt;/div&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+	
+			&lt;div class=&#34;repo-card&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/anthropics/knowledge-work-plugins&#34; target=&#34;_blank&#34;&gt;
+    
+
+
+      
+        anthropics /
+
+      knowledge-work-plugins&lt;/a&gt;&lt;/p&gt;
+				&lt;p&gt;
+      Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork
+    &lt;/p&gt;
+				&lt;div class=&#34;repo-stats&#34;&gt;
+					&lt;div&gt;
+						&lt;span&gt;🔠 Python&lt;/span&gt;
+						&lt;span&gt;⭐ 17937&lt;/span&gt;
+						&lt;span&gt;🔱 2104&lt;/span&gt;
+					&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 5282 stars this week&lt;/div&gt;
 				&lt;/div&gt;
 			&lt;/div&gt;
 	
@@ -165,98 +143,10 @@
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;div&gt;
 						&lt;span&gt;🔠 &lt;/span&gt;
-						&lt;span&gt;⭐ 6561&lt;/span&gt;
-						&lt;span&gt;🔱 475&lt;/span&gt;
+						&lt;span&gt;⭐ 6684&lt;/span&gt;
+						&lt;span&gt;🔱 477&lt;/span&gt;
 					&lt;/div&gt;
 				&lt;div class=&#34;stars-today&#34;&gt;⭐ 2486 stars this week&lt;/div&gt;
-				&lt;/div&gt;
-			&lt;/div&gt;
-	
-			&lt;div class=&#34;repo-card&#34;&gt;
-				&lt;p&gt;&lt;a href=&#34;https://github.com/ruvnet/RuView&#34; target=&#34;_blank&#34;&gt;
-    
-
-
-      
-        ruvnet /
-
-      RuView&lt;/a&gt;&lt;/p&gt;
-				&lt;p&gt;
-      π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.
-    &lt;/p&gt;
-				&lt;div class=&#34;repo-stats&#34;&gt;
-					&lt;div&gt;
-						&lt;span&gt;🔠 Rust&lt;/span&gt;
-						&lt;span&gt;⭐ 67603&lt;/span&gt;
-						&lt;span&gt;🔱 8967&lt;/span&gt;
-					&lt;/div&gt;
-				&lt;div class=&#34;stars-today&#34;&gt;⭐ 4690 stars this week&lt;/div&gt;
-				&lt;/div&gt;
-			&lt;/div&gt;
-	
-			&lt;div class=&#34;repo-card&#34;&gt;
-				&lt;p&gt;&lt;a href=&#34;https://github.com/mukul975/Anthropic-Cybersecurity-Skills&#34; target=&#34;_blank&#34;&gt;
-    
-
-
-      
-        mukul975 /
-
-      Anthropic-Cybersecurity-Skills&lt;/a&gt;&lt;/p&gt;
-				&lt;p&gt;
-      754 structured cybersecurity skills for AI agents · Mapped to 5 frameworks: MITRE ATT&amp;CK, NIST CSF 2.0, MITRE ATLAS, D3FEND &amp; NIST AI RMF · agentskills.io standard · Works with Claude Code, GitHub Copilot, Codex CLI, Cursor, Gemini CLI &amp; 20+ platforms · 26 security domains · Apache 2.0
-    &lt;/p&gt;
-				&lt;div class=&#34;repo-stats&#34;&gt;
-					&lt;div&gt;
-						&lt;span&gt;🔠 Python&lt;/span&gt;
-						&lt;span&gt;⭐ 11673&lt;/span&gt;
-						&lt;span&gt;🔱 1308&lt;/span&gt;
-					&lt;/div&gt;
-				&lt;div class=&#34;stars-today&#34;&gt;⭐ 4904 stars this week&lt;/div&gt;
-				&lt;/div&gt;
-			&lt;/div&gt;
-	
-			&lt;div class=&#34;repo-card&#34;&gt;
-				&lt;p&gt;&lt;a href=&#34;https://github.com/cursor/plugins&#34; target=&#34;_blank&#34;&gt;
-    
-
-
-      
-        cursor /
-
-      plugins&lt;/a&gt;&lt;/p&gt;
-				&lt;p&gt;
-      Cursor plugin specification and official plugins
-    &lt;/p&gt;
-				&lt;div class=&#34;repo-stats&#34;&gt;
-					&lt;div&gt;
-						&lt;span&gt;🔠 TypeScript&lt;/span&gt;
-						&lt;span&gt;⭐ 1126&lt;/span&gt;
-						&lt;span&gt;🔱 103&lt;/span&gt;
-					&lt;/div&gt;
-				&lt;div class=&#34;stars-today&#34;&gt;⭐ 629 stars this week&lt;/div&gt;
-				&lt;/div&gt;
-			&lt;/div&gt;
-	
-			&lt;div class=&#34;repo-card&#34;&gt;
-				&lt;p&gt;&lt;a href=&#34;https://github.com/HKUDS/ViMax&#34; target=&#34;_blank&#34;&gt;
-    
-
-
-      
-        HKUDS /
-
-      ViMax&lt;/a&gt;&lt;/p&gt;
-				&lt;p&gt;
-      &#34;ViMax: Agentic Video Generation (Director, Screenwriter, Producer, and Video Generator All-in-One)&#34;
-    &lt;/p&gt;
-				&lt;div class=&#34;repo-stats&#34;&gt;
-					&lt;div&gt;
-						&lt;span&gt;🔠 Python&lt;/span&gt;
-						&lt;span&gt;⭐ 8149&lt;/span&gt;
-						&lt;span&gt;🔱 1260&lt;/span&gt;
-					&lt;/div&gt;
-				&lt;div class=&#34;stars-today&#34;&gt;⭐ 1636 stars this week&lt;/div&gt;
 				&lt;/div&gt;
 			&lt;/div&gt;
 	
@@ -275,54 +165,32 @@
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;div&gt;
 						&lt;span&gt;🔠 Python&lt;/span&gt;
-						&lt;span&gt;⭐ 28477&lt;/span&gt;
-						&lt;span&gt;🔱 3032&lt;/span&gt;
+						&lt;span&gt;⭐ 28523&lt;/span&gt;
+						&lt;span&gt;🔱 3042&lt;/span&gt;
 					&lt;/div&gt;
 				&lt;div class=&#34;stars-today&#34;&gt;⭐ 6953 stars this week&lt;/div&gt;
 				&lt;/div&gt;
 			&lt;/div&gt;
 	
 			&lt;div class=&#34;repo-card&#34;&gt;
-				&lt;p&gt;&lt;a href=&#34;https://github.com/can1357/oh-my-pi&#34; target=&#34;_blank&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/mukul975/Anthropic-Cybersecurity-Skills&#34; target=&#34;_blank&#34;&gt;
     
 
 
       
-        can1357 /
+        mukul975 /
 
-      oh-my-pi&lt;/a&gt;&lt;/p&gt;
+      Anthropic-Cybersecurity-Skills&lt;/a&gt;&lt;/p&gt;
 				&lt;p&gt;
-      ⌥ AI Coding agent for the terminal — hash-anchored edits, optimized tool harness, LSP, Python, browser, subagents, and more
-    &lt;/p&gt;
-				&lt;div class=&#34;repo-stats&#34;&gt;
-					&lt;div&gt;
-						&lt;span&gt;🔠 TypeScript&lt;/span&gt;
-						&lt;span&gt;⭐ 8304&lt;/span&gt;
-						&lt;span&gt;🔱 671&lt;/span&gt;
-					&lt;/div&gt;
-				&lt;div class=&#34;stars-today&#34;&gt;⭐ 2496 stars this week&lt;/div&gt;
-				&lt;/div&gt;
-			&lt;/div&gt;
-	
-			&lt;div class=&#34;repo-card&#34;&gt;
-				&lt;p&gt;&lt;a href=&#34;https://github.com/dograh-hq/dograh&#34; target=&#34;_blank&#34;&gt;
-    
-
-
-      
-        dograh-hq /
-
-      dograh&lt;/a&gt;&lt;/p&gt;
-				&lt;p&gt;
-      Open source voice AI platform. Self-hosted alternative to Vapi and Retell. On Prem, BYOK across Speech to Speech or LLM/STT/TTS, with a visual workflow builder, MCP native and telephony support.
+      754 structured cybersecurity skills for AI agents · Mapped to 5 frameworks: MITRE ATT&amp;CK, NIST CSF 2.0, MITRE ATLAS, D3FEND &amp; NIST AI RMF · agentskills.io standard · Works with Claude Code, GitHub Copilot, Codex CLI, Cursor, Gemini CLI &amp; 20+ platforms · 26 security domains · Apache 2.0
     &lt;/p&gt;
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;div&gt;
 						&lt;span&gt;🔠 Python&lt;/span&gt;
-						&lt;span&gt;⭐ 3593&lt;/span&gt;
-						&lt;span&gt;🔱 756&lt;/span&gt;
+						&lt;span&gt;⭐ 11794&lt;/span&gt;
+						&lt;span&gt;🔱 1328&lt;/span&gt;
 					&lt;/div&gt;
-				&lt;div class=&#34;stars-today&#34;&gt;⭐ 1062 stars this week&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 4904 stars this week&lt;/div&gt;
 				&lt;/div&gt;
 			&lt;/div&gt;
 	
@@ -341,32 +209,98 @@
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;div&gt;
 						&lt;span&gt;🔠 Shell&lt;/span&gt;
-						&lt;span&gt;⭐ 26918&lt;/span&gt;
-						&lt;span&gt;🔱 2010&lt;/span&gt;
+						&lt;span&gt;⭐ 27389&lt;/span&gt;
+						&lt;span&gt;🔱 2035&lt;/span&gt;
 					&lt;/div&gt;
 				&lt;div class=&#34;stars-today&#34;&gt;⭐ 7268 stars this week&lt;/div&gt;
 				&lt;/div&gt;
 			&lt;/div&gt;
 	
 			&lt;div class=&#34;repo-card&#34;&gt;
-				&lt;p&gt;&lt;a href=&#34;https://github.com/Imbad0202/academic-research-skills&#34; target=&#34;_blank&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/presenton/presenton&#34; target=&#34;_blank&#34;&gt;
     
 
 
       
-        Imbad0202 /
+        presenton /
 
-      academic-research-skills&lt;/a&gt;&lt;/p&gt;
+      presenton&lt;/a&gt;&lt;/p&gt;
 				&lt;p&gt;
-      Academic Research Skills for Claude Code: research → write → review → revise → finalize
+      Open-Source AI Presentation Generator and API (Gamma, Beautiful AI, Decktopus Alternative)
+    &lt;/p&gt;
+				&lt;div class=&#34;repo-stats&#34;&gt;
+					&lt;div&gt;
+						&lt;span&gt;🔠 TypeScript&lt;/span&gt;
+						&lt;span&gt;⭐ 7389&lt;/span&gt;
+						&lt;span&gt;🔱 1188&lt;/span&gt;
+					&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 1740 stars this week&lt;/div&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+	
+			&lt;div class=&#34;repo-card&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/dograh-hq/dograh&#34; target=&#34;_blank&#34;&gt;
+    
+
+
+      
+        dograh-hq /
+
+      dograh&lt;/a&gt;&lt;/p&gt;
+				&lt;p&gt;
+      Open source voice AI platform. Self-hosted alternative to Vapi and Retell. On Prem, BYOK across Speech to Speech or LLM/STT/TTS, with a visual workflow builder, MCP native and telephony support.
     &lt;/p&gt;
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;div&gt;
 						&lt;span&gt;🔠 Python&lt;/span&gt;
-						&lt;span&gt;⭐ 23511&lt;/span&gt;
-						&lt;span&gt;🔱 1964&lt;/span&gt;
+						&lt;span&gt;⭐ 3628&lt;/span&gt;
+						&lt;span&gt;🔱 759&lt;/span&gt;
 					&lt;/div&gt;
-				&lt;div class=&#34;stars-today&#34;&gt;⭐ 5513 stars this week&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 1062 stars this week&lt;/div&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+	
+			&lt;div class=&#34;repo-card&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/can1357/oh-my-pi&#34; target=&#34;_blank&#34;&gt;
+    
+
+
+      
+        can1357 /
+
+      oh-my-pi&lt;/a&gt;&lt;/p&gt;
+				&lt;p&gt;
+      ⌥ AI Coding agent for the terminal — hash-anchored edits, optimized tool harness, LSP, Python, browser, subagents, and more
+    &lt;/p&gt;
+				&lt;div class=&#34;repo-stats&#34;&gt;
+					&lt;div&gt;
+						&lt;span&gt;🔠 TypeScript&lt;/span&gt;
+						&lt;span&gt;⭐ 8367&lt;/span&gt;
+						&lt;span&gt;🔱 673&lt;/span&gt;
+					&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 2496 stars this week&lt;/div&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+	
+			&lt;div class=&#34;repo-card&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/cursor/plugins&#34; target=&#34;_blank&#34;&gt;
+    
+
+
+      
+        cursor /
+
+      plugins&lt;/a&gt;&lt;/p&gt;
+				&lt;p&gt;
+      Cursor plugin specification and official plugins
+    &lt;/p&gt;
+				&lt;div class=&#34;repo-stats&#34;&gt;
+					&lt;div&gt;
+						&lt;span&gt;🔠 TypeScript&lt;/span&gt;
+						&lt;span&gt;⭐ 1148&lt;/span&gt;
+						&lt;span&gt;🔱 105&lt;/span&gt;
+					&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 629 stars this week&lt;/div&gt;
 				&lt;/div&gt;
 			&lt;/div&gt;
 	
@@ -385,32 +319,32 @@
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;div&gt;
 						&lt;span&gt;🔠 Python&lt;/span&gt;
-						&lt;span&gt;⭐ 3220&lt;/span&gt;
-						&lt;span&gt;🔱 481&lt;/span&gt;
+						&lt;span&gt;⭐ 3262&lt;/span&gt;
+						&lt;span&gt;🔱 483&lt;/span&gt;
 					&lt;/div&gt;
 				&lt;div class=&#34;stars-today&#34;&gt;⭐ 1375 stars this week&lt;/div&gt;
 				&lt;/div&gt;
 			&lt;/div&gt;
 	
 			&lt;div class=&#34;repo-card&#34;&gt;
-				&lt;p&gt;&lt;a href=&#34;https://github.com/rmyndharis/OpenWA&#34; target=&#34;_blank&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/affaan-m/ECC&#34; target=&#34;_blank&#34;&gt;
     
 
 
       
-        rmyndharis /
+        affaan-m /
 
-      OpenWA&lt;/a&gt;&lt;/p&gt;
+      ECC&lt;/a&gt;&lt;/p&gt;
 				&lt;p&gt;
-      Free, Open Source, Self-Hosted WhatsApp API Gateway
+      The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.
     &lt;/p&gt;
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;div&gt;
-						&lt;span&gt;🔠 TypeScript&lt;/span&gt;
-						&lt;span&gt;⭐ 6906&lt;/span&gt;
-						&lt;span&gt;🔱 1423&lt;/span&gt;
+						&lt;span&gt;🔠 JavaScript&lt;/span&gt;
+						&lt;span&gt;⭐ 198001&lt;/span&gt;
+						&lt;span&gt;🔱 30436&lt;/span&gt;
 					&lt;/div&gt;
-				&lt;div class=&#34;stars-today&#34;&gt;⭐ 1605 stars this week&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 9363 stars this week&lt;/div&gt;
 				&lt;/div&gt;
 			&lt;/div&gt;
 	
@@ -429,32 +363,32 @@
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;div&gt;
 						&lt;span&gt;🔠 Python&lt;/span&gt;
-						&lt;span&gt;⭐ 22324&lt;/span&gt;
-						&lt;span&gt;🔱 2372&lt;/span&gt;
+						&lt;span&gt;⭐ 22351&lt;/span&gt;
+						&lt;span&gt;🔱 2374&lt;/span&gt;
 					&lt;/div&gt;
 				&lt;div class=&#34;stars-today&#34;&gt;⭐ 1157 stars this week&lt;/div&gt;
 				&lt;/div&gt;
 			&lt;/div&gt;
 	
 			&lt;div class=&#34;repo-card&#34;&gt;
-				&lt;p&gt;&lt;a href=&#34;https://github.com/Chachamaru127/claude-code-harness&#34; target=&#34;_blank&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/ruvnet/RuView&#34; target=&#34;_blank&#34;&gt;
     
 
 
       
-        Chachamaru127 /
+        ruvnet /
 
-      claude-code-harness&lt;/a&gt;&lt;/p&gt;
+      RuView&lt;/a&gt;&lt;/p&gt;
 				&lt;p&gt;
-      Claude Code Dedicated Development Harness - Achieving High-Quality Development Through an Autonomous Plan→Work→Review Cycle
+      π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.
     &lt;/p&gt;
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;div&gt;
-						&lt;span&gt;🔠 Shell&lt;/span&gt;
-						&lt;span&gt;⭐ 2142&lt;/span&gt;
-						&lt;span&gt;🔱 220&lt;/span&gt;
+						&lt;span&gt;🔠 Rust&lt;/span&gt;
+						&lt;span&gt;⭐ 67795&lt;/span&gt;
+						&lt;span&gt;🔱 9000&lt;/span&gt;
 					&lt;/div&gt;
-				&lt;div class=&#34;stars-today&#34;&gt;⭐ 907 stars this week&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 4690 stars this week&lt;/div&gt;
 				&lt;/div&gt;
 			&lt;/div&gt;
 	
@@ -473,10 +407,32 @@
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;div&gt;
 						&lt;span&gt;🔠 Go&lt;/span&gt;
-						&lt;span&gt;⭐ 2394&lt;/span&gt;
-						&lt;span&gt;🔱 178&lt;/span&gt;
+						&lt;span&gt;⭐ 2465&lt;/span&gt;
+						&lt;span&gt;🔱 180&lt;/span&gt;
 					&lt;/div&gt;
 				&lt;div class=&#34;stars-today&#34;&gt;⭐ 983 stars this week&lt;/div&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+	
+			&lt;div class=&#34;repo-card&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/HKUDS/ViMax&#34; target=&#34;_blank&#34;&gt;
+    
+
+
+      
+        HKUDS /
+
+      ViMax&lt;/a&gt;&lt;/p&gt;
+				&lt;p&gt;
+      &#34;ViMax: Agentic Video Generation (Director, Screenwriter, Producer, and Video Generator All-in-One)&#34;
+    &lt;/p&gt;
+				&lt;div class=&#34;repo-stats&#34;&gt;
+					&lt;div&gt;
+						&lt;span&gt;🔠 Python&lt;/span&gt;
+						&lt;span&gt;⭐ 8205&lt;/span&gt;
+						&lt;span&gt;🔱 1267&lt;/span&gt;
+					&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 1636 stars this week&lt;/div&gt;
 				&lt;/div&gt;
 			&lt;/div&gt;
 	
