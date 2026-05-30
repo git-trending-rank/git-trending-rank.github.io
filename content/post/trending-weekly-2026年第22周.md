@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2026年第22周
-date: 2026-05-30T12:53:26Z
+date: 2026-05-30T14:56:15Z
 categories:
 - weekly
 keywords:
@@ -14,28 +14,6 @@ keywords:
 	<main class="container">
         <div class="repo-list" id="repoList">
 
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/Lum1104/Understand-Anything" target="_blank">
-    
-
-
-      
-        Lum1104 /
-
-      Understand-Anything</a></p>
-				<p>
-      Graphs that teach > graphs that impress. Turn any code into an interactive knowledge graph you can explore, search, and ask questions about. Works with Claude Code, Codex, Cursor, Copilot, Gemini CLI, and more.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 45294</span>
-						<span>🔱 3639</span>
-					</div>
-				<div class="stars-today">⭐ 26685 stars this week</div>
-				</div>
-			</div>
 	
 			<div class="repo-card">
 				<p><a href="https://github.com/harry0703/MoneyPrinterTurbo" target="_blank">
@@ -52,10 +30,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 71199</span>
-						<span>🔱 10239</span>
+						<span>⭐ 71425</span>
+						<span>🔱 10260</span>
 					</div>
 				<div class="stars-today">⭐ 11147 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/Lum1104/Understand-Anything" target="_blank">
+    
+
+
+      
+        Lum1104 /
+
+      Understand-Anything</a></p>
+				<p>
+      Graphs that teach > graphs that impress. Turn any code into an interactive knowledge graph you can explore, search, and ask questions about. Works with Claude Code, Codex, Cursor, Copilot, Gemini CLI, and more.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 45493</span>
+						<span>🔱 3654</span>
+					</div>
+				<div class="stars-today">⭐ 26685 stars this week</div>
 				</div>
 			</div>
 	
@@ -74,32 +74,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 24917</span>
-						<span>🔱 4040</span>
+						<span>⭐ 24974</span>
+						<span>🔱 4055</span>
 					</div>
 				<div class="stars-today">⭐ 13139 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/colbymchenry/codegraph" target="_blank">
-    
-
-
-      
-        colbymchenry /
-
-      codegraph</a></p>
-				<p>
-      Pre-indexed code knowledge graph for Claude Code, Codex, Gemini, Cursor, OpenCode, AntiGravity, Kiro, and Hermes Agent — fewer tokens, fewer tool calls, 100% local
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 33901</span>
-						<span>🔱 2065</span>
-					</div>
-				<div class="stars-today">⭐ 17309 stars this week</div>
 				</div>
 			</div>
 	
@@ -118,10 +96,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 18146</span>
-						<span>🔱 2135</span>
+						<span>⭐ 18170</span>
+						<span>🔱 2137</span>
 					</div>
 				<div class="stars-today">⭐ 5586 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/colbymchenry/codegraph" target="_blank">
+    
+
+
+      
+        colbymchenry /
+
+      codegraph</a></p>
+				<p>
+      Pre-indexed code knowledge graph for Claude Code, Codex, Gemini, Cursor, OpenCode, AntiGravity, Kiro, and Hermes Agent — fewer tokens, fewer tool calls, 100% local
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 34020</span>
+						<span>🔱 2074</span>
+					</div>
+				<div class="stars-today">⭐ 17309 stars this week</div>
 				</div>
 			</div>
 	
@@ -140,32 +140,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 </span>
-						<span>⭐ 7242</span>
-						<span>🔱 507</span>
+						<span>⭐ 7282</span>
+						<span>🔱 511</span>
 					</div>
 				<div class="stars-today">⭐ 3018 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/anthropics/claude-plugins-official" target="_blank">
-    
-
-
-      
-        anthropics /
-
-      claude-plugins-official</a></p>
-				<p>
-      Official, Anthropic-managed directory of high quality Claude Code Plugins.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 28670</span>
-						<span>🔱 3058</span>
-					</div>
-				<div class="stars-today">⭐ 4858 stars this week</div>
 				</div>
 			</div>
 	
@@ -184,8 +162,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 12340</span>
-						<span>🔱 1423</span>
+						<span>⭐ 12374</span>
+						<span>🔱 1429</span>
 					</div>
 				<div class="stars-today">⭐ 5241 stars this week</div>
 				</div>
@@ -206,76 +184,76 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Shell</span>
-						<span>⭐ 28798</span>
-						<span>🔱 2124</span>
+						<span>⭐ 28865</span>
+						<span>🔱 2132</span>
 					</div>
 				<div class="stars-today">⭐ 8999 stars this week</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/presenton/presenton" target="_blank">
+				<p><a href="https://github.com/microsoft/markitdown" target="_blank">
     
 
 
       
-        presenton /
+        microsoft /
 
-      presenton</a></p>
+      markitdown</a></p>
 				<p>
-      Open-Source AI Presentation Generator and API (Gamma, Beautiful AI, Decktopus Alternative)
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 7552</span>
-						<span>🔱 1207</span>
-					</div>
-				<div class="stars-today">⭐ 1603 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/dograh-hq/dograh" target="_blank">
-    
-
-
-      
-        dograh-hq /
-
-      dograh</a></p>
-				<p>
-      Open source voice AI platform. Self-hosted alternative to Vapi and Retell. On Prem, BYOK across Speech to Speech or LLM/STT/TTS, with a visual workflow builder, MCP native and telephony support.
+      Python tool for converting files and office documents to Markdown.
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 3782</span>
-						<span>🔱 778</span>
+						<span>⭐ 131369</span>
+						<span>🔱 8997</span>
 					</div>
-				<div class="stars-today">⭐ 1141 stars this week</div>
+				<div class="stars-today">⭐ 4810 stars this week</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/can1357/oh-my-pi" target="_blank">
+				<p><a href="https://github.com/anthropics/claude-plugins-official" target="_blank">
     
 
 
       
-        can1357 /
+        anthropics /
 
-      oh-my-pi</a></p>
+      claude-plugins-official</a></p>
 				<p>
-      ⌥ AI Coding agent for the terminal — hash-anchored edits, optimized tool harness, LSP, Python, browser, subagents, and more
+      Official, Anthropic-managed directory of high quality Claude Code Plugins.
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 8552</span>
-						<span>🔱 687</span>
+						<span>🔠 Python</span>
+						<span>⭐ 28701</span>
+						<span>🔱 3059</span>
 					</div>
-				<div class="stars-today">⭐ 2283 stars this week</div>
+				<div class="stars-today">⭐ 4858 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/affaan-m/ECC" target="_blank">
+    
+
+
+      
+        affaan-m /
+
+      ECC</a></p>
+				<p>
+      The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 JavaScript</span>
+						<span>⭐ 199036</span>
+						<span>🔱 30562</span>
+					</div>
+				<div class="stars-today">⭐ 10239 stars this week</div>
 				</div>
 			</div>
 	
@@ -294,8 +272,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 1373</span>
-						<span>🔱 114</span>
+						<span>⭐ 1389</span>
+						<span>🔱 115</span>
 					</div>
 				<div class="stars-today">⭐ 632 stars this week</div>
 				</div>
@@ -316,7 +294,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 3398</span>
+						<span>⭐ 3407</span>
 						<span>🔱 492</span>
 					</div>
 				<div class="stars-today">⭐ 1463 stars this week</div>
@@ -324,24 +302,90 @@ keywords:
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/affaan-m/ECC" target="_blank">
+				<p><a href="https://github.com/dograh-hq/dograh" target="_blank">
     
 
 
       
-        affaan-m /
+        dograh-hq /
 
-      ECC</a></p>
+      dograh</a></p>
 				<p>
-      The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.
+      Open source voice AI platform. Self-hosted alternative to Vapi and Retell. On Prem, BYOK across Speech to Speech or LLM/STT/TTS, with a visual workflow builder, MCP native and telephony support.
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 JavaScript</span>
-						<span>⭐ 198928</span>
-						<span>🔱 30554</span>
+						<span>🔠 Python</span>
+						<span>⭐ 3797</span>
+						<span>🔱 778</span>
 					</div>
-				<div class="stars-today">⭐ 10239 stars this week</div>
+				<div class="stars-today">⭐ 1141 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/revfactory/harness" target="_blank">
+    
+
+
+      
+        revfactory /
+
+      harness</a></p>
+				<p>
+      A meta-skill that designs domain-specific agent teams, defines specialized agents, and generates the skills they use.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 HTML</span>
+						<span>⭐ 4148</span>
+						<span>🔱 616</span>
+					</div>
+				<div class="stars-today">⭐ 594 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/ogulcancelik/herdr" target="_blank">
+    
+
+
+      
+        ogulcancelik /
+
+      herdr</a></p>
+				<p>
+      agent multiplexer that lives in your terminal.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Rust</span>
+						<span>⭐ 3096</span>
+						<span>🔱 206</span>
+					</div>
+				<div class="stars-today">⭐ 878 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/can1357/oh-my-pi" target="_blank">
+    
+
+
+      
+        can1357 /
+
+      oh-my-pi</a></p>
+				<p>
+      ⌥ AI Coding agent for the terminal — hash-anchored edits, optimized tool harness, LSP, Python, browser, subagents, and more
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 8564</span>
+						<span>🔱 689</span>
+					</div>
+				<div class="stars-today">⭐ 2283 stars this week</div>
 				</div>
 			</div>
 	
@@ -360,7 +404,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 22460</span>
+						<span>⭐ 22469</span>
 						<span>🔱 2381</span>
 					</div>
 				<div class="stars-today">⭐ 1193 stars this week</div>
@@ -368,68 +412,24 @@ keywords:
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/ruvnet/RuView" target="_blank">
+				<p><a href="https://github.com/Chachamaru127/claude-code-harness" target="_blank">
     
 
 
       
-        ruvnet /
+        Chachamaru127 /
 
-      RuView</a></p>
+      claude-code-harness</a></p>
 				<p>
-      π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.
+      Claude Code Dedicated Development Harness - Achieving High-Quality Development Through an Autonomous Plan→Work→Review Cycle
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Rust</span>
-						<span>⭐ 68492</span>
-						<span>🔱 9127</span>
+						<span>🔠 Shell</span>
+						<span>⭐ 2245</span>
+						<span>🔱 224</span>
 					</div>
-				<div class="stars-today">⭐ 4645 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/BenedictKing/ccx" target="_blank">
-    
-
-
-      
-        BenedictKing /
-
-      ccx</a></p>
-				<p>
-      Claude / Codex / Gemini API Proxy - CCX
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Go</span>
-						<span>⭐ 2633</span>
-						<span>🔱 188</span>
-					</div>
-				<div class="stars-today">⭐ 1100 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/HKUDS/ViMax" target="_blank">
-    
-
-
-      
-        HKUDS /
-
-      ViMax</a></p>
-				<p>
-      "ViMax: Agentic Video Generation (Director, Screenwriter, Producer, and Video Generator All-in-One)"
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 8344</span>
-						<span>🔱 1285</span>
-					</div>
-				<div class="stars-today">⭐ 1642 stars this week</div>
+				<div class="stars-today">⭐ 999 stars this week</div>
 				</div>
 			</div>
 	

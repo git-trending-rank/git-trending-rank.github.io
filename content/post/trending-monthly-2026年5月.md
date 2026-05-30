@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2026年5月
-date: 2026-05-30T12:53:26Z
+date: 2026-05-30T14:56:15Z
 categories:
 - monthly
 keywords:
@@ -30,8 +30,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 33901</span>
-						<span>🔱 2065</span>
+						<span>⭐ 34020</span>
+						<span>🔱 2074</span>
 					</div>
 				<div class="stars-today">⭐ 32217 stars this month</div>
 				</div>
@@ -50,8 +50,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 28791</span>
-						<span>🔱 4035</span>
+						<span>⭐ 28806</span>
+						<span>🔱 4037</span>
 					</div>
 				<div class="stars-today">⭐ 20958 stars this month</div>
 				</div>
@@ -72,8 +72,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 22518</span>
-						<span>🔱 1791</span>
+						<span>⭐ 22549</span>
+						<span>🔱 1793</span>
 					</div>
 				<div class="stars-today">⭐ 20907 stars this month</div>
 				</div>
@@ -94,8 +94,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 45294</span>
-						<span>🔱 3639</span>
+						<span>⭐ 45493</span>
+						<span>🔱 3654</span>
 					</div>
 				<div class="stars-today">⭐ 34687 stars this month</div>
 				</div>
@@ -116,32 +116,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 19767</span>
-						<span>🔱 1619</span>
+						<span>⭐ 19814</span>
+						<span>🔱 1620</span>
 					</div>
 				<div class="stars-today">⭐ 17529 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/mattpocock/skills" target="_blank">
-    
-
-
-      
-        mattpocock /
-
-      skills</a></p>
-				<p>
-      Skills for Real Engineers. Straight from my .claude directory.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Shell</span>
-						<span>⭐ 111984</span>
-						<span>🔱 9830</span>
-					</div>
-				<div class="stars-today">⭐ 70213 stars this month</div>
 				</div>
 			</div>
 	
@@ -160,10 +138,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 24292</span>
-						<span>🔱 2016</span>
+						<span>⭐ 24363</span>
+						<span>🔱 2021</span>
 					</div>
 				<div class="stars-today">⭐ 20002 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/mattpocock/skills" target="_blank">
+    
+
+
+      
+        mattpocock /
+
+      skills</a></p>
+				<p>
+      Skills for Real Engineers. Straight from my .claude directory.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Shell</span>
+						<span>⭐ 112087</span>
+						<span>🔱 9838</span>
+					</div>
+				<div class="stars-today">⭐ 70213 stars this month</div>
 				</div>
 			</div>
 	
@@ -182,8 +182,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 24917</span>
-						<span>🔱 4040</span>
+						<span>⭐ 24974</span>
+						<span>🔱 4055</span>
 					</div>
 				<div class="stars-today">⭐ 18870 stars this month</div>
 				</div>
@@ -204,32 +204,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 JavaScript</span>
-						<span>⭐ 15166</span>
-						<span>🔱 2271</span>
+						<span>⭐ 15184</span>
+						<span>🔱 2273</span>
 					</div>
 				<div class="stars-today">⭐ 11758 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/ruvnet/ruflo" target="_blank">
-    
-
-
-      
-        ruvnet /
-
-      ruflo</a></p>
-				<p>
-      🌊 The leading agent orchestration platform for Claude. Deploy intelligent multi-agent swarms, coordinate autonomous workflows, and build conversational AI systems. Features enterprise-grade architecture, self-learning swarm intelligence, RAG integration, and native Claude Code / Codex Integration
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 56538</span>
-						<span>🔱 6437</span>
-					</div>
-				<div class="stars-today">⭐ 22776 stars this month</div>
 				</div>
 			</div>
 	
@@ -248,10 +226,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 17048</span>
-						<span>🔱 2731</span>
+						<span>⭐ 17067</span>
+						<span>🔱 2730</span>
 					</div>
 				<div class="stars-today">⭐ 8037 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/ruvnet/ruflo" target="_blank">
+    
+
+
+      
+        ruvnet /
+
+      ruflo</a></p>
+				<p>
+      🌊 The leading agent orchestration platform for Claude. Deploy intelligent multi-agent swarms, coordinate autonomous workflows, and build conversational AI systems. Features enterprise-grade architecture, self-learning swarm intelligence, RAG integration, and native Claude Code / Codex Integration
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 56572</span>
+						<span>🔱 6440</span>
+					</div>
+				<div class="stars-today">⭐ 22776 stars this month</div>
 				</div>
 			</div>
 	
@@ -270,7 +270,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 35733</span>
+						<span>⭐ 35740</span>
 						<span>🔱 3599</span>
 					</div>
 				<div class="stars-today">⭐ 6236 stars this month</div>
@@ -292,10 +292,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 20528</span>
-						<span>🔱 2878</span>
+						<span>⭐ 20545</span>
+						<span>🔱 2880</span>
 					</div>
 				<div class="stars-today">⭐ 12990 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/multica-ai/andrej-karpathy-skills" target="_blank">
+    
+
+
+      
+        multica-ai /
+
+      andrej-karpathy-skills</a></p>
+				<p>
+      A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 </span>
+						<span>⭐ 162280</span>
+						<span>🔱 16618</span>
+					</div>
+				<div class="stars-today">⭐ 64052 stars this month</div>
 				</div>
 			</div>
 	
@@ -314,7 +336,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 31013</span>
+						<span>⭐ 31029</span>
 						<span>🔱 2220</span>
 					</div>
 				<div class="stars-today">⭐ 11154 stars this month</div>
@@ -336,54 +358,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 80853</span>
-						<span>🔱 15725</span>
+						<span>⭐ 80880</span>
+						<span>🔱 15728</span>
 					</div>
 				<div class="stars-today">⭐ 26500 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/multica-ai/andrej-karpathy-skills" target="_blank">
-    
-
-
-      
-        multica-ai /
-
-      andrej-karpathy-skills</a></p>
-				<p>
-      A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 </span>
-						<span>⭐ 162171</span>
-						<span>🔱 16606</span>
-					</div>
-				<div class="stars-today">⭐ 64052 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/1jehuang/jcode" target="_blank">
-    
-
-
-      
-        1jehuang /
-
-      jcode</a></p>
-				<p>
-      Coding Agent Harness
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Rust</span>
-						<span>⭐ 6737</span>
-						<span>🔱 754</span>
-					</div>
-				<div class="stars-today">⭐ 5723 stars this month</div>
 				</div>
 			</div>
 	
@@ -402,10 +380,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 8186</span>
+						<span>⭐ 8191</span>
 						<span>🔱 706</span>
 					</div>
 				<div class="stars-today">⭐ 3788 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/1jehuang/jcode" target="_blank">
+    
+
+
+      
+        1jehuang /
+
+      jcode</a></p>
+				<p>
+      Coding Agent Harness
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Rust</span>
+						<span>⭐ 6740</span>
+						<span>🔱 755</span>
+					</div>
+				<div class="stars-today">⭐ 5723 stars this month</div>
 				</div>
 			</div>
 	
