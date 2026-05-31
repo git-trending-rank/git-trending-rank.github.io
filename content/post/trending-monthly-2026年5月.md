@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2026年5月
-date: 2026-05-31T10:03:19Z
+date: 2026-05-31T13:02:42Z
 categories:
 - monthly
 keywords:
@@ -30,8 +30,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 34786</span>
-						<span>🔱 2135</span>
+						<span>⭐ 34933</span>
+						<span>🔱 2146</span>
 					</div>
 				<div class="stars-today">⭐ 33455 stars this month</div>
 				</div>
@@ -50,8 +50,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 28942</span>
-						<span>🔱 4056</span>
+						<span>⭐ 28974</span>
+						<span>🔱 4057</span>
 					</div>
 				<div class="stars-today">⭐ 21134 stars this month</div>
 				</div>
@@ -72,32 +72,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 22725</span>
-						<span>🔱 1810</span>
+						<span>⭐ 22761</span>
+						<span>🔱 1812</span>
 					</div>
 				<div class="stars-today">⭐ 21160 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/Lum1104/Understand-Anything" target="_blank">
-    
-
-
-      
-        Lum1104 /
-
-      Understand-Anything</a></p>
-				<p>
-      Graphs that teach > graphs that impress. Turn any code into an interactive knowledge graph you can explore, search, and ask questions about. Works with Claude Code, Codex, Cursor, Copilot, Gemini CLI, and more.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 46476</span>
-						<span>🔱 3768</span>
-					</div>
-				<div class="stars-today">⭐ 36047 stars this month</div>
 				</div>
 			</div>
 	
@@ -116,10 +94,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 20041</span>
-						<span>🔱 1658</span>
+						<span>⭐ 20067</span>
+						<span>🔱 1659</span>
 					</div>
 				<div class="stars-today">⭐ 17789 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/Lum1104/Understand-Anything" target="_blank">
+    
+
+
+      
+        Lum1104 /
+
+      Understand-Anything</a></p>
+				<p>
+      Graphs that teach > graphs that impress. Turn any code into an interactive knowledge graph you can explore, search, and ask questions about. Works with Claude Code, Codex, Cursor, Copilot, Gemini CLI, and more.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 46657</span>
+						<span>🔱 3785</span>
+					</div>
+				<div class="stars-today">⭐ 36047 stars this month</div>
 				</div>
 			</div>
 	
@@ -138,10 +138,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 24789</span>
-						<span>🔱 2042</span>
+						<span>⭐ 24876</span>
+						<span>🔱 2049</span>
 					</div>
 				<div class="stars-today">⭐ 20575 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/HKUDS/ViMax" target="_blank">
+    
+
+
+      
+        HKUDS /
+
+      ViMax</a></p>
+				<p>
+      "ViMax: Agentic Video Generation (Director, Screenwriter, Producer, and Video Generator All-in-One)"
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 8400</span>
+						<span>🔱 1293</span>
+					</div>
+				<div class="stars-today">⭐ 5713 stars this month</div>
 				</div>
 			</div>
 	
@@ -160,8 +182,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Shell</span>
-						<span>⭐ 112648</span>
-						<span>🔱 9895</span>
+						<span>⭐ 112762</span>
+						<span>🔱 9906</span>
 					</div>
 				<div class="stars-today">⭐ 71266 stars this month</div>
 				</div>
@@ -182,8 +204,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 25369</span>
-						<span>🔱 4112</span>
+						<span>⭐ 25426</span>
+						<span>🔱 4124</span>
 					</div>
 				<div class="stars-today">⭐ 19463 stars this month</div>
 				</div>
@@ -204,10 +226,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 JavaScript</span>
-						<span>⭐ 15305</span>
-						<span>🔱 2294</span>
+						<span>⭐ 15319</span>
+						<span>🔱 2297</span>
 					</div>
 				<div class="stars-today">⭐ 11936 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/harry0703/MoneyPrinterTurbo" target="_blank">
+    
+
+
+      
+        harry0703 /
+
+      MoneyPrinterTurbo</a></p>
+				<p>
+      利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 73104</span>
+						<span>🔱 10439</span>
+					</div>
+				<div class="stars-today">⭐ 15379 stars this month</div>
 				</div>
 			</div>
 	
@@ -226,32 +270,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 17156</span>
-						<span>🔱 2737</span>
+						<span>⭐ 17171</span>
+						<span>🔱 2738</span>
 					</div>
 				<div class="stars-today">⭐ 8137 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/ruvnet/ruflo" target="_blank">
-    
-
-
-      
-        ruvnet /
-
-      ruflo</a></p>
-				<p>
-      🌊 The leading agent orchestration platform for Claude. Deploy intelligent multi-agent swarms, coordinate autonomous workflows, and build conversational AI systems. Features enterprise-grade architecture, self-learning swarm intelligence, RAG integration, and native Claude Code / Codex Integration
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 56772</span>
-						<span>🔱 6467</span>
-					</div>
-				<div class="stars-today">⭐ 23037 stars this month</div>
 				</div>
 			</div>
 	
@@ -270,10 +292,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 35777</span>
-						<span>🔱 3600</span>
+						<span>⭐ 35785</span>
+						<span>🔱 3601</span>
 					</div>
 				<div class="stars-today">⭐ 6319 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/ruvnet/ruflo" target="_blank">
+    
+
+
+      
+        ruvnet /
+
+      ruflo</a></p>
+				<p>
+      🌊 The leading agent orchestration platform for Claude. Deploy intelligent multi-agent swarms, coordinate autonomous workflows, and build conversational AI systems. Features enterprise-grade architecture, self-learning swarm intelligence, RAG integration, and native Claude Code / Codex Integration
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 56814</span>
+						<span>🔱 6473</span>
+					</div>
+				<div class="stars-today">⭐ 23037 stars this month</div>
 				</div>
 			</div>
 	
@@ -292,8 +336,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 20631</span>
-						<span>🔱 2894</span>
+						<span>⭐ 20649</span>
+						<span>🔱 2895</span>
 					</div>
 				<div class="stars-today">⭐ 13102 stars this month</div>
 				</div>
@@ -314,98 +358,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 </span>
-						<span>⭐ 162892</span>
-						<span>🔱 16685</span>
+						<span>⭐ 163006</span>
+						<span>🔱 16699</span>
 					</div>
 				<div class="stars-today">⭐ 65076 stars this month</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/soxoj/maigret" target="_blank">
+				<p><a href="https://github.com/ruvnet/RuView" target="_blank">
     
 
 
       
-        soxoj /
+        ruvnet /
 
-      maigret</a></p>
+      RuView</a></p>
 				<p>
-      🕵️‍♂️ Collect a dossier on a person by username from 3000+ sites
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 31126</span>
-						<span>🔱 2227</span>
-					</div>
-				<div class="stars-today">⭐ 11299 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/TauricResearch/TradingAgents" target="_blank">
-    
-
-
-      
-        TauricResearch /
-
-      TradingAgents</a></p>
-				<p>
-      TradingAgents: Multi-Agents LLM Financial Trading Framework
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 81130</span>
-						<span>🔱 15763</span>
-					</div>
-				<div class="stars-today">⭐ 26772 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/LearningCircuit/local-deep-research" target="_blank">
-    
-
-
-      
-        LearningCircuit /
-
-      local-deep-research</a></p>
-				<p>
-       ~95% on SimpleQA (e.g. Qwen3.6-27B on a 3090). Supports all local and cloud LLMs (llama.cpp, Ollama, Google, ...). 10+ search engines - arXiv, PubMed, your private documents. Everything Local & Encrypted.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 8230</span>
-						<span>🔱 706</span>
-					</div>
-				<div class="stars-today">⭐ 3835 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/1jehuang/jcode" target="_blank">
-    
-
-
-      
-        1jehuang /
-
-      jcode</a></p>
-				<p>
-      Coding Agent Harness
+      π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Rust</span>
-						<span>⭐ 6771</span>
-						<span>🔱 754</span>
+						<span>⭐ 69253</span>
+						<span>🔱 9246</span>
 					</div>
-				<div class="stars-today">⭐ 5765 stars this month</div>
+				<div class="stars-today">⭐ 18492 stars this month</div>
 				</div>
 			</div>
 	

@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2026-05-31
-date: 2026-05-31T10:03:20Z
+date: 2026-05-31T13:02:42Z
 categories:
 - daily
 keywords:
@@ -14,28 +14,6 @@ keywords:
 	<main class="container">
         <div class="repo-list" id="repoList">
 
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/microsoft/markitdown" target="_blank">
-    
-
-
-      
-        microsoft /
-
-      markitdown</a></p>
-				<p>
-      Python tool for converting files and office documents to Markdown.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 133487</span>
-						<span>🔱 9130</span>
-					</div>
-				<div class="stars-today">⭐ 2470 stars today</div>
-				</div>
-			</div>
 	
 			<div class="repo-card">
 				<p><a href="https://github.com/harry0703/MoneyPrinterTurbo" target="_blank">
@@ -52,76 +30,76 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 72818</span>
-						<span>🔱 10407</span>
+						<span>⭐ 73104</span>
+						<span>🔱 10439</span>
 					</div>
-				<div class="stars-today">⭐ 2768 stars today</div>
+				<div class="stars-today">⭐ 1937 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/anthropics/claude-code" target="_blank">
+				<p><a href="https://github.com/microsoft/markitdown" target="_blank">
     
 
 
       
-        anthropics /
+        microsoft /
 
-      claude-code</a></p>
+      markitdown</a></p>
 				<p>
-      Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.
+      Python tool for converting files and office documents to Markdown.
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 128578</span>
-						<span>🔱 20962</span>
+						<span>⭐ 133862</span>
+						<span>🔱 9151</span>
 					</div>
-				<div class="stars-today">⭐ 592 stars today</div>
+				<div class="stars-today">⭐ 2759 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/cursor/plugins" target="_blank">
+				<p><a href="https://github.com/D4Vinci/Scrapling" target="_blank">
     
 
 
       
-        cursor /
+        D4Vinci /
 
-      plugins</a></p>
+      Scrapling</a></p>
 				<p>
-      Cursor plugin specification and official plugins
+      🕷️ An adaptive Web Scraping framework that handles everything from a single request to a full-scale crawl!
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 1537</span>
-						<span>🔱 122</span>
+						<span>🔠 Python</span>
+						<span>⭐ 56095</span>
+						<span>🔱 5435</span>
 					</div>
-				<div class="stars-today">⭐ 205 stars today</div>
+				<div class="stars-today">⭐ 639 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/revfactory/harness" target="_blank">
+				<p><a href="https://github.com/nesquena/hermes-webui" target="_blank">
     
 
 
       
-        revfactory /
+        nesquena /
 
-      harness</a></p>
+      hermes-webui</a></p>
 				<p>
-      A meta-skill that designs domain-specific agent teams, defines specialized agents, and generates the skills they use.
+      Hermes WebUI: The best way to use Hermes Agent from the web or from your phone!
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 HTML</span>
-						<span>⭐ 4391</span>
-						<span>🔱 631</span>
+						<span>🔠 Python</span>
+						<span>⭐ 9595</span>
+						<span>🔱 1327</span>
 					</div>
-				<div class="stars-today">⭐ 55 stars today</div>
+				<div class="stars-today">⭐ 320 stars today</div>
 				</div>
 			</div>
 	
@@ -140,32 +118,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 18513</span>
-						<span>🔱 1399</span>
+						<span>⭐ 18550</span>
+						<span>🔱 1402</span>
 					</div>
-				<div class="stars-today">⭐ 349 stars today</div>
+				<div class="stars-today">⭐ 243 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/affaan-m/ECC" target="_blank">
+				<p><a href="https://github.com/github/docs" target="_blank">
     
 
 
       
-        affaan-m /
+        github /
 
-      ECC</a></p>
+      docs</a></p>
 				<p>
-      The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.
+      The open-source repo for docs.github.com
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 JavaScript</span>
-						<span>⭐ 199678</span>
-						<span>🔱 30653</span>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 19601</span>
+						<span>🔱 67273</span>
 					</div>
-				<div class="stars-today">⭐ 908 stars today</div>
+				<div class="stars-today">⭐ 20 stars today</div>
 				</div>
 			</div>
 	
@@ -184,98 +162,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 23041</span>
-						<span>🔱 2693</span>
+						<span>⭐ 23130</span>
+						<span>🔱 2699</span>
 					</div>
 				<div class="stars-today">⭐ 779 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/galilai-group/stable-worldmodel" target="_blank">
+				<p><a href="https://github.com/revfactory/harness" target="_blank">
     
 
 
       
-        galilai-group /
+        revfactory /
 
-      stable-worldmodel</a></p>
+      harness</a></p>
 				<p>
-      A platform for reproducible world model research and evaluation
+      A meta-skill that designs domain-specific agent teams, defines specialized agents, and generates the skills they use.
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 1523</span>
-						<span>🔱 171</span>
+						<span>🔠 HTML</span>
+						<span>⭐ 4438</span>
+						<span>🔱 634</span>
 					</div>
-				<div class="stars-today">⭐ 318 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/Crosstalk-Solutions/project-nomad" target="_blank">
-    
-
-
-      
-        Crosstalk-Solutions /
-
-      project-nomad</a></p>
-				<p>
-      Project N.O.M.A.D, is a self-contained, offline survival computer packed with critical tools, knowledge, and AI to keep you informed and empowered—anytime, anywhere.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 27481</span>
-						<span>🔱 2696</span>
-					</div>
-				<div class="stars-today">⭐ 469 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/run-llama/liteparse" target="_blank">
-    
-
-
-      
-        run-llama /
-
-      liteparse</a></p>
-				<p>
-      A fast, helpful, and open-source document parser
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Rust</span>
-						<span>⭐ 8100</span>
-						<span>🔱 481</span>
-					</div>
-				<div class="stars-today">⭐ 925 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/chen08209/FlClash" target="_blank">
-    
-
-
-      
-        chen08209 /
-
-      FlClash</a></p>
-				<p>
-      A multi-platform proxy client based on ClashMeta,simple and easy to use, open-source and ad-free.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Dart</span>
-						<span>⭐ 40470</span>
-						<span>🔱 2534</span>
-					</div>
-				<div class="stars-today">⭐ 187 stars today</div>
+				<div class="stars-today">⭐ 55 stars today</div>
 				</div>
 			</div>
 	
@@ -294,120 +206,120 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Jupyter Notebook</span>
-						<span>⭐ 2485</span>
-						<span>🔱 392</span>
+						<span>⭐ 2580</span>
+						<span>🔱 401</span>
 					</div>
 				<div class="stars-today">⭐ 327 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/ruvnet/RuView" target="_blank">
+				<p><a href="https://github.com/supermemoryai/supermemory" target="_blank">
     
 
 
       
-        ruvnet /
+        supermemoryai /
 
-      RuView</a></p>
+      supermemory</a></p>
 				<p>
-      π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.
+      Memory engine and app that is extremely fast, scalable. The Memory API for the AI era.
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Rust</span>
-						<span>⭐ 69178</span>
-						<span>🔱 9232</span>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 23065</span>
+						<span>🔱 2088</span>
 					</div>
-				<div class="stars-today">⭐ 655 stars today</div>
+				<div class="stars-today">⭐ 236 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/DataTalksClub/data-engineering-zoomcamp" target="_blank">
+				<p><a href="https://github.com/Crosstalk-Solutions/project-nomad" target="_blank">
     
 
 
       
-        DataTalksClub /
+        Crosstalk-Solutions /
 
-      data-engineering-zoomcamp</a></p>
+      project-nomad</a></p>
 				<p>
-      Data Engineering Zoomcamp is a free 9-week course on building production-ready data pipelines. The next cohort starts in January 2026. Join the course here 👇🏼
+      Project N.O.M.A.D, is a self-contained, offline survival computer packed with critical tools, knowledge, and AI to keep you informed and empowered—anytime, anywhere.
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Jupyter Notebook</span>
-						<span>⭐ 41845</span>
-						<span>🔱 8292</span>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 27521</span>
+						<span>🔱 2699</span>
 					</div>
-				<div class="stars-today">⭐ 274 stars today</div>
+				<div class="stars-today">⭐ 372 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/OpenMOSS/MOSS-TTS" target="_blank">
-    
-
-
-      
-        OpenMOSS /
-
-      MOSS-TTS</a></p>
-				<p>
-      MOSS‑TTS Family is an open‑source speech and sound generation model family from MOSI.AI and the OpenMOSS team. It is designed for high‑fidelity, high‑expressiveness, and complex real‑world scenarios, covering stable long‑form speech, multi‑speaker dialogue, voice/character design, environmental sound effects, and real‑time streaming TTS.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 2726</span>
-						<span>🔱 243</span>
-					</div>
-				<div class="stars-today">⭐ 62 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/dreammis/social-auto-upload" target="_blank">
-    
-
-
-      
-        dreammis /
-
-      social-auto-upload</a></p>
-				<p>
-      自动化上传视频到社交媒体：抖音、小红书、视频号、tiktok、youtube、bilibili
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 11950</span>
-						<span>🔱 2106</span>
-					</div>
-				<div class="stars-today">⭐ 73 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/anthropics/skills" target="_blank">
+				<p><a href="https://github.com/anthropics/claude-code" target="_blank">
     
 
 
       
         anthropics /
 
-      skills</a></p>
+      claude-code</a></p>
 				<p>
-      Public repository for Agent Skills
+      Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 144415</span>
-						<span>🔱 17013</span>
+						<span>⭐ 128638</span>
+						<span>🔱 20970</span>
 					</div>
-				<div class="stars-today">⭐ 454 stars today</div>
+				<div class="stars-today">⭐ 490 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/nicobailon/pi-subagents" target="_blank">
+    
+
+
+      
+        nicobailon /
+
+      pi-subagents</a></p>
+				<p>
+      Pi extension for async subagent delegation with truncation, artifacts, and session sharing
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 1733</span>
+						<span>🔱 248</span>
+					</div>
+				<div class="stars-today">⭐ 59 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/emmabostian/developer-portfolios" target="_blank">
+    
+
+
+      
+        emmabostian /
+
+      developer-portfolios</a></p>
+				<p>
+      A list of developer portfolios for your inspiration
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 23159</span>
+						<span>🔱 4596</span>
+					</div>
+				<div class="stars-today">⭐ 67 stars today</div>
 				</div>
 			</div>
 	
@@ -426,10 +338,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Markdown</span>
-						<span>⭐ 508649</span>
-						<span>🔱 48261</span>
+						<span>⭐ 508842</span>
+						<span>🔱 48273</span>
 					</div>
-				<div class="stars-today">⭐ 817 stars today</div>
+				<div class="stars-today">⭐ 1112 stars today</div>
 				</div>
 			</div>
 	
