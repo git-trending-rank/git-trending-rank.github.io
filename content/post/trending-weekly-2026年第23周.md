@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2026年第23周
-date: 2026-06-01T09:06:10Z
+date: 2026-06-01T15:43:46Z
 categories:
 - weekly
 keywords:
@@ -30,8 +30,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 75914</span>
-						<span>🔱 10781</span>
+						<span>⭐ 76548</span>
+						<span>🔱 10864</span>
 					</div>
 				<div class="stars-today">⭐ 15955 stars this week</div>
 				</div>
@@ -52,76 +52,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 47931</span>
-						<span>🔱 3900</span>
+						<span>⭐ 48493</span>
+						<span>🔱 3935</span>
 					</div>
 				<div class="stars-today">⭐ 22750 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/anthropics/knowledge-work-plugins" target="_blank">
-    
-
-
-      
-        anthropics /
-
-      knowledge-work-plugins</a></p>
-				<p>
-      Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 18523</span>
-						<span>🔱 2179</span>
-					</div>
-				<div class="stars-today">⭐ 4944 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/rohitg00/ai-engineering-from-scratch" target="_blank">
-    
-
-
-      
-        rohitg00 /
-
-      ai-engineering-from-scratch</a></p>
-				<p>
-      Learn it. Build it. Ship it for others.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 26306</span>
-						<span>🔱 4269</span>
-					</div>
-				<div class="stars-today">⭐ 10586 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/hardikpandya/stop-slop" target="_blank">
-    
-
-
-      
-        hardikpandya /
-
-      stop-slop</a></p>
-				<p>
-      A skill file for removing AI tells from prose
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 </span>
-						<span>⭐ 7858</span>
-						<span>🔱 561</span>
-					</div>
-				<div class="stars-today">⭐ 3770 stars this week</div>
 				</div>
 			</div>
 	
@@ -140,10 +74,54 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 136274</span>
-						<span>🔱 9295</span>
+						<span>⭐ 137380</span>
+						<span>🔱 9375</span>
 					</div>
 				<div class="stars-today">⭐ 9353 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/hardikpandya/stop-slop" target="_blank">
+    
+
+
+      
+        hardikpandya /
+
+      stop-slop</a></p>
+				<p>
+      A skill file for removing AI tells from prose
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 </span>
+						<span>⭐ 7938</span>
+						<span>🔱 561</span>
+					</div>
+				<div class="stars-today">⭐ 3770 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/rohitg00/ai-engineering-from-scratch" target="_blank">
+    
+
+
+      
+        rohitg00 /
+
+      ai-engineering-from-scratch</a></p>
+				<p>
+      Learn it. Build it. Ship it for others.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 26582</span>
+						<span>🔱 4316</span>
+					</div>
+				<div class="stars-today">⭐ 10586 stars this week</div>
 				</div>
 			</div>
 	
@@ -162,10 +140,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Shell</span>
-						<span>⭐ 30340</span>
-						<span>🔱 2251</span>
+						<span>⭐ 30703</span>
+						<span>🔱 2277</span>
 					</div>
 				<div class="stars-today">⭐ 10813 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/anthropics/knowledge-work-plugins" target="_blank">
+    
+
+
+      
+        anthropics /
+
+      knowledge-work-plugins</a></p>
+				<p>
+      Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 18591</span>
+						<span>🔱 2185</span>
+					</div>
+				<div class="stars-today">⭐ 4944 stars this week</div>
 				</div>
 			</div>
 	
@@ -184,8 +184,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 36077</span>
-						<span>🔱 2248</span>
+						<span>⭐ 36484</span>
+						<span>🔱 2267</span>
 					</div>
 				<div class="stars-today">⭐ 13925 stars this week</div>
 				</div>
@@ -206,54 +206,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 13077</span>
-						<span>🔱 1529</span>
+						<span>⭐ 13178</span>
+						<span>🔱 1541</span>
 					</div>
 				<div class="stars-today">⭐ 4896 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/affaan-m/ECC" target="_blank">
-    
-
-
-      
-        affaan-m /
-
-      ECC</a></p>
-				<p>
-      The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 JavaScript</span>
-						<span>⭐ 201231</span>
-						<span>🔱 30867</span>
-					</div>
-				<div class="stars-today">⭐ 10473 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/cursor/plugins" target="_blank">
-    
-
-
-      
-        cursor /
-
-      plugins</a></p>
-				<p>
-      Cursor plugin specification and official plugins
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 1634</span>
-						<span>🔱 131</span>
-					</div>
-				<div class="stars-today">⭐ 882 stars this week</div>
 				</div>
 			</div>
 	
@@ -272,10 +228,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 HTML</span>
-						<span>⭐ 4857</span>
-						<span>🔱 667</span>
+						<span>⭐ 5008</span>
+						<span>🔱 682</span>
 					</div>
 				<div class="stars-today">⭐ 957 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/affaan-m/ECC" target="_blank">
+    
+
+
+      
+        affaan-m /
+
+      ECC</a></p>
+				<p>
+      The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 JavaScript</span>
+						<span>⭐ 201742</span>
+						<span>🔱 30946</span>
+					</div>
+				<div class="stars-today">⭐ 10473 stars this week</div>
 				</div>
 			</div>
 	
@@ -294,10 +272,54 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 22834</span>
-						<span>🔱 2444</span>
+						<span>⭐ 22934</span>
+						<span>🔱 2455</span>
 					</div>
 				<div class="stars-today">⭐ 1417 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/cursor/plugins" target="_blank">
+    
+
+
+      
+        cursor /
+
+      plugins</a></p>
+				<p>
+      Cursor plugin specification and official plugins
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 1653</span>
+						<span>🔱 132</span>
+					</div>
+				<div class="stars-today">⭐ 882 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/run-llama/liteparse" target="_blank">
+    
+
+
+      
+        run-llama /
+
+      liteparse</a></p>
+				<p>
+      A fast, helpful, and open-source document parser
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Rust</span>
+						<span>⭐ 8613</span>
+						<span>🔱 511</span>
+					</div>
+				<div class="stars-today">⭐ 3006 stars this week</div>
 				</div>
 			</div>
 	
@@ -316,8 +338,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 3611</span>
-						<span>🔱 515</span>
+						<span>⭐ 3647</span>
+						<span>🔱 519</span>
 					</div>
 				<div class="stars-today">⭐ 1657 stars this week</div>
 				</div>
@@ -338,32 +360,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Shell</span>
-						<span>⭐ 2417</span>
-						<span>🔱 240</span>
+						<span>⭐ 2448</span>
+						<span>🔱 242</span>
 					</div>
 				<div class="stars-today">⭐ 997 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/dograh-hq/dograh" target="_blank">
-    
-
-
-      
-        dograh-hq /
-
-      dograh</a></p>
-				<p>
-      Open source voice AI platform. Self-hosted alternative to Vapi and Retell. On Prem, BYOK across Speech to Speech or LLM/STT/TTS, with a visual workflow builder, MCP native and telephony support.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 4030</span>
-						<span>🔱 803</span>
-					</div>
-				<div class="stars-today">⭐ 1329 stars this week</div>
 				</div>
 			</div>
 	
@@ -382,32 +382,54 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Rust</span>
-						<span>⭐ 3513</span>
-						<span>🔱 227</span>
+						<span>⭐ 3617</span>
+						<span>🔱 231</span>
 					</div>
 				<div class="stars-today">⭐ 1058 stars this week</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/run-llama/liteparse" target="_blank">
+				<p><a href="https://github.com/EveryInc/compound-engineering-plugin" target="_blank">
     
 
 
       
-        run-llama /
+        EveryInc /
 
-      liteparse</a></p>
+      compound-engineering-plugin</a></p>
 				<p>
-      A fast, helpful, and open-source document parser
+      Official Compound Engineering plugin for Claude Code, Codex, Cursor, and more
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Rust</span>
-						<span>⭐ 8507</span>
-						<span>🔱 501</span>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 19010</span>
+						<span>🔱 1424</span>
 					</div>
-				<div class="stars-today">⭐ 3006 stars this week</div>
+				<div class="stars-today">⭐ 1500 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/can1357/oh-my-pi" target="_blank">
+    
+
+
+      
+        can1357 /
+
+      oh-my-pi</a></p>
+				<p>
+      ⌥ AI Coding agent for the terminal — hash-anchored edits, optimized tool harness, LSP, Python, browser, subagents, and more
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 9341</span>
+						<span>🔱 754</span>
+					</div>
+				<div class="stars-today">⭐ 2079 stars this week</div>
 				</div>
 			</div>
 	
@@ -426,8 +448,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Rust</span>
-						<span>⭐ 17410</span>
-						<span>🔱 1142</span>
+						<span>⭐ 17428</span>
+						<span>🔱 1144</span>
 					</div>
 				<div class="stars-today">⭐ 1394 stars this week</div>
 				</div>
