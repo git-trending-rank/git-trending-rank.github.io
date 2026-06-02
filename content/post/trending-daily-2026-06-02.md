@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2026-06-02
-date: 2026-06-02T08:16:18Z
+date: 2026-06-02T13:42:44Z
 categories:
 - daily
 keywords:
@@ -14,6 +14,28 @@ keywords:
 	<main class="container">
         <div class="repo-list" id="repoList">
 
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/chopratejas/headroom" target="_blank">
+    
+
+
+      
+        chopratejas /
+
+      headroom</a></p>
+				<p>
+      Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 60-95% fewer tokens, same answers. Library, proxy, MCP server.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 5014</span>
+						<span>🔱 385</span>
+					</div>
+				<div class="stars-today">⭐ 1266 stars today</div>
+				</div>
+			</div>
 	
 			<div class="repo-card">
 				<p><a href="https://github.com/microsoft/markitdown" target="_blank">
@@ -30,76 +52,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 139644</span>
-						<span>🔱 9503</span>
+						<span>⭐ 140478</span>
+						<span>🔱 9556</span>
 					</div>
-				<div class="stars-today">⭐ 3034 stars today</div>
+				<div class="stars-today">⭐ 3616 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/nesquena/hermes-webui" target="_blank">
+				<p><a href="https://github.com/affaan-m/ECC" target="_blank">
     
 
 
       
-        nesquena /
+        affaan-m /
 
-      hermes-webui</a></p>
+      ECC</a></p>
 				<p>
-      Hermes WebUI: The best way to use Hermes Agent from the web or from your phone!
+      The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 11871</span>
-						<span>🔱 1491</span>
+						<span>🔠 JavaScript</span>
+						<span>⭐ 202983</span>
+						<span>🔱 31133</span>
 					</div>
-				<div class="stars-today">⭐ 945 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/supermemoryai/supermemory" target="_blank">
-    
-
-
-      
-        supermemoryai /
-
-      supermemory</a></p>
-				<p>
-      Memory engine and app that is extremely fast, scalable. The Memory API for the AI era.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 24229</span>
-						<span>🔱 2159</span>
-					</div>
-				<div class="stars-today">⭐ 647 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/harry0703/MoneyPrinterTurbo" target="_blank">
-    
-
-
-      
-        harry0703 /
-
-      MoneyPrinterTurbo</a></p>
-				<p>
-      利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 77370</span>
-						<span>🔱 10981</span>
-					</div>
-				<div class="stars-today">⭐ 3375 stars today</div>
+				<div class="stars-today">⭐ 1842 stars today</div>
 				</div>
 			</div>
 	
@@ -118,164 +96,54 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 58492</span>
-						<span>🔱 5669</span>
+						<span>⭐ 58771</span>
+						<span>🔱 5684</span>
 					</div>
-				<div class="stars-today">⭐ 1486 stars today</div>
+				<div class="stars-today">⭐ 1196 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/pbakaus/impeccable" target="_blank">
+				<p><a href="https://github.com/nesquena/hermes-webui" target="_blank">
     
 
 
       
-        pbakaus /
+        nesquena /
 
-      impeccable</a></p>
+      hermes-webui</a></p>
 				<p>
-      The design language that makes your AI harness better at design.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 JavaScript</span>
-						<span>⭐ 33090</span>
-						<span>🔱 1794</span>
-					</div>
-				<div class="stars-today">⭐ 485 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/p-e-w/heretic" target="_blank">
-    
-
-
-      
-        p-e-w /
-
-      heretic</a></p>
-				<p>
-      Fully automatic censorship removal for language models
+      Hermes WebUI: The best way to use Hermes Agent from the web or from your phone!
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 23165</span>
-						<span>🔱 2474</span>
+						<span>⭐ 12253</span>
+						<span>🔱 1515</span>
 					</div>
-				<div class="stars-today">⭐ 249 stars today</div>
+				<div class="stars-today">⭐ 1725 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/EveryInc/compound-engineering-plugin" target="_blank">
+				<p><a href="https://github.com/reconurge/flowsint" target="_blank">
     
 
 
       
-        EveryInc /
+        reconurge /
 
-      compound-engineering-plugin</a></p>
+      flowsint</a></p>
 				<p>
-      Official Compound Engineering plugin for Claude Code, Codex, Cursor, and more
+      A modern platform for visual, flexible, and extensible graph-based investigations. For cybersecurity analysts and investigators.
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 19232</span>
-						<span>🔱 1433</span>
+						<span>⭐ 4293</span>
+						<span>🔱 569</span>
 					</div>
-				<div class="stars-today">⭐ 417 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/TauricResearch/TradingAgents" target="_blank">
-    
-
-
-      
-        TauricResearch /
-
-      TradingAgents</a></p>
-				<p>
-      TradingAgents: Multi-Agents LLM Financial Trading Framework
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 82046</span>
-						<span>🔱 15940</span>
-					</div>
-				<div class="stars-today">⭐ 299 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/revfactory/harness" target="_blank">
-    
-
-
-      
-        revfactory /
-
-      harness</a></p>
-				<p>
-      A meta-skill that designs domain-specific agent teams, defines specialized agents, and generates the skills they use.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 HTML</span>
-						<span>⭐ 5327</span>
-						<span>🔱 707</span>
-					</div>
-				<div class="stars-today">⭐ 524 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/godotengine/godot" target="_blank">
-    
-
-
-      
-        godotengine /
-
-      godot</a></p>
-				<p>
-      Godot Engine – Multi-platform 2D and 3D game engine
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 C++</span>
-						<span>⭐ 111812</span>
-						<span>🔱 25525</span>
-					</div>
-				<div class="stars-today">⭐ 77 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/can1357/oh-my-pi" target="_blank">
-    
-
-
-      
-        can1357 /
-
-      oh-my-pi</a></p>
-				<p>
-      ⌥ AI Coding agent for the terminal — hash-anchored edits, optimized tool harness, LSP, Python, browser, subagents, and more
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 9694</span>
-						<span>🔱 786</span>
-					</div>
-				<div class="stars-today">⭐ 335 stars today</div>
+				<div class="stars-today">⭐ 319 stars today</div>
 				</div>
 			</div>
 	
@@ -294,32 +162,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 24589</span>
-						<span>🔱 2828</span>
+						<span>⭐ 24808</span>
+						<span>🔱 2850</span>
 					</div>
-				<div class="stars-today">⭐ 888 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/FareedKhan-dev/train-llm-from-scratch" target="_blank">
-    
-
-
-      
-        FareedKhan-dev /
-
-      train-llm-from-scratch</a></p>
-				<p>
-      A straightforward method for training your LLM, from downloading data to generating text.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Jupyter Notebook</span>
-						<span>⭐ 3910</span>
-						<span>🔱 531</span>
-					</div>
-				<div class="stars-today">⭐ 861 stars today</div>
+				<div class="stars-today">⭐ 779 stars today</div>
 				</div>
 			</div>
 	
@@ -338,54 +184,74 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Jupyter Notebook</span>
-						<span>⭐ 18058</span>
-						<span>🔱 5199</span>
+						<span>⭐ 18191</span>
+						<span>🔱 5207</span>
 					</div>
-				<div class="stars-today">⭐ 93 stars today</div>
+				<div class="stars-today">⭐ 570 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/dmtrKovalenko/fff" target="_blank">
+				<p><a href="https://github.com/jamwithai/production-agentic-rag-course" target="_blank">
     
 
 
       
-        dmtrKovalenko /
+        jamwithai /
 
-      fff</a></p>
-				<p>
-      The fastest and the most accurate file search toolkit for AI agents, Neovim, Rust, C, and NodeJS
-    </p>
+      production-agentic-rag-course</a></p>
+				<p></p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Rust</span>
-						<span>⭐ 7317</span>
-						<span>🔱 299</span>
+						<span>🔠 Python</span>
+						<span>⭐ 6236</span>
+						<span>🔱 1477</span>
 					</div>
-				<div class="stars-today">⭐ 135 stars today</div>
+				<div class="stars-today">⭐ 31 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/codecrafters-io/build-your-own-x" target="_blank">
+				<p><a href="https://github.com/supermemoryai/supermemory" target="_blank">
     
 
 
       
-        codecrafters-io /
+        supermemoryai /
 
-      build-your-own-x</a></p>
+      supermemory</a></p>
 				<p>
-      Master programming by recreating your favorite technologies from scratch.
+      Memory engine and app that is extremely fast, scalable. The Memory API for the AI era.
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Markdown</span>
-						<span>⭐ 510727</span>
-						<span>🔱 48423</span>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 24392</span>
+						<span>🔱 2164</span>
 					</div>
-				<div class="stars-today">⭐ 1212 stars today</div>
+				<div class="stars-today">⭐ 677 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/Open-LLM-VTuber/Open-LLM-VTuber" target="_blank">
+    
+
+
+      
+        Open-LLM-VTuber /
+
+      Open-LLM-VTuber</a></p>
+				<p>
+      Talk to any LLM with hands-free voice interaction, voice interruption, and Live2D taking face running locally across platforms
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 8074</span>
+						<span>🔱 1059</span>
+					</div>
+				<div class="stars-today">⭐ 65 stars today</div>
 				</div>
 			</div>
 	

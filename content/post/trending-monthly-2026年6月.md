@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2026年6月
-date: 2026-06-02T08:16:18Z
+date: 2026-06-02T13:42:44Z
 categories:
 - monthly
 keywords:
@@ -14,28 +14,6 @@ keywords:
 	<main class="container">
         <div class="repo-list" id="repoList">
 
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/Hmbown/CodeWhale" target="_blank">
-    
-
-
-      
-        Hmbown /
-
-      CodeWhale</a></p>
-				<p>
-      DeepSeek + MiMo coding agent in terminal
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Rust</span>
-						<span>⭐ 36559</span>
-						<span>🔱 3146</span>
-					</div>
-				<div class="stars-today">⭐ 35709 stars this month</div>
-				</div>
-			</div>
 	
 			<div class="repo-card">
 				<p><a href="https://github.com/colbymchenry/codegraph" target="_blank">
@@ -52,10 +30,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 37317</span>
-						<span>🔱 2318</span>
+						<span>⭐ 37629</span>
+						<span>🔱 2328</span>
 					</div>
 				<div class="stars-today">⭐ 35822 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/Hmbown/CodeWhale" target="_blank">
+    
+
+
+      
+        Hmbown /
+
+      CodeWhale</a></p>
+				<p>
+      DeepSeek + MiMo coding agent in terminal
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Rust</span>
+						<span>⭐ 36639</span>
+						<span>🔱 3150</span>
+					</div>
+				<div class="stars-today">⭐ 35709 stars this month</div>
 				</div>
 			</div>
 	
@@ -72,8 +72,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 29381</span>
-						<span>🔱 4111</span>
+						<span>⭐ 29424</span>
+						<span>🔱 4120</span>
 					</div>
 				<div class="stars-today">⭐ 21528 stars this month</div>
 				</div>
@@ -94,8 +94,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 23233</span>
-						<span>🔱 1847</span>
+						<span>⭐ 23301</span>
+						<span>🔱 1849</span>
 					</div>
 				<div class="stars-today">⭐ 21656 stars this month</div>
 				</div>
@@ -116,8 +116,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 20601</span>
-						<span>🔱 1696</span>
+						<span>⭐ 20674</span>
+						<span>🔱 1702</span>
 					</div>
 				<div class="stars-today">⭐ 18378 stars this month</div>
 				</div>
@@ -138,8 +138,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 49362</span>
-						<span>🔱 4020</span>
+						<span>⭐ 49730</span>
+						<span>🔱 4055</span>
 					</div>
 				<div class="stars-today">⭐ 38958 stars this month</div>
 				</div>
@@ -160,10 +160,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 25920</span>
-						<span>🔱 2129</span>
+						<span>⭐ 26066</span>
+						<span>🔱 2148</span>
 					</div>
 				<div class="stars-today">⭐ 21719 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/harry0703/MoneyPrinterTurbo" target="_blank">
+    
+
+
+      
+        harry0703 /
+
+      MoneyPrinterTurbo</a></p>
+				<p>
+      利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 77690</span>
+						<span>🔱 11016</span>
+					</div>
+				<div class="stars-today">⭐ 20221 stars this month</div>
 				</div>
 			</div>
 	
@@ -182,8 +204,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 27008</span>
-						<span>🔱 4384</span>
+						<span>⭐ 27157</span>
+						<span>🔱 4409</span>
 					</div>
 				<div class="stars-today">⭐ 20541 stars this month</div>
 				</div>
@@ -204,32 +226,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Shell</span>
-						<span>⭐ 114559</span>
-						<span>🔱 10026</span>
+						<span>⭐ 114867</span>
+						<span>🔱 10055</span>
 					</div>
 				<div class="stars-today">⭐ 63283 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/harry0703/MoneyPrinterTurbo" target="_blank">
-    
-
-
-      
-        harry0703 /
-
-      MoneyPrinterTurbo</a></p>
-				<p>
-      利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 77370</span>
-						<span>🔱 10981</span>
-					</div>
-				<div class="stars-today">⭐ 20221 stars this month</div>
 				</div>
 			</div>
 	
@@ -248,8 +248,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 JavaScript</span>
-						<span>⭐ 15826</span>
-						<span>🔱 2383</span>
+						<span>⭐ 15889</span>
+						<span>🔱 2391</span>
 					</div>
 				<div class="stars-today">⭐ 12304 stars this month</div>
 				</div>
@@ -270,8 +270,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 17400</span>
-						<span>🔱 2757</span>
+						<span>⭐ 17457</span>
+						<span>🔱 2763</span>
 					</div>
 				<div class="stars-today">⭐ 8335 stars this month</div>
 				</div>
@@ -292,8 +292,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 35905</span>
-						<span>🔱 3612</span>
+						<span>⭐ 35926</span>
+						<span>🔱 3615</span>
 					</div>
 				<div class="stars-today">⭐ 6426 stars this month</div>
 				</div>
@@ -314,32 +314,54 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Rust</span>
-						<span>⭐ 69988</span>
-						<span>🔱 9353</span>
+						<span>⭐ 70062</span>
+						<span>🔱 9368</span>
 					</div>
 				<div class="stars-today">⭐ 19186 stars this month</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/AIDC-AI/Pixelle-Video" target="_blank">
+				<p><a href="https://github.com/datawhalechina/easy-vibe" target="_blank">
     
 
 
       
-        AIDC-AI /
+        datawhalechina /
 
-      Pixelle-Video</a></p>
+      easy-vibe</a></p>
 				<p>
-      🚀 AI 全自动短视频引擎 | AI Fully Automated Short Video Engine
+      💻 vibe coding 2026 | Your first modern Coding course for beginners to master step by step.
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 20961</span>
-						<span>🔱 2923</span>
+						<span>🔠 JavaScript</span>
+						<span>⭐ 15601</span>
+						<span>🔱 1484</span>
 					</div>
-				<div class="stars-today">⭐ 12448 stars this month</div>
+				<div class="stars-today">⭐ 8215 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/can1357/oh-my-pi" target="_blank">
+    
+
+
+      
+        can1357 /
+
+      oh-my-pi</a></p>
+				<p>
+      ⌥ AI Coding agent for the terminal — hash-anchored edits, optimized tool harness, LSP, Python, browser, subagents, and more
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 9850</span>
+						<span>🔱 803</span>
+					</div>
+				<div class="stars-today">⭐ 5666 stars this month</div>
 				</div>
 			</div>
 	
@@ -358,32 +380,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 </span>
-						<span>⭐ 165239</span>
-						<span>🔱 16914</span>
+						<span>⭐ 165537</span>
+						<span>🔱 16935</span>
 					</div>
 				<div class="stars-today">⭐ 61554 stars this month</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/ruvnet/ruflo" target="_blank">
+				<p><a href="https://github.com/AIDC-AI/Pixelle-Video" target="_blank">
     
 
 
       
-        ruvnet /
+        AIDC-AI /
 
-      ruflo</a></p>
+      Pixelle-Video</a></p>
 				<p>
-      🌊 The leading agent meta-harness for Claude. Deploy intelligent multi-agent swarms, coordinate autonomous workflows, and build conversational AI systems. Features adaptive memory, self-learning swarm intelligence, RAG integration, and native Claude Code / Codex Integration
+      🚀 AI 全自动短视频引擎 | AI Fully Automated Short Video Engine
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 57390</span>
-						<span>🔱 6549</span>
+						<span>🔠 Python</span>
+						<span>⭐ 21012</span>
+						<span>🔱 2926</span>
 					</div>
-				<div class="stars-today">⭐ 23091 stars this month</div>
+				<div class="stars-today">⭐ 12448 stars this month</div>
 				</div>
 			</div>
 	

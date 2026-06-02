@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2026年第23周
-date: 2026-06-02T08:16:18Z
+date: 2026-06-02T13:42:44Z
 categories:
 - weekly
 keywords:
@@ -30,32 +30,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 77370</span>
-						<span>🔱 10981</span>
+						<span>⭐ 77690</span>
+						<span>🔱 11016</span>
 					</div>
 				<div class="stars-today">⭐ 18917 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/Lum1104/Understand-Anything" target="_blank">
-    
-
-
-      
-        Lum1104 /
-
-      Understand-Anything</a></p>
-				<p>
-      Graphs that teach > graphs that impress. Turn any code into an interactive knowledge graph you can explore, search, and ask questions about. Works with Claude Code, Codex, Cursor, Copilot, Gemini CLI, and more.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 49362</span>
-						<span>🔱 4020</span>
-					</div>
-				<div class="stars-today">⭐ 19223 stars this week</div>
 				</div>
 			</div>
 	
@@ -74,10 +52,54 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 139645</span>
-						<span>🔱 9503</span>
+						<span>⭐ 140478</span>
+						<span>🔱 9556</span>
 					</div>
 				<div class="stars-today">⭐ 11962 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/chopratejas/headroom" target="_blank">
+    
+
+
+      
+        chopratejas /
+
+      headroom</a></p>
+				<p>
+      Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 60-95% fewer tokens, same answers. Library, proxy, MCP server.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 5014</span>
+						<span>🔱 385</span>
+					</div>
+				<div class="stars-today">⭐ 1868 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/Lum1104/Understand-Anything" target="_blank">
+    
+
+
+      
+        Lum1104 /
+
+      Understand-Anything</a></p>
+				<p>
+      Graphs that teach > graphs that impress. Turn any code into an interactive knowledge graph you can explore, search, and ask questions about. Works with Claude Code, Codex, Cursor, Copilot, Gemini CLI, and more.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 49730</span>
+						<span>🔱 4055</span>
+					</div>
+				<div class="stars-today">⭐ 19223 stars this week</div>
 				</div>
 			</div>
 	
@@ -96,32 +118,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 </span>
-						<span>⭐ 8102</span>
-						<span>🔱 569</span>
+						<span>⭐ 8171</span>
+						<span>🔱 572</span>
 					</div>
 				<div class="stars-today">⭐ 3770 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/rohitg00/ai-engineering-from-scratch" target="_blank">
-    
-
-
-      
-        rohitg00 /
-
-      ai-engineering-from-scratch</a></p>
-				<p>
-      Learn it. Build it. Ship it for others.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 27008</span>
-						<span>🔱 4384</span>
-					</div>
-				<div class="stars-today">⭐ 8744 stars this week</div>
 				</div>
 			</div>
 	
@@ -140,32 +140,54 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Shell</span>
-						<span>⭐ 31277</span>
-						<span>🔱 2316</span>
+						<span>⭐ 31478</span>
+						<span>🔱 2321</span>
 					</div>
 				<div class="stars-today">⭐ 11474 stars this week</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/anthropics/knowledge-work-plugins" target="_blank">
+				<p><a href="https://github.com/revfactory/harness" target="_blank">
     
 
 
       
-        anthropics /
+        revfactory /
 
-      knowledge-work-plugins</a></p>
+      harness</a></p>
 				<p>
-      Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork
+      A meta-skill that designs domain-specific agent teams, defines specialized agents, and generates the skills they use.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 HTML</span>
+						<span>⭐ 5419</span>
+						<span>🔱 717</span>
+					</div>
+				<div class="stars-today">⭐ 1430 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/rohitg00/ai-engineering-from-scratch" target="_blank">
+    
+
+
+      
+        rohitg00 /
+
+      ai-engineering-from-scratch</a></p>
+				<p>
+      Learn it. Build it. Ship it for others.
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 18733</span>
-						<span>🔱 2194</span>
+						<span>⭐ 27157</span>
+						<span>🔱 4409</span>
 					</div>
-				<div class="stars-today">⭐ 3981 stars this week</div>
+				<div class="stars-today">⭐ 8744 stars this week</div>
 				</div>
 			</div>
 	
@@ -184,8 +206,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 37317</span>
-						<span>🔱 2318</span>
+						<span>⭐ 37629</span>
+						<span>🔱 2328</span>
 					</div>
 				<div class="stars-today">⭐ 12380 stars this week</div>
 				</div>
@@ -206,32 +228,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 13376</span>
-						<span>🔱 1571</span>
+						<span>⭐ 13445</span>
+						<span>🔱 1577</span>
 					</div>
 				<div class="stars-today">⭐ 4330 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/revfactory/harness" target="_blank">
-    
-
-
-      
-        revfactory /
-
-      harness</a></p>
-				<p>
-      A meta-skill that designs domain-specific agent teams, defines specialized agents, and generates the skills they use.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 HTML</span>
-						<span>⭐ 5327</span>
-						<span>🔱 707</span>
-					</div>
-				<div class="stars-today">⭐ 1430 stars this week</div>
 				</div>
 			</div>
 	
@@ -250,32 +250,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 JavaScript</span>
-						<span>⭐ 202647</span>
-						<span>🔱 31088</span>
+						<span>⭐ 202983</span>
+						<span>🔱 31133</span>
 					</div>
 				<div class="stars-today">⭐ 10309 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/p-e-w/heretic" target="_blank">
-    
-
-
-      
-        p-e-w /
-
-      heretic</a></p>
-				<p>
-      Fully automatic censorship removal for language models
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 23165</span>
-						<span>🔱 2474</span>
-					</div>
-				<div class="stars-today">⭐ 1601 stars this week</div>
 				</div>
 			</div>
 	
@@ -294,32 +272,54 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 1693</span>
-						<span>🔱 134</span>
+						<span>⭐ 1702</span>
+						<span>🔱 135</span>
 					</div>
 				<div class="stars-today">⭐ 879 stars this week</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/run-llama/liteparse" target="_blank">
+				<p><a href="https://github.com/EveryInc/compound-engineering-plugin" target="_blank">
     
 
 
       
-        run-llama /
+        EveryInc /
 
-      liteparse</a></p>
+      compound-engineering-plugin</a></p>
 				<p>
-      A fast, helpful, and open-source document parser
+      Official Compound Engineering plugin for Claude Code, Codex, Cursor, and more
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Rust</span>
-						<span>⭐ 8812</span>
-						<span>🔱 521</span>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 19303</span>
+						<span>🔱 1435</span>
 					</div>
-				<div class="stars-today">⭐ 3381 stars this week</div>
+				<div class="stars-today">⭐ 1831 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/anthropics/knowledge-work-plugins" target="_blank">
+    
+
+
+      
+        anthropics /
+
+      knowledge-work-plugins</a></p>
+				<p>
+      Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 18774</span>
+						<span>🔱 2199</span>
+					</div>
+				<div class="stars-today">⭐ 3981 stars this week</div>
 				</div>
 			</div>
 	
@@ -338,10 +338,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 3734</span>
-						<span>🔱 524</span>
+						<span>⭐ 3754</span>
+						<span>🔱 528</span>
 					</div>
 				<div class="stars-today">⭐ 1529 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/p-e-w/heretic" target="_blank">
+    
+
+
+      
+        p-e-w /
+
+      heretic</a></p>
+				<p>
+      Fully automatic censorship removal for language models
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 23233</span>
+						<span>🔱 2483</span>
+					</div>
+				<div class="stars-today">⭐ 1601 stars this week</div>
 				</div>
 			</div>
 	
@@ -360,7 +382,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Shell</span>
-						<span>⭐ 2496</span>
+						<span>⭐ 2511</span>
 						<span>🔱 243</span>
 					</div>
 				<div class="stars-today">⭐ 964 stars this week</div>
@@ -382,54 +404,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Rust</span>
-						<span>⭐ 3759</span>
-						<span>🔱 240</span>
+						<span>⭐ 3795</span>
+						<span>🔱 242</span>
 					</div>
 				<div class="stars-today">⭐ 1206 stars this week</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/EveryInc/compound-engineering-plugin" target="_blank">
+				<p><a href="https://github.com/supermemoryai/supermemory" target="_blank">
     
 
 
       
-        EveryInc /
+        supermemoryai /
 
-      compound-engineering-plugin</a></p>
+      supermemory</a></p>
 				<p>
-      Official Compound Engineering plugin for Claude Code, Codex, Cursor, and more
+      Memory engine and app that is extremely fast, scalable. The Memory API for the AI era.
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 19232</span>
-						<span>🔱 1433</span>
+						<span>⭐ 24392</span>
+						<span>🔱 2164</span>
 					</div>
-				<div class="stars-today">⭐ 1831 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/can1357/oh-my-pi" target="_blank">
-    
-
-
-      
-        can1357 /
-
-      oh-my-pi</a></p>
-				<p>
-      ⌥ AI Coding agent for the terminal — hash-anchored edits, optimized tool harness, LSP, Python, browser, subagents, and more
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 9694</span>
-						<span>🔱 786</span>
-					</div>
-				<div class="stars-today">⭐ 2122 stars this week</div>
+				<div class="stars-today">⭐ 1154 stars this week</div>
 				</div>
 			</div>
 	
@@ -448,10 +448,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Rust</span>
-						<span>⭐ 17482</span>
-						<span>🔱 1151</span>
+						<span>⭐ 17504</span>
+						<span>🔱 1152</span>
 					</div>
 				<div class="stars-today">⭐ 1461 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/modelscope/FunASR" target="_blank">
+    
+
+
+      
+        modelscope /
+
+      FunASR</a></p>
+				<p>
+      Industrial-grade speech recognition toolkit: 170x realtime, 50+ languages, speaker diarization, emotion detection, streaming, and OpenAI-compatible API.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 16834</span>
+						<span>🔱 1727</span>
+					</div>
+				<div class="stars-today">⭐ 510 stars this week</div>
 				</div>
 			</div>
 	
