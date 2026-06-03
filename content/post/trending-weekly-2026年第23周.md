@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2026年第23周
-date: 2026-06-03T14:16:29Z
+date: 2026-06-03T19:38:01Z
 categories:
 - weekly
 keywords:
@@ -30,32 +30,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 78613</span>
-						<span>🔱 11167</span>
+						<span>⭐ 78758</span>
+						<span>🔱 11197</span>
 					</div>
 				<div class="stars-today">⭐ 18982 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/microsoft/markitdown" target="_blank">
-    
-
-
-      
-        microsoft /
-
-      markitdown</a></p>
-				<p>
-      Python tool for converting files and office documents to Markdown.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 142377</span>
-						<span>🔱 9714</span>
-					</div>
-				<div class="stars-today">⭐ 15502 stars this week</div>
 				</div>
 			</div>
 	
@@ -74,10 +52,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 8601</span>
-						<span>🔱 566</span>
+						<span>⭐ 9243</span>
+						<span>🔱 614</span>
 					</div>
 				<div class="stars-today">⭐ 3002 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/microsoft/markitdown" target="_blank">
+    
+
+
+      
+        microsoft /
+
+      markitdown</a></p>
+				<p>
+      Python tool for converting files and office documents to Markdown.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 142671</span>
+						<span>🔱 9739</span>
+					</div>
+				<div class="stars-today">⭐ 15502 stars this week</div>
 				</div>
 			</div>
 	
@@ -96,54 +96,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 50845</span>
-						<span>🔱 4151</span>
+						<span>⭐ 51010</span>
+						<span>🔱 4163</span>
 					</div>
 				<div class="stars-today">⭐ 15774 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/hardikpandya/stop-slop" target="_blank">
-    
-
-
-      
-        hardikpandya /
-
-      stop-slop</a></p>
-				<p>
-      A skill file for removing AI tells from prose
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 </span>
-						<span>⭐ 8441</span>
-						<span>🔱 587</span>
-					</div>
-				<div class="stars-today">⭐ 3470 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/Leonxlnx/taste-skill" target="_blank">
-    
-
-
-      
-        Leonxlnx /
-
-      taste-skill</a></p>
-				<p>
-      Taste-Skill - gives your AI good taste. stops the AI from generating boring, generic slop 
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Shell</span>
-						<span>⭐ 32257</span>
-						<span>🔱 2373</span>
-					</div>
-				<div class="stars-today">⭐ 10931 stars this week</div>
 				</div>
 			</div>
 	
@@ -162,120 +118,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 HTML</span>
-						<span>⭐ 5629</span>
-						<span>🔱 754</span>
+						<span>⭐ 5665</span>
+						<span>🔱 759</span>
 					</div>
 				<div class="stars-today">⭐ 1870 stars this week</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/rohitg00/ai-engineering-from-scratch" target="_blank">
+				<p><a href="https://github.com/hardikpandya/stop-slop" target="_blank">
     
 
 
       
-        rohitg00 /
+        hardikpandya /
 
-      ai-engineering-from-scratch</a></p>
+      stop-slop</a></p>
 				<p>
-      Learn it. Build it. Ship it for others.
+      A skill file for removing AI tells from prose
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 27731</span>
-						<span>🔱 4507</span>
+						<span>🔠 </span>
+						<span>⭐ 8500</span>
+						<span>🔱 590</span>
 					</div>
-				<div class="stars-today">⭐ 7183 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/colbymchenry/codegraph" target="_blank">
-    
-
-
-      
-        colbymchenry /
-
-      codegraph</a></p>
-				<p>
-      Pre-indexed code knowledge graph for Claude Code, Codex, Gemini, Cursor, OpenCode, AntiGravity, Kiro, and Hermes Agent — fewer tokens, fewer tool calls, 100% local
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 38990</span>
-						<span>🔱 2423</span>
-					</div>
-				<div class="stars-today">⭐ 10793 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/mukul975/Anthropic-Cybersecurity-Skills" target="_blank">
-    
-
-
-      
-        mukul975 /
-
-      Anthropic-Cybersecurity-Skills</a></p>
-				<p>
-      754 structured cybersecurity skills for AI agents · Mapped to 5 frameworks: MITRE ATT&CK, NIST CSF 2.0, MITRE ATLAS, D3FEND & NIST AI RMF · agentskills.io standard · Works with Claude Code, GitHub Copilot, Codex CLI, Cursor, Gemini CLI & 20+ platforms · 26 security domains · Apache 2.0
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 13787</span>
-						<span>🔱 1612</span>
-					</div>
-				<div class="stars-today">⭐ 3755 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/affaan-m/ECC" target="_blank">
-    
-
-
-      
-        affaan-m /
-
-      ECC</a></p>
-				<p>
-      The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 JavaScript</span>
-						<span>⭐ 205093</span>
-						<span>🔱 31474</span>
-					</div>
-				<div class="stars-today">⭐ 9910 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/cursor/plugins" target="_blank">
-    
-
-
-      
-        cursor /
-
-      plugins</a></p>
-				<p>
-      Cursor plugin specification and official plugins
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 1765</span>
-						<span>🔱 141</span>
-					</div>
-				<div class="stars-today">⭐ 842 stars this week</div>
+				<div class="stars-today">⭐ 3470 stars this week</div>
 				</div>
 			</div>
 	
@@ -294,120 +162,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 19527</span>
-						<span>🔱 1450</span>
+						<span>⭐ 19567</span>
+						<span>🔱 1453</span>
 					</div>
 				<div class="stars-today">⭐ 2143 stars this week</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/anthropics/knowledge-work-plugins" target="_blank">
+				<p><a href="https://github.com/Leonxlnx/taste-skill" target="_blank">
     
 
 
       
-        anthropics /
+        Leonxlnx /
 
-      knowledge-work-plugins</a></p>
+      taste-skill</a></p>
 				<p>
-      Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 18978</span>
-						<span>🔱 2220</span>
-					</div>
-				<div class="stars-today">⭐ 2458 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/microsoft/agent-governance-toolkit" target="_blank">
-    
-
-
-      
-        microsoft /
-
-      agent-governance-toolkit</a></p>
-				<p>
-      AI Agent Governance Toolkit — Policy enforcement, zero-trust identity, execution sandboxing, and reliability engineering for autonomous AI agents. Covers 10/10 OWASP Agentic Top 10.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 3881</span>
-						<span>🔱 537</span>
-					</div>
-				<div class="stars-today">⭐ 1391 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/p-e-w/heretic" target="_blank">
-    
-
-
-      
-        p-e-w /
-
-      heretic</a></p>
-				<p>
-      Fully automatic censorship removal for language models
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 23379</span>
-						<span>🔱 2494</span>
-					</div>
-				<div class="stars-today">⭐ 1634 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/Chachamaru127/claude-code-harness" target="_blank">
-    
-
-
-      
-        Chachamaru127 /
-
-      claude-code-harness</a></p>
-				<p>
-      Claude Code Dedicated Development Harness - Achieving High-Quality Development Through an Autonomous Plan→Work→Review Cycle
+      Taste-Skill - gives your AI good taste. stops the AI from generating boring, generic slop 
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Shell</span>
-						<span>⭐ 2585</span>
-						<span>🔱 247</span>
+						<span>⭐ 32413</span>
+						<span>🔱 2383</span>
 					</div>
-				<div class="stars-today">⭐ 879 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/ogulcancelik/herdr" target="_blank">
-    
-
-
-      
-        ogulcancelik /
-
-      herdr</a></p>
-				<p>
-      agent multiplexer that lives in your terminal.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Rust</span>
-						<span>⭐ 4009</span>
-						<span>🔱 255</span>
-					</div>
-				<div class="stars-today">⭐ 1327 stars this week</div>
+				<div class="stars-today">⭐ 10931 stars this week</div>
 				</div>
 			</div>
 	
@@ -426,10 +206,274 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 24980</span>
-						<span>🔱 2197</span>
+						<span>⭐ 25086</span>
+						<span>🔱 2203</span>
 					</div>
 				<div class="stars-today">⭐ 1733 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/colbymchenry/codegraph" target="_blank">
+    
+
+
+      
+        colbymchenry /
+
+      codegraph</a></p>
+				<p>
+      Pre-indexed code knowledge graph for Claude Code, Codex, Gemini, Cursor, OpenCode, AntiGravity, Kiro, and Hermes Agent — fewer tokens, fewer tool calls, 100% local
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 39219</span>
+						<span>🔱 2438</span>
+					</div>
+				<div class="stars-today">⭐ 10793 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/affaan-m/ECC" target="_blank">
+    
+
+
+      
+        affaan-m /
+
+      ECC</a></p>
+				<p>
+      The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 JavaScript</span>
+						<span>⭐ 205450</span>
+						<span>🔱 31529</span>
+					</div>
+				<div class="stars-today">⭐ 9910 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/OpenMOSS/MOSS-TTS" target="_blank">
+    
+
+
+      
+        OpenMOSS /
+
+      MOSS-TTS</a></p>
+				<p>
+      MOSS‑TTS Family is an open‑source speech and sound generation model family from MOSI.AI and the OpenMOSS team. It is designed for high‑fidelity, high‑expressiveness, and complex real‑world scenarios, covering stable long‑form speech, multi‑speaker dialogue, voice/character design, environmental sound effects, and real‑time streaming TTS.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 2943</span>
+						<span>🔱 265</span>
+					</div>
+				<div class="stars-today">⭐ 975 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/mukul975/Anthropic-Cybersecurity-Skills" target="_blank">
+    
+
+
+      
+        mukul975 /
+
+      Anthropic-Cybersecurity-Skills</a></p>
+				<p>
+      754 structured cybersecurity skills for AI agents · Mapped to 5 frameworks: MITRE ATT&CK, NIST CSF 2.0, MITRE ATLAS, D3FEND & NIST AI RMF · agentskills.io standard · Works with Claude Code, GitHub Copilot, Codex CLI, Cursor, Gemini CLI & 20+ platforms · 26 security domains · Apache 2.0
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 13848</span>
+						<span>🔱 1621</span>
+					</div>
+				<div class="stars-today">⭐ 3755 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/rohitg00/ai-engineering-from-scratch" target="_blank">
+    
+
+
+      
+        rohitg00 /
+
+      ai-engineering-from-scratch</a></p>
+				<p>
+      Learn it. Build it. Ship it for others.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 27835</span>
+						<span>🔱 4529</span>
+					</div>
+				<div class="stars-today">⭐ 7183 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/cursor/plugins" target="_blank">
+    
+
+
+      
+        cursor /
+
+      plugins</a></p>
+				<p>
+      Cursor plugin specification and official plugins
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 1776</span>
+						<span>🔱 143</span>
+					</div>
+				<div class="stars-today">⭐ 842 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/can1357/oh-my-pi" target="_blank">
+    
+
+
+      
+        can1357 /
+
+      oh-my-pi</a></p>
+				<p>
+      ⌥ AI Coding agent for the terminal — hash-anchored edits, optimized tool harness, LSP, Python, browser, subagents, and more
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 10269</span>
+						<span>🔱 850</span>
+					</div>
+				<div class="stars-today">⭐ 2482 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/microsoft/agent-governance-toolkit" target="_blank">
+    
+
+
+      
+        microsoft /
+
+      agent-governance-toolkit</a></p>
+				<p>
+      AI Agent Governance Toolkit — Policy enforcement, zero-trust identity, execution sandboxing, and reliability engineering for autonomous AI agents. Covers 10/10 OWASP Agentic Top 10.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 3909</span>
+						<span>🔱 539</span>
+					</div>
+				<div class="stars-today">⭐ 1391 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/ogulcancelik/herdr" target="_blank">
+    
+
+
+      
+        ogulcancelik /
+
+      herdr</a></p>
+				<p>
+      agent multiplexer that lives in your terminal.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Rust</span>
+						<span>⭐ 4074</span>
+						<span>🔱 259</span>
+					</div>
+				<div class="stars-today">⭐ 1327 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/p-e-w/heretic" target="_blank">
+    
+
+
+      
+        p-e-w /
+
+      heretic</a></p>
+				<p>
+      Fully automatic censorship removal for language models
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 23406</span>
+						<span>🔱 2495</span>
+					</div>
+				<div class="stars-today">⭐ 1634 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/OpenBMB/VoxCPM" target="_blank">
+    
+
+
+      
+        OpenBMB /
+
+      VoxCPM</a></p>
+				<p>
+      VoxCPM2: Tokenizer-Free TTS for Multilingual Speech Generation, Creative Voice Design, and True-to-Life Cloning
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 25554</span>
+						<span>🔱 2908</span>
+					</div>
+				<div class="stars-today">⭐ 5094 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/anthropics/claude-code" target="_blank">
+    
+
+
+      
+        anthropics /
+
+      claude-code</a></p>
+				<p>
+      Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 129827</span>
+						<span>🔱 21105</span>
+					</div>
+				<div class="stars-today">⭐ 3048 stars this week</div>
 				</div>
 			</div>
 	
@@ -448,32 +492,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Rust</span>
-						<span>⭐ 17594</span>
-						<span>🔱 1156</span>
+						<span>⭐ 17604</span>
+						<span>🔱 1158</span>
 					</div>
 				<div class="stars-today">⭐ 1321 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/modelscope/FunASR" target="_blank">
-    
-
-
-      
-        modelscope /
-
-      FunASR</a></p>
-				<p>
-      Industrial-grade speech recognition toolkit: 170x realtime, 50+ languages, speaker diarization, emotion detection, streaming, and OpenAI-compatible API.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 17028</span>
-						<span>🔱 1735</span>
-					</div>
-				<div class="stars-today">⭐ 544 stars this week</div>
 				</div>
 			</div>
 	

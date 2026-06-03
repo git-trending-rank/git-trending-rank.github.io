@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2026-06-03
-date: 2026-06-03T14:16:30Z
+date: 2026-06-03T19:38:01Z
 categories:
 - daily
 keywords:
@@ -30,32 +30,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 8601</span>
-						<span>🔱 566</span>
+						<span>⭐ 9243</span>
+						<span>🔱 614</span>
 					</div>
 				<div class="stars-today">⭐ 3528 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/microsoft/markitdown" target="_blank">
-    
-
-
-      
-        microsoft /
-
-      markitdown</a></p>
-				<p>
-      Python tool for converting files and office documents to Markdown.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 142378</span>
-						<span>🔱 9714</span>
-					</div>
-				<div class="stars-today">⭐ 2006 stars today</div>
 				</div>
 			</div>
 	
@@ -74,32 +52,76 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 JavaScript</span>
-						<span>⭐ 205093</span>
-						<span>🔱 31474</span>
+						<span>⭐ 205450</span>
+						<span>🔱 31529</span>
 					</div>
 				<div class="stars-today">⭐ 2147 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/D4Vinci/Scrapling" target="_blank">
+				<p><a href="https://github.com/aquasecurity/trivy" target="_blank">
     
 
 
       
-        D4Vinci /
+        aquasecurity /
 
-      Scrapling</a></p>
+      trivy</a></p>
 				<p>
-      🕷️ An adaptive Web Scraping framework that handles everything from a single request to a full-scale crawl!
+      Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Go</span>
+						<span>⭐ 35335</span>
+						<span>🔱 412</span>
+					</div>
+				<div class="stars-today">⭐ 26 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/NousResearch/hermes-agent" target="_blank">
+    
+
+
+      
+        NousResearch /
+
+      hermes-agent</a></p>
+				<p>
+      The agent that grows with you
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 59823</span>
-						<span>🔱 5774</span>
+						<span>⭐ 178836</span>
+						<span>🔱 30637</span>
 					</div>
-				<div class="stars-today">⭐ 1078 stars today</div>
+				<div class="stars-today">⭐ 1736 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/microsoft/markitdown" target="_blank">
+    
+
+
+      
+        microsoft /
+
+      markitdown</a></p>
+				<p>
+      Python tool for converting files and office documents to Markdown.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 142671</span>
+						<span>🔱 9739</span>
+					</div>
+				<div class="stars-today">⭐ 2006 stars today</div>
 				</div>
 			</div>
 	
@@ -118,118 +140,76 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 12927</span>
-						<span>🔱 1579</span>
+						<span>⭐ 13030</span>
+						<span>🔱 1588</span>
 					</div>
 				<div class="stars-today">⭐ 734 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/reconurge/flowsint" target="_blank">
+				<p><a href="https://github.com/D4Vinci/Scrapling" target="_blank">
     
 
 
       
-        reconurge /
+        D4Vinci /
 
-      flowsint</a></p>
+      Scrapling</a></p>
 				<p>
-      A modern platform for visual, flexible, and extensible graph-based investigations. For cybersecurity analysts and investigators.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 4807</span>
-						<span>🔱 605</span>
-					</div>
-				<div class="stars-today">⭐ 509 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/OpenBMB/VoxCPM" target="_blank">
-    
-
-
-      
-        OpenBMB /
-
-      VoxCPM</a></p>
-				<p>
-      VoxCPM2: Tokenizer-Free TTS for Multilingual Speech Generation, Creative Voice Design, and True-to-Life Cloning
+      🕷️ An adaptive Web Scraping framework that handles everything from a single request to a full-scale crawl!
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 25490</span>
-						<span>🔱 2907</span>
+						<span>⭐ 60057</span>
+						<span>🔱 5796</span>
 					</div>
-				<div class="stars-today">⭐ 713 stars today</div>
+				<div class="stars-today">⭐ 1078 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/stefan-jansen/machine-learning-for-trading" target="_blank">
+				<p><a href="https://github.com/opendataloader-project/opendataloader-pdf" target="_blank">
     
 
 
       
-        stefan-jansen /
+        opendataloader-project /
 
-      machine-learning-for-trading</a></p>
+      opendataloader-pdf</a></p>
 				<p>
-      Code for Machine Learning for Algorithmic Trading, 2nd edition.
+      PDF Parser for AI-ready data. Automate PDF accessibility. Open-source.
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Jupyter Notebook</span>
-						<span>⭐ 18894</span>
-						<span>🔱 5259</span>
+						<span>🔠 Java</span>
+						<span>⭐ 23170</span>
+						<span>🔱 2175</span>
 					</div>
-				<div class="stars-today">⭐ 716 stars today</div>
+				<div class="stars-today">⭐ 573 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/jamwithai/production-agentic-rag-course" target="_blank">
+				<p><a href="https://github.com/odoo/odoo" target="_blank">
     
 
 
       
-        jamwithai /
+        odoo /
 
-      production-agentic-rag-course</a></p>
-				<p></p>
+      odoo</a></p>
+				<p>
+      Odoo. Open Source Apps To Grow Your Business.
+    </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 6614</span>
-						<span>🔱 1504</span>
+						<span>⭐ 51875</span>
+						<span>🔱 32639</span>
 					</div>
-				<div class="stars-today">⭐ 372 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/supermemoryai/supermemory" target="_blank">
-    
-
-
-      
-        supermemoryai /
-
-      supermemory</a></p>
-				<p>
-      Memory engine and app that is extremely fast, scalable. The Memory API for the AI era.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 24980</span>
-						<span>🔱 2197</span>
-					</div>
-				<div class="stars-today">⭐ 601 stars today</div>
+				<div class="stars-today">⭐ 29 stars today</div>
 				</div>
 			</div>
 	
@@ -248,10 +228,98 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 8768</span>
-						<span>🔱 1096</span>
+						<span>⭐ 8865</span>
+						<span>🔱 1101</span>
 					</div>
 				<div class="stars-today">⭐ 702 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/jwasham/coding-interview-university" target="_blank">
+    
+
+
+      
+        jwasham /
+
+      coding-interview-university</a></p>
+				<p>
+      A complete computer science study plan to become a software engineer.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 </span>
+						<span>⭐ 348922</span>
+						<span>🔱 83151</span>
+					</div>
+				<div class="stars-today">⭐ 459 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/lyogavin/airllm" target="_blank">
+    
+
+
+      
+        lyogavin /
+
+      airllm</a></p>
+				<p>
+      AirLLM 70B inference with single 4GB GPU
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Jupyter Notebook</span>
+						<span>⭐ 18786</span>
+						<span>🔱 2063</span>
+					</div>
+				<div class="stars-today">⭐ 208 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/supermemoryai/supermemory" target="_blank">
+    
+
+
+      
+        supermemoryai /
+
+      supermemory</a></p>
+				<p>
+      Memory engine and app that is extremely fast, scalable. The Memory API for the AI era.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 25086</span>
+						<span>🔱 2203</span>
+					</div>
+				<div class="stars-today">⭐ 601 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/HKUDS/Vibe-Trading" target="_blank">
+    
+
+
+      
+        HKUDS /
+
+      Vibe-Trading</a></p>
+				<p>
+      "Vibe-Trading: Your Personal Trading Agent"
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 9792</span>
+						<span>🔱 1989</span>
+					</div>
+				<div class="stars-today">⭐ 221 stars today</div>
 				</div>
 			</div>
 	

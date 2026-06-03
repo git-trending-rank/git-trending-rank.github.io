@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2026年6月
-date: 2026-06-03T14:16:30Z
+date: 2026-06-03T19:38:00Z
 categories:
 - monthly
 keywords:
@@ -30,32 +30,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 38993</span>
-						<span>🔱 2423</span>
+						<span>⭐ 39219</span>
+						<span>🔱 2438</span>
 					</div>
 				<div class="stars-today">⭐ 37126 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/Hmbown/CodeWhale" target="_blank">
-    
-
-
-      
-        Hmbown /
-
-      CodeWhale</a></p>
-				<p>
-      DeepSeek + MiMo coding agent in terminal
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Rust</span>
-						<span>⭐ 36847</span>
-						<span>🔱 3170</span>
-					</div>
-				<div class="stars-today">⭐ 35376 stars this month</div>
 				</div>
 			</div>
 	
@@ -72,8 +50,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 29694</span>
-						<span>🔱 4167</span>
+						<span>⭐ 29745</span>
+						<span>🔱 4178</span>
 					</div>
 				<div class="stars-today">⭐ 21733 stars this month</div>
 				</div>
@@ -94,10 +72,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 23571</span>
-						<span>🔱 1873</span>
+						<span>⭐ 23618</span>
+						<span>🔱 1874</span>
 					</div>
 				<div class="stars-today">⭐ 21929 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/Hmbown/CodeWhale" target="_blank">
+    
+
+
+      
+        Hmbown /
+
+      CodeWhale</a></p>
+				<p>
+      DeepSeek + MiMo coding agent in terminal
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Rust</span>
+						<span>⭐ 36876</span>
+						<span>🔱 3170</span>
+					</div>
+				<div class="stars-today">⭐ 35376 stars this month</div>
 				</div>
 			</div>
 	
@@ -116,8 +116,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 20920</span>
-						<span>🔱 1729</span>
+						<span>⭐ 20960</span>
+						<span>🔱 1731</span>
 					</div>
 				<div class="stars-today">⭐ 18650 stars this month</div>
 				</div>
@@ -138,10 +138,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 50847</span>
-						<span>🔱 4151</span>
+						<span>⭐ 51010</span>
+						<span>🔱 4163</span>
 					</div>
 				<div class="stars-today">⭐ 39602 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/HKUDS/ViMax" target="_blank">
+    
+
+
+      
+        HKUDS /
+
+      ViMax</a></p>
+				<p>
+      "ViMax: Agentic Video Generation (Director, Screenwriter, Producer, and Video Generator All-in-One)"
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 8624</span>
+						<span>🔱 1324</span>
+					</div>
+				<div class="stars-today">⭐ 5930 stars this month</div>
 				</div>
 			</div>
 	
@@ -160,8 +182,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 26594</span>
-						<span>🔱 2192</span>
+						<span>⭐ 26678</span>
+						<span>🔱 2198</span>
 					</div>
 				<div class="stars-today">⭐ 22232 stars this month</div>
 				</div>
@@ -182,8 +204,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 9803</span>
-						<span>🔱 1172</span>
+						<span>⭐ 9896</span>
+						<span>🔱 1181</span>
 					</div>
 				<div class="stars-today">⭐ 8524 stars this month</div>
 				</div>
@@ -204,8 +226,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 78613</span>
-						<span>🔱 11167</span>
+						<span>⭐ 78758</span>
+						<span>🔱 11197</span>
 					</div>
 				<div class="stars-today">⭐ 21551 stars this month</div>
 				</div>
@@ -226,8 +248,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 27731</span>
-						<span>🔱 4507</span>
+						<span>⭐ 27835</span>
+						<span>🔱 4529</span>
 					</div>
 				<div class="stars-today">⭐ 21199 stars this month</div>
 				</div>
@@ -248,32 +270,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Shell</span>
-						<span>⭐ 115941</span>
-						<span>🔱 10163</span>
+						<span>⭐ 116172</span>
+						<span>🔱 10185</span>
 					</div>
 				<div class="stars-today">⭐ 61503 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/decolua/9router" target="_blank">
-    
-
-
-      
-        decolua /
-
-      9router</a></p>
-				<p>
-      Unlimited FREE AI coding. Connect Claude Code, Codex, Cursor, Cline, Copilot, Antigravity to FREE Claude/GPT/Gemini via 40+ providers. Auto-fallback, RTK -40% tokens, never hit limits.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 JavaScript</span>
-						<span>⭐ 16072</span>
-						<span>🔱 2411</span>
-					</div>
-				<div class="stars-today">⭐ 12459 stars this month</div>
 				</div>
 			</div>
 	
@@ -292,10 +292,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 17790</span>
-						<span>🔱 2802</span>
+						<span>⭐ 17823</span>
+						<span>🔱 2808</span>
 					</div>
 				<div class="stars-today">⭐ 8481 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/decolua/9router" target="_blank">
+    
+
+
+      
+        decolua /
+
+      9router</a></p>
+				<p>
+      Unlimited FREE AI coding. Connect Claude Code, Codex, Cursor, Cline, Copilot, Antigravity to FREE Claude/GPT/Gemini via 40+ providers. Auto-fallback, RTK -40% tokens, never hit limits.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 JavaScript</span>
+						<span>⭐ 16108</span>
+						<span>🔱 2413</span>
+					</div>
+				<div class="stars-today">⭐ 12459 stars this month</div>
 				</div>
 			</div>
 	
@@ -314,8 +336,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 35981</span>
-						<span>🔱 3620</span>
+						<span>⭐ 35996</span>
+						<span>🔱 3623</span>
 					</div>
 				<div class="stars-today">⭐ 6498 stars this month</div>
 				</div>
@@ -336,32 +358,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Rust</span>
-						<span>⭐ 70411</span>
-						<span>🔱 9420</span>
+						<span>⭐ 70476</span>
+						<span>🔱 9428</span>
 					</div>
 				<div class="stars-today">⭐ 19374 stars this month</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/datawhalechina/easy-vibe" target="_blank">
+				<p><a href="https://github.com/chopratejas/headroom" target="_blank">
     
 
 
       
-        datawhalechina /
+        chopratejas /
 
-      easy-vibe</a></p>
+      headroom</a></p>
 				<p>
-      💻 vibe coding 2026 | Your first modern Coding course for beginners to master step by step.
+      Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 60-95% fewer tokens, same answers. Library, proxy, MCP server.
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 JavaScript</span>
-						<span>⭐ 15804</span>
-						<span>🔱 1498</span>
+						<span>🔠 Python</span>
+						<span>⭐ 9243</span>
+						<span>🔱 614</span>
 					</div>
-				<div class="stars-today">⭐ 8257 stars this month</div>
+				<div class="stars-today">⭐ 3855 stars this month</div>
 				</div>
 			</div>
 	
@@ -380,54 +402,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 10215</span>
-						<span>🔱 844</span>
+						<span>⭐ 10269</span>
+						<span>🔱 850</span>
 					</div>
 				<div class="stars-today">⭐ 6132 stars this month</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/multica-ai/andrej-karpathy-skills" target="_blank">
+				<p><a href="https://github.com/datawhalechina/easy-vibe" target="_blank">
     
 
 
       
-        multica-ai /
+        datawhalechina /
 
-      andrej-karpathy-skills</a></p>
+      easy-vibe</a></p>
 				<p>
-      A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.
+      💻 vibe coding 2026 | Your first modern Coding course for beginners to master step by step.
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 </span>
-						<span>⭐ 166582</span>
-						<span>🔱 17050</span>
+						<span>🔠 JavaScript</span>
+						<span>⭐ 15843</span>
+						<span>🔱 1502</span>
 					</div>
-				<div class="stars-today">⭐ 60985 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/AIDC-AI/Pixelle-Video" target="_blank">
-    
-
-
-      
-        AIDC-AI /
-
-      Pixelle-Video</a></p>
-				<p>
-      🚀 AI 全自动短视频引擎 | AI Fully Automated Short Video Engine
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 21215</span>
-						<span>🔱 2957</span>
-					</div>
-				<div class="stars-today">⭐ 12222 stars this month</div>
+				<div class="stars-today">⭐ 8257 stars this month</div>
 				</div>
 			</div>
 	
