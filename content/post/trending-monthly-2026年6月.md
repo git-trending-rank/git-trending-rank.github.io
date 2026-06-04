@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2026年6月
-date: 2026-06-04T08:08:57Z
+date: 2026-06-04T12:33:25Z
 categories:
 - monthly
 keywords:
@@ -30,30 +30,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 40099</span>
-						<span>🔱 2483</span>
+						<span>⭐ 40423</span>
+						<span>🔱 2503</span>
 					</div>
 				<div class="stars-today">⭐ 38467 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/anthropics/financial-services" target="_blank">
-    
-
-
-      
-        anthropics /
-
-      financial-services</a></p>
-				<p></p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 29853</span>
-						<span>🔱 4194</span>
-					</div>
-				<div class="stars-today">⭐ 21999 stars this month</div>
 				</div>
 			</div>
 	
@@ -72,32 +52,30 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 23748</span>
-						<span>🔱 1881</span>
+						<span>⭐ 23799</span>
+						<span>🔱 1884</span>
 					</div>
 				<div class="stars-today">⭐ 22190 stars this month</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/Hmbown/CodeWhale" target="_blank">
+				<p><a href="https://github.com/anthropics/financial-services" target="_blank">
     
 
 
       
-        Hmbown /
+        anthropics /
 
-      CodeWhale</a></p>
-				<p>
-      DeepSeek + MiMo coding agent in terminal
-    </p>
+      financial-services</a></p>
+				<p></p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Rust</span>
-						<span>⭐ 36975</span>
-						<span>🔱 3175</span>
+						<span>🔠 Python</span>
+						<span>⭐ 29888</span>
+						<span>🔱 4204</span>
 					</div>
-				<div class="stars-today">⭐ 35225 stars this month</div>
+				<div class="stars-today">⭐ 21999 stars this month</div>
 				</div>
 			</div>
 	
@@ -116,8 +94,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 21076</span>
-						<span>🔱 1740</span>
+						<span>⭐ 21116</span>
+						<span>🔱 1743</span>
 					</div>
 				<div class="stars-today">⭐ 18882 stars this month</div>
 				</div>
@@ -138,8 +116,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 51526</span>
-						<span>🔱 4207</span>
+						<span>⭐ 51720</span>
+						<span>🔱 4231</span>
 					</div>
 				<div class="stars-today">⭐ 40416 stars this month</div>
 				</div>
@@ -160,32 +138,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 8664</span>
+						<span>⭐ 8690</span>
 						<span>🔱 1328</span>
 					</div>
 				<div class="stars-today">⭐ 5930 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/Imbad0202/academic-research-skills" target="_blank">
-    
-
-
-      
-        Imbad0202 /
-
-      academic-research-skills</a></p>
-				<p>
-      Academic Research Skills for Claude Code: research → write → review → revise → finalize
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 26941</span>
-						<span>🔱 2215</span>
-					</div>
-				<div class="stars-today">⭐ 22608 stars this month</div>
 				</div>
 			</div>
 	
@@ -204,8 +160,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 10089</span>
-						<span>🔱 1195</span>
+						<span>⭐ 10143</span>
+						<span>🔱 1197</span>
 					</div>
 				<div class="stars-today">⭐ 8951 stars this month</div>
 				</div>
@@ -226,10 +182,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 79096</span>
-						<span>🔱 11251</span>
+						<span>⭐ 79247</span>
+						<span>🔱 11270</span>
 					</div>
 				<div class="stars-today">⭐ 22441 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/Imbad0202/academic-research-skills" target="_blank">
+    
+
+
+      
+        Imbad0202 /
+
+      academic-research-skills</a></p>
+				<p>
+      Academic Research Skills for Claude Code: research → write → review → revise → finalize
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 27082</span>
+						<span>🔱 2231</span>
+					</div>
+				<div class="stars-today">⭐ 22608 stars this month</div>
 				</div>
 			</div>
 	
@@ -248,10 +226,54 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 28063</span>
-						<span>🔱 4586</span>
+						<span>⭐ 28175</span>
+						<span>🔱 4605</span>
 					</div>
 				<div class="stars-today">⭐ 21631 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/Hmbown/CodeWhale" target="_blank">
+    
+
+
+      
+        Hmbown /
+
+      CodeWhale</a></p>
+				<p>
+      DeepSeek + MiMo coding agent in terminal
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Rust</span>
+						<span>⭐ 37012</span>
+						<span>🔱 3179</span>
+					</div>
+				<div class="stars-today">⭐ 35225 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/chopratejas/headroom" target="_blank">
+    
+
+
+      
+        chopratejas /
+
+      headroom</a></p>
+				<p>
+      Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 60-95% fewer tokens, same answers. Library, proxy, MCP server.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 11424</span>
+						<span>🔱 744</span>
+					</div>
+				<div class="stars-today">⭐ 7349 stars this month</div>
 				</div>
 			</div>
 	
@@ -270,8 +292,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Shell</span>
-						<span>⭐ 116875</span>
-						<span>🔱 10225</span>
+						<span>⭐ 117121</span>
+						<span>🔱 10241</span>
 					</div>
 				<div class="stars-today">⭐ 60443 stars this month</div>
 				</div>
@@ -292,32 +314,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 17931</span>
-						<span>🔱 2818</span>
+						<span>⭐ 17964</span>
+						<span>🔱 2820</span>
 					</div>
 				<div class="stars-today">⭐ 8794 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/decolua/9router" target="_blank">
-    
-
-
-      
-        decolua /
-
-      9router</a></p>
-				<p>
-      Unlimited FREE AI coding. Connect Claude Code, Codex, Cursor, Cline, Copilot, Antigravity to FREE Claude/GPT/Gemini via 40+ providers. Auto-fallback, RTK -40% tokens, never hit limits.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 JavaScript</span>
-						<span>⭐ 16200</span>
-						<span>🔱 2432</span>
-					</div>
-				<div class="stars-today">⭐ 12585 stars this month</div>
 				</div>
 			</div>
 	
@@ -336,10 +336,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 36026</span>
+						<span>⭐ 36039</span>
 						<span>🔱 3625</span>
 					</div>
 				<div class="stars-today">⭐ 6551 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/decolua/9router" target="_blank">
+    
+
+
+      
+        decolua /
+
+      9router</a></p>
+				<p>
+      Unlimited FREE AI coding. Connect Claude Code, Codex, Cursor, Cline, Copilot, Antigravity to FREE Claude/GPT/Gemini via 40+ providers. Auto-fallback, RTK -40% tokens, never hit limits.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 JavaScript</span>
+						<span>⭐ 16255</span>
+						<span>🔱 2440</span>
+					</div>
+				<div class="stars-today">⭐ 12585 stars this month</div>
 				</div>
 			</div>
 	
@@ -358,32 +380,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Rust</span>
-						<span>⭐ 70613</span>
-						<span>🔱 9443</span>
+						<span>⭐ 70653</span>
+						<span>🔱 9445</span>
 					</div>
 				<div class="stars-today">⭐ 19584 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/chopratejas/headroom" target="_blank">
-    
-
-
-      
-        chopratejas /
-
-      headroom</a></p>
-				<p>
-      Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 60-95% fewer tokens, same answers. Library, proxy, MCP server.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 10850</span>
-						<span>🔱 710</span>
-					</div>
-				<div class="stars-today">⭐ 7349 stars this month</div>
 				</div>
 			</div>
 	
@@ -402,8 +402,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 10396</span>
-						<span>🔱 864</span>
+						<span>⭐ 10445</span>
+						<span>🔱 873</span>
 					</div>
 				<div class="stars-today">⭐ 6443 stars this month</div>
 				</div>
@@ -424,10 +424,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 JavaScript</span>
-						<span>⭐ 15932</span>
-						<span>🔱 1508</span>
+						<span>⭐ 15963</span>
+						<span>🔱 1513</span>
 					</div>
 				<div class="stars-today">⭐ 8411 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/HKUDS/AI-Trader" target="_blank">
+    
+
+
+      
+        HKUDS /
+
+      AI-Trader</a></p>
+				<p>
+      "AI-Trader: 100% Fully-Automated Agent-Native Trading" 
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 19168</span>
+						<span>🔱 2924</span>
+					</div>
+				<div class="stars-today">⭐ 5322 stars this month</div>
 				</div>
 			</div>
 	
