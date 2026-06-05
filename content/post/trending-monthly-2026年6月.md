@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2026年6月
-date: 2026-06-05T07:55:58Z
+date: 2026-06-05T12:27:50Z
 categories:
 - monthly
 keywords:
@@ -30,8 +30,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 41569</span>
-						<span>🔱 2571</span>
+						<span>⭐ 41929</span>
+						<span>🔱 2585</span>
 					</div>
 				<div class="stars-today">⭐ 39989 stars this month</div>
 				</div>
@@ -52,30 +52,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 24010</span>
-						<span>🔱 1905</span>
+						<span>⭐ 24074</span>
+						<span>🔱 1912</span>
 					</div>
 				<div class="stars-today">⭐ 22392 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/anthropics/financial-services" target="_blank">
-    
-
-
-      
-        anthropics /
-
-      financial-services</a></p>
-				<p></p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 30018</span>
-						<span>🔱 4227</span>
-					</div>
-				<div class="stars-today">⭐ 22190 stars this month</div>
 				</div>
 			</div>
 	
@@ -94,8 +74,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 21282</span>
-						<span>🔱 1755</span>
+						<span>⭐ 21327</span>
+						<span>🔱 1754</span>
 					</div>
 				<div class="stars-today">⭐ 19078 stars this month</div>
 				</div>
@@ -116,32 +96,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 52384</span>
-						<span>🔱 4299</span>
+						<span>⭐ 52583</span>
+						<span>🔱 4315</span>
 					</div>
 				<div class="stars-today">⭐ 40734 stars this month</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/HKUDS/ViMax" target="_blank">
+				<p><a href="https://github.com/chopratejas/headroom" target="_blank">
     
 
 
       
-        HKUDS /
+        chopratejas /
 
-      ViMax</a></p>
+      headroom</a></p>
 				<p>
-      "ViMax: Agentic Video Generation (Director, Screenwriter, Producer, and Video Generator All-in-One)"
+      Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 60-95% fewer tokens, same answers. Library, proxy, MCP server.
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 8780</span>
-						<span>🔱 1337</span>
+						<span>⭐ 13898</span>
+						<span>🔱 879</span>
 					</div>
-				<div class="stars-today">⭐ 6009 stars this month</div>
+				<div class="stars-today">⭐ 10008 stars this month</div>
 				</div>
 			</div>
 	
@@ -160,10 +140,30 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 10392</span>
-						<span>🔱 1218</span>
+						<span>⭐ 10451</span>
+						<span>🔱 1223</span>
 					</div>
 				<div class="stars-today">⭐ 9244 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/anthropics/financial-services" target="_blank">
+    
+
+
+      
+        anthropics /
+
+      financial-services</a></p>
+				<p></p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 30065</span>
+						<span>🔱 4235</span>
+					</div>
+				<div class="stars-today">⭐ 22190 stars this month</div>
 				</div>
 			</div>
 	
@@ -182,8 +182,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 79666</span>
-						<span>🔱 11331</span>
+						<span>⭐ 79802</span>
+						<span>🔱 11352</span>
 					</div>
 				<div class="stars-today">⭐ 23096 stars this month</div>
 				</div>
@@ -204,8 +204,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 27427</span>
-						<span>🔱 2253</span>
+						<span>⭐ 27545</span>
+						<span>🔱 2267</span>
 					</div>
 				<div class="stars-today">⭐ 22914 stars this month</div>
 				</div>
@@ -226,54 +226,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 28557</span>
-						<span>🔱 4667</span>
+						<span>⭐ 28656</span>
+						<span>🔱 4685</span>
 					</div>
 				<div class="stars-today">⭐ 22038 stars this month</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/Hmbown/CodeWhale" target="_blank">
+				<p><a href="https://github.com/HKUDS/ViMax" target="_blank">
     
 
 
       
-        Hmbown /
+        HKUDS /
 
-      CodeWhale</a></p>
+      ViMax</a></p>
 				<p>
-      DeepSeek + MiMo coding agent in terminal
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Rust</span>
-						<span>⭐ 37132</span>
-						<span>🔱 3195</span>
-					</div>
-				<div class="stars-today">⭐ 34069 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/chopratejas/headroom" target="_blank">
-    
-
-
-      
-        chopratejas /
-
-      headroom</a></p>
-				<p>
-      Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 60-95% fewer tokens, same answers. Library, proxy, MCP server.
+      "ViMax: Agentic Video Generation (Director, Screenwriter, Producer, and Video Generator All-in-One)"
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 13378</span>
-						<span>🔱 854</span>
+						<span>⭐ 8811</span>
+						<span>🔱 1343</span>
 					</div>
-				<div class="stars-today">⭐ 10008 stars this month</div>
+				<div class="stars-today">⭐ 6009 stars this month</div>
 				</div>
 			</div>
 	
@@ -292,76 +270,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Shell</span>
-						<span>⭐ 118036</span>
-						<span>🔱 10320</span>
+						<span>⭐ 118307</span>
+						<span>🔱 10350</span>
 					</div>
 				<div class="stars-today">⭐ 59731 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/yikart/AiToEarn" target="_blank">
-    
-
-
-      
-        yikart /
-
-      AiToEarn</a></p>
-				<p>
-      Let's use AI to Earn!
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 18054</span>
-						<span>🔱 2829</span>
-					</div>
-				<div class="stars-today">⭐ 8957 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/bytedance/UI-TARS-desktop" target="_blank">
-    
-
-
-      
-        bytedance /
-
-      UI-TARS-desktop</a></p>
-				<p>
-      The Open-Source Multimodal AI Agent Stack: Connecting Cutting-Edge AI Models and Agent Infra
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 36073</span>
-						<span>🔱 3630</span>
-					</div>
-				<div class="stars-today">⭐ 6602 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/decolua/9router" target="_blank">
-    
-
-
-      
-        decolua /
-
-      9router</a></p>
-				<p>
-      Unlimited FREE AI coding. Connect Claude Code, Codex, Cursor, Cline, Copilot, Antigravity to FREE Claude/GPT/Gemini via 40+ providers. Auto-fallback, RTK -40% tokens, never hit limits.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 JavaScript</span>
-						<span>⭐ 16374</span>
-						<span>🔱 2459</span>
-					</div>
-				<div class="stars-today">⭐ 12689 stars this month</div>
 				</div>
 			</div>
 	
@@ -380,10 +292,98 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Rust</span>
-						<span>⭐ 70876</span>
-						<span>🔱 9470</span>
+						<span>⭐ 70936</span>
+						<span>🔱 9472</span>
 					</div>
 				<div class="stars-today">⭐ 19728 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/yikart/AiToEarn" target="_blank">
+    
+
+
+      
+        yikart /
+
+      AiToEarn</a></p>
+				<p>
+      Let's use AI to Earn!
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 18092</span>
+						<span>🔱 2832</span>
+					</div>
+				<div class="stars-today">⭐ 8957 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/decolua/9router" target="_blank">
+    
+
+
+      
+        decolua /
+
+      9router</a></p>
+				<p>
+      Unlimited FREE AI coding. Connect Claude Code, Codex, Cursor, Cline, Copilot, Antigravity to FREE Claude/GPT/Gemini via 40+ providers. Auto-fallback, RTK -40% tokens, never hit limits.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 JavaScript</span>
+						<span>⭐ 16408</span>
+						<span>🔱 2468</span>
+					</div>
+				<div class="stars-today">⭐ 12689 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/bytedance/UI-TARS-desktop" target="_blank">
+    
+
+
+      
+        bytedance /
+
+      UI-TARS-desktop</a></p>
+				<p>
+      The Open-Source Multimodal AI Agent Stack: Connecting Cutting-Edge AI Models and Agent Infra
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 36095</span>
+						<span>🔱 3633</span>
+					</div>
+				<div class="stars-today">⭐ 6602 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/Hmbown/CodeWhale" target="_blank">
+    
+
+
+      
+        Hmbown /
+
+      CodeWhale</a></p>
+				<p>
+      DeepSeek + MiMo coding agent in terminal
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Rust</span>
+						<span>⭐ 37165</span>
+						<span>🔱 3197</span>
+					</div>
+				<div class="stars-today">⭐ 34069 stars this month</div>
 				</div>
 			</div>
 	
@@ -402,8 +402,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 10619</span>
-						<span>🔱 888</span>
+						<span>⭐ 10661</span>
+						<span>🔱 892</span>
 					</div>
 				<div class="stars-today">⭐ 6648 stars this month</div>
 				</div>
@@ -424,32 +424,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 JavaScript</span>
-						<span>⭐ 16099</span>
-						<span>🔱 1520</span>
+						<span>⭐ 16140</span>
+						<span>🔱 1521</span>
 					</div>
 				<div class="stars-today">⭐ 8545 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/HKUDS/AI-Trader" target="_blank">
-    
-
-
-      
-        HKUDS /
-
-      AI-Trader</a></p>
-				<p>
-      "AI-Trader: 100% Fully-Automated Agent-Native Trading" 
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 19288</span>
-						<span>🔱 2928</span>
-					</div>
-				<div class="stars-today">⭐ 5340 stars this month</div>
 				</div>
 			</div>
 	

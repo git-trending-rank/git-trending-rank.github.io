@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2026年第23周
-date: 2026-06-05T07:55:57Z
+date: 2026-06-05T12:27:50Z
 categories:
 - weekly
 keywords:
@@ -14,28 +14,6 @@ keywords:
 	<main class="container">
         <div class="repo-list" id="repoList">
 
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/harry0703/MoneyPrinterTurbo" target="_blank">
-    
-
-
-      
-        harry0703 /
-
-      MoneyPrinterTurbo</a></p>
-				<p>
-      利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 79666</span>
-						<span>🔱 11331</span>
-					</div>
-				<div class="stars-today">⭐ 14566 stars this week</div>
-				</div>
-			</div>
 	
 			<div class="repo-card">
 				<p><a href="https://github.com/chopratejas/headroom" target="_blank">
@@ -52,8 +30,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 13378</span>
-						<span>🔱 854</span>
+						<span>⭐ 13898</span>
+						<span>🔱 879</span>
 					</div>
 				<div class="stars-today">⭐ 9421 stars this week</div>
 				</div>
@@ -74,10 +52,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 144657</span>
-						<span>🔱 9907</span>
+						<span>⭐ 144895</span>
+						<span>🔱 9923</span>
 					</div>
 				<div class="stars-today">⭐ 17165 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/harry0703/MoneyPrinterTurbo" target="_blank">
+    
+
+
+      
+        harry0703 /
+
+      MoneyPrinterTurbo</a></p>
+				<p>
+      利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 79802</span>
+						<span>🔱 11352</span>
+					</div>
+				<div class="stars-today">⭐ 14566 stars this week</div>
 				</div>
 			</div>
 	
@@ -96,10 +96,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 HTML</span>
-						<span>⭐ 6037</span>
-						<span>🔱 805</span>
+						<span>⭐ 6076</span>
+						<span>🔱 815</span>
 					</div>
 				<div class="stars-today">⭐ 2159 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/run-llama/liteparse" target="_blank">
+    
+
+
+      
+        run-llama /
+
+      liteparse</a></p>
+				<p>
+      A fast, helpful, and open-source document parser
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Rust</span>
+						<span>⭐ 9170</span>
+						<span>🔱 553</span>
+					</div>
+				<div class="stars-today">⭐ 2877 stars this week</div>
 				</div>
 			</div>
 	
@@ -118,32 +140,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 19818</span>
+						<span>⭐ 19857</span>
 						<span>🔱 1468</span>
 					</div>
 				<div class="stars-today">⭐ 2111 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/hardikpandya/stop-slop" target="_blank">
-    
-
-
-      
-        hardikpandya /
-
-      stop-slop</a></p>
-				<p>
-      A skill file for removing AI tells from prose
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 </span>
-						<span>⭐ 8753</span>
-						<span>🔱 608</span>
-					</div>
-				<div class="stars-today">⭐ 2560 stars this week</div>
 				</div>
 			</div>
 	
@@ -162,8 +162,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 25593</span>
-						<span>🔱 2240</span>
+						<span>⭐ 25634</span>
+						<span>🔱 2241</span>
 					</div>
 				<div class="stars-today">⭐ 2740 stars this week</div>
 				</div>
@@ -184,32 +184,120 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 JavaScript</span>
-						<span>⭐ 207667</span>
-						<span>🔱 31866</span>
+						<span>⭐ 207897</span>
+						<span>🔱 31902</span>
 					</div>
 				<div class="stars-today">⭐ 10369 stars this week</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/Leonxlnx/taste-skill" target="_blank">
+				<p><a href="https://github.com/Open-LLM-VTuber/Open-LLM-VTuber" target="_blank">
     
 
 
       
-        Leonxlnx /
+        Open-LLM-VTuber /
 
-      taste-skill</a></p>
+      Open-LLM-VTuber</a></p>
 				<p>
-      Taste-Skill - gives your AI good taste. stops the AI from generating boring, generic slop 
+      Talk to any LLM with hands-free voice interaction, voice interruption, and Live2D taking face running locally across platforms
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Shell</span>
-						<span>⭐ 33319</span>
-						<span>🔱 2454</span>
+						<span>🔠 Python</span>
+						<span>⭐ 9907</span>
+						<span>🔱 1180</span>
 					</div>
-				<div class="stars-today">⭐ 7531 stars this week</div>
+				<div class="stars-today">⭐ 1604 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/hardikpandya/stop-slop" target="_blank">
+    
+
+
+      
+        hardikpandya /
+
+      stop-slop</a></p>
+				<p>
+      A skill file for removing AI tells from prose
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 </span>
+						<span>⭐ 8786</span>
+						<span>🔱 608</span>
+					</div>
+				<div class="stars-today">⭐ 2560 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/can1357/oh-my-pi" target="_blank">
+    
+
+
+      
+        can1357 /
+
+      oh-my-pi</a></p>
+				<p>
+      ⌥ AI Coding agent for the terminal — hash-anchored edits, optimized tool harness, LSP, Python, browser, subagents, and more
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 10661</span>
+						<span>🔱 892</span>
+					</div>
+				<div class="stars-today">⭐ 2348 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/OpenBMB/VoxCPM" target="_blank">
+    
+
+
+      
+        OpenBMB /
+
+      VoxCPM</a></p>
+				<p>
+      VoxCPM2: Tokenizer-Free TTS for Multilingual Speech Generation, Creative Voice Design, and True-to-Life Cloning
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 26106</span>
+						<span>🔱 2969</span>
+					</div>
+				<div class="stars-today">⭐ 5771 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/ogulcancelik/herdr" target="_blank">
+    
+
+
+      
+        ogulcancelik /
+
+      herdr</a></p>
+				<p>
+      agent multiplexer that lives in your terminal.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Rust</span>
+						<span>⭐ 4448</span>
+						<span>🔱 269</span>
+					</div>
+				<div class="stars-today">⭐ 1544 stars this week</div>
 				</div>
 			</div>
 	
@@ -228,8 +316,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 52384</span>
-						<span>🔱 4299</span>
+						<span>⭐ 52583</span>
+						<span>🔱 4315</span>
 					</div>
 				<div class="stars-today">⭐ 9895 stars this week</div>
 				</div>
@@ -250,98 +338,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 1832</span>
+						<span>⭐ 1842</span>
 						<span>🔱 149</span>
 					</div>
 				<div class="stars-today">⭐ 784 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/can1357/oh-my-pi" target="_blank">
-    
-
-
-      
-        can1357 /
-
-      oh-my-pi</a></p>
-				<p>
-      ⌥ AI Coding agent for the terminal — hash-anchored edits, optimized tool harness, LSP, Python, browser, subagents, and more
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 10619</span>
-						<span>🔱 888</span>
-					</div>
-				<div class="stars-today">⭐ 2348 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/ogulcancelik/herdr" target="_blank">
-    
-
-
-      
-        ogulcancelik /
-
-      herdr</a></p>
-				<p>
-      agent multiplexer that lives in your terminal.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Rust</span>
-						<span>⭐ 4356</span>
-						<span>🔱 265</span>
-					</div>
-				<div class="stars-today">⭐ 1544 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/colbymchenry/codegraph" target="_blank">
-    
-
-
-      
-        colbymchenry /
-
-      codegraph</a></p>
-				<p>
-      Pre-indexed code knowledge graph for Claude Code, Codex, Gemini, Cursor, OpenCode, AntiGravity, Kiro, and Hermes Agent — fewer tokens, fewer tool calls, 100% local
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 41569</span>
-						<span>🔱 2571</span>
-					</div>
-				<div class="stars-today">⭐ 9452 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/OpenBMB/VoxCPM" target="_blank">
-    
-
-
-      
-        OpenBMB /
-
-      VoxCPM</a></p>
-				<p>
-      VoxCPM2: Tokenizer-Free TTS for Multilingual Speech Generation, Creative Voice Design, and True-to-Life Cloning
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 25931</span>
-						<span>🔱 2950</span>
-					</div>
-				<div class="stars-today">⭐ 5771 stars this week</div>
 				</div>
 			</div>
 	
@@ -360,10 +360,54 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 130275</span>
-						<span>🔱 21157</span>
+						<span>⭐ 130337</span>
+						<span>🔱 21161</span>
 					</div>
 				<div class="stars-today">⭐ 3005 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/Leonxlnx/taste-skill" target="_blank">
+    
+
+
+      
+        Leonxlnx /
+
+      taste-skill</a></p>
+				<p>
+      Taste-Skill - gives your AI good taste. stops the AI from generating boring, generic slop 
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Shell</span>
+						<span>⭐ 33468</span>
+						<span>🔱 2459</span>
+					</div>
+				<div class="stars-today">⭐ 7531 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/colbymchenry/codegraph" target="_blank">
+    
+
+
+      
+        colbymchenry /
+
+      codegraph</a></p>
+				<p>
+      Pre-indexed code knowledge graph for Claude Code, Codex, Gemini, Cursor, OpenCode, AntiGravity, Kiro, and Hermes Agent — fewer tokens, fewer tool calls, 100% local
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 41929</span>
+						<span>🔱 2585</span>
+					</div>
+				<div class="stars-today">⭐ 9452 stars this week</div>
 				</div>
 			</div>
 	
@@ -382,32 +426,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 14248</span>
-						<span>🔱 1673</span>
+						<span>⭐ 14297</span>
+						<span>🔱 1682</span>
 					</div>
 				<div class="stars-today">⭐ 2698 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/OpenMOSS/MOSS-TTS" target="_blank">
-    
-
-
-      
-        OpenMOSS /
-
-      MOSS-TTS</a></p>
-				<p>
-      MOSS‑TTS Family is an open‑source speech and sound generation model family from MOSI.AI and the OpenMOSS team. It is designed for high‑fidelity, high‑expressiveness, and complex real‑world scenarios, covering stable long‑form speech, multi‑speaker dialogue, voice/character design, environmental sound effects, and real‑time streaming TTS.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 3108</span>
-						<span>🔱 274</span>
-					</div>
-				<div class="stars-today">⭐ 997 stars this week</div>
 				</div>
 			</div>
 	

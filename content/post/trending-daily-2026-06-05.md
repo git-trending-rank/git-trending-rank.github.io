@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2026-06-05
-date: 2026-06-05T07:55:58Z
+date: 2026-06-05T12:27:50Z
 categories:
 - daily
 keywords:
@@ -14,28 +14,6 @@ keywords:
 	<main class="container">
         <div class="repo-list" id="repoList">
 
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/chopratejas/headroom" target="_blank">
-    
-
-
-      
-        chopratejas /
-
-      headroom</a></p>
-				<p>
-      Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 60-95% fewer tokens, same answers. Library, proxy, MCP server.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 13378</span>
-						<span>🔱 854</span>
-					</div>
-				<div class="stars-today">⭐ 3142 stars today</div>
-				</div>
-			</div>
 	
 			<div class="repo-card">
 				<p><a href="https://github.com/NousResearch/hermes-agent" target="_blank">
@@ -52,98 +30,54 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 181567</span>
-						<span>🔱 31152</span>
+						<span>⭐ 181962</span>
+						<span>🔱 31221</span>
 					</div>
-				<div class="stars-today">⭐ 1913 stars today</div>
+				<div class="stars-today">⭐ 1821 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/affaan-m/ECC" target="_blank">
+				<p><a href="https://github.com/chopratejas/headroom" target="_blank">
     
 
 
       
-        affaan-m /
+        chopratejas /
 
-      ECC</a></p>
+      headroom</a></p>
 				<p>
-      The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 JavaScript</span>
-						<span>⭐ 207667</span>
-						<span>🔱 31866</span>
-					</div>
-				<div class="stars-today">⭐ 1750 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/PaddlePaddle/PaddleOCR" target="_blank">
-    
-
-
-      
-        PaddlePaddle /
-
-      PaddleOCR</a></p>
-				<p>
-      Turn any PDF or image document into structured data for your AI. A powerful, lightweight OCR toolkit that bridges the gap between images/PDFs and LLMs. Supports 100+ languages.
+      Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 60-95% fewer tokens, same answers. Library, proxy, MCP server.
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 80155</span>
-						<span>🔱 10617</span>
+						<span>⭐ 13898</span>
+						<span>🔱 879</span>
 					</div>
-				<div class="stars-today">⭐ 141 stars today</div>
+				<div class="stars-today">⭐ 2503 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/github/spec-kit" target="_blank">
+				<p><a href="https://github.com/CopilotKit/CopilotKit" target="_blank">
     
 
 
       
-        github /
+        CopilotKit /
 
-      spec-kit</a></p>
+      CopilotKit</a></p>
 				<p>
-      💫 Toolkit to help you get started with Spec-Driven Development
+      The Frontend Stack for Agents & Generative UI. React + Angular. Makers of the AG-UI Protocol
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 108794</span>
-						<span>🔱 9613</span>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 32347</span>
+						<span>🔱 4171</span>
 					</div>
-				<div class="stars-today">⭐ 321 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/NVIDIA/cosmos" target="_blank">
-    
-
-
-      
-        NVIDIA /
-
-      cosmos</a></p>
-				<p>
-      NVIDIA Cosmos is an open platform of world models, datasets, and tools that enables developers to build Physical AI for robots, autonomous vehicles, smart infrastructure, and more.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Jupyter Notebook</span>
-						<span>⭐ 9170</span>
-						<span>🔱 587</span>
-					</div>
-				<div class="stars-today">⭐ 133 stars today</div>
+				<div class="stars-today">⭐ 350 stars today</div>
 				</div>
 			</div>
 	
@@ -162,142 +96,98 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 25368</span>
-						<span>🔱 2936</span>
+						<span>⭐ 25557</span>
+						<span>🔱 2950</span>
 					</div>
-				<div class="stars-today">⭐ 212 stars today</div>
+				<div class="stars-today">⭐ 1142 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/Open-LLM-VTuber/Open-LLM-VTuber" target="_blank">
+				<p><a href="https://github.com/affaan-m/ECC" target="_blank">
     
 
 
       
-        Open-LLM-VTuber /
+        affaan-m /
 
-      Open-LLM-VTuber</a></p>
+      ECC</a></p>
 				<p>
-      Talk to any LLM with hands-free voice interaction, voice interruption, and Live2D taking face running locally across platforms
+      The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 JavaScript</span>
+						<span>⭐ 207897</span>
+						<span>🔱 31902</span>
+					</div>
+				<div class="stars-today">⭐ 1368 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/Panniantong/Agent-Reach" target="_blank">
+    
+
+
+      
+        Panniantong /
+
+      Agent-Reach</a></p>
+				<p>
+      Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 9795</span>
-						<span>🔱 1170</span>
+						<span>⭐ 21267</span>
+						<span>🔱 1849</span>
 					</div>
-				<div class="stars-today">⭐ 581 stars today</div>
+				<div class="stars-today">⭐ 127 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/jwasham/coding-interview-university" target="_blank">
+				<p><a href="https://github.com/NVIDIA/cosmos" target="_blank">
     
 
 
       
-        jwasham /
+        NVIDIA /
 
-      coding-interview-university</a></p>
+      cosmos</a></p>
 				<p>
-      A complete computer science study plan to become a software engineer.
+      NVIDIA Cosmos is an open platform of world models, datasets, and tools that enables developers to build Physical AI for robots, autonomous vehicles, smart infrastructure, and more.
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 </span>
-						<span>⭐ 349956</span>
-						<span>🔱 83254</span>
+						<span>🔠 Jupyter Notebook</span>
+						<span>⭐ 9266</span>
+						<span>🔱 589</span>
 					</div>
-				<div class="stars-today">⭐ 632 stars today</div>
+				<div class="stars-today">⭐ 494 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/github/copilot-sdk" target="_blank">
+				<p><a href="https://github.com/666ghj/MiroFish" target="_blank">
     
 
 
       
-        github /
+        666ghj /
 
-      copilot-sdk</a></p>
+      MiroFish</a></p>
 				<p>
-      Multi-platform SDK for integrating GitHub Copilot Agent into apps and services
+      A Simple and Universal Swarm Intelligence Engine, Predicting Anything. 简洁通用的群体智能引擎，预测万物
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Java</span>
-						<span>⭐ 9068</span>
-						<span>🔱 1216</span>
+						<span>🔠 Python</span>
+						<span>⭐ 64469</span>
+						<span>🔱 10065</span>
 					</div>
-				<div class="stars-today">⭐ 38 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/aquasecurity/trivy" target="_blank">
-    
-
-
-      
-        aquasecurity /
-
-      trivy</a></p>
-				<p>
-      Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Go</span>
-						<span>⭐ 35729</span>
-						<span>🔱 435</span>
-					</div>
-				<div class="stars-today">⭐ 255 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/openclaw/openclaw-windows-node" target="_blank">
-    
-
-
-      
-        openclaw /
-
-      openclaw-windows-node</a></p>
-				<p>
-      Windows companion suite for OpenClaw - System Tray app, Shared library, Node, and PowerToys Command Palette extension
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 C#</span>
-						<span>⭐ 1428</span>
-						<span>🔱 172</span>
-					</div>
-				<div class="stars-today">⭐ 411 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/reconurge/flowsint" target="_blank">
-    
-
-
-      
-        reconurge /
-
-      flowsint</a></p>
-				<p>
-      A modern platform for visual, flexible, and extensible graph-based investigations. For cybersecurity analysts and investigators.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 5419</span>
-						<span>🔱 653</span>
-					</div>
-				<div class="stars-today">⭐ 308 stars today</div>
+				<div class="stars-today">⭐ 324 stars today</div>
 				</div>
 			</div>
 	
@@ -316,10 +206,186 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 27860</span>
-						<span>🔱 2373</span>
+						<span>⭐ 27992</span>
+						<span>🔱 2377</span>
 					</div>
-				<div class="stars-today">⭐ 199 stars today</div>
+				<div class="stars-today">⭐ 738 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/PaddlePaddle/PaddleOCR" target="_blank">
+    
+
+
+      
+        PaddlePaddle /
+
+      PaddleOCR</a></p>
+				<p>
+      Turn any PDF or image document into structured data for your AI. A powerful, lightweight OCR toolkit that bridges the gap between images/PDFs and LLMs. Supports 100+ languages.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 80307</span>
+						<span>🔱 10623</span>
+					</div>
+				<div class="stars-today">⭐ 755 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/openai/plugins" target="_blank">
+    
+
+
+      
+        openai /
+
+      plugins</a></p>
+				<p>
+      OpenAI Plugins
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 JavaScript</span>
+						<span>⭐ 1428</span>
+						<span>🔱 233</span>
+					</div>
+				<div class="stars-today">⭐ 17 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/MemPalace/mempalace" target="_blank">
+    
+
+
+      
+        MemPalace /
+
+      mempalace</a></p>
+				<p>
+      The best-benchmarked open-source AI memory system. And it's free.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 53636</span>
+						<span>🔱 7066</span>
+					</div>
+				<div class="stars-today">⭐ 228 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/openclaw/openclaw-windows-node" target="_blank">
+    
+
+
+      
+        openclaw /
+
+      openclaw-windows-node</a></p>
+				<p>
+      Windows companion suite for OpenClaw - System Tray app, Shared library, Node, and PowerToys Command Palette extension
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 C#</span>
+						<span>⭐ 1486</span>
+						<span>🔱 174</span>
+					</div>
+				<div class="stars-today">⭐ 329 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/aquasecurity/trivy" target="_blank">
+    
+
+
+      
+        aquasecurity /
+
+      trivy</a></p>
+				<p>
+      Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Go</span>
+						<span>⭐ 35760</span>
+						<span>🔱 438</span>
+					</div>
+				<div class="stars-today">⭐ 208 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/HKUDS/Vibe-Trading" target="_blank">
+    
+
+
+      
+        HKUDS /
+
+      Vibe-Trading</a></p>
+				<p>
+      "Vibe-Trading: Your Personal Trading Agent"
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 10775</span>
+						<span>🔱 2104</span>
+					</div>
+				<div class="stars-today">⭐ 884 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/jwasham/coding-interview-university" target="_blank">
+    
+
+
+      
+        jwasham /
+
+      coding-interview-university</a></p>
+				<p>
+      A complete computer science study plan to become a software engineer.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 </span>
+						<span>⭐ 350157</span>
+						<span>🔱 83266</span>
+					</div>
+				<div class="stars-today">⭐ 757 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/github/copilot-sdk" target="_blank">
+    
+
+
+      
+        github /
+
+      copilot-sdk</a></p>
+				<p>
+      Multi-platform SDK for integrating GitHub Copilot Agent into apps and services
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Java</span>
+						<span>⭐ 9126</span>
+						<span>🔱 1216</span>
+					</div>
+				<div class="stars-today">⭐ 310 stars today</div>
 				</div>
 			</div>
 	
