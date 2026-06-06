@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2026年6月
-date: 2026-06-06T11:12:26Z
+date: 2026-06-06T12:58:20Z
 categories:
 - monthly
 keywords:
@@ -30,8 +30,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 42755</span>
-						<span>🔱 2622</span>
+						<span>⭐ 42814</span>
+						<span>🔱 2631</span>
 					</div>
 				<div class="stars-today">⭐ 41379 stars this month</div>
 				</div>
@@ -52,10 +52,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 24315</span>
-						<span>🔱 1936</span>
+						<span>⭐ 24342</span>
+						<span>🔱 1939</span>
 					</div>
 				<div class="stars-today">⭐ 22637 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/chopratejas/headroom" target="_blank">
+    
+
+
+      
+        chopratejas /
+
+      headroom</a></p>
+				<p>
+      Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 60-95% fewer tokens, same answers. Library, proxy, MCP server.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 15245</span>
+						<span>🔱 970</span>
+					</div>
+				<div class="stars-today">⭐ 12410 stars this month</div>
 				</div>
 			</div>
 	
@@ -74,8 +96,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 21483</span>
-						<span>🔱 1769</span>
+						<span>⭐ 21496</span>
+						<span>🔱 1771</span>
 					</div>
 				<div class="stars-today">⭐ 19261 stars this month</div>
 				</div>
@@ -96,32 +118,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 53221</span>
-						<span>🔱 4363</span>
+						<span>⭐ 53278</span>
+						<span>🔱 4369</span>
 					</div>
 				<div class="stars-today">⭐ 40696 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/chopratejas/headroom" target="_blank">
-    
-
-
-      
-        chopratejas /
-
-      headroom</a></p>
-				<p>
-      Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 60-95% fewer tokens, same answers. Library, proxy, MCP server.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 15086</span>
-						<span>🔱 964</span>
-					</div>
-				<div class="stars-today">⭐ 12410 stars this month</div>
 				</div>
 			</div>
 	
@@ -140,30 +140,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 10668</span>
-						<span>🔱 1256</span>
+						<span>⭐ 10695</span>
+						<span>🔱 1258</span>
 					</div>
 				<div class="stars-today">⭐ 9467 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/anthropics/financial-services" target="_blank">
-    
-
-
-      
-        anthropics /
-
-      financial-services</a></p>
-				<p></p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 30193</span>
-						<span>🔱 4261</span>
-					</div>
-				<div class="stars-today">⭐ 22354 stars this month</div>
 				</div>
 			</div>
 	
@@ -182,8 +162,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 80179</span>
-						<span>🔱 11420</span>
+						<span>⭐ 80226</span>
+						<span>🔱 11429</span>
 					</div>
 				<div class="stars-today">⭐ 23580 stars this month</div>
 				</div>
@@ -204,8 +184,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 27856</span>
-						<span>🔱 2300</span>
+						<span>⭐ 27893</span>
+						<span>🔱 2302</span>
 					</div>
 				<div class="stars-today">⭐ 23258 stars this month</div>
 				</div>
@@ -226,54 +206,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 29117</span>
-						<span>🔱 4758</span>
+						<span>⭐ 29173</span>
+						<span>🔱 4764</span>
 					</div>
 				<div class="stars-today">⭐ 22445 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/HKUDS/ViMax" target="_blank">
-    
-
-
-      
-        HKUDS /
-
-      ViMax</a></p>
-				<p>
-      "ViMax: Agentic Video Generation (Director, Screenwriter, Producer, and Video Generator All-in-One)"
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 8888</span>
-						<span>🔱 1355</span>
-					</div>
-				<div class="stars-today">⭐ 6125 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/mattpocock/skills" target="_blank">
-    
-
-
-      
-        mattpocock /
-
-      skills</a></p>
-				<p>
-      Skills for Real Engineers. Straight from my .claude directory.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Shell</span>
-						<span>⭐ 119056</span>
-						<span>🔱 10433</span>
-					</div>
-				<div class="stars-today">⭐ 58947 stars this month</div>
 				</div>
 			</div>
 	
@@ -292,10 +228,30 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Rust</span>
-						<span>⭐ 71177</span>
-						<span>🔱 9496</span>
+						<span>⭐ 71199</span>
+						<span>🔱 9497</span>
 					</div>
 				<div class="stars-today">⭐ 19902 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/anthropics/financial-services" target="_blank">
+    
+
+
+      
+        anthropics /
+
+      financial-services</a></p>
+				<p></p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 30202</span>
+						<span>🔱 4264</span>
+					</div>
+				<div class="stars-today">⭐ 22354 stars this month</div>
 				</div>
 			</div>
 	
@@ -314,10 +270,76 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 18305</span>
-						<span>🔱 2860</span>
+						<span>⭐ 18317</span>
+						<span>🔱 2864</span>
 					</div>
 				<div class="stars-today">⭐ 9082 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/mattpocock/skills" target="_blank">
+    
+
+
+      
+        mattpocock /
+
+      skills</a></p>
+				<p>
+      Skills for Real Engineers. Straight from my .claude directory.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Shell</span>
+						<span>⭐ 119124</span>
+						<span>🔱 10440</span>
+					</div>
+				<div class="stars-today">⭐ 58947 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/can1357/oh-my-pi" target="_blank">
+    
+
+
+      
+        can1357 /
+
+      oh-my-pi</a></p>
+				<p>
+      ⌥ AI Coding agent for the terminal — hash-anchored edits, optimized tool harness, LSP, Python, browser, subagents, and more
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 10811</span>
+						<span>🔱 913</span>
+					</div>
+				<div class="stars-today">⭐ 6817 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/HKUDS/ViMax" target="_blank">
+    
+
+
+      
+        HKUDS /
+
+      ViMax</a></p>
+				<p>
+      "ViMax: Agentic Video Generation (Director, Screenwriter, Producer, and Video Generator All-in-One)"
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 8891</span>
+						<span>🔱 1358</span>
+					</div>
+				<div class="stars-today">⭐ 6125 stars this month</div>
 				</div>
 			</div>
 	
@@ -336,8 +358,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 JavaScript</span>
-						<span>⭐ 16544</span>
-						<span>🔱 2494</span>
+						<span>⭐ 16555</span>
+						<span>🔱 2496</span>
 					</div>
 				<div class="stars-today">⭐ 12723 stars this month</div>
 				</div>
@@ -358,7 +380,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 36144</span>
+						<span>⭐ 36148</span>
 						<span>🔱 3638</span>
 					</div>
 				<div class="stars-today">⭐ 6653 stars this month</div>
@@ -380,32 +402,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Rust</span>
-						<span>⭐ 37278</span>
-						<span>🔱 3203</span>
+						<span>⭐ 37286</span>
+						<span>🔱 3205</span>
 					</div>
 				<div class="stars-today">⭐ 31602 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/can1357/oh-my-pi" target="_blank">
-    
-
-
-      
-        can1357 /
-
-      oh-my-pi</a></p>
-				<p>
-      ⌥ AI Coding agent for the terminal — hash-anchored edits, optimized tool harness, LSP, Python, browser, subagents, and more
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 10801</span>
-						<span>🔱 912</span>
-					</div>
-				<div class="stars-today">⭐ 6817 stars this month</div>
 				</div>
 			</div>
 	
@@ -424,8 +424,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 JavaScript</span>
-						<span>⭐ 16303</span>
-						<span>🔱 1534</span>
+						<span>⭐ 16310</span>
+						<span>🔱 1536</span>
 					</div>
 				<div class="stars-today">⭐ 8669 stars this month</div>
 				</div>
