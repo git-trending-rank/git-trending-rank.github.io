@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2026-06-07
-date: 2026-06-07T10:17:49Z
+date: 2026-06-07T13:10:34Z
 categories:
 - daily
 keywords:
@@ -30,208 +30,76 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 29383</span>
-						<span>🔱 2490</span>
+						<span>⭐ 29623</span>
+						<span>🔱 2504</span>
 					</div>
-				<div class="stars-today">⭐ 439 stars today</div>
+				<div class="stars-today">⭐ 1097 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/CopilotKit/CopilotKit" target="_blank">
+				<p><a href="https://github.com/opencv/opencv" target="_blank">
     
 
 
       
-        CopilotKit /
+        opencv /
 
-      CopilotKit</a></p>
+      opencv</a></p>
 				<p>
-      The Frontend Stack for Agents & Generative UI. React, Angular, Mobile, Slack, and more. Makers of the AG-UI Protocol
+      Open Source Computer Vision Library
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 33489</span>
-						<span>🔱 4262</span>
+						<span>🔠 C++</span>
+						<span>⭐ 87903</span>
+						<span>🔱 56589</span>
 					</div>
-				<div class="stars-today">⭐ 631 stars today</div>
+				<div class="stars-today">⭐ 58 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/MemPalace/mempalace" target="_blank">
+				<p><a href="https://github.com/Leonxlnx/taste-skill" target="_blank">
     
 
 
       
-        MemPalace /
+        Leonxlnx /
 
-      mempalace</a></p>
+      taste-skill</a></p>
 				<p>
-      The best-benchmarked open-source AI memory system. And it's free.
+      Taste-Skill - gives your AI good taste. stops the AI from generating boring, generic slop 
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 54504</span>
-						<span>🔱 7126</span>
+						<span>🔠 Shell</span>
+						<span>⭐ 35863</span>
+						<span>🔱 2605</span>
 					</div>
-				<div class="stars-today">⭐ 446 stars today</div>
+				<div class="stars-today">⭐ 1104 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/danielmiessler/Personal_AI_Infrastructure" target="_blank">
+				<p><a href="https://github.com/NousResearch/hermes-agent" target="_blank">
     
 
 
       
-        danielmiessler /
+        NousResearch /
 
-      Personal_AI_Infrastructure</a></p>
+      hermes-agent</a></p>
 				<p>
-      Agentic AI Infrastructure for magnifying HUMAN capabilities.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 15130</span>
-						<span>🔱 2133</span>
-					</div>
-				<div class="stars-today">⭐ 70 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/openai/plugins" target="_blank">
-    
-
-
-      
-        openai /
-
-      plugins</a></p>
-				<p>
-      OpenAI Plugins
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 JavaScript</span>
-						<span>⭐ 1879</span>
-						<span>🔱 262</span>
-					</div>
-				<div class="stars-today">⭐ 213 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/Panniantong/Agent-Reach" target="_blank">
-    
-
-
-      
-        Panniantong /
-
-      Agent-Reach</a></p>
-				<p>
-      Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.
+      The agent that grows with you
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 22820</span>
-						<span>🔱 1935</span>
+						<span>⭐ 185346</span>
+						<span>🔱 31858</span>
 					</div>
-				<div class="stars-today">⭐ 683 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/sveltejs/svelte" target="_blank">
-    
-
-
-      
-        sveltejs /
-
-      svelte</a></p>
-				<p>
-      web development for the rest of us
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 JavaScript</span>
-						<span>⭐ 87086</span>
-						<span>🔱 4939</span>
-					</div>
-				<div class="stars-today">⭐ 25 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/nginx/nginx" target="_blank">
-    
-
-
-      
-        nginx /
-
-      nginx</a></p>
-				<p>
-      The official NGINX Open Source repository.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 C</span>
-						<span>⭐ 30745</span>
-						<span>🔱 7959</span>
-					</div>
-				<div class="stars-today">⭐ 20 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/aquasecurity/trivy" target="_blank">
-    
-
-
-      
-        aquasecurity /
-
-      trivy</a></p>
-				<p>
-      Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Go</span>
-						<span>⭐ 36056</span>
-						<span>🔱 458</span>
-					</div>
-				<div class="stars-today">⭐ 159 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/golang/go" target="_blank">
-    
-
-
-      
-        golang /
-
-      go</a></p>
-				<p>
-      The Go programming language
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Go</span>
-						<span>⭐ 134571</span>
-						<span>🔱 19087</span>
-					</div>
-				<div class="stars-today">⭐ 30 stars today</div>
+				<div class="stars-today">⭐ 1117 stars today</div>
 				</div>
 			</div>
 	
@@ -250,164 +118,230 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 26832</span>
-						<span>🔱 3056</span>
+						<span>⭐ 26904</span>
+						<span>🔱 3066</span>
 					</div>
-				<div class="stars-today">⭐ 794 stars today</div>
+				<div class="stars-today">⭐ 555 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/obra/superpowers" target="_blank">
+				<p><a href="https://github.com/yikart/AiToEarn" target="_blank">
     
 
 
       
-        obra /
+        yikart /
 
-      superpowers</a></p>
+      AiToEarn</a></p>
 				<p>
-      An agentic skills framework & software development methodology that works.
+      Let's use AI to Earn!
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Shell</span>
-						<span>⭐ 219993</span>
-						<span>🔱 19574</span>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 18500</span>
+						<span>🔱 2886</span>
 					</div>
-				<div class="stars-today">⭐ 700 stars today</div>
+				<div class="stars-today">⭐ 180 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/santifer/career-ops" target="_blank">
+				<p><a href="https://github.com/aaif-goose/goose" target="_blank">
     
 
 
       
-        santifer /
+        aaif-goose /
 
-      career-ops</a></p>
+      goose</a></p>
 				<p>
-      AI-powered job search system built on Claude Code. 14 skill modes, Go dashboard, PDF generation, batch processing.
+      an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 JavaScript</span>
-						<span>⭐ 49656</span>
-						<span>🔱 10239</span>
+						<span>🔠 Rust</span>
+						<span>⭐ 47179</span>
+						<span>🔱 4970</span>
 					</div>
-				<div class="stars-today">⭐ 193 stars today</div>
+				<div class="stars-today">⭐ 262 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/openai/whisper" target="_blank">
+				<p><a href="https://github.com/Crosstalk-Solutions/project-nomad" target="_blank">
+    
+
+
+      
+        Crosstalk-Solutions /
+
+      project-nomad</a></p>
+				<p>
+      Project N.O.M.A.D, is a self-contained, offline survival computer packed with critical tools, knowledge, and AI to keep you informed and empowered—anytime, anywhere.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 29456</span>
+						<span>🔱 2923</span>
+					</div>
+				<div class="stars-today">⭐ 304 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/ggml-org/llama.cpp" target="_blank">
+    
+
+
+      
+        ggml-org /
+
+      llama.cpp</a></p>
+				<p>
+      LLM inference in C/C++
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 C++</span>
+						<span>⭐ 115101</span>
+						<span>🔱 19270</span>
+					</div>
+				<div class="stars-today">⭐ 199 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/RyanCodrai/turbovec" target="_blank">
+    
+
+
+      
+        RyanCodrai /
+
+      turbovec</a></p>
+				<p>
+      A vector index built on TurboQuant, written in Rust with Python bindings
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 6304</span>
+						<span>🔱 619</span>
+					</div>
+				<div class="stars-today">⭐ 1533 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/TapXWorld/ChinaTextbook" target="_blank">
+    
+
+
+      
+        TapXWorld /
+
+      ChinaTextbook</a></p>
+				<p>
+      所有小初高、大学PDF教材。
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Roff</span>
+						<span>⭐ 72303</span>
+						<span>🔱 16215</span>
+					</div>
+				<div class="stars-today">⭐ 355 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/openai/plugins" target="_blank">
     
 
 
       
         openai /
 
-      whisper</a></p>
+      plugins</a></p>
 				<p>
-      Robust Speech Recognition via Large-Scale Weak Supervision
+      OpenAI Plugins
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 101983</span>
-						<span>🔱 12450</span>
+						<span>🔠 JavaScript</span>
+						<span>⭐ 1909</span>
+						<span>🔱 265</span>
 					</div>
-				<div class="stars-today">⭐ 150 stars today</div>
+				<div class="stars-today">⭐ 262 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/vitejs/vite" target="_blank">
+				<p><a href="https://github.com/refactoringhq/tolaria" target="_blank">
     
 
 
       
-        vitejs /
+        refactoringhq /
 
-      vite</a></p>
+      tolaria</a></p>
 				<p>
-      Next generation frontend tooling. It's fast!
+      Desktop app to manage markdown knowledge bases
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 81263</span>
-						<span>🔱 8280</span>
+						<span>⭐ 12612</span>
+						<span>🔱 898</span>
 					</div>
-				<div class="stars-today">⭐ 25 stars today</div>
+				<div class="stars-today">⭐ 242 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/microsoft/mxc" target="_blank">
+				<p><a href="https://github.com/HunxByts/GhostTrack" target="_blank">
+    
+
+
+      
+        HunxByts /
+
+      GhostTrack</a></p>
+				<p>
+      Useful tool to track location or mobile number
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 13585</span>
+						<span>🔱 1825</span>
+					</div>
+				<div class="stars-today">⭐ 21 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/microsoft/pg_durable" target="_blank">
     
 
 
       
         microsoft /
 
-      mxc</a></p>
+      pg_durable</a></p>
 				<p>
-      Policy-driven, layered isolation and containment 
+      PostgreSQL in-database durable execution
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Rust</span>
-						<span>⭐ 660</span>
+						<span>⭐ 1287</span>
 						<span>🔱 26</span>
 					</div>
-				<div class="stars-today">⭐ 64 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/PaddlePaddle/PaddleOCR" target="_blank">
-    
-
-
-      
-        PaddlePaddle /
-
-      PaddleOCR</a></p>
-				<p>
-      Turn any PDF or image document into structured data for your AI. A powerful, lightweight OCR toolkit that bridges the gap between images/PDFs and LLMs. Supports 100+ languages.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 81136</span>
-						<span>🔱 10670</span>
-					</div>
-				<div class="stars-today">⭐ 433 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/microsoft/VibeVoice" target="_blank">
-    
-
-
-      
-        microsoft /
-
-      VibeVoice</a></p>
-				<p>
-      Open-Source Frontier Voice AI
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 48596</span>
-						<span>🔱 5399</span>
-					</div>
-				<div class="stars-today">⭐ 216 stars today</div>
+				<div class="stars-today">⭐ 314 stars today</div>
 				</div>
 			</div>
 	

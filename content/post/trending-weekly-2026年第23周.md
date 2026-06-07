@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2026年第23周
-date: 2026-06-07T10:17:49Z
+date: 2026-06-07T13:10:34Z
 categories:
 - weekly
 keywords:
@@ -30,8 +30,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 16346</span>
-						<span>🔱 1034</span>
+						<span>⭐ 16475</span>
+						<span>🔱 1050</span>
 					</div>
 				<div class="stars-today">⭐ 13308 stars this week</div>
 				</div>
@@ -52,8 +52,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 146797</span>
-						<span>🔱 10046</span>
+						<span>⭐ 146919</span>
+						<span>🔱 10057</span>
 					</div>
 				<div class="stars-today">⭐ 15015 stars this week</div>
 				</div>
@@ -74,32 +74,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 80732</span>
-						<span>🔱 11503</span>
+						<span>⭐ 80808</span>
+						<span>🔱 11513</span>
 					</div>
 				<div class="stars-today">⭐ 9174 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/revfactory/harness" target="_blank">
-    
-
-
-      
-        revfactory /
-
-      harness</a></p>
-				<p>
-      A meta-skill that designs domain-specific agent teams, defines specialized agents, and generates the skills they use.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 HTML</span>
-						<span>⭐ 6344</span>
-						<span>🔱 854</span>
-					</div>
-				<div class="stars-today">⭐ 2098 stars this week</div>
 				</div>
 			</div>
 	
@@ -118,8 +96,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 25921</span>
-						<span>🔱 2266</span>
+						<span>⭐ 25937</span>
+						<span>🔱 2267</span>
 					</div>
 				<div class="stars-today">⭐ 2992 stars this week</div>
 				</div>
@@ -140,32 +118,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 JavaScript</span>
-						<span>⭐ 209432</span>
-						<span>🔱 32118</span>
+						<span>⭐ 209522</span>
+						<span>🔱 32132</span>
 					</div>
 				<div class="stars-today">⭐ 10351 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/EveryInc/compound-engineering-plugin" target="_blank">
-    
-
-
-      
-        EveryInc /
-
-      compound-engineering-plugin</a></p>
-				<p>
-      Official Compound Engineering plugin for Claude Code, Codex, Cursor, and more
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 20228</span>
-						<span>🔱 1505</span>
-					</div>
-				<div class="stars-today">⭐ 1752 stars this week</div>
 				</div>
 			</div>
 	
@@ -184,32 +140,54 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 10256</span>
-						<span>🔱 1212</span>
+						<span>⭐ 10268</span>
+						<span>🔱 1215</span>
 					</div>
 				<div class="stars-today">⭐ 2273 stars this week</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/can1357/oh-my-pi" target="_blank">
+				<p><a href="https://github.com/revfactory/harness" target="_blank">
     
 
 
       
-        can1357 /
+        revfactory /
 
-      oh-my-pi</a></p>
+      harness</a></p>
 				<p>
-      ⌥ AI Coding agent for the terminal — hash-anchored edits, optimized tool harness, LSP, Python, browser, subagents, and more
+      A meta-skill that designs domain-specific agent teams, defines specialized agents, and generates the skills they use.
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 11002</span>
-						<span>🔱 922</span>
+						<span>🔠 HTML</span>
+						<span>⭐ 6360</span>
+						<span>🔱 857</span>
 					</div>
-				<div class="stars-today">⭐ 2318 stars this week</div>
+				<div class="stars-today">⭐ 2098 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/mvanhorn/last30days-skill" target="_blank">
+    
+
+
+      
+        mvanhorn /
+
+      last30days-skill</a></p>
+				<p>
+      AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 29623</span>
+						<span>🔱 2504</span>
+					</div>
+				<div class="stars-today">⭐ 1801 stars this week</div>
 				</div>
 			</div>
 	
@@ -228,32 +206,54 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Shell</span>
-						<span>⭐ 35695</span>
-						<span>🔱 2596</span>
+						<span>⭐ 35863</span>
+						<span>🔱 2605</span>
 					</div>
 				<div class="stars-today">⭐ 6085 stars this week</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/run-llama/liteparse" target="_blank">
+				<p><a href="https://github.com/EveryInc/compound-engineering-plugin" target="_blank">
     
 
 
       
-        run-llama /
+        EveryInc /
 
-      liteparse</a></p>
+      compound-engineering-plugin</a></p>
 				<p>
-      A fast, helpful, and open-source document parser
+      Official Compound Engineering plugin for Claude Code, Codex, Cursor, and more
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Rust</span>
-						<span>⭐ 9405</span>
-						<span>🔱 568</span>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 20268</span>
+						<span>🔱 1507</span>
 					</div>
-				<div class="stars-today">⭐ 1613 stars this week</div>
+				<div class="stars-today">⭐ 1752 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/can1357/oh-my-pi" target="_blank">
+    
+
+
+      
+        can1357 /
+
+      oh-my-pi</a></p>
+				<p>
+      ⌥ AI Coding agent for the terminal — hash-anchored edits, optimized tool harness, LSP, Python, browser, subagents, and more
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 11025</span>
+						<span>🔱 925</span>
+					</div>
+				<div class="stars-today">⭐ 2318 stars this week</div>
 				</div>
 			</div>
 	
@@ -272,8 +272,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 JavaScript</span>
-						<span>⭐ 1879</span>
-						<span>🔱 262</span>
+						<span>⭐ 1909</span>
+						<span>🔱 265</span>
 					</div>
 				<div class="stars-today">⭐ 360 stars this week</div>
 				</div>
@@ -294,7 +294,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Go</span>
-						<span>⭐ 36056</span>
+						<span>⭐ 36076</span>
 						<span>🔱 458</span>
 					</div>
 				<div class="stars-today">⭐ 711 stars this week</div>
@@ -302,134 +302,24 @@ keywords:
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/hardikpandya/stop-slop" target="_blank">
+				<p><a href="https://github.com/Panniantong/Agent-Reach" target="_blank">
     
 
 
       
-        hardikpandya /
+        Panniantong /
 
-      stop-slop</a></p>
+      Agent-Reach</a></p>
 				<p>
-      A skill file for removing AI tells from prose
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 </span>
-						<span>⭐ 9141</span>
-						<span>🔱 631</span>
-					</div>
-				<div class="stars-today">⭐ 1705 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/anthropics/claude-code" target="_blank">
-    
-
-
-      
-        anthropics /
-
-      claude-code</a></p>
-				<p>
-      Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.
+      Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 130770</span>
-						<span>🔱 21207</span>
+						<span>⭐ 22945</span>
+						<span>🔱 1942</span>
 					</div>
-				<div class="stars-today">⭐ 2527 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/D4Vinci/Scrapling" target="_blank">
-    
-
-
-      
-        D4Vinci /
-
-      Scrapling</a></p>
-				<p>
-      🕷️ An adaptive Web Scraping framework that handles everything from a single request to a full-scale crawl!
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 61768</span>
-						<span>🔱 5978</span>
-					</div>
-				<div class="stars-today">⭐ 6002 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/mukul975/Anthropic-Cybersecurity-Skills" target="_blank">
-    
-
-
-      
-        mukul975 /
-
-      Anthropic-Cybersecurity-Skills</a></p>
-				<p>
-      754 structured cybersecurity skills for AI agents · Mapped to 5 frameworks: MITRE ATT&CK, NIST CSF 2.0, MITRE ATLAS, D3FEND & NIST AI RMF · agentskills.io standard · Works with Claude Code, GitHub Copilot, Codex CLI, Cursor, Gemini CLI & 20+ platforms · 26 security domains · Apache 2.0
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 14711</span>
-						<span>🔱 1726</span>
-					</div>
-				<div class="stars-today">⭐ 2192 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/OpenBMB/VoxCPM" target="_blank">
-    
-
-
-      
-        OpenBMB /
-
-      VoxCPM</a></p>
-				<p>
-      VoxCPM2: Tokenizer-Free TTS for Multilingual Speech Generation, Creative Voice Design, and True-to-Life Cloning
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 27349</span>
-						<span>🔱 3091</span>
-					</div>
-				<div class="stars-today">⭐ 4450 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/nesquena/hermes-webui" target="_blank">
-    
-
-
-      
-        nesquena /
-
-      hermes-webui</a></p>
-				<p>
-      Hermes WebUI: The best way to use Hermes Agent from the web or from your phone!
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 13732</span>
-						<span>🔱 1687</span>
-					</div>
-				<div class="stars-today">⭐ 4418 stars this week</div>
+				<div class="stars-today">⭐ 1513 stars this week</div>
 				</div>
 			</div>
 	
@@ -448,10 +338,120 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 185189</span>
-						<span>🔱 31818</span>
+						<span>⭐ 185346</span>
+						<span>🔱 31858</span>
 					</div>
 				<div class="stars-today">⭐ 11355 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/lfnovo/open-notebook" target="_blank">
+    
+
+
+      
+        lfnovo /
+
+      open-notebook</a></p>
+				<p>
+      An Open Source implementation of Notebook LM with more flexibility and features
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 26904</span>
+						<span>🔱 3066</span>
+					</div>
+				<div class="stars-today">⭐ 2588 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/pbakaus/impeccable" target="_blank">
+    
+
+
+      
+        pbakaus /
+
+      impeccable</a></p>
+				<p>
+      The design language that makes your AI harness better at design.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 JavaScript</span>
+						<span>⭐ 35340</span>
+						<span>🔱 1924</span>
+					</div>
+				<div class="stars-today">⭐ 3562 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/nesquena/hermes-webui" target="_blank">
+    
+
+
+      
+        nesquena /
+
+      hermes-webui</a></p>
+				<p>
+      Hermes WebUI: The best way to use Hermes Agent from the web or from your phone!
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 13755</span>
+						<span>🔱 1691</span>
+					</div>
+				<div class="stars-today">⭐ 4418 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/D4Vinci/Scrapling" target="_blank">
+    
+
+
+      
+        D4Vinci /
+
+      Scrapling</a></p>
+				<p>
+      🕷️ An adaptive Web Scraping framework that handles everything from a single request to a full-scale crawl!
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 61816</span>
+						<span>🔱 5982</span>
+					</div>
+				<div class="stars-today">⭐ 6002 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/dmtrKovalenko/fff" target="_blank">
+    
+
+
+      
+        dmtrKovalenko /
+
+      fff</a></p>
+				<p>
+      The fastest and the most accurate file search toolkit for AI agents, Neovim, Rust, C, and NodeJS
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Rust</span>
+						<span>⭐ 7641</span>
+						<span>🔱 310</span>
+					</div>
+				<div class="stars-today">⭐ 983 stars this week</div>
 				</div>
 			</div>
 	

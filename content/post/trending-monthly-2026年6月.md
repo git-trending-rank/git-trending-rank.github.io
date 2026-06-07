@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2026年6月
-date: 2026-06-07T10:17:49Z
+date: 2026-06-07T13:10:34Z
 categories:
 - monthly
 keywords:
@@ -30,32 +30,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 43414</span>
-						<span>🔱 2666</span>
+						<span>⭐ 43495</span>
+						<span>🔱 2674</span>
 					</div>
 				<div class="stars-today">⭐ 42159 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/CloakHQ/CloakBrowser" target="_blank">
-    
-
-
-      
-        CloakHQ /
-
-      CloakBrowser</a></p>
-				<p>
-      Stealth Chromium that passes every bot detection test. Drop-in Playwright replacement with source-level fingerprint patches. 30/30 tests passed.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 24555</span>
-						<span>🔱 1954</span>
-					</div>
-				<div class="stars-today">⭐ 22858 stars this month</div>
 				</div>
 			</div>
 	
@@ -74,32 +52,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 16346</span>
-						<span>🔱 1034</span>
+						<span>⭐ 16475</span>
+						<span>🔱 1050</span>
 					</div>
 				<div class="stars-today">⭐ 13688 stars this month</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/rohitg00/agentmemory" target="_blank">
+				<p><a href="https://github.com/CloakHQ/CloakBrowser" target="_blank">
     
 
 
       
-        rohitg00 /
+        CloakHQ /
 
-      agentmemory</a></p>
+      CloakBrowser</a></p>
 				<p>
-      #1 Persistent memory for AI coding agents based on real-world benchmarks
+      Stealth Chromium that passes every bot detection test. Drop-in Playwright replacement with source-level fingerprint patches. 30/30 tests passed.
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 21643</span>
-						<span>🔱 1779</span>
+						<span>🔠 Python</span>
+						<span>⭐ 24586</span>
+						<span>🔱 1960</span>
 					</div>
-				<div class="stars-today">⭐ 19405 stars this month</div>
+				<div class="stars-today">⭐ 22858 stars this month</div>
 				</div>
 			</div>
 	
@@ -118,32 +96,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 53937</span>
-						<span>🔱 4431</span>
+						<span>⭐ 54041</span>
+						<span>🔱 4443</span>
 					</div>
 				<div class="stars-today">⭐ 40842 stars this month</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/fathah/hermes-desktop" target="_blank">
+				<p><a href="https://github.com/rohitg00/agentmemory" target="_blank">
     
 
 
       
-        fathah /
+        rohitg00 /
 
-      hermes-desktop</a></p>
+      agentmemory</a></p>
 				<p>
-      Desktop Companion for Hermes Agent
+      #1 Persistent memory for AI coding agents based on real-world benchmarks
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 10885</span>
-						<span>🔱 1269</span>
+						<span>⭐ 21662</span>
+						<span>🔱 1779</span>
 					</div>
-				<div class="stars-today">⭐ 9622 stars this month</div>
+				<div class="stars-today">⭐ 19405 stars this month</div>
 				</div>
 			</div>
 	
@@ -162,10 +140,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 80732</span>
-						<span>🔱 11503</span>
+						<span>⭐ 80808</span>
+						<span>🔱 11513</span>
 					</div>
 				<div class="stars-today">⭐ 23959 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/fathah/hermes-desktop" target="_blank">
+    
+
+
+      
+        fathah /
+
+      hermes-desktop</a></p>
+				<p>
+      Desktop Companion for Hermes Agent
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 10919</span>
+						<span>🔱 1274</span>
+					</div>
+				<div class="stars-today">⭐ 9622 stars this month</div>
 				</div>
 			</div>
 	
@@ -184,8 +184,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 28312</span>
-						<span>🔱 2342</span>
+						<span>⭐ 28385</span>
+						<span>🔱 2354</span>
 					</div>
 				<div class="stars-today">⭐ 23409 stars this month</div>
 				</div>
@@ -206,8 +206,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 29601</span>
-						<span>🔱 4822</span>
+						<span>⭐ 29671</span>
+						<span>🔱 4831</span>
 					</div>
 				<div class="stars-today">⭐ 22914 stars this month</div>
 				</div>
@@ -228,30 +228,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Rust</span>
-						<span>⭐ 71455</span>
-						<span>🔱 9521</span>
+						<span>⭐ 71497</span>
+						<span>🔱 9529</span>
 					</div>
 				<div class="stars-today">⭐ 20042 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/anthropics/financial-services" target="_blank">
-    
-
-
-      
-        anthropics /
-
-      financial-services</a></p>
-				<p></p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 30311</span>
-						<span>🔱 4283</span>
-					</div>
-				<div class="stars-today">⭐ 21779 stars this month</div>
 				</div>
 			</div>
 	
@@ -270,8 +250,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 18463</span>
-						<span>🔱 2885</span>
+						<span>⭐ 18500</span>
+						<span>🔱 2886</span>
 					</div>
 				<div class="stars-today">⭐ 9281 stars this month</div>
 				</div>
@@ -292,8 +272,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Shell</span>
-						<span>⭐ 119834</span>
-						<span>🔱 10503</span>
+						<span>⭐ 119985</span>
+						<span>🔱 10513</span>
 					</div>
 				<div class="stars-today">⭐ 57585 stars this month</div>
 				</div>
@@ -314,8 +294,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 11002</span>
-						<span>🔱 922</span>
+						<span>⭐ 11025</span>
+						<span>🔱 925</span>
 					</div>
 				<div class="stars-today">⭐ 6893 stars this month</div>
 				</div>
@@ -336,10 +316,52 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 8959</span>
-						<span>🔱 1365</span>
+						<span>⭐ 8973</span>
+						<span>🔱 1367</span>
 					</div>
 				<div class="stars-today">⭐ 6195 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/anthropics/financial-services" target="_blank">
+    
+
+
+      
+        anthropics /
+
+      financial-services</a></p>
+				<p></p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 30333</span>
+						<span>🔱 4286</span>
+					</div>
+				<div class="stars-today">⭐ 21779 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/millionco/react-doctor" target="_blank">
+    
+
+
+      
+        millionco /
+
+      react-doctor</a></p>
+				<p>
+      Your agent writes bad React. This catches it
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 12285</span>
+						<span>🔱 390</span>
+					</div>
+				<div class="stars-today">⭐ 5987 stars this month</div>
 				</div>
 			</div>
 	
@@ -358,76 +380,54 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 JavaScript</span>
-						<span>⭐ 16676</span>
-						<span>🔱 2516</span>
+						<span>⭐ 16704</span>
+						<span>🔱 2519</span>
 					</div>
 				<div class="stars-today">⭐ 12740 stars this month</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/bytedance/UI-TARS-desktop" target="_blank">
+				<p><a href="https://github.com/microsoft/markitdown" target="_blank">
     
 
 
       
-        bytedance /
+        microsoft /
 
-      UI-TARS-desktop</a></p>
+      markitdown</a></p>
 				<p>
-      The Open-Source Multimodal AI Agent Stack: Connecting Cutting-Edge AI Models and Agent Infra
+      Python tool for converting files and office documents to Markdown.
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 36188</span>
-						<span>🔱 3643</span>
+						<span>🔠 Python</span>
+						<span>⭐ 146919</span>
+						<span>🔱 10057</span>
 					</div>
-				<div class="stars-today">⭐ 6696 stars this month</div>
+				<div class="stars-today">⭐ 25630 stars this month</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/Hmbown/CodeWhale" target="_blank">
+				<p><a href="https://github.com/nesquena/hermes-webui" target="_blank">
     
 
 
       
-        Hmbown /
+        nesquena /
 
-      CodeWhale</a></p>
+      hermes-webui</a></p>
 				<p>
-      DeepSeek + MiMo coding agent in terminal
+      Hermes WebUI: The best way to use Hermes Agent from the web or from your phone!
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Rust</span>
-						<span>⭐ 37387</span>
-						<span>🔱 3214</span>
+						<span>🔠 Python</span>
+						<span>⭐ 13755</span>
+						<span>🔱 1691</span>
 					</div>
-				<div class="stars-today">⭐ 25791 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/datawhalechina/easy-vibe" target="_blank">
-    
-
-
-      
-        datawhalechina /
-
-      easy-vibe</a></p>
-				<p>
-      💻 vibe coding 2026 | Your first modern Coding course beginners to master step by step.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 JavaScript</span>
-						<span>⭐ 16442</span>
-						<span>🔱 1547</span>
-					</div>
-				<div class="stars-today">⭐ 8780 stars this month</div>
+				<div class="stars-today">⭐ 7901 stars this month</div>
 				</div>
 			</div>
 	
