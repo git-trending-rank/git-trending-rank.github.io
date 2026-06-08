@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2026年第24周
-date: 2026-06-08T08:30:58Z
+date: 2026-06-08T13:55:14Z
 categories:
 - weekly
 keywords:
@@ -30,8 +30,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 17447</span>
-						<span>🔱 1111</span>
+						<span>⭐ 17825</span>
+						<span>🔱 1142</span>
 					</div>
 				<div class="stars-today">⭐ 14272 stars this week</div>
 				</div>
@@ -52,120 +52,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 147789</span>
-						<span>🔱 10133</span>
+						<span>⭐ 148096</span>
+						<span>🔱 10160</span>
 					</div>
 				<div class="stars-today">⭐ 13359 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/harry0703/MoneyPrinterTurbo" target="_blank">
-    
-
-
-      
-        harry0703 /
-
-      MoneyPrinterTurbo</a></p>
-				<p>
-      利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 81566</span>
-						<span>🔱 11618</span>
-					</div>
-				<div class="stars-today">⭐ 7992 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/supermemoryai/supermemory" target="_blank">
-    
-
-
-      
-        supermemoryai /
-
-      supermemory</a></p>
-				<p>
-      Memory engine and app that is extremely fast, scalable. The Memory API for the AI era.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 26092</span>
-						<span>🔱 2277</span>
-					</div>
-				<div class="stars-today">⭐ 2924 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/affaan-m/ECC" target="_blank">
-    
-
-
-      
-        affaan-m /
-
-      ECC</a></p>
-				<p>
-      The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 JavaScript</span>
-						<span>⭐ 210199</span>
-						<span>🔱 32234</span>
-					</div>
-				<div class="stars-today">⭐ 10207 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/Open-LLM-VTuber/Open-LLM-VTuber" target="_blank">
-    
-
-
-      
-        Open-LLM-VTuber /
-
-      Open-LLM-VTuber</a></p>
-				<p>
-      Talk to any LLM with hands-free voice interaction, voice interruption, and Live2D taking face running locally across platforms
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 10434</span>
-						<span>🔱 1224</span>
-					</div>
-				<div class="stars-today">⭐ 2388 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/revfactory/harness" target="_blank">
-    
-
-
-      
-        revfactory /
-
-      harness</a></p>
-				<p>
-      A meta-skill that designs domain-specific agent teams, defines specialized agents, and generates the skills they use.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 HTML</span>
-						<span>⭐ 6482</span>
-						<span>🔱 882</span>
-					</div>
-				<div class="stars-today">⭐ 1958 stars this week</div>
 				</div>
 			</div>
 	
@@ -184,120 +74,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 32423</span>
-						<span>🔱 2682</span>
+						<span>⭐ 33304</span>
+						<span>🔱 2743</span>
 					</div>
 				<div class="stars-today">⭐ 2718 stars this week</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/Leonxlnx/taste-skill" target="_blank">
+				<p><a href="https://github.com/Open-LLM-VTuber/Open-LLM-VTuber" target="_blank">
     
 
 
       
-        Leonxlnx /
+        Open-LLM-VTuber /
 
-      taste-skill</a></p>
+      Open-LLM-VTuber</a></p>
 				<p>
-      Taste-Skill - gives your AI good taste. stops the AI from generating boring, generic slop 
+      Talk to any LLM with hands-free voice interaction, voice interruption, and Live2D taking face running locally across platforms
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Shell</span>
-						<span>⭐ 37588</span>
-						<span>🔱 2683</span>
+						<span>🔠 Python</span>
+						<span>⭐ 10467</span>
+						<span>🔱 1227</span>
 					</div>
-				<div class="stars-today">⭐ 6385 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/EveryInc/compound-engineering-plugin" target="_blank">
-    
-
-
-      
-        EveryInc /
-
-      compound-engineering-plugin</a></p>
-				<p>
-      Official Compound Engineering plugin for Claude Code, Codex, Cursor, and more
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 20488</span>
-						<span>🔱 1515</span>
-					</div>
-				<div class="stars-today">⭐ 1762 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/can1357/oh-my-pi" target="_blank">
-    
-
-
-      
-        can1357 /
-
-      oh-my-pi</a></p>
-				<p>
-      ⌥ AI Coding agent for the terminal — hash-anchored edits, optimized tool harness, LSP, Python, browser, subagents, and more
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 11169</span>
-						<span>🔱 943</span>
-					</div>
-				<div class="stars-today">⭐ 2117 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/openai/plugins" target="_blank">
-    
-
-
-      
-        openai /
-
-      plugins</a></p>
-				<p>
-      OpenAI Plugins
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 JavaScript</span>
-						<span>⭐ 2147</span>
-						<span>🔱 277</span>
-					</div>
-				<div class="stars-today">⭐ 595 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/aquasecurity/trivy" target="_blank">
-    
-
-
-      
-        aquasecurity /
-
-      trivy</a></p>
-				<p>
-      Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Go</span>
-						<span>⭐ 36135</span>
-						<span>🔱 459</span>
-					</div>
-				<div class="stars-today">⭐ 844 stars this week</div>
+				<div class="stars-today">⭐ 2388 stars this week</div>
 				</div>
 			</div>
 	
@@ -316,32 +118,164 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 23431</span>
-						<span>🔱 1978</span>
+						<span>⭐ 23695</span>
+						<span>🔱 1999</span>
 					</div>
 				<div class="stars-today">⭐ 2289 stars this week</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/NousResearch/hermes-agent" target="_blank">
+				<p><a href="https://github.com/harry0703/MoneyPrinterTurbo" target="_blank">
     
 
 
       
-        NousResearch /
+        harry0703 /
 
-      hermes-agent</a></p>
+      MoneyPrinterTurbo</a></p>
 				<p>
-      The agent that grows with you
+      利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM.
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 186540</span>
-						<span>🔱 32091</span>
+						<span>⭐ 81813</span>
+						<span>🔱 11654</span>
 					</div>
-				<div class="stars-today">⭐ 11427 stars this week</div>
+				<div class="stars-today">⭐ 7992 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/openai/plugins" target="_blank">
+    
+
+
+      
+        openai /
+
+      plugins</a></p>
+				<p>
+      OpenAI Plugins
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 JavaScript</span>
+						<span>⭐ 2209</span>
+						<span>🔱 278</span>
+					</div>
+				<div class="stars-today">⭐ 595 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/affaan-m/ECC" target="_blank">
+    
+
+
+      
+        affaan-m /
+
+      ECC</a></p>
+				<p>
+      The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 JavaScript</span>
+						<span>⭐ 210442</span>
+						<span>🔱 32271</span>
+					</div>
+				<div class="stars-today">⭐ 10207 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/supermemoryai/supermemory" target="_blank">
+    
+
+
+      
+        supermemoryai /
+
+      supermemory</a></p>
+				<p>
+      Memory engine and app that is extremely fast, scalable. The Memory API for the AI era.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 26144</span>
+						<span>🔱 2278</span>
+					</div>
+				<div class="stars-today">⭐ 2924 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/Leonxlnx/taste-skill" target="_blank">
+    
+
+
+      
+        Leonxlnx /
+
+      taste-skill</a></p>
+				<p>
+      Taste-Skill - gives your AI good taste. stops the AI from generating boring, generic slop 
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Shell</span>
+						<span>⭐ 38077</span>
+						<span>🔱 2712</span>
+					</div>
+				<div class="stars-today">⭐ 6385 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/revfactory/harness" target="_blank">
+    
+
+
+      
+        revfactory /
+
+      harness</a></p>
+				<p>
+      A meta-skill that designs domain-specific agent teams, defines specialized agents, and generates the skills they use.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 HTML</span>
+						<span>⭐ 6513</span>
+						<span>🔱 887</span>
+					</div>
+				<div class="stars-today">⭐ 1958 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/aquasecurity/trivy" target="_blank">
+    
+
+
+      
+        aquasecurity /
+
+      trivy</a></p>
+				<p>
+      Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Go</span>
+						<span>⭐ 36153</span>
+						<span>🔱 459</span>
+					</div>
+				<div class="stars-today">⭐ 844 stars this week</div>
 				</div>
 			</div>
 	
@@ -360,10 +294,54 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 27621</span>
-						<span>🔱 3126</span>
+						<span>⭐ 27789</span>
+						<span>🔱 3140</span>
 					</div>
 				<div class="stars-today">⭐ 2993 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/can1357/oh-my-pi" target="_blank">
+    
+
+
+      
+        can1357 /
+
+      oh-my-pi</a></p>
+				<p>
+      ⌥ AI Coding agent for the terminal — hash-anchored edits, optimized tool harness, LSP, Python, browser, subagents, and more
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 11207</span>
+						<span>🔱 950</span>
+					</div>
+				<div class="stars-today">⭐ 2117 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/NousResearch/hermes-agent" target="_blank">
+    
+
+
+      
+        NousResearch /
+
+      hermes-agent</a></p>
+				<p>
+      The agent that grows with you
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 186909</span>
+						<span>🔱 32160</span>
+					</div>
+				<div class="stars-today">⭐ 11427 stars this week</div>
 				</div>
 			</div>
 	
@@ -382,54 +360,54 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 JavaScript</span>
-						<span>⭐ 35849</span>
-						<span>🔱 1955</span>
+						<span>⭐ 36032</span>
+						<span>🔱 1963</span>
 					</div>
 				<div class="stars-today">⭐ 3586 stars this week</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/nesquena/hermes-webui" target="_blank">
+				<p><a href="https://github.com/hardikpandya/stop-slop" target="_blank">
     
 
 
       
-        nesquena /
+        hardikpandya /
 
-      hermes-webui</a></p>
+      stop-slop</a></p>
 				<p>
-      Hermes WebUI: The best way to use Hermes Agent from the web or from your phone!
+      A skill file for removing AI tells from prose
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 13931</span>
-						<span>🔱 1712</span>
+						<span>🔠 </span>
+						<span>⭐ 9394</span>
+						<span>🔱 654</span>
 					</div>
-				<div class="stars-today">⭐ 4281 stars this week</div>
+				<div class="stars-today">⭐ 1548 stars this week</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/dmtrKovalenko/fff" target="_blank">
+				<p><a href="https://github.com/phuryn/pm-skills" target="_blank">
     
 
 
       
-        dmtrKovalenko /
+        phuryn /
 
-      fff</a></p>
+      pm-skills</a></p>
 				<p>
-      The fastest and the most accurate file search toolkit for AI agents, Neovim, Rust, C, and NodeJS
+      PM Skills Marketplace: 100+ agentic skills, commands, and plugins — from discovery to strategy, execution, launch, and growth.
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Rust</span>
-						<span>⭐ 7710</span>
-						<span>🔱 311</span>
+						<span>🔠 </span>
+						<span>⭐ 12416</span>
+						<span>🔱 1484</span>
 					</div>
-				<div class="stars-today">⭐ 879 stars this week</div>
+				<div class="stars-today">⭐ 506 stars this week</div>
 				</div>
 			</div>
 	

@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2026年6月
-date: 2026-06-08T08:30:58Z
+date: 2026-06-08T13:55:14Z
 categories:
 - monthly
 keywords:
@@ -30,8 +30,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 44375</span>
-						<span>🔱 2729</span>
+						<span>⭐ 44643</span>
+						<span>🔱 2749</span>
 					</div>
 				<div class="stars-today">⭐ 42778 stars this month</div>
 				</div>
@@ -52,32 +52,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 17447</span>
-						<span>🔱 1111</span>
+						<span>⭐ 17825</span>
+						<span>🔱 1142</span>
 					</div>
 				<div class="stars-today">⭐ 14922 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/CloakHQ/CloakBrowser" target="_blank">
-    
-
-
-      
-        CloakHQ /
-
-      CloakBrowser</a></p>
-				<p>
-      Stealth Chromium that passes every bot detection test. Drop-in Playwright replacement with source-level fingerprint patches. 30/30 tests passed.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 24797</span>
-						<span>🔱 1977</span>
-					</div>
-				<div class="stars-today">⭐ 22732 stars this month</div>
 				</div>
 			</div>
 	
@@ -96,10 +74,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 54762</span>
-						<span>🔱 4517</span>
+						<span>⭐ 54978</span>
+						<span>🔱 4537</span>
 					</div>
 				<div class="stars-today">⭐ 41326 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/CloakHQ/CloakBrowser" target="_blank">
+    
+
+
+      
+        CloakHQ /
+
+      CloakBrowser</a></p>
+				<p>
+      Stealth Chromium that passes every bot detection test. Drop-in Playwright replacement with source-level fingerprint patches. 30/30 tests passed.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 24852</span>
+						<span>🔱 1980</span>
+					</div>
+				<div class="stars-today">⭐ 22732 stars this month</div>
 				</div>
 			</div>
 	
@@ -118,8 +118,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 21810</span>
-						<span>🔱 1795</span>
+						<span>⭐ 21858</span>
+						<span>🔱 1798</span>
 					</div>
 				<div class="stars-today">⭐ 19547 stars this month</div>
 				</div>
@@ -140,8 +140,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 81566</span>
-						<span>🔱 11618</span>
+						<span>⭐ 81813</span>
+						<span>🔱 11654</span>
 					</div>
 				<div class="stars-today">⭐ 24500 stars this month</div>
 				</div>
@@ -162,8 +162,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 11079</span>
-						<span>🔱 1284</span>
+						<span>⭐ 11139</span>
+						<span>🔱 1287</span>
 					</div>
 				<div class="stars-today">⭐ 9784 stars this month</div>
 				</div>
@@ -184,8 +184,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 28737</span>
-						<span>🔱 2389</span>
+						<span>⭐ 28868</span>
+						<span>🔱 2396</span>
 					</div>
 				<div class="stars-today">⭐ 23725 stars this month</div>
 				</div>
@@ -206,8 +206,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 30059</span>
-						<span>🔱 4905</span>
+						<span>⭐ 30185</span>
+						<span>🔱 4925</span>
 					</div>
 				<div class="stars-today">⭐ 23390 stars this month</div>
 				</div>
@@ -228,32 +228,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Rust</span>
-						<span>⭐ 71801</span>
-						<span>🔱 9571</span>
+						<span>⭐ 71882</span>
+						<span>🔱 9584</span>
 					</div>
 				<div class="stars-today">⭐ 20236 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/yikart/AiToEarn" target="_blank">
-    
-
-
-      
-        yikart /
-
-      AiToEarn</a></p>
-				<p>
-      Let's use AI to Earn!
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 19123</span>
-						<span>🔱 2945</span>
-					</div>
-				<div class="stars-today">⭐ 9466 stars this month</div>
 				</div>
 			</div>
 	
@@ -272,8 +250,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Shell</span>
-						<span>⭐ 120908</span>
-						<span>🔱 10595</span>
+						<span>⭐ 121163</span>
+						<span>🔱 10621</span>
 					</div>
 				<div class="stars-today">⭐ 56562 stars this month</div>
 				</div>
@@ -294,10 +272,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 11169</span>
-						<span>🔱 943</span>
+						<span>⭐ 11207</span>
+						<span>🔱 950</span>
 					</div>
 				<div class="stars-today">⭐ 7042 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/yikart/AiToEarn" target="_blank">
+    
+
+
+      
+        yikart /
+
+      AiToEarn</a></p>
+				<p>
+      Let's use AI to Earn!
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 19311</span>
+						<span>🔱 2965</span>
+					</div>
+				<div class="stars-today">⭐ 9466 stars this month</div>
 				</div>
 			</div>
 	
@@ -316,8 +316,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 9061</span>
-						<span>🔱 1374</span>
+						<span>⭐ 9087</span>
+						<span>🔱 1375</span>
 					</div>
 				<div class="stars-today">⭐ 5983 stars this month</div>
 				</div>
@@ -336,54 +336,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 30453</span>
-						<span>🔱 4300</span>
+						<span>⭐ 30487</span>
+						<span>🔱 4305</span>
 					</div>
 				<div class="stars-today">⭐ 20299 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/millionco/react-doctor" target="_blank">
-    
-
-
-      
-        millionco /
-
-      react-doctor</a></p>
-				<p>
-      Your agent writes bad React. This catches it
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 12373</span>
-						<span>🔱 394</span>
-					</div>
-				<div class="stars-today">⭐ 5994 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/decolua/9router" target="_blank">
-    
-
-
-      
-        decolua /
-
-      9router</a></p>
-				<p>
-      Unlimited FREE AI coding. Connect Claude Code, Codex, Cursor, Cline, Copilot, Antigravity to FREE Claude/GPT/Gemini via 40+ providers. Auto-fallback, RTK -40% tokens, never hit limits.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 JavaScript</span>
-						<span>⭐ 16871</span>
-						<span>🔱 2549</span>
-					</div>
-				<div class="stars-today">⭐ 12666 stars this month</div>
 				</div>
 			</div>
 	
@@ -402,32 +358,54 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 147789</span>
-						<span>🔱 10133</span>
+						<span>⭐ 148096</span>
+						<span>🔱 10160</span>
 					</div>
 				<div class="stars-today">⭐ 26145 stars this month</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/nesquena/hermes-webui" target="_blank">
+				<p><a href="https://github.com/millionco/react-doctor" target="_blank">
     
 
 
       
-        nesquena /
+        millionco /
 
-      hermes-webui</a></p>
+      react-doctor</a></p>
 				<p>
-      Hermes WebUI: The best way to use Hermes Agent from the web or from your phone!
+      Your agent writes bad React. This catches it
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 13931</span>
-						<span>🔱 1712</span>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 12405</span>
+						<span>🔱 396</span>
 					</div>
-				<div class="stars-today">⭐ 7927 stars this month</div>
+				<div class="stars-today">⭐ 5994 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/oven-sh/bun" target="_blank">
+    
+
+
+      
+        oven-sh /
+
+      bun</a></p>
+				<p>
+      Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Rust</span>
+						<span>⭐ 92939</span>
+						<span>🔱 4707</span>
+					</div>
+				<div class="stars-today">⭐ 3772 stars this month</div>
 				</div>
 			</div>
 	
