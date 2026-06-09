@@ -1,5 +1,6 @@
 baseURL: "https://git-trending-rank.github.io/" # 替换为你的 GitHub Pages URL
 title: "Git Trending Rank"
+googleAnalytics: "G-Q218PF1C3Y"
 publishDir: "docs" # GitHub Pages 的默认发布目录
 author: Young.Wang
 language: zh-CN
