@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2026年6月
-date: 2026-06-09T09:29:18Z
+date: 2026-06-09T12:27:14Z
 categories:
 - monthly
 keywords:
@@ -30,8 +30,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 45421</span>
-						<span>🔱 2785</span>
+						<span>⭐ 45573</span>
+						<span>🔱 2793</span>
 					</div>
 				<div class="stars-today">⭐ 43749 stars this month</div>
 				</div>
@@ -52,8 +52,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 19536</span>
-						<span>🔱 1247</span>
+						<span>⭐ 19777</span>
+						<span>🔱 1262</span>
 					</div>
 				<div class="stars-today">⭐ 16237 stars this month</div>
 				</div>
@@ -74,10 +74,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 55594</span>
-						<span>🔱 4605</span>
+						<span>⭐ 55685</span>
+						<span>🔱 4612</span>
 					</div>
 				<div class="stars-today">⭐ 41974 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/harry0703/MoneyPrinterTurbo" target="_blank">
+    
+
+
+      
+        harry0703 /
+
+      MoneyPrinterTurbo</a></p>
+				<p>
+      利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 83081</span>
+						<span>🔱 11825</span>
+					</div>
+				<div class="stars-today">⭐ 25436 stars this month</div>
 				</div>
 			</div>
 	
@@ -96,8 +118,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 25053</span>
-						<span>🔱 2002</span>
+						<span>⭐ 25081</span>
+						<span>🔱 2003</span>
 					</div>
 				<div class="stars-today">⭐ 22447 stars this month</div>
 				</div>
@@ -118,76 +140,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 22023</span>
-						<span>🔱 1806</span>
+						<span>⭐ 22042</span>
+						<span>🔱 1808</span>
 					</div>
 				<div class="stars-today">⭐ 19359 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/harry0703/MoneyPrinterTurbo" target="_blank">
-    
-
-
-      
-        harry0703 /
-
-      MoneyPrinterTurbo</a></p>
-				<p>
-      利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 82747</span>
-						<span>🔱 11780</span>
-					</div>
-				<div class="stars-today">⭐ 25436 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/fathah/hermes-desktop" target="_blank">
-    
-
-
-      
-        fathah /
-
-      hermes-desktop</a></p>
-				<p>
-      Desktop Companion for Hermes Agent
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 11379</span>
-						<span>🔱 1300</span>
-					</div>
-				<div class="stars-today">⭐ 9936 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/Imbad0202/academic-research-skills" target="_blank">
-    
-
-
-      
-        Imbad0202 /
-
-      academic-research-skills</a></p>
-				<p>
-      Academic Research Skills for Claude Code: research → write → review → revise → finalize
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 29249</span>
-						<span>🔱 2420</span>
-					</div>
-				<div class="stars-today">⭐ 24020 stars this month</div>
 				</div>
 			</div>
 	
@@ -206,10 +162,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 30527</span>
-						<span>🔱 4970</span>
+						<span>⭐ 30583</span>
+						<span>🔱 4979</span>
 					</div>
 				<div class="stars-today">⭐ 23852 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/Imbad0202/academic-research-skills" target="_blank">
+    
+
+
+      
+        Imbad0202 /
+
+      academic-research-skills</a></p>
+				<p>
+      Academic Research Skills for Claude Code: research → write → review → revise → finalize
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 29318</span>
+						<span>🔱 2426</span>
+					</div>
+				<div class="stars-today">⭐ 24020 stars this month</div>
 				</div>
 			</div>
 	
@@ -228,32 +206,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Rust</span>
-						<span>⭐ 72204</span>
-						<span>🔱 9648</span>
+						<span>⭐ 72256</span>
+						<span>🔱 9660</span>
 					</div>
 				<div class="stars-today">⭐ 20463 stars this month</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/mattpocock/skills" target="_blank">
+				<p><a href="https://github.com/fathah/hermes-desktop" target="_blank">
     
 
 
       
-        mattpocock /
+        fathah /
 
-      skills</a></p>
+      hermes-desktop</a></p>
 				<p>
-      Skills for Real Engineers. Straight from my .claude directory.
+      Desktop Companion for Hermes Agent
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Shell</span>
-						<span>⭐ 122374</span>
-						<span>🔱 10707</span>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 11432</span>
+						<span>🔱 1304</span>
 					</div>
-				<div class="stars-today">⭐ 55905 stars this month</div>
+				<div class="stars-today">⭐ 9936 stars this month</div>
 				</div>
 			</div>
 	
@@ -272,10 +250,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 11373</span>
-						<span>🔱 958</span>
+						<span>⭐ 11399</span>
+						<span>🔱 960</span>
 					</div>
 				<div class="stars-today">⭐ 7167 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/mattpocock/skills" target="_blank">
+    
+
+
+      
+        mattpocock /
+
+      skills</a></p>
+				<p>
+      Skills for Real Engineers. Straight from my .claude directory.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Shell</span>
+						<span>⭐ 122572</span>
+						<span>🔱 10720</span>
+					</div>
+				<div class="stars-today">⭐ 55905 stars this month</div>
 				</div>
 			</div>
 	
@@ -294,8 +294,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 19614</span>
-						<span>🔱 2995</span>
+						<span>⭐ 19666</span>
+						<span>🔱 3003</span>
 					</div>
 				<div class="stars-today">⭐ 10222 stars this month</div>
 				</div>
@@ -316,30 +316,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 9300</span>
-						<span>🔱 1405</span>
+						<span>⭐ 9341</span>
+						<span>🔱 1411</span>
 					</div>
 				<div class="stars-today">⭐ 5702 stars this month</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/anthropics/financial-services" target="_blank">
+				<p><a href="https://github.com/anthropics/knowledge-work-plugins" target="_blank">
     
 
 
       
         anthropics /
 
-      financial-services</a></p>
-				<p></p>
+      knowledge-work-plugins</a></p>
+				<p>
+      Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork
+    </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 30629</span>
-						<span>🔱 4320</span>
+						<span>⭐ 19855</span>
+						<span>🔱 2369</span>
 					</div>
-				<div class="stars-today">⭐ 16850 stars this month</div>
+				<div class="stars-today">⭐ 7829 stars this month</div>
 				</div>
 			</div>
 	
@@ -358,32 +360,54 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 148857</span>
-						<span>🔱 10222</span>
+						<span>⭐ 148982</span>
+						<span>🔱 10237</span>
 					</div>
 				<div class="stars-today">⭐ 26881 stars this month</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/millionco/react-doctor" target="_blank">
+				<p><a href="https://github.com/Leonxlnx/taste-skill" target="_blank">
     
 
 
       
-        millionco /
+        Leonxlnx /
 
-      react-doctor</a></p>
+      taste-skill</a></p>
 				<p>
-      Your agent writes bad React. This catches it
+      Taste-Skill - gives your AI good taste. stops the AI from generating boring, generic slop 
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 12488</span>
-						<span>🔱 396</span>
+						<span>🔠 Shell</span>
+						<span>⭐ 39109</span>
+						<span>🔱 2776</span>
 					</div>
-				<div class="stars-today">⭐ 6102 stars this month</div>
+				<div class="stars-today">⭐ 22388 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/hardikpandya/stop-slop" target="_blank">
+    
+
+
+      
+        hardikpandya /
+
+      stop-slop</a></p>
+				<p>
+      A skill file for removing AI tells from prose
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 </span>
+						<span>⭐ 9601</span>
+						<span>🔱 678</span>
+					</div>
+				<div class="stars-today">⭐ 6143 stars this month</div>
 				</div>
 			</div>
 	
@@ -402,7 +426,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Rust</span>
-						<span>⭐ 92967</span>
+						<span>⭐ 92976</span>
 						<span>🔱 4692</span>
 					</div>
 				<div class="stars-today">⭐ 3777 stars this month</div>

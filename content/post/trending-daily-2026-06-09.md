@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2026-06-09
-date: 2026-06-09T09:29:18Z
+date: 2026-06-09T12:27:14Z
 categories:
 - daily
 keywords:
@@ -30,10 +30,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 35807</span>
-						<span>🔱 2918</span>
+						<span>⭐ 36160</span>
+						<span>🔱 2945</span>
 					</div>
-				<div class="stars-today">⭐ 3558 stars today</div>
+				<div class="stars-today">⭐ 3177 stars today</div>
 				</div>
 			</div>
 	
@@ -52,208 +52,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 9583</span>
-						<span>🔱 835</span>
+						<span>⭐ 9752</span>
+						<span>🔱 842</span>
 					</div>
-				<div class="stars-today">⭐ 1729 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/google/skills" target="_blank">
-    
-
-
-      
-        google /
-
-      skills</a></p>
-				<p>
-      Agent Skills for Google products and technologies
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 12751</span>
-						<span>🔱 985</span>
-					</div>
-				<div class="stars-today">⭐ 461 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/refactoringhq/tolaria" target="_blank">
-    
-
-
-      
-        refactoringhq /
-
-      tolaria</a></p>
-				<p>
-      Desktop app to manage markdown knowledge bases
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 13942</span>
-						<span>🔱 972</span>
-					</div>
-				<div class="stars-today">⭐ 651 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/Panniantong/Agent-Reach" target="_blank">
-    
-
-
-      
-        Panniantong /
-
-      Agent-Reach</a></p>
-				<p>
-      Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 24958</span>
-						<span>🔱 2075</span>
-					</div>
-				<div class="stars-today">⭐ 679 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/danielmiessler/Personal_AI_Infrastructure" target="_blank">
-    
-
-
-      
-        danielmiessler /
-
-      Personal_AI_Infrastructure</a></p>
-				<p>
-      Agentic AI Infrastructure for magnifying HUMAN capabilities.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 15612</span>
-						<span>🔱 2172</span>
-					</div>
-				<div class="stars-today">⭐ 62 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/santifer/career-ops" target="_blank">
-    
-
-
-      
-        santifer /
-
-      career-ops</a></p>
-				<p>
-      AI-powered job search system built on Claude Code. 14 skill modes, Go dashboard, PDF generation, batch processing.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 JavaScript</span>
-						<span>⭐ 50969</span>
-						<span>🔱 10363</span>
-					</div>
-				<div class="stars-today">⭐ 308 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/phuryn/pm-skills" target="_blank">
-    
-
-
-      
-        phuryn /
-
-      pm-skills</a></p>
-				<p>
-      PM Skills Marketplace: 100+ agentic skills, commands, and plugins — from discovery to strategy, execution, launch, and growth.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 </span>
-						<span>⭐ 13055</span>
-						<span>🔱 1510</span>
-					</div>
-				<div class="stars-today">⭐ 164 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/openai/plugins" target="_blank">
-    
-
-
-      
-        openai /
-
-      plugins</a></p>
-				<p>
-      OpenAI Plugins
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 JavaScript</span>
-						<span>⭐ 2432</span>
-						<span>🔱 295</span>
-					</div>
-				<div class="stars-today">⭐ 296 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/Andyyyy64/whichllm" target="_blank">
-    
-
-
-      
-        Andyyyy64 /
-
-      whichllm</a></p>
-				<p>
-      Find the local LLM that actually runs and performs best on your hardware. Ranked by real, recency-aware benchmarks, not parameter count. One command, run it instantly.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 3727</span>
-						<span>🔱 210</span>
-					</div>
-				<div class="stars-today">⭐ 143 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/MemPalace/mempalace" target="_blank">
-    
-
-
-      
-        MemPalace /
-
-      mempalace</a></p>
-				<p>
-      The best-benchmarked open-source AI memory system. And it's free.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 55121</span>
-						<span>🔱 7162</span>
-					</div>
-				<div class="stars-today">⭐ 170 stars today</div>
+				<div class="stars-today">⭐ 1800 stars today</div>
 				</div>
 			</div>
 	
@@ -272,76 +74,54 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 42604</span>
-						<span>🔱 3802</span>
+						<span>⭐ 42685</span>
+						<span>🔱 3812</span>
 					</div>
-				<div class="stars-today">⭐ 1288 stars today</div>
+				<div class="stars-today">⭐ 735 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/CopilotKit/CopilotKit" target="_blank">
+				<p><a href="https://github.com/opencv/opencv" target="_blank">
     
 
 
       
-        CopilotKit /
+        opencv /
 
-      CopilotKit</a></p>
+      opencv</a></p>
 				<p>
-      The Frontend Stack for Agents & Generative UI. React, Angular, Mobile, Slack, and more. Makers of the AG-UI Protocol
+      Open Source Computer Vision Library
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 C++</span>
+						<span>⭐ 88429</span>
+						<span>🔱 56613</span>
+					</div>
+				<div class="stars-today">⭐ 395 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/refactoringhq/tolaria" target="_blank">
+    
+
+
+      
+        refactoringhq /
+
+      tolaria</a></p>
+				<p>
+      Desktop app to manage markdown knowledge bases
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 34357</span>
-						<span>🔱 4315</span>
+						<span>⭐ 14045</span>
+						<span>🔱 976</span>
 					</div>
-				<div class="stars-today">⭐ 378 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/TapXWorld/ChinaTextbook" target="_blank">
-    
-
-
-      
-        TapXWorld /
-
-      ChinaTextbook</a></p>
-				<p>
-      所有小初高、大学PDF教材。
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Roff</span>
-						<span>⭐ 73281</span>
-						<span>🔱 16409</span>
-					</div>
-				<div class="stars-today">⭐ 592 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/luongnv89/claude-howto" target="_blank">
-    
-
-
-      
-        luongnv89 /
-
-      claude-howto</a></p>
-				<p>
-      A visual, example-driven guide to Claude Code — from basic concepts to advanced agents, with copy-paste templates that bring immediate value.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 36070</span>
-						<span>🔱 4366</span>
-					</div>
-				<div class="stars-today">⭐ 312 stars today</div>
+				<div class="stars-today">⭐ 821 stars today</div>
 				</div>
 			</div>
 	
@@ -360,10 +140,230 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Rust</span>
-						<span>⭐ 48265</span>
-						<span>🔱 5076</span>
+						<span>⭐ 48318</span>
+						<span>🔱 5085</span>
 					</div>
-				<div class="stars-today">⭐ 699 stars today</div>
+				<div class="stars-today">⭐ 490 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/Andyyyy64/whichllm" target="_blank">
+    
+
+
+      
+        Andyyyy64 /
+
+      whichllm</a></p>
+				<p>
+      Find the local LLM that actually runs and performs best on your hardware. Ranked by real, recency-aware benchmarks, not parameter count. One command, run it instantly.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 3804</span>
+						<span>🔱 213</span>
+					</div>
+				<div class="stars-today">⭐ 631 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/TapXWorld/ChinaTextbook" target="_blank">
+    
+
+
+      
+        TapXWorld /
+
+      ChinaTextbook</a></p>
+				<p>
+      所有小初高、大学PDF教材。
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Roff</span>
+						<span>⭐ 73348</span>
+						<span>🔱 16423</span>
+					</div>
+				<div class="stars-today">⭐ 517 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools" target="_blank">
+    
+
+
+      
+        x1xhlol /
+
+      system-prompts-and-models-of-ai-tools</a></p>
+				<p>
+      FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, Dia & v0. (And other Open Sourced) System Prompts, Internal Tools & AI Models
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 </span>
+						<span>⭐ 139010</span>
+						<span>🔱 34544</span>
+					</div>
+				<div class="stars-today">⭐ 66 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/yikart/AiToEarn" target="_blank">
+    
+
+
+      
+        yikart /
+
+      AiToEarn</a></p>
+				<p>
+      Let's use AI to Earn!
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 19666</span>
+						<span>🔱 3003</span>
+					</div>
+				<div class="stars-today">⭐ 786 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/phuryn/pm-skills" target="_blank">
+    
+
+
+      
+        phuryn /
+
+      pm-skills</a></p>
+				<p>
+      PM Skills Marketplace: 100+ agentic skills, commands, and plugins — from discovery to strategy, execution, launch, and growth.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 </span>
+						<span>⭐ 13164</span>
+						<span>🔱 1513</span>
+					</div>
+				<div class="stars-today">⭐ 808 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/santifer/career-ops" target="_blank">
+    
+
+
+      
+        santifer /
+
+      career-ops</a></p>
+				<p>
+      AI-powered job search system built on Claude Code. 14 skill modes, Go dashboard, PDF generation, batch processing.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 JavaScript</span>
+						<span>⭐ 51098</span>
+						<span>🔱 10373</span>
+					</div>
+				<div class="stars-today">⭐ 1114 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/openai/plugins" target="_blank">
+    
+
+
+      
+        openai /
+
+      plugins</a></p>
+				<p>
+      OpenAI Plugins
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 JavaScript</span>
+						<span>⭐ 2474</span>
+						<span>🔱 297</span>
+					</div>
+				<div class="stars-today">⭐ 284 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/maziyarpanahi/openmed" target="_blank">
+    
+
+
+      
+        maziyarpanahi /
+
+      openmed</a></p>
+				<p>
+      open-source healthcare ai
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 1585</span>
+						<span>🔱 195</span>
+					</div>
+				<div class="stars-today">⭐ 165 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/francescopace/espectre" target="_blank">
+    
+
+
+      
+        francescopace /
+
+      espectre</a></p>
+				<p>
+      🛜 ESPectre 👻 - Motion detection system based on Wi-Fi spectre analysis (CSI), with Home Assistant integration.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 8000</span>
+						<span>🔱 625</span>
+					</div>
+				<div class="stars-today">⭐ 112 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/addyosmani/agent-skills" target="_blank">
+    
+
+
+      
+        addyosmani /
+
+      agent-skills</a></p>
+				<p>
+      Production-grade engineering skills for AI coding agents.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Shell</span>
+						<span>⭐ 49509</span>
+						<span>🔱 5529</span>
+					</div>
+				<div class="stars-today">⭐ 348 stars today</div>
 				</div>
 			</div>
 	
