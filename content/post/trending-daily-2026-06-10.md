@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2026-06-10
-date: 2026-06-10T06:16:58Z
+date: 2026-06-10T11:25:54Z
 categories:
 - daily
 keywords:
@@ -16,222 +16,24 @@ keywords:
 
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/mvanhorn/last30days-skill" target="_blank">
+				<p><a href="https://github.com/addyosmani/agent-skills" target="_blank">
     
 
 
       
-        mvanhorn /
+        addyosmani /
 
-      last30days-skill</a></p>
+      agent-skills</a></p>
 				<p>
-      AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary
+      Production-grade engineering skills for AI coding agents.
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 37950</span>
-						<span>🔱 3068</span>
+						<span>🔠 Shell</span>
+						<span>⭐ 50178</span>
+						<span>🔱 5596</span>
 					</div>
-				<div class="stars-today">⭐ 3191 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/RyanCodrai/turbovec" target="_blank">
-    
-
-
-      
-        RyanCodrai /
-
-      turbovec</a></p>
-				<p>
-      A vector index built on TurboQuant, written in Rust with Python bindings
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 10409</span>
-						<span>🔱 890</span>
-					</div>
-				<div class="stars-today">⭐ 1801 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/roboflow/supervision" target="_blank">
-    
-
-
-      
-        roboflow /
-
-      supervision</a></p>
-				<p>
-      We write your reusable computer vision tools. 💜
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 43183</span>
-						<span>🔱 3849</span>
-					</div>
-				<div class="stars-today">⭐ 733 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/opencv/opencv" target="_blank">
-    
-
-
-      
-        opencv /
-
-      opencv</a></p>
-				<p>
-      Open Source Computer Vision Library
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 C++</span>
-						<span>⭐ 88740</span>
-						<span>🔱 56632</span>
-					</div>
-				<div class="stars-today">⭐ 102 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/refactoringhq/tolaria" target="_blank">
-    
-
-
-      
-        refactoringhq /
-
-      tolaria</a></p>
-				<p>
-      Desktop app to manage markdown knowledge bases
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 14488</span>
-						<span>🔱 1005</span>
-					</div>
-				<div class="stars-today">⭐ 829 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/aaif-goose/goose" target="_blank">
-    
-
-
-      
-        aaif-goose /
-
-      goose</a></p>
-				<p>
-      an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Rust</span>
-						<span>⭐ 48585</span>
-						<span>🔱 5102</span>
-					</div>
-				<div class="stars-today">⭐ 489 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/Andyyyy64/whichllm" target="_blank">
-    
-
-
-      
-        Andyyyy64 /
-
-      whichllm</a></p>
-				<p>
-      Find the local LLM that actually runs and performs best on your hardware. Ranked by real, recency-aware benchmarks, not parameter count. One command, run it instantly.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 4224</span>
-						<span>🔱 235</span>
-					</div>
-				<div class="stars-today">⭐ 633 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/TapXWorld/ChinaTextbook" target="_blank">
-    
-
-
-      
-        TapXWorld /
-
-      ChinaTextbook</a></p>
-				<p>
-      所有小初高、大学PDF教材。
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Roff</span>
-						<span>⭐ 73629</span>
-						<span>🔱 16480</span>
-					</div>
-				<div class="stars-today">⭐ 519 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools" target="_blank">
-    
-
-
-      
-        x1xhlol /
-
-      system-prompts-and-models-of-ai-tools</a></p>
-				<p>
-      FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, Dia & v0. (And other Open Sourced) System Prompts, Internal Tools & AI Models
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 </span>
-						<span>⭐ 139270</span>
-						<span>🔱 34566</span>
-					</div>
-				<div class="stars-today">⭐ 79 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/yikart/AiToEarn" target="_blank">
-    
-
-
-      
-        yikart /
-
-      AiToEarn</a></p>
-				<p>
-      Let's use AI to Earn!
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 20149</span>
-						<span>🔱 3044</span>
-					</div>
-				<div class="stars-today">⭐ 402 stars today</div>
+				<div class="stars-today">⭐ 443 stars today</div>
 				</div>
 			</div>
 	
@@ -250,54 +52,164 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 </span>
-						<span>⭐ 13629</span>
-						<span>🔱 1558</span>
+						<span>⭐ 13864</span>
+						<span>🔱 1573</span>
 					</div>
 				<div class="stars-today">⭐ 806 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/santifer/career-ops" target="_blank">
+				<p><a href="https://github.com/refactoringhq/tolaria" target="_blank">
     
 
 
       
-        santifer /
+        refactoringhq /
 
-      career-ops</a></p>
+      tolaria</a></p>
 				<p>
-      AI-powered job search system built on Claude Code. 14 skill modes, Go dashboard, PDF generation, batch processing.
+      Desktop app to manage markdown knowledge bases
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 JavaScript</span>
-						<span>⭐ 51975</span>
-						<span>🔱 10453</span>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 14612</span>
+						<span>🔱 1011</span>
 					</div>
-				<div class="stars-today">⭐ 1110 stars today</div>
+				<div class="stars-today">⭐ 829 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/openai/plugins" target="_blank">
+				<p><a href="https://github.com/mvanhorn/last30days-skill" target="_blank">
     
 
 
       
-        openai /
+        mvanhorn /
 
-      plugins</a></p>
+      last30days-skill</a></p>
 				<p>
-      OpenAI Plugins
+      AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 JavaScript</span>
-						<span>⭐ 2663</span>
-						<span>🔱 311</span>
+						<span>🔠 Python</span>
+						<span>⭐ 38603</span>
+						<span>🔱 3112</span>
 					</div>
-				<div class="stars-today">⭐ 284 stars today</div>
+				<div class="stars-today">⭐ 3191 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/soxoj/maigret" target="_blank">
+    
+
+
+      
+        soxoj /
+
+      maigret</a></p>
+				<p>
+      🕵️‍♂️ Collect a dossier on a person by username from 3000+ sites
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 31662</span>
+						<span>🔱 2308</span>
+					</div>
+				<div class="stars-today">⭐ 261 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools" target="_blank">
+    
+
+
+      
+        x1xhlol /
+
+      system-prompts-and-models-of-ai-tools</a></p>
+				<p>
+      FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, Dia & v0. (And other Open Sourced) System Prompts, Internal Tools & AI Models
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 </span>
+						<span>⭐ 139375</span>
+						<span>🔱 34577</span>
+					</div>
+				<div class="stars-today">⭐ 79 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/obra/superpowers" target="_blank">
+    
+
+
+      
+        obra /
+
+      superpowers</a></p>
+				<p>
+      An agentic skills framework & software development methodology that works.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Shell</span>
+						<span>⭐ 223032</span>
+						<span>🔱 19836</span>
+					</div>
+				<div class="stars-today">⭐ 1011 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/masterking32/MasterDnsVPN" target="_blank">
+    
+
+
+      
+        masterking32 /
+
+      MasterDnsVPN</a></p>
+				<p>
+      Advanced DNS tunneling VPN for censorship bypass, optimized beyond DNSTT and SlipStream with low-overhead ARQ, resolver load balancing, high packet-loss stability and speed.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Go</span>
+						<span>⭐ 4961</span>
+						<span>🔱 487</span>
+					</div>
+				<div class="stars-today">⭐ 92 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/harry0703/MoneyPrinterTurbo" target="_blank">
+    
+
+
+      
+        harry0703 /
+
+      MoneyPrinterTurbo</a></p>
+				<p>
+      利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 84360</span>
+						<span>🔱 12035</span>
+					</div>
+				<div class="stars-today">⭐ 1471 stars today</div>
 				</div>
 			</div>
 	
@@ -316,54 +228,164 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 1995</span>
-						<span>🔱 221</span>
+						<span>⭐ 2090</span>
+						<span>🔱 231</span>
 					</div>
 				<div class="stars-today">⭐ 191 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/francescopace/espectre" target="_blank">
+				<p><a href="https://github.com/luongnv89/claude-howto" target="_blank">
     
 
 
       
-        francescopace /
+        luongnv89 /
 
-      espectre</a></p>
+      claude-howto</a></p>
 				<p>
-      🛜 ESPectre 👻 - Motion detection system based on Wi-Fi spectre analysis (CSI), with Home Assistant integration.
+      A visual, example-driven guide to Claude Code — from basic concepts to advanced agents, with copy-paste templates that bring immediate value.
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 8313</span>
-						<span>🔱 636</span>
+						<span>⭐ 36310</span>
+						<span>🔱 4398</span>
 					</div>
-				<div class="stars-today">⭐ 134 stars today</div>
+				<div class="stars-today">⭐ 204 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/addyosmani/agent-skills" target="_blank">
+				<p><a href="https://github.com/activeloopai/hivemind" target="_blank">
     
 
 
       
-        addyosmani /
+        activeloopai /
 
-      agent-skills</a></p>
+      hivemind</a></p>
 				<p>
-      Production-grade engineering skills for AI coding agents.
+      One brain for all your agents
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Shell</span>
-						<span>⭐ 49991</span>
-						<span>🔱 5580</span>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 616</span>
+						<span>🔱 42</span>
 					</div>
-				<div class="stars-today">⭐ 443 stars today</div>
+				<div class="stars-today">⭐ 47 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/ruvnet/RuView" target="_blank">
+    
+
+
+      
+        ruvnet /
+
+      RuView</a></p>
+				<p>
+      π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Rust</span>
+						<span>⭐ 72626</span>
+						<span>🔱 9704</span>
+					</div>
+				<div class="stars-today">⭐ 439 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/roboflow/supervision" target="_blank">
+    
+
+
+      
+        roboflow /
+
+      supervision</a></p>
+				<p>
+      We write your reusable computer vision tools. 💜
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 43338</span>
+						<span>🔱 3857</span>
+					</div>
+				<div class="stars-today">⭐ 733 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/google/skills" target="_blank">
+    
+
+
+      
+        google /
+
+      skills</a></p>
+				<p>
+      Agent Skills for Google products and technologies
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 13005</span>
+						<span>🔱 1000</span>
+					</div>
+				<div class="stars-today">⭐ 680 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/FareedKhan-dev/train-llm-from-scratch" target="_blank">
+    
+
+
+      
+        FareedKhan-dev /
+
+      train-llm-from-scratch</a></p>
+				<p>
+      A straightforward method for training your LLM, from downloading data to generating text.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 4950</span>
+						<span>🔱 686</span>
+					</div>
+				<div class="stars-today">⭐ 241 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/apple/container" target="_blank">
+    
+
+
+      
+        apple /
+
+      container</a></p>
+				<p>
+      A tool for creating and running Linux containers using lightweight virtual machines on a Mac. It is written in Swift, and optimized for Apple silicon. 
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Swift</span>
+						<span>⭐ 28322</span>
+						<span>🔱 796</span>
+					</div>
+				<div class="stars-today">⭐ 1358 stars today</div>
 				</div>
 			</div>
 	

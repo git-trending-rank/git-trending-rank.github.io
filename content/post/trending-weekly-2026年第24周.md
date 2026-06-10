@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2026年第24周
-date: 2026-06-10T06:16:58Z
+date: 2026-06-10T11:25:54Z
 categories:
 - weekly
 keywords:
@@ -14,28 +14,6 @@ keywords:
 	<main class="container">
         <div class="repo-list" id="repoList">
 
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/chopratejas/headroom" target="_blank">
-    
-
-
-      
-        chopratejas /
-
-      headroom</a></p>
-				<p>
-      Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 60-95% fewer tokens, same answers. Library, proxy, MCP server.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 20900</span>
-						<span>🔱 1342</span>
-					</div>
-				<div class="stars-today">⭐ 15060 stars this week</div>
-				</div>
-			</div>
 	
 			<div class="repo-card">
 				<p><a href="https://github.com/mvanhorn/last30days-skill" target="_blank">
@@ -52,32 +30,54 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 37950</span>
-						<span>🔱 3068</span>
+						<span>⭐ 38603</span>
+						<span>🔱 3112</span>
 					</div>
 				<div class="stars-today">⭐ 9307 stars this week</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/microsoft/markitdown" target="_blank">
+				<p><a href="https://github.com/chopratejas/headroom" target="_blank">
     
 
 
       
-        microsoft /
+        chopratejas /
 
-      markitdown</a></p>
+      headroom</a></p>
 				<p>
-      Python tool for converting files and office documents to Markdown.
+      Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 60-95% fewer tokens, same answers. Library, proxy, MCP server.
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 149578</span>
-						<span>🔱 10294</span>
+						<span>⭐ 21208</span>
+						<span>🔱 1357</span>
 					</div>
-				<div class="stars-today">⭐ 8903 stars this week</div>
+				<div class="stars-today">⭐ 15060 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/lfnovo/open-notebook" target="_blank">
+    
+
+
+      
+        lfnovo /
+
+      open-notebook</a></p>
+				<p>
+      An Open Source implementation of Notebook LM with more flexibility and features
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 28774</span>
+						<span>🔱 3261</span>
+					</div>
+				<div class="stars-today">⭐ 4245 stars this week</div>
 				</div>
 			</div>
 	
@@ -96,8 +96,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 JavaScript</span>
-						<span>⭐ 2663</span>
-						<span>🔱 311</span>
+						<span>⭐ 2719</span>
+						<span>🔱 314</span>
 					</div>
 				<div class="stars-today">⭐ 1144 stars this week</div>
 				</div>
@@ -118,8 +118,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 25718</span>
-						<span>🔱 2134</span>
+						<span>⭐ 25862</span>
+						<span>🔱 2142</span>
 					</div>
 				<div class="stars-today">⭐ 4361 stars this week</div>
 				</div>
@@ -140,142 +140,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Shell</span>
-						<span>⭐ 39826</span>
-						<span>🔱 2820</span>
+						<span>⭐ 40104</span>
+						<span>🔱 2842</span>
 					</div>
 				<div class="stars-today">⭐ 7787 stars this week</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/lfnovo/open-notebook" target="_blank">
+				<p><a href="https://github.com/microsoft/markitdown" target="_blank">
     
 
 
       
-        lfnovo /
+        microsoft /
 
-      open-notebook</a></p>
+      markitdown</a></p>
 				<p>
-      An Open Source implementation of Notebook LM with more flexibility and features
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 28674</span>
-						<span>🔱 3249</span>
-					</div>
-				<div class="stars-today">⭐ 4245 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/Open-LLM-VTuber/Open-LLM-VTuber" target="_blank">
-    
-
-
-      
-        Open-LLM-VTuber /
-
-      Open-LLM-VTuber</a></p>
-				<p>
-      Talk to any LLM with hands-free voice interaction, voice interruption, and Live2D taking face running locally across platforms
+      Python tool for converting files and office documents to Markdown.
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 10756</span>
-						<span>🔱 1250</span>
+						<span>⭐ 149836</span>
+						<span>🔱 10318</span>
 					</div>
-				<div class="stars-today">⭐ 2642 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/affaan-m/ECC" target="_blank">
-    
-
-
-      
-        affaan-m /
-
-      ECC</a></p>
-				<p>
-      The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 JavaScript</span>
-						<span>⭐ 212086</span>
-						<span>🔱 32564</span>
-					</div>
-				<div class="stars-today">⭐ 9025 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/aquasecurity/trivy" target="_blank">
-    
-
-
-      
-        aquasecurity /
-
-      trivy</a></p>
-				<p>
-      Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Go</span>
-						<span>⭐ 36255</span>
-						<span>🔱 466</span>
-					</div>
-				<div class="stars-today">⭐ 951 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/revfactory/harness" target="_blank">
-    
-
-
-      
-        revfactory /
-
-      harness</a></p>
-				<p>
-      A meta-skill that designs domain-specific agent teams, defines specialized agents, and generates the skills they use.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 HTML</span>
-						<span>⭐ 6695</span>
-						<span>🔱 916</span>
-					</div>
-				<div class="stars-today">⭐ 1256 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/NousResearch/hermes-agent" target="_blank">
-    
-
-
-      
-        NousResearch /
-
-      hermes-agent</a></p>
-				<p>
-      The agent that grows with you
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 189107</span>
-						<span>🔱 32640</span>
-					</div>
-				<div class="stars-today">⭐ 11915 stars this week</div>
+				<div class="stars-today">⭐ 8903 stars this week</div>
 				</div>
 			</div>
 	
@@ -294,32 +184,98 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 </span>
-						<span>⭐ 13629</span>
-						<span>🔱 1558</span>
+						<span>⭐ 13864</span>
+						<span>🔱 1573</span>
 					</div>
 				<div class="stars-today">⭐ 1329 stars this week</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/supermemoryai/supermemory" target="_blank">
+				<p><a href="https://github.com/Open-LLM-VTuber/Open-LLM-VTuber" target="_blank">
     
 
 
       
-        supermemoryai /
+        Open-LLM-VTuber /
 
-      supermemory</a></p>
+      Open-LLM-VTuber</a></p>
 				<p>
-      Memory engine and app that is extremely fast, scalable. The Memory API for the AI era.
+      Talk to any LLM with hands-free voice interaction, voice interruption, and Live2D taking face running locally across platforms
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 26382</span>
-						<span>🔱 2294</span>
+						<span>🔠 Python</span>
+						<span>⭐ 10791</span>
+						<span>🔱 1255</span>
 					</div>
-				<div class="stars-today">⭐ 1982 stars this week</div>
+				<div class="stars-today">⭐ 2642 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/NousResearch/hermes-agent" target="_blank">
+    
+
+
+      
+        NousResearch /
+
+      hermes-agent</a></p>
+				<p>
+      The agent that grows with you
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 189433</span>
+						<span>🔱 32724</span>
+					</div>
+				<div class="stars-today">⭐ 11915 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/aquasecurity/trivy" target="_blank">
+    
+
+
+      
+        aquasecurity /
+
+      trivy</a></p>
+				<p>
+      Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Go</span>
+						<span>⭐ 36265</span>
+						<span>🔱 467</span>
+					</div>
+				<div class="stars-today">⭐ 951 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/affaan-m/ECC" target="_blank">
+    
+
+
+      
+        affaan-m /
+
+      ECC</a></p>
+				<p>
+      The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 JavaScript</span>
+						<span>⭐ 212299</span>
+						<span>🔱 32594</span>
+					</div>
+				<div class="stars-today">⭐ 9025 stars this week</div>
 				</div>
 			</div>
 	
@@ -338,10 +294,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 34499</span>
-						<span>🔱 4321</span>
+						<span>⭐ 34538</span>
+						<span>🔱 4323</span>
 					</div>
 				<div class="stars-today">⭐ 2553 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/revfactory/harness" target="_blank">
+    
+
+
+      
+        revfactory /
+
+      harness</a></p>
+				<p>
+      A meta-skill that designs domain-specific agent teams, defines specialized agents, and generates the skills they use.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 HTML</span>
+						<span>⭐ 6710</span>
+						<span>🔱 918</span>
+					</div>
+				<div class="stars-today">⭐ 1256 stars this week</div>
 				</div>
 			</div>
 	
@@ -360,32 +338,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 JavaScript</span>
-						<span>⭐ 36896</span>
-						<span>🔱 2016</span>
+						<span>⭐ 36984</span>
+						<span>🔱 2024</span>
 					</div>
 				<div class="stars-today">⭐ 3334 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/can1357/oh-my-pi" target="_blank">
-    
-
-
-      
-        can1357 /
-
-      oh-my-pi</a></p>
-				<p>
-      ⌥ AI Coding agent for the terminal — hash-anchored edits, optimized tool harness, LSP, Python, browser, subagents, and more
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 11591</span>
-						<span>🔱 976</span>
-					</div>
-				<div class="stars-today">⭐ 1633 stars this week</div>
 				</div>
 			</div>
 	
@@ -404,10 +360,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 20809</span>
-						<span>🔱 1537</span>
+						<span>⭐ 20845</span>
+						<span>🔱 1539</span>
 					</div>
 				<div class="stars-today">⭐ 1442 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/roboflow/supervision" target="_blank">
+    
+
+
+      
+        roboflow /
+
+      supervision</a></p>
+				<p>
+      We write your reusable computer vision tools. 💜
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 43338</span>
+						<span>🔱 3857</span>
+					</div>
+				<div class="stars-today">⭐ 3010 stars this week</div>
 				</div>
 			</div>
 	

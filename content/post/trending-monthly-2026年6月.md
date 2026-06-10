@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2026年6月
-date: 2026-06-10T06:16:59Z
+date: 2026-06-10T11:25:54Z
 categories:
 - monthly
 keywords:
@@ -30,10 +30,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 46209</span>
-						<span>🔱 2831</span>
+						<span>⭐ 46472</span>
+						<span>🔱 2843</span>
 					</div>
 				<div class="stars-today">⭐ 44599 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/tinyhumansai/openhuman" target="_blank">
+    
+
+
+      
+        tinyhumansai /
+
+      openhuman</a></p>
+				<p>
+      Your Personal AI super intelligence. Private, Simple and extremely powerful.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Rust</span>
+						<span>⭐ 31289</span>
+						<span>🔱 3050</span>
+					</div>
+				<div class="stars-today">⭐ 30988 stars this month</div>
 				</div>
 			</div>
 	
@@ -52,8 +74,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 20900</span>
-						<span>🔱 1342</span>
+						<span>⭐ 21208</span>
+						<span>🔱 1357</span>
 					</div>
 				<div class="stars-today">⭐ 18138 stars this month</div>
 				</div>
@@ -74,8 +96,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 56111</span>
-						<span>🔱 4651</span>
+						<span>⭐ 56304</span>
+						<span>🔱 4665</span>
 					</div>
 				<div class="stars-today">⭐ 42402 stars this month</div>
 				</div>
@@ -96,8 +118,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 84045</span>
-						<span>🔱 11981</span>
+						<span>⭐ 84360</span>
+						<span>🔱 12035</span>
 					</div>
 				<div class="stars-today">⭐ 26621 stars this month</div>
 				</div>
@@ -118,8 +140,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 25234</span>
-						<span>🔱 2008</span>
+						<span>⭐ 25290</span>
+						<span>🔱 2014</span>
 					</div>
 				<div class="stars-today">⭐ 21551 stars this month</div>
 				</div>
@@ -140,8 +162,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 22159</span>
-						<span>🔱 1820</span>
+						<span>⭐ 22198</span>
+						<span>🔱 1825</span>
 					</div>
 				<div class="stars-today">⭐ 19117 stars this month</div>
 				</div>
@@ -162,32 +184,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 30833</span>
-						<span>🔱 5031</span>
+						<span>⭐ 30907</span>
+						<span>🔱 5042</span>
 					</div>
 				<div class="stars-today">⭐ 24221 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/Imbad0202/academic-research-skills" target="_blank">
-    
-
-
-      
-        Imbad0202 /
-
-      academic-research-skills</a></p>
-				<p>
-      Academic Research Skills for Claude Code: research → write → review → revise → finalize
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 29601</span>
-						<span>🔱 2449</span>
-					</div>
-				<div class="stars-today">⭐ 24343 stars this month</div>
 				</div>
 			</div>
 	
@@ -206,32 +206,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Rust</span>
-						<span>⭐ 72527</span>
-						<span>🔱 9695</span>
+						<span>⭐ 72626</span>
+						<span>🔱 9704</span>
 					</div>
 				<div class="stars-today">⭐ 20728 stars this month</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/fathah/hermes-desktop" target="_blank">
+				<p><a href="https://github.com/Imbad0202/academic-research-skills" target="_blank">
     
 
 
       
-        fathah /
+        Imbad0202 /
 
-      hermes-desktop</a></p>
+      academic-research-skills</a></p>
 				<p>
-      Desktop Companion for Hermes Agent
+      Academic Research Skills for Claude Code: research → write → review → revise → finalize
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 11612</span>
-						<span>🔱 1319</span>
+						<span>🔠 Python</span>
+						<span>⭐ 29728</span>
+						<span>🔱 2458</span>
 					</div>
-				<div class="stars-today">⭐ 10169 stars this month</div>
+				<div class="stars-today">⭐ 24343 stars this month</div>
 				</div>
 			</div>
 	
@@ -250,54 +250,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 11591</span>
-						<span>🔱 976</span>
+						<span>⭐ 11657</span>
+						<span>🔱 982</span>
 					</div>
 				<div class="stars-today">⭐ 7304 stars this month</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/mattpocock/skills" target="_blank">
+				<p><a href="https://github.com/fathah/hermes-desktop" target="_blank">
     
 
 
       
-        mattpocock /
+        fathah /
 
-      skills</a></p>
+      hermes-desktop</a></p>
 				<p>
-      Skills for Real Engineers. Straight from my .claude directory.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Shell</span>
-						<span>⭐ 123438</span>
-						<span>🔱 10787</span>
-					</div>
-				<div class="stars-today">⭐ 55863 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/yikart/AiToEarn" target="_blank">
-    
-
-
-      
-        yikart /
-
-      AiToEarn</a></p>
-				<p>
-      Let's use AI to Earn!
+      Desktop Companion for Hermes Agent
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 20149</span>
-						<span>🔱 3044</span>
+						<span>⭐ 11673</span>
+						<span>🔱 1322</span>
 					</div>
-				<div class="stars-today">⭐ 10409 stars this month</div>
+				<div class="stars-today">⭐ 10169 stars this month</div>
 				</div>
 			</div>
 	
@@ -316,10 +294,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 9534</span>
-						<span>🔱 1426</span>
+						<span>⭐ 9580</span>
+						<span>🔱 1428</span>
 					</div>
 				<div class="stars-today">⭐ 5841 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/mattpocock/skills" target="_blank">
+    
+
+
+      
+        mattpocock /
+
+      skills</a></p>
+				<p>
+      Skills for Real Engineers. Straight from my .claude directory.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Shell</span>
+						<span>⭐ 123798</span>
+						<span>🔱 10819</span>
+					</div>
+				<div class="stars-today">⭐ 55863 stars this month</div>
 				</div>
 			</div>
 	
@@ -338,10 +338,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 19968</span>
-						<span>🔱 2382</span>
+						<span>⭐ 20011</span>
+						<span>🔱 2384</span>
 					</div>
 				<div class="stars-today">⭐ 7977 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/yikart/AiToEarn" target="_blank">
+    
+
+
+      
+        yikart /
+
+      AiToEarn</a></p>
+				<p>
+      Let's use AI to Earn!
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 20371</span>
+						<span>🔱 3068</span>
+					</div>
+				<div class="stars-today">⭐ 10409 stars this month</div>
 				</div>
 			</div>
 	
@@ -360,8 +382,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 149578</span>
-						<span>🔱 10294</span>
+						<span>⭐ 149836</span>
+						<span>🔱 10318</span>
 					</div>
 				<div class="stars-today">⭐ 27456 stars this month</div>
 				</div>
@@ -382,8 +404,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Shell</span>
-						<span>⭐ 39826</span>
-						<span>🔱 2820</span>
+						<span>⭐ 40104</span>
+						<span>🔱 2842</span>
 					</div>
 				<div class="stars-today">⭐ 22961 stars this month</div>
 				</div>
@@ -404,10 +426,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 </span>
-						<span>⭐ 9762</span>
-						<span>🔱 688</span>
+						<span>⭐ 9810</span>
+						<span>🔱 691</span>
 					</div>
 				<div class="stars-today">⭐ 6244 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/iii-hq/iii" target="_blank">
+    
+
+
+      
+        iii-hq /
+
+      iii</a></p>
+				<p>
+      Effortlessly compose, extend, and observe every service in real-time for the first time ever.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Rust</span>
+						<span>⭐ 17792</span>
+						<span>🔱 1178</span>
+					</div>
+				<div class="stars-today">⭐ 2353 stars this month</div>
 				</div>
 			</div>
 	
@@ -426,7 +470,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Rust</span>
-						<span>⭐ 93029</span>
+						<span>⭐ 93039</span>
 						<span>🔱 4692</span>
 					</div>
 				<div class="stars-today">⭐ 3802 stars this month</div>
