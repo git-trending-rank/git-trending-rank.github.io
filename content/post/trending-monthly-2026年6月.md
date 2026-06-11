@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2026年6月
-date: 2026-06-11T08:24:05Z
+date: 2026-06-11T13:44:42Z
 categories:
 - monthly
 keywords:
@@ -30,32 +30,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 47086</span>
-						<span>🔱 2878</span>
+						<span>⭐ 47295</span>
+						<span>🔱 2888</span>
 					</div>
 				<div class="stars-today">⭐ 45529 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/tinyhumansai/openhuman" target="_blank">
-    
-
-
-      
-        tinyhumansai /
-
-      openhuman</a></p>
-				<p>
-      Your Personal AI super intelligence. Private, Simple and extremely powerful.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Rust</span>
-						<span>⭐ 31445</span>
-						<span>🔱 3059</span>
-					</div>
-				<div class="stars-today">⭐ 30921 stars this month</div>
 				</div>
 			</div>
 	
@@ -74,10 +52,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 22325</span>
-						<span>🔱 1439</span>
+						<span>⭐ 22671</span>
+						<span>🔱 1471</span>
 					</div>
 				<div class="stars-today">⭐ 19716 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/tinyhumansai/openhuman" target="_blank">
+    
+
+
+      
+        tinyhumansai /
+
+      openhuman</a></p>
+				<p>
+      Your Personal AI super intelligence. Private, Simple and extremely powerful.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Rust</span>
+						<span>⭐ 31491</span>
+						<span>🔱 3064</span>
+					</div>
+				<div class="stars-today">⭐ 30921 stars this month</div>
 				</div>
 			</div>
 	
@@ -96,8 +96,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 56890</span>
-						<span>🔱 4729</span>
+						<span>⭐ 57090</span>
+						<span>🔱 4742</span>
 					</div>
 				<div class="stars-today">⭐ 42791 stars this month</div>
 				</div>
@@ -118,54 +118,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 85511</span>
-						<span>🔱 12201</span>
+						<span>⭐ 85759</span>
+						<span>🔱 12240</span>
 					</div>
 				<div class="stars-today">⭐ 28070 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/CloakHQ/CloakBrowser" target="_blank">
-    
-
-
-      
-        CloakHQ /
-
-      CloakBrowser</a></p>
-				<p>
-      Stealth Chromium that passes every bot detection test. Drop-in Playwright replacement with source-level fingerprint patches. 30/30 tests passed.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 25463</span>
-						<span>🔱 2026</span>
-					</div>
-				<div class="stars-today">⭐ 21233 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/rohitg00/agentmemory" target="_blank">
-    
-
-
-      
-        rohitg00 /
-
-      agentmemory</a></p>
-				<p>
-      #1 Persistent memory for AI coding agents based on real-world benchmarks
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 22308</span>
-						<span>🔱 1837</span>
-					</div>
-				<div class="stars-today">⭐ 18539 stars this month</div>
 				</div>
 			</div>
 	
@@ -184,32 +140,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 31157</span>
-						<span>🔱 5088</span>
+						<span>⭐ 31245</span>
+						<span>🔱 5111</span>
 					</div>
 				<div class="stars-today">⭐ 24277 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/ruvnet/RuView" target="_blank">
-    
-
-
-      
-        ruvnet /
-
-      RuView</a></p>
-				<p>
-      π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Rust</span>
-						<span>⭐ 73045</span>
-						<span>🔱 9748</span>
-					</div>
-				<div class="stars-today">⭐ 21095 stars this month</div>
 				</div>
 			</div>
 	
@@ -228,10 +162,98 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 30060</span>
-						<span>🔱 2494</span>
+						<span>⭐ 30171</span>
+						<span>🔱 2502</span>
 					</div>
 				<div class="stars-today">⭐ 24538 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/ruvnet/RuView" target="_blank">
+    
+
+
+      
+        ruvnet /
+
+      RuView</a></p>
+				<p>
+      π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Rust</span>
+						<span>⭐ 73111</span>
+						<span>🔱 9754</span>
+					</div>
+				<div class="stars-today">⭐ 21095 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/CloakHQ/CloakBrowser" target="_blank">
+    
+
+
+      
+        CloakHQ /
+
+      CloakBrowser</a></p>
+				<p>
+      Stealth Chromium that passes every bot detection test. Drop-in Playwright replacement with source-level fingerprint patches. 30/30 tests passed.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 25508</span>
+						<span>🔱 2026</span>
+					</div>
+				<div class="stars-today">⭐ 21233 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/supertone-inc/supertonic" target="_blank">
+    
+
+
+      
+        supertone-inc /
+
+      supertonic</a></p>
+				<p>
+      Lightning-Fast, On-Device, Multilingual TTS — running natively via ONNX.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Swift</span>
+						<span>⭐ 11465</span>
+						<span>🔱 1195</span>
+					</div>
+				<div class="stars-today">⭐ 8599 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/rohitg00/agentmemory" target="_blank">
+    
+
+
+      
+        rohitg00 /
+
+      agentmemory</a></p>
+				<p>
+      #1 Persistent memory for AI coding agents based on real-world benchmarks
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 22340</span>
+						<span>🔱 1839</span>
+					</div>
+				<div class="stars-today">⭐ 18539 stars this month</div>
 				</div>
 			</div>
 	
@@ -250,32 +272,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 11807</span>
-						<span>🔱 999</span>
+						<span>⭐ 11851</span>
+						<span>🔱 1004</span>
 					</div>
 				<div class="stars-today">⭐ 7543 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/fathah/hermes-desktop" target="_blank">
-    
-
-
-      
-        fathah /
-
-      hermes-desktop</a></p>
-				<p>
-      Desktop Companion for Hermes Agent
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 11802</span>
-						<span>🔱 1332</span>
-					</div>
-				<div class="stars-today">⭐ 10256 stars this month</div>
 				</div>
 			</div>
 	
@@ -294,32 +294,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 9678</span>
-						<span>🔱 1436</span>
+						<span>⭐ 9708</span>
+						<span>🔱 1437</span>
 					</div>
 				<div class="stars-today">⭐ 6038 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/mattpocock/skills" target="_blank">
-    
-
-
-      
-        mattpocock /
-
-      skills</a></p>
-				<p>
-      Skills for Real Engineers. Straight from my .claude directory.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Shell</span>
-						<span>⭐ 124886</span>
-						<span>🔱 10913</span>
-					</div>
-				<div class="stars-today">⭐ 56090 stars this month</div>
 				</div>
 			</div>
 	
@@ -338,32 +316,76 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 20159</span>
-						<span>🔱 2392</span>
+						<span>⭐ 20218</span>
+						<span>🔱 2397</span>
 					</div>
 				<div class="stars-today">⭐ 8127 stars this month</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/yikart/AiToEarn" target="_blank">
+				<p><a href="https://github.com/mattpocock/skills" target="_blank">
     
 
 
       
-        yikart /
+        mattpocock /
 
-      AiToEarn</a></p>
+      skills</a></p>
 				<p>
-      Let's use AI to Earn!
+      Skills for Real Engineers. Straight from my .claude directory.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Shell</span>
+						<span>⭐ 125247</span>
+						<span>🔱 10939</span>
+					</div>
+				<div class="stars-today">⭐ 56090 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/hardikpandya/stop-slop" target="_blank">
+    
+
+
+      
+        hardikpandya /
+
+      stop-slop</a></p>
+				<p>
+      A skill file for removing AI tells from prose
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 </span>
+						<span>⭐ 10002</span>
+						<span>🔱 703</span>
+					</div>
+				<div class="stars-today">⭐ 6447 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/fathah/hermes-desktop" target="_blank">
+    
+
+
+      
+        fathah /
+
+      hermes-desktop</a></p>
+				<p>
+      Desktop Companion for Hermes Agent
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 20645</span>
-						<span>🔱 3098</span>
+						<span>⭐ 11831</span>
+						<span>🔱 1337</span>
 					</div>
-				<div class="stars-today">⭐ 10730 stars this month</div>
+				<div class="stars-today">⭐ 10256 stars this month</div>
 				</div>
 			</div>
 	
@@ -382,8 +404,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 150620</span>
-						<span>🔱 10369</span>
+						<span>⭐ 150851</span>
+						<span>🔱 10383</span>
 					</div>
 				<div class="stars-today">⭐ 28171 stars this month</div>
 				</div>
@@ -404,76 +426,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Shell</span>
-						<span>⭐ 41023</span>
-						<span>🔱 2883</span>
+						<span>⭐ 41247</span>
+						<span>🔱 2890</span>
 					</div>
 				<div class="stars-today">⭐ 23936 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/hardikpandya/stop-slop" target="_blank">
-    
-
-
-      
-        hardikpandya /
-
-      stop-slop</a></p>
-				<p>
-      A skill file for removing AI tells from prose
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 </span>
-						<span>⭐ 9950</span>
-						<span>🔱 701</span>
-					</div>
-				<div class="stars-today">⭐ 6447 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/iii-hq/iii" target="_blank">
-    
-
-
-      
-        iii-hq /
-
-      iii</a></p>
-				<p>
-      Effortlessly compose, extend, and observe every service in real-time for the first time ever.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Rust</span>
-						<span>⭐ 17903</span>
-						<span>🔱 1186</span>
-					</div>
-				<div class="stars-today">⭐ 2362 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/oven-sh/bun" target="_blank">
-    
-
-
-      
-        oven-sh /
-
-      bun</a></p>
-				<p>
-      Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Rust</span>
-						<span>⭐ 93085</span>
-						<span>🔱 4693</span>
-					</div>
-				<div class="stars-today">⭐ 3825 stars this month</div>
 				</div>
 			</div>
 	

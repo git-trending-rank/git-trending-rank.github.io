@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2026年第24周
-date: 2026-06-11T08:24:05Z
+date: 2026-06-11T13:44:42Z
 categories:
 - weekly
 keywords:
@@ -30,8 +30,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 39381</span>
-						<span>🔱 3173</span>
+						<span>⭐ 39540</span>
+						<span>🔱 3181</span>
 					</div>
 				<div class="stars-today">⭐ 11732 stars this week</div>
 				</div>
@@ -52,8 +52,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 22325</span>
-						<span>🔱 1439</span>
+						<span>⭐ 22671</span>
+						<span>🔱 1471</span>
 					</div>
 				<div class="stars-today">⭐ 13062 stars this week</div>
 				</div>
@@ -74,10 +74,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 29103</span>
-						<span>🔱 3297</span>
+						<span>⭐ 29168</span>
+						<span>🔱 3303</span>
 					</div>
 				<div class="stars-today">⭐ 4648 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/phuryn/pm-skills" target="_blank">
+    
+
+
+      
+        phuryn /
+
+      pm-skills</a></p>
+				<p>
+      PM Skills Marketplace: 100+ agentic skills, commands, and plugins — from discovery to strategy, execution, launch, and growth.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 </span>
+						<span>⭐ 15942</span>
+						<span>🔱 1675</span>
+					</div>
+				<div class="stars-today">⭐ 2056 stars this week</div>
 				</div>
 			</div>
 	
@@ -96,8 +118,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 JavaScript</span>
-						<span>⭐ 2777</span>
-						<span>🔱 320</span>
+						<span>⭐ 2791</span>
+						<span>🔱 321</span>
 					</div>
 				<div class="stars-today">⭐ 1371 stars this week</div>
 				</div>
@@ -118,10 +140,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 26185</span>
-						<span>🔱 2159</span>
+						<span>⭐ 26272</span>
+						<span>🔱 2164</span>
 					</div>
 				<div class="stars-today">⭐ 5021 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/NVIDIA/cosmos" target="_blank">
+    
+
+
+      
+        NVIDIA /
+
+      cosmos</a></p>
+				<p>
+      NVIDIA Cosmos is an open platform of world models, datasets, and tools that enables developers to build Physical AI for robots, autonomous vehicles, smart infrastructure, and more.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Jupyter Notebook</span>
+						<span>⭐ 9869</span>
+						<span>🔱 638</span>
+					</div>
+				<div class="stars-today">⭐ 1174 stars this week</div>
 				</div>
 			</div>
 	
@@ -140,10 +184,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Shell</span>
-						<span>⭐ 41023</span>
-						<span>🔱 2883</span>
+						<span>⭐ 41247</span>
+						<span>🔱 2890</span>
 					</div>
 				<div class="stars-today">⭐ 8077 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/apple/container" target="_blank">
+    
+
+
+      
+        apple /
+
+      container</a></p>
+				<p>
+      A tool for creating and running Linux containers using lightweight virtual machines on a Mac. It is written in Swift, and optimized for Apple silicon. 
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Swift</span>
+						<span>⭐ 31075</span>
+						<span>🔱 869</span>
+					</div>
+				<div class="stars-today">⭐ 2775 stars this week</div>
 				</div>
 			</div>
 	
@@ -162,32 +228,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 150620</span>
-						<span>🔱 10369</span>
+						<span>⭐ 150851</span>
+						<span>🔱 10383</span>
 					</div>
 				<div class="stars-today">⭐ 7820 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/phuryn/pm-skills" target="_blank">
-    
-
-
-      
-        phuryn /
-
-      pm-skills</a></p>
-				<p>
-      PM Skills Marketplace: 100+ agentic skills, commands, and plugins — from discovery to strategy, execution, launch, and growth.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 </span>
-						<span>⭐ 15631</span>
-						<span>🔱 1659</span>
-					</div>
-				<div class="stars-today">⭐ 2056 stars this week</div>
 				</div>
 			</div>
 	
@@ -206,76 +250,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 10917</span>
+						<span>⭐ 10947</span>
 						<span>🔱 1268</span>
 					</div>
 				<div class="stars-today">⭐ 2110 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/NousResearch/hermes-agent" target="_blank">
-    
-
-
-      
-        NousResearch /
-
-      hermes-agent</a></p>
-				<p>
-      The agent that grows with you
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 190381</span>
-						<span>🔱 33012</span>
-					</div>
-				<div class="stars-today">⭐ 11519 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/aquasecurity/trivy" target="_blank">
-    
-
-
-      
-        aquasecurity /
-
-      trivy</a></p>
-				<p>
-      Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Go</span>
-						<span>⭐ 36309</span>
-						<span>🔱 466</span>
-					</div>
-				<div class="stars-today">⭐ 991 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/affaan-m/ECC" target="_blank">
-    
-
-
-      
-        affaan-m /
-
-      ECC</a></p>
-				<p>
-      The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 JavaScript</span>
-						<span>⭐ 212996</span>
-						<span>🔱 32725</span>
-					</div>
-				<div class="stars-today">⭐ 7865 stars this week</div>
 				</div>
 			</div>
 	
@@ -294,10 +272,76 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 34649</span>
-						<span>🔱 4330</span>
+						<span>⭐ 34673</span>
+						<span>🔱 4334</span>
 					</div>
 				<div class="stars-today">⭐ 2686 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/aquasecurity/trivy" target="_blank">
+    
+
+
+      
+        aquasecurity /
+
+      trivy</a></p>
+				<p>
+      Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Go</span>
+						<span>⭐ 36312</span>
+						<span>🔱 467</span>
+					</div>
+				<div class="stars-today">⭐ 991 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/santifer/career-ops" target="_blank">
+    
+
+
+      
+        santifer /
+
+      career-ops</a></p>
+				<p>
+      AI-powered job search system built on Claude Code. 14 skill modes, Go dashboard, PDF generation, batch processing.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 JavaScript</span>
+						<span>⭐ 52638</span>
+						<span>🔱 10555</span>
+					</div>
+				<div class="stars-today">⭐ 3998 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/NousResearch/hermes-agent" target="_blank">
+    
+
+
+      
+        NousResearch /
+
+      hermes-agent</a></p>
+				<p>
+      The agent that grows with you
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 190628</span>
+						<span>🔱 33065</span>
+					</div>
+				<div class="stars-today">⭐ 11519 stars this week</div>
 				</div>
 			</div>
 	
@@ -316,76 +360,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 HTML</span>
-						<span>⭐ 6791</span>
-						<span>🔱 930</span>
+						<span>⭐ 6801</span>
+						<span>🔱 932</span>
 					</div>
 				<div class="stars-today">⭐ 1113 stars this week</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/pbakaus/impeccable" target="_blank">
+				<p><a href="https://github.com/aaif-goose/goose" target="_blank">
     
 
 
       
-        pbakaus /
+        aaif-goose /
 
-      impeccable</a></p>
+      goose</a></p>
 				<p>
-      The design language that makes your AI harness better at design.
+      an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 JavaScript</span>
-						<span>⭐ 37329</span>
-						<span>🔱 2040</span>
+						<span>🔠 Rust</span>
+						<span>⭐ 48836</span>
+						<span>🔱 5142</span>
 					</div>
-				<div class="stars-today">⭐ 3212 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/EveryInc/compound-engineering-plugin" target="_blank">
-    
-
-
-      
-        EveryInc /
-
-      compound-engineering-plugin</a></p>
-				<p>
-      Official Compound Engineering plugin for Claude Code, Codex, Cursor, and more
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 20982</span>
-						<span>🔱 1541</span>
-					</div>
-				<div class="stars-today">⭐ 1394 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/roboflow/supervision" target="_blank">
-    
-
-
-      
-        roboflow /
-
-      supervision</a></p>
-				<p>
-      We write your reusable computer vision tools. 💜
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 43728</span>
-						<span>🔱 3885</span>
-					</div>
-				<div class="stars-today">⭐ 3532 stars this week</div>
+				<div class="stars-today">⭐ 2502 stars this week</div>
 				</div>
 			</div>
 	
