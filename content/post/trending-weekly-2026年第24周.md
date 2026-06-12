@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2026年第24周
-date: 2026-06-12T12:44:32Z
+date: 2026-06-12T16:34:21Z
 categories:
 - weekly
 keywords:
@@ -30,8 +30,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 40087</span>
-						<span>🔱 3225</span>
+						<span>⭐ 40177</span>
+						<span>🔱 3230</span>
 					</div>
 				<div class="stars-today">⭐ 12422 stars this week</div>
 				</div>
@@ -52,32 +52,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 23976</span>
-						<span>🔱 1562</span>
+						<span>⭐ 24268</span>
+						<span>🔱 1580</span>
 					</div>
 				<div class="stars-today">⭐ 11282 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/lfnovo/open-notebook" target="_blank">
-    
-
-
-      
-        lfnovo /
-
-      open-notebook</a></p>
-				<p>
-      An Open Source implementation of Notebook LM with more flexibility and features
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 29405</span>
-						<span>🔱 3329</span>
-					</div>
-				<div class="stars-today">⭐ 4796 stars this week</div>
 				</div>
 			</div>
 	
@@ -96,10 +74,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 </span>
-						<span>⭐ 16704</span>
-						<span>🔱 1722</span>
+						<span>⭐ 16811</span>
+						<span>🔱 1730</span>
 					</div>
 				<div class="stars-today">⭐ 4005 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/apple/container" target="_blank">
+    
+
+
+      
+        apple /
+
+      container</a></p>
+				<p>
+      A tool for creating and running Linux containers using lightweight virtual machines on a Mac. It is written in Swift, and optimized for Apple silicon. 
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Swift</span>
+						<span>⭐ 34673</span>
+						<span>🔱 961</span>
+					</div>
+				<div class="stars-today">⭐ 4081 stars this week</div>
 				</div>
 			</div>
 	
@@ -118,8 +118,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 JavaScript</span>
-						<span>⭐ 2856</span>
-						<span>🔱 332</span>
+						<span>⭐ 2871</span>
+						<span>🔱 334</span>
 					</div>
 				<div class="stars-today">⭐ 1424 stars this week</div>
 				</div>
@@ -140,32 +140,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 26582</span>
-						<span>🔱 2178</span>
+						<span>⭐ 26662</span>
+						<span>🔱 2180</span>
 					</div>
 				<div class="stars-today">⭐ 5186 stars this week</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/NVIDIA/cosmos" target="_blank">
+				<p><a href="https://github.com/lfnovo/open-notebook" target="_blank">
     
 
 
       
-        NVIDIA /
+        lfnovo /
 
-      cosmos</a></p>
+      open-notebook</a></p>
 				<p>
-      NVIDIA Cosmos is an open platform of world models, datasets, and tools that enables developers to build Physical AI for robots, autonomous vehicles, smart infrastructure, and more.
+      An Open Source implementation of Notebook LM with more flexibility and features
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Jupyter Notebook</span>
-						<span>⭐ 9989</span>
-						<span>🔱 644</span>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 29441</span>
+						<span>🔱 3336</span>
 					</div>
-				<div class="stars-today">⭐ 1099 stars this week</div>
+				<div class="stars-today">⭐ 4796 stars this week</div>
 				</div>
 			</div>
 	
@@ -184,32 +184,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Shell</span>
-						<span>⭐ 42028</span>
-						<span>🔱 2938</span>
+						<span>⭐ 42177</span>
+						<span>🔱 2949</span>
 					</div>
 				<div class="stars-today">⭐ 8413 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/apple/container" target="_blank">
-    
-
-
-      
-        apple /
-
-      container</a></p>
-				<p>
-      A tool for creating and running Linux containers using lightweight virtual machines on a Mac. It is written in Swift, and optimized for Apple silicon. 
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Swift</span>
-						<span>⭐ 34355</span>
-						<span>🔱 950</span>
-					</div>
-				<div class="stars-today">⭐ 4081 stars this week</div>
 				</div>
 			</div>
 	
@@ -228,32 +206,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 151730</span>
-						<span>🔱 10467</span>
+						<span>⭐ 151877</span>
+						<span>🔱 10481</span>
 					</div>
 				<div class="stars-today">⭐ 7280 stars this week</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/Open-LLM-VTuber/Open-LLM-VTuber" target="_blank">
+				<p><a href="https://github.com/NVIDIA/cosmos" target="_blank">
     
 
 
       
-        Open-LLM-VTuber /
+        NVIDIA /
 
-      Open-LLM-VTuber</a></p>
+      cosmos</a></p>
 				<p>
-      Talk to any LLM with hands-free voice interaction, voice interruption, and Live2D taking face running locally across platforms
+      NVIDIA Cosmos is an open platform of world models, datasets, and tools that enables developers to build Physical AI for robots, autonomous vehicles, smart infrastructure, and more.
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 11106</span>
-						<span>🔱 1278</span>
+						<span>🔠 Jupyter Notebook</span>
+						<span>⭐ 10010</span>
+						<span>🔱 645</span>
 					</div>
-				<div class="stars-today">⭐ 1676 stars this week</div>
+				<div class="stars-today">⭐ 1099 stars this week</div>
 				</div>
 			</div>
 	
@@ -272,10 +250,54 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 34799</span>
-						<span>🔱 4338</span>
+						<span>⭐ 34833</span>
+						<span>🔱 4343</span>
 					</div>
 				<div class="stars-today">⭐ 2751 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/refactoringhq/tolaria" target="_blank">
+    
+
+
+      
+        refactoringhq /
+
+      tolaria</a></p>
+				<p>
+      Desktop app to manage markdown knowledge bases
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 15649</span>
+						<span>🔱 1070</span>
+					</div>
+				<div class="stars-today">⭐ 3514 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/aaif-goose/goose" target="_blank">
+    
+
+
+      
+        aaif-goose /
+
+      goose</a></p>
+				<p>
+      an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Rust</span>
+						<span>⭐ 49053</span>
+						<span>🔱 5172</span>
+					</div>
+				<div class="stars-today">⭐ 2509 stars this week</div>
 				</div>
 			</div>
 	
@@ -294,8 +316,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Go</span>
-						<span>⭐ 36373</span>
-						<span>🔱 469</span>
+						<span>⭐ 36388</span>
+						<span>🔱 470</span>
 					</div>
 				<div class="stars-today">⭐ 792 stars this week</div>
 				</div>
@@ -316,76 +338,76 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 JavaScript</span>
-						<span>⭐ 53010</span>
-						<span>🔱 10601</span>
+						<span>⭐ 53099</span>
+						<span>🔱 10611</span>
 					</div>
 				<div class="stars-today">⭐ 4111 stars this week</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/NousResearch/hermes-agent" target="_blank">
+				<p><a href="https://github.com/Open-LLM-VTuber/Open-LLM-VTuber" target="_blank">
     
 
 
       
-        NousResearch /
+        Open-LLM-VTuber /
 
-      hermes-agent</a></p>
+      Open-LLM-VTuber</a></p>
 				<p>
-      The agent that grows with you
+      Talk to any LLM with hands-free voice interaction, voice interruption, and Live2D taking face running locally across platforms
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 191608</span>
-						<span>🔱 33331</span>
+						<span>⭐ 11141</span>
+						<span>🔱 1279</span>
 					</div>
-				<div class="stars-today">⭐ 10733 stars this week</div>
+				<div class="stars-today">⭐ 1676 stars this week</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/revfactory/harness" target="_blank">
+				<p><a href="https://github.com/opencv/opencv" target="_blank">
     
 
 
       
-        revfactory /
+        opencv /
 
-      harness</a></p>
+      opencv</a></p>
 				<p>
-      A meta-skill that designs domain-specific agent teams, defines specialized agents, and generates the skills they use.
+      Open Source Computer Vision Library
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 HTML</span>
-						<span>⭐ 6877</span>
-						<span>🔱 935</span>
+						<span>🔠 C++</span>
+						<span>⭐ 88961</span>
+						<span>🔱 56640</span>
 					</div>
-				<div class="stars-today">⭐ 973 stars this week</div>
+				<div class="stars-today">⭐ 1176 stars this week</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/aaif-goose/goose" target="_blank">
+				<p><a href="https://github.com/sveltejs/svelte" target="_blank">
     
 
 
       
-        aaif-goose /
+        sveltejs /
 
-      goose</a></p>
+      svelte</a></p>
 				<p>
-      an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM
+      web development for the rest of us
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Rust</span>
-						<span>⭐ 49015</span>
-						<span>🔱 5169</span>
+						<span>🔠 JavaScript</span>
+						<span>⭐ 87178</span>
+						<span>🔱 4944</span>
 					</div>
-				<div class="stars-today">⭐ 2509 stars this week</div>
+				<div class="stars-today">⭐ 523 stars this week</div>
 				</div>
 			</div>
 	

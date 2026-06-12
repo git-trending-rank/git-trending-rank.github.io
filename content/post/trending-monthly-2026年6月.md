@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2026年6月
-date: 2026-06-12T12:44:32Z
+date: 2026-06-12T16:34:21Z
 categories:
 - monthly
 keywords:
@@ -30,8 +30,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 48000</span>
-						<span>🔱 2921</span>
+						<span>⭐ 48104</span>
+						<span>🔱 2935</span>
 					</div>
 				<div class="stars-today">⭐ 46262 stars this month</div>
 				</div>
@@ -52,32 +52,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 23976</span>
-						<span>🔱 1562</span>
+						<span>⭐ 24268</span>
+						<span>🔱 1580</span>
 					</div>
 				<div class="stars-today">⭐ 21069 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/tinyhumansai/openhuman" target="_blank">
-    
-
-
-      
-        tinyhumansai /
-
-      openhuman</a></p>
-				<p>
-      Your Personal AI super intelligence. Private, Simple and extremely powerful.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Rust</span>
-						<span>⭐ 31685</span>
-						<span>🔱 3069</span>
-					</div>
-				<div class="stars-today">⭐ 30683 stars this month</div>
 				</div>
 			</div>
 	
@@ -96,8 +74,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 57900</span>
-						<span>🔱 4817</span>
+						<span>⭐ 57999</span>
+						<span>🔱 4829</span>
 					</div>
 				<div class="stars-today">⭐ 43295 stars this month</div>
 				</div>
@@ -118,10 +96,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 86550</span>
-						<span>🔱 12353</span>
+						<span>⭐ 86655</span>
+						<span>🔱 12363</span>
 					</div>
 				<div class="stars-today">⭐ 29315 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/tinyhumansai/openhuman" target="_blank">
+    
+
+
+      
+        tinyhumansai /
+
+      openhuman</a></p>
+				<p>
+      Your Personal AI super intelligence. Private, Simple and extremely powerful.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Rust</span>
+						<span>⭐ 31715</span>
+						<span>🔱 3069</span>
+					</div>
+				<div class="stars-today">⭐ 30683 stars this month</div>
 				</div>
 			</div>
 	
@@ -140,8 +140,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 31570</span>
-						<span>🔱 5165</span>
+						<span>⭐ 31621</span>
+						<span>🔱 5172</span>
 					</div>
 				<div class="stars-today">⭐ 24187 stars this month</div>
 				</div>
@@ -162,8 +162,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 30545</span>
-						<span>🔱 2523</span>
+						<span>⭐ 30614</span>
+						<span>🔱 2528</span>
 					</div>
 				<div class="stars-today">⭐ 24392 stars this month</div>
 				</div>
@@ -184,10 +184,54 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Rust</span>
-						<span>⭐ 73370</span>
-						<span>🔱 9786</span>
+						<span>⭐ 73408</span>
+						<span>🔱 9787</span>
 					</div>
 				<div class="stars-today">⭐ 21406 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/can1357/oh-my-pi" target="_blank">
+    
+
+
+      
+        can1357 /
+
+      oh-my-pi</a></p>
+				<p>
+      ⌥ AI Coding agent for the terminal — hash-anchored edits, optimized tool harness, LSP, Python, browser, subagents, and more
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 12067</span>
+						<span>🔱 1018</span>
+					</div>
+				<div class="stars-today">⭐ 7663 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/rohitg00/agentmemory" target="_blank">
+    
+
+
+      
+        rohitg00 /
+
+      agentmemory</a></p>
+				<p>
+      #1 Persistent memory for AI coding agents based on real-world benchmarks
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 22508</span>
+						<span>🔱 1851</span>
+					</div>
+				<div class="stars-today">⭐ 18179 stars this month</div>
 				</div>
 			</div>
 	
@@ -206,8 +250,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 25677</span>
-						<span>🔱 2041</span>
+						<span>⭐ 25705</span>
+						<span>🔱 2040</span>
 					</div>
 				<div class="stars-today">⭐ 20078 stars this month</div>
 				</div>
@@ -228,54 +272,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Swift</span>
-						<span>⭐ 11528</span>
+						<span>⭐ 11548</span>
 						<span>🔱 1200</span>
 					</div>
 				<div class="stars-today">⭐ 8615 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/rohitg00/agentmemory" target="_blank">
-    
-
-
-      
-        rohitg00 /
-
-      agentmemory</a></p>
-				<p>
-      #1 Persistent memory for AI coding agents based on real-world benchmarks
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 22479</span>
-						<span>🔱 1851</span>
-					</div>
-				<div class="stars-today">⭐ 18179 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/can1357/oh-my-pi" target="_blank">
-    
-
-
-      
-        can1357 /
-
-      oh-my-pi</a></p>
-				<p>
-      ⌥ AI Coding agent for the terminal — hash-anchored edits, optimized tool harness, LSP, Python, browser, subagents, and more
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 12032</span>
-						<span>🔱 1018</span>
-					</div>
-				<div class="stars-today">⭐ 7663 stars this month</div>
 				</div>
 			</div>
 	
@@ -294,54 +294,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 9787</span>
-						<span>🔱 1451</span>
+						<span>⭐ 9806</span>
+						<span>🔱 1453</span>
 					</div>
 				<div class="stars-today">⭐ 6094 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/anthropics/knowledge-work-plugins" target="_blank">
-    
-
-
-      
-        anthropics /
-
-      knowledge-work-plugins</a></p>
-				<p>
-      Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 20380</span>
-						<span>🔱 2413</span>
-					</div>
-				<div class="stars-today">⭐ 8309 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/mattpocock/skills" target="_blank">
-    
-
-
-      
-        mattpocock /
-
-      skills</a></p>
-				<p>
-      Skills for Real Engineers. Straight from my .claude directory.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Shell</span>
-						<span>⭐ 126515</span>
-						<span>🔱 11052</span>
-					</div>
-				<div class="stars-today">⭐ 55038 stars this month</div>
 				</div>
 			</div>
 	
@@ -360,32 +316,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 </span>
-						<span>⭐ 10146</span>
-						<span>🔱 715</span>
+						<span>⭐ 10175</span>
+						<span>🔱 717</span>
 					</div>
 				<div class="stars-today">⭐ 6605 stars this month</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/fathah/hermes-desktop" target="_blank">
+				<p><a href="https://github.com/anthropics/knowledge-work-plugins" target="_blank">
     
 
 
       
-        fathah /
+        anthropics /
 
-      hermes-desktop</a></p>
+      knowledge-work-plugins</a></p>
 				<p>
-      Desktop Companion for Hermes Agent
+      Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 11948</span>
-						<span>🔱 1348</span>
+						<span>🔠 Python</span>
+						<span>⭐ 20404</span>
+						<span>🔱 2415</span>
 					</div>
-				<div class="stars-today">⭐ 9673 stars this month</div>
+				<div class="stars-today">⭐ 8309 stars this month</div>
 				</div>
 			</div>
 	
@@ -404,8 +360,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 151730</span>
-						<span>🔱 10467</span>
+						<span>⭐ 151877</span>
+						<span>🔱 10481</span>
 					</div>
 				<div class="stars-today">⭐ 28892 stars this month</div>
 				</div>
@@ -426,10 +382,76 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Shell</span>
-						<span>⭐ 42028</span>
-						<span>🔱 2938</span>
+						<span>⭐ 42177</span>
+						<span>🔱 2949</span>
 					</div>
 				<div class="stars-today">⭐ 24733 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/mattpocock/skills" target="_blank">
+    
+
+
+      
+        mattpocock /
+
+      skills</a></p>
+				<p>
+      Skills for Real Engineers. Straight from my .claude directory.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Shell</span>
+						<span>⭐ 126723</span>
+						<span>🔱 11072</span>
+					</div>
+				<div class="stars-today">⭐ 55038 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/fathah/hermes-desktop" target="_blank">
+    
+
+
+      
+        fathah /
+
+      hermes-desktop</a></p>
+				<p>
+      Desktop Companion for Hermes Agent
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 11973</span>
+						<span>🔱 1348</span>
+					</div>
+				<div class="stars-today">⭐ 9673 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/iii-hq/iii" target="_blank">
+    
+
+
+      
+        iii-hq /
+
+      iii</a></p>
+				<p>
+      Effortlessly compose, extend, and observe every service in real-time for the first time ever.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Rust</span>
+						<span>⭐ 18002</span>
+						<span>🔱 1196</span>
+					</div>
+				<div class="stars-today">⭐ 2497 stars this month</div>
 				</div>
 			</div>
 	
