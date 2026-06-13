@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2026年6月
-date: 2026-06-13T10:16:59Z
+date: 2026-06-13T13:14:29Z
 categories:
 - monthly
 keywords:
@@ -30,8 +30,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 48385</span>
-						<span>🔱 2960</span>
+						<span>⭐ 48441</span>
+						<span>🔱 2963</span>
 					</div>
 				<div class="stars-today">⭐ 46941 stars this month</div>
 				</div>
@@ -52,8 +52,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 25387</span>
-						<span>🔱 1672</span>
+						<span>⭐ 25566</span>
+						<span>🔱 1690</span>
 					</div>
 				<div class="stars-today">⭐ 22468 stars this month</div>
 				</div>
@@ -74,8 +74,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 58278</span>
-						<span>🔱 4855</span>
+						<span>⭐ 58340</span>
+						<span>🔱 4859</span>
 					</div>
 				<div class="stars-today">⭐ 43988 stars this month</div>
 				</div>
@@ -96,8 +96,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 86959</span>
-						<span>🔱 12425</span>
+						<span>⭐ 87045</span>
+						<span>🔱 12440</span>
 					</div>
 				<div class="stars-today">⭐ 30089 stars this month</div>
 				</div>
@@ -118,8 +118,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Rust</span>
-						<span>⭐ 31822</span>
-						<span>🔱 3082</span>
+						<span>⭐ 31844</span>
+						<span>🔱 3085</span>
 					</div>
 				<div class="stars-today">⭐ 29805 stars this month</div>
 				</div>
@@ -140,8 +140,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 31774</span>
-						<span>🔱 5203</span>
+						<span>⭐ 31814</span>
+						<span>🔱 5210</span>
 					</div>
 				<div class="stars-today">⭐ 24325 stars this month</div>
 				</div>
@@ -162,32 +162,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 30842</span>
-						<span>🔱 2543</span>
+						<span>⭐ 30879</span>
+						<span>🔱 2545</span>
 					</div>
 				<div class="stars-today">⭐ 24479 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/ruvnet/RuView" target="_blank">
-    
-
-
-      
-        ruvnet /
-
-      RuView</a></p>
-				<p>
-      π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Rust</span>
-						<span>⭐ 73543</span>
-						<span>🔱 9810</span>
-					</div>
-				<div class="stars-today">⭐ 21590 stars this month</div>
 				</div>
 			</div>
 	
@@ -206,10 +184,54 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 12167</span>
-						<span>🔱 1031</span>
+						<span>⭐ 12180</span>
+						<span>🔱 1033</span>
 					</div>
 				<div class="stars-today">⭐ 7805 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/ruvnet/RuView" target="_blank">
+    
+
+
+      
+        ruvnet /
+
+      RuView</a></p>
+				<p>
+      π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Rust</span>
+						<span>⭐ 73561</span>
+						<span>🔱 9813</span>
+					</div>
+				<div class="stars-today">⭐ 21590 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/hardikpandya/stop-slop" target="_blank">
+    
+
+
+      
+        hardikpandya /
+
+      stop-slop</a></p>
+				<p>
+      A skill file for removing AI tells from prose
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 </span>
+						<span>⭐ 10267</span>
+						<span>🔱 725</span>
+					</div>
+				<div class="stars-today">⭐ 6736 stars this month</div>
 				</div>
 			</div>
 	
@@ -228,8 +250,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 22602</span>
-						<span>🔱 1856</span>
+						<span>⭐ 22618</span>
+						<span>🔱 1857</span>
 					</div>
 				<div class="stars-today">⭐ 17244 stars this month</div>
 				</div>
@@ -250,7 +272,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 25837</span>
+						<span>⭐ 25853</span>
 						<span>🔱 2049</span>
 					</div>
 				<div class="stars-today">⭐ 18691 stars this month</div>
@@ -258,24 +280,24 @@ keywords:
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/supertone-inc/supertonic" target="_blank">
+				<p><a href="https://github.com/apple/container" target="_blank">
     
 
 
       
-        supertone-inc /
+        apple /
 
-      supertonic</a></p>
+      container</a></p>
 				<p>
-      Lightning-Fast, On-Device, Multilingual TTS — running natively via ONNX.
+      A tool for creating and running Linux containers using lightweight virtual machines on a Mac. It is written in Swift, and optimized for Apple silicon. 
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Swift</span>
-						<span>⭐ 11595</span>
-						<span>🔱 1203</span>
+						<span>⭐ 35812</span>
+						<span>🔱 1013</span>
 					</div>
-				<div class="stars-today">⭐ 8655 stars this month</div>
+				<div class="stars-today">⭐ 8356 stars this month</div>
 				</div>
 			</div>
 	
@@ -294,32 +316,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 9880</span>
+						<span>⭐ 9898</span>
 						<span>🔱 1464</span>
 					</div>
 				<div class="stars-today">⭐ 6054 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/hardikpandya/stop-slop" target="_blank">
-    
-
-
-      
-        hardikpandya /
-
-      stop-slop</a></p>
-				<p>
-      A skill file for removing AI tells from prose
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 </span>
-						<span>⭐ 10254</span>
-						<span>🔱 723</span>
-					</div>
-				<div class="stars-today">⭐ 6736 stars this month</div>
 				</div>
 			</div>
 	
@@ -338,8 +338,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 20480</span>
-						<span>🔱 2422</span>
+						<span>⭐ 20491</span>
+						<span>🔱 2425</span>
 					</div>
 				<div class="stars-today">⭐ 8452 stars this month</div>
 				</div>
@@ -360,8 +360,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 152359</span>
-						<span>🔱 10537</span>
+						<span>⭐ 152445</span>
+						<span>🔱 10544</span>
 					</div>
 				<div class="stars-today">⭐ 29591 stars this month</div>
 				</div>
@@ -382,10 +382,54 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Shell</span>
-						<span>⭐ 42678</span>
-						<span>🔱 2979</span>
+						<span>⭐ 42783</span>
+						<span>🔱 2985</span>
 					</div>
 				<div class="stars-today">⭐ 25356 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/supertone-inc/supertonic" target="_blank">
+    
+
+
+      
+        supertone-inc /
+
+      supertonic</a></p>
+				<p>
+      Lightning-Fast, On-Device, Multilingual TTS — running natively via ONNX.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Swift</span>
+						<span>⭐ 11612</span>
+						<span>🔱 1205</span>
+					</div>
+				<div class="stars-today">⭐ 8655 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/TencentCloud/TencentDB-Agent-Memory" target="_blank">
+    
+
+
+      
+        TencentCloud /
+
+      TencentDB-Agent-Memory</a></p>
+				<p>
+      TencentDB Agent Memory delivers fully local long-term memory for AI Agents via a 4-tier progressive pipeline, with zero external API dependencies.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 5397</span>
+						<span>🔱 466</span>
+					</div>
+				<div class="stars-today">⭐ 5364 stars this month</div>
 				</div>
 			</div>
 	
@@ -404,54 +448,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Shell</span>
-						<span>⭐ 127295</span>
-						<span>🔱 11117</span>
+						<span>⭐ 127404</span>
+						<span>🔱 11134</span>
 					</div>
 				<div class="stars-today">⭐ 52517 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/fathah/hermes-desktop" target="_blank">
-    
-
-
-      
-        fathah /
-
-      hermes-desktop</a></p>
-				<p>
-      Desktop Companion for Hermes Agent
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 12035</span>
-						<span>🔱 1353</span>
-					</div>
-				<div class="stars-today">⭐ 8565 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/iii-hq/iii" target="_blank">
-    
-
-
-      
-        iii-hq /
-
-      iii</a></p>
-				<p>
-      Effortlessly compose, extend, and observe every service in real-time for the first time ever.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Rust</span>
-						<span>⭐ 18074</span>
-						<span>🔱 1204</span>
-					</div>
-				<div class="stars-today">⭐ 2522 stars this month</div>
 				</div>
 			</div>
 	
