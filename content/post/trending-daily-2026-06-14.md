@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2026-06-14
-date: 2026-06-14T08:04:24Z
+date: 2026-06-14T11:47:04Z
 categories:
 - daily
 keywords:
@@ -30,252 +30,54 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 119516</span>
-						<span>🔱 6391</span>
+						<span>⭐ 119767</span>
+						<span>🔱 6404</span>
 					</div>
 				<div class="stars-today">⭐ 530 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/addyosmani/agent-skills" target="_blank">
+				<p><a href="https://github.com/freeCodeCamp/freeCodeCamp" target="_blank">
     
 
 
       
-        addyosmani /
+        freeCodeCamp /
 
-      agent-skills</a></p>
+      freeCodeCamp</a></p>
 				<p>
-      Production-grade engineering skills for AI coding agents.
+      freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming, and computer science for free.
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Shell</span>
-						<span>⭐ 58790</span>
-						<span>🔱 6361</span>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 446884</span>
+						<span>🔱 44934</span>
 					</div>
-				<div class="stars-today">⭐ 1514 stars today</div>
+				<div class="stars-today">⭐ 114 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/chatwoot/chatwoot" target="_blank">
+				<p><a href="https://github.com/pytest-dev/pytest" target="_blank">
     
 
 
       
-        chatwoot /
+        pytest-dev /
 
-      chatwoot</a></p>
+      pytest</a></p>
 				<p>
-      Open-source live-chat, email support, omni-channel desk. An alternative to Intercom, Zendesk, Salesforce Service Cloud etc. 🔥💬
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Ruby</span>
-						<span>⭐ 30976</span>
-						<span>🔱 7562</span>
-					</div>
-				<div class="stars-today">⭐ 83 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/obra/superpowers" target="_blank">
-    
-
-
-      
-        obra /
-
-      superpowers</a></p>
-				<p>
-      An agentic skills framework & software development methodology that works.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Shell</span>
-						<span>⭐ 227246</span>
-						<span>🔱 20209</span>
-					</div>
-				<div class="stars-today">⭐ 924 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/apple/container" target="_blank">
-    
-
-
-      
-        apple /
-
-      container</a></p>
-				<p>
-      A tool for creating and running Linux containers using lightweight virtual machines on a Mac. It is written in Swift, and optimized for Apple silicon. 
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Swift</span>
-						<span>⭐ 36555</span>
-						<span>🔱 1044</span>
-					</div>
-				<div class="stars-today">⭐ 1487 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/music-assistant/server" target="_blank">
-    
-
-
-      
-        music-assistant /
-
-      server</a></p>
-				<p>
-      Music Assistant is a free, opensource Media library manager that connects to your streaming services and a wide range of connected speakers. The server is the beating heart, the core of Music Assistant and must run on an always-on device like a Raspberry Pi, a NAS or an Intel NUC or alike.
+      The pytest framework makes it easy to write small tests, yet scales to support complex functional testing
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 2061</span>
-						<span>🔱 432</span>
+						<span>⭐ 13934</span>
+						<span>🔱 3172</span>
 					</div>
-				<div class="stars-today">⭐ 270 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/kenn-io/agentsview" target="_blank">
-    
-
-
-      
-        kenn-io /
-
-      agentsview</a></p>
-				<p>
-      Local-first session intelligence and analytics for coding agents, supporting Claude Code, Codex, and more than 20 other agents. Also: 100x faster replacement for ccusage!
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Go</span>
-						<span>⭐ 2473</span>
-						<span>🔱 222</span>
-					</div>
-				<div class="stars-today">⭐ 190 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/LMCache/LMCache" target="_blank">
-    
-
-
-      
-        LMCache /
-
-      LMCache</a></p>
-				<p>
-      LMCache: Supercharge Your LLM with the Fastest KV Cache Layer
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 8982</span>
-						<span>🔱 1311</span>
-					</div>
-				<div class="stars-today">⭐ 238 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/microsoft/PowerToys" target="_blank">
-    
-
-
-      
-        microsoft /
-
-      PowerToys</a></p>
-				<p>
-      Microsoft PowerToys is a collection of utilities that supercharge productivity and customization on Windows
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 C</span>
-						<span>⭐ 134767</span>
-						<span>🔱 8088</span>
-					</div>
-				<div class="stars-today">⭐ 370 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/andrewyng/aisuite" target="_blank">
-    
-
-
-      
-        andrewyng /
-
-      aisuite</a></p>
-				<p>
-      Simple, unified interface to multiple Generative AI providers 
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 14219</span>
-						<span>🔱 1490</span>
-					</div>
-				<div class="stars-today">⭐ 127 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/NVIDIA/SkillSpector" target="_blank">
-    
-
-
-      
-        NVIDIA /
-
-      SkillSpector</a></p>
-				<p>
-      Security scanner for AI agent skills. Detect vulnerabilities, malicious patterns, and security risks.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 4678</span>
-						<span>🔱 358</span>
-					</div>
-				<div class="stars-today">⭐ 804 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/bannedbook/fanqiang" target="_blank">
-    
-
-
-      
-        bannedbook /
-
-      fanqiang</a></p>
-				<p>
-      翻墙-科学上网
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Kotlin</span>
-						<span>⭐ 47612</span>
-						<span>🔱 8093</span>
-					</div>
-				<div class="stars-today">⭐ 93 stars today</div>
+				<div class="stars-today">⭐ 8 stars today</div>
 				</div>
 			</div>
 	
@@ -294,7 +96,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Rust</span>
-						<span>⭐ 33681</span>
+						<span>⭐ 33703</span>
 						<span>🔱 1399</span>
 					</div>
 				<div class="stars-today">⭐ 20 stars today</div>
@@ -302,24 +104,244 @@ keywords:
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools" target="_blank">
+				<p><a href="https://github.com/chatwoot/chatwoot" target="_blank">
     
 
 
       
-        x1xhlol /
+        chatwoot /
 
-      system-prompts-and-models-of-ai-tools</a></p>
+      chatwoot</a></p>
 				<p>
-      FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, Dia & v0. (And other Open Sourced) System Prompts, Internal Tools & AI Models
+      Open-source live-chat, email support, omni-channel desk. An alternative to Intercom, Zendesk, Salesforce Service Cloud etc. 🔥💬
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Ruby</span>
+						<span>⭐ 31030</span>
+						<span>🔱 7568</span>
+					</div>
+				<div class="stars-today">⭐ 83 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/NVIDIA/SkillSpector" target="_blank">
+    
+
+
+      
+        NVIDIA /
+
+      SkillSpector</a></p>
+				<p>
+      Security scanner for AI agent skills. Detect vulnerabilities, malicious patterns, and security risks.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 4823</span>
+						<span>🔱 370</span>
+					</div>
+				<div class="stars-today">⭐ 804 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/meshery/meshery" target="_blank">
+    
+
+
+      
+        meshery /
+
+      meshery</a></p>
+				<p>
+      Meshery, the cloud native manager
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 10290</span>
+						<span>🔱 3414</span>
+					</div>
+				<div class="stars-today">⭐ 3 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/cypress-io/cypress" target="_blank">
+    
+
+
+      
+        cypress-io /
+
+      cypress</a></p>
+				<p>
+      Fast, easy and reliable testing for anything that runs in a browser.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 49762</span>
+						<span>🔱 3411</span>
+					</div>
+				<div class="stars-today">⭐ 7 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/GorvGoyl/Clone-Wars" target="_blank">
+    
+
+
+      
+        GorvGoyl /
+
+      Clone-Wars</a></p>
+				<p>
+      100+ open-source clones of popular sites like Airbnb, Amazon, Instagram, Netflix, Tiktok, Spotify, Whatsapp, Youtube etc. See source code, demo links, tech stack, github stars.
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 </span>
-						<span>⭐ 140390</span>
-						<span>🔱 34669</span>
+						<span>⭐ 35066</span>
+						<span>🔱 3163</span>
 					</div>
-				<div class="stars-today">⭐ 109 stars today</div>
+				<div class="stars-today">⭐ 337 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/Introduction-to-Autonomous-Robots/Introduction-to-Autonomous-Robots" target="_blank">
+    
+
+
+      
+        Introduction-to-Autonomous-Robots /
+
+      Introduction-to-Autonomous-Robots</a></p>
+				<p>
+      Introduction to Autonomous Robots
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TeX</span>
+						<span>⭐ 2447</span>
+						<span>🔱 579</span>
+					</div>
+				<div class="stars-today">⭐ 276 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/shiyu-coder/Kronos" target="_blank">
+    
+
+
+      
+        shiyu-coder /
+
+      Kronos</a></p>
+				<p>
+      Kronos: A Foundation Model for the Language of Financial Markets
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 29711</span>
+						<span>🔱 5133</span>
+					</div>
+				<div class="stars-today">⭐ 238 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/music-assistant/server" target="_blank">
+    
+
+
+      
+        music-assistant /
+
+      server</a></p>
+				<p>
+      Music Assistant is a free, opensource Media library manager that connects to your streaming services and a wide range of connected speakers. The server is the beating heart, the core of Music Assistant and must run on an always-on device like a Raspberry Pi, a NAS or an Intel NUC or alike.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 2092</span>
+						<span>🔱 432</span>
+					</div>
+				<div class="stars-today">⭐ 270 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/Free-TV/IPTV" target="_blank">
+    
+
+
+      
+        Free-TV /
+
+      IPTV</a></p>
+				<p>
+      M3U Playlist for free TV channels
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 16767</span>
+						<span>🔱 2535</span>
+					</div>
+				<div class="stars-today">⭐ 52 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/puppeteer/puppeteer" target="_blank">
+    
+
+
+      
+        puppeteer /
+
+      puppeteer</a></p>
+				<p>
+      JavaScript API for Chrome and Firefox
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 94560</span>
+						<span>🔱 9434</span>
+					</div>
+				<div class="stars-today">⭐ 13 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/andrewyng/aisuite" target="_blank">
+    
+
+
+      
+        andrewyng /
+
+      aisuite</a></p>
+				<p>
+      Simple, unified interface to multiple Generative AI providers 
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 14255</span>
+						<span>🔱 1493</span>
+					</div>
+				<div class="stars-today">⭐ 127 stars today</div>
 				</div>
 			</div>
 	
