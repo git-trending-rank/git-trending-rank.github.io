@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2026年第25周
-date: 2026-06-15T09:47:27Z
+date: 2026-06-15T15:31:57Z
 categories:
 - weekly
 keywords:
@@ -30,8 +30,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 42446</span>
-						<span>🔱 3451</span>
+						<span>⭐ 42668</span>
+						<span>🔱 3471</span>
 					</div>
 				<div class="stars-today">⭐ 12053 stars this week</div>
 				</div>
@@ -52,7 +52,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Swift</span>
-						<span>⭐ 37216</span>
+						<span>⭐ 37327</span>
 						<span>🔱 1068</span>
 					</div>
 				<div class="stars-today">⭐ 10021 stars this week</div>
@@ -74,32 +74,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 </span>
-						<span>⭐ 18370</span>
-						<span>🔱 1888</span>
+						<span>⭐ 18498</span>
+						<span>🔱 1905</span>
 					</div>
 				<div class="stars-today">⭐ 5713 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/chopratejas/headroom" target="_blank">
-    
-
-
-      
-        chopratejas /
-
-      headroom</a></p>
-				<p>
-      Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 60-95% fewer tokens, same answers. Library, proxy, MCP server.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 28078</span>
-						<span>🔱 1901</span>
-					</div>
-				<div class="stars-today">⭐ 10653 stars this week</div>
 				</div>
 			</div>
 	
@@ -118,10 +96,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 5810</span>
-						<span>🔱 431</span>
+						<span>⭐ 6038</span>
+						<span>🔱 445</span>
 					</div>
 				<div class="stars-today">⭐ 3669 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/chopratejas/headroom" target="_blank">
+    
+
+
+      
+        chopratejas /
+
+      headroom</a></p>
+				<p>
+      Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 60-95% fewer tokens, same answers. Library, proxy, MCP server.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 28452</span>
+						<span>🔱 1926</span>
+					</div>
+				<div class="stars-today">⭐ 10653 stars this week</div>
 				</div>
 			</div>
 	
@@ -140,8 +140,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Shell</span>
-						<span>⭐ 59901</span>
-						<span>🔱 6488</span>
+						<span>⭐ 60099</span>
+						<span>🔱 6512</span>
 					</div>
 				<div class="stars-today">⭐ 10445 stars this week</div>
 				</div>
@@ -162,10 +162,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 29205</span>
-						<span>🔱 2390</span>
+						<span>⭐ 29681</span>
+						<span>🔱 2416</span>
 					</div>
 				<div class="stars-today">⭐ 5468 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/RyanCodrai/turbovec" target="_blank">
+    
+
+
+      
+        RyanCodrai /
+
+      turbovec</a></p>
+				<p>
+      A vector index built on TurboQuant, written in Rust with Python bindings
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 11601</span>
+						<span>🔱 1007</span>
+					</div>
+				<div class="stars-today">⭐ 4895 stars this week</div>
 				</div>
 			</div>
 	
@@ -184,120 +206,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 16308</span>
-						<span>🔱 1114</span>
+						<span>⭐ 16350</span>
+						<span>🔱 1122</span>
 					</div>
 				<div class="stars-today">⭐ 3592 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/openai/plugins" target="_blank">
-    
-
-
-      
-        openai /
-
-      plugins</a></p>
-				<p>
-      OpenAI Plugins
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 JavaScript</span>
-						<span>⭐ 3061</span>
-						<span>🔱 356</span>
-					</div>
-				<div class="stars-today">⭐ 1085 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/Leonxlnx/taste-skill" target="_blank">
-    
-
-
-      
-        Leonxlnx /
-
-      taste-skill</a></p>
-				<p>
-      Taste-Skill - gives your AI good taste. stops the AI from generating boring, generic slop 
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Shell</span>
-						<span>⭐ 44107</span>
-						<span>🔱 3078</span>
-					</div>
-				<div class="stars-today">⭐ 7591 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/microsoft/markitdown" target="_blank">
-    
-
-
-      
-        microsoft /
-
-      markitdown</a></p>
-				<p>
-      Python tool for converting files and office documents to Markdown.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 153706</span>
-						<span>🔱 10627</span>
-					</div>
-				<div class="stars-today">⭐ 6280 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/aaif-goose/goose" target="_blank">
-    
-
-
-      
-        aaif-goose /
-
-      goose</a></p>
-				<p>
-      an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Rust</span>
-						<span>⭐ 49439</span>
-						<span>🔱 5220</span>
-					</div>
-				<div class="stars-today">⭐ 2165 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/roboflow/supervision" target="_blank">
-    
-
-
-      
-        roboflow /
-
-      supervision</a></p>
-				<p>
-      We write your reusable computer vision tools. 💜
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 44260</span>
-						<span>🔱 3932</span>
-					</div>
-				<div class="stars-today">⭐ 3315 stars this week</div>
 				</div>
 			</div>
 	
@@ -316,7 +228,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 2294</span>
+						<span>⭐ 2336</span>
 						<span>🔱 442</span>
 					</div>
 				<div class="stars-today">⭐ 504 stars this week</div>
@@ -324,46 +236,68 @@ keywords:
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/safishamsi/graphify" target="_blank">
+				<p><a href="https://github.com/roboflow/supervision" target="_blank">
     
 
 
       
-        safishamsi /
+        roboflow /
 
-      graphify</a></p>
+      supervision</a></p>
 				<p>
-      AI coding assistant skill (Claude Code, Codex, OpenCode, Cursor, Gemini CLI, and more). Turn any folder of code, SQL schemas, R scripts, shell scripts, docs, papers, images, or videos into a queryable knowledge graph. App code + database schema + infrastructure in one graph.
+      We write your reusable computer vision tools. 💜
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 67412</span>
-						<span>🔱 6818</span>
+						<span>⭐ 44297</span>
+						<span>🔱 3937</span>
 					</div>
-				<div class="stars-today">⭐ 5478 stars this week</div>
+				<div class="stars-today">⭐ 3315 stars this week</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/microsoft/PowerToys" target="_blank">
+				<p><a href="https://github.com/Leonxlnx/taste-skill" target="_blank">
     
 
 
       
-        microsoft /
+        Leonxlnx /
 
-      PowerToys</a></p>
+      taste-skill</a></p>
 				<p>
-      Microsoft PowerToys is a collection of utilities that supercharge productivity and customization on Windows
+      Taste-Skill - gives your AI good taste. stops the AI from generating boring, generic slop 
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 C</span>
-						<span>⭐ 134942</span>
-						<span>🔱 8101</span>
+						<span>🔠 Shell</span>
+						<span>⭐ 44301</span>
+						<span>🔱 3092</span>
 					</div>
-				<div class="stars-today">⭐ 1042 stars this week</div>
+				<div class="stars-today">⭐ 7591 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/openai/plugins" target="_blank">
+    
+
+
+      
+        openai /
+
+      plugins</a></p>
+				<p>
+      OpenAI Plugins
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 JavaScript</span>
+						<span>⭐ 3071</span>
+						<span>🔱 357</span>
+					</div>
+				<div class="stars-today">⭐ 1085 stars this week</div>
 				</div>
 			</div>
 	
@@ -382,7 +316,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 37857</span>
+						<span>⭐ 37875</span>
 						<span>🔱 8737</span>
 					</div>
 				<div class="stars-today">⭐ 779 stars this week</div>
@@ -390,46 +324,90 @@ keywords:
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/lfnovo/open-notebook" target="_blank">
+				<p><a href="https://github.com/microsoft/markitdown" target="_blank">
     
 
 
       
-        lfnovo /
+        microsoft /
 
-      open-notebook</a></p>
+      markitdown</a></p>
 				<p>
-      An Open Source implementation of Notebook LM with more flexibility and features
+      Python tool for converting files and office documents to Markdown.
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 30726</span>
-						<span>🔱 3482</span>
+						<span>🔠 Python</span>
+						<span>⭐ 153896</span>
+						<span>🔱 10639</span>
 					</div>
-				<div class="stars-today">⭐ 3468 stars this week</div>
+				<div class="stars-today">⭐ 6280 stars this week</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/opencv/opencv" target="_blank">
+				<p><a href="https://github.com/asgeirtj/system_prompts_leaks" target="_blank">
     
 
 
       
-        opencv /
+        asgeirtj /
 
-      opencv</a></p>
+      system_prompts_leaks</a></p>
 				<p>
-      Open Source Computer Vision Library
+      Extracted system prompts from Anthropic - Claude Fable 5, Opus 4.8, Claude Code, Claude Design. OpenAI - ChatGPT 5.5 Thinking, GPT 5.5 Instant, Codex. Google - Gemini 3.5 Flash, 3.1 Pro, Antigravity. xAI - Grok, Cursor, Copilot, VS Code, Perplexity, and more. Updated regularly.
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 C++</span>
-						<span>⭐ 89157</span>
-						<span>🔱 56658</span>
+						<span>🔠 JavaScript</span>
+						<span>⭐ 42365</span>
+						<span>🔱 7044</span>
 					</div>
-				<div class="stars-today">⭐ 1227 stars this week</div>
+				<div class="stars-today">⭐ 819 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/chatwoot/chatwoot" target="_blank">
+    
+
+
+      
+        chatwoot /
+
+      chatwoot</a></p>
+				<p>
+      Open-source live-chat, email support, omni-channel desk. An alternative to Intercom, Zendesk, Salesforce Service Cloud etc. 🔥💬
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Ruby</span>
+						<span>⭐ 31531</span>
+						<span>🔱 7618</span>
+					</div>
+				<div class="stars-today">⭐ 1228 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/microsoft/PowerToys" target="_blank">
+    
+
+
+      
+        microsoft /
+
+      PowerToys</a></p>
+				<p>
+      Microsoft PowerToys is a collection of utilities that supercharge productivity and customization on Windows
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 C</span>
+						<span>⭐ 134967</span>
+						<span>🔱 8100</span>
+					</div>
+				<div class="stars-today">⭐ 1042 stars this week</div>
 				</div>
 			</div>
 	
@@ -448,10 +426,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 2240</span>
+						<span>⭐ 2255</span>
 						<span>🔱 396</span>
 					</div>
 				<div class="stars-today">⭐ 276 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools" target="_blank">
+    
+
+
+      
+        x1xhlol /
+
+      system-prompts-and-models-of-ai-tools</a></p>
+				<p>
+      FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, Dia & v0. (And other Open Sourced) System Prompts, Internal Tools & AI Models
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 </span>
+						<span>⭐ 140532</span>
+						<span>🔱 34690</span>
+					</div>
+				<div class="stars-today">⭐ 1642 stars this week</div>
 				</div>
 			</div>
 	

@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2026-06-15
-date: 2026-06-15T09:47:27Z
+date: 2026-06-15T15:31:58Z
 categories:
 - daily
 keywords:
@@ -30,120 +30,54 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 122221</span>
-						<span>🔱 6556</span>
+						<span>⭐ 122571</span>
+						<span>🔱 6577</span>
 					</div>
-				<div class="stars-today">⭐ 1528 stars today</div>
+				<div class="stars-today">⭐ 2650 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/freeCodeCamp/freeCodeCamp" target="_blank">
+				<p><a href="https://github.com/teslamate-org/teslamate" target="_blank">
     
 
 
       
-        freeCodeCamp /
+        teslamate-org /
 
-      freeCodeCamp</a></p>
+      teslamate</a></p>
 				<p>
-      freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming, and computer science for free.
+      A self-hosted data logger for your Tesla 🚘 [main maintainer=@JakobLichterfeld]
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 447537</span>
-						<span>🔱 44968</span>
+						<span>🔠 Elixir</span>
+						<span>⭐ 8170</span>
+						<span>🔱 943</span>
 					</div>
-				<div class="stars-today">⭐ 146 stars today</div>
+				<div class="stars-today">⭐ 35 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/pytest-dev/pytest" target="_blank">
+				<p><a href="https://github.com/Panniantong/Agent-Reach" target="_blank">
     
 
 
       
-        pytest-dev /
+        Panniantong /
 
-      pytest</a></p>
+      Agent-Reach</a></p>
 				<p>
-      The pytest framework makes it easy to write small tests, yet scales to support complex functional testing
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 14118</span>
-						<span>🔱 3182</span>
-					</div>
-				<div class="stars-today">⭐ 14 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/swc-project/swc" target="_blank">
-    
-
-
-      
-        swc-project /
-
-      swc</a></p>
-				<p>
-      Rust-based platform for the Web
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Rust</span>
-						<span>⭐ 33874</span>
-						<span>🔱 1408</span>
-					</div>
-				<div class="stars-today">⭐ 163 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/chatwoot/chatwoot" target="_blank">
-    
-
-
-      
-        chatwoot /
-
-      chatwoot</a></p>
-				<p>
-      Open-source live-chat, email support, omni-channel desk. An alternative to Intercom, Zendesk, Salesforce Service Cloud etc. 🔥💬
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Ruby</span>
-						<span>⭐ 31410</span>
-						<span>🔱 7611</span>
-					</div>
-				<div class="stars-today">⭐ 400 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/NVIDIA/SkillSpector" target="_blank">
-    
-
-
-      
-        NVIDIA /
-
-      SkillSpector</a></p>
-				<p>
-      Security scanner for AI agent skills. Detect vulnerabilities, malicious patterns, and security risks.
+      Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 5810</span>
-						<span>🔱 431</span>
+						<span>⭐ 29681</span>
+						<span>🔱 2416</span>
 					</div>
-				<div class="stars-today">⭐ 964 stars today</div>
+				<div class="stars-today">⭐ 1045 stars today</div>
 				</div>
 			</div>
 	
@@ -162,98 +96,142 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 10495</span>
-						<span>🔱 3425</span>
+						<span>⭐ 10561</span>
+						<span>🔱 3429</span>
 					</div>
-				<div class="stars-today">⭐ 20 stars today</div>
+				<div class="stars-today">⭐ 227 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/cypress-io/cypress" target="_blank">
+				<p><a href="https://github.com/chatwoot/chatwoot" target="_blank">
     
 
 
       
-        cypress-io /
+        chatwoot /
 
-      cypress</a></p>
+      chatwoot</a></p>
 				<p>
-      Fast, easy and reliable testing for anything that runs in a browser.
+      Open-source live-chat, email support, omni-channel desk. An alternative to Intercom, Zendesk, Salesforce Service Cloud etc. 🔥💬
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Ruby</span>
+						<span>⭐ 31531</span>
+						<span>🔱 7618</span>
+					</div>
+				<div class="stars-today">⭐ 431 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/krahets/hello-algo" target="_blank">
+    
+
+
+      
+        krahets /
+
+      hello-algo</a></p>
+				<p>
+      《Hello 算法》：动画图解、一键运行的数据结构与算法教程。支持简中、繁中、English、日本語，提供 Python, Java, C++, C, C#, JS, Go, Swift, Rust, Ruby, Kotlin, TS, Dart 等代码实现
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Java</span>
+						<span>⭐ 126801</span>
+						<span>🔱 15131</span>
+					</div>
+				<div class="stars-today">⭐ 95 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/freeCodeCamp/freeCodeCamp" target="_blank">
+    
+
+
+      
+        freeCodeCamp /
+
+      freeCodeCamp</a></p>
+				<p>
+      freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming, and computer science for free.
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 50085</span>
-						<span>🔱 3421</span>
+						<span>⭐ 447697</span>
+						<span>🔱 44975</span>
 					</div>
-				<div class="stars-today">⭐ 39 stars today</div>
+				<div class="stars-today">⭐ 738 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/GorvGoyl/Clone-Wars" target="_blank">
+				<p><a href="https://github.com/trycua/cua" target="_blank">
     
 
 
       
-        GorvGoyl /
+        trycua /
 
-      Clone-Wars</a></p>
+      cua</a></p>
 				<p>
-      100+ open-source clones of popular sites like Airbnb, Amazon, Instagram, Netflix, Tiktok, Spotify, Whatsapp, Youtube etc. See source code, demo links, tech stack, github stars.
+      Open-source infrastructure for Computer-Use Agents. Sandboxes, SDKs, and benchmarks to train and evaluate AI agents that can control full desktops (macOS, Linux, Windows).
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 HTML</span>
+						<span>⭐ 18060</span>
+						<span>🔱 1169</span>
+					</div>
+				<div class="stars-today">⭐ 57 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/jwasham/coding-interview-university" target="_blank">
+    
+
+
+      
+        jwasham /
+
+      coding-interview-university</a></p>
+				<p>
+      A complete computer science study plan to become a software engineer.
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 </span>
-						<span>⭐ 35767</span>
-						<span>🔱 3204</span>
+						<span>⭐ 352131</span>
+						<span>🔱 83548</span>
 					</div>
-				<div class="stars-today">⭐ 269 stars today</div>
+				<div class="stars-today">⭐ 516 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/Introduction-to-Autonomous-Robots/Introduction-to-Autonomous-Robots" target="_blank">
+				<p><a href="https://github.com/rohitg00/ai-engineering-from-scratch" target="_blank">
     
 
 
       
-        Introduction-to-Autonomous-Robots /
+        rohitg00 /
 
-      Introduction-to-Autonomous-Robots</a></p>
+      ai-engineering-from-scratch</a></p>
 				<p>
-      Introduction to Autonomous Robots
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TeX</span>
-						<span>⭐ 2913</span>
-						<span>🔱 637</span>
-					</div>
-				<div class="stars-today">⭐ 293 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/shiyu-coder/Kronos" target="_blank">
-    
-
-
-      
-        shiyu-coder /
-
-      Kronos</a></p>
-				<p>
-      Kronos: A Foundation Model for the Language of Financial Markets
+      Learn it. Build it. Ship it for others.
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 30068</span>
-						<span>🔱 5164</span>
+						<span>⭐ 32848</span>
+						<span>🔱 5382</span>
 					</div>
-				<div class="stars-today">⭐ 244 stars today</div>
+				<div class="stars-today">⭐ 538 stars today</div>
 				</div>
 			</div>
 	
@@ -272,10 +250,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 2294</span>
+						<span>⭐ 2336</span>
 						<span>🔱 442</span>
 					</div>
-				<div class="stars-today">⭐ 197 stars today</div>
+				<div class="stars-today">⭐ 226 stars today</div>
 				</div>
 			</div>
 	
@@ -294,54 +272,142 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 17095</span>
-						<span>🔱 2546</span>
+						<span>⭐ 17176</span>
+						<span>🔱 2554</span>
 					</div>
-				<div class="stars-today">⭐ 70 stars today</div>
+				<div class="stars-today">⭐ 361 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/puppeteer/puppeteer" target="_blank">
+				<p><a href="https://github.com/Introduction-to-Autonomous-Robots/Introduction-to-Autonomous-Robots" target="_blank">
     
 
 
       
-        puppeteer /
+        Introduction-to-Autonomous-Robots /
 
-      puppeteer</a></p>
+      Introduction-to-Autonomous-Robots</a></p>
 				<p>
-      JavaScript API for Chrome and Firefox
+      Introduction to Autonomous Robots
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 94735</span>
-						<span>🔱 9440</span>
+						<span>🔠 TeX</span>
+						<span>⭐ 2995</span>
+						<span>🔱 647</span>
 					</div>
-				<div class="stars-today">⭐ 29 stars today</div>
+				<div class="stars-today">⭐ 488 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/andrewyng/aisuite" target="_blank">
+				<p><a href="https://github.com/Raphire/Win11Debloat" target="_blank">
     
 
 
       
-        andrewyng /
+        Raphire /
 
-      aisuite</a></p>
+      Win11Debloat</a></p>
 				<p>
-      Simple, unified interface to multiple Generative AI providers 
+      A simple, lightweight PowerShell script that allows you to remove pre-installed apps, disable telemetry, as well as perform various other changes to declutter and customize your Windows experience. Win11Debloat works for both Windows 10 and Windows 11.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 PowerShell</span>
+						<span>⭐ 47798</span>
+						<span>🔱 1929</span>
+					</div>
+				<div class="stars-today">⭐ 114 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/mikeroyal/Self-Hosting-Guide" target="_blank">
+    
+
+
+      
+        mikeroyal /
+
+      Self-Hosting-Guide</a></p>
+				<p>
+      Self-Hosting Guide. Learn all about locally hosting (on premises & private web servers) and managing software applications by yourself or your organization. Including Cloud, LLMs, WireGuard, Automation, Home Assistant, and Networking.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Dockerfile</span>
+						<span>⭐ 20720</span>
+						<span>🔱 1050</span>
+					</div>
+				<div class="stars-today">⭐ 256 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/itsfatduck/optimizerDuck" target="_blank">
+    
+
+
+      
+        itsfatduck /
+
+      optimizerDuck</a></p>
+				<p>
+      Free, open-source Windows optimization tool for performance, privacy, and simplicity.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 C#</span>
+						<span>⭐ 3552</span>
+						<span>🔱 158</span>
+					</div>
+				<div class="stars-today">⭐ 321 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/NVIDIA/SkillSpector" target="_blank">
+    
+
+
+      
+        NVIDIA /
+
+      SkillSpector</a></p>
+				<p>
+      Security scanner for AI agent skills. Detect vulnerabilities, malicious patterns, and security risks.
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 14509</span>
-						<span>🔱 1513</span>
+						<span>⭐ 6038</span>
+						<span>🔱 445</span>
 					</div>
-				<div class="stars-today">⭐ 291 stars today</div>
+				<div class="stars-today">⭐ 1079 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/shiyu-coder/Kronos" target="_blank">
+    
+
+
+      
+        shiyu-coder /
+
+      Kronos</a></p>
+				<p>
+      Kronos: A Foundation Model for the Language of Financial Markets
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 30152</span>
+						<span>🔱 5177</span>
+					</div>
+				<div class="stars-today">⭐ 395 stars today</div>
 				</div>
 			</div>
 	

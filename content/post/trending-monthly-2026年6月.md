@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2026年6月
-date: 2026-06-15T09:47:27Z
+date: 2026-06-15T15:31:57Z
 categories:
 - monthly
 keywords:
@@ -30,8 +30,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 49368</span>
-						<span>🔱 3020</span>
+						<span>⭐ 49536</span>
+						<span>🔱 3029</span>
 					</div>
 				<div class="stars-today">⭐ 47635 stars this month</div>
 				</div>
@@ -52,8 +52,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 28078</span>
-						<span>🔱 1901</span>
+						<span>⭐ 28452</span>
+						<span>🔱 1926</span>
 					</div>
 				<div class="stars-today">⭐ 25399 stars this month</div>
 				</div>
@@ -74,8 +74,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 59726</span>
-						<span>🔱 4946</span>
+						<span>⭐ 60120</span>
+						<span>🔱 4976</span>
 					</div>
 				<div class="stars-today">⭐ 44690 stars this month</div>
 				</div>
@@ -96,32 +96,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 88030</span>
-						<span>🔱 12625</span>
+						<span>⭐ 88165</span>
+						<span>🔱 12647</span>
 					</div>
 				<div class="stars-today">⭐ 30998 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/tinyhumansai/openhuman" target="_blank">
-    
-
-
-      
-        tinyhumansai /
-
-      openhuman</a></p>
-				<p>
-      Your Personal AI super intelligence. Private, Simple and extremely powerful.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Rust</span>
-						<span>⭐ 32189</span>
-						<span>🔱 3118</span>
-					</div>
-				<div class="stars-today">⭐ 25134 stars this month</div>
 				</div>
 			</div>
 	
@@ -140,10 +118,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 32638</span>
-						<span>🔱 5362</span>
+						<span>⭐ 32848</span>
+						<span>🔱 5382</span>
 					</div>
 				<div class="stars-today">⭐ 24741 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/tinyhumansai/openhuman" target="_blank">
+    
+
+
+      
+        tinyhumansai /
+
+      openhuman</a></p>
+				<p>
+      Your Personal AI super intelligence. Private, Simple and extremely powerful.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Rust</span>
+						<span>⭐ 32217</span>
+						<span>🔱 3121</span>
+					</div>
+				<div class="stars-today">⭐ 25134 stars this month</div>
 				</div>
 			</div>
 	
@@ -162,32 +162,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 31575</span>
-						<span>🔱 2596</span>
+						<span>⭐ 31668</span>
+						<span>🔱 2605</span>
 					</div>
 				<div class="stars-today">⭐ 24371 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/can1357/oh-my-pi" target="_blank">
-    
-
-
-      
-        can1357 /
-
-      oh-my-pi</a></p>
-				<p>
-      ⌥ AI Coding agent for the terminal — hash-anchored edits, optimized tool harness, LSP, Python, browser, subagents, and more
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 12519</span>
-						<span>🔱 1061</span>
-					</div>
-				<div class="stars-today">⭐ 8029 stars this month</div>
 				</div>
 			</div>
 	
@@ -206,10 +184,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Swift</span>
-						<span>⭐ 37216</span>
+						<span>⭐ 37327</span>
 						<span>🔱 1068</span>
 					</div>
 				<div class="stars-today">⭐ 10383 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/can1357/oh-my-pi" target="_blank">
+    
+
+
+      
+        can1357 /
+
+      oh-my-pi</a></p>
+				<p>
+      ⌥ AI Coding agent for the terminal — hash-anchored edits, optimized tool harness, LSP, Python, browser, subagents, and more
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 12576</span>
+						<span>🔱 1066</span>
+					</div>
+				<div class="stars-today">⭐ 8029 stars this month</div>
 				</div>
 			</div>
 	
@@ -228,8 +228,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Rust</span>
-						<span>⭐ 73916</span>
-						<span>🔱 9867</span>
+						<span>⭐ 73964</span>
+						<span>🔱 9875</span>
 					</div>
 				<div class="stars-today">⭐ 19369 stars this month</div>
 				</div>
@@ -250,32 +250,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 </span>
-						<span>⭐ 10679</span>
-						<span>🔱 752</span>
+						<span>⭐ 10745</span>
+						<span>🔱 759</span>
 					</div>
 				<div class="stars-today">⭐ 6931 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/anthropics/knowledge-work-plugins" target="_blank">
-    
-
-
-      
-        anthropics /
-
-      knowledge-work-plugins</a></p>
-				<p>
-      Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 20713</span>
-						<span>🔱 2445</span>
-					</div>
-				<div class="stars-today">⭐ 8577 stars this month</div>
 				</div>
 			</div>
 	
@@ -294,10 +272,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 153706</span>
-						<span>🔱 10627</span>
+						<span>⭐ 153896</span>
+						<span>🔱 10639</span>
 					</div>
 				<div class="stars-today">⭐ 30576 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/anthropics/knowledge-work-plugins" target="_blank">
+    
+
+
+      
+        anthropics /
+
+      knowledge-work-plugins</a></p>
+				<p>
+      Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 20743</span>
+						<span>🔱 2449</span>
+					</div>
+				<div class="stars-today">⭐ 8577 stars this month</div>
 				</div>
 			</div>
 	
@@ -316,32 +316,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Shell</span>
-						<span>⭐ 44107</span>
-						<span>🔱 3078</span>
+						<span>⭐ 44301</span>
+						<span>🔱 3092</span>
 					</div>
 				<div class="stars-today">⭐ 26394 stars this month</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/rohitg00/agentmemory" target="_blank">
+				<p><a href="https://github.com/ogulcancelik/herdr" target="_blank">
     
 
 
       
-        rohitg00 /
+        ogulcancelik /
 
-      agentmemory</a></p>
+      herdr</a></p>
 				<p>
-      #1 Persistent memory for AI coding agents based on real-world benchmarks
+      agent multiplexer that lives in your terminal.
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 22880</span>
-						<span>🔱 1885</span>
+						<span>🔠 Rust</span>
+						<span>⭐ 5717</span>
+						<span>🔱 342</span>
 					</div>
-				<div class="stars-today">⭐ 14292 stars this month</div>
+				<div class="stars-today">⭐ 4876 stars this month</div>
 				</div>
 			</div>
 	
@@ -360,10 +360,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 10077</span>
-						<span>🔱 1481</span>
+						<span>⭐ 10098</span>
+						<span>🔱 1487</span>
 					</div>
 				<div class="stars-today">⭐ 6188 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/rohitg00/agentmemory" target="_blank">
+    
+
+
+      
+        rohitg00 /
+
+      agentmemory</a></p>
+				<p>
+      #1 Persistent memory for AI coding agents based on real-world benchmarks
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 22916</span>
+						<span>🔱 1888</span>
+					</div>
+				<div class="stars-today">⭐ 14292 stars this month</div>
 				</div>
 			</div>
 	
@@ -382,7 +404,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 26147</span>
+						<span>⭐ 26185</span>
 						<span>🔱 2071</span>
 					</div>
 				<div class="stars-today">⭐ 15875 stars this month</div>
@@ -404,76 +426,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Shell</span>
-						<span>⭐ 129346</span>
-						<span>🔱 11306</span>
+						<span>⭐ 129736</span>
+						<span>🔱 11321</span>
 					</div>
 				<div class="stars-today">⭐ 48195 stars this month</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/supertone-inc/supertonic" target="_blank">
+				<p><a href="https://github.com/iii-hq/iii" target="_blank">
     
 
 
       
-        supertone-inc /
+        iii-hq /
 
-      supertonic</a></p>
+      iii</a></p>
 				<p>
-      Lightning-Fast, On-Device, Multilingual TTS — running natively via ONNX.
+      Effortlessly compose, extend, and observe every service in real-time for the first time ever.
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Swift</span>
-						<span>⭐ 12266</span>
-						<span>🔱 1249</span>
+						<span>🔠 Rust</span>
+						<span>⭐ 18134</span>
+						<span>🔱 1208</span>
 					</div>
-				<div class="stars-today">⭐ 7106 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/fathah/hermes-desktop" target="_blank">
-    
-
-
-      
-        fathah /
-
-      hermes-desktop</a></p>
-				<p>
-      Desktop Companion for Hermes Agent
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 12231</span>
-						<span>🔱 1385</span>
-					</div>
-				<div class="stars-today">⭐ 7386 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/TencentCloud/TencentDB-Agent-Memory" target="_blank">
-    
-
-
-      
-        TencentCloud /
-
-      TencentDB-Agent-Memory</a></p>
-				<p>
-      TencentDB Agent Memory delivers fully local long-term memory for AI Agents via a 4-tier progressive pipeline, with zero external API dependencies.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 5756</span>
-						<span>🔱 495</span>
-					</div>
-				<div class="stars-today">⭐ 5095 stars this month</div>
+				<div class="stars-today">⭐ 2547 stars this month</div>
 				</div>
 			</div>
 	
