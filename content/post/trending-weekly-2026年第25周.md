@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2026年第25周
-date: 2026-06-16T09:12:40Z
+date: 2026-06-16T14:47:42Z
 categories:
 - weekly
 keywords:
@@ -14,28 +14,6 @@ keywords:
 	<main class="container">
         <div class="repo-list" id="repoList">
 
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/mvanhorn/last30days-skill" target="_blank">
-    
-
-
-      
-        mvanhorn /
-
-      last30days-skill</a></p>
-				<p>
-      AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 43135</span>
-						<span>🔱 3531</span>
-					</div>
-				<div class="stars-today">⭐ 9676 stars this week</div>
-				</div>
-			</div>
 	
 			<div class="repo-card">
 				<p><a href="https://github.com/apple/container" target="_blank">
@@ -52,32 +30,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Swift</span>
-						<span>⭐ 37630</span>
-						<span>🔱 1083</span>
+						<span>⭐ 37740</span>
+						<span>🔱 1086</span>
 					</div>
 				<div class="stars-today">⭐ 10541 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/phuryn/pm-skills" target="_blank">
-    
-
-
-      
-        phuryn /
-
-      pm-skills</a></p>
-				<p>
-      PM Skills Marketplace: 100+ agentic skills, commands, and plugins — from discovery to strategy, execution, launch, and growth.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 </span>
-						<span>⭐ 18829</span>
-						<span>🔱 1931</span>
-					</div>
-				<div class="stars-today">⭐ 6117 stars this week</div>
 				</div>
 			</div>
 	
@@ -96,32 +52,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 6687</span>
-						<span>🔱 489</span>
+						<span>⭐ 6836</span>
+						<span>🔱 501</span>
 					</div>
 				<div class="stars-today">⭐ 4633 stars this week</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/chopratejas/headroom" target="_blank">
+				<p><a href="https://github.com/phuryn/pm-skills" target="_blank">
     
 
 
       
-        chopratejas /
+        phuryn /
 
-      headroom</a></p>
+      pm-skills</a></p>
 				<p>
-      Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 60-95% fewer tokens, same answers. Library, proxy, MCP server.
+      PM Skills Marketplace: 100+ agentic skills, commands, and plugins — from discovery to strategy, execution, launch, and growth.
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 29263</span>
-						<span>🔱 1977</span>
+						<span>🔠 </span>
+						<span>⭐ 18937</span>
+						<span>🔱 1941</span>
 					</div>
-				<div class="stars-today">⭐ 10660 stars this week</div>
+				<div class="stars-today">⭐ 6117 stars this week</div>
 				</div>
 			</div>
 	
@@ -140,10 +96,76 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Shell</span>
-						<span>⭐ 60639</span>
-						<span>🔱 6579</span>
+						<span>⭐ 60888</span>
+						<span>🔱 6598</span>
 					</div>
 				<div class="stars-today">⭐ 11088 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/iptv-org/iptv" target="_blank">
+    
+
+
+      
+        iptv-org /
+
+      iptv</a></p>
+				<p>
+      Collection of publicly available IPTV channels from all over the world
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 123695</span>
+						<span>🔱 6665</span>
+					</div>
+				<div class="stars-today">⭐ 5351 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/mvanhorn/last30days-skill" target="_blank">
+    
+
+
+      
+        mvanhorn /
+
+      last30days-skill</a></p>
+				<p>
+      AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 43278</span>
+						<span>🔱 3551</span>
+					</div>
+				<div class="stars-today">⭐ 9676 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/chopratejas/headroom" target="_blank">
+    
+
+
+      
+        chopratejas /
+
+      headroom</a></p>
+				<p>
+      Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 60-95% fewer tokens, same answers. Library, proxy, MCP server.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 29584</span>
+						<span>🔱 1993</span>
+					</div>
+				<div class="stars-today">⭐ 10660 stars this week</div>
 				</div>
 			</div>
 	
@@ -162,186 +184,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 31196</span>
-						<span>🔱 2507</span>
+						<span>⭐ 31645</span>
+						<span>🔱 2540</span>
 					</div>
 				<div class="stars-today">⭐ 5873 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/RyanCodrai/turbovec" target="_blank">
-    
-
-
-      
-        RyanCodrai /
-
-      turbovec</a></p>
-				<p>
-      A vector index built on TurboQuant, written in Rust with Python bindings
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 11714</span>
-						<span>🔱 1017</span>
-					</div>
-				<div class="stars-today">⭐ 3651 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/refactoringhq/tolaria" target="_blank">
-    
-
-
-      
-        refactoringhq /
-
-      tolaria</a></p>
-				<p>
-      Desktop app to manage markdown knowledge bases
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 16470</span>
-						<span>🔱 1132</span>
-					</div>
-				<div class="stars-today">⭐ 3179 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/music-assistant/server" target="_blank">
-    
-
-
-      
-        music-assistant /
-
-      server</a></p>
-				<p>
-      Music Assistant is a free, opensource Media library manager that connects to your streaming services and a wide range of connected speakers. The server is the beating heart, the core of Music Assistant and must run on an always-on device like a Raspberry Pi, a NAS or an Intel NUC or alike.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 2457</span>
-						<span>🔱 450</span>
-					</div>
-				<div class="stars-today">⭐ 710 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/roboflow/supervision" target="_blank">
-    
-
-
-      
-        roboflow /
-
-      supervision</a></p>
-				<p>
-      We write your reusable computer vision tools. 💜
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 44408</span>
-						<span>🔱 3943</span>
-					</div>
-				<div class="stars-today">⭐ 2360 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/Leonxlnx/taste-skill" target="_blank">
-    
-
-
-      
-        Leonxlnx /
-
-      taste-skill</a></p>
-				<p>
-      Taste-Skill - gives your AI good taste. stops the AI from generating boring, generic slop 
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Shell</span>
-						<span>⭐ 44856</span>
-						<span>🔱 3126</span>
-					</div>
-				<div class="stars-today">⭐ 6297 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/openai/plugins" target="_blank">
-    
-
-
-      
-        openai /
-
-      plugins</a></p>
-				<p>
-      OpenAI Plugins
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 JavaScript</span>
-						<span>⭐ 3113</span>
-						<span>🔱 360</span>
-					</div>
-				<div class="stars-today">⭐ 882 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/mattermost/mattermost" target="_blank">
-    
-
-
-      
-        mattermost /
-
-      mattermost</a></p>
-				<p>
-      Mattermost is an open source platform for secure collaboration across the entire software development lifecycle..
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 37932</span>
-						<span>🔱 8740</span>
-					</div>
-				<div class="stars-today">⭐ 853 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/microsoft/markitdown" target="_blank">
-    
-
-
-      
-        microsoft /
-
-      markitdown</a></p>
-				<p>
-      Python tool for converting files and office documents to Markdown.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 154338</span>
-						<span>🔱 10676</span>
-					</div>
-				<div class="stars-today">⭐ 5913 stars this week</div>
 				</div>
 			</div>
 	
@@ -360,32 +206,76 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 JavaScript</span>
-						<span>⭐ 42579</span>
-						<span>🔱 7073</span>
+						<span>⭐ 42687</span>
+						<span>🔱 7085</span>
 					</div>
 				<div class="stars-today">⭐ 935 stars this week</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/chatwoot/chatwoot" target="_blank">
+				<p><a href="https://github.com/music-assistant/server" target="_blank">
     
 
 
       
-        chatwoot /
+        music-assistant /
 
-      chatwoot</a></p>
+      server</a></p>
 				<p>
-      Open-source live-chat, email support, omni-channel desk. An alternative to Intercom, Zendesk, Salesforce Service Cloud etc. 🔥💬
+      Music Assistant is a free, opensource Media library manager that connects to your streaming services and a wide range of connected speakers. The server is the beating heart, the core of Music Assistant and must run on an always-on device like a Raspberry Pi, a NAS or an Intel NUC or alike.
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Ruby</span>
-						<span>⭐ 31883</span>
-						<span>🔱 7642</span>
+						<span>🔠 Python</span>
+						<span>⭐ 2495</span>
+						<span>🔱 450</span>
 					</div>
-				<div class="stars-today">⭐ 1472 stars this week</div>
+				<div class="stars-today">⭐ 710 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/refactoringhq/tolaria" target="_blank">
+    
+
+
+      
+        refactoringhq /
+
+      tolaria</a></p>
+				<p>
+      Desktop app to manage markdown knowledge bases
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 16503</span>
+						<span>🔱 1136</span>
+					</div>
+				<div class="stars-today">⭐ 3179 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/lfnovo/open-notebook" target="_blank">
+    
+
+
+      
+        lfnovo /
+
+      open-notebook</a></p>
+				<p>
+      An Open Source implementation of Notebook LM with more flexibility and features
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 31033</span>
+						<span>🔱 3524</span>
+					</div>
+				<div class="stars-today">⭐ 3025 stars this week</div>
 				</div>
 			</div>
 	
@@ -404,32 +294,142 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 C</span>
-						<span>⭐ 135039</span>
-						<span>🔱 8105</span>
+						<span>⭐ 135053</span>
+						<span>🔱 8107</span>
 					</div>
 				<div class="stars-today">⭐ 1129 stars this week</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/huggingface/OpenEnv" target="_blank">
+				<p><a href="https://github.com/meshery/meshery" target="_blank">
     
 
 
       
-        huggingface /
+        meshery /
 
-      OpenEnv</a></p>
+      meshery</a></p>
 				<p>
-      An interface library for RL post training with environments. 
+      Meshery, the cloud native manager
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 10768</span>
+						<span>🔱 3444</span>
+					</div>
+				<div class="stars-today">⭐ 306 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/mattermost/mattermost" target="_blank">
+    
+
+
+      
+        mattermost /
+
+      mattermost</a></p>
+				<p>
+      Mattermost is an open source platform for secure collaboration across the entire software development lifecycle..
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 37945</span>
+						<span>🔱 8740</span>
+					</div>
+				<div class="stars-today">⭐ 853 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/chatwoot/chatwoot" target="_blank">
+    
+
+
+      
+        chatwoot /
+
+      chatwoot</a></p>
+				<p>
+      Open-source live-chat, email support, omni-channel desk. An alternative to Intercom, Zendesk, Salesforce Service Cloud etc. 🔥💬
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Ruby</span>
+						<span>⭐ 31967</span>
+						<span>🔱 7644</span>
+					</div>
+				<div class="stars-today">⭐ 1472 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/LMCache/LMCache" target="_blank">
+    
+
+
+      
+        LMCache /
+
+      LMCache</a></p>
+				<p>
+      LMCache: Supercharge Your LLM with the Fastest KV Cache Layer
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 2290</span>
-						<span>🔱 397</span>
+						<span>⭐ 9168</span>
+						<span>🔱 1334</span>
 					</div>
-				<div class="stars-today">⭐ 319 stars this week</div>
+				<div class="stars-today">⭐ 673 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/ml-explore/mlx" target="_blank">
+    
+
+
+      
+        ml-explore /
+
+      mlx</a></p>
+				<p>
+      MLX: An array framework for Apple silicon
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 C++</span>
+						<span>⭐ 27048</span>
+						<span>🔱 1913</span>
+					</div>
+				<div class="stars-today">⭐ 380 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/pytest-dev/pytest" target="_blank">
+    
+
+
+      
+        pytest-dev /
+
+      pytest</a></p>
+				<p>
+      The pytest framework makes it easy to write small tests, yet scales to support complex functional testing
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 14147</span>
+						<span>🔱 3187</span>
+					</div>
+				<div class="stars-today">⭐ 240 stars this week</div>
 				</div>
 			</div>
 	
@@ -448,8 +448,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 </span>
-						<span>⭐ 140620</span>
-						<span>🔱 34694</span>
+						<span>⭐ 140648</span>
+						<span>🔱 34699</span>
 					</div>
 				<div class="stars-today">⭐ 1668 stars this week</div>
 				</div>

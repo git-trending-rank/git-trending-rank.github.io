@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2026年6月
-date: 2026-06-16T09:12:40Z
+date: 2026-06-16T14:47:42Z
 categories:
 - monthly
 keywords:
@@ -14,28 +14,6 @@ keywords:
 	<main class="container">
         <div class="repo-list" id="repoList">
 
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/colbymchenry/codegraph" target="_blank">
-    
-
-
-      
-        colbymchenry /
-
-      codegraph</a></p>
-				<p>
-      Pre-indexed code knowledge graph, auto syncs on code changes, for Claude Code, Codex, Gemini, Cursor, OpenCode, AntiGravity, Kiro, and Hermes Agent — fewer tokens, fewer tool calls, 100% local
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 50017</span>
-						<span>🔱 3059</span>
-					</div>
-				<div class="stars-today">⭐ 47946 stars this month</div>
-				</div>
-			</div>
 	
 			<div class="repo-card">
 				<p><a href="https://github.com/chopratejas/headroom" target="_blank">
@@ -52,10 +30,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 29263</span>
-						<span>🔱 1977</span>
+						<span>⭐ 29584</span>
+						<span>🔱 1993</span>
 					</div>
 				<div class="stars-today">⭐ 26561 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/colbymchenry/codegraph" target="_blank">
+    
+
+
+      
+        colbymchenry /
+
+      codegraph</a></p>
+				<p>
+      Pre-indexed code knowledge graph, auto syncs on code changes, for Claude Code, Codex, Gemini, Cursor, OpenCode, AntiGravity, Kiro, and Hermes Agent — fewer tokens, fewer tool calls, 100% local
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 50170</span>
+						<span>🔱 3068</span>
+					</div>
+				<div class="stars-today">⭐ 47946 stars this month</div>
 				</div>
 			</div>
 	
@@ -74,8 +74,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 60952</span>
-						<span>🔱 5033</span>
+						<span>⭐ 61180</span>
+						<span>🔱 5048</span>
 					</div>
 				<div class="stars-today">⭐ 45478 stars this month</div>
 				</div>
@@ -96,8 +96,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 88523</span>
-						<span>🔱 12710</span>
+						<span>⭐ 88670</span>
+						<span>🔱 12729</span>
 					</div>
 				<div class="stars-today">⭐ 31448 stars this month</div>
 				</div>
@@ -118,54 +118,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 33439</span>
-						<span>🔱 5455</span>
+						<span>⭐ 33586</span>
+						<span>🔱 5479</span>
 					</div>
 				<div class="stars-today">⭐ 25209 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/tinyhumansai/openhuman" target="_blank">
-    
-
-
-      
-        tinyhumansai /
-
-      openhuman</a></p>
-				<p>
-      Your Personal AI super intelligence. Private, Simple and extremely powerful.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Rust</span>
-						<span>⭐ 32335</span>
-						<span>🔱 3129</span>
-					</div>
-				<div class="stars-today">⭐ 24138 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/Imbad0202/academic-research-skills" target="_blank">
-    
-
-
-      
-        Imbad0202 /
-
-      academic-research-skills</a></p>
-				<p>
-      Academic Research Skills for Claude Code: research → write → review → revise → finalize
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 31904</span>
-						<span>🔱 2627</span>
-					</div>
-				<div class="stars-today">⭐ 24428 stars this month</div>
 				</div>
 			</div>
 	
@@ -184,8 +140,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Swift</span>
-						<span>⭐ 37630</span>
-						<span>🔱 1083</span>
+						<span>⭐ 37740</span>
+						<span>🔱 1086</span>
 					</div>
 				<div class="stars-today">⭐ 10915 stars this month</div>
 				</div>
@@ -206,32 +162,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 12712</span>
-						<span>🔱 1078</span>
+						<span>⭐ 12769</span>
+						<span>🔱 1082</span>
 					</div>
 				<div class="stars-today">⭐ 8156 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/ruvnet/RuView" target="_blank">
-    
-
-
-      
-        ruvnet /
-
-      RuView</a></p>
-				<p>
-      π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Rust</span>
-						<span>⭐ 74108</span>
-						<span>🔱 9890</span>
-					</div>
-				<div class="stars-today">⭐ 17836 stars this month</div>
 				</div>
 			</div>
 	
@@ -250,10 +184,54 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 </span>
-						<span>⭐ 10862</span>
-						<span>🔱 772</span>
+						<span>⭐ 10920</span>
+						<span>🔱 775</span>
 					</div>
 				<div class="stars-today">⭐ 7220 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/Imbad0202/academic-research-skills" target="_blank">
+    
+
+
+      
+        Imbad0202 /
+
+      academic-research-skills</a></p>
+				<p>
+      Academic Research Skills for Claude Code: research → write → review → revise → finalize
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 32016</span>
+						<span>🔱 2634</span>
+					</div>
+				<div class="stars-today">⭐ 24428 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/ruvnet/RuView" target="_blank">
+    
+
+
+      
+        ruvnet /
+
+      RuView</a></p>
+				<p>
+      π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Rust</span>
+						<span>⭐ 74152</span>
+						<span>🔱 9894</span>
+					</div>
+				<div class="stars-today">⭐ 17836 stars this month</div>
 				</div>
 			</div>
 	
@@ -272,32 +250,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 154338</span>
-						<span>🔱 10676</span>
+						<span>⭐ 154507</span>
+						<span>🔱 10687</span>
 					</div>
 				<div class="stars-today">⭐ 31148 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/anthropics/knowledge-work-plugins" target="_blank">
-    
-
-
-      
-        anthropics /
-
-      knowledge-work-plugins</a></p>
-				<p>
-      Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 20847</span>
-						<span>🔱 2459</span>
-					</div>
-				<div class="stars-today">⭐ 8644 stars this month</div>
 				</div>
 			</div>
 	
@@ -316,10 +272,54 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Shell</span>
-						<span>⭐ 44856</span>
-						<span>🔱 3126</span>
+						<span>⭐ 45050</span>
+						<span>🔱 3137</span>
 					</div>
 				<div class="stars-today">⭐ 26989 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/anthropics/knowledge-work-plugins" target="_blank">
+    
+
+
+      
+        anthropics /
+
+      knowledge-work-plugins</a></p>
+				<p>
+      Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 20880</span>
+						<span>🔱 2460</span>
+					</div>
+				<div class="stars-today">⭐ 8644 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/tinyhumansai/openhuman" target="_blank">
+    
+
+
+      
+        tinyhumansai /
+
+      openhuman</a></p>
+				<p>
+      Your Personal AI super intelligence. Private, Simple and extremely powerful.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Rust</span>
+						<span>⭐ 32378</span>
+						<span>🔱 3134</span>
+					</div>
+				<div class="stars-today">⭐ 24138 stars this month</div>
 				</div>
 			</div>
 	
@@ -338,8 +338,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Rust</span>
-						<span>⭐ 5871</span>
-						<span>🔱 351</span>
+						<span>⭐ 5927</span>
+						<span>🔱 353</span>
 					</div>
 				<div class="stars-today">⭐ 4931 stars this month</div>
 				</div>
@@ -360,8 +360,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 10185</span>
-						<span>🔱 1492</span>
+						<span>⭐ 10205</span>
+						<span>🔱 1493</span>
 					</div>
 				<div class="stars-today">⭐ 6208 stars this month</div>
 				</div>
@@ -382,54 +382,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 23027</span>
-						<span>🔱 1899</span>
+						<span>⭐ 23080</span>
+						<span>🔱 1903</span>
 					</div>
 				<div class="stars-today">⭐ 13696 stars this month</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/CloakHQ/CloakBrowser" target="_blank">
+				<p><a href="https://github.com/cursor/plugins" target="_blank">
     
 
 
       
-        CloakHQ /
+        cursor /
 
-      CloakBrowser</a></p>
+      plugins</a></p>
 				<p>
-      Stealth Chromium that passes every bot detection test. Drop-in Playwright replacement with source-level fingerprint patches. 30/30 tests passed.
+      Cursor plugin specification and official plugins
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 26290</span>
-						<span>🔱 2075</span>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 1983</span>
+						<span>🔱 151</span>
 					</div>
-				<div class="stars-today">⭐ 14818 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/mattpocock/skills" target="_blank">
-    
-
-
-      
-        mattpocock /
-
-      skills</a></p>
-				<p>
-      Skills for Real Engineers. Straight from my .claude directory.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Shell</span>
-						<span>⭐ 130993</span>
-						<span>🔱 11410</span>
-					</div>
-				<div class="stars-today">⭐ 46419 stars this month</div>
+				<div class="stars-today">⭐ 1580 stars this month</div>
 				</div>
 			</div>
 	
@@ -448,8 +426,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Rust</span>
-						<span>⭐ 18168</span>
-						<span>🔱 1211</span>
+						<span>⭐ 18182</span>
+						<span>🔱 1213</span>
 					</div>
 				<div class="stars-today">⭐ 2542 stars this month</div>
 				</div>
