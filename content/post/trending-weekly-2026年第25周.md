@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2026年第25周
-date: 2026-06-17T08:50:35Z
+date: 2026-06-17T13:32:32Z
 categories:
 - weekly
 keywords:
@@ -30,8 +30,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Swift</span>
-						<span>⭐ 38018</span>
-						<span>🔱 1094</span>
+						<span>⭐ 38102</span>
+						<span>🔱 1099</span>
 					</div>
 				<div class="stars-today">⭐ 10896 stars this week</div>
 				</div>
@@ -52,32 +52,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 7145</span>
-						<span>🔱 523</span>
+						<span>⭐ 7231</span>
+						<span>🔱 528</span>
 					</div>
 				<div class="stars-today">⭐ 5190 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/phuryn/pm-skills" target="_blank">
-    
-
-
-      
-        phuryn /
-
-      pm-skills</a></p>
-				<p>
-      PM Skills Marketplace: 100+ agentic skills, commands, and plugins — from discovery to strategy, execution, launch, and growth.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 </span>
-						<span>⭐ 19186</span>
-						<span>🔱 1963</span>
-					</div>
-				<div class="stars-today">⭐ 5775 stars this week</div>
 				</div>
 			</div>
 	
@@ -96,10 +74,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Shell</span>
-						<span>⭐ 61636</span>
-						<span>🔱 6683</span>
+						<span>⭐ 61890</span>
+						<span>🔱 6709</span>
 					</div>
 				<div class="stars-today">⭐ 11431 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/phuryn/pm-skills" target="_blank">
+    
+
+
+      
+        phuryn /
+
+      pm-skills</a></p>
+				<p>
+      PM Skills Marketplace: 100+ agentic skills, commands, and plugins — from discovery to strategy, execution, launch, and growth.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 </span>
+						<span>⭐ 19243</span>
+						<span>🔱 1967</span>
+					</div>
+				<div class="stars-today">⭐ 5775 stars this week</div>
 				</div>
 			</div>
 	
@@ -118,54 +118,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 124572</span>
-						<span>🔱 6749</span>
+						<span>⭐ 124766</span>
+						<span>🔱 6770</span>
 					</div>
 				<div class="stars-today">⭐ 6246 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/mvanhorn/last30days-skill" target="_blank">
-    
-
-
-      
-        mvanhorn /
-
-      last30days-skill</a></p>
-				<p>
-      AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 43692</span>
-						<span>🔱 3594</span>
-					</div>
-				<div class="stars-today">⭐ 7226 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/chopratejas/headroom" target="_blank">
-    
-
-
-      
-        chopratejas /
-
-      headroom</a></p>
-				<p>
-      Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 60-95% fewer tokens, same answers. Library, proxy, MCP server.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 30421</span>
-						<span>🔱 2052</span>
-					</div>
-				<div class="stars-today">⭐ 9766 stars this week</div>
 				</div>
 			</div>
 	
@@ -184,32 +140,54 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 32486</span>
-						<span>🔱 2615</span>
+						<span>⭐ 32709</span>
+						<span>🔱 2637</span>
 					</div>
 				<div class="stars-today">⭐ 6427 stars this week</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/asgeirtj/system_prompts_leaks" target="_blank">
+				<p><a href="https://github.com/chopratejas/headroom" target="_blank">
     
 
 
       
-        asgeirtj /
+        chopratejas /
 
-      system_prompts_leaks</a></p>
+      headroom</a></p>
 				<p>
-      Extracted system prompts from Anthropic - Claude Fable 5, Opus 4.8, Claude Code, Claude Design. OpenAI - ChatGPT 5.5 Thinking, GPT 5.5 Instant, Codex. Google - Gemini 3.5 Flash, 3.1 Pro, Antigravity. xAI - Grok, Cursor, Copilot, VS Code, Perplexity, and more. Updated regularly.
+      Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 60-95% fewer tokens, same answers. Library, proxy, MCP server.
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 JavaScript</span>
-						<span>⭐ 42944</span>
-						<span>🔱 7123</span>
+						<span>🔠 Python</span>
+						<span>⭐ 30695</span>
+						<span>🔱 2076</span>
 					</div>
-				<div class="stars-today">⭐ 1220 stars this week</div>
+				<div class="stars-today">⭐ 9766 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/mvanhorn/last30days-skill" target="_blank">
+    
+
+
+      
+        mvanhorn /
+
+      last30days-skill</a></p>
+				<p>
+      AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 43801</span>
+						<span>🔱 3603</span>
+					</div>
+				<div class="stars-today">⭐ 7226 stars this week</div>
 				</div>
 			</div>
 	
@@ -228,76 +206,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 2635</span>
-						<span>🔱 453</span>
+						<span>⭐ 2654</span>
+						<span>🔱 454</span>
 					</div>
 				<div class="stars-today">⭐ 865 stars this week</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/refactoringhq/tolaria" target="_blank">
+				<p><a href="https://github.com/asgeirtj/system_prompts_leaks" target="_blank">
     
 
 
       
-        refactoringhq /
+        asgeirtj /
 
-      tolaria</a></p>
+      system_prompts_leaks</a></p>
 				<p>
-      Desktop app to manage markdown knowledge bases
+      Extracted system prompts from Anthropic - Claude Fable 5, Opus 4.8, Claude Code, Claude Design. OpenAI - ChatGPT 5.5 Thinking, GPT 5.5 Instant, Codex. Google - Gemini 3.5 Flash, 3.1 Pro, Antigravity. xAI - Grok, Cursor, Copilot, VS Code, Perplexity, and more. Updated regularly.
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 16586</span>
-						<span>🔱 1150</span>
+						<span>🔠 JavaScript</span>
+						<span>⭐ 43013</span>
+						<span>🔱 7129</span>
 					</div>
-				<div class="stars-today">⭐ 2537 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/lfnovo/open-notebook" target="_blank">
-    
-
-
-      
-        lfnovo /
-
-      open-notebook</a></p>
-				<p>
-      An Open Source implementation of Notebook LM with more flexibility and features
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 31203</span>
-						<span>🔱 3539</span>
-					</div>
-				<div class="stars-today">⭐ 2873 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/microsoft/PowerToys" target="_blank">
-    
-
-
-      
-        microsoft /
-
-      PowerToys</a></p>
-				<p>
-      Microsoft PowerToys is a collection of utilities that supercharge productivity and customization on Windows
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 C</span>
-						<span>⭐ 135112</span>
-						<span>🔱 8108</span>
-					</div>
-				<div class="stars-today">⭐ 1181 stars this week</div>
+				<div class="stars-today">⭐ 1220 stars this week</div>
 				</div>
 			</div>
 	
@@ -316,32 +250,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 10919</span>
-						<span>🔱 3452</span>
+						<span>⭐ 10947</span>
+						<span>🔱 3454</span>
 					</div>
 				<div class="stars-today">⭐ 488 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/mattermost/mattermost" target="_blank">
-    
-
-
-      
-        mattermost /
-
-      mattermost</a></p>
-				<p>
-      Mattermost is an open source platform for secure collaboration across the entire software development lifecycle..
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 37981</span>
-						<span>🔱 8745</span>
-					</div>
-				<div class="stars-today">⭐ 918 stars this week</div>
 				</div>
 			</div>
 	
@@ -360,10 +272,76 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Ruby</span>
-						<span>⭐ 32138</span>
-						<span>🔱 7676</span>
+						<span>⭐ 32217</span>
+						<span>🔱 7691</span>
 					</div>
 				<div class="stars-today">⭐ 1930 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/DeusData/codebase-memory-mcp" target="_blank">
+    
+
+
+      
+        DeusData /
+
+      codebase-memory-mcp</a></p>
+				<p>
+      High-performance code intelligence MCP server. Indexes codebases into a persistent knowledge graph — average repo in milliseconds. 158 languages, sub-ms queries, 99% fewer tokens. Single static binary, zero dependencies.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 C</span>
+						<span>⭐ 4330</span>
+						<span>🔱 431</span>
+					</div>
+				<div class="stars-today">⭐ 844 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/mattermost/mattermost" target="_blank">
+    
+
+
+      
+        mattermost /
+
+      mattermost</a></p>
+				<p>
+      Mattermost is an open source platform for secure collaboration across the entire software development lifecycle..
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 37989</span>
+						<span>🔱 8747</span>
+					</div>
+				<div class="stars-today">⭐ 918 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/microsoft/PowerToys" target="_blank">
+    
+
+
+      
+        microsoft /
+
+      PowerToys</a></p>
+				<p>
+      Microsoft PowerToys is a collection of utilities that supercharge productivity and customization on Windows
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 C</span>
+						<span>⭐ 135138</span>
+						<span>🔱 8108</span>
+					</div>
+				<div class="stars-today">⭐ 1181 stars this week</div>
 				</div>
 			</div>
 	
@@ -382,32 +360,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 9215</span>
-						<span>🔱 1339</span>
+						<span>⭐ 9233</span>
+						<span>🔱 1341</span>
 					</div>
 				<div class="stars-today">⭐ 709 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/ml-explore/mlx" target="_blank">
-    
-
-
-      
-        ml-explore /
-
-      mlx</a></p>
-				<p>
-      MLX: An array framework for Apple silicon
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 C++</span>
-						<span>⭐ 27089</span>
-						<span>🔱 1918</span>
-					</div>
-				<div class="stars-today">⭐ 336 stars this week</div>
 				</div>
 			</div>
 	
@@ -426,7 +382,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 14169</span>
+						<span>⭐ 14176</span>
 						<span>🔱 3188</span>
 					</div>
 				<div class="stars-today">⭐ 240 stars this week</div>
@@ -434,24 +390,112 @@ keywords:
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools" target="_blank">
+				<p><a href="https://github.com/refactoringhq/tolaria" target="_blank">
     
 
 
       
-        x1xhlol /
+        refactoringhq /
 
-      system-prompts-and-models-of-ai-tools</a></p>
+      tolaria</a></p>
 				<p>
-      FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, Dia & v0. (And other Open Sourced) System Prompts, Internal Tools & AI Models
+      Desktop app to manage markdown knowledge bases
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 </span>
-						<span>⭐ 140749</span>
-						<span>🔱 34712</span>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 16607</span>
+						<span>🔱 1150</span>
 					</div>
-				<div class="stars-today">⭐ 1731 stars this week</div>
+				<div class="stars-today">⭐ 2537 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/restic/restic" target="_blank">
+    
+
+
+      
+        restic /
+
+      restic</a></p>
+				<p>
+      Fast, secure, efficient backup program
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Go</span>
+						<span>⭐ 34468</span>
+						<span>🔱 1794</span>
+					</div>
+				<div class="stars-today">⭐ 526 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/puppeteer/puppeteer" target="_blank">
+    
+
+
+      
+        puppeteer /
+
+      puppeteer</a></p>
+				<p>
+      JavaScript API for Chrome and Firefox
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 95011</span>
+						<span>🔱 9453</span>
+					</div>
+				<div class="stars-today">⭐ 353 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/lfnovo/open-notebook" target="_blank">
+    
+
+
+      
+        lfnovo /
+
+      open-notebook</a></p>
+				<p>
+      An Open Source implementation of Notebook LM with more flexibility and features
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 31265</span>
+						<span>🔱 3542</span>
+					</div>
+				<div class="stars-today">⭐ 2873 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/freeCodeCamp/freeCodeCamp" target="_blank">
+    
+
+
+      
+        freeCodeCamp /
+
+      freeCodeCamp</a></p>
+				<p>
+      freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming, and computer science for free.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 448970</span>
+						<span>🔱 45076</span>
+					</div>
+				<div class="stars-today">⭐ 2003 stars this week</div>
 				</div>
 			</div>
 	

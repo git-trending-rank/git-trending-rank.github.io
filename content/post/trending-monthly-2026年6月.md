@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2026年6月
-date: 2026-06-17T08:50:35Z
+date: 2026-06-17T13:32:32Z
 categories:
 - monthly
 keywords:
@@ -30,32 +30,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 30421</span>
-						<span>🔱 2052</span>
+						<span>⭐ 30695</span>
+						<span>🔱 2076</span>
 					</div>
 				<div class="stars-today">⭐ 27895 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/colbymchenry/codegraph" target="_blank">
-    
-
-
-      
-        colbymchenry /
-
-      codegraph</a></p>
-				<p>
-      Pre-indexed code knowledge graph, auto syncs on code changes, for Claude Code, Codex, Gemini, Cursor, OpenCode, AntiGravity, Kiro, and Hermes Agent — fewer tokens, fewer tool calls, 100% local
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 50684</span>
-						<span>🔱 3091</span>
-					</div>
-				<div class="stars-today">⭐ 48177 stars this month</div>
 				</div>
 			</div>
 	
@@ -74,10 +52,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 62192</span>
-						<span>🔱 5131</span>
+						<span>⭐ 62407</span>
+						<span>🔱 5148</span>
 					</div>
 				<div class="stars-today">⭐ 46671 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/colbymchenry/codegraph" target="_blank">
+    
+
+
+      
+        colbymchenry /
+
+      codegraph</a></p>
+				<p>
+      Pre-indexed code knowledge graph, auto syncs on code changes, for Claude Code, Codex, Gemini, Cursor, OpenCode, AntiGravity, Kiro, and Hermes Agent — fewer tokens, fewer tool calls, 100% local
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 50849</span>
+						<span>🔱 3095</span>
+					</div>
+				<div class="stars-today">⭐ 48177 stars this month</div>
 				</div>
 			</div>
 	
@@ -96,8 +96,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 89050</span>
-						<span>🔱 12796</span>
+						<span>⭐ 89187</span>
+						<span>🔱 12813</span>
 					</div>
 				<div class="stars-today">⭐ 31997 stars this month</div>
 				</div>
@@ -118,8 +118,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 33876</span>
-						<span>🔱 5511</span>
+						<span>⭐ 33955</span>
+						<span>🔱 5525</span>
 					</div>
 				<div class="stars-today">⭐ 25965 stars this month</div>
 				</div>
@@ -140,8 +140,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Swift</span>
-						<span>⭐ 38018</span>
-						<span>🔱 1094</span>
+						<span>⭐ 38102</span>
+						<span>🔱 1099</span>
 					</div>
 				<div class="stars-today">⭐ 11366 stars this month</div>
 				</div>
@@ -162,8 +162,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 12972</span>
-						<span>🔱 1104</span>
+						<span>⭐ 13031</span>
+						<span>🔱 1107</span>
 					</div>
 				<div class="stars-today">⭐ 8324 stars this month</div>
 				</div>
@@ -184,54 +184,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 </span>
-						<span>⭐ 11051</span>
+						<span>⭐ 11094</span>
 						<span>🔱 780</span>
 					</div>
 				<div class="stars-today">⭐ 7399 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/Imbad0202/academic-research-skills" target="_blank">
-    
-
-
-      
-        Imbad0202 /
-
-      academic-research-skills</a></p>
-				<p>
-      Academic Research Skills for Claude Code: research → write → review → revise → finalize
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 32255</span>
-						<span>🔱 2653</span>
-					</div>
-				<div class="stars-today">⭐ 24323 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/ruvnet/RuView" target="_blank">
-    
-
-
-      
-        ruvnet /
-
-      RuView</a></p>
-				<p>
-      π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Rust</span>
-						<span>⭐ 74293</span>
-						<span>🔱 9908</span>
-					</div>
-				<div class="stars-today">⭐ 17001 stars this month</div>
 				</div>
 			</div>
 	
@@ -250,8 +206,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 154884</span>
-						<span>🔱 10727</span>
+						<span>⭐ 155009</span>
+						<span>🔱 10746</span>
 					</div>
 				<div class="stars-today">⭐ 31754 stars this month</div>
 				</div>
@@ -272,8 +228,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Shell</span>
-						<span>⭐ 45553</span>
-						<span>🔱 3170</span>
+						<span>⭐ 45737</span>
+						<span>🔱 3178</span>
 					</div>
 				<div class="stars-today">⭐ 27670 stars this month</div>
 				</div>
@@ -294,7 +250,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 20971</span>
+						<span>⭐ 20995</span>
 						<span>🔱 2473</span>
 					</div>
 				<div class="stars-today">⭐ 8767 stars this month</div>
@@ -302,24 +258,68 @@ keywords:
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/tinyhumansai/openhuman" target="_blank">
+				<p><a href="https://github.com/ruvnet/RuView" target="_blank">
     
 
 
       
-        tinyhumansai /
+        ruvnet /
 
-      openhuman</a></p>
+      RuView</a></p>
 				<p>
-      Your Personal AI super intelligence. Private, Simple and extremely powerful.
+      π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Rust</span>
-						<span>⭐ 32494</span>
-						<span>🔱 3138</span>
+						<span>⭐ 74329</span>
+						<span>🔱 9917</span>
 					</div>
-				<div class="stars-today">⭐ 22585 stars this month</div>
+				<div class="stars-today">⭐ 17001 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/rmyndharis/OpenWA" target="_blank">
+    
+
+
+      
+        rmyndharis /
+
+      OpenWA</a></p>
+				<p>
+      Free, Open Source, Self-Hosted WhatsApp API Gateway
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 9262</span>
+						<span>🔱 2026</span>
+					</div>
+				<div class="stars-today">⭐ 8915 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/Imbad0202/academic-research-skills" target="_blank">
+    
+
+
+      
+        Imbad0202 /
+
+      academic-research-skills</a></p>
+				<p>
+      Academic Research Skills for Claude Code: research → write → review → revise → finalize
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 32352</span>
+						<span>🔱 2660</span>
+					</div>
+				<div class="stars-today">⭐ 24323 stars this month</div>
 				</div>
 			</div>
 	
@@ -338,10 +338,76 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Rust</span>
-						<span>⭐ 6053</span>
-						<span>🔱 360</span>
+						<span>⭐ 6084</span>
+						<span>🔱 362</span>
 					</div>
 				<div class="stars-today">⭐ 5101 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/mukul975/Anthropic-Cybersecurity-Skills" target="_blank">
+    
+
+
+      
+        mukul975 /
+
+      Anthropic-Cybersecurity-Skills</a></p>
+				<p>
+      754 structured cybersecurity skills for AI agents · Mapped to 5 frameworks: MITRE ATT&CK, NIST CSF 2.0, MITRE ATLAS, D3FEND & NIST AI RMF · agentskills.io standard · Works with Claude Code, GitHub Copilot, Codex CLI, Cursor, Gemini CLI & 20+ platforms · 26 security domains · Apache 2.0
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 16046</span>
+						<span>🔱 1953</span>
+					</div>
+				<div class="stars-today">⭐ 9685 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/mvanhorn/last30days-skill" target="_blank">
+    
+
+
+      
+        mvanhorn /
+
+      last30days-skill</a></p>
+				<p>
+      AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 43801</span>
+						<span>🔱 3603</span>
+					</div>
+				<div class="stars-today">⭐ 17678 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/iptv-org/iptv" target="_blank">
+    
+
+
+      
+        iptv-org /
+
+      iptv</a></p>
+				<p>
+      Collection of publicly available IPTV channels from all over the world
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 124766</span>
+						<span>🔱 6770</span>
+					</div>
+				<div class="stars-today">⭐ 7908 stars this month</div>
 				</div>
 			</div>
 	
@@ -360,76 +426,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 10286</span>
-						<span>🔱 1504</span>
+						<span>⭐ 10302</span>
+						<span>🔱 1505</span>
 					</div>
 				<div class="stars-today">⭐ 6222 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/rohitg00/agentmemory" target="_blank">
-    
-
-
-      
-        rohitg00 /
-
-      agentmemory</a></p>
-				<p>
-      #1 Persistent memory for AI coding agents based on real-world benchmarks
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 23214</span>
-						<span>🔱 1912</span>
-					</div>
-				<div class="stars-today">⭐ 13257 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/cursor/plugins" target="_blank">
-    
-
-
-      
-        cursor /
-
-      plugins</a></p>
-				<p>
-      Cursor plugin specification and official plugins
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 2005</span>
-						<span>🔱 152</span>
-					</div>
-				<div class="stars-today">⭐ 1589 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/iii-hq/iii" target="_blank">
-    
-
-
-      
-        iii-hq /
-
-      iii</a></p>
-				<p>
-      Effortlessly compose, extend, and observe every service in real-time for the first time ever.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Rust</span>
-						<span>⭐ 18241</span>
-						<span>🔱 1212</span>
-					</div>
-				<div class="stars-today">⭐ 2566 stars this month</div>
 				</div>
 			</div>
 	
