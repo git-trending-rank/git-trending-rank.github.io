@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2026年第25周
-date: 2026-06-18T08:26:59Z
+date: 2026-06-18T12:42:28Z
 categories:
 - weekly
 keywords:
@@ -14,28 +14,6 @@ keywords:
 	<main class="container">
         <div class="repo-list" id="repoList">
 
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/apple/container" target="_blank">
-    
-
-
-      
-        apple /
-
-      container</a></p>
-				<p>
-      A tool for creating and running Linux containers using lightweight virtual machines on a Mac. It is written in Swift, and optimized for Apple silicon. 
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Swift</span>
-						<span>⭐ 38375</span>
-						<span>🔱 1104</span>
-					</div>
-				<div class="stars-today">⭐ 9735 stars this week</div>
-				</div>
-			</div>
 	
 			<div class="repo-card">
 				<p><a href="https://github.com/NVIDIA/SkillSpector" target="_blank">
@@ -52,8 +30,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 7667</span>
-						<span>🔱 570</span>
+						<span>⭐ 7772</span>
+						<span>🔱 582</span>
 					</div>
 				<div class="stars-today">⭐ 5257 stars this week</div>
 				</div>
@@ -74,32 +52,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Shell</span>
-						<span>⭐ 62565</span>
-						<span>🔱 6802</span>
+						<span>⭐ 62668</span>
+						<span>🔱 6811</span>
 					</div>
 				<div class="stars-today">⭐ 11684 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/phuryn/pm-skills" target="_blank">
-    
-
-
-      
-        phuryn /
-
-      pm-skills</a></p>
-				<p>
-      PM Skills Marketplace: 100+ agentic skills, commands, and plugins — from discovery to strategy, execution, launch, and growth.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 </span>
-						<span>⭐ 19464</span>
-						<span>🔱 1988</span>
-					</div>
-				<div class="stars-today">⭐ 5333 stars this week</div>
 				</div>
 			</div>
 	
@@ -118,10 +74,54 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 125254</span>
-						<span>🔱 6813</span>
+						<span>⭐ 125356</span>
+						<span>🔱 6828</span>
 					</div>
 				<div class="stars-today">⭐ 7355 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/apple/container" target="_blank">
+    
+
+
+      
+        apple /
+
+      container</a></p>
+				<p>
+      A tool for creating and running Linux containers using lightweight virtual machines on a Mac. It is written in Swift, and optimized for Apple silicon. 
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Swift</span>
+						<span>⭐ 38453</span>
+						<span>🔱 1107</span>
+					</div>
+				<div class="stars-today">⭐ 9735 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/phuryn/pm-skills" target="_blank">
+    
+
+
+      
+        phuryn /
+
+      pm-skills</a></p>
+				<p>
+      PM Skills Marketplace: 100+ agentic skills, commands, and plugins — from discovery to strategy, execution, launch, and growth.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 </span>
+						<span>⭐ 19507</span>
+						<span>🔱 1994</span>
+					</div>
+				<div class="stars-today">⭐ 5333 stars this week</div>
 				</div>
 			</div>
 	
@@ -140,10 +140,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 33754</span>
-						<span>🔱 2703</span>
+						<span>⭐ 34005</span>
+						<span>🔱 2721</span>
 					</div>
 				<div class="stars-today">⭐ 6855 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/kenn-io/agentsview" target="_blank">
+    
+
+
+      
+        kenn-io /
+
+      agentsview</a></p>
+				<p>
+      Local-first session search, analytics, insights, and token use statistics for coding agents, supporting Claude Code, Codex, and more than 20 other agents. 
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Go</span>
+						<span>⭐ 2817</span>
+						<span>🔱 243</span>
+					</div>
+				<div class="stars-today">⭐ 1445 stars this week</div>
 				</div>
 			</div>
 	
@@ -162,120 +184,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 32270</span>
-						<span>🔱 2176</span>
+						<span>⭐ 32634</span>
+						<span>🔱 2200</span>
 					</div>
 				<div class="stars-today">⭐ 9475 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/mvanhorn/last30days-skill" target="_blank">
-    
-
-
-      
-        mvanhorn /
-
-      last30days-skill</a></p>
-				<p>
-      AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 44157</span>
-						<span>🔱 3624</span>
-					</div>
-				<div class="stars-today">⭐ 5235 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/music-assistant/server" target="_blank">
-    
-
-
-      
-        music-assistant /
-
-      server</a></p>
-				<p>
-      Music Assistant is a free, opensource Media library manager that connects to your streaming services and a wide range of connected speakers. The server is the beating heart, the core of Music Assistant and must run on an always-on device like a Raspberry Pi, a NAS or an Intel NUC or alike.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 2696</span>
-						<span>🔱 457</span>
-					</div>
-				<div class="stars-today">⭐ 1043 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/asgeirtj/system_prompts_leaks" target="_blank">
-    
-
-
-      
-        asgeirtj /
-
-      system_prompts_leaks</a></p>
-				<p>
-      Extracted system prompts from Anthropic - Claude Fable 5, Opus 4.8, Claude Code, Claude Design. OpenAI - ChatGPT 5.5 Thinking, GPT 5.5 Instant, Codex. Google - Gemini 3.5 Flash, 3.1 Pro, Antigravity. xAI - Grok, Cursor, Copilot, VS Code, Perplexity, and more. Updated regularly.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 JavaScript</span>
-						<span>⭐ 43218</span>
-						<span>🔱 7162</span>
-					</div>
-				<div class="stars-today">⭐ 1506 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/meshery/meshery" target="_blank">
-    
-
-
-      
-        meshery /
-
-      meshery</a></p>
-				<p>
-      Meshery, the cloud native manager
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 11084</span>
-						<span>🔱 3460</span>
-					</div>
-				<div class="stars-today">⭐ 683 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/chatwoot/chatwoot" target="_blank">
-    
-
-
-      
-        chatwoot /
-
-      chatwoot</a></p>
-				<p>
-      Open-source live-chat, email support, omni-channel desk. An alternative to Intercom, Zendesk, Salesforce Service Cloud etc. 🔥💬
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Ruby</span>
-						<span>⭐ 32478</span>
-						<span>🔱 7722</span>
-					</div>
-				<div class="stars-today">⭐ 2166 stars this week</div>
 				</div>
 			</div>
 	
@@ -294,54 +206,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 C</span>
-						<span>⭐ 6105</span>
-						<span>🔱 513</span>
+						<span>⭐ 6511</span>
+						<span>🔱 531</span>
 					</div>
 				<div class="stars-today">⭐ 1097 stars this week</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/mattermost/mattermost" target="_blank">
+				<p><a href="https://github.com/meshery/meshery" target="_blank">
     
 
 
       
-        mattermost /
+        meshery /
 
-      mattermost</a></p>
+      meshery</a></p>
 				<p>
-      Mattermost is an open source platform for secure collaboration across the entire software development lifecycle..
+      Meshery, the cloud native manager
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 38020</span>
-						<span>🔱 8749</span>
+						<span>⭐ 11103</span>
+						<span>🔱 3463</span>
 					</div>
-				<div class="stars-today">⭐ 952 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/microsoft/PowerToys" target="_blank">
-    
-
-
-      
-        microsoft /
-
-      PowerToys</a></p>
-				<p>
-      Microsoft PowerToys is a collection of utilities that supercharge productivity and customization on Windows
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 C</span>
-						<span>⭐ 135190</span>
-						<span>🔱 8113</span>
-					</div>
-				<div class="stars-today">⭐ 1229 stars this week</div>
+				<div class="stars-today">⭐ 683 stars this week</div>
 				</div>
 			</div>
 	
@@ -360,10 +250,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 9299</span>
+						<span>⭐ 9311</span>
 						<span>🔱 1344</span>
 					</div>
 				<div class="stars-today">⭐ 765 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/chatwoot/chatwoot" target="_blank">
+    
+
+
+      
+        chatwoot /
+
+      chatwoot</a></p>
+				<p>
+      Open-source live-chat, email support, omni-channel desk. An alternative to Intercom, Zendesk, Salesforce Service Cloud etc. 🔥💬
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Ruby</span>
+						<span>⭐ 32524</span>
+						<span>🔱 7725</span>
+					</div>
+				<div class="stars-today">⭐ 2166 stars this week</div>
 				</div>
 			</div>
 	
@@ -382,54 +294,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 14197</span>
-						<span>🔱 3190</span>
+						<span>⭐ 14202</span>
+						<span>🔱 3191</span>
 					</div>
 				<div class="stars-today">⭐ 271 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/refactoringhq/tolaria" target="_blank">
-    
-
-
-      
-        refactoringhq /
-
-      tolaria</a></p>
-				<p>
-      Desktop app to manage markdown knowledge bases
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 16674</span>
-						<span>🔱 1153</span>
-					</div>
-				<div class="stars-today">⭐ 2046 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/restic/restic" target="_blank">
-    
-
-
-      
-        restic /
-
-      restic</a></p>
-				<p>
-      Fast, secure, efficient backup program
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Go</span>
-						<span>⭐ 34532</span>
-						<span>🔱 1795</span>
-					</div>
-				<div class="stars-today">⭐ 525 stars this week</div>
 				</div>
 			</div>
 	
@@ -448,10 +316,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 95063</span>
+						<span>⭐ 95070</span>
 						<span>🔱 9454</span>
 					</div>
 				<div class="stars-today">⭐ 541 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/mvanhorn/last30days-skill" target="_blank">
+    
+
+
+      
+        mvanhorn /
+
+      last30days-skill</a></p>
+				<p>
+      AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 44244</span>
+						<span>🔱 3633</span>
+					</div>
+				<div class="stars-today">⭐ 5235 stars this week</div>
 				</div>
 			</div>
 	
@@ -470,8 +360,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 31425</span>
-						<span>🔱 3565</span>
+						<span>⭐ 31473</span>
+						<span>🔱 3567</span>
 					</div>
 				<div class="stars-today">⭐ 2501 stars this week</div>
 				</div>
@@ -492,10 +382,120 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 449270</span>
+						<span>⭐ 449355</span>
 						<span>🔱 45101</span>
 					</div>
 				<div class="stars-today">⭐ 2534 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/microsoft/PowerToys" target="_blank">
+    
+
+
+      
+        microsoft /
+
+      PowerToys</a></p>
+				<p>
+      Microsoft PowerToys is a collection of utilities that supercharge productivity and customization on Windows
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 C</span>
+						<span>⭐ 135201</span>
+						<span>🔱 8114</span>
+					</div>
+				<div class="stars-today">⭐ 1229 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/mattermost/mattermost" target="_blank">
+    
+
+
+      
+        mattermost /
+
+      mattermost</a></p>
+				<p>
+      Mattermost is an open source platform for secure collaboration across the entire software development lifecycle..
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 38030</span>
+						<span>🔱 8751</span>
+					</div>
+				<div class="stars-today">⭐ 952 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/restic/restic" target="_blank">
+    
+
+
+      
+        restic /
+
+      restic</a></p>
+				<p>
+      Fast, secure, efficient backup program
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Go</span>
+						<span>⭐ 34545</span>
+						<span>🔱 1796</span>
+					</div>
+				<div class="stars-today">⭐ 525 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/biomejs/biome" target="_blank">
+    
+
+
+      
+        biomejs /
+
+      biome</a></p>
+				<p>
+      A toolchain for web projects, aimed to provide functionalities to maintain them. Biome offers formatter and linter, usable via CLI and LSP.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Rust</span>
+						<span>⭐ 25098</span>
+						<span>🔱 1031</span>
+					</div>
+				<div class="stars-today">⭐ 137 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/jenkinsci/jenkins" target="_blank">
+    
+
+
+      
+        jenkinsci /
+
+      jenkins</a></p>
+				<p>
+      Jenkins automation server
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Java</span>
+						<span>⭐ 25462</span>
+						<span>🔱 9530</span>
+					</div>
+				<div class="stars-today">⭐ 74 stars this week</div>
 				</div>
 			</div>
 	
