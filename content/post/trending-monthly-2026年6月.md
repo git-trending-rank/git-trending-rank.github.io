@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2026年6月
-date: 2026-06-19T08:54:29Z
+date: 2026-06-19T13:23:46Z
 categories:
 - monthly
 keywords:
@@ -30,32 +30,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 35971</span>
-						<span>🔱 2435</span>
+						<span>⭐ 36856</span>
+						<span>🔱 2505</span>
 					</div>
 				<div class="stars-today">⭐ 30943 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/Egonex-AI/Understand-Anything" target="_blank">
-    
-
-
-      
-        Egonex-AI /
-
-      Understand-Anything</a></p>
-				<p>
-      Graphs that teach > graphs that impress. Turn any code into an interactive knowledge graph you can explore, search, and ask questions about. Works with Claude Code, Codex, Cursor, Copilot, Gemini CLI, and more.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 63750</span>
-						<span>🔱 5274</span>
-					</div>
-				<div class="stars-today">⭐ 48608 stars this month</div>
 				</div>
 			</div>
 	
@@ -74,10 +52,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 89807</span>
-						<span>🔱 12915</span>
+						<span>⭐ 89886</span>
+						<span>🔱 12923</span>
 					</div>
 				<div class="stars-today">⭐ 32867 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/Egonex-AI/Understand-Anything" target="_blank">
+    
+
+
+      
+        Egonex-AI /
+
+      Understand-Anything</a></p>
+				<p>
+      Graphs that teach > graphs that impress. Turn any code into an interactive knowledge graph you can explore, search, and ask questions about. Works with Claude Code, Codex, Cursor, Copilot, Gemini CLI, and more.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 63854</span>
+						<span>🔱 5277</span>
+					</div>
+				<div class="stars-today">⭐ 48608 stars this month</div>
 				</div>
 			</div>
 	
@@ -96,8 +96,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 51761</span>
-						<span>🔱 3151</span>
+						<span>⭐ 51847</span>
+						<span>🔱 3155</span>
 					</div>
 				<div class="stars-today">⭐ 47770 stars this month</div>
 				</div>
@@ -118,8 +118,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Swift</span>
-						<span>⭐ 38692</span>
-						<span>🔱 1111</span>
+						<span>⭐ 38740</span>
+						<span>🔱 1112</span>
 					</div>
 				<div class="stars-today">⭐ 12067 stars this month</div>
 				</div>
@@ -140,8 +140,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 34513</span>
-						<span>🔱 5620</span>
+						<span>⭐ 34587</span>
+						<span>🔱 5635</span>
 					</div>
 				<div class="stars-today">⭐ 26488 stars this month</div>
 				</div>
@@ -162,8 +162,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 </span>
-						<span>⭐ 11349</span>
-						<span>🔱 799</span>
+						<span>⭐ 11372</span>
+						<span>🔱 801</span>
 					</div>
 				<div class="stars-today">⭐ 7666 stars this month</div>
 				</div>
@@ -184,54 +184,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 155768</span>
-						<span>🔱 10822</span>
+						<span>⭐ 155864</span>
+						<span>🔱 10831</span>
 					</div>
 				<div class="stars-today">⭐ 32454 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/can1357/oh-my-pi" target="_blank">
-    
-
-
-      
-        can1357 /
-
-      oh-my-pi</a></p>
-				<p>
-      ⌥ AI Coding agent for the terminal — hash-anchored edits, optimized tool harness, LSP, Python, browser, subagents, and more
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 13423</span>
-						<span>🔱 1180</span>
-					</div>
-				<div class="stars-today">⭐ 8744 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/Leonxlnx/taste-skill" target="_blank">
-    
-
-
-      
-        Leonxlnx /
-
-      taste-skill</a></p>
-				<p>
-      Taste-Skill - gives your AI good taste. stops the AI from generating boring, generic slop 
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 JavaScript</span>
-						<span>⭐ 46768</span>
-						<span>🔱 3249</span>
-					</div>
-				<div class="stars-today">⭐ 28697 stars this month</div>
 				</div>
 			</div>
 	
@@ -250,54 +206,54 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 21248</span>
-						<span>🔱 2487</span>
+						<span>⭐ 21295</span>
+						<span>🔱 2489</span>
 					</div>
 				<div class="stars-today">⭐ 8937 stars this month</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/ogulcancelik/herdr" target="_blank">
+				<p><a href="https://github.com/Leonxlnx/taste-skill" target="_blank">
     
 
 
       
-        ogulcancelik /
+        Leonxlnx /
 
-      herdr</a></p>
+      taste-skill</a></p>
 				<p>
-      agent multiplexer that lives in your terminal.
+      Taste-Skill - gives your AI good taste. stops the AI from generating boring, generic slop 
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Rust</span>
-						<span>⭐ 6287</span>
-						<span>🔱 379</span>
+						<span>🔠 JavaScript</span>
+						<span>⭐ 46874</span>
+						<span>🔱 3255</span>
 					</div>
-				<div class="stars-today">⭐ 4827 stars this month</div>
+				<div class="stars-today">⭐ 28697 stars this month</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/ruvnet/RuView" target="_blank">
+				<p><a href="https://github.com/can1357/oh-my-pi" target="_blank">
     
 
 
       
-        ruvnet /
+        can1357 /
 
-      RuView</a></p>
+      oh-my-pi</a></p>
 				<p>
-      π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.
+      ⌥ AI Coding agent for the terminal — hash-anchored edits, optimized tool harness, LSP, Python, browser, subagents, and more
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Rust</span>
-						<span>⭐ 74623</span>
-						<span>🔱 9946</span>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 13460</span>
+						<span>🔱 1183</span>
 					</div>
-				<div class="stars-today">⭐ 15823 stars this month</div>
+				<div class="stars-today">⭐ 8744 stars this month</div>
 				</div>
 			</div>
 	
@@ -316,8 +272,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 44530</span>
-						<span>🔱 3661</span>
+						<span>⭐ 44599</span>
+						<span>🔱 3673</span>
 					</div>
 				<div class="stars-today">⭐ 18478 stars this month</div>
 				</div>
@@ -338,76 +294,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 16521</span>
-						<span>🔱 1999</span>
+						<span>⭐ 16578</span>
+						<span>🔱 2009</span>
 					</div>
 				<div class="stars-today">⭐ 10037 stars this month</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/rmyndharis/OpenWA" target="_blank">
+				<p><a href="https://github.com/ogulcancelik/herdr" target="_blank">
     
 
 
       
-        rmyndharis /
+        ogulcancelik /
 
-      OpenWA</a></p>
+      herdr</a></p>
 				<p>
-      Free, Open Source, Self-Hosted WhatsApp API Gateway
+      agent multiplexer that lives in your terminal.
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 9506</span>
-						<span>🔱 2052</span>
+						<span>🔠 Rust</span>
+						<span>⭐ 6324</span>
+						<span>🔱 380</span>
 					</div>
-				<div class="stars-today">⭐ 7792 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/Imbad0202/academic-research-skills" target="_blank">
-    
-
-
-      
-        Imbad0202 /
-
-      academic-research-skills</a></p>
-				<p>
-      Academic Research Skills for Claude Code: research → write → review → revise → finalize
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 32823</span>
-						<span>🔱 2689</span>
-					</div>
-				<div class="stars-today">⭐ 22520 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/iptv-org/iptv" target="_blank">
-    
-
-
-      
-        iptv-org /
-
-      iptv</a></p>
-				<p>
-      Collection of publicly available IPTV channels from all over the world
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 125608</span>
-						<span>🔱 6859</span>
-					</div>
-				<div class="stars-today">⭐ 9429 stars this month</div>
+				<div class="stars-today">⭐ 4827 stars this month</div>
 				</div>
 			</div>
 	
@@ -426,10 +338,54 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 34660</span>
-						<span>🔱 2762</span>
+						<span>⭐ 34822</span>
+						<span>🔱 2774</span>
 					</div>
 				<div class="stars-today">⭐ 14403 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/iptv-org/iptv" target="_blank">
+    
+
+
+      
+        iptv-org /
+
+      iptv</a></p>
+				<p>
+      Collection of publicly available IPTV channels from all over the world
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 125657</span>
+						<span>🔱 6863</span>
+					</div>
+				<div class="stars-today">⭐ 9429 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/phuryn/pm-skills" target="_blank">
+    
+
+
+      
+        phuryn /
+
+      pm-skills</a></p>
+				<p>
+      PM Skills Marketplace: 100+ agentic skills, commands, and plugins — from discovery to strategy, execution, launch, and growth.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 </span>
+						<span>⭐ 19696</span>
+						<span>🔱 2010</span>
+					</div>
+				<div class="stars-today">⭐ 8347 stars this month</div>
 				</div>
 			</div>
 	
@@ -448,8 +404,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 JavaScript</span>
-						<span>⭐ 3199</span>
-						<span>🔱 384</span>
+						<span>⭐ 3214</span>
+						<span>🔱 386</span>
 					</div>
 				<div class="stars-today">⭐ 2019 stars this month</div>
 				</div>

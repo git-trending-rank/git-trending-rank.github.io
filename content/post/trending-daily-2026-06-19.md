@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2026-06-19
-date: 2026-06-19T08:54:29Z
+date: 2026-06-19T13:23:45Z
 categories:
 - daily
 keywords:
@@ -14,6 +14,28 @@ keywords:
 	<main class="container">
         <div class="repo-list" id="repoList">
 
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/DeusData/codebase-memory-mcp" target="_blank">
+    
+
+
+      
+        DeusData /
+
+      codebase-memory-mcp</a></p>
+				<p>
+      High-performance code intelligence MCP server. Indexes codebases into a persistent knowledge graph — average repo in milliseconds. 158 languages, sub-ms queries, 99% fewer tokens. Single static binary, zero dependencies.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 C</span>
+						<span>⭐ 7613</span>
+						<span>🔱 591</span>
+					</div>
+				<div class="stars-today">⭐ 1055 stars today</div>
+				</div>
+			</div>
 	
 			<div class="repo-card">
 				<p><a href="https://github.com/google-research/timesfm" target="_blank">
@@ -30,76 +52,142 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 23639</span>
-						<span>🔱 2243</span>
+						<span>⭐ 23875</span>
+						<span>🔱 2253</span>
 					</div>
-				<div class="stars-today">⭐ 844 stars today</div>
+				<div class="stars-today">⭐ 1516 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/n0-computer/iroh" target="_blank">
+				<p><a href="https://github.com/palmier-io/palmier-pro" target="_blank">
     
 
 
       
-        n0-computer /
+        palmier-io /
 
-      iroh</a></p>
+      palmier-pro</a></p>
 				<p>
-      IP addresses break, dial keys instead. Modular networking stack in Rust.
+      macOS video editor built for AI
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Rust</span>
-						<span>⭐ 10098</span>
-						<span>🔱 464</span>
+						<span>🔠 Swift</span>
+						<span>⭐ 1456</span>
+						<span>🔱 164</span>
 					</div>
-				<div class="stars-today">⭐ 369 stars today</div>
+				<div class="stars-today">⭐ 749 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/freeCodeCamp/freeCodeCamp" target="_blank">
+				<p><a href="https://github.com/koala73/worldmonitor" target="_blank">
     
 
 
       
-        freeCodeCamp /
+        koala73 /
 
-      freeCodeCamp</a></p>
+      worldmonitor</a></p>
 				<p>
-      freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming, and computer science for free.
+      Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 449680</span>
-						<span>🔱 45148</span>
+						<span>⭐ 56897</span>
+						<span>🔱 9116</span>
 					</div>
-				<div class="stars-today">⭐ 417 stars today</div>
+				<div class="stars-today">⭐ 133 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/obra/superpowers" target="_blank">
+				<p><a href="https://github.com/aishwaryanr/awesome-generative-ai-guide" target="_blank">
     
 
 
       
-        obra /
+        aishwaryanr /
 
-      superpowers</a></p>
+      awesome-generative-ai-guide</a></p>
 				<p>
-      An agentic skills framework & software development methodology that works.
+      A one stop repository for generative AI research updates, interview resources, notebooks and much more!
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Shell</span>
-						<span>⭐ 232756</span>
-						<span>🔱 20669</span>
+						<span>🔠 HTML</span>
+						<span>⭐ 27454</span>
+						<span>🔱 5735</span>
 					</div>
-				<div class="stars-today">⭐ 1429 stars today</div>
+				<div class="stars-today">⭐ 203 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/BuilderIO/agent-native" target="_blank">
+    
+
+
+      
+        BuilderIO /
+
+      agent-native</a></p>
+				<p>
+      A framework for building agent-native applications.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 838</span>
+						<span>🔱 101</span>
+					</div>
+				<div class="stars-today">⭐ 172 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/chopratejas/headroom" target="_blank">
+    
+
+
+      
+        chopratejas /
+
+      headroom</a></p>
+				<p>
+      Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 60-95% fewer tokens, same answers. Library, proxy, MCP server.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 36856</span>
+						<span>🔱 2505</span>
+					</div>
+				<div class="stars-today">⭐ 3938 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/calesthio/OpenMontage" target="_blank">
+    
+
+
+      
+        calesthio /
+
+      OpenMontage</a></p>
+				<p>
+      World's first open-source, agentic video production system. 12 pipelines, 52 tools, 500+ agent skills. Turn your AI coding assistant into a full video production studio.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 5940</span>
+						<span>🔱 1060</span>
+					</div>
+				<div class="stars-today">⭐ 738 stars today</div>
 				</div>
 			</div>
 	
@@ -118,54 +206,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 </span>
-						<span>⭐ 4298</span>
-						<span>🔱 438</span>
+						<span>⭐ 4370</span>
+						<span>🔱 445</span>
 					</div>
-				<div class="stars-today">⭐ 202 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/DeusData/codebase-memory-mcp" target="_blank">
-    
-
-
-      
-        DeusData /
-
-      codebase-memory-mcp</a></p>
-				<p>
-      High-performance code intelligence MCP server. Indexes codebases into a persistent knowledge graph — average repo in milliseconds. 158 languages, sub-ms queries, 99% fewer tokens. Single static binary, zero dependencies.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 C</span>
-						<span>⭐ 7376</span>
-						<span>🔱 579</span>
-					</div>
-				<div class="stars-today">⭐ 2322 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/alibaba/zvec" target="_blank">
-    
-
-
-      
-        alibaba /
-
-      zvec</a></p>
-				<p>
-      A lightweight, lightning-fast, in-process vector database
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 C++</span>
-						<span>⭐ 11383</span>
-						<span>🔱 660</span>
-					</div>
-				<div class="stars-today">⭐ 259 stars today</div>
+				<div class="stars-today">⭐ 478 stars today</div>
 				</div>
 			</div>
 	
@@ -184,54 +228,76 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 5601</span>
-						<span>🔱 309</span>
+						<span>⭐ 5665</span>
+						<span>🔱 311</span>
 					</div>
-				<div class="stars-today">⭐ 162 stars today</div>
+				<div class="stars-today">⭐ 305 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/Kilo-Org/kilocode" target="_blank">
+				<p><a href="https://github.com/n0-computer/iroh" target="_blank">
     
 
 
       
-        Kilo-Org /
+        n0-computer /
 
-      kilocode</a></p>
+      iroh</a></p>
 				<p>
-      Kilo is the all-in-one agentic engineering platform. Build, ship, and iterate faster with the most popular open source coding agent.
+      IP addresses break, dial keys instead. Modular networking stack in Rust.
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 22473</span>
-						<span>🔱 2715</span>
+						<span>🔠 Rust</span>
+						<span>⭐ 10156</span>
+						<span>🔱 465</span>
 					</div>
-				<div class="stars-today">⭐ 1345 stars today</div>
+				<div class="stars-today">⭐ 307 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/makeplane/plane" target="_blank">
+				<p><a href="https://github.com/obra/superpowers" target="_blank">
     
 
 
       
-        makeplane /
+        obra /
 
-      plane</a></p>
+      superpowers</a></p>
 				<p>
-      🔥🔥🔥 Open-source Jira, Linear, Monday, and ClickUp alternative. Plane is a modern project management platform to manage tasks, sprints, docs, and triage.
+      An agentic skills framework & software development methodology that works.
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 51958</span>
-						<span>🔱 4610</span>
+						<span>🔠 Shell</span>
+						<span>⭐ 232966</span>
+						<span>🔱 20686</span>
 					</div>
-				<div class="stars-today">⭐ 613 stars today</div>
+				<div class="stars-today">⭐ 1113 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/penpot/penpot" target="_blank">
+    
+
+
+      
+        penpot /
+
+      penpot</a></p>
+				<p>
+      Penpot: The open-source design tool for design and code collaboration
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Clojure</span>
+						<span>⭐ 50406</span>
+						<span>🔱 3258</span>
+					</div>
+				<div class="stars-today">⭐ 318 stars today</div>
 				</div>
 			</div>
 	
@@ -250,76 +316,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 38770</span>
-						<span>🔱 2294</span>
+						<span>⭐ 38814</span>
+						<span>🔱 2295</span>
 					</div>
-				<div class="stars-today">⭐ 18 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/Universal-Debloater-Alliance/universal-android-debloater-next-generation" target="_blank">
-    
-
-
-      
-        Universal-Debloater-Alliance /
-
-      universal-android-debloater-next-generation</a></p>
-				<p>
-      Cross-platform GUI written in Rust using ADB to debloat non-rooted Android devices. Improve your privacy, the security and battery life of your device.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Rust</span>
-						<span>⭐ 7995</span>
-						<span>🔱 343</span>
-					</div>
-				<div class="stars-today">⭐ 244 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/dotnet/aspnetcore" target="_blank">
-    
-
-
-      
-        dotnet /
-
-      aspnetcore</a></p>
-				<p>
-      ASP.NET Core is a cross-platform .NET framework for building modern cloud-based web applications on Windows, Mac, or Linux.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 C#</span>
-						<span>⭐ 38123</span>
-						<span>🔱 10712</span>
-					</div>
-				<div class="stars-today">⭐ 14 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/owainlewis/awesome-artificial-intelligence" target="_blank">
-    
-
-
-      
-        owainlewis /
-
-      awesome-artificial-intelligence</a></p>
-				<p>
-      A curated list of Artificial Intelligence (AI) courses, books, video lectures and papers.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 </span>
-						<span>⭐ 14529</span>
-						<span>🔱 2344</span>
-					</div>
-				<div class="stars-today">⭐ 40 stars today</div>
+				<div class="stars-today">⭐ 291 stars today</div>
 				</div>
 			</div>
 	
@@ -338,32 +338,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 7549</span>
-						<span>🔱 1212</span>
+						<span>⭐ 7586</span>
+						<span>🔱 1214</span>
 					</div>
-				<div class="stars-today">⭐ 51 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/LibreTranslate/LibreTranslate" target="_blank">
-    
-
-
-      
-        LibreTranslate /
-
-      LibreTranslate</a></p>
-				<p>
-      Free and Open Source Machine Translation API. Self-hosted, offline capable and easy to setup.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 15071</span>
-						<span>🔱 1537</span>
-					</div>
-				<div class="stars-today">⭐ 51 stars today</div>
+				<div class="stars-today">⭐ 196 stars today</div>
 				</div>
 			</div>
 	

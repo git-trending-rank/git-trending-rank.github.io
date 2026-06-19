@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2026年第25周
-date: 2026-06-19T08:54:29Z
+date: 2026-06-19T13:23:46Z
 categories:
 - weekly
 keywords:
@@ -30,32 +30,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 8022</span>
-						<span>🔱 607</span>
+						<span>⭐ 8108</span>
+						<span>🔱 615</span>
 					</div>
 				<div class="stars-today">⭐ 5505 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/addyosmani/agent-skills" target="_blank">
-    
-
-
-      
-        addyosmani /
-
-      agent-skills</a></p>
-				<p>
-      Production-grade engineering skills for AI coding agents.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Shell</span>
-						<span>⭐ 63090</span>
-						<span>🔱 6845</span>
-					</div>
-				<div class="stars-today">⭐ 9285 stars this week</div>
 				</div>
 			</div>
 	
@@ -74,10 +52,98 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 125608</span>
-						<span>🔱 6859</span>
+						<span>⭐ 125657</span>
+						<span>🔱 6863</span>
 					</div>
 				<div class="stars-today">⭐ 7899 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/DeusData/codebase-memory-mcp" target="_blank">
+    
+
+
+      
+        DeusData /
+
+      codebase-memory-mcp</a></p>
+				<p>
+      High-performance code intelligence MCP server. Indexes codebases into a persistent knowledge graph — average repo in milliseconds. 158 languages, sub-ms queries, 99% fewer tokens. Single static binary, zero dependencies.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 C</span>
+						<span>⭐ 7613</span>
+						<span>🔱 591</span>
+					</div>
+				<div class="stars-today">⭐ 3244 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/Panniantong/Agent-Reach" target="_blank">
+    
+
+
+      
+        Panniantong /
+
+      Agent-Reach</a></p>
+				<p>
+      Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 34822</span>
+						<span>🔱 2774</span>
+					</div>
+				<div class="stars-today">⭐ 7856 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/chopratejas/headroom" target="_blank">
+    
+
+
+      
+        chopratejas /
+
+      headroom</a></p>
+				<p>
+      Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 60-95% fewer tokens, same answers. Library, proxy, MCP server.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 36856</span>
+						<span>🔱 2505</span>
+					</div>
+				<div class="stars-today">⭐ 10159 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/addyosmani/agent-skills" target="_blank">
+    
+
+
+      
+        addyosmani /
+
+      agent-skills</a></p>
+				<p>
+      Production-grade engineering skills for AI coding agents.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Shell</span>
+						<span>⭐ 63184</span>
+						<span>🔱 6854</span>
+					</div>
+				<div class="stars-today">⭐ 9285 stars this week</div>
 				</div>
 			</div>
 	
@@ -96,8 +162,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Swift</span>
-						<span>⭐ 38692</span>
-						<span>🔱 1111</span>
+						<span>⭐ 38740</span>
+						<span>🔱 1112</span>
 					</div>
 				<div class="stars-today">⭐ 7671 stars this week</div>
 				</div>
@@ -118,32 +184,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 </span>
-						<span>⭐ 19649</span>
-						<span>🔱 2007</span>
+						<span>⭐ 19696</span>
+						<span>🔱 2010</span>
 					</div>
 				<div class="stars-today">⭐ 3663 stars this week</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/Panniantong/Agent-Reach" target="_blank">
+				<p><a href="https://github.com/asgeirtj/system_prompts_leaks" target="_blank">
     
 
 
       
-        Panniantong /
+        asgeirtj /
 
-      Agent-Reach</a></p>
+      system_prompts_leaks</a></p>
 				<p>
-      Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.
+      Extracted system prompts from Anthropic - Claude Fable 5, Opus 4.8, Claude Code, Claude Design. OpenAI - ChatGPT 5.5 Thinking, GPT 5.5 Instant, Codex. Google - Gemini 3.5 Flash, 3.1 Pro, Antigravity. xAI - Grok, Cursor, Copilot, VS Code, Perplexity, and more. Updated regularly.
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 34660</span>
-						<span>🔱 2762</span>
+						<span>🔠 JavaScript</span>
+						<span>⭐ 43432</span>
+						<span>🔱 7195</span>
 					</div>
-				<div class="stars-today">⭐ 7856 stars this week</div>
+				<div class="stars-today">⭐ 1705 stars this week</div>
 				</div>
 			</div>
 	
@@ -162,54 +228,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Go</span>
-						<span>⭐ 2895</span>
-						<span>🔱 249</span>
+						<span>⭐ 2914</span>
+						<span>🔱 251</span>
 					</div>
 				<div class="stars-today">⭐ 1382 stars this week</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/chopratejas/headroom" target="_blank">
+				<p><a href="https://github.com/swc-project/swc" target="_blank">
     
 
 
       
-        chopratejas /
+        swc-project /
 
-      headroom</a></p>
+      swc</a></p>
 				<p>
-      Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 60-95% fewer tokens, same answers. Library, proxy, MCP server.
+      Rust-based platform for the Web
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 35971</span>
-						<span>🔱 2435</span>
+						<span>🔠 Rust</span>
+						<span>⭐ 34058</span>
+						<span>🔱 1424</span>
 					</div>
-				<div class="stars-today">⭐ 10159 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/DeusData/codebase-memory-mcp" target="_blank">
-    
-
-
-      
-        DeusData /
-
-      codebase-memory-mcp</a></p>
-				<p>
-      High-performance code intelligence MCP server. Indexes codebases into a persistent knowledge graph — average repo in milliseconds. 158 languages, sub-ms queries, 99% fewer tokens. Single static binary, zero dependencies.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 C</span>
-						<span>⭐ 7376</span>
-						<span>🔱 579</span>
-					</div>
-				<div class="stars-today">⭐ 3244 stars this week</div>
+				<div class="stars-today">⭐ 542 stars this week</div>
 				</div>
 			</div>
 	
@@ -228,10 +272,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 11132</span>
-						<span>🔱 3469</span>
+						<span>⭐ 11137</span>
+						<span>🔱 3471</span>
 					</div>
 				<div class="stars-today">⭐ 848 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/music-assistant/server" target="_blank">
+    
+
+
+      
+        music-assistant /
+
+      server</a></p>
+				<p>
+      Music Assistant is a free, opensource Media library manager that connects to your streaming services and a wide range of connected speakers. The server is the beating heart, the core of Music Assistant and must run on an always-on device like a Raspberry Pi, a NAS or an Intel NUC or alike.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 2700</span>
+						<span>🔱 461</span>
+					</div>
+				<div class="stars-today">⭐ 1081 stars this week</div>
 				</div>
 			</div>
 	
@@ -250,7 +316,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 9368</span>
+						<span>⭐ 9379</span>
 						<span>🔱 1349</span>
 					</div>
 				<div class="stars-today">⭐ 825 stars this week</div>
@@ -258,24 +324,24 @@ keywords:
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/chatwoot/chatwoot" target="_blank">
+				<p><a href="https://github.com/cypress-io/cypress" target="_blank">
     
 
 
       
-        chatwoot /
+        cypress-io /
 
-      chatwoot</a></p>
+      cypress</a></p>
 				<p>
-      Open-source live-chat, email support, omni-channel desk. An alternative to Intercom, Zendesk, Salesforce Service Cloud etc. 🔥💬
+      Fast, easy and reliable testing for anything that runs in a browser.
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Ruby</span>
-						<span>⭐ 32599</span>
-						<span>🔱 7745</span>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 50344</span>
+						<span>🔱 3428</span>
 					</div>
-				<div class="stars-today">⭐ 2422 stars this week</div>
+				<div class="stars-today">⭐ 647 stars this week</div>
 				</div>
 			</div>
 	
@@ -294,54 +360,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 14215</span>
-						<span>🔱 3194</span>
+						<span>⭐ 14221</span>
+						<span>🔱 3196</span>
 					</div>
 				<div class="stars-today">⭐ 297 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/puppeteer/puppeteer" target="_blank">
-    
-
-
-      
-        puppeteer /
-
-      puppeteer</a></p>
-				<p>
-      JavaScript API for Chrome and Firefox
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 95095</span>
-						<span>🔱 9456</span>
-					</div>
-				<div class="stars-today">⭐ 593 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/mvanhorn/last30days-skill" target="_blank">
-    
-
-
-      
-        mvanhorn /
-
-      last30days-skill</a></p>
-				<p>
-      AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 44530</span>
-						<span>🔱 3661</span>
-					</div>
-				<div class="stars-today">⭐ 4827 stars this week</div>
 				</div>
 			</div>
 	
@@ -360,10 +382,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 31686</span>
-						<span>🔱 3601</span>
+						<span>⭐ 31732</span>
+						<span>🔱 3605</span>
 					</div>
 				<div class="stars-today">⭐ 2373 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/puppeteer/puppeteer" target="_blank">
+    
+
+
+      
+        puppeteer /
+
+      puppeteer</a></p>
+				<p>
+      JavaScript API for Chrome and Firefox
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 95107</span>
+						<span>🔱 9456</span>
+					</div>
+				<div class="stars-today">⭐ 593 stars this week</div>
 				</div>
 			</div>
 	
@@ -382,120 +426,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 449680</span>
-						<span>🔱 45148</span>
+						<span>⭐ 449755</span>
+						<span>🔱 45157</span>
 					</div>
 				<div class="stars-today">⭐ 2879 stars this week</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/microsoft/PowerToys" target="_blank">
+				<p><a href="https://github.com/chatwoot/chatwoot" target="_blank">
     
 
 
       
-        microsoft /
+        chatwoot /
 
-      PowerToys</a></p>
+      chatwoot</a></p>
 				<p>
-      Microsoft PowerToys is a collection of utilities that supercharge productivity and customization on Windows
+      Open-source live-chat, email support, omni-channel desk. An alternative to Intercom, Zendesk, Salesforce Service Cloud etc. 🔥💬
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 C</span>
-						<span>⭐ 135251</span>
-						<span>🔱 8120</span>
+						<span>🔠 Ruby</span>
+						<span>⭐ 32628</span>
+						<span>🔱 7753</span>
 					</div>
-				<div class="stars-today">⭐ 1219 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/mattermost/mattermost" target="_blank">
-    
-
-
-      
-        mattermost /
-
-      mattermost</a></p>
-				<p>
-      Mattermost is an open source platform for secure collaboration across the entire software development lifecycle..
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 38062</span>
-						<span>🔱 8754</span>
-					</div>
-				<div class="stars-today">⭐ 937 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/restic/restic" target="_blank">
-    
-
-
-      
-        restic /
-
-      restic</a></p>
-				<p>
-      Fast, secure, efficient backup program
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Go</span>
-						<span>⭐ 34585</span>
-						<span>🔱 1796</span>
-					</div>
-				<div class="stars-today">⭐ 541 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/biomejs/biome" target="_blank">
-    
-
-
-      
-        biomejs /
-
-      biome</a></p>
-				<p>
-      A toolchain for web projects, aimed to provide functionalities to maintain them. Biome offers formatter and linter, usable via CLI and LSP.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Rust</span>
-						<span>⭐ 25143</span>
-						<span>🔱 1033</span>
-					</div>
-				<div class="stars-today">⭐ 147 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/jenkinsci/jenkins" target="_blank">
-    
-
-
-      
-        jenkinsci /
-
-      jenkins</a></p>
-				<p>
-      Jenkins automation server
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Java</span>
-						<span>⭐ 25494</span>
-						<span>🔱 9530</span>
-					</div>
-				<div class="stars-today">⭐ 74 stars this week</div>
+				<div class="stars-today">⭐ 2422 stars this week</div>
 				</div>
 			</div>
 	
