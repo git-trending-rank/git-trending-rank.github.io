@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2026年6月
-date: 2026-06-20T10:22:41Z
+date: 2026-06-20T13:16:06Z
 categories:
 - monthly
 keywords:
@@ -30,8 +30,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 39997</span>
-						<span>🔱 2731</span>
+						<span>⭐ 40539</span>
+						<span>🔱 2761</span>
 					</div>
 				<div class="stars-today">⭐ 34870 stars this month</div>
 				</div>
@@ -52,8 +52,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 90203</span>
-						<span>🔱 12976</span>
+						<span>⭐ 90238</span>
+						<span>🔱 12983</span>
 					</div>
 				<div class="stars-today">⭐ 33118 stars this month</div>
 				</div>
@@ -74,32 +74,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 64265</span>
-						<span>🔱 5317</span>
+						<span>⭐ 64317</span>
+						<span>🔱 5323</span>
 					</div>
 				<div class="stars-today">⭐ 49015 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/colbymchenry/codegraph" target="_blank">
-    
-
-
-      
-        colbymchenry /
-
-      codegraph</a></p>
-				<p>
-      Pre-indexed code knowledge graph, auto syncs on code changes, for Claude Code, Codex, Gemini, Cursor, OpenCode, AntiGravity, Kiro, and Hermes Agent — fewer tokens, fewer tool calls, 100% local
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 52153</span>
-						<span>🔱 3175</span>
-					</div>
-				<div class="stars-today">⭐ 46315 stars this month</div>
 				</div>
 			</div>
 	
@@ -118,10 +96,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Swift</span>
-						<span>⭐ 38964</span>
-						<span>🔱 1117</span>
+						<span>⭐ 38992</span>
+						<span>🔱 1119</span>
 					</div>
 				<div class="stars-today">⭐ 12350 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/colbymchenry/codegraph" target="_blank">
+    
+
+
+      
+        colbymchenry /
+
+      codegraph</a></p>
+				<p>
+      Pre-indexed code knowledge graph, auto syncs on code changes, for Claude Code, Codex, Gemini, Cursor, OpenCode, AntiGravity, Kiro, and Hermes Agent — fewer tokens, fewer tool calls, 100% local
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 52191</span>
+						<span>🔱 3177</span>
+					</div>
+				<div class="stars-today">⭐ 46315 stars this month</div>
 				</div>
 			</div>
 	
@@ -140,8 +140,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 34900</span>
-						<span>🔱 5690</span>
+						<span>⭐ 34950</span>
+						<span>🔱 5699</span>
 					</div>
 				<div class="stars-today">⭐ 26530 stars this month</div>
 				</div>
@@ -162,8 +162,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 </span>
-						<span>⭐ 11504</span>
-						<span>🔱 811</span>
+						<span>⭐ 11523</span>
+						<span>🔱 813</span>
 					</div>
 				<div class="stars-today">⭐ 7775 stars this month</div>
 				</div>
@@ -184,8 +184,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 156280</span>
-						<span>🔱 10869</span>
+						<span>⭐ 156339</span>
+						<span>🔱 10871</span>
 					</div>
 				<div class="stars-today">⭐ 32693 stars this month</div>
 				</div>
@@ -206,8 +206,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 21441</span>
-						<span>🔱 2507</span>
+						<span>⭐ 21455</span>
+						<span>🔱 2510</span>
 					</div>
 				<div class="stars-today">⭐ 9069 stars this month</div>
 				</div>
@@ -228,32 +228,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 JavaScript</span>
-						<span>⭐ 47336</span>
-						<span>🔱 3289</span>
+						<span>⭐ 47419</span>
+						<span>🔱 3293</span>
 					</div>
 				<div class="stars-today">⭐ 29001 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/can1357/oh-my-pi" target="_blank">
-    
-
-
-      
-        can1357 /
-
-      oh-my-pi</a></p>
-				<p>
-      ⌥ AI Coding agent for the terminal — hash-anchored edits, optimized tool harness, LSP, Python, browser, subagents, and more
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 13592</span>
-						<span>🔱 1205</span>
-					</div>
-				<div class="stars-today">⭐ 8619 stars this month</div>
 				</div>
 			</div>
 	
@@ -272,10 +250,54 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 44899</span>
-						<span>🔱 3699</span>
+						<span>⭐ 44932</span>
+						<span>🔱 3703</span>
 					</div>
 				<div class="stars-today">⭐ 18741 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/can1357/oh-my-pi" target="_blank">
+    
+
+
+      
+        can1357 /
+
+      oh-my-pi</a></p>
+				<p>
+      ⌥ AI Coding agent for the terminal — hash-anchored edits, optimized tool harness, LSP, Python, browser, subagents, and more
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 13598</span>
+						<span>🔱 1207</span>
+					</div>
+				<div class="stars-today">⭐ 8619 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/iptv-org/iptv" target="_blank">
+    
+
+
+      
+        iptv-org /
+
+      iptv</a></p>
+				<p>
+      Collection of publicly available IPTV channels from all over the world
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 126023</span>
+						<span>🔱 6886</span>
+					</div>
+				<div class="stars-today">⭐ 9694 stars this month</div>
 				</div>
 			</div>
 	
@@ -294,8 +316,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 16872</span>
-						<span>🔱 2045</span>
+						<span>⭐ 16900</span>
+						<span>🔱 2051</span>
 					</div>
 				<div class="stars-today">⭐ 10210 stars this month</div>
 				</div>
@@ -316,8 +338,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Rust</span>
-						<span>⭐ 6427</span>
-						<span>🔱 393</span>
+						<span>⭐ 6444</span>
+						<span>🔱 395</span>
 					</div>
 				<div class="stars-today">⭐ 4761 stars this month</div>
 				</div>
@@ -338,32 +360,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 35394</span>
-						<span>🔱 2816</span>
+						<span>⭐ 35476</span>
+						<span>🔱 2817</span>
 					</div>
 				<div class="stars-today">⭐ 15107 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/iptv-org/iptv" target="_blank">
-    
-
-
-      
-        iptv-org /
-
-      iptv</a></p>
-				<p>
-      Collection of publicly available IPTV channels from all over the world
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 125966</span>
-						<span>🔱 6884</span>
-					</div>
-				<div class="stars-today">⭐ 9694 stars this month</div>
 				</div>
 			</div>
 	
@@ -382,32 +382,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 </span>
-						<span>⭐ 19932</span>
-						<span>🔱 2028</span>
+						<span>⭐ 19958</span>
+						<span>🔱 2029</span>
 					</div>
 				<div class="stars-today">⭐ 8407 stars this month</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/openai/plugins" target="_blank">
+				<p><a href="https://github.com/DeusData/codebase-memory-mcp" target="_blank">
     
 
 
       
-        openai /
+        DeusData /
 
-      plugins</a></p>
+      codebase-memory-mcp</a></p>
 				<p>
-      OpenAI Plugins
+      High-performance code intelligence MCP server. Indexes codebases into a persistent knowledge graph — average repo in milliseconds. 158 languages, sub-ms queries, 99% fewer tokens. Single static binary, zero dependencies.
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 JavaScript</span>
-						<span>⭐ 3262</span>
-						<span>🔱 385</span>
+						<span>🔠 C</span>
+						<span>⭐ 8851</span>
+						<span>🔱 676</span>
 					</div>
-				<div class="stars-today">⭐ 2068 stars this month</div>
+				<div class="stars-today">⭐ 5450 stars this month</div>
 				</div>
 			</div>
 	

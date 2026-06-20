@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2026年第25周
-date: 2026-06-20T10:22:41Z
+date: 2026-06-20T13:16:06Z
 categories:
 - weekly
 keywords:
@@ -14,50 +14,6 @@ keywords:
 	<main class="container">
         <div class="repo-list" id="repoList">
 
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/NVIDIA/SkillSpector" target="_blank">
-    
-
-
-      
-        NVIDIA /
-
-      SkillSpector</a></p>
-				<p>
-      Security scanner for AI agent skills. Detect vulnerabilities, malicious patterns, and security risks.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 8468</span>
-						<span>🔱 657</span>
-					</div>
-				<div class="stars-today">⭐ 5026 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/iptv-org/iptv" target="_blank">
-    
-
-
-      
-        iptv-org /
-
-      iptv</a></p>
-				<p>
-      Collection of publicly available IPTV channels from all over the world
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 125966</span>
-						<span>🔱 6884</span>
-					</div>
-				<div class="stars-today">⭐ 8035 stars this week</div>
-				</div>
-			</div>
 	
 			<div class="repo-card">
 				<p><a href="https://github.com/DeusData/codebase-memory-mcp" target="_blank">
@@ -74,32 +30,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 C</span>
-						<span>⭐ 8718</span>
-						<span>🔱 665</span>
+						<span>⭐ 8851</span>
+						<span>🔱 676</span>
 					</div>
 				<div class="stars-today">⭐ 4212 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/Panniantong/Agent-Reach" target="_blank">
-    
-
-
-      
-        Panniantong /
-
-      Agent-Reach</a></p>
-				<p>
-      Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 35394</span>
-						<span>🔱 2816</span>
-					</div>
-				<div class="stars-today">⭐ 8324 stars this week</div>
 				</div>
 			</div>
 	
@@ -118,10 +52,98 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 39997</span>
-						<span>🔱 2731</span>
+						<span>⭐ 40539</span>
+						<span>🔱 2761</span>
 					</div>
 				<div class="stars-today">⭐ 12793 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/Panniantong/Agent-Reach" target="_blank">
+    
+
+
+      
+        Panniantong /
+
+      Agent-Reach</a></p>
+				<p>
+      Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 35476</span>
+						<span>🔱 2817</span>
+					</div>
+				<div class="stars-today">⭐ 8324 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/iptv-org/iptv" target="_blank">
+    
+
+
+      
+        iptv-org /
+
+      iptv</a></p>
+				<p>
+      Collection of publicly available IPTV channels from all over the world
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 126023</span>
+						<span>🔱 6886</span>
+					</div>
+				<div class="stars-today">⭐ 8035 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/NVIDIA/SkillSpector" target="_blank">
+    
+
+
+      
+        NVIDIA /
+
+      SkillSpector</a></p>
+				<p>
+      Security scanner for AI agent skills. Detect vulnerabilities, malicious patterns, and security risks.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 8510</span>
+						<span>🔱 658</span>
+					</div>
+				<div class="stars-today">⭐ 5026 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/n0-computer/iroh" target="_blank">
+    
+
+
+      
+        n0-computer /
+
+      iroh</a></p>
+				<p>
+      IP addresses break, dial keys instead. Modular networking stack in Rust.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Rust</span>
+						<span>⭐ 10318</span>
+						<span>🔱 469</span>
+					</div>
+				<div class="stars-today">⭐ 1502 stars this week</div>
 				</div>
 			</div>
 	
@@ -140,54 +162,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Shell</span>
-						<span>⭐ 63744</span>
-						<span>🔱 6896</span>
+						<span>⭐ 63853</span>
+						<span>🔱 6901</span>
 					</div>
 				<div class="stars-today">⭐ 7170 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/apple/container" target="_blank">
-    
-
-
-      
-        apple /
-
-      container</a></p>
-				<p>
-      A tool for creating and running Linux containers using lightweight virtual machines on a Mac. It is written in Swift, and optimized for Apple silicon. 
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Swift</span>
-						<span>⭐ 38964</span>
-						<span>🔱 1117</span>
-					</div>
-				<div class="stars-today">⭐ 4492 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/phuryn/pm-skills" target="_blank">
-    
-
-
-      
-        phuryn /
-
-      pm-skills</a></p>
-				<p>
-      PM Skills Marketplace: 100+ agentic skills, commands, and plugins — from discovery to strategy, execution, launch, and growth.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 </span>
-						<span>⭐ 19932</span>
-						<span>🔱 2028</span>
-					</div>
-				<div class="stars-today">⭐ 3025 stars this week</div>
 				</div>
 			</div>
 	
@@ -206,32 +184,76 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 JavaScript</span>
-						<span>⭐ 43723</span>
-						<span>🔱 7248</span>
+						<span>⭐ 43762</span>
+						<span>🔱 7257</span>
 					</div>
 				<div class="stars-today">⭐ 1682 stars this week</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/kenn-io/agentsview" target="_blank">
+				<p><a href="https://github.com/google-research/timesfm" target="_blank">
     
 
 
       
-        kenn-io /
+        google-research /
 
-      agentsview</a></p>
+      timesfm</a></p>
 				<p>
-      Local-first session search, analytics, insights, and token use statistics for coding agents, supporting Claude Code, Codex, and more than 20 other agents. 
+      TimesFM (Time Series Foundation Model) is a pretrained time-series foundation model developed by Google Research for time-series forecasting.
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Go</span>
-						<span>⭐ 3006</span>
-						<span>🔱 252</span>
+						<span>🔠 Python</span>
+						<span>⭐ 24281</span>
+						<span>🔱 2297</span>
 					</div>
-				<div class="stars-today">⭐ 955 stars this week</div>
+				<div class="stars-today">⭐ 3335 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/phuryn/pm-skills" target="_blank">
+    
+
+
+      
+        phuryn /
+
+      pm-skills</a></p>
+				<p>
+      PM Skills Marketplace: 100+ agentic skills, commands, and plugins — from discovery to strategy, execution, launch, and growth.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 </span>
+						<span>⭐ 19958</span>
+						<span>🔱 2029</span>
+					</div>
+				<div class="stars-today">⭐ 3025 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/meshery/meshery" target="_blank">
+    
+
+
+      
+        meshery /
+
+      meshery</a></p>
+				<p>
+      Meshery, the cloud native manager
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 11161</span>
+						<span>🔱 3471</span>
+					</div>
+				<div class="stars-today">⭐ 879 stars this week</div>
 				</div>
 			</div>
 	
@@ -258,50 +280,6 @@ keywords:
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/meshery/meshery" target="_blank">
-    
-
-
-      
-        meshery /
-
-      meshery</a></p>
-				<p>
-      Meshery, the cloud native manager
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 11157</span>
-						<span>🔱 3471</span>
-					</div>
-				<div class="stars-today">⭐ 879 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/music-assistant/server" target="_blank">
-    
-
-
-      
-        music-assistant /
-
-      server</a></p>
-				<p>
-      Music Assistant is a free, opensource Media library manager that connects to your streaming services and a wide range of connected speakers. The server is the beating heart, the core of Music Assistant and must run on an always-on device like a Raspberry Pi, a NAS or an Intel NUC or alike.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 2726</span>
-						<span>🔱 464</span>
-					</div>
-				<div class="stars-today">⭐ 1081 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
 				<p><a href="https://github.com/LMCache/LMCache" target="_blank">
     
 
@@ -316,32 +294,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 9443</span>
-						<span>🔱 1355</span>
+						<span>⭐ 9451</span>
+						<span>🔱 1356</span>
 					</div>
 				<div class="stars-today">⭐ 876 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/cypress-io/cypress" target="_blank">
-    
-
-
-      
-        cypress-io /
-
-      cypress</a></p>
-				<p>
-      Fast, easy and reliable testing for anything that runs in a browser.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 50378</span>
-						<span>🔱 3428</span>
-					</div>
-				<div class="stars-today">⭐ 648 stars this week</div>
 				</div>
 			</div>
 	
@@ -360,8 +316,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 14233</span>
-						<span>🔱 3199</span>
+						<span>⭐ 14235</span>
+						<span>🔱 3198</span>
 					</div>
 				<div class="stars-today">⭐ 309 stars this week</div>
 				</div>
@@ -382,10 +338,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 31911</span>
-						<span>🔱 3623</span>
+						<span>⭐ 31943</span>
+						<span>🔱 3624</span>
 					</div>
 				<div class="stars-today">⭐ 2381 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/Kong/insomnia" target="_blank">
+    
+
+
+      
+        Kong /
+
+      insomnia</a></p>
+				<p>
+      The open-source, cross-platform API client for GraphQL, REST, WebSockets, SSE and gRPC. With Cloud, Local and Git storage.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 39141</span>
+						<span>🔱 2318</span>
+					</div>
+				<div class="stars-today">⭐ 442 stars this week</div>
 				</div>
 			</div>
 	
@@ -404,32 +382,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 95140</span>
+						<span>⭐ 95145</span>
 						<span>🔱 9459</span>
 					</div>
 				<div class="stars-today">⭐ 620 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/freeCodeCamp/freeCodeCamp" target="_blank">
-    
-
-
-      
-        freeCodeCamp /
-
-      freeCodeCamp</a></p>
-				<p>
-      freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming, and computer science for free.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 449902</span>
-						<span>🔱 45167</span>
-					</div>
-				<div class="stars-today">⭐ 3232 stars this week</div>
 				</div>
 			</div>
 	
@@ -448,10 +404,76 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Ruby</span>
-						<span>⭐ 32819</span>
-						<span>🔱 7782</span>
+						<span>⭐ 32846</span>
+						<span>🔱 7787</span>
 					</div>
 				<div class="stars-today">⭐ 2094 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/withastro/flue" target="_blank">
+    
+
+
+      
+        withastro /
+
+      flue</a></p>
+				<p>
+      The sandbox agent framework.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 5971</span>
+						<span>🔱 334</span>
+					</div>
+				<div class="stars-today">⭐ 850 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/freeCodeCamp/freeCodeCamp" target="_blank">
+    
+
+
+      
+        freeCodeCamp /
+
+      freeCodeCamp</a></p>
+				<p>
+      freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming, and computer science for free.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 449920</span>
+						<span>🔱 45168</span>
+					</div>
+				<div class="stars-today">⭐ 3232 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/makeplane/plane" target="_blank">
+    
+
+
+      
+        makeplane /
+
+      plane</a></p>
+				<p>
+      🔥🔥🔥 Open-source Jira, Linear, Monday, and ClickUp alternative. Plane is a modern project management platform to manage tasks, sprints, docs, and triage.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 52089</span>
+						<span>🔱 4628</span>
+					</div>
+				<div class="stars-today">⭐ 1357 stars this week</div>
 				</div>
 			</div>
 	
