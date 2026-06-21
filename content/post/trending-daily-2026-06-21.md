@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2026-06-21
-date: 2026-06-21T08:17:45Z
+date: 2026-06-21T12:02:23Z
 categories:
 - daily
 keywords:
@@ -30,32 +30,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Swift</span>
-						<span>⭐ 3858</span>
-						<span>🔱 309</span>
+						<span>⭐ 4116</span>
+						<span>🔱 326</span>
 					</div>
 				<div class="stars-today">⭐ 902 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/penpot/penpot" target="_blank">
-    
-
-
-      
-        penpot /
-
-      penpot</a></p>
-				<p>
-      Penpot: The open-source design tool for design and code collaboration
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Clojure</span>
-						<span>⭐ 51759</span>
-						<span>🔱 3314</span>
-					</div>
-				<div class="stars-today">⭐ 420 stars today</div>
 				</div>
 			</div>
 	
@@ -74,120 +52,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 7337</span>
-						<span>🔱 1178</span>
+						<span>⭐ 7548</span>
+						<span>🔱 1199</span>
 					</div>
 				<div class="stars-today">⭐ 677 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/tursodatabase/turso" target="_blank">
-    
-
-
-      
-        tursodatabase /
-
-      turso</a></p>
-				<p>
-      Turso is an in-process SQL database, compatible with SQLite.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Rust</span>
-						<span>⭐ 20462</span>
-						<span>🔱 1044</span>
-					</div>
-				<div class="stars-today">⭐ 801 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/DeusData/codebase-memory-mcp" target="_blank">
-    
-
-
-      
-        DeusData /
-
-      codebase-memory-mcp</a></p>
-				<p>
-      High-performance code intelligence MCP server. Indexes codebases into a persistent knowledge graph — average repo in milliseconds. 158 languages, sub-ms queries, 99% fewer tokens. Single static binary, zero dependencies.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 C</span>
-						<span>⭐ 9652</span>
-						<span>🔱 733</span>
-					</div>
-				<div class="stars-today">⭐ 1271 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/google-research/timesfm" target="_blank">
-    
-
-
-      
-        google-research /
-
-      timesfm</a></p>
-				<p>
-      TimesFM (Time Series Foundation Model) is a pretrained time-series foundation model developed by Google Research for time-series forecasting.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 24670</span>
-						<span>🔱 2343</span>
-					</div>
-				<div class="stars-today">⭐ 433 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/twentyhq/twenty" target="_blank">
-    
-
-
-      
-        twentyhq /
-
-      twenty</a></p>
-				<p>
-      The open alternative to Salesforce, designed for AI.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 50956</span>
-						<span>🔱 7422</span>
-					</div>
-				<div class="stars-today">⭐ 140 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/Kong/insomnia" target="_blank">
-    
-
-
-      
-        Kong /
-
-      insomnia</a></p>
-				<p>
-      The open-source, cross-platform API client for GraphQL, REST, WebSockets, SSE and gRPC. With Cloud, Local and Git storage.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 39430</span>
-						<span>🔱 2331</span>
-					</div>
-				<div class="stars-today">⭐ 329 stars today</div>
 				</div>
 			</div>
 	
@@ -206,54 +74,274 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 42495</span>
-						<span>🔱 2929</span>
+						<span>⭐ 42864</span>
+						<span>🔱 2958</span>
 					</div>
 				<div class="stars-today">⭐ 3795 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/jamiepine/voicebox" target="_blank">
+				<p><a href="https://github.com/tursodatabase/turso" target="_blank">
     
 
 
       
-        jamiepine /
+        tursodatabase /
 
-      voicebox</a></p>
+      turso</a></p>
 				<p>
-      The open-source AI voice studio. Clone, dictate, create.
+      Turso is an in-process SQL database, compatible with SQLite.
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 31152</span>
-						<span>🔱 3848</span>
+						<span>🔠 Rust</span>
+						<span>⭐ 20547</span>
+						<span>🔱 1051</span>
 					</div>
-				<div class="stars-today">⭐ 145 stars today</div>
+				<div class="stars-today">⭐ 801 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/Kilo-Org/kilocode" target="_blank">
+				<p><a href="https://github.com/penpot/penpot" target="_blank">
     
 
 
       
-        Kilo-Org /
+        penpot /
 
-      kilocode</a></p>
+      penpot</a></p>
 				<p>
-      Kilo is the all-in-one agentic engineering platform. Build, ship, and iterate faster with the most popular open source coding agent.
+      Penpot: The open-source design tool for design and code collaboration
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Clojure</span>
+						<span>⭐ 51902</span>
+						<span>🔱 3320</span>
+					</div>
+				<div class="stars-today">⭐ 420 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/ZhuLinsen/daily_stock_analysis" target="_blank">
+    
+
+
+      
+        ZhuLinsen /
+
+      daily_stock_analysis</a></p>
+				<p>
+      LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。 LLM-powered multi-market stock analysis system with multi-source market data, real-time news, decision dashboard, automated notifications, and cost-free scheduled runs.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 43879</span>
+						<span>🔱 41238</span>
+					</div>
+				<div class="stars-today">⭐ 519 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/koala73/worldmonitor" target="_blank">
+    
+
+
+      
+        koala73 /
+
+      worldmonitor</a></p>
+				<p>
+      Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 23476</span>
-						<span>🔱 2749</span>
+						<span>⭐ 57735</span>
+						<span>🔱 9180</span>
 					</div>
-				<div class="stars-today">⭐ 513 stars today</div>
+				<div class="stars-today">⭐ 633 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/bytedance/deer-flow" target="_blank">
+    
+
+
+      
+        bytedance /
+
+      deer-flow</a></p>
+				<p>
+      An open-source long-horizon SuperAgent harness that researches, codes, and creates. With the help of sandboxes, memories, tools, skill, subagents and message gateway, it handles different levels of tasks that could take minutes to hours.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 72234</span>
+						<span>🔱 9795</span>
+					</div>
+				<div class="stars-today">⭐ 415 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/DeusData/codebase-memory-mcp" target="_blank">
+    
+
+
+      
+        DeusData /
+
+      codebase-memory-mcp</a></p>
+				<p>
+      High-performance code intelligence MCP server. Indexes codebases into a persistent knowledge graph — average repo in milliseconds. 158 languages, sub-ms queries, 99% fewer tokens. Single static binary, zero dependencies.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 C</span>
+						<span>⭐ 9806</span>
+						<span>🔱 745</span>
+					</div>
+				<div class="stars-today">⭐ 1271 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/mukul975/Anthropic-Cybersecurity-Skills" target="_blank">
+    
+
+
+      
+        mukul975 /
+
+      Anthropic-Cybersecurity-Skills</a></p>
+				<p>
+      754 structured cybersecurity skills for AI agents · Mapped to 5 frameworks: MITRE ATT&CK, NIST CSF 2.0, MITRE ATLAS, D3FEND & NIST AI RMF · agentskills.io standard · Works with Claude Code, GitHub Copilot, Codex CLI, Cursor, Gemini CLI & 20+ platforms · 26 security domains · Apache 2.0
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 17242</span>
+						<span>🔱 2098</span>
+					</div>
+				<div class="stars-today">⭐ 343 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/mikumifa/biliTickerBuy" target="_blank">
+    
+
+
+      
+        mikumifa /
+
+      biliTickerBuy</a></p>
+				<p>
+      b站会员购购票辅助工具
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 3681</span>
+						<span>🔱 461</span>
+					</div>
+				<div class="stars-today">⭐ 164 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/smicallef/spiderfoot" target="_blank">
+    
+
+
+      
+        smicallef /
+
+      spiderfoot</a></p>
+				<p>
+      SpiderFoot automates OSINT for threat intelligence and mapping your attack surface.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 18565</span>
+						<span>🔱 3092</span>
+					</div>
+				<div class="stars-today">⭐ 288 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/topoteretes/cognee" target="_blank">
+    
+
+
+      
+        topoteretes /
+
+      cognee</a></p>
+				<p>
+      Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions with a self-hosted knowledge graph engine.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 18404</span>
+						<span>🔱 1957</span>
+					</div>
+				<div class="stars-today">⭐ 361 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/byoungd/English-level-up-tips" target="_blank">
+    
+
+
+      
+        byoungd /
+
+      English-level-up-tips</a></p>
+				<p>
+      An advanced guide to learn English which might benefit you a lot 🎉 . 离谱的英语学习指南/英语学习教程/英语学习/学英语
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 </span>
+						<span>⭐ 53875</span>
+						<span>🔱 5549</span>
+					</div>
+				<div class="stars-today">⭐ 121 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/asgeirtj/system_prompts_leaks" target="_blank">
+    
+
+
+      
+        asgeirtj /
+
+      system_prompts_leaks</a></p>
+				<p>
+      Extracted system prompts from Anthropic - Claude Fable 5, Opus 4.8, Claude Code, Claude Design. OpenAI - ChatGPT 5.5 Thinking, GPT 5.5 Instant, Codex. Google - Gemini 3.5 Flash, 3.1 Pro, Antigravity. xAI - Grok, Cursor, Copilot, VS Code, Perplexity, and more. Updated regularly.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 JavaScript</span>
+						<span>⭐ 44016</span>
+						<span>🔱 7290</span>
+					</div>
+				<div class="stars-today">⭐ 352 stars today</div>
 				</div>
 			</div>
 	
@@ -272,98 +360,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Shell</span>
-						<span>⭐ 138637</span>
-						<span>🔱 12028</span>
+						<span>⭐ 138905</span>
+						<span>🔱 12050</span>
 					</div>
 				<div class="stars-today">⭐ 1395 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/withastro/flue" target="_blank">
-    
-
-
-      
-        withastro /
-
-      flue</a></p>
-				<p>
-      The sandbox agent framework.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 6187</span>
-						<span>🔱 348</span>
-					</div>
-				<div class="stars-today">⭐ 316 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/owainlewis/awesome-artificial-intelligence" target="_blank">
-    
-
-
-      
-        owainlewis /
-
-      awesome-artificial-intelligence</a></p>
-				<p>
-      A curated list of Artificial Intelligence (AI) courses, books, video lectures and papers.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 </span>
-						<span>⭐ 14884</span>
-						<span>🔱 2363</span>
-					</div>
-				<div class="stars-today">⭐ 48 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/pppscn/SmsForwarder" target="_blank">
-    
-
-
-      
-        pppscn /
-
-      SmsForwarder</a></p>
-				<p>
-      短信转发器——监控Android手机短信、来电、APP通知，并根据指定规则转发到其他手机：钉钉群自定义机器人、钉钉企业内机器人、企业微信群机器人、飞书机器人、企业微信应用消息、邮箱、bark、webhook、Telegram机器人、Server酱、PushPlus、手机短信等。包括主动控制服务端与客户端，让你轻松远程发短信、查短信、查通话、查话簿、查电量等。（V3.0 新增）PS.这个APK主要是学习与自用，如有BUG请提ISSUE，同时欢迎大家提PR指正
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Kotlin</span>
-						<span>⭐ 26556</span>
-						<span>🔱 3280</span>
-					</div>
-				<div class="stars-today">⭐ 104 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/1jehuang/jcode" target="_blank">
-    
-
-
-      
-        1jehuang /
-
-      jcode</a></p>
-				<p>
-      Coding Agent Harness
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Rust</span>
-						<span>⭐ 7448</span>
-						<span>🔱 828</span>
-					</div>
-				<div class="stars-today">⭐ 87 stars today</div>
 				</div>
 			</div>
 	

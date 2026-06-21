@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2026年第25周
-date: 2026-06-21T08:17:47Z
+date: 2026-06-21T12:02:23Z
 categories:
 - weekly
 keywords:
@@ -30,8 +30,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 C</span>
-						<span>⭐ 9652</span>
-						<span>🔱 733</span>
+						<span>⭐ 9806</span>
+						<span>🔱 745</span>
 					</div>
 				<div class="stars-today">⭐ 5419 stars this week</div>
 				</div>
@@ -52,8 +52,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 42496</span>
-						<span>🔱 2929</span>
+						<span>⭐ 42864</span>
+						<span>🔱 2958</span>
 					</div>
 				<div class="stars-today">⭐ 14982 stars this week</div>
 				</div>
@@ -74,8 +74,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 36228</span>
-						<span>🔱 2881</span>
+						<span>⭐ 36402</span>
+						<span>🔱 2891</span>
 					</div>
 				<div class="stars-today">⭐ 8483 stars this week</div>
 				</div>
@@ -96,32 +96,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 126764</span>
-						<span>🔱 6942</span>
+						<span>⭐ 126880</span>
+						<span>🔱 6952</span>
 					</div>
 				<div class="stars-today">⭐ 7856 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/NVIDIA/SkillSpector" target="_blank">
-    
-
-
-      
-        NVIDIA /
-
-      SkillSpector</a></p>
-				<p>
-      Security scanner for AI agent skills. Detect vulnerabilities, malicious patterns, and security risks.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 8804</span>
-						<span>🔱 684</span>
-					</div>
-				<div class="stars-today">⭐ 4631 stars this week</div>
 				</div>
 			</div>
 	
@@ -140,54 +118,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Rust</span>
-						<span>⭐ 10392</span>
+						<span>⭐ 10403</span>
 						<span>🔱 472</span>
 					</div>
 				<div class="stars-today">⭐ 1621 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/addyosmani/agent-skills" target="_blank">
-    
-
-
-      
-        addyosmani /
-
-      agent-skills</a></p>
-				<p>
-      Production-grade engineering skills for AI coding agents.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Shell</span>
-						<span>⭐ 64381</span>
-						<span>🔱 6952</span>
-					</div>
-				<div class="stars-today">⭐ 6332 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/asgeirtj/system_prompts_leaks" target="_blank">
-    
-
-
-      
-        asgeirtj /
-
-      system_prompts_leaks</a></p>
-				<p>
-      Extracted system prompts from Anthropic - Claude Fable 5, Opus 4.8, Claude Code, Claude Design. OpenAI - ChatGPT 5.5 Thinking, GPT 5.5 Instant, Codex. Google - Gemini 3.5 Flash, 3.1 Pro, Antigravity. xAI - Grok, Cursor, Copilot, VS Code, Perplexity, and more. Updated regularly.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 JavaScript</span>
-						<span>⭐ 43962</span>
-						<span>🔱 7282</span>
-					</div>
-				<div class="stars-today">⭐ 1866 stars this week</div>
 				</div>
 			</div>
 	
@@ -206,208 +140,76 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 24670</span>
-						<span>🔱 2343</span>
+						<span>⭐ 24731</span>
+						<span>🔱 2345</span>
 					</div>
 				<div class="stars-today">⭐ 3655 stars this week</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/phuryn/pm-skills" target="_blank">
+				<p><a href="https://github.com/NVIDIA/SkillSpector" target="_blank">
     
 
 
       
-        phuryn /
+        NVIDIA /
 
-      pm-skills</a></p>
+      SkillSpector</a></p>
 				<p>
-      PM Skills Marketplace: 100+ agentic skills, commands, and plugins — from discovery to strategy, execution, launch, and growth.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 </span>
-						<span>⭐ 20177</span>
-						<span>🔱 2050</span>
-					</div>
-				<div class="stars-today">⭐ 2605 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/meshery/meshery" target="_blank">
-    
-
-
-      
-        meshery /
-
-      meshery</a></p>
-				<p>
-      Meshery, the cloud native manager
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 11190</span>
-						<span>🔱 3474</span>
-					</div>
-				<div class="stars-today">⭐ 898 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/swc-project/swc" target="_blank">
-    
-
-
-      
-        swc-project /
-
-      swc</a></p>
-				<p>
-      Rust-based platform for the Web
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Rust</span>
-						<span>⭐ 34091</span>
-						<span>🔱 1424</span>
-					</div>
-				<div class="stars-today">⭐ 538 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/LMCache/LMCache" target="_blank">
-    
-
-
-      
-        LMCache /
-
-      LMCache</a></p>
-				<p>
-      LMCache: Supercharge Your LLM with the Fastest KV Cache Layer
+      Security scanner for AI agent skills. Detect vulnerabilities, malicious patterns, and security risks.
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 9497</span>
-						<span>🔱 1358</span>
+						<span>⭐ 8869</span>
+						<span>🔱 692</span>
 					</div>
-				<div class="stars-today">⭐ 713 stars this week</div>
+				<div class="stars-today">⭐ 4631 stars this week</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/pytest-dev/pytest" target="_blank">
+				<p><a href="https://github.com/asgeirtj/system_prompts_leaks" target="_blank">
     
 
 
       
-        pytest-dev /
+        asgeirtj /
 
-      pytest</a></p>
+      system_prompts_leaks</a></p>
 				<p>
-      The pytest framework makes it easy to write small tests, yet scales to support complex functional testing
+      Extracted system prompts from Anthropic - Claude Fable 5, Opus 4.8, Claude Code, Claude Design. OpenAI - ChatGPT 5.5 Thinking, GPT 5.5 Instant, Codex. Google - Gemini 3.5 Flash, 3.1 Pro, Antigravity. xAI - Grok, Cursor, Copilot, VS Code, Perplexity, and more. Updated regularly.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 JavaScript</span>
+						<span>⭐ 44016</span>
+						<span>🔱 7290</span>
+					</div>
+				<div class="stars-today">⭐ 1866 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/calesthio/OpenMontage" target="_blank">
+    
+
+
+      
+        calesthio /
+
+      OpenMontage</a></p>
+				<p>
+      World's first open-source, agentic video production system. 12 pipelines, 52 tools, 500+ agent skills. Turn your AI coding assistant into a full video production studio.
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 14249</span>
-						<span>🔱 3199</span>
+						<span>⭐ 7548</span>
+						<span>🔱 1199</span>
 					</div>
-				<div class="stars-today">⭐ 321 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/lfnovo/open-notebook" target="_blank">
-    
-
-
-      
-        lfnovo /
-
-      open-notebook</a></p>
-				<p>
-      An Open Source implementation of Notebook LM with more flexibility and features
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 32138</span>
-						<span>🔱 3638</span>
-					</div>
-				<div class="stars-today">⭐ 2143 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/Kong/insomnia" target="_blank">
-    
-
-
-      
-        Kong /
-
-      insomnia</a></p>
-				<p>
-      The open-source, cross-platform API client for GraphQL, REST, WebSockets, SSE and gRPC. With Cloud, Local and Git storage.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 39430</span>
-						<span>🔱 2331</span>
-					</div>
-				<div class="stars-today">⭐ 657 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/puppeteer/puppeteer" target="_blank">
-    
-
-
-      
-        puppeteer /
-
-      puppeteer</a></p>
-				<p>
-      JavaScript API for Chrome and Firefox
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 95173</span>
-						<span>🔱 9461</span>
-					</div>
-				<div class="stars-today">⭐ 642 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/chatwoot/chatwoot" target="_blank">
-    
-
-
-      
-        chatwoot /
-
-      chatwoot</a></p>
-				<p>
-      Open-source live-chat, email support, omni-channel desk. An alternative to Intercom, Zendesk, Salesforce Service Cloud etc. 🔥💬
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Ruby</span>
-						<span>⭐ 33010</span>
-						<span>🔱 7804</span>
-					</div>
-				<div class="stars-today">⭐ 2233 stars this week</div>
+				<div class="stars-today">⭐ 2253 stars this week</div>
 				</div>
 			</div>
 	
@@ -426,32 +228,76 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 6187</span>
-						<span>🔱 348</span>
+						<span>⭐ 6222</span>
+						<span>🔱 351</span>
 					</div>
 				<div class="stars-today">⭐ 1012 stars this week</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/freeCodeCamp/freeCodeCamp" target="_blank">
+				<p><a href="https://github.com/addyosmani/agent-skills" target="_blank">
     
 
 
       
-        freeCodeCamp /
+        addyosmani /
 
-      freeCodeCamp</a></p>
+      agent-skills</a></p>
 				<p>
-      freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming, and computer science for free.
+      Production-grade engineering skills for AI coding agents.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Shell</span>
+						<span>⭐ 64492</span>
+						<span>🔱 6966</span>
+					</div>
+				<div class="stars-today">⭐ 6332 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/Kong/insomnia" target="_blank">
+    
+
+
+      
+        Kong /
+
+      insomnia</a></p>
+				<p>
+      The open-source, cross-platform API client for GraphQL, REST, WebSockets, SSE and gRPC. With Cloud, Local and Git storage.
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 450004</span>
-						<span>🔱 45177</span>
+						<span>⭐ 39467</span>
+						<span>🔱 2335</span>
 					</div>
-				<div class="stars-today">⭐ 3308 stars this week</div>
+				<div class="stars-today">⭐ 657 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/tursodatabase/turso" target="_blank">
+    
+
+
+      
+        tursodatabase /
+
+      turso</a></p>
+				<p>
+      Turso is an in-process SQL database, compatible with SQLite.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Rust</span>
+						<span>⭐ 20547</span>
+						<span>🔱 1051</span>
+					</div>
+				<div class="stars-today">⭐ 968 stars this week</div>
 				</div>
 			</div>
 	
@@ -470,10 +316,120 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 52231</span>
-						<span>🔱 4642</span>
+						<span>⭐ 52255</span>
+						<span>🔱 4643</span>
 					</div>
 				<div class="stars-today">⭐ 1389 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/LMCache/LMCache" target="_blank">
+    
+
+
+      
+        LMCache /
+
+      LMCache</a></p>
+				<p>
+      LMCache: Supercharge Your LLM with the Fastest KV Cache Layer
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 9508</span>
+						<span>🔱 1362</span>
+					</div>
+				<div class="stars-today">⭐ 713 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/meshery/meshery" target="_blank">
+    
+
+
+      
+        meshery /
+
+      meshery</a></p>
+				<p>
+      Meshery, the cloud native manager
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 11194</span>
+						<span>🔱 3474</span>
+					</div>
+				<div class="stars-today">⭐ 898 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/chatwoot/chatwoot" target="_blank">
+    
+
+
+      
+        chatwoot /
+
+      chatwoot</a></p>
+				<p>
+      Open-source live-chat, email support, omni-channel desk. An alternative to Intercom, Zendesk, Salesforce Service Cloud etc. 🔥💬
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Ruby</span>
+						<span>⭐ 33037</span>
+						<span>🔱 7807</span>
+					</div>
+				<div class="stars-today">⭐ 2233 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/swc-project/swc" target="_blank">
+    
+
+
+      
+        swc-project /
+
+      swc</a></p>
+				<p>
+      Rust-based platform for the Web
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Rust</span>
+						<span>⭐ 34094</span>
+						<span>🔱 1425</span>
+					</div>
+				<div class="stars-today">⭐ 538 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/freeCodeCamp/freeCodeCamp" target="_blank">
+    
+
+
+      
+        freeCodeCamp /
+
+      freeCodeCamp</a></p>
+				<p>
+      freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming, and computer science for free.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 450024</span>
+						<span>🔱 45180</span>
+					</div>
+				<div class="stars-today">⭐ 3308 stars this week</div>
 				</div>
 			</div>
 	
