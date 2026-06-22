@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2026-06-22
-date: 2026-06-22T15:09:19Z
+date: 2026-06-22T19:00:06Z
 categories:
 - daily
 keywords:
@@ -30,8 +30,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 10940</span>
-						<span>🔱 1470</span>
+						<span>⭐ 11474</span>
+						<span>🔱 1510</span>
 					</div>
 				<div class="stars-today">⭐ 2935 stars today</div>
 				</div>
@@ -52,8 +52,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Swift</span>
-						<span>⭐ 6793</span>
-						<span>🔱 478</span>
+						<span>⭐ 7071</span>
+						<span>🔱 493</span>
 					</div>
 				<div class="stars-today">⭐ 2462 stars today</div>
 				</div>
@@ -74,10 +74,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 31926</span>
-						<span>🔱 3916</span>
+						<span>⭐ 32063</span>
+						<span>🔱 3927</span>
 					</div>
-				<div class="stars-today">⭐ 614 stars today</div>
+				<div class="stars-today">⭐ 508 stars today</div>
 				</div>
 			</div>
 	
@@ -91,13 +91,13 @@ keywords:
 
       Anthropic-Cybersecurity-Skills</a></p>
 				<p>
-      754 structured cybersecurity skills for AI agents · Mapped to 5 frameworks: MITRE ATT&CK, NIST CSF 2.0, MITRE ATLAS, D3FEND & NIST AI RMF · agentskills.io standard · Works with Claude Code, GitHub Copilot, Codex CLI, Cursor, Gemini CLI & 20+ platforms · 26 security domains · Apache 2.0
+      817 structured cybersecurity skills for AI agents · Mapped to 6 frameworks: MITRE ATT&CK, NIST CSF 2.0, MITRE ATLAS, D3FEND, NIST AI RMF & MITRE F3 (Fight Fraud) · agentskills.io standard · Works with Claude Code, GitHub Copilot, Codex CLI, Cursor, Gemini CLI & 20+ platforms · 29 security domains · Apache 2.0
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 18309</span>
-						<span>🔱 2185</span>
+						<span>⭐ 18485</span>
+						<span>🔱 2196</span>
 					</div>
 				<div class="stars-today">⭐ 957 stars today</div>
 				</div>
@@ -118,8 +118,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Clojure</span>
-						<span>⭐ 52669</span>
-						<span>🔱 3371</span>
+						<span>⭐ 52762</span>
+						<span>🔱 3376</span>
 					</div>
 				<div class="stars-today">⭐ 730 stars today</div>
 				</div>
@@ -140,10 +140,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 82543</span>
-						<span>🔱 7220</span>
+						<span>⭐ 82715</span>
+						<span>🔱 7227</span>
 					</div>
-				<div class="stars-today">⭐ 394 stars today</div>
+				<div class="stars-today">⭐ 691 stars today</div>
 				</div>
 			</div>
 	
@@ -162,10 +162,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 112800</span>
-						<span>🔱 16752</span>
+						<span>⭐ 112959</span>
+						<span>🔱 16771</span>
 					</div>
-				<div class="stars-today">⭐ 454 stars today</div>
+				<div class="stars-today">⭐ 649 stars today</div>
 				</div>
 			</div>
 	
@@ -184,8 +184,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 29751</span>
-						<span>🔱 2811</span>
+						<span>⭐ 29852</span>
+						<span>🔱 2817</span>
 					</div>
 				<div class="stars-today">⭐ 369 stars today</div>
 				</div>
@@ -206,8 +206,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Rust</span>
-						<span>⭐ 21134</span>
-						<span>🔱 1076</span>
+						<span>⭐ 21290</span>
+						<span>🔱 1082</span>
 					</div>
 				<div class="stars-today">⭐ 538 stars today</div>
 				</div>
@@ -228,8 +228,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 73028</span>
-						<span>🔱 9880</span>
+						<span>⭐ 73119</span>
+						<span>🔱 9883</span>
 					</div>
 				<div class="stars-today">⭐ 736 stars today</div>
 				</div>
@@ -250,8 +250,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 C</span>
-						<span>⭐ 11097</span>
-						<span>🔱 828</span>
+						<span>⭐ 11316</span>
+						<span>🔱 839</span>
 					</div>
 				<div class="stars-today">⭐ 1186 stars today</div>
 				</div>
@@ -272,8 +272,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 45571</span>
-						<span>🔱 41852</span>
+						<span>⭐ 45695</span>
+						<span>🔱 41879</span>
 					</div>
 				<div class="stars-today">⭐ 1560 stars today</div>
 				</div>
@@ -294,10 +294,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 136816</span>
-						<span>🔱 7943</span>
+						<span>⭐ 137015</span>
+						<span>🔱 7950</span>
 					</div>
-				<div class="stars-today">⭐ 513 stars today</div>
+				<div class="stars-today">⭐ 736 stars today</div>
 				</div>
 			</div>
 	
@@ -316,8 +316,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 17499</span>
-						<span>🔱 2726</span>
+						<span>⭐ 17606</span>
+						<span>🔱 2736</span>
 					</div>
 				<div class="stars-today">⭐ 63 stars today</div>
 				</div>
@@ -338,8 +338,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Jupyter Notebook</span>
-						<span>⭐ 20918</span>
-						<span>🔱 2416</span>
+						<span>⭐ 20975</span>
+						<span>🔱 2420</span>
 					</div>
 				<div class="stars-today">⭐ 453 stars today</div>
 				</div>
@@ -360,8 +360,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Shell</span>
-						<span>⭐ 141166</span>
-						<span>🔱 12228</span>
+						<span>⭐ 141400</span>
+						<span>🔱 12238</span>
 					</div>
 				<div class="stars-today">⭐ 2051 stars today</div>
 				</div>
