@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2026年第26周
-date: 2026-06-22T09:33:30Z
+date: 2026-06-22T15:09:19Z
 categories:
 - weekly
 keywords:
@@ -30,10 +30,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 C</span>
-						<span>⭐ 10861</span>
-						<span>🔱 815</span>
+						<span>⭐ 11097</span>
+						<span>🔱 828</span>
 					</div>
 				<div class="stars-today">⭐ 6372 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/calesthio/OpenMontage" target="_blank">
+    
+
+
+      
+        calesthio /
+
+      OpenMontage</a></p>
+				<p>
+      World's first open-source, agentic video production system. 12 pipelines, 52 tools, 500+ agent skills. Turn your AI coding assistant into a full video production studio.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 10940</span>
+						<span>🔱 1470</span>
+					</div>
+				<div class="stars-today">⭐ 2867 stars this week</div>
 				</div>
 			</div>
 	
@@ -52,32 +74,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 37369</span>
-						<span>🔱 2969</span>
+						<span>⭐ 37604</span>
+						<span>🔱 2991</span>
 					</div>
 				<div class="stars-today">⭐ 8233 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/iptv-org/iptv" target="_blank">
-    
-
-
-      
-        iptv-org /
-
-      iptv</a></p>
-				<p>
-      Collection of publicly available IPTV channels from all over the world
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 127289</span>
-						<span>🔱 6991</span>
-					</div>
-				<div class="stars-today">⭐ 7266 stars this week</div>
 				</div>
 			</div>
 	
@@ -96,8 +96,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Rust</span>
-						<span>⭐ 10494</span>
-						<span>🔱 478</span>
+						<span>⭐ 10509</span>
+						<span>🔱 479</span>
 					</div>
 				<div class="stars-today">⭐ 1712 stars this week</div>
 				</div>
@@ -118,32 +118,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 25001</span>
-						<span>🔱 2380</span>
+						<span>⭐ 25059</span>
+						<span>🔱 2384</span>
 					</div>
 				<div class="stars-today">⭐ 4114 stars this week</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/NVIDIA/SkillSpector" target="_blank">
+				<p><a href="https://github.com/iptv-org/iptv" target="_blank">
     
 
 
       
-        NVIDIA /
+        iptv-org /
 
-      SkillSpector</a></p>
+      iptv</a></p>
 				<p>
-      Security scanner for AI agent skills. Detect vulnerabilities, malicious patterns, and security risks.
+      Collection of publicly available IPTV channels from all over the world
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 9204</span>
-						<span>🔱 720</span>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 127396</span>
+						<span>🔱 6995</span>
 					</div>
-				<div class="stars-today">⭐ 4055 stars this week</div>
+				<div class="stars-today">⭐ 7266 stars this week</div>
 				</div>
 			</div>
 	
@@ -162,32 +162,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 JavaScript</span>
-						<span>⭐ 44806</span>
-						<span>🔱 7382</span>
+						<span>⭐ 44895</span>
+						<span>🔱 7396</span>
 					</div>
 				<div class="stars-today">⭐ 1984 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/calesthio/OpenMontage" target="_blank">
-    
-
-
-      
-        calesthio /
-
-      OpenMontage</a></p>
-				<p>
-      World's first open-source, agentic video production system. 12 pipelines, 52 tools, 500+ agent skills. Turn your AI coding assistant into a full video production studio.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 10090</span>
-						<span>🔱 1394</span>
-					</div>
-				<div class="stars-today">⭐ 2867 stars this week</div>
 				</div>
 			</div>
 	
@@ -206,76 +184,76 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 6349</span>
-						<span>🔱 356</span>
+						<span>⭐ 6386</span>
+						<span>🔱 357</span>
 					</div>
 				<div class="stars-today">⭐ 1272 stars this week</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/addyosmani/agent-skills" target="_blank">
+				<p><a href="https://github.com/NVIDIA/SkillSpector" target="_blank">
     
 
 
       
-        addyosmani /
+        NVIDIA /
 
-      agent-skills</a></p>
+      SkillSpector</a></p>
 				<p>
-      Production-grade engineering skills for AI coding agents.
+      Security scanner for AI agent skills. Detect vulnerabilities, malicious patterns, and security risks.
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Shell</span>
-						<span>⭐ 65057</span>
-						<span>🔱 7023</span>
+						<span>🔠 Python</span>
+						<span>⭐ 9289</span>
+						<span>🔱 724</span>
 					</div>
-				<div class="stars-today">⭐ 5610 stars this week</div>
+				<div class="stars-today">⭐ 4055 stars this week</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/Kong/insomnia" target="_blank">
+				<p><a href="https://github.com/teslamate-org/teslamate" target="_blank">
     
 
 
       
-        Kong /
+        teslamate-org /
 
-      insomnia</a></p>
+      teslamate</a></p>
 				<p>
-      The open-source, cross-platform API client for GraphQL, REST, WebSockets, SSE and gRPC. With Cloud, Local and Git storage.
+      A self-hosted data logger for your Tesla 🚘 [main maintainer=@JakobLichterfeld]
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 39535</span>
-						<span>🔱 2340</span>
+						<span>🔠 Elixir</span>
+						<span>⭐ 8559</span>
+						<span>🔱 966</span>
 					</div>
-				<div class="stars-today">⭐ 1006 stars this week</div>
+				<div class="stars-today">⭐ 431 stars this week</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/tursodatabase/turso" target="_blank">
+				<p><a href="https://github.com/penpot/penpot" target="_blank">
     
 
 
       
-        tursodatabase /
+        penpot /
 
-      turso</a></p>
+      penpot</a></p>
 				<p>
-      Turso is an in-process SQL database, compatible with SQLite.
+      Penpot: The open-source design tool for design and code collaboration
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Rust</span>
-						<span>⭐ 21030</span>
-						<span>🔱 1074</span>
+						<span>🔠 Clojure</span>
+						<span>⭐ 52669</span>
+						<span>🔱 3371</span>
 					</div>
-				<div class="stars-today">⭐ 1390 stars this week</div>
+				<div class="stars-today">⭐ 2572 stars this week</div>
 				</div>
 			</div>
 	
@@ -294,98 +272,54 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 52463</span>
-						<span>🔱 4664</span>
+						<span>⭐ 52507</span>
+						<span>🔱 4670</span>
 					</div>
 				<div class="stars-today">⭐ 1514 stars this week</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/LMCache/LMCache" target="_blank">
+				<p><a href="https://github.com/Kong/insomnia" target="_blank">
     
 
 
       
-        LMCache /
+        Kong /
 
-      LMCache</a></p>
+      insomnia</a></p>
 				<p>
-      LMCache: Supercharge Your LLM with the Fastest KV Cache Layer
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 9583</span>
-						<span>🔱 1370</span>
-					</div>
-				<div class="stars-today">⭐ 506 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/meshery/meshery" target="_blank">
-    
-
-
-      
-        meshery /
-
-      meshery</a></p>
-				<p>
-      Meshery, the cloud native manager
+      The open-source, cross-platform API client for GraphQL, REST, WebSockets, SSE and gRPC. With Cloud, Local and Git storage.
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 11239</span>
-						<span>🔱 3478</span>
+						<span>⭐ 39541</span>
+						<span>🔱 2340</span>
 					</div>
-				<div class="stars-today">⭐ 921 stars this week</div>
+				<div class="stars-today">⭐ 1006 stars this week</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/chatwoot/chatwoot" target="_blank">
+				<p><a href="https://github.com/addyosmani/agent-skills" target="_blank">
     
 
 
       
-        chatwoot /
+        addyosmani /
 
-      chatwoot</a></p>
+      agent-skills</a></p>
 				<p>
-      Open-source live-chat, email support, omni-channel desk. An alternative to Intercom, Zendesk, Salesforce Service Cloud etc. 🔥💬
+      Production-grade engineering skills for AI coding agents.
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Ruby</span>
-						<span>⭐ 33199</span>
-						<span>🔱 7825</span>
+						<span>🔠 Shell</span>
+						<span>⭐ 65223</span>
+						<span>🔱 7041</span>
 					</div>
-				<div class="stars-today">⭐ 2036 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/swc-project/swc" target="_blank">
-    
-
-
-      
-        swc-project /
-
-      swc</a></p>
-				<p>
-      Rust-based platform for the Web
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Rust</span>
-						<span>⭐ 34120</span>
-						<span>🔱 1427</span>
-					</div>
-				<div class="stars-today">⭐ 403 stars this week</div>
+				<div class="stars-today">⭐ 5610 stars this week</div>
 				</div>
 			</div>
 	
@@ -404,10 +338,54 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 450142</span>
-						<span>🔱 45197</span>
+						<span>⭐ 450177</span>
+						<span>🔱 45207</span>
 					</div>
 				<div class="stars-today">⭐ 3294 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/koala73/worldmonitor" target="_blank">
+    
+
+
+      
+        koala73 /
+
+      worldmonitor</a></p>
+				<p>
+      Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 58521</span>
+						<span>🔱 9246</span>
+					</div>
+				<div class="stars-today">⭐ 1461 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/LMCache/LMCache" target="_blank">
+    
+
+
+      
+        LMCache /
+
+      LMCache</a></p>
+				<p>
+      LMCache: Supercharge Your LLM with the Fastest KV Cache Layer
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 9596</span>
+						<span>🔱 1371</span>
+					</div>
+				<div class="stars-today">⭐ 506 stars this week</div>
 				</div>
 			</div>
 	
