@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2026-06-23
-date: 2026-06-23T09:26:25Z
+date: 2026-06-23T12:25:44Z
 categories:
 - daily
 keywords:
@@ -30,230 +30,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 13613</span>
-						<span>🔱 1665</span>
+						<span>⭐ 14084</span>
+						<span>🔱 1714</span>
 					</div>
-				<div class="stars-today">⭐ 2938 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/palmier-io/palmier-pro" target="_blank">
-    
-
-
-      
-        palmier-io /
-
-      palmier-pro</a></p>
-				<p>
-      macOS video editor built for AI
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Swift</span>
-						<span>⭐ 8029</span>
-						<span>🔱 527</span>
-					</div>
-				<div class="stars-today">⭐ 2463 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/jamiepine/voicebox" target="_blank">
-    
-
-
-      
-        jamiepine /
-
-      voicebox</a></p>
-				<p>
-      The open-source AI voice studio. Clone, dictate, create.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 32735</span>
-						<span>🔱 3965</span>
-					</div>
-				<div class="stars-today">⭐ 529 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/mukul975/Anthropic-Cybersecurity-Skills" target="_blank">
-    
-
-
-      
-        mukul975 /
-
-      Anthropic-Cybersecurity-Skills</a></p>
-				<p>
-      817 structured cybersecurity skills for AI agents · Mapped to 6 frameworks: MITRE ATT&CK, NIST CSF 2.0, MITRE ATLAS, D3FEND, NIST AI RMF & MITRE F3 (Fight Fraud) · agentskills.io standard · Works with Claude Code, GitHub Copilot, Codex CLI, Cursor, Gemini CLI & 20+ platforms · 29 security domains · Apache 2.0
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 19104</span>
-						<span>🔱 2240</span>
-					</div>
-				<div class="stars-today">⭐ 956 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/penpot/penpot" target="_blank">
-    
-
-
-      
-        penpot /
-
-      penpot</a></p>
-				<p>
-      Penpot: The open-source design tool for design and code collaboration
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Clojure</span>
-						<span>⭐ 53114</span>
-						<span>🔱 3397</span>
-					</div>
-				<div class="stars-today">⭐ 728 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/Stirling-Tools/Stirling-PDF" target="_blank">
-    
-
-
-      
-        Stirling-Tools /
-
-      Stirling-PDF</a></p>
-				<p>
-      #1 PDF Application on GitHub that lets you edit PDFs on any device anywhere
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 83407</span>
-						<span>🔱 7262</span>
-					</div>
-				<div class="stars-today">⭐ 547 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/garrytan/gstack" target="_blank">
-    
-
-
-      
-        garrytan /
-
-      gstack</a></p>
-				<p>
-      Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, and QA
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 113555</span>
-						<span>🔱 16841</span>
-					</div>
-				<div class="stars-today">⭐ 573 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/heygen-com/hyperframes" target="_blank">
-    
-
-
-      
-        heygen-com /
-
-      hyperframes</a></p>
-				<p>
-      Write HTML. Render video. Built for agents.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 30375</span>
-						<span>🔱 2841</span>
-					</div>
-				<div class="stars-today">⭐ 395 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/tursodatabase/turso" target="_blank">
-    
-
-
-      
-        tursodatabase /
-
-      turso</a></p>
-				<p>
-      Turso is an in-process SQL database, compatible with SQLite.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Rust</span>
-						<span>⭐ 21706</span>
-						<span>🔱 1094</span>
-					</div>
-				<div class="stars-today">⭐ 540 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/bytedance/deer-flow" target="_blank">
-    
-
-
-      
-        bytedance /
-
-      deer-flow</a></p>
-				<p>
-      An open-source long-horizon SuperAgent harness that researches, codes, and creates. With the help of sandboxes, memories, tools, skill, subagents and message gateway, it handles different levels of tasks that could take minutes to hours.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 73603</span>
-						<span>🔱 9945</span>
-					</div>
-				<div class="stars-today">⭐ 738 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/DeusData/codebase-memory-mcp" target="_blank">
-    
-
-
-      
-        DeusData /
-
-      codebase-memory-mcp</a></p>
-				<p>
-      High-performance code intelligence MCP server. Indexes codebases into a persistent knowledge graph — average repo in milliseconds. 158 languages, sub-ms queries, 99% fewer tokens. Single static binary, zero dependencies.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 C</span>
-						<span>⭐ 12140</span>
-						<span>🔱 890</span>
-					</div>
-				<div class="stars-today">⭐ 1185 stars today</div>
+				<div class="stars-today">⭐ 3590 stars today</div>
 				</div>
 			</div>
 	
@@ -272,32 +52,208 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 46387</span>
-						<span>🔱 42146</span>
+						<span>⭐ 46545</span>
+						<span>🔱 42207</span>
 					</div>
-				<div class="stars-today">⭐ 1557 stars today</div>
+				<div class="stars-today">⭐ 1121 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/firecrawl/firecrawl" target="_blank">
+				<p><a href="https://github.com/mukul975/Anthropic-Cybersecurity-Skills" target="_blank">
     
 
 
       
-        firecrawl /
+        mukul975 /
 
-      firecrawl</a></p>
+      Anthropic-Cybersecurity-Skills</a></p>
 				<p>
-      The API to search, scrape, and interact with the web at scale. 🔥
+      817 structured cybersecurity skills for AI agents · Mapped to 6 frameworks: MITRE ATT&CK, NIST CSF 2.0, MITRE ATLAS, D3FEND, NIST AI RMF & MITRE F3 (Fight Fraud) · agentskills.io standard · Works with Claude Code, GitHub Copilot, Codex CLI, Cursor, Gemini CLI & 20+ platforms · 29 security domains · Apache 2.0
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 19233</span>
+						<span>🔱 2247</span>
+					</div>
+				<div class="stars-today">⭐ 1040 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/garrytan/gstack" target="_blank">
+    
+
+
+      
+        garrytan /
+
+      gstack</a></p>
+				<p>
+      Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, and QA
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 137777</span>
-						<span>🔱 7973</span>
+						<span>⭐ 113682</span>
+						<span>🔱 16847</span>
 					</div>
-				<div class="stars-today">⭐ 615 stars today</div>
+				<div class="stars-today">⭐ 1012 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/bytedance/deer-flow" target="_blank">
+    
+
+
+      
+        bytedance /
+
+      deer-flow</a></p>
+				<p>
+      An open-source long-horizon SuperAgent harness that researches, codes, and creates. With the help of sandboxes, memories, tools, skill, subagents and message gateway, it handles different levels of tasks that could take minutes to hours.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 73688</span>
+						<span>🔱 9951</span>
+					</div>
+				<div class="stars-today">⭐ 741 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/koala73/worldmonitor" target="_blank">
+    
+
+
+      
+        koala73 /
+
+      worldmonitor</a></p>
+				<p>
+      Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 58780</span>
+						<span>🔱 9265</span>
+					</div>
+				<div class="stars-today">⭐ 279 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/palmier-io/palmier-pro" target="_blank">
+    
+
+
+      
+        palmier-io /
+
+      palmier-pro</a></p>
+				<p>
+      macOS video editor built for AI
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Swift</span>
+						<span>⭐ 8182</span>
+						<span>🔱 536</span>
+					</div>
+				<div class="stars-today">⭐ 1631 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/anthropics/claude-plugins-official" target="_blank">
+    
+
+
+      
+        anthropics /
+
+      claude-plugins-official</a></p>
+				<p>
+      Official, Anthropic-managed directory of high quality Claude Code Plugins.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 30688</span>
+						<span>🔱 3355</span>
+					</div>
+				<div class="stars-today">⭐ 66 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/shanraisshan/claude-code-best-practice" target="_blank">
+    
+
+
+      
+        shanraisshan /
+
+      claude-code-best-practice</a></p>
+				<p>
+      from vibe coding to agentic engineering - practice makes claude perfect
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 HTML</span>
+						<span>⭐ 59061</span>
+						<span>🔱 5964</span>
+					</div>
+				<div class="stars-today">⭐ 329 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/revfactory/harness" target="_blank">
+    
+
+
+      
+        revfactory /
+
+      harness</a></p>
+				<p>
+      A meta-skill that designs domain-specific agent teams, defines specialized agents, and generates the skills they use.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 HTML</span>
+						<span>⭐ 7313</span>
+						<span>🔱 1036</span>
+					</div>
+				<div class="stars-today">⭐ 123 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/jamiepine/voicebox" target="_blank">
+    
+
+
+      
+        jamiepine /
+
+      voicebox</a></p>
+				<p>
+      The open-source AI voice studio. Clone, dictate, create.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 32866</span>
+						<span>🔱 3969</span>
+					</div>
+				<div class="stars-today">⭐ 1042 stars today</div>
 				</div>
 			</div>
 	
@@ -316,54 +272,98 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 18123</span>
-						<span>🔱 2769</span>
+						<span>⭐ 18240</span>
+						<span>🔱 2780</span>
 					</div>
-				<div class="stars-today">⭐ 100 stars today</div>
+				<div class="stars-today">⭐ 827 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/lyogavin/airllm" target="_blank">
+				<p><a href="https://github.com/byoungd/English-level-up-tips" target="_blank">
     
 
 
       
-        lyogavin /
+        byoungd /
 
-      airllm</a></p>
+      English-level-up-tips</a></p>
 				<p>
-      AirLLM 70B inference with single 4GB GPU
+      An advanced guide to learn English which might benefit you a lot 🎉 . 人生进阶指南 离谱的人生 离谱的英语学习指南/英语学习教程/英语学习/学英语
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Jupyter Notebook</span>
-						<span>⭐ 21203</span>
-						<span>🔱 2429</span>
+						<span>🔠 </span>
+						<span>⭐ 54399</span>
+						<span>🔱 5582</span>
 					</div>
-				<div class="stars-today">⭐ 193 stars today</div>
+				<div class="stars-today">⭐ 368 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/mattpocock/skills" target="_blank">
+				<p><a href="https://github.com/DeusData/codebase-memory-mcp" target="_blank">
     
 
 
       
-        mattpocock /
+        DeusData /
 
-      skills</a></p>
+      codebase-memory-mcp</a></p>
 				<p>
-      Skills for Real Engineers. Straight from my .claude directory.
+      High-performance code intelligence MCP server. Indexes codebases into a persistent knowledge graph — average repo in milliseconds. 158 languages, sub-ms queries, 99% fewer tokens. Single static binary, zero dependencies.
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Shell</span>
-						<span>⭐ 142558</span>
-						<span>🔱 12317</span>
+						<span>🔠 C</span>
+						<span>⭐ 12301</span>
+						<span>🔱 900</span>
 					</div>
-				<div class="stars-today">⭐ 2051 stars today</div>
+				<div class="stars-today">⭐ 1299 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/NousResearch/hermes-agent" target="_blank">
+    
+
+
+      
+        NousResearch /
+
+      hermes-agent</a></p>
+				<p>
+      The agent that grows with you
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 200445</span>
+						<span>🔱 35729</span>
+					</div>
+				<div class="stars-today">⭐ 933 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/affaan-m/ECC" target="_blank">
+    
+
+
+      
+        affaan-m /
+
+      ECC</a></p>
+				<p>
+      The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 JavaScript</span>
+						<span>⭐ 220189</span>
+						<span>🔱 33737</span>
+					</div>
+				<div class="stars-today">⭐ 582 stars today</div>
 				</div>
 			</div>
 	
