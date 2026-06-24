@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2026-06-24
-date: 2026-06-24T08:48:45Z
+date: 2026-06-24T12:10:48Z
 categories:
 - daily
 keywords:
@@ -30,10 +30,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 17096</span>
-						<span>🔱 2005</span>
+						<span>⭐ 17704</span>
+						<span>🔱 2043</span>
 					</div>
-				<div class="stars-today">⭐ 3592 stars today</div>
+				<div class="stars-today">⭐ 3703 stars today</div>
 				</div>
 			</div>
 	
@@ -52,208 +52,54 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 47748</span>
-						<span>🔱 42684</span>
+						<span>⭐ 47969</span>
+						<span>🔱 42791</span>
 					</div>
-				<div class="stars-today">⭐ 1119 stars today</div>
+				<div class="stars-today">⭐ 1461 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/mukul975/Anthropic-Cybersecurity-Skills" target="_blank">
+				<p><a href="https://github.com/apple/container" target="_blank">
     
 
 
       
-        mukul975 /
+        apple /
 
-      Anthropic-Cybersecurity-Skills</a></p>
+      container</a></p>
 				<p>
-      817 structured cybersecurity skills for AI agents · Mapped to 6 frameworks: MITRE ATT&CK, NIST CSF 2.0, MITRE ATLAS, D3FEND, NIST AI RMF & MITRE F3 (Fight Fraud) · agentskills.io standard · Works with Claude Code, GitHub Copilot, Codex CLI, Cursor, Gemini CLI & 20+ platforms · 29 security domains · Apache 2.0
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 20146</span>
-						<span>🔱 2338</span>
-					</div>
-				<div class="stars-today">⭐ 1041 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/garrytan/gstack" target="_blank">
-    
-
-
-      
-        garrytan /
-
-      gstack</a></p>
-				<p>
-      Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, and QA
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 114514</span>
-						<span>🔱 16930</span>
-					</div>
-				<div class="stars-today">⭐ 1011 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/bytedance/deer-flow" target="_blank">
-    
-
-
-      
-        bytedance /
-
-      deer-flow</a></p>
-				<p>
-      An open-source long-horizon SuperAgent harness that researches, codes, and creates. With the help of sandboxes, memories, tools, skill, subagents and message gateway, it handles different levels of tasks that could take minutes to hours.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 74200</span>
-						<span>🔱 9997</span>
-					</div>
-				<div class="stars-today">⭐ 739 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/koala73/worldmonitor" target="_blank">
-    
-
-
-      
-        koala73 /
-
-      worldmonitor</a></p>
-				<p>
-      Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 59359</span>
-						<span>🔱 9299</span>
-					</div>
-				<div class="stars-today">⭐ 294 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/palmier-io/palmier-pro" target="_blank">
-    
-
-
-      
-        palmier-io /
-
-      palmier-pro</a></p>
-				<p>
-      macOS video editor built for AI
+      A tool for creating and running Linux containers using lightweight virtual machines on a Mac. It is written in Swift, and optimized for Apple silicon. 
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Swift</span>
-						<span>⭐ 8641</span>
-						<span>🔱 568</span>
+						<span>⭐ 41446</span>
+						<span>🔱 1209</span>
 					</div>
-				<div class="stars-today">⭐ 1630 stars today</div>
+				<div class="stars-today">⭐ 1746 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/anthropics/claude-plugins-official" target="_blank">
+				<p><a href="https://github.com/interviewstreet/hiring-agent" target="_blank">
     
 
 
       
-        anthropics /
+        interviewstreet /
 
-      claude-plugins-official</a></p>
+      hiring-agent</a></p>
 				<p>
-      Official, Anthropic-managed directory of high quality Claude Code Plugins.
+      AI agent to evaluate and score resumes.
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 30983</span>
-						<span>🔱 3369</span>
+						<span>⭐ 1846</span>
+						<span>🔱 565</span>
 					</div>
-				<div class="stars-today">⭐ 77 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/shanraisshan/claude-code-best-practice" target="_blank">
-    
-
-
-      
-        shanraisshan /
-
-      claude-code-best-practice</a></p>
-				<p>
-      from vibe coding to agentic engineering - practice makes claude perfect
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 HTML</span>
-						<span>⭐ 59830</span>
-						<span>🔱 6007</span>
-					</div>
-				<div class="stars-today">⭐ 344 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/revfactory/harness" target="_blank">
-    
-
-
-      
-        revfactory /
-
-      harness</a></p>
-				<p>
-      A meta-skill that designs domain-specific agent teams, defines specialized agents, and generates the skills they use.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 HTML</span>
-						<span>⭐ 7547</span>
-						<span>🔱 1047</span>
-					</div>
-				<div class="stars-today">⭐ 128 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/jamiepine/voicebox" target="_blank">
-    
-
-
-      
-        jamiepine /
-
-      voicebox</a></p>
-				<p>
-      The open-source AI voice studio. Clone, dictate, create.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 33505</span>
-						<span>🔱 4043</span>
-					</div>
-				<div class="stars-today">⭐ 1045 stars today</div>
+				<div class="stars-today">⭐ 152 stars today</div>
 				</div>
 			</div>
 	
@@ -272,54 +118,162 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 18813</span>
-						<span>🔱 2828</span>
+						<span>⭐ 18912</span>
+						<span>🔱 2839</span>
 					</div>
-				<div class="stars-today">⭐ 826 stars today</div>
+				<div class="stars-today">⭐ 693 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/byoungd/English-level-up-tips" target="_blank">
+				<p><a href="https://github.com/revfactory/harness" target="_blank">
     
 
 
       
-        byoungd /
+        revfactory /
 
-      English-level-up-tips</a></p>
+      harness</a></p>
 				<p>
-      An advanced guide to learn English which might benefit you a lot 🎉 . 人生进阶指南 离谱的人生 离谱的英语学习指南/英语学习教程/英语学习/学英语
+      A meta-skill that designs domain-specific agent teams, defines specialized agents, and generates the skills they use.
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 </span>
-						<span>⭐ 54647</span>
-						<span>🔱 5591</span>
+						<span>🔠 HTML</span>
+						<span>⭐ 7578</span>
+						<span>🔱 1050</span>
 					</div>
-				<div class="stars-today">⭐ 125 stars today</div>
+				<div class="stars-today">⭐ 274 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/DeusData/codebase-memory-mcp" target="_blank">
+				<p><a href="https://github.com/flutter/flutter" target="_blank">
     
 
 
       
-        DeusData /
+        flutter /
 
-      codebase-memory-mcp</a></p>
+      flutter</a></p>
 				<p>
-      High-performance code intelligence MCP server. Indexes codebases into a persistent knowledge graph — average repo in milliseconds. 158 languages, sub-ms queries, 99% fewer tokens. Single static binary, zero dependencies.
+      Flutter makes it easy and fast to build beautiful apps for mobile and beyond
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 C</span>
-						<span>⭐ 13571</span>
-						<span>🔱 999</span>
+						<span>🔠 Dart</span>
+						<span>⭐ 177113</span>
+						<span>🔱 30541</span>
 					</div>
-				<div class="stars-today">⭐ 1300 stars today</div>
+				<div class="stars-today">⭐ 44 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/andreknieriem/headunit-revived" target="_blank">
+    
+
+
+      
+        andreknieriem /
+
+      headunit-revived</a></p>
+				<p>
+      Headunit App for displaying Android Auto
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Kotlin</span>
+						<span>⭐ 1355</span>
+						<span>🔱 111</span>
+					</div>
+				<div class="stars-today">⭐ 79 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/stablyai/orca" target="_blank">
+    
+
+
+      
+        stablyai /
+
+      orca</a></p>
+				<p>
+      Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop and mobile.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 6483</span>
+						<span>🔱 474</span>
+					</div>
+				<div class="stars-today">⭐ 265 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/google-labs-code/design.md" target="_blank">
+    
+
+
+      
+        google-labs-code /
+
+      design.md</a></p>
+				<p>
+      A format specification for describing a visual identity to coding agents. DESIGN.md gives agents a persistent, structured understanding of a design system.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 16697</span>
+						<span>🔱 1543</span>
+					</div>
+				<div class="stars-today">⭐ 504 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/Flowseal/zapret-discord-youtube" target="_blank">
+    
+
+
+      
+        Flowseal /
+
+      zapret-discord-youtube</a></p>
+				<p></p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Batchfile</span>
+						<span>⭐ 29972</span>
+						<span>🔱 2338</span>
+					</div>
+				<div class="stars-today">⭐ 103 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/kunchenguid/no-mistakes" target="_blank">
+    
+
+
+      
+        kunchenguid /
+
+      no-mistakes</a></p>
+				<p>
+      git push no-mistakes
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Go</span>
+						<span>⭐ 1754</span>
+						<span>🔱 126</span>
+					</div>
+				<div class="stars-today">⭐ 90 stars today</div>
 				</div>
 			</div>
 	
@@ -338,32 +292,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 201393</span>
-						<span>🔱 35957</span>
+						<span>⭐ 201569</span>
+						<span>🔱 35991</span>
 					</div>
-				<div class="stars-today">⭐ 936 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/affaan-m/ECC" target="_blank">
-    
-
-
-      
-        affaan-m /
-
-      ECC</a></p>
-				<p>
-      The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 JavaScript</span>
-						<span>⭐ 220816</span>
-						<span>🔱 33811</span>
-					</div>
-				<div class="stars-today">⭐ 593 stars today</div>
+				<div class="stars-today">⭐ 1174 stars today</div>
 				</div>
 			</div>
 	

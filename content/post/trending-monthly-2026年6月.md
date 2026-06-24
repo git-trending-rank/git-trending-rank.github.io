@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2026年6月
-date: 2026-06-24T08:48:45Z
+date: 2026-06-24T12:10:48Z
 categories:
 - monthly
 keywords:
@@ -30,8 +30,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 91999</span>
-						<span>🔱 13267</span>
+						<span>⭐ 92077</span>
+						<span>🔱 13286</span>
 					</div>
 				<div class="stars-today">⭐ 34657 stars this month</div>
 				</div>
@@ -52,54 +52,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Swift</span>
-						<span>⭐ 41272</span>
-						<span>🔱 1205</span>
+						<span>⭐ 41446</span>
+						<span>🔱 1209</span>
 					</div>
 				<div class="stars-today">⭐ 13245 stars this month</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/Egonex-AI/Understand-Anything" target="_blank">
+				<p><a href="https://github.com/DeusData/codebase-memory-mcp" target="_blank">
     
 
 
       
-        Egonex-AI /
+        DeusData /
 
-      Understand-Anything</a></p>
+      codebase-memory-mcp</a></p>
 				<p>
-      Graphs that teach > graphs that impress. Turn any code into an interactive knowledge graph you can explore, search, and ask questions about. Works with Claude Code, Codex, Cursor, Copilot, Gemini CLI, and more.
+      High-performance code intelligence MCP server. Indexes codebases into a persistent knowledge graph — average repo in milliseconds. 158 languages, sub-ms queries, 99% fewer tokens. Single static binary, zero dependencies.
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 67130</span>
-						<span>🔱 5568</span>
+						<span>🔠 C</span>
+						<span>⭐ 13747</span>
+						<span>🔱 1012</span>
 					</div>
-				<div class="stars-today">⭐ 47200 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/esengine/DeepSeek-Reasonix" target="_blank">
-    
-
-
-      
-        esengine /
-
-      DeepSeek-Reasonix</a></p>
-				<p>
-      DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability — leave it running.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Go</span>
-						<span>⭐ 24266</span>
-						<span>🔱 1474</span>
-					</div>
-				<div class="stars-today">⭐ 18605 stars this month</div>
+				<div class="stars-today">⭐ 9877 stars this month</div>
 				</div>
 			</div>
 	
@@ -118,8 +96,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 46216</span>
-						<span>🔱 3835</span>
+						<span>⭐ 46256</span>
+						<span>🔱 3838</span>
 					</div>
 				<div class="stars-today">⭐ 19931 stars this month</div>
 				</div>
@@ -140,32 +118,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 158434</span>
-						<span>🔱 11065</span>
+						<span>⭐ 158505</span>
+						<span>🔱 11073</span>
 					</div>
 				<div class="stars-today">⭐ 33958 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/DeusData/codebase-memory-mcp" target="_blank">
-    
-
-
-      
-        DeusData /
-
-      codebase-memory-mcp</a></p>
-				<p>
-      High-performance code intelligence MCP server. Indexes codebases into a persistent knowledge graph — average repo in milliseconds. 158 languages, sub-ms queries, 99% fewer tokens. Single static binary, zero dependencies.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 C</span>
-						<span>⭐ 13571</span>
-						<span>🔱 999</span>
-					</div>
-				<div class="stars-today">⭐ 9877 stars this month</div>
 				</div>
 			</div>
 	
@@ -184,32 +140,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 128116</span>
-						<span>🔱 7047</span>
+						<span>⭐ 128152</span>
+						<span>🔱 7058</span>
 					</div>
 				<div class="stars-today">⭐ 11820 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/Leonxlnx/taste-skill" target="_blank">
-    
-
-
-      
-        Leonxlnx /
-
-      taste-skill</a></p>
-				<p>
-      Taste-Skill - gives your AI good taste. stops the AI from generating boring, generic slop 
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 JavaScript</span>
-						<span>⭐ 49917</span>
-						<span>🔱 3452</span>
-					</div>
-				<div class="stars-today">⭐ 30994 stars this month</div>
 				</div>
 			</div>
 	
@@ -228,10 +162,120 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 39053</span>
-						<span>🔱 3093</span>
+						<span>⭐ 39289</span>
+						<span>🔱 3112</span>
 					</div>
 				<div class="stars-today">⭐ 18432 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/microsoft/Webwright" target="_blank">
+    
+
+
+      
+        microsoft /
+
+      Webwright</a></p>
+				<p>
+      A simple SWE style browser agent framework that achieves SOTA results on long horizon web tasks. 
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 5555</span>
+						<span>🔱 353</span>
+					</div>
+				<div class="stars-today">⭐ 5554 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/esengine/DeepSeek-Reasonix" target="_blank">
+    
+
+
+      
+        esengine /
+
+      DeepSeek-Reasonix</a></p>
+				<p>
+      DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability — leave it running.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Go</span>
+						<span>⭐ 24317</span>
+						<span>🔱 1477</span>
+					</div>
+				<div class="stars-today">⭐ 18605 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/Egonex-AI/Understand-Anything" target="_blank">
+    
+
+
+      
+        Egonex-AI /
+
+      Understand-Anything</a></p>
+				<p>
+      Graphs that teach > graphs that impress. Turn any code into an interactive knowledge graph you can explore, search, and ask questions about. Works with Claude Code, Codex, Cursor, Copilot, Gemini CLI, and more.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 67209</span>
+						<span>🔱 5575</span>
+					</div>
+				<div class="stars-today">⭐ 47200 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/Leonxlnx/taste-skill" target="_blank">
+    
+
+
+      
+        Leonxlnx /
+
+      taste-skill</a></p>
+				<p>
+      Taste-Skill - gives your AI good taste. stops the AI from generating boring, generic slop 
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 JavaScript</span>
+						<span>⭐ 50015</span>
+						<span>🔱 3461</span>
+					</div>
+				<div class="stars-today">⭐ 30994 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/calesthio/OpenMontage" target="_blank">
+    
+
+
+      
+        calesthio /
+
+      OpenMontage</a></p>
+				<p>
+      World's first open-source, agentic video production system. 12 pipelines, 52 tools, 500+ agent skills. Turn your AI coding assistant into a full video production studio.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 17704</span>
+						<span>🔱 2043</span>
+					</div>
+				<div class="stars-today">⭐ 10896 stars this month</div>
 				</div>
 			</div>
 	
@@ -250,32 +294,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 53939</span>
-						<span>🔱 3303</span>
+						<span>⭐ 54024</span>
+						<span>🔱 3305</span>
 					</div>
 				<div class="stars-today">⭐ 35847 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/hardikpandya/stop-slop" target="_blank">
-    
-
-
-      
-        hardikpandya /
-
-      stop-slop</a></p>
-				<p>
-      A skill file for removing AI tells from prose
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 </span>
-						<span>⭐ 12072</span>
-						<span>🔱 843</span>
-					</div>
-				<div class="stars-today">⭐ 8277 stars this month</div>
 				</div>
 			</div>
 	
@@ -294,10 +316,54 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 32983</span>
-						<span>🔱 3719</span>
+						<span>⭐ 33018</span>
+						<span>🔱 3721</span>
 					</div>
 				<div class="stars-today">⭐ 9242 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/phuryn/pm-skills" target="_blank">
+    
+
+
+      
+        phuryn /
+
+      pm-skills</a></p>
+				<p>
+      PM Skills Marketplace: 100+ agentic skills, commands, and plugins — from discovery to strategy, execution, launch, and growth.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 </span>
+						<span>⭐ 20844</span>
+						<span>🔱 2117</span>
+					</div>
+				<div class="stars-today">⭐ 9238 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/hardikpandya/stop-slop" target="_blank">
+    
+
+
+      
+        hardikpandya /
+
+      stop-slop</a></p>
+				<p>
+      A skill file for removing AI tells from prose
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 </span>
+						<span>⭐ 12092</span>
+						<span>🔱 843</span>
+					</div>
+				<div class="stars-today">⭐ 8277 stars this month</div>
 				</div>
 			</div>
 	
@@ -316,8 +382,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 11923</span>
-						<span>🔱 1854</span>
+						<span>⭐ 11969</span>
+						<span>🔱 1859</span>
 					</div>
 				<div class="stars-today">⭐ 7487 stars this month</div>
 				</div>
@@ -338,32 +404,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 14413</span>
-						<span>🔱 1256</span>
+						<span>⭐ 14440</span>
+						<span>🔱 1258</span>
 					</div>
 				<div class="stars-today">⭐ 7797 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/phuryn/pm-skills" target="_blank">
-    
-
-
-      
-        phuryn /
-
-      pm-skills</a></p>
-				<p>
-      PM Skills Marketplace: 100+ agentic skills, commands, and plugins — from discovery to strategy, execution, launch, and growth.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 </span>
-						<span>⭐ 20819</span>
-						<span>🔱 2114</span>
-					</div>
-				<div class="stars-today">⭐ 9238 stars this month</div>
 				</div>
 			</div>
 	
@@ -382,8 +426,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 20146</span>
-						<span>🔱 2338</span>
+						<span>⭐ 20278</span>
+						<span>🔱 2353</span>
 					</div>
 				<div class="stars-today">⭐ 12440 stars this month</div>
 				</div>
@@ -404,8 +448,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 JavaScript</span>
-						<span>⭐ 3459</span>
-						<span>🔱 411</span>
+						<span>⭐ 3463</span>
+						<span>🔱 410</span>
 					</div>
 				<div class="stars-today">⭐ 2211 stars this month</div>
 				</div>
@@ -426,32 +470,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Rust</span>
-						<span>⭐ 7003</span>
-						<span>🔱 430</span>
+						<span>⭐ 7029</span>
+						<span>🔱 431</span>
 					</div>
 				<div class="stars-today">⭐ 4755 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/rohitg00/ai-engineering-from-scratch" target="_blank">
-    
-
-
-      
-        rohitg00 /
-
-      ai-engineering-from-scratch</a></p>
-				<p>
-      Learn it. Build it. Ship it for others.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 36106</span>
-						<span>🔱 5906</span>
-					</div>
-				<div class="stars-today">⭐ 23225 stars this month</div>
 				</div>
 			</div>
 	
@@ -470,10 +492,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Rust</span>
-						<span>⭐ 10860</span>
-						<span>🔱 713</span>
+						<span>⭐ 10886</span>
+						<span>🔱 715</span>
 					</div>
 				<div class="stars-today">⭐ 5616 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/supermemoryai/supermemory" target="_blank">
+    
+
+
+      
+        supermemoryai /
+
+      supermemory</a></p>
+				<p>
+      Memory and context engine + app that is extremely fast, scalable, and can be run fully locally. The Memory API for the AI era.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 27369</span>
+						<span>🔱 2381</span>
+					</div>
+				<div class="stars-today">⭐ 4792 stars this month</div>
 				</div>
 			</div>
 	
