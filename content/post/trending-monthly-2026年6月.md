@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2026年6月
-date: 2026-06-26T10:39:28Z
+date: 2026-06-26T13:51:16Z
 categories:
 - monthly
 keywords:
@@ -14,28 +14,6 @@ keywords:
 	<main class="container">
         <div class="repo-list" id="repoList">
 
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/harry0703/MoneyPrinterTurbo" target="_blank">
-    
-
-
-      
-        harry0703 /
-
-      MoneyPrinterTurbo</a></p>
-				<p>
-      利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 92961</span>
-						<span>🔱 13449</span>
-					</div>
-				<div class="stars-today">⭐ 35397 stars this month</div>
-				</div>
-			</div>
 	
 			<div class="repo-card">
 				<p><a href="https://github.com/apple/container" target="_blank">
@@ -52,32 +30,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Swift</span>
-						<span>⭐ 43481</span>
-						<span>🔱 1276</span>
+						<span>⭐ 43542</span>
+						<span>🔱 1279</span>
 					</div>
 				<div class="stars-today">⭐ 16509 stars this month</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/DeusData/codebase-memory-mcp" target="_blank">
+				<p><a href="https://github.com/harry0703/MoneyPrinterTurbo" target="_blank">
     
 
 
       
-        DeusData /
+        harry0703 /
 
-      codebase-memory-mcp</a></p>
+      MoneyPrinterTurbo</a></p>
 				<p>
-      High-performance code intelligence MCP server. Indexes codebases into a persistent knowledge graph — average repo in milliseconds. 158 languages, sub-ms queries, 99% fewer tokens. Single static binary, zero dependencies.
+      利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM.
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 C</span>
-						<span>⭐ 15082</span>
-						<span>🔱 1108</span>
+						<span>🔠 Python</span>
+						<span>⭐ 93037</span>
+						<span>🔱 13465</span>
 					</div>
-				<div class="stars-today">⭐ 11956 stars this month</div>
+				<div class="stars-today">⭐ 35397 stars this month</div>
 				</div>
 			</div>
 	
@@ -96,32 +74,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 22927</span>
-						<span>🔱 2552</span>
+						<span>⭐ 23086</span>
+						<span>🔱 2567</span>
 					</div>
 				<div class="stars-today">⭐ 17703 stars this month</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/mvanhorn/last30days-skill" target="_blank">
+				<p><a href="https://github.com/DeusData/codebase-memory-mcp" target="_blank">
     
 
 
       
-        mvanhorn /
+        DeusData /
 
-      last30days-skill</a></p>
+      codebase-memory-mcp</a></p>
 				<p>
-      AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary
+      High-performance code intelligence MCP server. Indexes codebases into a persistent knowledge graph — average repo in milliseconds. 158 languages, sub-ms queries, 99% fewer tokens. Single static binary, zero dependencies.
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 46822</span>
-						<span>🔱 3879</span>
+						<span>🔠 C</span>
+						<span>⭐ 15172</span>
+						<span>🔱 1114</span>
 					</div>
-				<div class="stars-today">⭐ 20428 stars this month</div>
+				<div class="stars-today">⭐ 11956 stars this month</div>
 				</div>
 			</div>
 	
@@ -140,10 +118,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 41786</span>
-						<span>🔱 3321</span>
+						<span>⭐ 41921</span>
+						<span>🔱 3329</span>
 					</div>
 				<div class="stars-today">⭐ 20822 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/mvanhorn/last30days-skill" target="_blank">
+    
+
+
+      
+        mvanhorn /
+
+      last30days-skill</a></p>
+				<p>
+      AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 46839</span>
+						<span>🔱 3882</span>
+					</div>
+				<div class="stars-today">⭐ 20428 stars this month</div>
 				</div>
 			</div>
 	
@@ -162,8 +162,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 128582</span>
-						<span>🔱 7089</span>
+						<span>⭐ 128600</span>
+						<span>🔱 7091</span>
 					</div>
 				<div class="stars-today">⭐ 12377 stars this month</div>
 				</div>
@@ -184,8 +184,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 159360</span>
-						<span>🔱 11146</span>
+						<span>⭐ 159395</span>
+						<span>🔱 11152</span>
 					</div>
 				<div class="stars-today">⭐ 34611 stars this month</div>
 				</div>
@@ -206,8 +206,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 33416</span>
-						<span>🔱 3753</span>
+						<span>⭐ 33439</span>
+						<span>🔱 3754</span>
 					</div>
 				<div class="stars-today">⭐ 9696 stars this month</div>
 				</div>
@@ -228,7 +228,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 </span>
-						<span>⭐ 21169</span>
+						<span>⭐ 21184</span>
 						<span>🔱 2144</span>
 					</div>
 				<div class="stars-today">⭐ 9534 stars this month</div>
@@ -250,10 +250,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 JavaScript</span>
-						<span>⭐ 51262</span>
-						<span>🔱 3530</span>
+						<span>⭐ 51323</span>
+						<span>🔱 3535</span>
 					</div>
 				<div class="stars-today">⭐ 31799 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/openai/plugins" target="_blank">
+    
+
+
+      
+        openai /
+
+      plugins</a></p>
+				<p>
+      OpenAI Plugins
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 JavaScript</span>
+						<span>⭐ 3592</span>
+						<span>🔱 416</span>
+					</div>
+				<div class="stars-today">⭐ 2318 stars this month</div>
 				</div>
 			</div>
 	
@@ -272,10 +294,76 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Go</span>
-						<span>⭐ 24842</span>
-						<span>🔱 1505</span>
+						<span>⭐ 24877</span>
+						<span>🔱 1506</span>
 					</div>
 				<div class="stars-today">⭐ 16846 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/mukul975/Anthropic-Cybersecurity-Skills" target="_blank">
+    
+
+
+      
+        mukul975 /
+
+      Anthropic-Cybersecurity-Skills</a></p>
+				<p>
+      817 structured cybersecurity skills for AI agents · Mapped to 6 frameworks: MITRE ATT&CK, NIST CSF 2.0, MITRE ATLAS, D3FEND, NIST AI RMF & MITRE F3 (Fight Fraud) · agentskills.io standard · Works with Claude Code, GitHub Copilot, Codex CLI, Cursor, Gemini CLI & 20+ platforms · 29 security domains · Apache 2.0
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 21641</span>
+						<span>🔱 2484</span>
+					</div>
+				<div class="stars-today">⭐ 12170 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/tashfeenahmed/freellmapi" target="_blank">
+    
+
+
+      
+        tashfeenahmed /
+
+      freellmapi</a></p>
+				<p>
+      OpenAI-compatible proxy that stacks the free tiers of 16 LLM providers (~1.7B tokens/month) behind one /v1 endpoint — plus any custom OpenAI-compatible endpoint. Smart routing, automatic failover, encrypted keys. Personal experimentation only.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 13019</span>
+						<span>🔱 1973</span>
+					</div>
+				<div class="stars-today">⭐ 7440 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/can1357/oh-my-pi" target="_blank">
+    
+
+
+      
+        can1357 /
+
+      oh-my-pi</a></p>
+				<p>
+      ⌥ AI Coding agent for the terminal — hash-anchored edits, optimized tool harness, LSP, Python, browser, subagents, and more
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 14750</span>
+						<span>🔱 1294</span>
+					</div>
+				<div class="stars-today">⭐ 7513 stars this month</div>
 				</div>
 			</div>
 	
@@ -294,8 +382,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 68181</span>
-						<span>🔱 5640</span>
+						<span>⭐ 68227</span>
+						<span>🔱 5643</span>
 					</div>
 				<div class="stars-today">⭐ 38487 stars this month</div>
 				</div>
@@ -316,142 +404,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 54831</span>
-						<span>🔱 3366</span>
+						<span>⭐ 54896</span>
+						<span>🔱 3374</span>
 					</div>
 				<div class="stars-today">⭐ 30518 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/openai/plugins" target="_blank">
-    
-
-
-      
-        openai /
-
-      plugins</a></p>
-				<p>
-      OpenAI Plugins
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 JavaScript</span>
-						<span>⭐ 3587</span>
-						<span>🔱 416</span>
-					</div>
-				<div class="stars-today">⭐ 2318 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/tashfeenahmed/freellmapi" target="_blank">
-    
-
-
-      
-        tashfeenahmed /
-
-      freellmapi</a></p>
-				<p>
-      OpenAI-compatible proxy that stacks the free tiers of 16 LLM providers (~1.7B tokens/month) behind one /v1 endpoint — plus any custom OpenAI-compatible endpoint. Smart routing, automatic failover, encrypted keys. Personal experimentation only.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 12969</span>
-						<span>🔱 1965</span>
-					</div>
-				<div class="stars-today">⭐ 7440 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/mukul975/Anthropic-Cybersecurity-Skills" target="_blank">
-    
-
-
-      
-        mukul975 /
-
-      Anthropic-Cybersecurity-Skills</a></p>
-				<p>
-      817 structured cybersecurity skills for AI agents · Mapped to 6 frameworks: MITRE ATT&CK, NIST CSF 2.0, MITRE ATLAS, D3FEND, NIST AI RMF & MITRE F3 (Fight Fraud) · agentskills.io standard · Works with Claude Code, GitHub Copilot, Codex CLI, Cursor, Gemini CLI & 20+ platforms · 29 security domains · Apache 2.0
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 21579</span>
-						<span>🔱 2477</span>
-					</div>
-				<div class="stars-today">⭐ 12170 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/hardikpandya/stop-slop" target="_blank">
-    
-
-
-      
-        hardikpandya /
-
-      stop-slop</a></p>
-				<p>
-      A skill file for removing AI tells from prose
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 </span>
-						<span>⭐ 12507</span>
-						<span>🔱 867</span>
-					</div>
-				<div class="stars-today">⭐ 8227 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/can1357/oh-my-pi" target="_blank">
-    
-
-
-      
-        can1357 /
-
-      oh-my-pi</a></p>
-				<p>
-      ⌥ AI Coding agent for the terminal — hash-anchored edits, optimized tool harness, LSP, Python, browser, subagents, and more
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 14727</span>
-						<span>🔱 1293</span>
-					</div>
-				<div class="stars-today">⭐ 7513 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/run-llama/liteparse" target="_blank">
-    
-
-
-      
-        run-llama /
-
-      liteparse</a></p>
-				<p>
-      A fast, helpful, and open-source document parser
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Rust</span>
-						<span>⭐ 11122</span>
-						<span>🔱 731</span>
-					</div>
-				<div class="stars-today">⭐ 5875 stars this month</div>
 				</div>
 			</div>
 	
@@ -470,10 +426,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Rust</span>
-						<span>⭐ 7408</span>
-						<span>🔱 457</span>
+						<span>⭐ 7428</span>
+						<span>🔱 459</span>
 					</div>
 				<div class="stars-today">⭐ 4901 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/hardikpandya/stop-slop" target="_blank">
+    
+
+
+      
+        hardikpandya /
+
+      stop-slop</a></p>
+				<p>
+      A skill file for removing AI tells from prose
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 </span>
+						<span>⭐ 12523</span>
+						<span>🔱 868</span>
+					</div>
+				<div class="stars-today">⭐ 8227 stars this month</div>
 				</div>
 			</div>
 	
@@ -492,7 +470,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 27614</span>
+						<span>⭐ 27622</span>
 						<span>🔱 2390</span>
 					</div>
 				<div class="stars-today">⭐ 4925 stars this month</div>
