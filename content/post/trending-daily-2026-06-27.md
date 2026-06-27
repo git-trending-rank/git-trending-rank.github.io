@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2026-06-27
-date: 2026-06-27T08:19:18Z
+date: 2026-06-27T11:15:43Z
 categories:
 - daily
 keywords:
@@ -30,186 +30,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Haskell</span>
-						<span>⭐ 12952</span>
-						<span>🔱 747</span>
+						<span>⭐ 13127</span>
+						<span>🔱 756</span>
 					</div>
 				<div class="stars-today">⭐ 432 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/google-labs-code/design.md" target="_blank">
-    
-
-
-      
-        google-labs-code /
-
-      design.md</a></p>
-				<p>
-      A format specification for describing a visual identity to coding agents. DESIGN.md gives agents a persistent, structured understanding of a design system.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 21722</span>
-						<span>🔱 1748</span>
-					</div>
-				<div class="stars-today">⭐ 2407 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/commaai/openpilot" target="_blank">
-    
-
-
-      
-        commaai /
-
-      openpilot</a></p>
-				<p>
-      openpilot is an operating system for robotics. Currently, it upgrades the driver assistance system on 300+ supported cars.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 61887</span>
-						<span>🔱 11054</span>
-					</div>
-				<div class="stars-today">⭐ 80 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/kunchenguid/no-mistakes" target="_blank">
-    
-
-
-      
-        kunchenguid /
-
-      no-mistakes</a></p>
-				<p>
-      git push no-mistakes
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Go</span>
-						<span>⭐ 3596</span>
-						<span>🔱 211</span>
-					</div>
-				<div class="stars-today">⭐ 398 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/grafana/grafana" target="_blank">
-    
-
-
-      
-        grafana /
-
-      grafana</a></p>
-				<p>
-      The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more. 
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 75014</span>
-						<span>🔱 14134</span>
-					</div>
-				<div class="stars-today">⭐ 32 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/ripienaar/free-for-dev" target="_blank">
-    
-
-
-      
-        ripienaar /
-
-      free-for-dev</a></p>
-				<p>
-      A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 HTML</span>
-						<span>⭐ 123881</span>
-						<span>🔱 13059</span>
-					</div>
-				<div class="stars-today">⭐ 90 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/opendatalab/MinerU" target="_blank">
-    
-
-
-      
-        opendatalab /
-
-      MinerU</a></p>
-				<p>
-      Transforms complex documents like PDFs and Office docs into LLM-ready markdown/JSON for your Agentic workflows.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 70700</span>
-						<span>🔱 5954</span>
-					</div>
-				<div class="stars-today">⭐ 960 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/alchaincyf/zhangxuefeng-skill" target="_blank">
-    
-
-
-      
-        alchaincyf /
-
-      zhangxuefeng-skill</a></p>
-				<p>
-      张雪峰.skill — 张雪峰的认知操作系统。高考志愿/考研/职业规划的实战思维框架。由女娲.skill生成。
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 </span>
-						<span>⭐ 9354</span>
-						<span>🔱 2569</span>
-					</div>
-				<div class="stars-today">⭐ 160 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/mauriceboe/TREK" target="_blank">
-    
-
-
-      
-        mauriceboe /
-
-      TREK</a></p>
-				<p>
-      A self-hosted travel/trip planner with real-time collaboration, interactive maps, PWA support, SSO, budgets, packing lists, and more.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 7859</span>
-						<span>🔱 664</span>
-					</div>
-				<div class="stars-today">⭐ 1060 stars today</div>
 				</div>
 			</div>
 	
@@ -228,98 +52,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 3347</span>
-						<span>🔱 502</span>
+						<span>⭐ 3423</span>
+						<span>🔱 512</span>
 					</div>
 				<div class="stars-today">⭐ 1274 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/calesthio/OpenMontage" target="_blank">
+				<p><a href="https://github.com/commaai/openpilot" target="_blank">
     
 
 
       
-        calesthio /
+        commaai /
 
-      OpenMontage</a></p>
+      openpilot</a></p>
 				<p>
-      World's first open-source, agentic video production system. 12 pipelines, 52 tools, 500+ agent skills. Turn your AI coding assistant into a full video production studio.
+      openpilot is an operating system for robotics. Currently, it upgrades the driver assistance system on 300+ supported cars.
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 24152</span>
-						<span>🔱 2686</span>
+						<span>⭐ 61925</span>
+						<span>🔱 11055</span>
 					</div>
-				<div class="stars-today">⭐ 1754 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/aws/agent-toolkit-for-aws" target="_blank">
-    
-
-
-      
-        aws /
-
-      agent-toolkit-for-aws</a></p>
-				<p>
-      Official, AWS-supported MCP servers, skills, and plugins to help AI agents build on AWS
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 1415</span>
-						<span>🔱 124</span>
-					</div>
-				<div class="stars-today">⭐ 243 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/NanmiCoder/MediaCrawler" target="_blank">
-    
-
-
-      
-        NanmiCoder /
-
-      MediaCrawler</a></p>
-				<p>
-      小红书笔记 | 评论爬虫、抖音视频 | 评论爬虫、快手视频 | 评论爬虫、B 站视频 ｜ 评论爬虫、微博帖子 ｜ 评论爬虫、百度贴吧帖子 ｜ 百度贴吧评论回复爬虫 | 知乎问答文章｜评论爬虫
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 53516</span>
-						<span>🔱 10989</span>
-					</div>
-				<div class="stars-today">⭐ 673 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/garrytan/gstack" target="_blank">
-    
-
-
-      
-        garrytan /
-
-      gstack</a></p>
-				<p>
-      Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, and QA
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 116807</span>
-						<span>🔱 17331</span>
-					</div>
-				<div class="stars-today">⭐ 950 stars today</div>
+				<div class="stars-today">⭐ 80 stars today</div>
 				</div>
 			</div>
 	
@@ -338,10 +96,98 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Go</span>
-						<span>⭐ 35524</span>
-						<span>🔱 2033</span>
+						<span>⭐ 35573</span>
+						<span>🔱 2035</span>
 					</div>
 				<div class="stars-today">⭐ 619 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/ripienaar/free-for-dev" target="_blank">
+    
+
+
+      
+        ripienaar /
+
+      free-for-dev</a></p>
+				<p>
+      A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 HTML</span>
+						<span>⭐ 123929</span>
+						<span>🔱 13060</span>
+					</div>
+				<div class="stars-today">⭐ 90 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/google-labs-code/design.md" target="_blank">
+    
+
+
+      
+        google-labs-code /
+
+      design.md</a></p>
+				<p>
+      A format specification for describing a visual identity to coding agents. DESIGN.md gives agents a persistent, structured understanding of a design system.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 21909</span>
+						<span>🔱 1759</span>
+					</div>
+				<div class="stars-today">⭐ 2407 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/microsoft/PowerToys" target="_blank">
+    
+
+
+      
+        microsoft /
+
+      PowerToys</a></p>
+				<p>
+      Microsoft PowerToys is a collection of utilities that supercharge productivity and customization on Windows
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 C</span>
+						<span>⭐ 135576</span>
+						<span>🔱 8160</span>
+					</div>
+				<div class="stars-today">⭐ 67 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/hugohe3/ppt-master" target="_blank">
+    
+
+
+      
+        hugohe3 /
+
+      ppt-master</a></p>
+				<p>
+      AI generates a real, editable PowerPoint from any document — native shapes & animations, speaker notes voiced as audio narration, and the option to follow your own .pptx template, not slide images · by Hugo He
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 32611</span>
+						<span>🔱 2787</span>
+					</div>
+				<div class="stars-today">⭐ 589 stars today</div>
 				</div>
 			</div>
 	
@@ -360,32 +206,252 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 21572</span>
-						<span>🔱 3123</span>
+						<span>⭐ 21695</span>
+						<span>🔱 3132</span>
 					</div>
 				<div class="stars-today">⭐ 1088 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/Panniantong/Agent-Reach" target="_blank">
+				<p><a href="https://github.com/garrytan/gstack" target="_blank">
     
 
 
       
-        Panniantong /
+        garrytan /
 
-      Agent-Reach</a></p>
+      gstack</a></p>
 				<p>
-      Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.
+      Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, and QA
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 116876</span>
+						<span>🔱 17344</span>
+					</div>
+				<div class="stars-today">⭐ 950 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/NanmiCoder/MediaCrawler" target="_blank">
+    
+
+
+      
+        NanmiCoder /
+
+      MediaCrawler</a></p>
+				<p>
+      小红书笔记 | 评论爬虫、抖音视频 | 评论爬虫、快手视频 | 评论爬虫、B 站视频 ｜ 评论爬虫、微博帖子 ｜ 评论爬虫、百度贴吧帖子 ｜ 百度贴吧评论回复爬虫 | 知乎问答文章｜评论爬虫
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 42779</span>
-						<span>🔱 3403</span>
+						<span>⭐ 53582</span>
+						<span>🔱 10992</span>
 					</div>
-				<div class="stars-today">⭐ 1194 stars today</div>
+				<div class="stars-today">⭐ 673 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/Anil-matcha/Open-Generative-AI" target="_blank">
+    
+
+
+      
+        Anil-matcha /
+
+      Open-Generative-AI</a></p>
+				<p>
+      Unrestricted Open-source alternative to AI video platforms — Free AI image & video generation studio with 200+ models (Flux, Midjourney, Kling, Sora, Veo). No content filters. Self-hosted, MIT licensed.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 JavaScript</span>
+						<span>⭐ 21162</span>
+						<span>🔱 3617</span>
+					</div>
+				<div class="stars-today">⭐ 254 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/topoteretes/cognee" target="_blank">
+    
+
+
+      
+        topoteretes /
+
+      cognee</a></p>
+				<p>
+      Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions with a self-hosted knowledge graph engine.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 23523</span>
+						<span>🔱 2228</span>
+					</div>
+				<div class="stars-today">⭐ 729 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/dbt-labs/dbt-core" target="_blank">
+    
+
+
+      
+        dbt-labs /
+
+      dbt-core</a></p>
+				<p>
+      dbt enables data analysts and engineers to transform their data using the same practices that software engineers use to build applications.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Rust</span>
+						<span>⭐ 13085</span>
+						<span>🔱 2431</span>
+					</div>
+				<div class="stars-today">⭐ 17 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/luongnv89/claude-howto" target="_blank">
+    
+
+
+      
+        luongnv89 /
+
+      claude-howto</a></p>
+				<p>
+      A visual, example-driven guide to Claude Code — from basic concepts to advanced agents, with copy-paste templates that bring immediate value.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 38420</span>
+						<span>🔱 4631</span>
+					</div>
+				<div class="stars-today">⭐ 138 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/anomalyco/opencode" target="_blank">
+    
+
+
+      
+        anomalyco /
+
+      opencode</a></p>
+				<p>
+      The open source coding agent.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 179353</span>
+						<span>🔱 22058</span>
+					</div>
+				<div class="stars-today">⭐ 573 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/Fission-AI/OpenSpec" target="_blank">
+    
+
+
+      
+        Fission-AI /
+
+      OpenSpec</a></p>
+				<p>
+      Spec-driven development (SDD) for AI coding assistants.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 56894</span>
+						<span>🔱 3971</span>
+					</div>
+				<div class="stars-today">⭐ 167 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/HKUDS/Vibe-Trading" target="_blank">
+    
+
+
+      
+        HKUDS /
+
+      Vibe-Trading</a></p>
+				<p>
+      "Vibe-Trading: Your Personal Trading Agent"
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 13463</span>
+						<span>🔱 2569</span>
+					</div>
+				<div class="stars-today">⭐ 83 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/keycloak/keycloak" target="_blank">
+    
+
+
+      
+        keycloak /
+
+      keycloak</a></p>
+				<p>
+      Open Source Identity and Access Management For Modern Applications and Services
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Java</span>
+						<span>⭐ 35097</span>
+						<span>🔱 8546</span>
+					</div>
+				<div class="stars-today">⭐ 11 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/every-app/open-seo" target="_blank">
+    
+
+
+      
+        every-app /
+
+      open-seo</a></p>
+				<p>
+      Open source alternative to Semrush and Ahrefs
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 3134</span>
+						<span>🔱 355</span>
+					</div>
+				<div class="stars-today">⭐ 594 stars today</div>
 				</div>
 			</div>
 	

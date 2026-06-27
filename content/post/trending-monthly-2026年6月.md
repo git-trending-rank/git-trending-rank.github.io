@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2026年6月
-date: 2026-06-27T08:19:18Z
+date: 2026-06-27T11:15:44Z
 categories:
 - monthly
 keywords:
@@ -30,32 +30,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Swift</span>
-						<span>⭐ 43788</span>
-						<span>🔱 1296</span>
+						<span>⭐ 43819</span>
+						<span>🔱 1297</span>
 					</div>
 				<div class="stars-today">⭐ 17105 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/harry0703/MoneyPrinterTurbo" target="_blank">
-    
-
-
-      
-        harry0703 /
-
-      MoneyPrinterTurbo</a></p>
-				<p>
-      利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 93330</span>
-						<span>🔱 13512</span>
-					</div>
-				<div class="stars-today">⭐ 34671 stars this month</div>
 				</div>
 			</div>
 	
@@ -74,8 +52,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 24152</span>
-						<span>🔱 2686</span>
+						<span>⭐ 24379</span>
+						<span>🔱 2712</span>
 					</div>
 				<div class="stars-today">⭐ 19230 stars this month</div>
 				</div>
@@ -96,8 +74,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 C</span>
-						<span>⭐ 16154</span>
-						<span>🔱 1188</span>
+						<span>⭐ 16338</span>
+						<span>🔱 1199</span>
 					</div>
 				<div class="stars-today">⭐ 12523 stars this month</div>
 				</div>
@@ -118,10 +96,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 42779</span>
-						<span>🔱 3403</span>
+						<span>⭐ 42934</span>
+						<span>🔱 3417</span>
 					</div>
 				<div class="stars-today">⭐ 21845 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/harry0703/MoneyPrinterTurbo" target="_blank">
+    
+
+
+      
+        harry0703 /
+
+      MoneyPrinterTurbo</a></p>
+				<p>
+      利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 93389</span>
+						<span>🔱 13529</span>
+					</div>
+				<div class="stars-today">⭐ 34671 stars this month</div>
 				</div>
 			</div>
 	
@@ -140,8 +140,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 47032</span>
-						<span>🔱 3900</span>
+						<span>⭐ 47064</span>
+						<span>🔱 3903</span>
 					</div>
 				<div class="stars-today">⭐ 20588 stars this month</div>
 				</div>
@@ -162,54 +162,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 128738</span>
-						<span>🔱 7101</span>
+						<span>⭐ 128766</span>
+						<span>🔱 7103</span>
 					</div>
 				<div class="stars-today">⭐ 12497 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/microsoft/markitdown" target="_blank">
-    
-
-
-      
-        microsoft /
-
-      markitdown</a></p>
-				<p>
-      Python tool for converting files and office documents to Markdown.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 159666</span>
-						<span>🔱 11185</span>
-					</div>
-				<div class="stars-today">⭐ 34806 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/lfnovo/open-notebook" target="_blank">
-    
-
-
-      
-        lfnovo /
-
-      open-notebook</a></p>
-				<p>
-      An Open Source implementation of Notebook LM with more flexibility and features
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 33545</span>
-						<span>🔱 3763</span>
-					</div>
-				<div class="stars-today">⭐ 9827 stars this month</div>
 				</div>
 			</div>
 	
@@ -228,10 +184,54 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 </span>
-						<span>⭐ 21287</span>
-						<span>🔱 2153</span>
+						<span>⭐ 21300</span>
+						<span>🔱 2156</span>
 					</div>
 				<div class="stars-today">⭐ 9660 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/lfnovo/open-notebook" target="_blank">
+    
+
+
+      
+        lfnovo /
+
+      open-notebook</a></p>
+				<p>
+      An Open Source implementation of Notebook LM with more flexibility and features
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 33562</span>
+						<span>🔱 3767</span>
+					</div>
+				<div class="stars-today">⭐ 9827 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/microsoft/markitdown" target="_blank">
+    
+
+
+      
+        microsoft /
+
+      markitdown</a></p>
+				<p>
+      Python tool for converting files and office documents to Markdown.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 159734</span>
+						<span>🔱 11191</span>
+					</div>
+				<div class="stars-today">⭐ 34806 stars this month</div>
 				</div>
 			</div>
 	
@@ -250,8 +250,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 JavaScript</span>
-						<span>⭐ 51733</span>
-						<span>🔱 3564</span>
+						<span>⭐ 51788</span>
+						<span>🔱 3568</span>
 					</div>
 				<div class="stars-today">⭐ 30953 stars this month</div>
 				</div>
@@ -272,54 +272,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 JavaScript</span>
-						<span>⭐ 3629</span>
+						<span>⭐ 3637</span>
 						<span>🔱 422</span>
 					</div>
 				<div class="stars-today">⭐ 2366 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/esengine/DeepSeek-Reasonix" target="_blank">
-    
-
-
-      
-        esengine /
-
-      DeepSeek-Reasonix</a></p>
-				<p>
-      DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability — leave it running.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Go</span>
-						<span>⭐ 25019</span>
-						<span>🔱 1516</span>
-					</div>
-				<div class="stars-today">⭐ 15531 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/mukul975/Anthropic-Cybersecurity-Skills" target="_blank">
-    
-
-
-      
-        mukul975 /
-
-      Anthropic-Cybersecurity-Skills</a></p>
-				<p>
-      817 structured cybersecurity skills for AI agents · Mapped to 6 frameworks: MITRE ATT&CK, NIST CSF 2.0, MITRE ATLAS, D3FEND, NIST AI RMF & MITRE F3 (Fight Fraud) · agentskills.io standard · Works with Claude Code, GitHub Copilot, Codex CLI, Cursor, Gemini CLI & 20+ platforms · 29 security domains · Apache 2.0
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 21899</span>
-						<span>🔱 2507</span>
-					</div>
-				<div class="stars-today">⭐ 12043 stars this month</div>
 				</div>
 			</div>
 	
@@ -338,10 +294,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 13265</span>
-						<span>🔱 1999</span>
+						<span>⭐ 13309</span>
+						<span>🔱 2003</span>
 					</div>
 				<div class="stars-today">⭐ 7674 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/mukul975/Anthropic-Cybersecurity-Skills" target="_blank">
+    
+
+
+      
+        mukul975 /
+
+      Anthropic-Cybersecurity-Skills</a></p>
+				<p>
+      817 structured cybersecurity skills for AI agents · Mapped to 6 frameworks: MITRE ATT&CK, NIST CSF 2.0, MITRE ATLAS, D3FEND, NIST AI RMF & MITRE F3 (Fight Fraud) · agentskills.io standard · Works with Claude Code, GitHub Copilot, Codex CLI, Cursor, Gemini CLI & 20+ platforms · 29 security domains · Apache 2.0
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 21933</span>
+						<span>🔱 2511</span>
+					</div>
+				<div class="stars-today">⭐ 12043 stars this month</div>
 				</div>
 			</div>
 	
@@ -360,54 +338,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 14823</span>
-						<span>🔱 1310</span>
+						<span>⭐ 14836</span>
+						<span>🔱 1313</span>
 					</div>
 				<div class="stars-today">⭐ 7464 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/Egonex-AI/Understand-Anything" target="_blank">
-    
-
-
-      
-        Egonex-AI /
-
-      Understand-Anything</a></p>
-				<p>
-      Graphs that teach > graphs that impress. Turn any code into an interactive knowledge graph you can explore, search, and ask questions about. Works with Claude Code, Codex, Cursor, Copilot, Gemini CLI, and more.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 68461</span>
-						<span>🔱 5657</span>
-					</div>
-				<div class="stars-today">⭐ 34542 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/colbymchenry/codegraph" target="_blank">
-    
-
-
-      
-        colbymchenry /
-
-      codegraph</a></p>
-				<p>
-      Pre-indexed code knowledge graph, auto syncs on code changes, for Claude Code, Codex, Gemini, Cursor, OpenCode, AntiGravity, Kiro, and Hermes Agent — fewer tokens, fewer tool calls, 100% local
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 55165</span>
-						<span>🔱 3396</span>
-					</div>
-				<div class="stars-today">⭐ 28289 stars this month</div>
 				</div>
 			</div>
 	
@@ -426,7 +360,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Rust</span>
-						<span>⭐ 7590</span>
+						<span>⭐ 7624</span>
 						<span>🔱 469</span>
 					</div>
 				<div class="stars-today">⭐ 4976 stars this month</div>
@@ -434,24 +368,46 @@ keywords:
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/hardikpandya/stop-slop" target="_blank">
+				<p><a href="https://github.com/asgeirtj/system_prompts_leaks" target="_blank">
     
 
 
       
-        hardikpandya /
+        asgeirtj /
 
-      stop-slop</a></p>
+      system_prompts_leaks</a></p>
 				<p>
-      A skill file for removing AI tells from prose
+      Extracted system prompts from Anthropic - Claude Fable 5, Opus 4.8, Claude Code, Claude Design. OpenAI - ChatGPT 5.5 Thinking, GPT 5.5 Instant, Codex. Google - Gemini 3.5 Flash, 3.1 Pro, Antigravity. xAI - Grok, Cursor, Copilot, VS Code, Perplexity, and more. Updated regularly.
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 </span>
-						<span>⭐ 12626</span>
-						<span>🔱 878</span>
+						<span>🔠 JavaScript</span>
+						<span>⭐ 46463</span>
+						<span>🔱 7616</span>
 					</div>
-				<div class="stars-today">⭐ 7850 stars this month</div>
+				<div class="stars-today">⭐ 5715 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/Egonex-AI/Understand-Anything" target="_blank">
+    
+
+
+      
+        Egonex-AI /
+
+      Understand-Anything</a></p>
+				<p>
+      Graphs that teach > graphs that impress. Turn any code into an interactive knowledge graph you can explore, search, and ask questions about. Works with Claude Code, Codex, Cursor, Copilot, Gemini CLI, and more.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 68505</span>
+						<span>🔱 5659</span>
+					</div>
+				<div class="stars-today">⭐ 34542 stars this month</div>
 				</div>
 			</div>
 	
@@ -470,10 +426,54 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 27705</span>
+						<span>⭐ 27720</span>
 						<span>🔱 2399</span>
 					</div>
 				<div class="stars-today">⭐ 5036 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/NVlabs/Eagle" target="_blank">
+    
+
+
+      
+        NVlabs /
+
+      Eagle</a></p>
+				<p>
+      Eagle: Frontier Vision-Language Models with Data-Centric Strategies
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 2776</span>
+						<span>🔱 255</span>
+					</div>
+				<div class="stars-today">⭐ 1819 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/colbymchenry/codegraph" target="_blank">
+    
+
+
+      
+        colbymchenry /
+
+      codegraph</a></p>
+				<p>
+      Pre-indexed code knowledge graph, auto syncs on code changes, for Claude Code, Codex, Gemini, Cursor, OpenCode, AntiGravity, Kiro, and Hermes Agent — fewer tokens, fewer tool calls, 100% local
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 55224</span>
+						<span>🔱 3398</span>
+					</div>
+				<div class="stars-today">⭐ 28289 stars this month</div>
 				</div>
 			</div>
 	
