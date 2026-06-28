@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2026年6月
-date: 2026-06-28T10:16:26Z
+date: 2026-06-28T13:04:50Z
 categories:
 - monthly
 keywords:
@@ -30,32 +30,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Swift</span>
-						<span>⭐ 44085</span>
-						<span>🔱 1308</span>
+						<span>⭐ 44128</span>
+						<span>🔱 1311</span>
 					</div>
 				<div class="stars-today">⭐ 17377 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/calesthio/OpenMontage" target="_blank">
-    
-
-
-      
-        calesthio /
-
-      OpenMontage</a></p>
-				<p>
-      World's first open-source, agentic video production system. 12 pipelines, 52 tools, 500+ agent skills. Turn your AI coding assistant into a full video production studio.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 26001</span>
-						<span>🔱 2876</span>
-					</div>
-				<div class="stars-today">⭐ 20575 stars this month</div>
 				</div>
 			</div>
 	
@@ -74,10 +52,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 C</span>
-						<span>⭐ 18410</span>
-						<span>🔱 1338</span>
+						<span>⭐ 18656</span>
+						<span>🔱 1361</span>
 					</div>
 				<div class="stars-today">⭐ 13731 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/calesthio/OpenMontage" target="_blank">
+    
+
+
+      
+        calesthio /
+
+      OpenMontage</a></p>
+				<p>
+      World's first open-source, agentic video production system. 12 pipelines, 52 tools, 500+ agent skills. Turn your AI coding assistant into a full video production studio.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 26230</span>
+						<span>🔱 2903</span>
+					</div>
+				<div class="stars-today">⭐ 20575 stars this month</div>
 				</div>
 			</div>
 	
@@ -96,32 +96,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 43878</span>
-						<span>🔱 3486</span>
+						<span>⭐ 44010</span>
+						<span>🔱 3498</span>
 					</div>
 				<div class="stars-today">⭐ 22848 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/harry0703/MoneyPrinterTurbo" target="_blank">
-    
-
-
-      
-        harry0703 /
-
-      MoneyPrinterTurbo</a></p>
-				<p>
-      利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 93721</span>
-						<span>🔱 13580</span>
-					</div>
-				<div class="stars-today">⭐ 33794 stars this month</div>
 				</div>
 			</div>
 	
@@ -140,8 +118,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 47258</span>
-						<span>🔱 3922</span>
+						<span>⭐ 47291</span>
+						<span>🔱 3923</span>
 					</div>
 				<div class="stars-today">⭐ 20777 stars this month</div>
 				</div>
@@ -162,32 +140,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 128946</span>
-						<span>🔱 7117</span>
+						<span>⭐ 128972</span>
+						<span>🔱 7118</span>
 					</div>
 				<div class="stars-today">⭐ 12644 stars this month</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/phuryn/pm-skills" target="_blank">
+				<p><a href="https://github.com/harry0703/MoneyPrinterTurbo" target="_blank">
     
 
 
       
-        phuryn /
+        harry0703 /
 
-      pm-skills</a></p>
+      MoneyPrinterTurbo</a></p>
 				<p>
-      PM Skills Marketplace: 100+ agentic skills, commands, and plugins — from discovery to strategy, execution, launch, and growth.
+      利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM.
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 </span>
-						<span>⭐ 21420</span>
-						<span>🔱 2173</span>
+						<span>🔠 Python</span>
+						<span>⭐ 93753</span>
+						<span>🔱 13589</span>
 					</div>
-				<div class="stars-today">⭐ 9754 stars this month</div>
+				<div class="stars-today">⭐ 33794 stars this month</div>
 				</div>
 			</div>
 	
@@ -206,32 +184,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 33697</span>
-						<span>🔱 3780</span>
+						<span>⭐ 33717</span>
+						<span>🔱 3782</span>
 					</div>
 				<div class="stars-today">⭐ 9933 stars this month</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/microsoft/markitdown" target="_blank">
+				<p><a href="https://github.com/phuryn/pm-skills" target="_blank">
     
 
 
       
-        microsoft /
+        phuryn /
 
-      markitdown</a></p>
+      pm-skills</a></p>
 				<p>
-      Python tool for converting files and office documents to Markdown.
+      PM Skills Marketplace: 100+ agentic skills, commands, and plugins — from discovery to strategy, execution, launch, and growth.
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 160279</span>
-						<span>🔱 11254</span>
+						<span>🔠 </span>
+						<span>⭐ 21437</span>
+						<span>🔱 2176</span>
 					</div>
-				<div class="stars-today">⭐ 35017 stars this month</div>
+				<div class="stars-today">⭐ 9754 stars this month</div>
 				</div>
 			</div>
 	
@@ -250,10 +228,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 JavaScript</span>
-						<span>⭐ 52263</span>
-						<span>🔱 3606</span>
+						<span>⭐ 52324</span>
+						<span>🔱 3615</span>
 					</div>
 				<div class="stars-today">⭐ 28908 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/microsoft/markitdown" target="_blank">
+    
+
+
+      
+        microsoft /
+
+      markitdown</a></p>
+				<p>
+      Python tool for converting files and office documents to Markdown.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 160347</span>
+						<span>🔱 11261</span>
+					</div>
+				<div class="stars-today">⭐ 35017 stars this month</div>
 				</div>
 			</div>
 	
@@ -272,8 +272,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 JavaScript</span>
-						<span>⭐ 3681</span>
-						<span>🔱 427</span>
+						<span>⭐ 3688</span>
+						<span>🔱 431</span>
 					</div>
 				<div class="stars-today">⭐ 2404 stars this month</div>
 				</div>
@@ -294,32 +294,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 13624</span>
-						<span>🔱 2031</span>
+						<span>⭐ 13670</span>
+						<span>🔱 2038</span>
 					</div>
 				<div class="stars-today">⭐ 7737 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/mukul975/Anthropic-Cybersecurity-Skills" target="_blank">
-    
-
-
-      
-        mukul975 /
-
-      Anthropic-Cybersecurity-Skills</a></p>
-				<p>
-      817 structured cybersecurity skills for AI agents · Mapped to 6 frameworks: MITRE ATT&CK, NIST CSF 2.0, MITRE ATLAS, D3FEND, NIST AI RMF & MITRE F3 (Fight Fraud) · agentskills.io standard · Works with Claude Code, GitHub Copilot, Codex CLI, Cursor, Gemini CLI & 20+ platforms · 29 security domains · Apache 2.0
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 22378</span>
-						<span>🔱 2557</span>
-					</div>
-				<div class="stars-today">⭐ 11529 stars this month</div>
 				</div>
 			</div>
 	
@@ -338,10 +316,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 14938</span>
-						<span>🔱 1325</span>
+						<span>⭐ 14950</span>
+						<span>🔱 1328</span>
 					</div>
 				<div class="stars-today">⭐ 7339 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/mukul975/Anthropic-Cybersecurity-Skills" target="_blank">
+    
+
+
+      
+        mukul975 /
+
+      Anthropic-Cybersecurity-Skills</a></p>
+				<p>
+      817 structured cybersecurity skills for AI agents · Mapped to 6 frameworks: MITRE ATT&CK, NIST CSF 2.0, MITRE ATLAS, D3FEND, NIST AI RMF & MITRE F3 (Fight Fraud) · agentskills.io standard · Works with Claude Code, GitHub Copilot, Codex CLI, Cursor, Gemini CLI & 20+ platforms · 29 security domains · Apache 2.0
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 22438</span>
+						<span>🔱 2562</span>
+					</div>
+				<div class="stars-today">⭐ 11529 stars this month</div>
 				</div>
 			</div>
 	
@@ -360,8 +360,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Rust</span>
-						<span>⭐ 7828</span>
-						<span>🔱 479</span>
+						<span>⭐ 7855</span>
+						<span>🔱 484</span>
 					</div>
 				<div class="stars-today">⭐ 5076 stars this month</div>
 				</div>
@@ -382,32 +382,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 JavaScript</span>
-						<span>⭐ 46734</span>
-						<span>🔱 7651</span>
+						<span>⭐ 46759</span>
+						<span>🔱 7653</span>
 					</div>
 				<div class="stars-today">⭐ 5827 stars this month</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/Egonex-AI/Understand-Anything" target="_blank">
+				<p><a href="https://github.com/stablyai/orca" target="_blank">
     
 
 
       
-        Egonex-AI /
+        stablyai /
 
-      Understand-Anything</a></p>
+      orca</a></p>
 				<p>
-      Graphs that teach > graphs that impress. Turn any code into an interactive knowledge graph you can explore, search, and ask questions about. Works with Claude Code, Codex, Cursor, Copilot, Gemini CLI, and more.
+      Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop and mobile.
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 68789</span>
-						<span>🔱 5684</span>
+						<span>⭐ 8476</span>
+						<span>🔱 591</span>
 					</div>
-				<div class="stars-today">⭐ 30783 stars this month</div>
+				<div class="stars-today">⭐ 4755 stars this month</div>
 				</div>
 			</div>
 	
@@ -426,54 +426,54 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 27802</span>
-						<span>🔱 2401</span>
+						<span>⭐ 27811</span>
+						<span>🔱 2402</span>
 					</div>
 				<div class="stars-today">⭐ 5121 stars this month</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/NVlabs/Eagle" target="_blank">
+				<p><a href="https://github.com/simplex-chat/simplex-chat" target="_blank">
     
 
 
       
-        NVlabs /
+        simplex-chat /
 
-      Eagle</a></p>
+      simplex-chat</a></p>
 				<p>
-      Eagle: Frontier Vision-Language Models with Data-Centric Strategies
+      SimpleX - the first messaging network operating without user identifiers of any kind - 100% private by design! iOS, Android and desktop apps 📱!
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 2834</span>
-						<span>🔱 258</span>
+						<span>🔠 Haskell</span>
+						<span>⭐ 14420</span>
+						<span>🔱 827</span>
 					</div>
-				<div class="stars-today">⭐ 1816 stars this month</div>
+				<div class="stars-today">⭐ 2233 stars this month</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/colbymchenry/codegraph" target="_blank">
+				<p><a href="https://github.com/Open-LLM-VTuber/Open-LLM-VTuber" target="_blank">
     
 
 
       
-        colbymchenry /
+        Open-LLM-VTuber /
 
-      codegraph</a></p>
+      Open-LLM-VTuber</a></p>
 				<p>
-      Pre-indexed code knowledge graph, auto syncs on code changes, for Claude Code, Codex, Gemini, Cursor, OpenCode, AntiGravity, Kiro, and Hermes Agent — fewer tokens, fewer tool calls, 100% local
+      Talk to any LLM with hands-free voice interaction, voice interruption, and Live2D taking face running locally across platforms
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 55492</span>
-						<span>🔱 3424</span>
+						<span>🔠 Python</span>
+						<span>⭐ 11974</span>
+						<span>🔱 1400</span>
 					</div>
-				<div class="stars-today">⭐ 26455 stars this month</div>
+				<div class="stars-today">⭐ 4144 stars this month</div>
 				</div>
 			</div>
 	
