@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2026年6月
-date: 2026-06-29T08:45:06Z
+date: 2026-06-29T13:55:21Z
 categories:
 - monthly
 keywords:
@@ -30,8 +30,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Swift</span>
-						<span>⭐ 44486</span>
-						<span>🔱 1319</span>
+						<span>⭐ 44600</span>
+						<span>🔱 1321</span>
 					</div>
 				<div class="stars-today">⭐ 17676 stars this month</div>
 				</div>
@@ -52,8 +52,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 C</span>
-						<span>⭐ 20509</span>
-						<span>🔱 1467</span>
+						<span>⭐ 20860</span>
+						<span>🔱 1489</span>
 					</div>
 				<div class="stars-today">⭐ 16051 stars this month</div>
 				</div>
@@ -74,8 +74,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 27732</span>
-						<span>🔱 3072</span>
+						<span>⭐ 28097</span>
+						<span>🔱 3125</span>
 					</div>
 				<div class="stars-today">⭐ 22408 stars this month</div>
 				</div>
@@ -96,8 +96,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 45023</span>
-						<span>🔱 3570</span>
+						<span>⭐ 45321</span>
+						<span>🔱 3591</span>
 					</div>
 				<div class="stars-today">⭐ 23835 stars this month</div>
 				</div>
@@ -118,8 +118,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 47523</span>
-						<span>🔱 3938</span>
+						<span>⭐ 47571</span>
+						<span>🔱 3943</span>
 					</div>
 				<div class="stars-today">⭐ 20899 stars this month</div>
 				</div>
@@ -140,54 +140,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 129158</span>
-						<span>🔱 7146</span>
+						<span>⭐ 129220</span>
+						<span>🔱 7150</span>
 					</div>
 				<div class="stars-today">⭐ 12819 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/harry0703/MoneyPrinterTurbo" target="_blank">
-    
-
-
-      
-        harry0703 /
-
-      MoneyPrinterTurbo</a></p>
-				<p>
-      利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 94043</span>
-						<span>🔱 13632</span>
-					</div>
-				<div class="stars-today">⭐ 29272 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/lfnovo/open-notebook" target="_blank">
-    
-
-
-      
-        lfnovo /
-
-      open-notebook</a></p>
-				<p>
-      An Open Source implementation of Notebook LM with more flexibility and features
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 33873</span>
-						<span>🔱 3794</span>
-					</div>
-				<div class="stars-today">⭐ 10048 stars this month</div>
 				</div>
 			</div>
 	
@@ -206,10 +162,54 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 </span>
-						<span>⭐ 21624</span>
-						<span>🔱 2187</span>
+						<span>⭐ 21659</span>
+						<span>🔱 2189</span>
 					</div>
 				<div class="stars-today">⭐ 9864 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/lfnovo/open-notebook" target="_blank">
+    
+
+
+      
+        lfnovo /
+
+      open-notebook</a></p>
+				<p>
+      An Open Source implementation of Notebook LM with more flexibility and features
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 33913</span>
+						<span>🔱 3792</span>
+					</div>
+				<div class="stars-today">⭐ 10048 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/harry0703/MoneyPrinterTurbo" target="_blank">
+    
+
+
+      
+        harry0703 /
+
+      MoneyPrinterTurbo</a></p>
+				<p>
+      利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 94113</span>
+						<span>🔱 13652</span>
+					</div>
+				<div class="stars-today">⭐ 29272 stars this month</div>
 				</div>
 			</div>
 	
@@ -228,32 +228,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 JavaScript</span>
-						<span>⭐ 52830</span>
-						<span>🔱 3640</span>
+						<span>⭐ 53008</span>
+						<span>🔱 3648</span>
 					</div>
 				<div class="stars-today">⭐ 27093 stars this month</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/microsoft/markitdown" target="_blank">
+				<p><a href="https://github.com/simplex-chat/simplex-chat" target="_blank">
     
 
 
       
-        microsoft /
+        simplex-chat /
 
-      markitdown</a></p>
+      simplex-chat</a></p>
 				<p>
-      Python tool for converting files and office documents to Markdown.
+      SimpleX - the first messaging network operating without user identifiers of any kind - 100% private by design! iOS, Android and desktop apps 📱!
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 160893</span>
-						<span>🔱 11312</span>
+						<span>🔠 Haskell</span>
+						<span>⭐ 16063</span>
+						<span>🔱 930</span>
 					</div>
-				<div class="stars-today">⭐ 34072 stars this month</div>
+				<div class="stars-today">⭐ 3395 stars this month</div>
 				</div>
 			</div>
 	
@@ -272,10 +272,120 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 JavaScript</span>
-						<span>⭐ 3737</span>
-						<span>🔱 433</span>
+						<span>⭐ 3755</span>
+						<span>🔱 435</span>
 					</div>
 				<div class="stars-today">⭐ 2436 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/asgeirtj/system_prompts_leaks" target="_blank">
+    
+
+
+      
+        asgeirtj /
+
+      system_prompts_leaks</a></p>
+				<p>
+      Extracted system prompts from Anthropic - Claude Fable 5, Opus 4.8, Claude Code, Claude Design. OpenAI - ChatGPT 5.5 Thinking, GPT 5.5 Instant, Codex. Google - Gemini 3.5 Flash, 3.1 Pro, Antigravity. xAI - Grok, Cursor, Copilot, VS Code, Perplexity, and more. Updated regularly.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 JavaScript</span>
+						<span>⭐ 47019</span>
+						<span>🔱 7683</span>
+					</div>
+				<div class="stars-today">⭐ 6089 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/microsoft/markitdown" target="_blank">
+    
+
+
+      
+        microsoft /
+
+      markitdown</a></p>
+				<p>
+      Python tool for converting files and office documents to Markdown.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 161048</span>
+						<span>🔱 11334</span>
+					</div>
+				<div class="stars-today">⭐ 34072 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/stablyai/orca" target="_blank">
+    
+
+
+      
+        stablyai /
+
+      orca</a></p>
+				<p>
+      Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop and mobile.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 8959</span>
+						<span>🔱 615</span>
+					</div>
+				<div class="stars-today">⭐ 4966 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/ogulcancelik/herdr" target="_blank">
+    
+
+
+      
+        ogulcancelik /
+
+      herdr</a></p>
+				<p>
+      agent multiplexer that lives in your terminal.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Rust</span>
+						<span>⭐ 8283</span>
+						<span>🔱 506</span>
+					</div>
+				<div class="stars-today">⭐ 5186 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/mukul975/Anthropic-Cybersecurity-Skills" target="_blank">
+    
+
+
+      
+        mukul975 /
+
+      Anthropic-Cybersecurity-Skills</a></p>
+				<p>
+      817 structured cybersecurity skills for AI agents · Mapped to 6 frameworks: MITRE ATT&CK, NIST CSF 2.0, MITRE ATLAS, D3FEND, NIST AI RMF & MITRE F3 (Fight Fraud) · agentskills.io standard · Works with Claude Code, GitHub Copilot, Codex CLI, Cursor, Gemini CLI & 20+ platforms · 29 security domains · Apache 2.0
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 22930</span>
+						<span>🔱 2606</span>
+					</div>
+				<div class="stars-today">⭐ 11207 stars this month</div>
 				</div>
 			</div>
 	
@@ -294,8 +404,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 13892</span>
-						<span>🔱 2070</span>
+						<span>⭐ 13969</span>
+						<span>🔱 2078</span>
 					</div>
 				<div class="stars-today">⭐ 7784 stars this month</div>
 				</div>
@@ -316,142 +426,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 15063</span>
-						<span>🔱 1341</span>
+						<span>⭐ 15105</span>
+						<span>🔱 1344</span>
 					</div>
 				<div class="stars-today">⭐ 6959 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/mukul975/Anthropic-Cybersecurity-Skills" target="_blank">
-    
-
-
-      
-        mukul975 /
-
-      Anthropic-Cybersecurity-Skills</a></p>
-				<p>
-      817 structured cybersecurity skills for AI agents · Mapped to 6 frameworks: MITRE ATT&CK, NIST CSF 2.0, MITRE ATLAS, D3FEND, NIST AI RMF & MITRE F3 (Fight Fraud) · agentskills.io standard · Works with Claude Code, GitHub Copilot, Codex CLI, Cursor, Gemini CLI & 20+ platforms · 29 security domains · Apache 2.0
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 22830</span>
-						<span>🔱 2598</span>
-					</div>
-				<div class="stars-today">⭐ 11207 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/ogulcancelik/herdr" target="_blank">
-    
-
-
-      
-        ogulcancelik /
-
-      herdr</a></p>
-				<p>
-      agent multiplexer that lives in your terminal.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Rust</span>
-						<span>⭐ 8098</span>
-						<span>🔱 494</span>
-					</div>
-				<div class="stars-today">⭐ 5186 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/asgeirtj/system_prompts_leaks" target="_blank">
-    
-
-
-      
-        asgeirtj /
-
-      system_prompts_leaks</a></p>
-				<p>
-      Extracted system prompts from Anthropic - Claude Fable 5, Opus 4.8, Claude Code, Claude Design. OpenAI - ChatGPT 5.5 Thinking, GPT 5.5 Instant, Codex. Google - Gemini 3.5 Flash, 3.1 Pro, Antigravity. xAI - Grok, Cursor, Copilot, VS Code, Perplexity, and more. Updated regularly.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 JavaScript</span>
-						<span>⭐ 46969</span>
-						<span>🔱 7680</span>
-					</div>
-				<div class="stars-today">⭐ 6089 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/stablyai/orca" target="_blank">
-    
-
-
-      
-        stablyai /
-
-      orca</a></p>
-				<p>
-      Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop and mobile.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 8837</span>
-						<span>🔱 609</span>
-					</div>
-				<div class="stars-today">⭐ 4966 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/supermemoryai/supermemory" target="_blank">
-    
-
-
-      
-        supermemoryai /
-
-      supermemory</a></p>
-				<p>
-      Memory and context engine + app that is extremely fast, scalable, and can be run fully locally. The Memory API for the AI era.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 27910</span>
-						<span>🔱 2409</span>
-					</div>
-				<div class="stars-today">⭐ 5193 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/simplex-chat/simplex-chat" target="_blank">
-    
-
-
-      
-        simplex-chat /
-
-      simplex-chat</a></p>
-				<p>
-      SimpleX - the first messaging network operating without user identifiers of any kind - 100% private by design! iOS, Android and desktop apps 📱!
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Haskell</span>
-						<span>⭐ 15680</span>
-						<span>🔱 905</span>
-					</div>
-				<div class="stars-today">⭐ 3395 stars this month</div>
 				</div>
 			</div>
 	
@@ -470,8 +448,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 12075</span>
-						<span>🔱 1408</span>
+						<span>⭐ 12106</span>
+						<span>🔱 1409</span>
 					</div>
 				<div class="stars-today">⭐ 4172 stars this month</div>
 				</div>

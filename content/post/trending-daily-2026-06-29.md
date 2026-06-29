@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2026-06-29
-date: 2026-06-29T08:45:05Z
+date: 2026-06-29T13:55:20Z
 categories:
 - daily
 keywords:
@@ -30,120 +30,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Haskell</span>
-						<span>⭐ 15680</span>
-						<span>🔱 905</span>
+						<span>⭐ 16063</span>
+						<span>🔱 930</span>
 					</div>
-				<div class="stars-today">⭐ 1180 stars today</div>
+				<div class="stars-today">⭐ 1611 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/ripienaar/free-for-dev" target="_blank">
+				<p><a href="https://github.com/msitarzewski/agency-agents" target="_blank">
     
 
 
       
-        ripienaar /
+        msitarzewski /
 
-      free-for-dev</a></p>
+      agency-agents</a></p>
 				<p>
-      A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev
+      A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 HTML</span>
-						<span>⭐ 126061</span>
-						<span>🔱 13214</span>
+						<span>🔠 Shell</span>
+						<span>⭐ 118387</span>
+						<span>🔱 19416</span>
 					</div>
-				<div class="stars-today">⭐ 495 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/commaai/openpilot" target="_blank">
-    
-
-
-      
-        commaai /
-
-      openpilot</a></p>
-				<p>
-      openpilot is an operating system for robotics. Currently, it upgrades the driver assistance system on 300+ supported cars.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 62592</span>
-						<span>🔱 11102</span>
-					</div>
-				<div class="stars-today">⭐ 266 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/xbtlin/ai-berkshire" target="_blank">
-    
-
-
-      
-        xbtlin /
-
-      ai-berkshire</a></p>
-				<p>
-      AI 时代的伯克希尔：基于 Claude Code / Codex 的价值投资研究框架。巴菲特·芒格·段永平·李录四大师方法论 + 多Agent并行研究。| AI-era Berkshire: a value investing research framework built for Claude Code / Codex. 4 masters' methodologies + multi-agent adversarial analysis.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 6030</span>
-						<span>🔱 795</span>
-					</div>
-				<div class="stars-today">⭐ 1445 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/Robbyant/lingbot-map" target="_blank">
-    
-
-
-      
-        Robbyant /
-
-      lingbot-map</a></p>
-				<p>
-      A feed-forward 3D foundation model for reconstructing scenes from streaming data
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 8432</span>
-						<span>🔱 816</span>
-					</div>
-				<div class="stars-today">⭐ 372 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/DeusData/codebase-memory-mcp" target="_blank">
-    
-
-
-      
-        DeusData /
-
-      codebase-memory-mcp</a></p>
-				<p>
-      High-performance code intelligence MCP server. Indexes codebases into a persistent knowledge graph — average repo in milliseconds. 158 languages, sub-ms queries, 99% fewer tokens. Single static binary, zero dependencies.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 C</span>
-						<span>⭐ 20509</span>
-						<span>🔱 1467</span>
-					</div>
-				<div class="stars-today">⭐ 2190 stars today</div>
+				<div class="stars-today">⭐ 1221 stars today</div>
 				</div>
 			</div>
 	
@@ -162,10 +74,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 11635</span>
-						<span>🔱 1073</span>
+						<span>⭐ 11712</span>
+						<span>🔱 1075</span>
 					</div>
-				<div class="stars-today">⭐ 174 stars today</div>
+				<div class="stars-today">⭐ 352 stars today</div>
 				</div>
 			</div>
 	
@@ -184,98 +96,120 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Swift</span>
-						<span>⭐ 3990</span>
-						<span>🔱 247</span>
+						<span>⭐ 4146</span>
+						<span>🔱 257</span>
 					</div>
-				<div class="stars-today">⭐ 365 stars today</div>
+				<div class="stars-today">⭐ 836 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/opendatalab/MinerU" target="_blank">
+				<p><a href="https://github.com/soxoj/maigret" target="_blank">
     
 
 
       
-        opendatalab /
+        soxoj /
 
-      MinerU</a></p>
+      maigret</a></p>
 				<p>
-      Transforms complex documents like PDFs and Office docs into LLM-ready markdown/JSON for your Agentic workflows.
+      🕵️‍♂️ Collect a dossier on a person by username from 3000+ sites
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 72013</span>
-						<span>🔱 6038</span>
+						<span>⭐ 34147</span>
+						<span>🔱 2588</span>
 					</div>
-				<div class="stars-today">⭐ 380 stars today</div>
+				<div class="stars-today">⭐ 191 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/HKUDS/Vibe-Trading" target="_blank">
+				<p><a href="https://github.com/commaai/openpilot" target="_blank">
     
 
 
       
-        HKUDS /
+        commaai /
 
-      Vibe-Trading</a></p>
+      openpilot</a></p>
 				<p>
-      "Vibe-Trading: Your Personal Trading Agent"
+      openpilot is an operating system for robotics. Currently, it upgrades the driver assistance system on 300+ supported cars.
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 14679</span>
-						<span>🔱 2656</span>
+						<span>⭐ 62668</span>
+						<span>🔱 11105</span>
 					</div>
-				<div class="stars-today">⭐ 492 stars today</div>
+				<div class="stars-today">⭐ 465 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/ByteByteGoHq/system-design-101" target="_blank">
+				<p><a href="https://github.com/ripienaar/free-for-dev" target="_blank">
     
 
 
       
-        ByteByteGoHq /
+        ripienaar /
 
-      system-design-101</a></p>
+      free-for-dev</a></p>
 				<p>
-      Explain complex systems using visuals and simple terms. Help you prepare for system design interviews.
+      A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 </span>
-						<span>⭐ 84824</span>
-						<span>🔱 9375</span>
+						<span>🔠 HTML</span>
+						<span>⭐ 126438</span>
+						<span>🔱 13240</span>
 					</div>
-				<div class="stars-today">⭐ 250 stars today</div>
+				<div class="stars-today">⭐ 1971 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/usestrix/strix" target="_blank">
+				<p><a href="https://github.com/logto-io/logto" target="_blank">
     
 
 
       
-        usestrix /
+        logto-io /
 
-      strix</a></p>
+      logto</a></p>
 				<p>
-      Open-source AI hackers to find and fix your app’s vulnerabilities.
+      🧑‍🚀 Authentication and authorization infrastructure for SaaS and AI apps, built on OIDC and OAuth 2.1 with multi-tenancy, SSO, and RBAC.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 12394</span>
+						<span>🔱 848</span>
+					</div>
+				<div class="stars-today">⭐ 77 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/xbtlin/ai-berkshire" target="_blank">
+    
+
+
+      
+        xbtlin /
+
+      ai-berkshire</a></p>
+				<p>
+      AI 时代的伯克希尔：基于 Claude Code / Codex 的价值投资研究框架。巴菲特·芒格·段永平·李录四大师方法论 + 多Agent并行研究。| AI-era Berkshire: a value investing research framework built for Claude Code / Codex. 4 masters' methodologies + multi-agent adversarial analysis.
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 27028</span>
-						<span>🔱 3002</span>
+						<span>⭐ 6374</span>
+						<span>🔱 837</span>
 					</div>
-				<div class="stars-today">⭐ 122 stars today</div>
+				<div class="stars-today">⭐ 1397 stars today</div>
 				</div>
 			</div>
 	
@@ -294,10 +228,120 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 11456</span>
-						<span>🔱 1540</span>
+						<span>⭐ 11634</span>
+						<span>🔱 1545</span>
 					</div>
-				<div class="stars-today">⭐ 196 stars today</div>
+				<div class="stars-today">⭐ 976 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/Unclecheng-li/VulnClaw" target="_blank">
+    
+
+
+      
+        Unclecheng-li /
+
+      VulnClaw</a></p>
+				<p>
+      基于 AI Agent + MCP 工具链 + 渗透 Skill 编排， 配合大语言模型， 自然语言输入 → 自动完成「信息收集 → 漏洞发现 → 漏洞利用 → 报告生成」全流程。
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 1018</span>
+						<span>🔱 159</span>
+					</div>
+				<div class="stars-today">⭐ 105 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/0xNyk/council-of-high-intelligence" target="_blank">
+    
+
+
+      
+        0xNyk /
+
+      council-of-high-intelligence</a></p>
+				<p>
+      18 AI personas deliberate your hardest decisions across multiple LLM providers. Aristotle, Feynman, Kahneman, Torvalds & more — structured multi-round deliberation with genuine model diversity. One command: /council
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Shell</span>
+						<span>⭐ 1598</span>
+						<span>🔱 179</span>
+					</div>
+				<div class="stars-today">⭐ 323 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/HKUDS/Vibe-Trading" target="_blank">
+    
+
+
+      
+        HKUDS /
+
+      Vibe-Trading</a></p>
+				<p>
+      "Vibe-Trading: Your Personal Trading Agent"
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 14846</span>
+						<span>🔱 2675</span>
+					</div>
+				<div class="stars-today">⭐ 840 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/refactoringhq/tolaria" target="_blank">
+    
+
+
+      
+        refactoringhq /
+
+      tolaria</a></p>
+				<p>
+      Desktop app to manage markdown knowledge bases
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 17346</span>
+						<span>🔱 1198</span>
+					</div>
+				<div class="stars-today">⭐ 249 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/veracrypt/VeraCrypt" target="_blank">
+    
+
+
+      
+        veracrypt /
+
+      VeraCrypt</a></p>
+				<p>
+      Disk encryption with strong security based on TrueCrypt
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 C</span>
+						<span>⭐ 10356</span>
+						<span>🔱 1226</span>
+					</div>
+				<div class="stars-today">⭐ 187 stars today</div>
 				</div>
 			</div>
 	

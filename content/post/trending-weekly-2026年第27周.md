@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2026年第27周
-date: 2026-06-29T08:45:05Z
+date: 2026-06-29T13:55:20Z
 categories:
 - weekly
 keywords:
@@ -30,8 +30,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 27732</span>
-						<span>🔱 3072</span>
+						<span>⭐ 28097</span>
+						<span>🔱 3125</span>
 					</div>
 				<div class="stars-today">⭐ 18703 stars this week</div>
 				</div>
@@ -52,54 +52,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 C</span>
-						<span>⭐ 20509</span>
-						<span>🔱 1467</span>
+						<span>⭐ 20860</span>
+						<span>🔱 1489</span>
 					</div>
 				<div class="stars-today">⭐ 8926 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/kunchenguid/no-mistakes" target="_blank">
-    
-
-
-      
-        kunchenguid /
-
-      no-mistakes</a></p>
-				<p>
-      git push no-mistakes
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Go</span>
-						<span>⭐ 4176</span>
-						<span>🔱 233</span>
-					</div>
-				<div class="stars-today">⭐ 2449 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/palmier-io/palmier-pro" target="_blank">
-    
-
-
-      
-        palmier-io /
-
-      palmier-pro</a></p>
-				<p>
-      macOS video editor built for AI
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Swift</span>
-						<span>⭐ 9406</span>
-						<span>🔱 661</span>
-					</div>
-				<div class="stars-today">⭐ 5034 stars this week</div>
 				</div>
 			</div>
 	
@@ -118,32 +74,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 23023</span>
-						<span>🔱 1824</span>
+						<span>⭐ 23093</span>
+						<span>🔱 1831</span>
 					</div>
 				<div class="stars-today">⭐ 6728 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/JCodesMore/ai-website-cloner-template" target="_blank">
-    
-
-
-      
-        JCodesMore /
-
-      ai-website-cloner-template</a></p>
-				<p>
-      Clone any website with one command using AI coding agents
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 23196</span>
-						<span>🔱 3317</span>
-					</div>
-				<div class="stars-today">⭐ 5317 stars this week</div>
 				</div>
 			</div>
 	
@@ -162,10 +96,54 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Haskell</span>
-						<span>⭐ 15680</span>
-						<span>🔱 905</span>
+						<span>⭐ 16063</span>
+						<span>🔱 930</span>
 					</div>
 				<div class="stars-today">⭐ 3218 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/kunchenguid/no-mistakes" target="_blank">
+    
+
+
+      
+        kunchenguid /
+
+      no-mistakes</a></p>
+				<p>
+      git push no-mistakes
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Go</span>
+						<span>⭐ 4235</span>
+						<span>🔱 237</span>
+					</div>
+				<div class="stars-today">⭐ 2449 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/JCodesMore/ai-website-cloner-template" target="_blank">
+    
+
+
+      
+        JCodesMore /
+
+      ai-website-cloner-template</a></p>
+				<p>
+      Clone any website with one command using AI coding agents
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 23321</span>
+						<span>🔱 3330</span>
+					</div>
+				<div class="stars-today">⭐ 5317 stars this week</div>
 				</div>
 			</div>
 	
@@ -184,8 +162,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 3373</span>
-						<span>🔱 716</span>
+						<span>⭐ 3567</span>
+						<span>🔱 740</span>
 					</div>
 				<div class="stars-today">⭐ 1973 stars this week</div>
 				</div>
@@ -206,8 +184,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 51452</span>
-						<span>🔱 44685</span>
+						<span>⭐ 51669</span>
+						<span>🔱 44882</span>
 					</div>
 				<div class="stars-today">⭐ 7045 stars this week</div>
 				</div>
@@ -228,8 +206,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 8837</span>
-						<span>🔱 609</span>
+						<span>⭐ 8959</span>
+						<span>🔱 615</span>
 					</div>
 				<div class="stars-today">⭐ 2769 stars this week</div>
 				</div>
@@ -250,120 +228,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 45023</span>
-						<span>🔱 3570</span>
+						<span>⭐ 45321</span>
+						<span>🔱 3591</span>
 					</div>
 				<div class="stars-today">⭐ 7692 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/mukul975/Anthropic-Cybersecurity-Skills" target="_blank">
-    
-
-
-      
-        mukul975 /
-
-      Anthropic-Cybersecurity-Skills</a></p>
-				<p>
-      817 structured cybersecurity skills for AI agents · Mapped to 6 frameworks: MITRE ATT&CK, NIST CSF 2.0, MITRE ATLAS, D3FEND, NIST AI RMF & MITRE F3 (Fight Fraud) · agentskills.io standard · Works with Claude Code, GitHub Copilot, Codex CLI, Cursor, Gemini CLI & 20+ platforms · 29 security domains · Apache 2.0
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 22830</span>
-						<span>🔱 2598</span>
-					</div>
-				<div class="stars-today">⭐ 5212 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/penpot/penpot" target="_blank">
-    
-
-
-      
-        penpot /
-
-      penpot</a></p>
-				<p>
-      Penpot: The open-source design tool for design and code collaboration
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Clojure</span>
-						<span>⭐ 54482</span>
-						<span>🔱 3538</span>
-					</div>
-				<div class="stars-today">⭐ 2429 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/BuilderIO/agent-native" target="_blank">
-    
-
-
-      
-        BuilderIO /
-
-      agent-native</a></p>
-				<p>
-      A framework for building agent-native applications.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 2965</span>
-						<span>🔱 294</span>
-					</div>
-				<div class="stars-today">⭐ 1540 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/jamiepine/voicebox" target="_blank">
-    
-
-
-      
-        jamiepine /
-
-      voicebox</a></p>
-				<p>
-      The open-source AI voice studio. Clone, dictate, create.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 35604</span>
-						<span>🔱 4273</span>
-					</div>
-				<div class="stars-today">⭐ 3883 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/aws/agent-toolkit-for-aws" target="_blank">
-    
-
-
-      
-        aws /
-
-      agent-toolkit-for-aws</a></p>
-				<p>
-      Official, AWS-supported MCP servers, skills, and plugins to help AI agents build on AWS
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 1566</span>
-						<span>🔱 132</span>
-					</div>
-				<div class="stars-today">⭐ 600 stars this week</div>
 				</div>
 			</div>
 	
@@ -382,10 +250,142 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 20545</span>
-						<span>🔱 1765</span>
+						<span>⭐ 20573</span>
+						<span>🔱 1770</span>
 					</div>
 				<div class="stars-today">⭐ 1778 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/mukul975/Anthropic-Cybersecurity-Skills" target="_blank">
+    
+
+
+      
+        mukul975 /
+
+      Anthropic-Cybersecurity-Skills</a></p>
+				<p>
+      817 structured cybersecurity skills for AI agents · Mapped to 6 frameworks: MITRE ATT&CK, NIST CSF 2.0, MITRE ATLAS, D3FEND, NIST AI RMF & MITRE F3 (Fight Fraud) · agentskills.io standard · Works with Claude Code, GitHub Copilot, Codex CLI, Cursor, Gemini CLI & 20+ platforms · 29 security domains · Apache 2.0
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 22930</span>
+						<span>🔱 2606</span>
+					</div>
+				<div class="stars-today">⭐ 5212 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/palmier-io/palmier-pro" target="_blank">
+    
+
+
+      
+        palmier-io /
+
+      palmier-pro</a></p>
+				<p>
+      macOS video editor built for AI
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Swift</span>
+						<span>⭐ 9469</span>
+						<span>🔱 670</span>
+					</div>
+				<div class="stars-today">⭐ 5034 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/BuilderIO/agent-native" target="_blank">
+    
+
+
+      
+        BuilderIO /
+
+      agent-native</a></p>
+				<p>
+      A framework for building agent-native applications.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 3011</span>
+						<span>🔱 299</span>
+					</div>
+				<div class="stars-today">⭐ 1540 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/aws/agent-toolkit-for-aws" target="_blank">
+    
+
+
+      
+        aws /
+
+      agent-toolkit-for-aws</a></p>
+				<p>
+      Official, AWS-supported MCP servers, skills, and plugins to help AI agents build on AWS
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 1583</span>
+						<span>🔱 133</span>
+					</div>
+				<div class="stars-today">⭐ 600 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/topoteretes/cognee" target="_blank">
+    
+
+
+      
+        topoteretes /
+
+      cognee</a></p>
+				<p>
+      Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions with a self-hosted knowledge graph engine.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 25389</span>
+						<span>🔱 2342</span>
+					</div>
+				<div class="stars-today">⭐ 6064 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/NanmiCoder/MediaCrawler" target="_blank">
+    
+
+
+      
+        NanmiCoder /
+
+      MediaCrawler</a></p>
+				<p>
+      小红书笔记 | 评论爬虫、抖音视频 | 评论爬虫、快手视频 | 评论爬虫、B 站视频 ｜ 评论爬虫、微博帖子 ｜ 评论爬虫、百度贴吧帖子 ｜ 百度贴吧评论回复爬虫 | 知乎问答文章｜评论爬虫
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 54219</span>
+						<span>🔱 11060</span>
+					</div>
+				<div class="stars-today">⭐ 2472 stars this week</div>
 				</div>
 			</div>
 	
@@ -404,8 +404,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Java</span>
-						<span>⭐ 85063</span>
-						<span>🔱 7386</span>
+						<span>⭐ 85117</span>
+						<span>🔱 7389</span>
 					</div>
 				<div class="stars-today">⭐ 3079 stars this week</div>
 				</div>
@@ -426,76 +426,54 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 60780</span>
-						<span>🔱 9469</span>
+						<span>⭐ 60831</span>
+						<span>🔱 9475</span>
 					</div>
 				<div class="stars-today">⭐ 2845 stars this week</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/NanmiCoder/MediaCrawler" target="_blank">
+				<p><a href="https://github.com/jamiepine/voicebox" target="_blank">
     
 
 
       
-        NanmiCoder /
+        jamiepine /
 
-      MediaCrawler</a></p>
+      voicebox</a></p>
 				<p>
-      小红书笔记 | 评论爬虫、抖音视频 | 评论爬虫、快手视频 | 评论爬虫、B 站视频 ｜ 评论爬虫、微博帖子 ｜ 评论爬虫、百度贴吧帖子 ｜ 百度贴吧评论回复爬虫 | 知乎问答文章｜评论爬虫
+      The open-source AI voice studio. Clone, dictate, create.
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 54165</span>
-						<span>🔱 11051</span>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 35715</span>
+						<span>🔱 4283</span>
 					</div>
-				<div class="stars-today">⭐ 2472 stars this week</div>
+				<div class="stars-today">⭐ 3883 stars this week</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/topoteretes/cognee" target="_blank">
+				<p><a href="https://github.com/penpot/penpot" target="_blank">
     
 
 
       
-        topoteretes /
+        penpot /
 
-      cognee</a></p>
+      penpot</a></p>
 				<p>
-      Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions with a self-hosted knowledge graph engine.
+      Penpot: The open-source design tool for design and code collaboration
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 25175</span>
-						<span>🔱 2323</span>
+						<span>🔠 Clojure</span>
+						<span>⭐ 54533</span>
+						<span>🔱 3544</span>
 					</div>
-				<div class="stars-today">⭐ 6064 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/bytedance/deer-flow" target="_blank">
-    
-
-
-      
-        bytedance /
-
-      deer-flow</a></p>
-				<p>
-      An open-source long-horizon SuperAgent harness that researches, codes, and creates. With the help of sandboxes, memories, tools, skill, subagents and message gateway, it handles different levels of tasks that could take minutes to hours.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 75363</span>
-						<span>🔱 10166</span>
-					</div>
-				<div class="stars-today">⭐ 2976 stars this week</div>
+				<div class="stars-today">⭐ 2429 stars this week</div>
 				</div>
 			</div>
 	
