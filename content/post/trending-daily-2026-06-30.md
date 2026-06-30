@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2026-06-30
-date: 2026-06-30T16:11:15Z
+date: 2026-06-30T19:26:09Z
 categories:
 - daily
 keywords:
@@ -14,6 +14,28 @@ keywords:
 	<main class="container">
         <div class="repo-list" id="repoList">
 
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/hasaneyldrm/exercises-dataset" target="_blank">
+    
+
+
+      
+        hasaneyldrm /
+
+      exercises-dataset</a></p>
+				<p>
+      A comprehensive dataset of 433 fitness exercises. Each entry includes name, category, target muscle group, equipment, instructions, thumbnail image, and animation video.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 HTML</span>
+						<span>⭐ 6184</span>
+						<span>🔱 766</span>
+					</div>
+				<div class="stars-today">⭐ 1413 stars today</div>
+				</div>
+			</div>
 	
 			<div class="repo-card">
 				<p><a href="https://github.com/usestrix/strix" target="_blank">
@@ -30,8 +52,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 27835</span>
-						<span>🔱 3108</span>
+						<span>⭐ 27980</span>
+						<span>🔱 3116</span>
 					</div>
 				<div class="stars-today">⭐ 395 stars today</div>
 				</div>
@@ -52,8 +74,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Shell</span>
-						<span>⭐ 120395</span>
-						<span>🔱 19672</span>
+						<span>⭐ 120620</span>
+						<span>🔱 19708</span>
 					</div>
 				<div class="stars-today">⭐ 1793 stars today</div>
 				</div>
@@ -69,13 +91,13 @@ keywords:
 
       FluidVoice</a></p>
 				<p>
-      FluidVoice - Fastest macOS Offline Dictation app - Voice to Text fully Local. One ⭐ takes us a long way :)) 
+      Fastest and only macOS Dictation app with on-device STT and custom trained AI enhancement model - Local Wispr Flow alternative. One ⭐ takes us a long way :)) Windows, iOS and Linux coming soon.
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Swift</span>
-						<span>⭐ 4781</span>
-						<span>🔱 296</span>
+						<span>⭐ 4838</span>
+						<span>🔱 300</span>
 					</div>
 				<div class="stars-today">⭐ 586 stars today</div>
 				</div>
@@ -91,13 +113,13 @@ keywords:
 
       OmniRoute</a></p>
 				<p>
-      Never stop coding. Free AI gateway: one endpoint, 160+ providers (50+ free), connect Claude Code, Codex, Cursor, Cline & Copilot to FREE Claude/GPT/Gemini. RTK+Caveman stacked compression saves 15-95% tokens, smart auto-fallback, MCP/A2A, multimodal APIs, Desktop/PWA.
+      Never stop coding. Free AI gateway: one endpoint, 231+ providers (50+ free), connect Claude Code, Codex, Cursor, Cline & Copilot to FREE Claude/GPT/Gemini. RTK+Caveman stacked compression saves 15-95% tokens, smart auto-fallback, MCP/A2A, multimodal APIs, Desktop/PWA.
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 8265</span>
-						<span>🔱 1377</span>
+						<span>⭐ 8362</span>
+						<span>🔱 1386</span>
 					</div>
 				<div class="stars-today">⭐ 459 stars today</div>
 				</div>
@@ -118,8 +140,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 12415</span>
-						<span>🔱 1594</span>
+						<span>⭐ 12489</span>
+						<span>🔱 1599</span>
 					</div>
 				<div class="stars-today">⭐ 722 stars today</div>
 				</div>
@@ -140,8 +162,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 7382</span>
-						<span>🔱 948</span>
+						<span>⭐ 7432</span>
+						<span>🔱 953</span>
 					</div>
 				<div class="stars-today">⭐ 966 stars today</div>
 				</div>
@@ -162,10 +184,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 6046</span>
-						<span>🔱 2042</span>
+						<span>⭐ 6071</span>
+						<span>🔱 2045</span>
 					</div>
-				<div class="stars-today">⭐ 18 stars today</div>
+				<div class="stars-today">⭐ 61 stars today</div>
 				</div>
 			</div>
 	
@@ -184,8 +206,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 HTML</span>
-						<span>⭐ 127204</span>
-						<span>🔱 13297</span>
+						<span>⭐ 127254</span>
+						<span>🔱 13301</span>
 					</div>
 				<div class="stars-today">⭐ 740 stars today</div>
 				</div>
@@ -206,8 +228,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 3954</span>
-						<span>🔱 440</span>
+						<span>⭐ 4078</span>
+						<span>🔱 447</span>
 					</div>
 				<div class="stars-today">⭐ 433 stars today</div>
 				</div>
@@ -228,8 +250,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 45801</span>
-						<span>🔱 4066</span>
+						<span>⭐ 45846</span>
+						<span>🔱 4069</span>
 					</div>
 				<div class="stars-today">⭐ 336 stars today</div>
 				</div>
@@ -250,8 +272,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Rust</span>
-						<span>⭐ 8830</span>
-						<span>🔱 531</span>
+						<span>⭐ 8903</span>
+						<span>🔱 536</span>
 					</div>
 				<div class="stars-today">⭐ 485 stars today</div>
 				</div>
@@ -272,8 +294,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Haskell</span>
-						<span>⭐ 17247</span>
-						<span>🔱 1003</span>
+						<span>⭐ 17288</span>
+						<span>🔱 1005</span>
 					</div>
 				<div class="stars-today">⭐ 1229 stars today</div>
 				</div>
@@ -294,8 +316,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 1347</span>
-						<span>🔱 129</span>
+						<span>⭐ 1430</span>
+						<span>🔱 133</span>
 					</div>
 				<div class="stars-today">⭐ 351 stars today</div>
 				</div>
@@ -316,8 +338,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Jupyter Notebook</span>
-						<span>⭐ 49059</span>
-						<span>🔱 10140</span>
+						<span>⭐ 49202</span>
+						<span>🔱 10151</span>
 					</div>
 				<div class="stars-today">⭐ 180 stars today</div>
 				</div>
@@ -338,8 +360,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 1563</span>
-						<span>🔱 86</span>
+						<span>⭐ 1662</span>
+						<span>🔱 92</span>
 					</div>
 				<div class="stars-today">⭐ 399 stars today</div>
 				</div>
@@ -360,8 +382,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 15622</span>
-						<span>🔱 2721</span>
+						<span>⭐ 15697</span>
+						<span>🔱 2728</span>
 					</div>
 				<div class="stars-today">⭐ 719 stars today</div>
 				</div>
@@ -382,8 +404,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Shell</span>
-						<span>⭐ 242240</span>
-						<span>🔱 21497</span>
+						<span>⭐ 242357</span>
+						<span>🔱 21507</span>
 					</div>
 				<div class="stars-today">⭐ 884 stars today</div>
 				</div>
@@ -404,10 +426,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 8746</span>
-						<span>🔱 852</span>
+						<span>⭐ 8801</span>
+						<span>🔱 854</span>
 					</div>
-				<div class="stars-today">⭐ 465 stars today</div>
+				<div class="stars-today">⭐ 210 stars today</div>
 				</div>
 			</div>
 	
