@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2026年6月
-date: 2026-06-30T10:44:59Z
+date: 2026-06-30T13:30:13Z
 categories:
 - monthly
 keywords:
@@ -30,8 +30,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Swift</span>
-						<span>⭐ 45037</span>
-						<span>🔱 1333</span>
+						<span>⭐ 45127</span>
+						<span>🔱 1336</span>
 					</div>
 				<div class="stars-today">⭐ 18123 stars this month</div>
 				</div>
@@ -52,8 +52,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 C</span>
-						<span>⭐ 22121</span>
-						<span>🔱 1596</span>
+						<span>⭐ 22314</span>
+						<span>🔱 1613</span>
 					</div>
 				<div class="stars-today">⭐ 18196 stars this month</div>
 				</div>
@@ -74,8 +74,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 29307</span>
-						<span>🔱 3292</span>
+						<span>⭐ 29451</span>
+						<span>🔱 3314</span>
 					</div>
 				<div class="stars-today">⭐ 24187 stars this month</div>
 				</div>
@@ -96,8 +96,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 46479</span>
-						<span>🔱 3669</span>
+						<span>⭐ 46609</span>
+						<span>🔱 3682</span>
 					</div>
 				<div class="stars-today">⭐ 25059 stars this month</div>
 				</div>
@@ -118,8 +118,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 47790</span>
-						<span>🔱 3954</span>
+						<span>⭐ 47816</span>
+						<span>🔱 3955</span>
 					</div>
 				<div class="stars-today">⭐ 21128 stars this month</div>
 				</div>
@@ -140,8 +140,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 129461</span>
-						<span>🔱 7163</span>
+						<span>⭐ 129485</span>
+						<span>🔱 7166</span>
 					</div>
 				<div class="stars-today">⭐ 13028 stars this month</div>
 				</div>
@@ -162,8 +162,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 </span>
-						<span>⭐ 21813</span>
-						<span>🔱 2197</span>
+						<span>⭐ 21845</span>
+						<span>🔱 2200</span>
 					</div>
 				<div class="stars-today">⭐ 10053 stars this month</div>
 				</div>
@@ -184,8 +184,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 34060</span>
-						<span>🔱 3800</span>
+						<span>⭐ 34082</span>
+						<span>🔱 3801</span>
 					</div>
 				<div class="stars-today">⭐ 10212 stars this month</div>
 				</div>
@@ -206,54 +206,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 94343</span>
-						<span>🔱 13695</span>
+						<span>⭐ 94373</span>
+						<span>🔱 13702</span>
 					</div>
 				<div class="stars-today">⭐ 26117 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/Leonxlnx/taste-skill" target="_blank">
-    
-
-
-      
-        Leonxlnx /
-
-      taste-skill</a></p>
-				<p>
-      Taste-Skill - gives your AI good taste. stops the AI from generating boring, generic slop 
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 JavaScript</span>
-						<span>⭐ 53538</span>
-						<span>🔱 3688</span>
-					</div>
-				<div class="stars-today">⭐ 25764 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/simplex-chat/simplex-chat" target="_blank">
-    
-
-
-      
-        simplex-chat /
-
-      simplex-chat</a></p>
-				<p>
-      SimpleX - the first messaging network operating without user identifiers of any kind - 100% private by design! iOS, Android and desktop apps 📱!
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Haskell</span>
-						<span>⭐ 17186</span>
-						<span>🔱 997</span>
-					</div>
-				<div class="stars-today">⭐ 5025 stars this month</div>
 				</div>
 			</div>
 	
@@ -272,8 +228,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 JavaScript</span>
-						<span>⭐ 3802</span>
-						<span>🔱 437</span>
+						<span>⭐ 3808</span>
+						<span>🔱 439</span>
 					</div>
 				<div class="stars-today">⭐ 2496 stars this month</div>
 				</div>
@@ -294,32 +250,54 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 JavaScript</span>
-						<span>⭐ 47263</span>
-						<span>🔱 7711</span>
+						<span>⭐ 47294</span>
+						<span>🔱 7714</span>
 					</div>
 				<div class="stars-today">⭐ 6293 stars this month</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/microsoft/markitdown" target="_blank">
+				<p><a href="https://github.com/Leonxlnx/taste-skill" target="_blank">
     
 
 
       
-        microsoft /
+        Leonxlnx /
 
-      markitdown</a></p>
+      taste-skill</a></p>
 				<p>
-      Python tool for converting files and office documents to Markdown.
+      Taste-Skill - gives your AI good taste. stops the AI from generating boring, generic slop 
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 161505</span>
-						<span>🔱 11359</span>
+						<span>🔠 JavaScript</span>
+						<span>⭐ 53621</span>
+						<span>🔱 3689</span>
 					</div>
-				<div class="stars-today">⭐ 32813 stars this month</div>
+				<div class="stars-today">⭐ 25764 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/alibaba/zvec" target="_blank">
+    
+
+
+      
+        alibaba /
+
+      zvec</a></p>
+				<p>
+      A lightweight, lightning-fast, in-process vector database
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 C++</span>
+						<span>⭐ 12621</span>
+						<span>🔱 752</span>
+					</div>
+				<div class="stars-today">⭐ 2915 stars this month</div>
 				</div>
 			</div>
 	
@@ -338,8 +316,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 9407</span>
-						<span>🔱 641</span>
+						<span>⭐ 9466</span>
+						<span>🔱 646</span>
 					</div>
 				<div class="stars-today">⭐ 5358 stars this month</div>
 				</div>
@@ -360,8 +338,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Rust</span>
-						<span>⭐ 8682</span>
-						<span>🔱 522</span>
+						<span>⭐ 8754</span>
+						<span>🔱 528</span>
 					</div>
 				<div class="stars-today">⭐ 5416 stars this month</div>
 				</div>
@@ -382,10 +360,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 23273</span>
-						<span>🔱 2640</span>
+						<span>⭐ 23322</span>
+						<span>🔱 2648</span>
 					</div>
 				<div class="stars-today">⭐ 11231 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/kenn-io/agentsview" target="_blank">
+    
+
+
+      
+        kenn-io /
+
+      agentsview</a></p>
+				<p>
+      Local-first session search, analytics, insights, and token use statistics for coding agents, supporting Claude Code, Codex, and more than 20 other agents. 
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Go</span>
+						<span>⭐ 3427</span>
+						<span>🔱 274</span>
+					</div>
+				<div class="stars-today">⭐ 2286 stars this month</div>
 				</div>
 			</div>
 	
@@ -404,10 +404,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 14145</span>
-						<span>🔱 2096</span>
+						<span>⭐ 14169</span>
+						<span>🔱 2095</span>
 					</div>
 				<div class="stars-today">⭐ 7821 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/OpenCut-app/OpenCut" target="_blank">
+    
+
+
+      
+        OpenCut-app /
+
+      OpenCut</a></p>
+				<p>
+      The open-source CapCut alternative
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 60634</span>
+						<span>🔱 6562</span>
+					</div>
+				<div class="stars-today">⭐ 8631 stars this month</div>
 				</div>
 			</div>
 	
@@ -426,32 +448,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 15259</span>
-						<span>🔱 1350</span>
+						<span>⭐ 15276</span>
+						<span>🔱 1352</span>
 					</div>
 				<div class="stars-today">⭐ 6867 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/Open-LLM-VTuber/Open-LLM-VTuber" target="_blank">
-    
-
-
-      
-        Open-LLM-VTuber /
-
-      Open-LLM-VTuber</a></p>
-				<p>
-      Talk to any LLM with hands-free voice interaction, voice interruption, and Live2D taking face running locally across platforms
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 12192</span>
-						<span>🔱 1411</span>
-					</div>
-				<div class="stars-today">⭐ 4291 stars this month</div>
 				</div>
 			</div>
 	
