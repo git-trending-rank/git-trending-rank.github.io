@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2026年第27周
-date: 2026-07-01T07:59:12Z
+date: 2026-07-01T12:24:49Z
 categories:
 - weekly
 keywords:
@@ -16,24 +16,24 @@ keywords:
 
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/calesthio/OpenMontage" target="_blank">
+				<p><a href="https://github.com/xbtlin/ai-berkshire" target="_blank">
     
 
 
       
-        calesthio /
+        xbtlin /
 
-      OpenMontage</a></p>
+      ai-berkshire</a></p>
 				<p>
-      World's first open-source, agentic video production system. 12 pipelines, 52 tools, 500+ agent skills. Turn your AI coding assistant into a full video production studio.
+      AI 时代的伯克希尔：基于 Claude Code / Codex 的价值投资研究框架。巴菲特·芒格·段永平·李录四大师方法论 + 多Agent并行研究。| AI-era Berkshire: a value investing research framework built for Claude Code / Codex. 4 masters' methodologies + multi-agent adversarial analysis.
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 30272</span>
-						<span>🔱 3422</span>
+						<span>⭐ 7998</span>
+						<span>🔱 1012</span>
 					</div>
-				<div class="stars-today">⭐ 15353 stars this week</div>
+				<div class="stars-today">⭐ 6726 stars this week</div>
 				</div>
 			</div>
 	
@@ -52,10 +52,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Haskell</span>
-						<span>⭐ 17459</span>
-						<span>🔱 1015</span>
+						<span>⭐ 17513</span>
+						<span>🔱 1018</span>
 					</div>
 				<div class="stars-today">⭐ 5995 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/calesthio/OpenMontage" target="_blank">
+    
+
+
+      
+        calesthio /
+
+      OpenMontage</a></p>
+				<p>
+      World's first open-source, agentic video production system. 12 pipelines, 52 tools, 500+ agent skills. Turn your AI coding assistant into a full video production studio.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 30472</span>
+						<span>🔱 3451</span>
+					</div>
+				<div class="stars-today">⭐ 15353 stars this week</div>
 				</div>
 			</div>
 	
@@ -74,8 +96,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 23841</span>
-						<span>🔱 1875</span>
+						<span>⭐ 23906</span>
+						<span>🔱 1879</span>
 					</div>
 				<div class="stars-today">⭐ 7524 stars this week</div>
 				</div>
@@ -96,8 +118,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 C</span>
-						<span>⭐ 23174</span>
-						<span>🔱 1692</span>
+						<span>⭐ 23373</span>
+						<span>🔱 1708</span>
 					</div>
 				<div class="stars-today">⭐ 10031 stars this week</div>
 				</div>
@@ -118,8 +140,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Go</span>
-						<span>⭐ 4605</span>
-						<span>🔱 261</span>
+						<span>⭐ 4650</span>
+						<span>🔱 263</span>
 					</div>
 				<div class="stars-today">⭐ 2783 stars this week</div>
 				</div>
@@ -140,8 +162,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 24153</span>
-						<span>🔱 3427</span>
+						<span>⭐ 24242</span>
+						<span>🔱 3433</span>
 					</div>
 				<div class="stars-today">⭐ 5624 stars this week</div>
 				</div>
@@ -162,98 +184,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 8661</span>
-						<span>🔱 723</span>
+						<span>⭐ 8705</span>
+						<span>🔱 722</span>
 					</div>
 				<div class="stars-today">⭐ 2744 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/ZhuLinsen/daily_stock_analysis" target="_blank">
-    
-
-
-      
-        ZhuLinsen /
-
-      daily_stock_analysis</a></p>
-				<p>
-      LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。 LLM-powered multi-market stock analysis system with multi-source market data, real-time news, decision dashboard, automated notifications, and cost-free scheduled runs.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 52746</span>
-						<span>🔱 45723</span>
-					</div>
-				<div class="stars-today">⭐ 5806 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/stablyai/orca" target="_blank">
-    
-
-
-      
-        stablyai /
-
-      orca</a></p>
-				<p>
-      Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop and mobile.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 9880</span>
-						<span>🔱 666</span>
-					</div>
-				<div class="stars-today">⭐ 3311 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/alibaba/page-agent" target="_blank">
-    
-
-
-      
-        alibaba /
-
-      page-agent</a></p>
-				<p>
-      JavaScript in-page GUI agent. Control web interfaces with natural language.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 20854</span>
-						<span>🔱 1783</span>
-					</div>
-				<div class="stars-today">⭐ 1591 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/topoteretes/cognee" target="_blank">
-    
-
-
-      
-        topoteretes /
-
-      cognee</a></p>
-				<p>
-      Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions with a self-hosted knowledge graph engine.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 26199</span>
-						<span>🔱 2409</span>
-					</div>
-				<div class="stars-today">⭐ 6417 stars this week</div>
 				</div>
 			</div>
 	
@@ -272,32 +206,76 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 9012</span>
-						<span>🔱 868</span>
+						<span>⭐ 9104</span>
+						<span>🔱 876</span>
 					</div>
 				<div class="stars-today">⭐ 1388 stars this week</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/interviewstreet/hiring-agent" target="_blank">
+				<p><a href="https://github.com/ripienaar/free-for-dev" target="_blank">
     
 
 
       
-        interviewstreet /
+        ripienaar /
 
-      hiring-agent</a></p>
+      free-for-dev</a></p>
 				<p>
-      AI agent to evaluate and score resumes.
+      A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 HTML</span>
+						<span>⭐ 127534</span>
+						<span>🔱 13325</span>
+					</div>
+				<div class="stars-today">⭐ 3964 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/stablyai/orca" target="_blank">
+    
+
+
+      
+        stablyai /
+
+      orca</a></p>
+				<p>
+      Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop and mobile.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 10002</span>
+						<span>🔱 676</span>
+					</div>
+				<div class="stars-today">⭐ 3311 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/topoteretes/cognee" target="_blank">
+    
+
+
+      
+        topoteretes /
+
+      cognee</a></p>
+				<p>
+      Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions with a self-hosted knowledge graph engine.
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 4035</span>
-						<span>🔱 794</span>
+						<span>⭐ 26261</span>
+						<span>🔱 2419</span>
 					</div>
-				<div class="stars-today">⭐ 2266 stars this week</div>
+				<div class="stars-today">⭐ 6417 stars this week</div>
 				</div>
 			</div>
 	
@@ -316,10 +294,98 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 47545</span>
-						<span>🔱 3768</span>
+						<span>⭐ 47863</span>
+						<span>🔱 3798</span>
 					</div>
 				<div class="stars-today">⭐ 8398 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/interviewstreet/hiring-agent" target="_blank">
+    
+
+
+      
+        interviewstreet /
+
+      hiring-agent</a></p>
+				<p>
+      AI agent to evaluate and score resumes.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 4059</span>
+						<span>🔱 797</span>
+					</div>
+				<div class="stars-today">⭐ 2266 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/alibaba/page-agent" target="_blank">
+    
+
+
+      
+        alibaba /
+
+      page-agent</a></p>
+				<p>
+      JavaScript in-page GUI agent. Control web interfaces with natural language.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 20885</span>
+						<span>🔱 1783</span>
+					</div>
+				<div class="stars-today">⭐ 1591 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/NanmiCoder/MediaCrawler" target="_blank">
+    
+
+
+      
+        NanmiCoder /
+
+      MediaCrawler</a></p>
+				<p>
+      小红书笔记 | 评论爬虫、抖音视频 | 评论爬虫、快手视频 | 评论爬虫、B 站视频 ｜ 评论爬虫、微博帖子 ｜ 评论爬虫、百度贴吧帖子 ｜ 百度贴吧评论回复爬虫 | 知乎问答文章｜评论爬虫
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 54718</span>
+						<span>🔱 11121</span>
+					</div>
+				<div class="stars-today">⭐ 2683 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/ZhuLinsen/daily_stock_analysis" target="_blank">
+    
+
+
+      
+        ZhuLinsen /
+
+      daily_stock_analysis</a></p>
+				<p>
+      LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。 LLM-powered multi-market stock analysis system with multi-source market data, real-time news, decision dashboard, automated notifications, and cost-free scheduled runs.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 52905</span>
+						<span>🔱 45859</span>
+					</div>
+				<div class="stars-today">⭐ 5806 stars this week</div>
 				</div>
 			</div>
 	
@@ -338,8 +404,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 36435</span>
-						<span>🔱 4370</span>
+						<span>⭐ 36523</span>
+						<span>🔱 4380</span>
 					</div>
 				<div class="stars-today">⭐ 3336 stars this week</div>
 				</div>
@@ -360,8 +426,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 23573</span>
-						<span>🔱 2683</span>
+						<span>⭐ 23629</span>
+						<span>🔱 2689</span>
 					</div>
 				<div class="stars-today">⭐ 4109 stars this week</div>
 				</div>
@@ -382,32 +448,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 1658</span>
+						<span>⭐ 1664</span>
 						<span>🔱 137</span>
 					</div>
 				<div class="stars-today">⭐ 684 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/NanmiCoder/MediaCrawler" target="_blank">
-    
-
-
-      
-        NanmiCoder /
-
-      MediaCrawler</a></p>
-				<p>
-      小红书笔记 | 评论爬虫、抖音视频 | 评论爬虫、快手视频 | 评论爬虫、B 站视频 ｜ 评论爬虫、微博帖子 ｜ 评论爬虫、百度贴吧帖子 ｜ 百度贴吧评论回复爬虫 | 知乎问答文章｜评论爬虫
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 54649</span>
-						<span>🔱 11115</span>
-					</div>
-				<div class="stars-today">⭐ 2683 stars this week</div>
 				</div>
 			</div>
 	
@@ -426,10 +470,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 3244</span>
-						<span>🔱 311</span>
+						<span>⭐ 3268</span>
+						<span>🔱 313</span>
 					</div>
 				<div class="stars-today">⭐ 1370 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/usestrix/strix" target="_blank">
+    
+
+
+      
+        usestrix /
+
+      strix</a></p>
+				<p>
+      Open-source AI penetration testing tool to find and fix your app’s vulnerabilities.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 28733</span>
+						<span>🔱 3170</span>
+					</div>
+				<div class="stars-today">⭐ 1802 stars this week</div>
 				</div>
 			</div>
 	
