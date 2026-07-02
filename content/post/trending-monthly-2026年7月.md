@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2026年7月
-date: 2026-07-02T08:35:33Z
+date: 2026-07-02T11:57:36Z
 categories:
 - monthly
 keywords:
@@ -30,8 +30,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Swift</span>
-						<span>⭐ 45756</span>
-						<span>🔱 1359</span>
+						<span>⭐ 45798</span>
+						<span>🔱 1362</span>
 					</div>
 				<div class="stars-today">⭐ 19052 stars this month</div>
 				</div>
@@ -52,8 +52,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 C</span>
-						<span>⭐ 24167</span>
-						<span>🔱 1773</span>
+						<span>⭐ 24291</span>
+						<span>🔱 1780</span>
 					</div>
 				<div class="stars-today">⭐ 20690 stars this month</div>
 				</div>
@@ -74,8 +74,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 31229</span>
-						<span>🔱 3546</span>
+						<span>⭐ 31358</span>
+						<span>🔱 3564</span>
 					</div>
 				<div class="stars-today">⭐ 26509 stars this month</div>
 				</div>
@@ -96,8 +96,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 48654</span>
-						<span>🔱 3873</span>
+						<span>⭐ 48787</span>
+						<span>🔱 3880</span>
 					</div>
 				<div class="stars-today">⭐ 27497 stars this month</div>
 				</div>
@@ -118,8 +118,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 48357</span>
-						<span>🔱 4000</span>
+						<span>⭐ 48393</span>
+						<span>🔱 4003</span>
 					</div>
 				<div class="stars-today">⭐ 21484 stars this month</div>
 				</div>
@@ -140,8 +140,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 129882</span>
-						<span>🔱 7200</span>
+						<span>⭐ 129912</span>
+						<span>🔱 7202</span>
 					</div>
 				<div class="stars-today">⭐ 13422 stars this month</div>
 				</div>
@@ -162,8 +162,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 </span>
-						<span>⭐ 22119</span>
-						<span>🔱 2224</span>
+						<span>⭐ 22142</span>
+						<span>🔱 2227</span>
 					</div>
 				<div class="stars-today">⭐ 10309 stars this month</div>
 				</div>
@@ -184,10 +184,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 34409</span>
-						<span>🔱 3836</span>
+						<span>⭐ 34434</span>
+						<span>🔱 3837</span>
 					</div>
 				<div class="stars-today">⭐ 10482 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/NVIDIA/cosmos" target="_blank">
+    
+
+
+      
+        NVIDIA /
+
+      cosmos</a></p>
+				<p>
+      NVIDIA Cosmos is an open platform of world models, datasets, and tools that enables developers to build Physical AI for robots, autonomous vehicles, smart infrastructure, and more.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Jupyter Notebook</span>
+						<span>⭐ 10777</span>
+						<span>🔱 732</span>
+					</div>
+				<div class="stars-today">⭐ 2490 stars this month</div>
 				</div>
 			</div>
 	
@@ -206,7 +228,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 JavaScript</span>
-						<span>⭐ 47744</span>
+						<span>⭐ 47772</span>
 						<span>🔱 7786</span>
 					</div>
 				<div class="stars-today">⭐ 6665 stars this month</div>
@@ -228,54 +250,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 JavaScript</span>
-						<span>⭐ 3900</span>
-						<span>🔱 456</span>
+						<span>⭐ 3909</span>
+						<span>🔱 457</span>
 					</div>
 				<div class="stars-today">⭐ 2564 stars this month</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/Leonxlnx/taste-skill" target="_blank">
+				<p><a href="https://github.com/alibaba/zvec" target="_blank">
     
 
 
       
-        Leonxlnx /
+        alibaba /
 
-      taste-skill</a></p>
+      zvec</a></p>
 				<p>
-      Taste-Skill - gives your AI good taste. stops the AI from generating boring, generic slop 
+      A lightweight, lightning-fast, in-process vector database
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 JavaScript</span>
-						<span>⭐ 54663</span>
-						<span>🔱 3754</span>
+						<span>🔠 C++</span>
+						<span>⭐ 12695</span>
+						<span>🔱 756</span>
 					</div>
-				<div class="stars-today">⭐ 23990 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/harry0703/MoneyPrinterTurbo" target="_blank">
-    
-
-
-      
-        harry0703 /
-
-      MoneyPrinterTurbo</a></p>
-				<p>
-      利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 95077</span>
-						<span>🔱 13813</span>
-					</div>
-				<div class="stars-today">⭐ 19037 stars this month</div>
+				<div class="stars-today">⭐ 2982 stars this month</div>
 				</div>
 			</div>
 	
@@ -294,8 +294,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Rust</span>
-						<span>⭐ 9843</span>
-						<span>🔱 574</span>
+						<span>⭐ 9910</span>
+						<span>🔱 584</span>
 					</div>
 				<div class="stars-today">⭐ 5827 stars this month</div>
 				</div>
@@ -316,10 +316,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 10586</span>
-						<span>🔱 704</span>
+						<span>⭐ 10699</span>
+						<span>🔱 713</span>
 					</div>
 				<div class="stars-today">⭐ 6221 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/Leonxlnx/taste-skill" target="_blank">
+    
+
+
+      
+        Leonxlnx /
+
+      taste-skill</a></p>
+				<p>
+      Taste-Skill - gives your AI good taste. stops the AI from generating boring, generic slop 
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 JavaScript</span>
+						<span>⭐ 54766</span>
+						<span>🔱 3759</span>
+					</div>
+				<div class="stars-today">⭐ 23990 stars this month</div>
 				</div>
 			</div>
 	
@@ -338,98 +360,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Rust</span>
-						<span>⭐ 8163</span>
-						<span>🔱 699</span>
+						<span>⭐ 8189</span>
+						<span>🔱 704</span>
 					</div>
 				<div class="stars-today">⭐ 5289 stars this month</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/OpenCut-app/OpenCut" target="_blank">
+				<p><a href="https://github.com/harry0703/MoneyPrinterTurbo" target="_blank">
     
 
 
       
-        OpenCut-app /
+        harry0703 /
 
-      OpenCut</a></p>
+      MoneyPrinterTurbo</a></p>
 				<p>
-      The open-source CapCut alternative
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 61216</span>
-						<span>🔱 6598</span>
-					</div>
-				<div class="stars-today">⭐ 8963 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/mukul975/Anthropic-Cybersecurity-Skills" target="_blank">
-    
-
-
-      
-        mukul975 /
-
-      Anthropic-Cybersecurity-Skills</a></p>
-				<p>
-      817 structured cybersecurity skills for AI agents · Mapped to 6 frameworks: MITRE ATT&CK, NIST CSF 2.0, MITRE ATLAS, D3FEND, NIST AI RMF & MITRE F3 (Fight Fraud) · agentskills.io standard · Works with Claude Code, GitHub Copilot, Codex CLI, Cursor, Gemini CLI & 20+ platforms · 29 security domains · Apache 2.0
+      利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM.
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 23872</span>
-						<span>🔱 2710</span>
+						<span>⭐ 95138</span>
+						<span>🔱 13828</span>
 					</div>
-				<div class="stars-today">⭐ 10648 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/roboflow/supervision" target="_blank">
-    
-
-
-      
-        roboflow /
-
-      supervision</a></p>
-				<p>
-      We write your reusable computer vision tools. 💜
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 46209</span>
-						<span>🔱 4101</span>
-					</div>
-				<div class="stars-today">⭐ 6459 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/tashfeenahmed/freellmapi" target="_blank">
-    
-
-
-      
-        tashfeenahmed /
-
-      freellmapi</a></p>
-				<p>
-      OpenAI-compatible proxy that stacks the free tiers of 16 LLM providers (~1.7B tokens/month) behind one /v1 endpoint — plus any custom OpenAI-compatible endpoint. Smart routing, automatic failover, encrypted keys. Personal experimentation only.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 14689</span>
-						<span>🔱 2146</span>
-					</div>
-				<div class="stars-today">⭐ 7637 stars this month</div>
+				<div class="stars-today">⭐ 19037 stars this month</div>
 				</div>
 			</div>
 	
@@ -448,10 +404,54 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Rust</span>
-						<span>⭐ 10989</span>
+						<span>⭐ 10995</span>
 						<span>🔱 509</span>
 					</div>
 				<div class="stars-today">⭐ 2314 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/roboflow/supervision" target="_blank">
+    
+
+
+      
+        roboflow /
+
+      supervision</a></p>
+				<p>
+      We write your reusable computer vision tools. 💜
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 46225</span>
+						<span>🔱 4103</span>
+					</div>
+				<div class="stars-today">⭐ 6459 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/OpenCut-app/OpenCut" target="_blank">
+    
+
+
+      
+        OpenCut-app /
+
+      OpenCut</a></p>
+				<p>
+      The open-source CapCut alternative
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 61257</span>
+						<span>🔱 6601</span>
+					</div>
+				<div class="stars-today">⭐ 8963 stars this month</div>
 				</div>
 			</div>
 	

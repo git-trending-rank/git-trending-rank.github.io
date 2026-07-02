@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2026-07-02
-date: 2026-07-02T08:35:32Z
+date: 2026-07-02T11:57:36Z
 categories:
 - daily
 keywords:
@@ -14,28 +14,6 @@ keywords:
 	<main class="container">
         <div class="repo-list" id="repoList">
 
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/msitarzewski/agency-agents" target="_blank">
-    
-
-
-      
-        msitarzewski /
-
-      agency-agents</a></p>
-				<p>
-      A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Shell</span>
-						<span>⭐ 124524</span>
-						<span>🔱 20211</span>
-					</div>
-				<div class="stars-today">⭐ 2114 stars today</div>
-				</div>
-			</div>
 	
 			<div class="repo-card">
 				<p><a href="https://github.com/usestrix/strix" target="_blank">
@@ -52,32 +30,54 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 30413</span>
-						<span>🔱 3262</span>
+						<span>⭐ 30784</span>
+						<span>🔱 3285</span>
 					</div>
 				<div class="stars-today">⭐ 1211 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/HKUDS/Vibe-Trading" target="_blank">
+				<p><a href="https://github.com/JuliusBrussee/caveman" target="_blank">
     
 
 
       
-        HKUDS /
+        JuliusBrussee /
 
-      Vibe-Trading</a></p>
+      caveman</a></p>
 				<p>
-      "Vibe-Trading: Your Personal Trading Agent"
+      🪨 why use many token when few token do trick — Claude Code skill that cuts 65% of tokens by talking like caveman
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 16963</span>
-						<span>🔱 2842</span>
+						<span>🔠 JavaScript</span>
+						<span>⭐ 79511</span>
+						<span>🔱 4476</span>
 					</div>
-				<div class="stars-today">⭐ 694 stars today</div>
+				<div class="stars-today">⭐ 866 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/msitarzewski/agency-agents" target="_blank">
+    
+
+
+      
+        msitarzewski /
+
+      agency-agents</a></p>
+				<p>
+      A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Shell</span>
+						<span>⭐ 124951</span>
+						<span>🔱 20272</span>
+					</div>
+				<div class="stars-today">⭐ 2114 stars today</div>
 				</div>
 			</div>
 	
@@ -96,318 +96,76 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 HTML</span>
-						<span>⭐ 8761</span>
-						<span>🔱 982</span>
+						<span>⭐ 8877</span>
+						<span>🔱 994</span>
 					</div>
 				<div class="stars-today">⭐ 2470 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/facebook/astryx" target="_blank">
+				<p><a href="https://github.com/santifer/career-ops" target="_blank">
     
 
 
       
-        facebook /
+        santifer /
 
-      astryx</a></p>
+      career-ops</a></p>
 				<p>
-      An open source design system that's fully customizable and agent ready
+      AI-powered job search system built on Claude Code. 14 skill modes, Go dashboard, PDF generation, batch processing.
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 3037</span>
-						<span>🔱 158</span>
+						<span>🔠 JavaScript</span>
+						<span>⭐ 57309</span>
+						<span>🔱 11330</span>
 					</div>
-				<div class="stars-today">⭐ 708 stars today</div>
+				<div class="stars-today">⭐ 322 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/diegosouzapw/OmniRoute" target="_blank">
+				<p><a href="https://github.com/obra/superpowers" target="_blank">
     
 
 
       
-        diegosouzapw /
+        obra /
 
-      OmniRoute</a></p>
+      superpowers</a></p>
 				<p>
-      Never stop coding. Free AI gateway: one endpoint, 231+ providers (50+ free), connect Claude Code, Codex, Cursor, Cline & Copilot to FREE Claude/GPT/Gemini. RTK+Caveman stacked compression saves 15-95% tokens, smart auto-fallback, MCP/A2A, multimodal APIs, Desktop/PWA.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 9910</span>
-						<span>🔱 1501</span>
-					</div>
-				<div class="stars-today">⭐ 1010 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/allenai/olmocr" target="_blank">
-    
-
-
-      
-        allenai /
-
-      olmocr</a></p>
-				<p>
-      Toolkit for linearizing PDFs for LLM datasets/training
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 18448</span>
-						<span>🔱 1518</span>
-					</div>
-				<div class="stars-today">⭐ 334 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/logto-io/logto" target="_blank">
-    
-
-
-      
-        logto-io /
-
-      logto</a></p>
-				<p>
-      🧑‍🚀 Authentication and authorization infrastructure for SaaS and AI apps, built on OIDC and OAuth 2.1 with multi-tenancy, SSO, and RBAC.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 13424</span>
-						<span>🔱 909</span>
-					</div>
-				<div class="stars-today">⭐ 113 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/togatoga/karukan" target="_blank">
-    
-
-
-      
-        togatoga /
-
-      karukan</a></p>
-				<p>
-      Japanese Input Method System for Linux, macOS, Neural Kana-Kanji Conversion Engine
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Rust</span>
-						<span>⭐ 621</span>
-						<span>🔱 38</span>
-					</div>
-				<div class="stars-today">⭐ 42 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/Mebus/cupp" target="_blank">
-    
-
-
-      
-        Mebus /
-
-      cupp</a></p>
-				<p>
-      Common User Passwords Profiler (CUPP)
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 6287</span>
-						<span>🔱 2071</span>
-					</div>
-				<div class="stars-today">⭐ 184 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/Unclecheng-li/VulnClaw" target="_blank">
-    
-
-
-      
-        Unclecheng-li /
-
-      VulnClaw</a></p>
-				<p>
-      基于 AI Agent + MCP 工具链 + 渗透 Skill 编排， 配合大语言模型， 自然语言输入 → 自动完成「信息收集 → 漏洞发现 → 漏洞利用 → 报告生成」全流程。
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 1688</span>
-						<span>🔱 227</span>
-					</div>
-				<div class="stars-today">⭐ 132 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/microsoft/AI-For-Beginners" target="_blank">
-    
-
-
-      
-        microsoft /
-
-      AI-For-Beginners</a></p>
-				<p>
-      12 Weeks, 24 Lessons, AI for All!
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Jupyter Notebook</span>
-						<span>⭐ 50853</span>
-						<span>🔱 10287</span>
-					</div>
-				<div class="stars-today">⭐ 1096 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/refactoringhq/tolaria" target="_blank">
-    
-
-
-      
-        refactoringhq /
-
-      tolaria</a></p>
-				<p>
-      Desktop app to manage markdown knowledge bases
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 18133</span>
-						<span>🔱 1231</span>
-					</div>
-				<div class="stars-today">⭐ 150 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/ogulcancelik/herdr" target="_blank">
-    
-
-
-      
-        ogulcancelik /
-
-      herdr</a></p>
-				<p>
-      agent multiplexer that lives in your terminal.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Rust</span>
-						<span>⭐ 9843</span>
-						<span>🔱 574</span>
-					</div>
-				<div class="stars-today">⭐ 609 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/0xNyk/council-of-high-intelligence" target="_blank">
-    
-
-
-      
-        0xNyk /
-
-      council-of-high-intelligence</a></p>
-				<p>
-      18 AI personas deliberate your hardest decisions across multiple LLM providers. Aristotle, Feynman, Kahneman, Torvalds & more — structured multi-round deliberation with genuine model diversity. One command: /council
+      An agentic skills framework & software development methodology that works.
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Shell</span>
-						<span>⭐ 2832</span>
-						<span>🔱 254</span>
+						<span>⭐ 243958</span>
+						<span>🔱 21652</span>
 					</div>
-				<div class="stars-today">⭐ 161 stars today</div>
+				<div class="stars-today">⭐ 1047 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/altic-dev/FluidVoice" target="_blank">
+				<p><a href="https://github.com/ChromeDevTools/chrome-devtools-mcp" target="_blank">
     
 
 
       
-        altic-dev /
+        ChromeDevTools /
 
-      FluidVoice</a></p>
+      chrome-devtools-mcp</a></p>
 				<p>
-      Fastest and only macOS Dictation app with on-device STT and custom trained AI enhancement model - Local Wispr Flow alternative. One ⭐ takes us a long way :)) Windows, iOS waitlist open! Linux coming soon.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Swift</span>
-						<span>⭐ 5666</span>
-						<span>🔱 337</span>
-					</div>
-				<div class="stars-today">⭐ 572 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/CoreBunch/Instatic" target="_blank">
-    
-
-
-      
-        CoreBunch /
-
-      Instatic</a></p>
-				<p>
-      Instatic is a modern self-hosted visual CMS - get it running in 1 minute
+      Chrome DevTools for coding agents
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 2146</span>
-						<span>🔱 175</span>
+						<span>⭐ 44924</span>
+						<span>🔱 2918</span>
 					</div>
-				<div class="stars-today">⭐ 508 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/TencentCloud/CubeSandbox" target="_blank">
-    
-
-
-      
-        TencentCloud /
-
-      CubeSandbox</a></p>
-				<p>
-      Instant, Concurrent, Secure & Lightweight Sandbox for AI Agents.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Rust</span>
-						<span>⭐ 6947</span>
-						<span>🔱 575</span>
-					</div>
-				<div class="stars-today">⭐ 79 stars today</div>
+				<div class="stars-today">⭐ 92 stars today</div>
 				</div>
 			</div>
 	
@@ -426,32 +184,230 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 13421</span>
-						<span>🔱 1663</span>
+						<span>⭐ 13505</span>
+						<span>🔱 1667</span>
 					</div>
 				<div class="stars-today">⭐ 693 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/yikart/AiToEarn" target="_blank">
+				<p><a href="https://github.com/actions/checkout" target="_blank">
     
 
 
       
-        yikart /
+        actions /
 
-      AiToEarn</a></p>
+      checkout</a></p>
 				<p>
-      Let's use AI to Earn!
+      Action for checking out a repo
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 22783</span>
-						<span>🔱 3417</span>
+						<span>⭐ 8085</span>
+						<span>🔱 2519</span>
 					</div>
-				<div class="stars-today">⭐ 116 stars today</div>
+				<div class="stars-today">⭐ 5 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/affaan-m/ECC" target="_blank">
+    
+
+
+      
+        affaan-m /
+
+      ECC</a></p>
+				<p>
+      The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 JavaScript</span>
+						<span>⭐ 224868</span>
+						<span>🔱 34412</span>
+					</div>
+				<div class="stars-today">⭐ 721 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/HKUDS/Vibe-Trading" target="_blank">
+    
+
+
+      
+        HKUDS /
+
+      Vibe-Trading</a></p>
+				<p>
+      "Vibe-Trading: Your Personal Trading Agent"
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 17107</span>
+						<span>🔱 2852</span>
+					</div>
+				<div class="stars-today">⭐ 694 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/agentskills/agentskills" target="_blank">
+    
+
+
+      
+        agentskills /
+
+      agentskills</a></p>
+				<p>
+      Specification and documentation for Agent Skills
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 21402</span>
+						<span>🔱 1363</span>
+					</div>
+				<div class="stars-today">⭐ 47 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/openai/codex-plugin-cc" target="_blank">
+    
+
+
+      
+        openai /
+
+      codex-plugin-cc</a></p>
+				<p>
+      Use Codex from Claude Code to review code or delegate tasks.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 JavaScript</span>
+						<span>⭐ 22278</span>
+						<span>🔱 1358</span>
+					</div>
+				<div class="stars-today">⭐ 72 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/langflow-ai/langflow" target="_blank">
+    
+
+
+      
+        langflow-ai /
+
+      langflow</a></p>
+				<p>
+      Langflow is a powerful tool for building and deploying AI-powered agents and workflows.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 150399</span>
+						<span>🔱 9383</span>
+					</div>
+				<div class="stars-today">⭐ 74 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/pytorch/pytorch" target="_blank">
+    
+
+
+      
+        pytorch /
+
+      pytorch</a></p>
+				<p>
+      Tensors and Dynamic neural networks in Python with strong GPU acceleration
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 101062</span>
+						<span>🔱 28215</span>
+					</div>
+				<div class="stars-today">⭐ 45 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/harvard-edge/cs249r_book" target="_blank">
+    
+
+
+      
+        harvard-edge /
+
+      cs249r_book</a></p>
+				<p>
+      Machine Learning Systems
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 25153</span>
+						<span>🔱 3016</span>
+					</div>
+				<div class="stars-today">⭐ 33 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/microsoft/AI-For-Beginners" target="_blank">
+    
+
+
+      
+        microsoft /
+
+      AI-For-Beginners</a></p>
+				<p>
+      12 Weeks, 24 Lessons, AI for All!
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Jupyter Notebook</span>
+						<span>⭐ 51026</span>
+						<span>🔱 10310</span>
+					</div>
+				<div class="stars-today">⭐ 1096 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/ryanmcdermott/clean-code-javascript" target="_blank">
+    
+
+
+      
+        ryanmcdermott /
+
+      clean-code-javascript</a></p>
+				<p>
+      Clean Code concepts adapted for JavaScript
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 JavaScript</span>
+						<span>⭐ 94462</span>
+						<span>🔱 12466</span>
+					</div>
+				<div class="stars-today">⭐ 11 stars today</div>
 				</div>
 			</div>
 	

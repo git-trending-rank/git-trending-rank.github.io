@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2026年第27周
-date: 2026-07-02T08:35:33Z
+date: 2026-07-02T11:57:36Z
 categories:
 - weekly
 keywords:
@@ -30,8 +30,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 8405</span>
-						<span>🔱 1064</span>
+						<span>⭐ 8494</span>
+						<span>🔱 1077</span>
 					</div>
 				<div class="stars-today">⭐ 6758 stars this week</div>
 				</div>
@@ -52,7 +52,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Haskell</span>
-						<span>⭐ 17588</span>
+						<span>⭐ 17609</span>
 						<span>🔱 1025</span>
 					</div>
 				<div class="stars-today">⭐ 6289 stars this week</div>
@@ -60,46 +60,24 @@ keywords:
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/calesthio/OpenMontage" target="_blank">
+				<p><a href="https://github.com/ripienaar/free-for-dev" target="_blank">
     
 
 
       
-        calesthio /
+        ripienaar /
 
-      OpenMontage</a></p>
+      free-for-dev</a></p>
 				<p>
-      World's first open-source, agentic video production system. 12 pipelines, 52 tools, 500+ agent skills. Turn your AI coding assistant into a full video production studio.
+      A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 31229</span>
-						<span>🔱 3546</span>
+						<span>🔠 HTML</span>
+						<span>⭐ 127734</span>
+						<span>🔱 13344</span>
 					</div>
-				<div class="stars-today">⭐ 12624 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/google-labs-code/design.md" target="_blank">
-    
-
-
-      
-        google-labs-code /
-
-      design.md</a></p>
-				<p>
-      A format specification for describing a visual identity to coding agents. DESIGN.md gives agents a persistent, structured understanding of a design system.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 24191</span>
-						<span>🔱 1890</span>
-					</div>
-				<div class="stars-today">⭐ 7186 stars this week</div>
+				<div class="stars-today">⭐ 4268 stars this week</div>
 				</div>
 			</div>
 	
@@ -118,8 +96,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 C</span>
-						<span>⭐ 24167</span>
-						<span>🔱 1773</span>
+						<span>⭐ 24291</span>
+						<span>🔱 1780</span>
 					</div>
 				<div class="stars-today">⭐ 9697 stars this week</div>
 				</div>
@@ -140,32 +118,54 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Go</span>
-						<span>⭐ 4798</span>
-						<span>🔱 274</span>
+						<span>⭐ 4824</span>
+						<span>🔱 277</span>
 					</div>
 				<div class="stars-today">⭐ 2887 stars this week</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/JCodesMore/ai-website-cloner-template" target="_blank">
+				<p><a href="https://github.com/google-labs-code/design.md" target="_blank">
     
 
 
       
-        JCodesMore /
+        google-labs-code /
 
-      ai-website-cloner-template</a></p>
+      design.md</a></p>
 				<p>
-      Clone any website with one command using AI coding agents
+      A format specification for describing a visual identity to coding agents. DESIGN.md gives agents a persistent, structured understanding of a design system.
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 24631</span>
-						<span>🔱 3487</span>
+						<span>⭐ 24255</span>
+						<span>🔱 1892</span>
 					</div>
-				<div class="stars-today">⭐ 5359 stars this week</div>
+				<div class="stars-today">⭐ 7186 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/calesthio/OpenMontage" target="_blank">
+    
+
+
+      
+        calesthio /
+
+      OpenMontage</a></p>
+				<p>
+      World's first open-source, agentic video production system. 12 pipelines, 52 tools, 500+ agent skills. Turn your AI coding assistant into a full video production studio.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 31358</span>
+						<span>🔱 3564</span>
+					</div>
+				<div class="stars-today">⭐ 12624 stars this week</div>
 				</div>
 			</div>
 	
@@ -184,274 +184,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 9289</span>
-						<span>🔱 900</span>
+						<span>⭐ 9320</span>
+						<span>🔱 904</span>
 					</div>
 				<div class="stars-today">⭐ 1823 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/ripienaar/free-for-dev" target="_blank">
-    
-
-
-      
-        ripienaar /
-
-      free-for-dev</a></p>
-				<p>
-      A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 HTML</span>
-						<span>⭐ 127692</span>
-						<span>🔱 13339</span>
-					</div>
-				<div class="stars-today">⭐ 4268 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/stablyai/orca" target="_blank">
-    
-
-
-      
-        stablyai /
-
-      orca</a></p>
-				<p>
-      Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop and mobile.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 10586</span>
-						<span>🔱 704</span>
-					</div>
-				<div class="stars-today">⭐ 3537 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/topoteretes/cognee" target="_blank">
-    
-
-
-      
-        topoteretes /
-
-      cognee</a></p>
-				<p>
-      Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions with a self-hosted knowledge graph engine.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 26479</span>
-						<span>🔱 2451</span>
-					</div>
-				<div class="stars-today">⭐ 5171 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/Panniantong/Agent-Reach" target="_blank">
-    
-
-
-      
-        Panniantong /
-
-      Agent-Reach</a></p>
-				<p>
-      Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 48654</span>
-						<span>🔱 3873</span>
-					</div>
-				<div class="stars-today">⭐ 8791 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/interviewstreet/hiring-agent" target="_blank">
-    
-
-
-      
-        interviewstreet /
-
-      hiring-agent</a></p>
-				<p>
-      AI agent to evaluate and score resumes.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 4254</span>
-						<span>🔱 835</span>
-					</div>
-				<div class="stars-today">⭐ 2185 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/alibaba/page-agent" target="_blank">
-    
-
-
-      
-        alibaba /
-
-      page-agent</a></p>
-				<p>
-      JavaScript in-page GUI agent. Control web interfaces with natural language.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 20970</span>
-						<span>🔱 1785</span>
-					</div>
-				<div class="stars-today">⭐ 1450 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/NanmiCoder/MediaCrawler" target="_blank">
-    
-
-
-      
-        NanmiCoder /
-
-      MediaCrawler</a></p>
-				<p>
-      小红书笔记 | 评论爬虫、抖音视频 | 评论爬虫、快手视频 | 评论爬虫、B 站视频 ｜ 评论爬虫、微博帖子 ｜ 评论爬虫、百度贴吧帖子 ｜ 百度贴吧评论回复爬虫 | 知乎问答文章｜评论爬虫
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 54952</span>
-						<span>🔱 11142</span>
-					</div>
-				<div class="stars-today">⭐ 2575 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/ZhuLinsen/daily_stock_analysis" target="_blank">
-    
-
-
-      
-        ZhuLinsen /
-
-      daily_stock_analysis</a></p>
-				<p>
-      LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。 LLM-powered multi-market stock analysis system with multi-source market data, real-time news, decision dashboard, automated notifications, and cost-free scheduled runs.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 53303</span>
-						<span>🔱 46165</span>
-					</div>
-				<div class="stars-today">⭐ 4994 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/jamiepine/voicebox" target="_blank">
-    
-
-
-      
-        jamiepine /
-
-      voicebox</a></p>
-				<p>
-      The open-source AI voice studio. Clone, dictate, create.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 36837</span>
-						<span>🔱 4428</span>
-					</div>
-				<div class="stars-today">⭐ 2960 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/mukul975/Anthropic-Cybersecurity-Skills" target="_blank">
-    
-
-
-      
-        mukul975 /
-
-      Anthropic-Cybersecurity-Skills</a></p>
-				<p>
-      817 structured cybersecurity skills for AI agents · Mapped to 6 frameworks: MITRE ATT&CK, NIST CSF 2.0, MITRE ATLAS, D3FEND, NIST AI RMF & MITRE F3 (Fight Fraud) · agentskills.io standard · Works with Claude Code, GitHub Copilot, Codex CLI, Cursor, Gemini CLI & 20+ platforms · 29 security domains · Apache 2.0
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 23872</span>
-						<span>🔱 2710</span>
-					</div>
-				<div class="stars-today">⭐ 3367 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/aws/agent-toolkit-for-aws" target="_blank">
-    
-
-
-      
-        aws /
-
-      agent-toolkit-for-aws</a></p>
-				<p>
-      Official, AWS-supported MCP servers, skills, and plugins to help AI agents build on AWS
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 1698</span>
-						<span>🔱 138</span>
-					</div>
-				<div class="stars-today">⭐ 693 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/BuilderIO/agent-native" target="_blank">
-    
-
-
-      
-        BuilderIO /
-
-      agent-native</a></p>
-				<p>
-      A framework for building agent-native applications.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 3336</span>
-						<span>🔱 317</span>
-					</div>
-				<div class="stars-today">⭐ 1277 stars this week</div>
 				</div>
 			</div>
 	
@@ -470,10 +206,316 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 30413</span>
-						<span>🔱 3262</span>
+						<span>⭐ 30784</span>
+						<span>🔱 3285</span>
 					</div>
 				<div class="stars-today">⭐ 2804 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/JCodesMore/ai-website-cloner-template" target="_blank">
+    
+
+
+      
+        JCodesMore /
+
+      ai-website-cloner-template</a></p>
+				<p>
+      Clone any website with one command using AI coding agents
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 24699</span>
+						<span>🔱 3496</span>
+					</div>
+				<div class="stars-today">⭐ 5359 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/mauriceboe/TREK" target="_blank">
+    
+
+
+      
+        mauriceboe /
+
+      TREK</a></p>
+				<p>
+      A self-hosted travel/trip planner with real-time collaboration, interactive maps, PWA support, SSO, budgets, packing lists, and more.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 8827</span>
+						<span>🔱 730</span>
+					</div>
+				<div class="stars-today">⭐ 2739 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/topoteretes/cognee" target="_blank">
+    
+
+
+      
+        topoteretes /
+
+      cognee</a></p>
+				<p>
+      Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions with a self-hosted knowledge graph engine.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 26516</span>
+						<span>🔱 2455</span>
+					</div>
+				<div class="stars-today">⭐ 5171 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/stablyai/orca" target="_blank">
+    
+
+
+      
+        stablyai /
+
+      orca</a></p>
+				<p>
+      Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop and mobile.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 10699</span>
+						<span>🔱 713</span>
+					</div>
+				<div class="stars-today">⭐ 3537 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/msitarzewski/agency-agents" target="_blank">
+    
+
+
+      
+        msitarzewski /
+
+      agency-agents</a></p>
+				<p>
+      A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Shell</span>
+						<span>⭐ 124951</span>
+						<span>🔱 20272</span>
+					</div>
+				<div class="stars-today">⭐ 7924 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/interviewstreet/hiring-agent" target="_blank">
+    
+
+
+      
+        interviewstreet /
+
+      hiring-agent</a></p>
+				<p>
+      AI agent to evaluate and score resumes.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 4289</span>
+						<span>🔱 840</span>
+					</div>
+				<div class="stars-today">⭐ 2185 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/Panniantong/Agent-Reach" target="_blank">
+    
+
+
+      
+        Panniantong /
+
+      Agent-Reach</a></p>
+				<p>
+      Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 48787</span>
+						<span>🔱 3880</span>
+					</div>
+				<div class="stars-today">⭐ 8791 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/browser-use/video-use" target="_blank">
+    
+
+
+      
+        browser-use /
+
+      video-use</a></p>
+				<p>
+      Edit videos with coding agents
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 13505</span>
+						<span>🔱 1667</span>
+					</div>
+				<div class="stars-today">⭐ 3000 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/alibaba/page-agent" target="_blank">
+    
+
+
+      
+        alibaba /
+
+      page-agent</a></p>
+				<p>
+      JavaScript in-page GUI agent. Control web interfaces with natural language.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 21014</span>
+						<span>🔱 1786</span>
+					</div>
+				<div class="stars-today">⭐ 1450 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/diegosouzapw/OmniRoute" target="_blank">
+    
+
+
+      
+        diegosouzapw /
+
+      OmniRoute</a></p>
+				<p>
+      Never stop coding. Free AI gateway: one endpoint, 231+ providers (50+ free), connect Claude Code, Codex, Cursor, Cline & Copilot to FREE Claude/GPT/Gemini. RTK+Caveman stacked compression saves 15-95% tokens, smart auto-fallback, MCP/A2A, multimodal APIs, Desktop/PWA.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 10030</span>
+						<span>🔱 1508</span>
+					</div>
+				<div class="stars-today">⭐ 2497 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/ogulcancelik/herdr" target="_blank">
+    
+
+
+      
+        ogulcancelik /
+
+      herdr</a></p>
+				<p>
+      agent multiplexer that lives in your terminal.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Rust</span>
+						<span>⭐ 9910</span>
+						<span>🔱 584</span>
+					</div>
+				<div class="stars-today">⭐ 2401 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/aws/agent-toolkit-for-aws" target="_blank">
+    
+
+
+      
+        aws /
+
+      agent-toolkit-for-aws</a></p>
+				<p>
+      Official, AWS-supported MCP servers, skills, and plugins to help AI agents build on AWS
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 1704</span>
+						<span>🔱 138</span>
+					</div>
+				<div class="stars-today">⭐ 693 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/NanmiCoder/MediaCrawler" target="_blank">
+    
+
+
+      
+        NanmiCoder /
+
+      MediaCrawler</a></p>
+				<p>
+      小红书笔记 | 评论爬虫、抖音视频 | 评论爬虫、快手视频 | 评论爬虫、B 站视频 ｜ 评论爬虫、微博帖子 ｜ 评论爬虫、百度贴吧帖子 ｜ 百度贴吧评论回复爬虫 | 知乎问答文章｜评论爬虫
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 54991</span>
+						<span>🔱 11147</span>
+					</div>
+				<div class="stars-today">⭐ 2575 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/craft-ai-agents/craft-agents-oss" target="_blank">
+    
+
+
+      
+        craft-ai-agents /
+
+      craft-agents-oss</a></p>
+				<p></p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 6626</span>
+						<span>🔱 912</span>
+					</div>
+				<div class="stars-today">⭐ 314 stars this week</div>
 				</div>
 			</div>
 	
