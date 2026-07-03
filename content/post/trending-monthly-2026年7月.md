@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2026年7月
-date: 2026-07-03T08:40:22Z
+date: 2026-07-03T11:56:21Z
 categories:
 - monthly
 keywords:
@@ -14,28 +14,6 @@ keywords:
 	<main class="container">
         <div class="repo-list" id="repoList">
 
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/apple/container" target="_blank">
-    
-
-
-      
-        apple /
-
-      container</a></p>
-				<p>
-      A tool for creating and running Linux containers using lightweight virtual machines on a Mac. It is written in Swift, and optimized for Apple silicon. 
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Swift</span>
-						<span>⭐ 45998</span>
-						<span>🔱 1369</span>
-					</div>
-				<div class="stars-today">⭐ 19269 stars this month</div>
-				</div>
-			</div>
 	
 			<div class="repo-card">
 				<p><a href="https://github.com/DeusData/codebase-memory-mcp" target="_blank">
@@ -52,10 +30,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 C</span>
-						<span>⭐ 25083</span>
-						<span>🔱 1857</span>
+						<span>⭐ 25212</span>
+						<span>🔱 1863</span>
 					</div>
 				<div class="stars-today">⭐ 21580 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/apple/container" target="_blank">
+    
+
+
+      
+        apple /
+
+      container</a></p>
+				<p>
+      A tool for creating and running Linux containers using lightweight virtual machines on a Mac. It is written in Swift, and optimized for Apple silicon. 
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Swift</span>
+						<span>⭐ 46044</span>
+						<span>🔱 1371</span>
+					</div>
+				<div class="stars-today">⭐ 19269 stars this month</div>
 				</div>
 			</div>
 	
@@ -74,8 +74,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 32004</span>
-						<span>🔱 3630</span>
+						<span>⭐ 32090</span>
+						<span>🔱 3649</span>
 					</div>
 				<div class="stars-today">⭐ 27370 stars this month</div>
 				</div>
@@ -96,8 +96,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 49430</span>
-						<span>🔱 3935</span>
+						<span>⭐ 49563</span>
+						<span>🔱 3950</span>
 					</div>
 				<div class="stars-today">⭐ 28309 stars this month</div>
 				</div>
@@ -118,8 +118,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 48582</span>
-						<span>🔱 4019</span>
+						<span>⭐ 48613</span>
+						<span>🔱 4022</span>
 					</div>
 				<div class="stars-today">⭐ 21774 stars this month</div>
 				</div>
@@ -140,8 +140,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 130119</span>
-						<span>🔱 7215</span>
+						<span>⭐ 130154</span>
+						<span>🔱 7217</span>
 					</div>
 				<div class="stars-today">⭐ 13585 stars this month</div>
 				</div>
@@ -162,7 +162,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 </span>
-						<span>⭐ 22275</span>
+						<span>⭐ 22295</span>
 						<span>🔱 2243</span>
 					</div>
 				<div class="stars-today">⭐ 10418 stars this month</div>
@@ -184,98 +184,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 34575</span>
-						<span>🔱 3847</span>
+						<span>⭐ 34595</span>
+						<span>🔱 3852</span>
 					</div>
 				<div class="stars-today">⭐ 10623 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/NVIDIA/cosmos" target="_blank">
-    
-
-
-      
-        NVIDIA /
-
-      cosmos</a></p>
-				<p>
-      NVIDIA Cosmos is an open platform of world models, datasets, and tools that enables developers to build Physical AI for robots, autonomous vehicles, smart infrastructure, and more.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Jupyter Notebook</span>
-						<span>⭐ 10835</span>
-						<span>🔱 736</span>
-					</div>
-				<div class="stars-today">⭐ 2315 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/asgeirtj/system_prompts_leaks" target="_blank">
-    
-
-
-      
-        asgeirtj /
-
-      system_prompts_leaks</a></p>
-				<p>
-      Extracted system prompts from Anthropic - Claude Fable 5, Opus 4.8, Claude Code, Claude Design. OpenAI - ChatGPT 5.5 Thinking, GPT 5.5 Instant, Codex. Google - Gemini 3.5 Flash, 3.1 Pro, Antigravity. xAI - Grok, Cursor, Copilot, VS Code, Perplexity, and more. Updated regularly.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 JavaScript</span>
-						<span>⭐ 47937</span>
-						<span>🔱 7803</span>
-					</div>
-				<div class="stars-today">⭐ 6834 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/openai/plugins" target="_blank">
-    
-
-
-      
-        openai /
-
-      plugins</a></p>
-				<p>
-      OpenAI Plugins
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 JavaScript</span>
-						<span>⭐ 3950</span>
-						<span>🔱 462</span>
-					</div>
-				<div class="stars-today">⭐ 2606 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/alibaba/zvec" target="_blank">
-    
-
-
-      
-        alibaba /
-
-      zvec</a></p>
-				<p>
-      A lightweight, lightning-fast, in-process vector database
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 C++</span>
-						<span>⭐ 12733</span>
-						<span>🔱 756</span>
-					</div>
-				<div class="stars-today">⭐ 3005 stars this month</div>
 				</div>
 			</div>
 	
@@ -294,10 +206,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Rust</span>
-						<span>⭐ 10340</span>
-						<span>🔱 611</span>
+						<span>⭐ 10390</span>
+						<span>🔱 619</span>
 					</div>
 				<div class="stars-today">⭐ 6210 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/asgeirtj/system_prompts_leaks" target="_blank">
+    
+
+
+      
+        asgeirtj /
+
+      system_prompts_leaks</a></p>
+				<p>
+      Extracted system prompts from Anthropic - Claude Fable 5, Opus 4.8, Claude Code, Claude Design. OpenAI - ChatGPT 5.5 Thinking, GPT 5.5 Instant, Codex. Google - Gemini 3.5 Flash, 3.1 Pro, Antigravity. xAI - Grok, Cursor, Copilot, VS Code, Perplexity, and more. Updated regularly.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 JavaScript</span>
+						<span>⭐ 47970</span>
+						<span>🔱 7809</span>
+					</div>
+				<div class="stars-today">⭐ 6834 stars this month</div>
 				</div>
 			</div>
 	
@@ -316,76 +250,54 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 11305</span>
-						<span>🔱 746</span>
+						<span>⭐ 11419</span>
+						<span>🔱 756</span>
 					</div>
 				<div class="stars-today">⭐ 6875 stars this month</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/Leonxlnx/taste-skill" target="_blank">
+				<p><a href="https://github.com/openai/plugins" target="_blank">
     
 
 
       
-        Leonxlnx /
+        openai /
 
-      taste-skill</a></p>
+      plugins</a></p>
 				<p>
-      Taste-Skill - gives your AI good taste. stops the AI from generating boring, generic slop 
+      OpenAI Plugins
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 JavaScript</span>
-						<span>⭐ 55244</span>
-						<span>🔱 3783</span>
+						<span>⭐ 3953</span>
+						<span>🔱 462</span>
 					</div>
-				<div class="stars-today">⭐ 23665 stars this month</div>
+				<div class="stars-today">⭐ 2606 stars this month</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/t8y2/dbx" target="_blank">
+				<p><a href="https://github.com/kenn-io/agentsview" target="_blank">
     
 
 
       
-        t8y2 /
+        kenn-io /
 
-      dbx</a></p>
+      agentsview</a></p>
 				<p>
-      15MB, lightweight, cross-platform database client. Supports MySQL, PostgreSQL, SQLite, Redis, MongoDB, DuckDB, ClickHouse, SQL Server and more.15MB，轻量级跨平台数据库客户端、数据库管理工具。支持 MySQL、PostgreSQL、SQLite、Redis、MongoDB、DuckDB、ClickHouse、SQL Server 等。
+      Local-first session search, analytics, insights, and token use statistics for coding agents, supporting Claude Code, Codex, and more than 20 other agents. 
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Rust</span>
-						<span>⭐ 8371</span>
-						<span>🔱 716</span>
+						<span>🔠 Go</span>
+						<span>⭐ 3551</span>
+						<span>🔱 279</span>
 					</div>
-				<div class="stars-today">⭐ 5093 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/harry0703/MoneyPrinterTurbo" target="_blank">
-    
-
-
-      
-        harry0703 /
-
-      MoneyPrinterTurbo</a></p>
-				<p>
-      利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 95384</span>
-						<span>🔱 13871</span>
-					</div>
-				<div class="stars-today">⭐ 18098 stars this month</div>
+				<div class="stars-today">⭐ 2371 stars this month</div>
 				</div>
 			</div>
 	
@@ -404,10 +316,54 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Rust</span>
-						<span>⭐ 11025</span>
-						<span>🔱 509</span>
+						<span>⭐ 11029</span>
+						<span>🔱 510</span>
 					</div>
 				<div class="stars-today">⭐ 2370 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/t8y2/dbx" target="_blank">
+    
+
+
+      
+        t8y2 /
+
+      dbx</a></p>
+				<p>
+      15MB, lightweight, cross-platform database client. Supports MySQL, PostgreSQL, SQLite, Redis, MongoDB, DuckDB, ClickHouse, SQL Server and more.15MB，轻量级跨平台数据库客户端、数据库管理工具。支持 MySQL、PostgreSQL、SQLite、Redis、MongoDB、DuckDB、ClickHouse、SQL Server 等。
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Rust</span>
+						<span>⭐ 8395</span>
+						<span>🔱 720</span>
+					</div>
+				<div class="stars-today">⭐ 5093 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/Leonxlnx/taste-skill" target="_blank">
+    
+
+
+      
+        Leonxlnx /
+
+      taste-skill</a></p>
+				<p>
+      Taste-Skill - gives your AI good taste. stops the AI from generating boring, generic slop 
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 JavaScript</span>
+						<span>⭐ 55335</span>
+						<span>🔱 3785</span>
+					</div>
+				<div class="stars-today">⭐ 23665 stars this month</div>
 				</div>
 			</div>
 	
@@ -426,32 +382,54 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 46346</span>
-						<span>🔱 4110</span>
+						<span>⭐ 46367</span>
+						<span>🔱 4111</span>
 					</div>
 				<div class="stars-today">⭐ 6556 stars this month</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/OpenCut-app/OpenCut" target="_blank">
+				<p><a href="https://github.com/harry0703/MoneyPrinterTurbo" target="_blank">
     
 
 
       
-        OpenCut-app /
+        harry0703 /
 
-      OpenCut</a></p>
+      MoneyPrinterTurbo</a></p>
 				<p>
-      The open-source CapCut alternative
+      利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM.
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 61423</span>
-						<span>🔱 6615</span>
+						<span>🔠 Python</span>
+						<span>⭐ 95418</span>
+						<span>🔱 13875</span>
 					</div>
-				<div class="stars-today">⭐ 9235 stars this month</div>
+				<div class="stars-today">⭐ 18098 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/mukul975/Anthropic-Cybersecurity-Skills" target="_blank">
+    
+
+
+      
+        mukul975 /
+
+      Anthropic-Cybersecurity-Skills</a></p>
+				<p>
+      817 structured cybersecurity skills for AI agents · Mapped to 6 frameworks: MITRE ATT&CK, NIST CSF 2.0, MITRE ATLAS, D3FEND, NIST AI RMF & MITRE F3 (Fight Fraud) · agentskills.io standard · Works with Claude Code, GitHub Copilot, Codex CLI, Cursor, Gemini CLI & 20+ platforms · 29 security domains · Apache 2.0
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 24065</span>
+						<span>🔱 2732</span>
+					</div>
+				<div class="stars-today">⭐ 10598 stars this month</div>
 				</div>
 			</div>
 	
