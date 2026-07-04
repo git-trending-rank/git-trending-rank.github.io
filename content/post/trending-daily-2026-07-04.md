@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2026-07-04
-date: 2026-07-04T08:14:26Z
+date: 2026-07-04T11:13:11Z
 categories:
 - daily
 keywords:
@@ -14,28 +14,6 @@ keywords:
 	<main class="container">
         <div class="repo-list" id="repoList">
 
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/usestrix/strix" target="_blank">
-    
-
-
-      
-        usestrix /
-
-      strix</a></p>
-				<p>
-      Open-source AI penetration testing tool to find and fix your app’s vulnerabilities.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 35165</span>
-						<span>🔱 3593</span>
-					</div>
-				<div class="stars-today">⭐ 2803 stars today</div>
-				</div>
-			</div>
 	
 			<div class="repo-card">
 				<p><a href="https://github.com/openai/codex-plugin-cc" target="_blank">
@@ -52,8 +30,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 JavaScript</span>
-						<span>⭐ 23433</span>
-						<span>🔱 1432</span>
+						<span>⭐ 23548</span>
+						<span>🔱 1440</span>
 					</div>
 				<div class="stars-today">⭐ 634 stars today</div>
 				</div>
@@ -74,54 +52,54 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 JavaScript</span>
-						<span>⭐ 83242</span>
-						<span>🔱 4648</span>
+						<span>⭐ 83387</span>
+						<span>🔱 4655</span>
 					</div>
 				<div class="stars-today">⭐ 2863 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/elastic/elasticsearch" target="_blank">
+				<p><a href="https://github.com/alibaba/page-agent" target="_blank">
     
 
 
       
-        elastic /
+        alibaba /
 
-      elasticsearch</a></p>
+      page-agent</a></p>
 				<p>
-      Free and Open Source, Distributed, RESTful Search Engine
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Java</span>
-						<span>⭐ 77396</span>
-						<span>🔱 25941</span>
-					</div>
-				<div class="stars-today">⭐ 91 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/actions/checkout" target="_blank">
-    
-
-
-      
-        actions /
-
-      checkout</a></p>
-				<p>
-      Action for checking out a repo
+      JavaScript in-page GUI agent. Control web interfaces with natural language.
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 8286</span>
-						<span>🔱 2535</span>
+						<span>⭐ 22675</span>
+						<span>🔱 1964</span>
 					</div>
-				<div class="stars-today">⭐ 129 stars today</div>
+				<div class="stars-today">⭐ 1110 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/usestrix/strix" target="_blank">
+    
+
+
+      
+        usestrix /
+
+      strix</a></p>
+				<p>
+      Open-source AI penetration testing tool to find and fix your app’s vulnerabilities.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 35426</span>
+						<span>🔱 3618</span>
+					</div>
+				<div class="stars-today">⭐ 2803 stars today</div>
 				</div>
 			</div>
 	
@@ -140,76 +118,54 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 45575</span>
-						<span>🔱 2964</span>
+						<span>⭐ 45608</span>
+						<span>🔱 2969</span>
 					</div>
 				<div class="stars-today">⭐ 405 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/ansible/ansible" target="_blank">
+				<p><a href="https://github.com/Zackriya-Solutions/meetily" target="_blank">
     
 
 
       
-        ansible /
+        Zackriya-Solutions /
 
-      ansible</a></p>
+      meetily</a></p>
 				<p>
-      Ansible is a radically simple IT automation platform that makes your applications and systems easier to deploy and maintain. Automate everything from code deployment to network configuration to cloud management, in a language that approaches plain English, using SSH, with no agents to install on remote systems. https://docs.ansible.com.
+      Privacy first, AI meeting assistant with 4x faster Parakeet/Whisper live transcription, speaker diarization, and Ollama summarization built on Rust. 100% local processing. no cloud required. Meetily (Meetly Ai - https://meetily.ai) is the #1 Self-hosted, Open-source Ai meeting note taker for macOS & Windows. 
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 69255</span>
-						<span>🔱 24112</span>
+						<span>🔠 Rust</span>
+						<span>⭐ 14397</span>
+						<span>🔱 1593</span>
 					</div>
-				<div class="stars-today">⭐ 65 stars today</div>
+				<div class="stars-today">⭐ 607 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/facebook/astryx" target="_blank">
+				<p><a href="https://github.com/asgeirtj/system_prompts_leaks" target="_blank">
     
 
 
       
-        facebook /
+        asgeirtj /
 
-      astryx</a></p>
+      system_prompts_leaks</a></p>
 				<p>
-      An open source design system that's fully customizable and agent ready
+      Extracted system prompts from Anthropic - Claude Fable 5, Opus 4.8, Claude Code, Claude Design. OpenAI - ChatGPT 5.5 Thinking, GPT 5.5 Instant, Codex. Google - Gemini 3.5 Flash, 3.1 Pro, Antigravity. xAI - Grok, Cursor, Copilot, VS Code, Perplexity, and more. Updated regularly.
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 4944</span>
-						<span>🔱 288</span>
+						<span>🔠 JavaScript</span>
+						<span>⭐ 48386</span>
+						<span>🔱 7889</span>
 					</div>
-				<div class="stars-today">⭐ 885 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/rommapp/romm" target="_blank">
-    
-
-
-      
-        rommapp /
-
-      romm</a></p>
-				<p>
-      A beautiful, powerful, self-hosted rom manager and player.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 9904</span>
-						<span>🔱 481</span>
-					</div>
-				<div class="stars-today">⭐ 239 stars today</div>
+				<div class="stars-today">⭐ 432 stars today</div>
 				</div>
 			</div>
 	
@@ -228,76 +184,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 26315</span>
-						<span>🔱 3144</span>
+						<span>⭐ 26369</span>
+						<span>🔱 3151</span>
 					</div>
 				<div class="stars-today">⭐ 793 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/pytorch/pytorch" target="_blank">
+				<p><a href="https://github.com/rommapp/romm" target="_blank">
     
 
 
       
-        pytorch /
+        rommapp /
 
-      pytorch</a></p>
+      romm</a></p>
 				<p>
-      Tensors and Dynamic neural networks in Python with strong GPU acceleration
+      A beautiful, powerful, self-hosted rom manager and player.
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 101471</span>
-						<span>🔱 28255</span>
+						<span>⭐ 9950</span>
+						<span>🔱 482</span>
 					</div>
-				<div class="stars-today">⭐ 293 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/apache/maven" target="_blank">
-    
-
-
-      
-        apache /
-
-      maven</a></p>
-				<p>
-      Apache Maven core
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Java</span>
-						<span>⭐ 5254</span>
-						<span>🔱 2904</span>
-					</div>
-				<div class="stars-today">⭐ 58 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/anthropics/claude-code" target="_blank">
-    
-
-
-      
-        anthropics /
-
-      claude-code</a></p>
-				<p>
-      Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 135962</span>
-						<span>🔱 21866</span>
-					</div>
-				<div class="stars-today">⭐ 221 stars today</div>
+				<div class="stars-today">⭐ 239 stars today</div>
 				</div>
 			</div>
 	
@@ -316,32 +228,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Rust</span>
-						<span>⭐ 10985</span>
-						<span>🔱 644</span>
+						<span>⭐ 11063</span>
+						<span>🔱 649</span>
 					</div>
 				<div class="stars-today">⭐ 478 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/obra/superpowers" target="_blank">
+				<p><a href="https://github.com/dotnet/skills" target="_blank">
     
 
 
       
-        obra /
+        dotnet /
 
-      superpowers</a></p>
+      skills</a></p>
 				<p>
-      An agentic skills framework & software development methodology that works.
+      Repository for skills to assist AI coding agents with .NET and C#
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Shell</span>
-						<span>⭐ 245765</span>
-						<span>🔱 21790</span>
+						<span>🔠 C#</span>
+						<span>⭐ 3661</span>
+						<span>🔱 278</span>
 					</div>
-				<div class="stars-today">⭐ 1209 stars today</div>
+				<div class="stars-today">⭐ 33 stars today</div>
 				</div>
 			</div>
 	
@@ -360,76 +272,142 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 22100</span>
-						<span>🔱 1398</span>
+						<span>⭐ 22154</span>
+						<span>🔱 1402</span>
 					</div>
 				<div class="stars-today">⭐ 406 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/supabase/supabase" target="_blank">
+				<p><a href="https://github.com/immich-app/immich" target="_blank">
     
 
 
       
-        supabase /
+        immich-app /
 
-      supabase</a></p>
+      immich</a></p>
 				<p>
-      The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.
+      High performance self-hosted photo and video management solution.
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 105609</span>
-						<span>🔱 12979</span>
+						<span>⭐ 105362</span>
+						<span>🔱 6013</span>
 					</div>
-				<div class="stars-today">⭐ 169 stars today</div>
+				<div class="stars-today">⭐ 308 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/TencentCloud/CubeSandbox" target="_blank">
+				<p><a href="https://github.com/chthollyphile/folia-major" target="_blank">
     
 
 
       
-        TencentCloud /
+        chthollyphile /
 
-      CubeSandbox</a></p>
+      folia-major</a></p>
 				<p>
-      Instant, Concurrent, Secure & Lightweight Sandbox for AI Agents.
+      专注于绚丽的歌词动画效果的本地音乐/navidrome/第三方网易云播放器
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Rust</span>
-						<span>⭐ 7233</span>
-						<span>🔱 593</span>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 911</span>
+						<span>🔱 58</span>
 					</div>
-				<div class="stars-today">⭐ 60 stars today</div>
+				<div class="stars-today">⭐ 319 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/msitarzewski/agency-agents" target="_blank">
+				<p><a href="https://github.com/mattpocock/skills" target="_blank">
     
 
 
       
-        msitarzewski /
+        mattpocock /
 
-      agency-agents</a></p>
+      skills</a></p>
 				<p>
-      A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.
+      Skills for Real Engineers. Straight from my .claude directory.
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Shell</span>
-						<span>⭐ 126704</span>
-						<span>🔱 20563</span>
+						<span>⭐ 156027</span>
+						<span>🔱 13431</span>
 					</div>
-				<div class="stars-today">⭐ 1208 stars today</div>
+				<div class="stars-today">⭐ 1289 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/CoplayDev/unity-mcp" target="_blank">
+    
+
+
+      
+        CoplayDev /
+
+      unity-mcp</a></p>
+				<p>
+      Unity MCP acts as a bridge between AI assistants and your Unity Editor. Give your LLM tools to manage assets, control scenes, edit scripts, and automate tasks within Unity.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 C#</span>
+						<span>⭐ 11364</span>
+						<span>🔱 1247</span>
+					</div>
+				<div class="stars-today">⭐ 49 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/alirezarezvani/claude-skills" target="_blank">
+    
+
+
+      
+        alirezarezvani /
+
+      claude-skills</a></p>
+				<p>
+      337 Claude Code skills & agent skills & plugins (30+ Agents, 70+ custom commands, 330+ skills, customizable references, scripts)for Claude Code, Codex, Gemini CLI, Cursor, and 8 more coding agents — engineering, marketing, product, compliance, C-level advisory, research, business operations, commercial & finance, and your daily productivity skills.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 19905</span>
+						<span>🔱 2734</span>
+					</div>
+				<div class="stars-today">⭐ 130 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/crynta/terax-ai" target="_blank">
+    
+
+
+      
+        crynta /
+
+      terax-ai</a></p>
+				<p>
+      Lightweight (7MB) Terminal-first AI-native dev workspace
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 7898</span>
+						<span>🔱 856</span>
+					</div>
+				<div class="stars-today">⭐ 44 stars today</div>
 				</div>
 			</div>
 	

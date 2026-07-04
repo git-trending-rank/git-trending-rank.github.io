@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2026年7月
-date: 2026-07-04T08:14:26Z
+date: 2026-07-04T11:13:11Z
 categories:
 - monthly
 keywords:
@@ -14,28 +14,6 @@ keywords:
 	<main class="container">
         <div class="repo-list" id="repoList">
 
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/DeusData/codebase-memory-mcp" target="_blank">
-    
-
-
-      
-        DeusData /
-
-      codebase-memory-mcp</a></p>
-				<p>
-      High-performance code intelligence MCP server. Indexes codebases into a persistent knowledge graph — average repo in milliseconds. 158 languages, sub-ms queries, 99% fewer tokens. Single static binary, zero dependencies.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 C</span>
-						<span>⭐ 25753</span>
-						<span>🔱 1908</span>
-					</div>
-				<div class="stars-today">⭐ 22440 stars this month</div>
-				</div>
-			</div>
 	
 			<div class="repo-card">
 				<p><a href="https://github.com/apple/container" target="_blank">
@@ -52,10 +30,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Swift</span>
-						<span>⭐ 46278</span>
-						<span>🔱 1376</span>
+						<span>⭐ 46304</span>
+						<span>🔱 1379</span>
 					</div>
 				<div class="stars-today">⭐ 19500 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/DeusData/codebase-memory-mcp" target="_blank">
+    
+
+
+      
+        DeusData /
+
+      codebase-memory-mcp</a></p>
+				<p>
+      High-performance code intelligence MCP server. Indexes codebases into a persistent knowledge graph — average repo in milliseconds. 158 languages, sub-ms queries, 99% fewer tokens. Single static binary, zero dependencies.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 C</span>
+						<span>⭐ 25825</span>
+						<span>🔱 1915</span>
+					</div>
+				<div class="stars-today">⭐ 22440 stars this month</div>
 				</div>
 			</div>
 	
@@ -74,8 +74,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 32652</span>
-						<span>🔱 3726</span>
+						<span>⭐ 32749</span>
+						<span>🔱 3739</span>
 					</div>
 				<div class="stars-today">⭐ 28028 stars this month</div>
 				</div>
@@ -96,8 +96,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 50037</span>
-						<span>🔱 3985</span>
+						<span>⭐ 50156</span>
+						<span>🔱 4003</span>
 					</div>
 				<div class="stars-today">⭐ 28976 stars this month</div>
 				</div>
@@ -118,8 +118,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 48769</span>
-						<span>🔱 4035</span>
+						<span>⭐ 48794</span>
+						<span>🔱 4037</span>
 					</div>
 				<div class="stars-today">⭐ 21857 stars this month</div>
 				</div>
@@ -140,10 +140,54 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 130288</span>
-						<span>🔱 7232</span>
+						<span>⭐ 130306</span>
+						<span>🔱 7238</span>
 					</div>
 				<div class="stars-today">⭐ 13790 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/simplex-chat/simplex-chat" target="_blank">
+    
+
+
+      
+        simplex-chat /
+
+      simplex-chat</a></p>
+				<p>
+      SimpleX - the first messaging network operating without user identifiers of any kind - 100% private by design! iOS, Android and desktop apps 📱!
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Haskell</span>
+						<span>⭐ 17785</span>
+						<span>🔱 1043</span>
+					</div>
+				<div class="stars-today">⭐ 6653 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/interviewstreet/hiring-agent" target="_blank">
+    
+
+
+      
+        interviewstreet /
+
+      hiring-agent</a></p>
+				<p>
+      AI agent to evaluate and score resumes.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 4595</span>
+						<span>🔱 887</span>
+					</div>
+				<div class="stars-today">⭐ 3845 stars this month</div>
 				</div>
 			</div>
 	
@@ -162,54 +206,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 </span>
-						<span>⭐ 22395</span>
-						<span>🔱 2254</span>
+						<span>⭐ 22411</span>
+						<span>🔱 2257</span>
 					</div>
 				<div class="stars-today">⭐ 10524 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/lfnovo/open-notebook" target="_blank">
-    
-
-
-      
-        lfnovo /
-
-      open-notebook</a></p>
-				<p>
-      An Open Source implementation of Notebook LM with more flexibility and features
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 34725</span>
-						<span>🔱 3865</span>
-					</div>
-				<div class="stars-today">⭐ 10561 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/ogulcancelik/herdr" target="_blank">
-    
-
-
-      
-        ogulcancelik /
-
-      herdr</a></p>
-				<p>
-      agent multiplexer that lives in your terminal.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Rust</span>
-						<span>⭐ 10985</span>
-						<span>🔱 644</span>
-					</div>
-				<div class="stars-today">⭐ 6481 stars this month</div>
 				</div>
 			</div>
 	
@@ -228,10 +228,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 JavaScript</span>
-						<span>⭐ 48328</span>
-						<span>🔱 7885</span>
+						<span>⭐ 48386</span>
+						<span>🔱 7889</span>
 					</div>
 				<div class="stars-today">⭐ 6977 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/ogulcancelik/herdr" target="_blank">
+    
+
+
+      
+        ogulcancelik /
+
+      herdr</a></p>
+				<p>
+      agent multiplexer that lives in your terminal.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Rust</span>
+						<span>⭐ 11063</span>
+						<span>🔱 649</span>
+					</div>
+				<div class="stars-today">⭐ 6481 stars this month</div>
 				</div>
 			</div>
 	
@@ -250,54 +272,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 11809</span>
-						<span>🔱 779</span>
+						<span>⭐ 11841</span>
+						<span>🔱 784</span>
 					</div>
 				<div class="stars-today">⭐ 7466 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/openai/plugins" target="_blank">
-    
-
-
-      
-        openai /
-
-      plugins</a></p>
-				<p>
-      OpenAI Plugins
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 JavaScript</span>
-						<span>⭐ 3995</span>
-						<span>🔱 465</span>
-					</div>
-				<div class="stars-today">⭐ 2619 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/kenn-io/agentsview" target="_blank">
-    
-
-
-      
-        kenn-io /
-
-      agentsview</a></p>
-				<p>
-      Local-first session search, analytics, insights, and token use statistics for coding agents, supporting Claude Code, Codex, and more than 20 other agents. 
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Go</span>
-						<span>⭐ 3593</span>
-						<span>🔱 281</span>
-					</div>
-				<div class="stars-today">⭐ 2392 stars this month</div>
 				</div>
 			</div>
 	
@@ -316,7 +294,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Rust</span>
-						<span>⭐ 11060</span>
+						<span>⭐ 11067</span>
 						<span>🔱 513</span>
 					</div>
 				<div class="stars-today">⭐ 2398 stars this month</div>
@@ -324,46 +302,24 @@ keywords:
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/t8y2/dbx" target="_blank">
+				<p><a href="https://github.com/usestrix/strix" target="_blank">
     
 
 
       
-        t8y2 /
+        usestrix /
 
-      dbx</a></p>
+      strix</a></p>
 				<p>
-      15MB, lightweight, cross-platform database client. Supports MySQL, PostgreSQL, SQLite, Redis, MongoDB, DuckDB, ClickHouse, SQL Server and more.15MB，轻量级跨平台数据库客户端、数据库管理工具。支持 MySQL、PostgreSQL、SQLite、Redis、MongoDB、DuckDB、ClickHouse、SQL Server 等。
+      Open-source AI penetration testing tool to find and fix your app’s vulnerabilities.
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Rust</span>
-						<span>⭐ 8504</span>
-						<span>🔱 725</span>
+						<span>🔠 Python</span>
+						<span>⭐ 35426</span>
+						<span>🔱 3618</span>
 					</div>
-				<div class="stars-today">⭐ 5032 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/Leonxlnx/taste-skill" target="_blank">
-    
-
-
-      
-        Leonxlnx /
-
-      taste-skill</a></p>
-				<p>
-      Taste-Skill - gives your AI good taste. stops the AI from generating boring, generic slop 
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 JavaScript</span>
-						<span>⭐ 55884</span>
-						<span>🔱 3826</span>
-					</div>
-				<div class="stars-today">⭐ 23478 stars this month</div>
+				<div class="stars-today">⭐ 8361 stars this month</div>
 				</div>
 			</div>
 	
@@ -382,32 +338,98 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 46532</span>
-						<span>🔱 4135</span>
+						<span>⭐ 46565</span>
+						<span>🔱 4138</span>
 					</div>
 				<div class="stars-today">⭐ 6618 stars this month</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/harry0703/MoneyPrinterTurbo" target="_blank">
+				<p><a href="https://github.com/openai/plugins" target="_blank">
     
 
 
       
-        harry0703 /
+        openai /
 
-      MoneyPrinterTurbo</a></p>
+      plugins</a></p>
 				<p>
-      利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM.
+      OpenAI Plugins
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 95576</span>
-						<span>🔱 13911</span>
+						<span>🔠 JavaScript</span>
+						<span>⭐ 3998</span>
+						<span>🔱 465</span>
 					</div>
-				<div class="stars-today">⭐ 17491 stars this month</div>
+				<div class="stars-today">⭐ 2619 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/t8y2/dbx" target="_blank">
+    
+
+
+      
+        t8y2 /
+
+      dbx</a></p>
+				<p>
+      15MB, lightweight, cross-platform database client. Supports MySQL, PostgreSQL, SQLite, Redis, MongoDB, DuckDB, ClickHouse, SQL Server and more.15MB，轻量级跨平台数据库客户端、数据库管理工具。支持 MySQL、PostgreSQL、SQLite、Redis、MongoDB、DuckDB、ClickHouse、SQL Server 等。
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Rust</span>
+						<span>⭐ 8518</span>
+						<span>🔱 727</span>
+					</div>
+				<div class="stars-today">⭐ 5032 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/lfnovo/open-notebook" target="_blank">
+    
+
+
+      
+        lfnovo /
+
+      open-notebook</a></p>
+				<p>
+      An Open Source implementation of Notebook LM with more flexibility and features
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 34741</span>
+						<span>🔱 3867</span>
+					</div>
+				<div class="stars-today">⭐ 10561 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/Leonxlnx/taste-skill" target="_blank">
+    
+
+
+      
+        Leonxlnx /
+
+      taste-skill</a></p>
+				<p>
+      Taste-Skill - gives your AI good taste. stops the AI from generating boring, generic slop 
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 JavaScript</span>
+						<span>⭐ 56003</span>
+						<span>🔱 3831</span>
+					</div>
+				<div class="stars-today">⭐ 23478 stars this month</div>
 				</div>
 			</div>
 	
@@ -426,8 +448,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 24234</span>
-						<span>🔱 2753</span>
+						<span>⭐ 24260</span>
+						<span>🔱 2762</span>
 					</div>
 				<div class="stars-today">⭐ 10451 stars this month</div>
 				</div>
