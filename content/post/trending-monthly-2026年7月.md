@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2026年7月
-date: 2026-07-05T08:32:54Z
+date: 2026-07-05T11:20:28Z
 categories:
 - monthly
 keywords:
@@ -30,8 +30,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Swift</span>
-						<span>⭐ 46505</span>
-						<span>🔱 1388</span>
+						<span>⭐ 46527</span>
+						<span>🔱 1389</span>
 					</div>
 				<div class="stars-today">⭐ 19762 stars this month</div>
 				</div>
@@ -52,8 +52,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 C</span>
-						<span>⭐ 26355</span>
-						<span>🔱 1952</span>
+						<span>⭐ 26426</span>
+						<span>🔱 1957</span>
 					</div>
 				<div class="stars-today">⭐ 23024 stars this month</div>
 				</div>
@@ -74,8 +74,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 33286</span>
-						<span>🔱 3827</span>
+						<span>⭐ 33358</span>
+						<span>🔱 3832</span>
 					</div>
 				<div class="stars-today">⭐ 28653 stars this month</div>
 				</div>
@@ -96,8 +96,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 50864</span>
-						<span>🔱 4076</span>
+						<span>⭐ 50928</span>
+						<span>🔱 4089</span>
 					</div>
 				<div class="stars-today">⭐ 29397 stars this month</div>
 				</div>
@@ -118,8 +118,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 49000</span>
-						<span>🔱 4057</span>
+						<span>⭐ 49024</span>
+						<span>🔱 4061</span>
 					</div>
 				<div class="stars-today">⭐ 21849 stars this month</div>
 				</div>
@@ -140,32 +140,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 130456</span>
-						<span>🔱 7245</span>
+						<span>⭐ 130471</span>
+						<span>🔱 7246</span>
 					</div>
 				<div class="stars-today">⭐ 13918 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/simplex-chat/simplex-chat" target="_blank">
-    
-
-
-      
-        simplex-chat /
-
-      simplex-chat</a></p>
-				<p>
-      SimpleX - the first messaging network operating without user identifiers of any kind - 100% private by design! iOS, Android and desktop apps 📱!
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Haskell</span>
-						<span>⭐ 17874</span>
-						<span>🔱 1050</span>
-					</div>
-				<div class="stars-today">⭐ 6724 stars this month</div>
 				</div>
 			</div>
 	
@@ -184,7 +162,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 4738</span>
+						<span>⭐ 4755</span>
 						<span>🔱 907</span>
 					</div>
 				<div class="stars-today">⭐ 3861 stars this month</div>
@@ -206,8 +184,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 </span>
-						<span>⭐ 22534</span>
-						<span>🔱 2265</span>
+						<span>⭐ 22557</span>
+						<span>🔱 2267</span>
 					</div>
 				<div class="stars-today">⭐ 10626 stars this month</div>
 				</div>
@@ -228,8 +206,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 JavaScript</span>
-						<span>⭐ 49208</span>
-						<span>🔱 8032</span>
+						<span>⭐ 49343</span>
+						<span>🔱 8062</span>
 					</div>
 				<div class="stars-today">⭐ 7399 stars this month</div>
 				</div>
@@ -250,8 +228,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Rust</span>
-						<span>⭐ 11637</span>
-						<span>🔱 681</span>
+						<span>⭐ 11703</span>
+						<span>🔱 686</span>
 					</div>
 				<div class="stars-today">⭐ 6930 stars this month</div>
 				</div>
@@ -272,32 +250,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 12138</span>
-						<span>🔱 816</span>
+						<span>⭐ 12179</span>
+						<span>🔱 818</span>
 					</div>
 				<div class="stars-today">⭐ 7802 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/n0-computer/iroh" target="_blank">
-    
-
-
-      
-        n0-computer /
-
-      iroh</a></p>
-				<p>
-      IP addresses break, dial keys instead. A library that adds QUIC + NAT Traversal to your apps.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Rust</span>
-						<span>⭐ 11100</span>
-						<span>🔱 514</span>
-					</div>
-				<div class="stars-today">⭐ 2434 stars this month</div>
 				</div>
 			</div>
 	
@@ -316,10 +272,54 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 36410</span>
-						<span>🔱 3688</span>
+						<span>⭐ 36539</span>
+						<span>🔱 3701</span>
 					</div>
 				<div class="stars-today">⭐ 9853 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/kenn-io/agentsview" target="_blank">
+    
+
+
+      
+        kenn-io /
+
+      agentsview</a></p>
+				<p>
+      Local-first session search, analytics, insights, and token use statistics for coding agents, supporting Claude Code, Codex, and more than 20 other agents. 
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Go</span>
+						<span>⭐ 3650</span>
+						<span>🔱 284</span>
+					</div>
+				<div class="stars-today">⭐ 2442 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/n0-computer/iroh" target="_blank">
+    
+
+
+      
+        n0-computer /
+
+      iroh</a></p>
+				<p>
+      IP addresses break, dial keys instead. A library that adds QUIC + NAT Traversal to your apps.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Rust</span>
+						<span>⭐ 11104</span>
+						<span>🔱 514</span>
+					</div>
+				<div class="stars-today">⭐ 2434 stars this month</div>
 				</div>
 			</div>
 	
@@ -338,8 +338,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 46739</span>
-						<span>🔱 4162</span>
+						<span>⭐ 46758</span>
+						<span>🔱 4167</span>
 					</div>
 				<div class="stars-today">⭐ 6762 stars this month</div>
 				</div>
@@ -360,8 +360,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 JavaScript</span>
-						<span>⭐ 4040</span>
-						<span>🔱 467</span>
+						<span>⭐ 4046</span>
+						<span>🔱 469</span>
 					</div>
 				<div class="stars-today">⭐ 2652 stars this month</div>
 				</div>
@@ -382,8 +382,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Rust</span>
-						<span>⭐ 8625</span>
-						<span>🔱 733</span>
+						<span>⭐ 8637</span>
+						<span>🔱 735</span>
 					</div>
 				<div class="stars-today">⭐ 4933 stars this month</div>
 				</div>
@@ -404,32 +404,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 34862</span>
-						<span>🔱 3874</span>
+						<span>⭐ 34874</span>
+						<span>🔱 3876</span>
 					</div>
 				<div class="stars-today">⭐ 10499 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/Leonxlnx/taste-skill" target="_blank">
-    
-
-
-      
-        Leonxlnx /
-
-      taste-skill</a></p>
-				<p>
-      Taste-Skill - gives your AI good taste. stops the AI from generating boring, generic slop 
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 JavaScript</span>
-						<span>⭐ 56749</span>
-						<span>🔱 3883</span>
-					</div>
-				<div class="stars-today">⭐ 23500 stars this month</div>
 				</div>
 			</div>
 	
@@ -448,10 +426,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 24466</span>
-						<span>🔱 2787</span>
+						<span>⭐ 24493</span>
+						<span>🔱 2790</span>
 					</div>
 				<div class="stars-today">⭐ 10382 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/every-app/open-seo" target="_blank">
+    
+
+
+      
+        every-app /
+
+      open-seo</a></p>
+				<p>
+      Open source alternative to Semrush and Ahrefs
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 4037</span>
+						<span>🔱 455</span>
+					</div>
+				<div class="stars-today">⭐ 1903 stars this month</div>
 				</div>
 			</div>
 	

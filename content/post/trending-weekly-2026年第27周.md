@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2026年第27周
-date: 2026-07-05T08:32:54Z
+date: 2026-07-05T11:20:28Z
 categories:
 - weekly
 keywords:
@@ -30,8 +30,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 36410</span>
-						<span>🔱 3688</span>
+						<span>⭐ 36539</span>
+						<span>🔱 3701</span>
 					</div>
 				<div class="stars-today">⭐ 9362 stars this week</div>
 				</div>
@@ -52,10 +52,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 9844</span>
-						<span>🔱 1242</span>
+						<span>⭐ 9907</span>
+						<span>🔱 1250</span>
 					</div>
 				<div class="stars-today">⭐ 5984 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/diegosouzapw/OmniRoute" target="_blank">
+    
+
+
+      
+        diegosouzapw /
+
+      OmniRoute</a></p>
+				<p>
+      Never stop coding. Free AI gateway: one endpoint, 231+ providers (50+ free), connect Claude Code, Codex, Cursor, Cline & Copilot to FREE Claude/GPT/Gemini. RTK+Caveman stacked compression saves 15-95% tokens, smart auto-fallback, MCP/A2A, multimodal APIs, Desktop/PWA.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 11471</span>
+						<span>🔱 1657</span>
+					</div>
+				<div class="stars-today">⭐ 4133 stars this week</div>
 				</div>
 			</div>
 	
@@ -74,8 +96,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Haskell</span>
-						<span>⭐ 17874</span>
-						<span>🔱 1050</span>
+						<span>⭐ 17883</span>
+						<span>🔱 1051</span>
 					</div>
 				<div class="stars-today">⭐ 4630 stars this week</div>
 				</div>
@@ -96,54 +118,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 9803</span>
-						<span>🔱 972</span>
+						<span>⭐ 9828</span>
+						<span>🔱 975</span>
 					</div>
 				<div class="stars-today">⭐ 2065 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/diegosouzapw/OmniRoute" target="_blank">
-    
-
-
-      
-        diegosouzapw /
-
-      OmniRoute</a></p>
-				<p>
-      Never stop coding. Free AI gateway: one endpoint, 231+ providers (50+ free), connect Claude Code, Codex, Cursor, Cline & Copilot to FREE Claude/GPT/Gemini. RTK+Caveman stacked compression saves 15-95% tokens, smart auto-fallback, MCP/A2A, multimodal APIs, Desktop/PWA.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 11433</span>
-						<span>🔱 1649</span>
-					</div>
-				<div class="stars-today">⭐ 4133 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/DeusData/codebase-memory-mcp" target="_blank">
-    
-
-
-      
-        DeusData /
-
-      codebase-memory-mcp</a></p>
-				<p>
-      High-performance code intelligence MCP server. Indexes codebases into a persistent knowledge graph — average repo in milliseconds. 158 languages, sub-ms queries, 99% fewer tokens. Single static binary, zero dependencies.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 C</span>
-						<span>⭐ 26355</span>
-						<span>🔱 1952</span>
-					</div>
-				<div class="stars-today">⭐ 9517 stars this week</div>
 				</div>
 			</div>
 	
@@ -162,8 +140,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Rust</span>
-						<span>⭐ 11637</span>
-						<span>🔱 681</span>
+						<span>⭐ 11703</span>
+						<span>🔱 686</span>
 					</div>
 				<div class="stars-today">⭐ 3506 stars this week</div>
 				</div>
@@ -184,32 +162,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 13766</span>
-						<span>🔱 943</span>
+						<span>⭐ 13773</span>
+						<span>🔱 945</span>
 					</div>
 				<div class="stars-today">⭐ 1488 stars this week</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/Starmel/OpenSuperWhisper" target="_blank">
+				<p><a href="https://github.com/Zackriya-Solutions/meetily" target="_blank">
     
 
 
       
-        Starmel /
+        Zackriya-Solutions /
 
-      OpenSuperWhisper</a></p>
+      meetily</a></p>
 				<p>
-      macOS dictation app
+      Privacy first, AI meeting assistant with 4x faster Parakeet/Whisper live transcription, speaker diarization, and Ollama summarization built on Rust. 100% local processing. no cloud required. Meetily (Meetly Ai - https://meetily.ai) is the #1 Self-hosted, Open-source Ai meeting note taker for macOS & Windows. 
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Swift</span>
-						<span>⭐ 1742</span>
-						<span>🔱 147</span>
+						<span>🔠 Rust</span>
+						<span>⭐ 15778</span>
+						<span>🔱 1717</span>
 					</div>
-				<div class="stars-today">⭐ 499 stars this week</div>
+				<div class="stars-today">⭐ 1886 stars this week</div>
 				</div>
 			</div>
 	
@@ -228,10 +206,54 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 14821</span>
-						<span>🔱 1759</span>
+						<span>⭐ 14859</span>
+						<span>🔱 1761</span>
 					</div>
 				<div class="stars-today">⭐ 4174 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/alibaba/page-agent" target="_blank">
+    
+
+
+      
+        alibaba /
+
+      page-agent</a></p>
+				<p>
+      JavaScript in-page GUI agent. Control web interfaces with natural language.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 23471</span>
+						<span>🔱 2025</span>
+					</div>
+				<div class="stars-today">⭐ 2484 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/Starmel/OpenSuperWhisper" target="_blank">
+    
+
+
+      
+        Starmel /
+
+      OpenSuperWhisper</a></p>
+				<p>
+      macOS dictation app
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Swift</span>
+						<span>⭐ 1756</span>
+						<span>🔱 147</span>
+					</div>
+				<div class="stars-today">⭐ 499 stars this week</div>
 				</div>
 			</div>
 	
@@ -250,10 +272,98 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Shell</span>
-						<span>⭐ 127185</span>
-						<span>🔱 20650</span>
+						<span>⭐ 127244</span>
+						<span>🔱 20660</span>
 					</div>
 				<div class="stars-today">⭐ 10976 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/apache/maven" target="_blank">
+    
+
+
+      
+        apache /
+
+      maven</a></p>
+				<p>
+      Apache Maven core
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Java</span>
+						<span>⭐ 5277</span>
+						<span>🔱 2905</span>
+					</div>
+				<div class="stars-today">⭐ 157 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/openai/codex-plugin-cc" target="_blank">
+    
+
+
+      
+        openai /
+
+      codex-plugin-cc</a></p>
+				<p>
+      Use Codex from Claude Code to review code or delegate tasks.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 JavaScript</span>
+						<span>⭐ 25088</span>
+						<span>🔱 1518</span>
+					</div>
+				<div class="stars-today">⭐ 1974 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/DeusData/codebase-memory-mcp" target="_blank">
+    
+
+
+      
+        DeusData /
+
+      codebase-memory-mcp</a></p>
+				<p>
+      High-performance code intelligence MCP server. Indexes codebases into a persistent knowledge graph — average repo in milliseconds. 158 languages, sub-ms queries, 99% fewer tokens. Single static binary, zero dependencies.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 C</span>
+						<span>⭐ 26426</span>
+						<span>🔱 1957</span>
+					</div>
+				<div class="stars-today">⭐ 9517 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/stablyai/orca" target="_blank">
+    
+
+
+      
+        stablyai /
+
+      orca</a></p>
+				<p>
+      Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop and mobile.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 12179</span>
+						<span>🔱 818</span>
+					</div>
+				<div class="stars-today">⭐ 3790 stars this week</div>
 				</div>
 			</div>
 	
@@ -272,8 +382,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 33286</span>
-						<span>🔱 3827</span>
+						<span>⭐ 33358</span>
+						<span>🔱 3832</span>
 					</div>
 				<div class="stars-today">⭐ 8447 stars this week</div>
 				</div>
@@ -294,162 +404,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 25655</span>
-						<span>🔱 3614</span>
+						<span>⭐ 25695</span>
+						<span>🔱 3622</span>
 					</div>
 				<div class="stars-today">⭐ 3730 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/stablyai/orca" target="_blank">
-    
-
-
-      
-        stablyai /
-
-      orca</a></p>
-				<p>
-      Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop and mobile.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 12138</span>
-						<span>🔱 816</span>
-					</div>
-				<div class="stars-today">⭐ 3790 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/openai/codex-plugin-cc" target="_blank">
-    
-
-
-      
-        openai /
-
-      codex-plugin-cc</a></p>
-				<p>
-      Use Codex from Claude Code to review code or delegate tasks.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 JavaScript</span>
-						<span>⭐ 24923</span>
-						<span>🔱 1506</span>
-					</div>
-				<div class="stars-today">⭐ 1974 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/topoteretes/cognee" target="_blank">
-    
-
-
-      
-        topoteretes /
-
-      cognee</a></p>
-				<p>
-      Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions with a self-hosted knowledge graph engine.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 27011</span>
-						<span>🔱 2510</span>
-					</div>
-				<div class="stars-today">⭐ 3388 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/interviewstreet/hiring-agent" target="_blank">
-    
-
-
-      
-        interviewstreet /
-
-      hiring-agent</a></p>
-				<p>
-      AI agent to evaluate and score resumes.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 4738</span>
-						<span>🔱 907</span>
-					</div>
-				<div class="stars-today">⭐ 1647 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/allenai/olmocr" target="_blank">
-    
-
-
-      
-        allenai /
-
-      olmocr</a></p>
-				<p>
-      Toolkit for linearizing PDFs for LLM datasets/training
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 18735</span>
-						<span>🔱 1538</span>
-					</div>
-				<div class="stars-today">⭐ 1229 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/apache/maven" target="_blank">
-    
-
-
-      
-        apache /
-
-      maven</a></p>
-				<p>
-      Apache Maven core
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Java</span>
-						<span>⭐ 5276</span>
-						<span>🔱 2905</span>
-					</div>
-				<div class="stars-today">⭐ 157 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/craft-ai-agents/craft-agents-oss" target="_blank">
-    
-
-
-      
-        craft-ai-agents /
-
-      craft-agents-oss</a></p>
-				<p></p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 6714</span>
-						<span>🔱 921</span>
-					</div>
-				<div class="stars-today">⭐ 341 stars this week</div>
 				</div>
 			</div>
 	
@@ -468,32 +426,54 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 54438</span>
-						<span>🔱 47145</span>
+						<span>⭐ 54496</span>
+						<span>🔱 47206</span>
 					</div>
 				<div class="stars-today">⭐ 3842 stars this week</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/alibaba/page-agent" target="_blank">
+				<p><a href="https://github.com/allenai/olmocr" target="_blank">
     
 
 
       
-        alibaba /
+        allenai /
 
-      page-agent</a></p>
+      olmocr</a></p>
 				<p>
-      JavaScript in-page GUI agent. Control web interfaces with natural language.
+      Toolkit for linearizing PDFs for LLM datasets/training
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 23373</span>
-						<span>🔱 2018</span>
+						<span>🔠 Python</span>
+						<span>⭐ 18747</span>
+						<span>🔱 1538</span>
 					</div>
-				<div class="stars-today">⭐ 2484 stars this week</div>
+				<div class="stars-today">⭐ 1229 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/topoteretes/cognee" target="_blank">
+    
+
+
+      
+        topoteretes /
+
+      cognee</a></p>
+				<p>
+      Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions with a self-hosted knowledge graph engine.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 27032</span>
+						<span>🔱 2516</span>
+					</div>
+				<div class="stars-today">⭐ 3388 stars this week</div>
 				</div>
 			</div>
 	
