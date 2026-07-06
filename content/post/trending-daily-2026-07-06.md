@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2026-07-06
-date: 2026-07-06T18:01:00Z
+date: 2026-07-06T21:15:24Z
 categories:
 - daily
 keywords:
@@ -30,8 +30,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 JavaScript</span>
-						<span>⭐ 51152</span>
-						<span>🔱 8340</span>
+						<span>⭐ 51334</span>
+						<span>🔱 8371</span>
 					</div>
 				<div class="stars-today">⭐ 1386 stars today</div>
 				</div>
@@ -52,8 +52,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Shell</span>
-						<span>⭐ 70566</span>
-						<span>🔱 7646</span>
+						<span>⭐ 70678</span>
+						<span>🔱 7656</span>
 					</div>
 				<div class="stars-today">⭐ 1114 stars today</div>
 				</div>
@@ -74,8 +74,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Rust</span>
-						<span>⭐ 18948</span>
-						<span>🔱 1921</span>
+						<span>⭐ 19163</span>
+						<span>🔱 1944</span>
 					</div>
 				<div class="stars-today">⭐ 2493 stars today</div>
 				</div>
@@ -96,8 +96,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Rust</span>
-						<span>⭐ 77293</span>
-						<span>🔱 10376</span>
+						<span>⭐ 77425</span>
+						<span>🔱 10400</span>
 					</div>
 				<div class="stars-today">⭐ 471 stars today</div>
 				</div>
@@ -118,8 +118,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 JavaScript</span>
-						<span>⭐ 58670</span>
-						<span>🔱 3999</span>
+						<span>⭐ 58793</span>
+						<span>🔱 4005</span>
 					</div>
 				<div class="stars-today">⭐ 1453 stars today</div>
 				</div>
@@ -135,13 +135,13 @@ keywords:
 
       claude-skills</a></p>
 				<p>
-      337 Claude Code skills & agent skills & plugins (30+ Agents, 70+ custom commands, 330+ skills, customizable references, scripts)for Claude Code, Codex, Gemini CLI, Cursor, and 8 more coding agents — engineering, marketing, product, compliance, C-level advisory, research, business operations, commercial & finance, and your daily productivity skills.
+      345 Claude Code skills & agent skills & plugins (30+ Agents, 70+ custom commands, 330+ skills, customizable references, scripts)for Claude Code, Codex, Gemini CLI, Cursor, and 8 more coding agents — engineering, marketing, product, compliance, C-level advisory, research, business operations, commercial & finance, and your daily productivity skills.
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 21040</span>
-						<span>🔱 2830</span>
+						<span>⭐ 21096</span>
+						<span>🔱 2836</span>
 					</div>
 				<div class="stars-today">⭐ 611 stars today</div>
 				</div>
@@ -162,8 +162,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 JavaScript</span>
-						<span>⭐ 26172</span>
-						<span>🔱 1569</span>
+						<span>⭐ 26220</span>
+						<span>🔱 1571</span>
 					</div>
 				<div class="stars-today">⭐ 910 stars today</div>
 				</div>
@@ -184,8 +184,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 49620</span>
-						<span>🔱 4130</span>
+						<span>⭐ 49674</span>
+						<span>🔱 4139</span>
 					</div>
 				<div class="stars-today">⭐ 511 stars today</div>
 				</div>
@@ -206,8 +206,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Rust</span>
-						<span>⭐ 12710</span>
-						<span>🔱 740</span>
+						<span>⭐ 12785</span>
+						<span>🔱 744</span>
 					</div>
 				<div class="stars-today">⭐ 783 stars today</div>
 				</div>
@@ -228,8 +228,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 4043</span>
-						<span>🔱 589</span>
+						<span>⭐ 4134</span>
+						<span>🔱 593</span>
 					</div>
 				<div class="stars-today">⭐ 539 stars today</div>
 				</div>
@@ -250,8 +250,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 26785</span>
-						<span>🔱 1317</span>
+						<span>⭐ 26834</span>
+						<span>🔱 1318</span>
 					</div>
 				<div class="stars-today">⭐ 178 stars today</div>
 				</div>
@@ -272,8 +272,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 145971</span>
-						<span>🔱 8399</span>
+						<span>⭐ 146114</span>
+						<span>🔱 8405</span>
 					</div>
 				<div class="stars-today">⭐ 834 stars today</div>
 				</div>
@@ -294,8 +294,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Swift</span>
-						<span>⭐ 16660</span>
-						<span>🔱 1371</span>
+						<span>⭐ 16693</span>
+						<span>🔱 1374</span>
 					</div>
 				<div class="stars-today">⭐ 598 stars today</div>
 				</div>
@@ -316,8 +316,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 C++</span>
-						<span>⭐ 13309</span>
-						<span>🔱 807</span>
+						<span>⭐ 13431</span>
+						<span>🔱 816</span>
 					</div>
 				<div class="stars-today">⭐ 355 stars today</div>
 				</div>
@@ -338,8 +338,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 </span>
-						<span>⭐ 482135</span>
-						<span>🔱 35721</span>
+						<span>⭐ 482210</span>
+						<span>🔱 35731</span>
 					</div>
 				<div class="stars-today">⭐ 393 stars today</div>
 				</div>
@@ -360,8 +360,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Go</span>
-						<span>⭐ 16616</span>
-						<span>🔱 1535</span>
+						<span>⭐ 16650</span>
+						<span>🔱 1537</span>
 					</div>
 				<div class="stars-today">⭐ 293 stars today</div>
 				</div>
