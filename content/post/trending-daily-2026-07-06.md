@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2026-07-06
-date: 2026-07-06T01:28:29Z
+date: 2026-07-06T06:11:23Z
 categories:
 - daily
 keywords:
@@ -30,8 +30,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Rust</span>
-						<span>⭐ 17063</span>
-						<span>🔱 1804</span>
+						<span>⭐ 17603</span>
+						<span>🔱 1841</span>
 					</div>
 				<div class="stars-today">⭐ 1409 stars today</div>
 				</div>
@@ -52,8 +52,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 JavaScript</span>
-						<span>⭐ 25492</span>
-						<span>🔱 1539</span>
+						<span>⭐ 25733</span>
+						<span>🔱 1556</span>
 					</div>
 				<div class="stars-today">⭐ 1532 stars today</div>
 				</div>
@@ -74,8 +74,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 JavaScript</span>
-						<span>⭐ 49996</span>
-						<span>🔱 8181</span>
+						<span>⭐ 50329</span>
+						<span>🔱 8224</span>
 					</div>
 				<div class="stars-today">⭐ 981 stars today</div>
 				</div>
@@ -96,8 +96,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 JavaScript</span>
-						<span>⭐ 57529</span>
-						<span>🔱 3936</span>
+						<span>⭐ 57889</span>
+						<span>🔱 3951</span>
 					</div>
 				<div class="stars-today">⭐ 863 stars today</div>
 				</div>
@@ -118,8 +118,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 20585</span>
-						<span>🔱 2794</span>
+						<span>⭐ 20744</span>
+						<span>🔱 2803</span>
 					</div>
 				<div class="stars-today">⭐ 392 stars today</div>
 				</div>
@@ -140,8 +140,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 10549</span>
-						<span>🔱 505</span>
+						<span>⭐ 10644</span>
+						<span>🔱 510</span>
 					</div>
 				<div class="stars-today">⭐ 410 stars today</div>
 				</div>
@@ -162,8 +162,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Rust</span>
-						<span>⭐ 12087</span>
-						<span>🔱 702</span>
+						<span>⭐ 12260</span>
+						<span>🔱 720</span>
 					</div>
 				<div class="stars-today">⭐ 651 stars today</div>
 				</div>
@@ -184,8 +184,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 23907</span>
-						<span>🔱 2061</span>
+						<span>⭐ 24153</span>
+						<span>🔱 2073</span>
 					</div>
 				<div class="stars-today">⭐ 805 stars today</div>
 				</div>
@@ -206,8 +206,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 26856</span>
-						<span>🔱 3194</span>
+						<span>⭐ 26950</span>
+						<span>🔱 3207</span>
 					</div>
 				<div class="stars-today">⭐ 329 stars today</div>
 				</div>
@@ -228,8 +228,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 37146</span>
-						<span>🔱 3768</span>
+						<span>⭐ 37386</span>
+						<span>🔱 3792</span>
 					</div>
 				<div class="stars-today">⭐ 1114 stars today</div>
 				</div>
@@ -250,8 +250,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 48374</span>
-						<span>🔱 4232</span>
+						<span>⭐ 48532</span>
+						<span>🔱 4248</span>
 					</div>
 				<div class="stars-today">⭐ 148 stars today</div>
 				</div>
@@ -272,8 +272,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 JavaScript</span>
-						<span>⭐ 36446</span>
-						<span>🔱 5897</span>
+						<span>⭐ 36601</span>
+						<span>🔱 5901</span>
 					</div>
 				<div class="stars-today">⭐ 145 stars today</div>
 				</div>
@@ -294,8 +294,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 JavaScript</span>
-						<span>⭐ 84883</span>
-						<span>🔱 4720</span>
+						<span>⭐ 85128</span>
+						<span>🔱 4736</span>
 					</div>
 				<div class="stars-today">⭐ 1052 stars today</div>
 				</div>
@@ -316,8 +316,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 C#</span>
-						<span>⭐ 11931</span>
-						<span>🔱 1278</span>
+						<span>⭐ 12036</span>
+						<span>🔱 1285</span>
 					</div>
 				<div class="stars-today">⭐ 414 stars today</div>
 				</div>
@@ -338,8 +338,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 5903</span>
-						<span>🔱 374</span>
+						<span>⭐ 6065</span>
+						<span>🔱 390</span>
 					</div>
 				<div class="stars-today">⭐ 522 stars today</div>
 				</div>
@@ -360,8 +360,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 106130</span>
-						<span>🔱 6059</span>
+						<span>⭐ 106237</span>
+						<span>🔱 6070</span>
 					</div>
 				<div class="stars-today">⭐ 470 stars today</div>
 				</div>
@@ -382,8 +382,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Rust</span>
-						<span>⭐ 76729</span>
-						<span>🔱 10284</span>
+						<span>⭐ 76821</span>
+						<span>🔱 10300</span>
 					</div>
 				<div class="stars-today">⭐ 161 stars today</div>
 				</div>
@@ -404,8 +404,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Go</span>
-						<span>⭐ 16391</span>
-						<span>🔱 1519</span>
+						<span>⭐ 16455</span>
+						<span>🔱 1524</span>
 					</div>
 				<div class="stars-today">⭐ 51 stars today</div>
 				</div>
@@ -426,32 +426,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 C#</span>
-						<span>⭐ 4044</span>
-						<span>🔱 302</span>
+						<span>⭐ 4101</span>
+						<span>🔱 306</span>
 					</div>
 				<div class="stars-today">⭐ 246 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/OthmanAdi/planning-with-files" target="_blank">
-    
-
-
-      
-        OthmanAdi /
-
-      planning-with-files</a></p>
-				<p>
-      Persistent file-based planning for AI coding agents and long-running agentic tasks. Crash-proof markdown plans that survive context loss and /clear, plus a deterministic completion gate and multi-agent shared state on disk. Manus-style. Works with Claude Code, Codex CLI, Cursor, Kiro, OpenCode and 60+ agents via the SKILL.md standard.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 24721</span>
-						<span>🔱 2106</span>
-					</div>
-				<div class="stars-today">⭐ 66 stars today</div>
 				</div>
 			</div>
 	
@@ -470,8 +448,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Swift</span>
-						<span>⭐ 16237</span>
-						<span>🔱 1352</span>
+						<span>⭐ 16381</span>
+						<span>🔱 1355</span>
 					</div>
 				<div class="stars-today">⭐ 153 stars today</div>
 				</div>
@@ -492,8 +470,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 136305</span>
-						<span>🔱 21906</span>
+						<span>⭐ 136392</span>
+						<span>🔱 21916</span>
 					</div>
 				<div class="stars-today">⭐ 156 stars today</div>
 				</div>
