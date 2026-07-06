@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2026年第28周
-date: 2026-07-06T06:11:23Z
+date: 2026-07-06T11:50:13Z
 categories:
 - weekly
 keywords:
@@ -30,32 +30,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 37386</span>
-						<span>🔱 3792</span>
+						<span>⭐ 37669</span>
+						<span>🔱 3820</span>
 					</div>
 				<div class="stars-today">⭐ 10338 stars this week</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/xbtlin/ai-berkshire" target="_blank">
+				<p><a href="https://github.com/hasaneyldrm/exercises-dataset" target="_blank">
     
 
 
       
-        xbtlin /
+        hasaneyldrm /
 
-      ai-berkshire</a></p>
+      exercises-dataset</a></p>
 				<p>
-      AI 时代的伯克希尔：基于 Claude Code / Codex 的价值投资研究框架。巴菲特·芒格·段永平·李录四大师方法论 + 多Agent并行研究。| AI-era Berkshire: a value investing research framework built for Claude Code / Codex. 4 masters' methodologies + multi-agent adversarial analysis.
+      A comprehensive dataset of 433 fitness exercises. Each entry includes name, category, target muscle group, equipment, instructions, thumbnail image, and animation video.
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 10554</span>
-						<span>🔱 1344</span>
+						<span>🔠 HTML</span>
+						<span>⭐ 10078</span>
+						<span>🔱 1143</span>
 					</div>
-				<div class="stars-today">⭐ 5038 stars this week</div>
+				<div class="stars-today">⭐ 7084 stars this week</div>
 				</div>
 			</div>
 	
@@ -74,98 +74,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 12040</span>
-						<span>🔱 1751</span>
+						<span>⭐ 12228</span>
+						<span>🔱 1776</span>
 					</div>
 				<div class="stars-today">⭐ 4411 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/simplex-chat/simplex-chat" target="_blank">
-    
-
-
-      
-        simplex-chat /
-
-      simplex-chat</a></p>
-				<p>
-      SimpleX - the first messaging network operating without user identifiers of any kind - 100% private by design! iOS, Android and desktop apps 📱!
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Haskell</span>
-						<span>⭐ 17948</span>
-						<span>🔱 1055</span>
-					</div>
-				<div class="stars-today">⭐ 3572 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/Robbyant/lingbot-map" target="_blank">
-    
-
-
-      
-        Robbyant /
-
-      lingbot-map</a></p>
-				<p>
-      A feed-forward 3D foundation model for reconstructing scenes from streaming data
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 9949</span>
-						<span>🔱 988</span>
-					</div>
-				<div class="stars-today">⭐ 1875 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/ogulcancelik/herdr" target="_blank">
-    
-
-
-      
-        ogulcancelik /
-
-      herdr</a></p>
-				<p>
-      agent multiplexer that lives in your terminal.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Rust</span>
-						<span>⭐ 12260</span>
-						<span>🔱 720</span>
-					</div>
-				<div class="stars-today">⭐ 3937 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/logto-io/logto" target="_blank">
-    
-
-
-      
-        logto-io /
-
-      logto</a></p>
-				<p>
-      🧑‍🚀 Authentication and authorization infrastructure for SaaS and AI apps, built on OIDC and OAuth 2.1 with multi-tenancy, SSO, and RBAC.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 13848</span>
-						<span>🔱 947</span>
-					</div>
-				<div class="stars-today">⭐ 1575 stars this week</div>
 				</div>
 			</div>
 	
@@ -184,32 +96,76 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Rust</span>
-						<span>⭐ 17603</span>
-						<span>🔱 1841</span>
+						<span>⭐ 18290</span>
+						<span>🔱 1872</span>
 					</div>
 				<div class="stars-today">⭐ 2972 stars this week</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/browser-use/video-use" target="_blank">
+				<p><a href="https://github.com/altic-dev/FluidVoice" target="_blank">
     
 
 
       
-        browser-use /
+        altic-dev /
 
-      video-use</a></p>
+      FluidVoice</a></p>
 				<p>
-      Edit videos with coding agents
+      Fastest and only macOS Dictation app with on-device STT and custom trained AI enhancement model. A local Wispr Flow alternative. ⭐ helps a ton :) Windows & iOS waitlist open. Linux soon.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Swift</span>
+						<span>⭐ 6269</span>
+						<span>🔱 394</span>
+					</div>
+				<div class="stars-today">⭐ 2760 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/ogulcancelik/herdr" target="_blank">
+    
+
+
+      
+        ogulcancelik /
+
+      herdr</a></p>
+				<p>
+      agent multiplexer that lives in your terminal.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Rust</span>
+						<span>⭐ 12486</span>
+						<span>🔱 727</span>
+					</div>
+				<div class="stars-today">⭐ 3937 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/xbtlin/ai-berkshire" target="_blank">
+    
+
+
+      
+        xbtlin /
+
+      ai-berkshire</a></p>
+				<p>
+      AI 时代的伯克希尔：基于 Claude Code / Codex 的价值投资研究框架。巴菲特·芒格·段永平·李录四大师方法论 + 多Agent并行研究。| AI-era Berkshire: a value investing research framework built for Claude Code / Codex. 4 masters' methodologies + multi-agent adversarial analysis.
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 15145</span>
-						<span>🔱 1787</span>
+						<span>⭐ 10890</span>
+						<span>🔱 1400</span>
 					</div>
-				<div class="stars-today">⭐ 4288 stars this week</div>
+				<div class="stars-today">⭐ 5038 stars this week</div>
 				</div>
 			</div>
 	
@@ -228,76 +184,98 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 24153</span>
-						<span>🔱 2073</span>
+						<span>⭐ 24412</span>
+						<span>🔱 2092</span>
 					</div>
 				<div class="stars-today">⭐ 3151 stars this week</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/Starmel/OpenSuperWhisper" target="_blank">
+				<p><a href="https://github.com/browser-use/video-use" target="_blank">
     
 
 
       
-        Starmel /
+        browser-use /
 
-      OpenSuperWhisper</a></p>
+      video-use</a></p>
 				<p>
-      macOS dictation app
+      Edit videos with coding agents
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Swift</span>
-						<span>⭐ 1832</span>
-						<span>🔱 152</span>
+						<span>🔠 Python</span>
+						<span>⭐ 15275</span>
+						<span>🔱 1801</span>
 					</div>
-				<div class="stars-today">⭐ 532 stars this week</div>
+				<div class="stars-today">⭐ 4288 stars this week</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/msitarzewski/agency-agents" target="_blank">
+				<p><a href="https://github.com/Robbyant/lingbot-map" target="_blank">
     
 
 
       
-        msitarzewski /
+        Robbyant /
 
-      agency-agents</a></p>
+      lingbot-map</a></p>
 				<p>
-      A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.
+      A feed-forward 3D foundation model for reconstructing scenes from streaming data
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Shell</span>
-						<span>⭐ 127648</span>
-						<span>🔱 20723</span>
+						<span>🔠 Python</span>
+						<span>⭐ 9998</span>
+						<span>🔱 991</span>
 					</div>
-				<div class="stars-today">⭐ 10637 stars this week</div>
+				<div class="stars-today">⭐ 1875 stars this week</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/apache/maven" target="_blank">
+				<p><a href="https://github.com/huggingface/speech-to-speech" target="_blank">
     
 
 
       
-        apache /
+        huggingface /
 
-      maven</a></p>
+      speech-to-speech</a></p>
 				<p>
-      Apache Maven core
+      Build local voice agents with open-source models
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Java</span>
-						<span>⭐ 5282</span>
-						<span>🔱 2905</span>
+						<span>🔠 Python</span>
+						<span>⭐ 5410</span>
+						<span>🔱 666</span>
 					</div>
-				<div class="stars-today">⭐ 173 stars this week</div>
+				<div class="stars-today">⭐ 502 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/allenai/olmocr" target="_blank">
+    
+
+
+      
+        allenai /
+
+      olmocr</a></p>
+				<p>
+      Toolkit for linearizing PDFs for LLM datasets/training
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 18834</span>
+						<span>🔱 1545</span>
+					</div>
+				<div class="stars-today">⭐ 1212 stars this week</div>
 				</div>
 			</div>
 	
@@ -316,10 +294,98 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 JavaScript</span>
-						<span>⭐ 25733</span>
-						<span>🔱 1556</span>
+						<span>⭐ 25996</span>
+						<span>🔱 1559</span>
 					</div>
 				<div class="stars-today">⭐ 3405 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/Starmel/OpenSuperWhisper" target="_blank">
+    
+
+
+      
+        Starmel /
+
+      OpenSuperWhisper</a></p>
+				<p>
+      macOS dictation app
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Swift</span>
+						<span>⭐ 1856</span>
+						<span>🔱 155</span>
+					</div>
+				<div class="stars-today">⭐ 532 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/immich-app/immich" target="_blank">
+    
+
+
+      
+        immich-app /
+
+      immich</a></p>
+				<p>
+      High performance self-hosted photo and video management solution.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 106401</span>
+						<span>🔱 6076</span>
+					</div>
+				<div class="stars-today">⭐ 1416 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/msitarzewski/agency-agents" target="_blank">
+    
+
+
+      
+        msitarzewski /
+
+      agency-agents</a></p>
+				<p>
+      A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Shell</span>
+						<span>⭐ 127841</span>
+						<span>🔱 20756</span>
+					</div>
+				<div class="stars-today">⭐ 10637 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/JuliusBrussee/caveman" target="_blank">
+    
+
+
+      
+        JuliusBrussee /
+
+      caveman</a></p>
+				<p>
+      🪨 why use many token when few token do trick — Claude Code skill that cuts 65% of tokens by talking like caveman
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 JavaScript</span>
+						<span>⭐ 85395</span>
+						<span>🔱 4752</span>
+					</div>
+				<div class="stars-today">⭐ 7326 stars this week</div>
 				</div>
 			</div>
 	
@@ -338,8 +404,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 C</span>
-						<span>⭐ 26901</span>
-						<span>🔱 1996</span>
+						<span>⭐ 27095</span>
+						<span>🔱 2011</span>
 					</div>
 				<div class="stars-today">⭐ 7945 stars this week</div>
 				</div>
@@ -360,32 +426,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 12490</span>
-						<span>🔱 848</span>
+						<span>⭐ 12642</span>
+						<span>🔱 857</span>
 					</div>
 				<div class="stars-today">⭐ 3783 stars this week</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/calesthio/OpenMontage" target="_blank">
+				<p><a href="https://github.com/ChromeDevTools/chrome-devtools-mcp" target="_blank">
     
 
 
       
-        calesthio /
+        ChromeDevTools /
 
-      OpenMontage</a></p>
+      chrome-devtools-mcp</a></p>
 				<p>
-      World's first open-source, agentic video production system. 12 pipelines, 52 tools, 500+ agent skills. Turn your AI coding assistant into a full video production studio.
+      Chrome DevTools for coding agents
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 33820</span>
-						<span>🔱 3874</span>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 46017</span>
+						<span>🔱 2993</span>
 					</div>
-				<div class="stars-today">⭐ 7353 stars this week</div>
+				<div class="stars-today">⭐ 1375 stars this week</div>
 				</div>
 			</div>
 	
@@ -404,76 +470,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 25935</span>
-						<span>🔱 3649</span>
+						<span>⭐ 26045</span>
+						<span>🔱 3669</span>
 					</div>
 				<div class="stars-today">⭐ 3246 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/ZhuLinsen/daily_stock_analysis" target="_blank">
-    
-
-
-      
-        ZhuLinsen /
-
-      daily_stock_analysis</a></p>
-				<p>
-      LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。 LLM-powered multi-market stock analysis system with multi-source market data, real-time news, decision dashboard, automated notifications, and cost-free scheduled runs.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 54821</span>
-						<span>🔱 47421</span>
-					</div>
-				<div class="stars-today">⭐ 3806 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/allenai/olmocr" target="_blank">
-    
-
-
-      
-        allenai /
-
-      olmocr</a></p>
-				<p>
-      Toolkit for linearizing PDFs for LLM datasets/training
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 18811</span>
-						<span>🔱 1543</span>
-					</div>
-				<div class="stars-today">⭐ 1212 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/topoteretes/cognee" target="_blank">
-    
-
-
-      
-        topoteretes /
-
-      cognee</a></p>
-				<p>
-      Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions with a self-hosted knowledge graph engine.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 27160</span>
-						<span>🔱 2527</span>
-					</div>
-				<div class="stars-today">⭐ 2699 stars this week</div>
 				</div>
 			</div>
 	

@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2026年7月
-date: 2026-07-06T06:11:23Z
+date: 2026-07-06T11:50:13Z
 categories:
 - monthly
 keywords:
@@ -30,8 +30,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Swift</span>
-						<span>⭐ 46671</span>
-						<span>🔱 1398</span>
+						<span>⭐ 46726</span>
+						<span>🔱 1400</span>
 					</div>
 				<div class="stars-today">⭐ 19954 stars this month</div>
 				</div>
@@ -52,8 +52,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 C</span>
-						<span>⭐ 26901</span>
-						<span>🔱 1996</span>
+						<span>⭐ 27095</span>
+						<span>🔱 2011</span>
 					</div>
 				<div class="stars-today">⭐ 23591 stars this month</div>
 				</div>
@@ -74,10 +74,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 33820</span>
-						<span>🔱 3874</span>
+						<span>⭐ 34041</span>
+						<span>🔱 3894</span>
 					</div>
 				<div class="stars-today">⭐ 29179 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/NVIDIA/SkillSpector" target="_blank">
+    
+
+
+      
+        NVIDIA /
+
+      SkillSpector</a></p>
+				<p>
+      Security scanner for AI agent skills. Detect vulnerabilities, malicious patterns, and security risks.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 12060</span>
+						<span>🔱 995</span>
+					</div>
+				<div class="stars-today">⭐ 10860 stars this month</div>
 				</div>
 			</div>
 	
@@ -96,32 +118,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 51506</span>
-						<span>🔱 4137</span>
+						<span>⭐ 51762</span>
+						<span>🔱 4147</span>
 					</div>
 				<div class="stars-today">⭐ 30017 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/mvanhorn/last30days-skill" target="_blank">
-    
-
-
-      
-        mvanhorn /
-
-      last30days-skill</a></p>
-				<p>
-      AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 49238</span>
-						<span>🔱 4089</span>
-					</div>
-				<div class="stars-today">⭐ 21367 stars this month</div>
 				</div>
 			</div>
 	
@@ -140,54 +140,54 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 130623</span>
-						<span>🔱 7264</span>
+						<span>⭐ 130671</span>
+						<span>🔱 7271</span>
 					</div>
 				<div class="stars-today">⭐ 14048 stars this month</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/interviewstreet/hiring-agent" target="_blank">
+				<p><a href="https://github.com/mvanhorn/last30days-skill" target="_blank">
     
 
 
       
-        interviewstreet /
+        mvanhorn /
 
-      hiring-agent</a></p>
+      last30days-skill</a></p>
 				<p>
-      AI agent to evaluate and score resumes.
+      AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 4861</span>
-						<span>🔱 922</span>
+						<span>⭐ 49480</span>
+						<span>🔱 4117</span>
 					</div>
-				<div class="stars-today">⭐ 3975 stars this month</div>
+				<div class="stars-today">⭐ 21367 stars this month</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/phuryn/pm-skills" target="_blank">
+				<p><a href="https://github.com/simplex-chat/simplex-chat" target="_blank">
     
 
 
       
-        phuryn /
+        simplex-chat /
 
-      pm-skills</a></p>
+      simplex-chat</a></p>
 				<p>
-      PM Skills Marketplace: 100+ agentic skills, commands, and plugins — from discovery to strategy, execution, launch, and growth.
+      SimpleX - the first messaging network operating without user identifiers of any kind - 100% private by design! iOS, Android and desktop apps 📱!
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 </span>
-						<span>⭐ 22662</span>
-						<span>🔱 2278</span>
+						<span>🔠 Haskell</span>
+						<span>⭐ 17968</span>
+						<span>🔱 1056</span>
 					</div>
-				<div class="stars-today">⭐ 10731 stars this month</div>
+				<div class="stars-today">⭐ 6831 stars this month</div>
 				</div>
 			</div>
 	
@@ -206,10 +206,76 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 JavaScript</span>
-						<span>⭐ 50329</span>
-						<span>🔱 8224</span>
+						<span>⭐ 50714</span>
+						<span>🔱 8271</span>
 					</div>
 				<div class="stars-today">⭐ 8311 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/interviewstreet/hiring-agent" target="_blank">
+    
+
+
+      
+        interviewstreet /
+
+      hiring-agent</a></p>
+				<p>
+      AI agent to evaluate and score resumes.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 4895</span>
+						<span>🔱 926</span>
+					</div>
+				<div class="stars-today">⭐ 3975 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/usestrix/strix" target="_blank">
+    
+
+
+      
+        usestrix /
+
+      strix</a></p>
+				<p>
+      Open-source AI penetration testing tool to find and fix your app’s vulnerabilities.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 37669</span>
+						<span>🔱 3820</span>
+					</div>
+				<div class="stars-today">⭐ 10932 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/phuryn/pm-skills" target="_blank">
+    
+
+
+      
+        phuryn /
+
+      pm-skills</a></p>
+				<p>
+      PM Skills Marketplace: 100+ agentic skills, commands, and plugins — from discovery to strategy, execution, launch, and growth.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 </span>
+						<span>⭐ 22714</span>
+						<span>🔱 2284</span>
+					</div>
+				<div class="stars-today">⭐ 10731 stars this month</div>
 				</div>
 			</div>
 	
@@ -228,8 +294,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Rust</span>
-						<span>⭐ 12260</span>
-						<span>🔱 720</span>
+						<span>⭐ 12486</span>
+						<span>🔱 727</span>
 					</div>
 				<div class="stars-today">⭐ 7360 stars this month</div>
 				</div>
@@ -250,32 +316,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 12490</span>
-						<span>🔱 848</span>
+						<span>⭐ 12642</span>
+						<span>🔱 857</span>
 					</div>
 				<div class="stars-today">⭐ 8064 stars this month</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/usestrix/strix" target="_blank">
+				<p><a href="https://github.com/alibaba/zvec" target="_blank">
     
 
 
       
-        usestrix /
+        alibaba /
 
-      strix</a></p>
+      zvec</a></p>
 				<p>
-      Open-source AI penetration testing tool to find and fix your app’s vulnerabilities.
+      A lightweight, lightning-fast, in-process vector database
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 37386</span>
-						<span>🔱 3792</span>
+						<span>🔠 C++</span>
+						<span>⭐ 13160</span>
+						<span>🔱 792</span>
 					</div>
-				<div class="stars-today">⭐ 10932 stars this month</div>
+				<div class="stars-today">⭐ 3090 stars this month</div>
 				</div>
 			</div>
 	
@@ -294,8 +360,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Go</span>
-						<span>⭐ 3790</span>
-						<span>🔱 293</span>
+						<span>⭐ 3867</span>
+						<span>🔱 298</span>
 					</div>
 				<div class="stars-today">⭐ 2486 stars this month</div>
 				</div>
@@ -316,54 +382,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Rust</span>
-						<span>⭐ 11135</span>
+						<span>⭐ 11146</span>
 						<span>🔱 515</span>
 					</div>
 				<div class="stars-today">⭐ 2466 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/roboflow/supervision" target="_blank">
-    
-
-
-      
-        roboflow /
-
-      supervision</a></p>
-				<p>
-      We write your reusable computer vision tools. 💜
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 46844</span>
-						<span>🔱 4177</span>
-					</div>
-				<div class="stars-today">⭐ 6888 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/openai/plugins" target="_blank">
-    
-
-
-      
-        openai /
-
-      plugins</a></p>
-				<p>
-      OpenAI Plugins
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 JavaScript</span>
-						<span>⭐ 4083</span>
-						<span>🔱 470</span>
-					</div>
-				<div class="stars-today">⭐ 2651 stars this month</div>
 				</div>
 			</div>
 	
@@ -382,76 +404,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Rust</span>
-						<span>⭐ 8790</span>
-						<span>🔱 742</span>
+						<span>⭐ 8868</span>
+						<span>🔱 754</span>
 					</div>
 				<div class="stars-today">⭐ 4861 stars this month</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/lfnovo/open-notebook" target="_blank">
+				<p><a href="https://github.com/roboflow/supervision" target="_blank">
     
 
 
       
-        lfnovo /
+        roboflow /
 
-      open-notebook</a></p>
+      supervision</a></p>
 				<p>
-      An Open Source implementation of Notebook LM with more flexibility and features
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 34988</span>
-						<span>🔱 3887</span>
-					</div>
-				<div class="stars-today">⭐ 9499 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/mukul975/Anthropic-Cybersecurity-Skills" target="_blank">
-    
-
-
-      
-        mukul975 /
-
-      Anthropic-Cybersecurity-Skills</a></p>
-				<p>
-      817 structured cybersecurity skills for AI agents · Mapped to 6 frameworks: MITRE ATT&CK, NIST CSF 2.0, MITRE ATLAS, D3FEND, NIST AI RMF & MITRE F3 (Fight Fraud) · agentskills.io standard · Works with Claude Code, GitHub Copilot, Codex CLI, Cursor, Gemini CLI & 20+ platforms · 29 security domains · Apache 2.0
+      We write your reusable computer vision tools. 💜
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 24659</span>
-						<span>🔱 2809</span>
+						<span>⭐ 46908</span>
+						<span>🔱 4180</span>
 					</div>
-				<div class="stars-today">⭐ 10363 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/every-app/open-seo" target="_blank">
-    
-
-
-      
-        every-app /
-
-      open-seo</a></p>
-				<p>
-      Open source alternative to Semrush and Ahrefs
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 4116</span>
-						<span>🔱 459</span>
-					</div>
-				<div class="stars-today">⭐ 1924 stars this month</div>
+				<div class="stars-today">⭐ 6888 stars this month</div>
 				</div>
 			</div>
 	

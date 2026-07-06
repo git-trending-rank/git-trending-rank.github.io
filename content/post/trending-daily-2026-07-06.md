@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2026-07-06
-date: 2026-07-06T06:11:23Z
+date: 2026-07-06T11:50:13Z
 categories:
 - daily
 keywords:
@@ -14,50 +14,6 @@ keywords:
 	<main class="container">
         <div class="repo-list" id="repoList">
 
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/Zackriya-Solutions/meetily" target="_blank">
-    
-
-
-      
-        Zackriya-Solutions /
-
-      meetily</a></p>
-				<p>
-      Privacy first, AI meeting assistant with 4x faster Parakeet/Whisper live transcription, speaker diarization, and Ollama summarization built on Rust. 100% local processing. no cloud required. Meetily (Meetly Ai - https://meetily.ai) is the #1 Self-hosted, Open-source Ai meeting note taker for macOS & Windows. 
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Rust</span>
-						<span>⭐ 17603</span>
-						<span>🔱 1841</span>
-					</div>
-				<div class="stars-today">⭐ 1409 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/openai/codex-plugin-cc" target="_blank">
-    
-
-
-      
-        openai /
-
-      codex-plugin-cc</a></p>
-				<p>
-      Use Codex from Claude Code to review code or delegate tasks.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 JavaScript</span>
-						<span>⭐ 25733</span>
-						<span>🔱 1556</span>
-					</div>
-				<div class="stars-today">⭐ 1532 stars today</div>
-				</div>
-			</div>
 	
 			<div class="repo-card">
 				<p><a href="https://github.com/asgeirtj/system_prompts_leaks" target="_blank">
@@ -74,10 +30,76 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 JavaScript</span>
-						<span>⭐ 50329</span>
-						<span>🔱 8224</span>
+						<span>⭐ 50714</span>
+						<span>🔱 8271</span>
 					</div>
 				<div class="stars-today">⭐ 981 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/addyosmani/agent-skills" target="_blank">
+    
+
+
+      
+        addyosmani /
+
+      agent-skills</a></p>
+				<p>
+      Production-grade engineering skills for AI coding agents.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Shell</span>
+						<span>⭐ 70258</span>
+						<span>🔱 7615</span>
+					</div>
+				<div class="stars-today">⭐ 1114 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/Zackriya-Solutions/meetily" target="_blank">
+    
+
+
+      
+        Zackriya-Solutions /
+
+      meetily</a></p>
+				<p>
+      Privacy first, AI meeting assistant with 4x faster Parakeet/Whisper live transcription, speaker diarization, and Ollama summarization built on Rust. 100% local processing. no cloud required. Meetily (Meetly Ai - https://meetily.ai) is the #1 Self-hosted, Open-source Ai meeting note taker for macOS & Windows. 
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Rust</span>
+						<span>⭐ 18290</span>
+						<span>🔱 1872</span>
+					</div>
+				<div class="stars-today">⭐ 1409 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/ruvnet/RuView" target="_blank">
+    
+
+
+      
+        ruvnet /
+
+      RuView</a></p>
+				<p>
+      π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Rust</span>
+						<span>⭐ 76962</span>
+						<span>🔱 10316</span>
+					</div>
+				<div class="stars-today">⭐ 161 stars today</div>
 				</div>
 			</div>
 	
@@ -96,8 +118,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 JavaScript</span>
-						<span>⭐ 57889</span>
-						<span>🔱 3951</span>
+						<span>⭐ 58298</span>
+						<span>🔱 3980</span>
 					</div>
 				<div class="stars-today">⭐ 863 stars today</div>
 				</div>
@@ -118,32 +140,54 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 20744</span>
-						<span>🔱 2803</span>
+						<span>⭐ 20905</span>
+						<span>🔱 2816</span>
 					</div>
 				<div class="stars-today">⭐ 392 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/rommapp/romm" target="_blank">
+				<p><a href="https://github.com/openai/codex-plugin-cc" target="_blank">
     
 
 
       
-        rommapp /
+        openai /
 
-      romm</a></p>
+      codex-plugin-cc</a></p>
 				<p>
-      A beautiful, powerful, self-hosted rom manager and player.
+      Use Codex from Claude Code to review code or delegate tasks.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 JavaScript</span>
+						<span>⭐ 25996</span>
+						<span>🔱 1559</span>
+					</div>
+				<div class="stars-today">⭐ 1532 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/mvanhorn/last30days-skill" target="_blank">
+    
+
+
+      
+        mvanhorn /
+
+      last30days-skill</a></p>
+				<p>
+      AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 10644</span>
-						<span>🔱 510</span>
+						<span>⭐ 49480</span>
+						<span>🔱 4117</span>
 					</div>
-				<div class="stars-today">⭐ 410 stars today</div>
+				<div class="stars-today">⭐ 237 stars today</div>
 				</div>
 			</div>
 	
@@ -162,274 +206,76 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Rust</span>
-						<span>⭐ 12260</span>
-						<span>🔱 720</span>
+						<span>⭐ 12486</span>
+						<span>🔱 727</span>
 					</div>
 				<div class="stars-today">⭐ 651 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/alibaba/page-agent" target="_blank">
+				<p><a href="https://github.com/bradautomates/claude-video" target="_blank">
     
 
 
       
-        alibaba /
+        bradautomates /
 
-      page-agent</a></p>
+      claude-video</a></p>
 				<p>
-      JavaScript in-page GUI agent. Control web interfaces with natural language.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 24153</span>
-						<span>🔱 2073</span>
-					</div>
-				<div class="stars-today">⭐ 805 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/harvard-edge/cs249r_book" target="_blank">
-    
-
-
-      
-        harvard-edge /
-
-      cs249r_book</a></p>
-				<p>
-      Machine Learning Systems
+      Give Claude the ability to watch any video. /watch downloads, extracts frames, transcribes, hands it all to Claude.
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 26950</span>
-						<span>🔱 3207</span>
+						<span>⭐ 3780</span>
+						<span>🔱 569</span>
 					</div>
-				<div class="stars-today">⭐ 329 stars today</div>
+				<div class="stars-today">⭐ 368 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/usestrix/strix" target="_blank">
+				<p><a href="https://github.com/karakeep-app/karakeep" target="_blank">
     
 
 
       
-        usestrix /
+        karakeep-app /
 
-      strix</a></p>
+      karakeep</a></p>
 				<p>
-      Open-source AI penetration testing tool to find and fix your app’s vulnerabilities.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 37386</span>
-						<span>🔱 3792</span>
-					</div>
-				<div class="stars-today">⭐ 1114 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/hesreallyhim/awesome-claude-code" target="_blank">
-    
-
-
-      
-        hesreallyhim /
-
-      awesome-claude-code</a></p>
-				<p>
-      A hand-picked collection of the finest of resources for the most awesome of agents, Claude Code, the undisputed champion of coding companions, from the unstoppable team at Anthropic PBC. A delectable showcase of top tier skills, ambidextrous agents, scintillating status lines, top notch developer tooling, and also we have plugins
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 48532</span>
-						<span>🔱 4248</span>
-					</div>
-				<div class="stars-today">⭐ 148 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/coreyhaines31/marketingskills" target="_blank">
-    
-
-
-      
-        coreyhaines31 /
-
-      marketingskills</a></p>
-				<p>
-      Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics, and growth engineering.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 JavaScript</span>
-						<span>⭐ 36601</span>
-						<span>🔱 5901</span>
-					</div>
-				<div class="stars-today">⭐ 145 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/JuliusBrussee/caveman" target="_blank">
-    
-
-
-      
-        JuliusBrussee /
-
-      caveman</a></p>
-				<p>
-      🪨 why use many token when few token do trick — Claude Code skill that cuts 65% of tokens by talking like caveman
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 JavaScript</span>
-						<span>⭐ 85128</span>
-						<span>🔱 4736</span>
-					</div>
-				<div class="stars-today">⭐ 1052 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/CoplayDev/unity-mcp" target="_blank">
-    
-
-
-      
-        CoplayDev /
-
-      unity-mcp</a></p>
-				<p>
-      Unity MCP acts as a bridge between AI assistants and your Unity Editor. Give your LLM tools to manage assets, control scenes, edit scripts, and automate tasks within Unity.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 C#</span>
-						<span>⭐ 12036</span>
-						<span>🔱 1285</span>
-					</div>
-				<div class="stars-today">⭐ 414 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/facebook/astryx" target="_blank">
-    
-
-
-      
-        facebook /
-
-      astryx</a></p>
-				<p>
-      An open source design system that's fully customizable and agent ready
+      A self-hostable bookmark-everything app (links, notes and images) with AI-based automatic tagging and full text search
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 6065</span>
-						<span>🔱 390</span>
+						<span>⭐ 26666</span>
+						<span>🔱 1311</span>
 					</div>
-				<div class="stars-today">⭐ 522 stars today</div>
+				<div class="stars-today">⭐ 178 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/immich-app/immich" target="_blank">
+				<p><a href="https://github.com/firecrawl/firecrawl" target="_blank">
     
 
 
       
-        immich-app /
+        firecrawl /
 
-      immich</a></p>
+      firecrawl</a></p>
 				<p>
-      High performance self-hosted photo and video management solution.
+      The API to search, scrape, and interact with the web at scale. 🔥
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 106237</span>
-						<span>🔱 6070</span>
+						<span>⭐ 145584</span>
+						<span>🔱 8383</span>
 					</div>
-				<div class="stars-today">⭐ 470 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/ruvnet/RuView" target="_blank">
-    
-
-
-      
-        ruvnet /
-
-      RuView</a></p>
-				<p>
-      π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Rust</span>
-						<span>⭐ 76821</span>
-						<span>🔱 10300</span>
-					</div>
-				<div class="stars-today">⭐ 161 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/gastownhall/gastown" target="_blank">
-    
-
-
-      
-        gastownhall /
-
-      gastown</a></p>
-				<p>
-      Gas Town - multi-agent workspace manager
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Go</span>
-						<span>⭐ 16455</span>
-						<span>🔱 1524</span>
-					</div>
-				<div class="stars-today">⭐ 51 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/dotnet/skills" target="_blank">
-    
-
-
-      
-        dotnet /
-
-      skills</a></p>
-				<p>
-      Repository for skills to assist AI coding agents with .NET and C#
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 C#</span>
-						<span>⭐ 4101</span>
-						<span>🔱 306</span>
-					</div>
-				<div class="stars-today">⭐ 246 stars today</div>
+				<div class="stars-today">⭐ 834 stars today</div>
 				</div>
 			</div>
 	
@@ -448,32 +294,76 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Swift</span>
-						<span>⭐ 16381</span>
-						<span>🔱 1355</span>
+						<span>⭐ 16539</span>
+						<span>🔱 1364</span>
 					</div>
 				<div class="stars-today">⭐ 153 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/anthropics/claude-code" target="_blank">
+				<p><a href="https://github.com/alibaba/zvec" target="_blank">
     
 
 
       
-        anthropics /
+        alibaba /
 
-      claude-code</a></p>
+      zvec</a></p>
 				<p>
-      Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.
+      A lightweight, lightning-fast, in-process vector database
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 136392</span>
-						<span>🔱 21916</span>
+						<span>🔠 C++</span>
+						<span>⭐ 13160</span>
+						<span>🔱 792</span>
 					</div>
-				<div class="stars-today">⭐ 156 stars today</div>
+				<div class="stars-today">⭐ 355 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/sindresorhus/awesome" target="_blank">
+    
+
+
+      
+        sindresorhus /
+
+      awesome</a></p>
+				<p>
+      😎 Awesome lists about all kinds of interesting topics
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 </span>
+						<span>⭐ 481972</span>
+						<span>🔱 35713</span>
+					</div>
+				<div class="stars-today">⭐ 352 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/gastownhall/gastown" target="_blank">
+    
+
+
+      
+        gastownhall /
+
+      gastown</a></p>
+				<p>
+      Gas Town - multi-agent workspace manager
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Go</span>
+						<span>⭐ 16522</span>
+						<span>🔱 1530</span>
+					</div>
+				<div class="stars-today">⭐ 51 stars today</div>
 				</div>
 			</div>
 	
