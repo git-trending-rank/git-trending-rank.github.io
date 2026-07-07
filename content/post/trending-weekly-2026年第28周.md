@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2026年第28周
-date: 2026-07-07T09:21:33Z
+date: 2026-07-07T12:17:15Z
 categories:
 - weekly
 keywords:
@@ -30,54 +30,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 38205</span>
-						<span>🔱 3874</span>
+						<span>⭐ 38287</span>
+						<span>🔱 3882</span>
 					</div>
 				<div class="stars-today">⭐ 10759 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/hasaneyldrm/exercises-dataset" target="_blank">
-    
-
-
-      
-        hasaneyldrm /
-
-      exercises-dataset</a></p>
-				<p>
-      A comprehensive dataset of 433 fitness exercises. Each entry includes name, category, target muscle group, equipment, instructions, thumbnail image, and animation video.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 HTML</span>
-						<span>⭐ 10514</span>
-						<span>🔱 1194</span>
-					</div>
-				<div class="stars-today">⭐ 5665 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/diegosouzapw/OmniRoute" target="_blank">
-    
-
-
-      
-        diegosouzapw /
-
-      OmniRoute</a></p>
-				<p>
-      Never stop coding. Free AI gateway: one endpoint, 231+ providers (50+ free), connect Claude Code, Codex, Cursor, Cline & Copilot to FREE Claude/GPT/Gemini. RTK+Caveman stacked compression saves 15-95% tokens, smart auto-fallback, MCP/A2A, multimodal APIs, Desktop/PWA.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 12818</span>
-						<span>🔱 1863</span>
-					</div>
-				<div class="stars-today">⭐ 4594 stars this week</div>
 				</div>
 			</div>
 	
@@ -96,32 +52,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Rust</span>
-						<span>⭐ 19922</span>
-						<span>🔱 2004</span>
+						<span>⭐ 20076</span>
+						<span>🔱 2015</span>
 					</div>
 				<div class="stars-today">⭐ 5769 stars this week</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/altic-dev/FluidVoice" target="_blank">
+				<p><a href="https://github.com/hasaneyldrm/exercises-dataset" target="_blank">
     
 
 
       
-        altic-dev /
+        hasaneyldrm /
 
-      FluidVoice</a></p>
+      exercises-dataset</a></p>
 				<p>
-      Fastest and only macOS Dictation app with on-device STT and custom trained AI enhancement model. A local Wispr Flow alternative. ⭐ helps a ton :) Windows & iOS waitlist open. Linux soon.
+      A comprehensive dataset of 433 fitness exercises. Each entry includes name, category, target muscle group, equipment, instructions, thumbnail image, and animation video.
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Swift</span>
-						<span>⭐ 6520</span>
-						<span>🔱 410</span>
+						<span>🔠 HTML</span>
+						<span>⭐ 10559</span>
+						<span>🔱 1194</span>
 					</div>
-				<div class="stars-today">⭐ 2127 stars this week</div>
+				<div class="stars-today">⭐ 5665 stars this week</div>
 				</div>
 			</div>
 	
@@ -140,32 +96,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Rust</span>
-						<span>⭐ 13124</span>
-						<span>🔱 760</span>
+						<span>⭐ 13219</span>
+						<span>🔱 767</span>
 					</div>
 				<div class="stars-today">⭐ 4348 stars this week</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/xbtlin/ai-berkshire" target="_blank">
+				<p><a href="https://github.com/diegosouzapw/OmniRoute" target="_blank">
     
 
 
       
-        xbtlin /
+        diegosouzapw /
 
-      ai-berkshire</a></p>
+      OmniRoute</a></p>
 				<p>
-      AI 时代的伯克希尔：基于 Claude Code / Codex 的价值投资研究框架。巴菲特·芒格·段永平·李录四大师方法论 + 多Agent并行研究。| AI-era Berkshire: a value investing research framework built for Claude Code / Codex. 4 masters' methodologies + multi-agent adversarial analysis.
+      Never stop coding. Free AI gateway: one endpoint, 231+ providers (50+ free), connect Claude Code, Codex, Cursor, Cline & Copilot to FREE Claude/GPT/Gemini. RTK+Caveman stacked compression saves 15-95% tokens, smart auto-fallback, MCP/A2A, multimodal APIs, Desktop/PWA.
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 11461</span>
-						<span>🔱 1487</span>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 12881</span>
+						<span>🔱 1873</span>
 					</div>
-				<div class="stars-today">⭐ 4616 stars this week</div>
+				<div class="stars-today">⭐ 4594 stars this week</div>
 				</div>
 			</div>
 	
@@ -184,54 +140,164 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 24759</span>
-						<span>🔱 2116</span>
+						<span>⭐ 24786</span>
+						<span>🔱 2117</span>
 					</div>
 				<div class="stars-today">⭐ 3989 stars this week</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/browser-use/video-use" target="_blank">
+				<p><a href="https://github.com/openai/codex-plugin-cc" target="_blank">
     
 
 
       
-        browser-use /
+        openai /
 
-      video-use</a></p>
+      codex-plugin-cc</a></p>
 				<p>
-      Edit videos with coding agents
+      Use Codex from Claude Code to review code or delegate tasks.
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 15660</span>
-						<span>🔱 1825</span>
+						<span>🔠 JavaScript</span>
+						<span>⭐ 26515</span>
+						<span>🔱 1586</span>
 					</div>
-				<div class="stars-today">⭐ 3706 stars this week</div>
+				<div class="stars-today">⭐ 4329 stars this week</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/Robbyant/lingbot-map" target="_blank">
+				<p><a href="https://github.com/MadsLorentzen/ai-job-search" target="_blank">
     
 
 
       
-        Robbyant /
+        MadsLorentzen /
 
-      lingbot-map</a></p>
+      ai-job-search</a></p>
 				<p>
-      A feed-forward 3D foundation model for reconstructing scenes from streaming data
+      AI-powered job application framework built on Claude Code. Fork it, fill in your profile, and let Claude evaluate jobs, tailor CVs, write cover letters, and prepare you for interviews.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 8381</span>
+						<span>🔱 3098</span>
+					</div>
+				<div class="stars-today">⭐ 4495 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/altic-dev/FluidVoice" target="_blank">
+    
+
+
+      
+        altic-dev /
+
+      FluidVoice</a></p>
+				<p>
+      Fastest and only macOS Dictation app with on-device STT and custom trained AI enhancement model. A local Wispr Flow alternative. ⭐ helps a ton :) Windows & iOS waitlist open. Linux soon.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Swift</span>
+						<span>⭐ 6557</span>
+						<span>🔱 411</span>
+					</div>
+				<div class="stars-today">⭐ 2127 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/TencentCloud/CubeSandbox" target="_blank">
+    
+
+
+      
+        TencentCloud /
+
+      CubeSandbox</a></p>
+				<p>
+      Instant, Concurrent, Secure & Lightweight Sandbox for AI Agents.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Rust</span>
+						<span>⭐ 8161</span>
+						<span>🔱 680</span>
+					</div>
+				<div class="stars-today">⭐ 1172 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/xbtlin/ai-berkshire" target="_blank">
+    
+
+
+      
+        xbtlin /
+
+      ai-berkshire</a></p>
+				<p>
+      AI 时代的伯克希尔：基于 Claude Code / Codex 的价值投资研究框架。巴菲特·芒格·段永平·李录四大师方法论 + 多Agent并行研究。| AI-era Berkshire: a value investing research framework built for Claude Code / Codex. 4 masters' methodologies + multi-agent adversarial analysis.
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 10116</span>
-						<span>🔱 1006</span>
+						<span>⭐ 11526</span>
+						<span>🔱 1496</span>
 					</div>
-				<div class="stars-today">⭐ 1525 stars this week</div>
+				<div class="stars-today">⭐ 4616 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/msitarzewski/agency-agents" target="_blank">
+    
+
+
+      
+        msitarzewski /
+
+      agency-agents</a></p>
+				<p>
+      A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Shell</span>
+						<span>⭐ 128508</span>
+						<span>🔱 20885</span>
+					</div>
+				<div class="stars-today">⭐ 9706 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/immich-app/immich" target="_blank">
+    
+
+
+      
+        immich-app /
+
+      immich</a></p>
+				<p>
+      High performance self-hosted photo and video management solution.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 106624</span>
+						<span>🔱 6101</span>
+					</div>
+				<div class="stars-today">⭐ 1848 stars this week</div>
 				</div>
 			</div>
 	
@@ -250,7 +316,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 5517</span>
+						<span>⭐ 5532</span>
 						<span>🔱 673</span>
 					</div>
 				<div class="stars-today">⭐ 533 stars this week</div>
@@ -272,7 +338,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 18912</span>
+						<span>⭐ 18921</span>
 						<span>🔱 1552</span>
 					</div>
 				<div class="stars-today">⭐ 1243 stars this week</div>
@@ -280,90 +346,46 @@ keywords:
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/openai/codex-plugin-cc" target="_blank">
+				<p><a href="https://github.com/browser-use/video-use" target="_blank">
     
 
 
       
-        openai /
+        browser-use /
 
-      codex-plugin-cc</a></p>
+      video-use</a></p>
 				<p>
-      Use Codex from Claude Code to review code or delegate tasks.
+      Edit videos with coding agents
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 JavaScript</span>
-						<span>⭐ 26470</span>
-						<span>🔱 1584</span>
+						<span>🔠 Python</span>
+						<span>⭐ 15718</span>
+						<span>🔱 1827</span>
 					</div>
-				<div class="stars-today">⭐ 4329 stars this week</div>
+				<div class="stars-today">⭐ 3706 stars this week</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/Starmel/OpenSuperWhisper" target="_blank">
+				<p><a href="https://github.com/dotnet/skills" target="_blank">
     
 
 
       
-        Starmel /
+        dotnet /
 
-      OpenSuperWhisper</a></p>
+      skills</a></p>
 				<p>
-      macOS dictation app
+      Repository for skills to assist AI coding agents with .NET and C#
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Swift</span>
-						<span>⭐ 1918</span>
-						<span>🔱 157</span>
+						<span>🔠 C#</span>
+						<span>⭐ 4213</span>
+						<span>🔱 319</span>
 					</div>
-				<div class="stars-today">⭐ 530 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/immich-app/immich" target="_blank">
-    
-
-
-      
-        immich-app /
-
-      immich</a></p>
-				<p>
-      High performance self-hosted photo and video management solution.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 106603</span>
-						<span>🔱 6096</span>
-					</div>
-				<div class="stars-today">⭐ 1848 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/msitarzewski/agency-agents" target="_blank">
-    
-
-
-      
-        msitarzewski /
-
-      agency-agents</a></p>
-				<p>
-      A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Shell</span>
-						<span>⭐ 128442</span>
-						<span>🔱 20870</span>
-					</div>
-				<div class="stars-today">⭐ 9706 stars this week</div>
+				<div class="stars-today">⭐ 627 stars this week</div>
 				</div>
 			</div>
 	
@@ -382,32 +404,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 JavaScript</span>
-						<span>⭐ 85956</span>
-						<span>🔱 4782</span>
+						<span>⭐ 86030</span>
+						<span>🔱 4786</span>
 					</div>
 				<div class="stars-today">⭐ 7780 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/DeusData/codebase-memory-mcp" target="_blank">
-    
-
-
-      
-        DeusData /
-
-      codebase-memory-mcp</a></p>
-				<p>
-      High-performance code intelligence MCP server. Indexes codebases into a persistent knowledge graph — average repo in milliseconds. 158 languages, sub-ms queries, 99% fewer tokens. Single static binary, zero dependencies.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 C</span>
-						<span>⭐ 27640</span>
-						<span>🔱 2058</span>
-					</div>
-				<div class="stars-today">⭐ 6309 stars this week</div>
 				</div>
 			</div>
 	
@@ -426,10 +426,54 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 13088</span>
-						<span>🔱 880</span>
+						<span>⭐ 13177</span>
+						<span>🔱 885</span>
 					</div>
 				<div class="stars-today">⭐ 3794 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/Robbyant/lingbot-map" target="_blank">
+    
+
+
+      
+        Robbyant /
+
+      lingbot-map</a></p>
+				<p>
+      A feed-forward 3D foundation model for reconstructing scenes from streaming data
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 10138</span>
+						<span>🔱 1012</span>
+					</div>
+				<div class="stars-today">⭐ 1525 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/asgeirtj/system_prompts_leaks" target="_blank">
+    
+
+
+      
+        asgeirtj /
+
+      system_prompts_leaks</a></p>
+				<p>
+      Extracted system prompts from Anthropic - Claude Fable 5, Opus 4.8, Claude Code, Claude Design. OpenAI - ChatGPT 5.5 Thinking, GPT 5.5 Instant, Codex. Google - Gemini 3.5 Flash, 3.1 Pro, Antigravity. xAI - Grok, Cursor, Copilot, VS Code, Perplexity, and more. Updated regularly.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 JavaScript</span>
+						<span>⭐ 52417</span>
+						<span>🔱 8536</span>
+					</div>
+				<div class="stars-today">⭐ 4290 stars this week</div>
 				</div>
 			</div>
 	
@@ -448,32 +492,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 46153</span>
-						<span>🔱 3005</span>
+						<span>⭐ 46170</span>
+						<span>🔱 3011</span>
 					</div>
 				<div class="stars-today">⭐ 1394 stars this week</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/JCodesMore/ai-website-cloner-template" target="_blank">
+				<p><a href="https://github.com/DeusData/codebase-memory-mcp" target="_blank">
     
 
 
       
-        JCodesMore /
+        DeusData /
 
-      ai-website-cloner-template</a></p>
+      codebase-memory-mcp</a></p>
 				<p>
-      Clone any website with one command using AI coding agents
+      High-performance code intelligence MCP server. Indexes codebases into a persistent knowledge graph — average repo in milliseconds. 158 languages, sub-ms queries, 99% fewer tokens. Single static binary, zero dependencies.
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 26374</span>
-						<span>🔱 3713</span>
+						<span>🔠 C</span>
+						<span>⭐ 27726</span>
+						<span>🔱 2062</span>
 					</div>
-				<div class="stars-today">⭐ 2825 stars this week</div>
+				<div class="stars-today">⭐ 6309 stars this week</div>
 				</div>
 			</div>
 	

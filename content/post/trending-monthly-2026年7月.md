@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2026年7月
-date: 2026-07-07T09:21:33Z
+date: 2026-07-07T12:17:15Z
 categories:
 - monthly
 keywords:
@@ -30,7 +30,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Swift</span>
-						<span>⭐ 46894</span>
+						<span>⭐ 46918</span>
 						<span>🔱 1411</span>
 					</div>
 				<div class="stars-today">⭐ 20137 stars this month</div>
@@ -52,8 +52,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 C</span>
-						<span>⭐ 27640</span>
-						<span>🔱 2058</span>
+						<span>⭐ 27726</span>
+						<span>🔱 2062</span>
 					</div>
 				<div class="stars-today">⭐ 24223 stars this month</div>
 				</div>
@@ -74,8 +74,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 34654</span>
-						<span>🔱 3966</span>
+						<span>⭐ 34728</span>
+						<span>🔱 3978</span>
 					</div>
 				<div class="stars-today">⭐ 29796 stars this month</div>
 				</div>
@@ -96,8 +96,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 12209</span>
-						<span>🔱 1006</span>
+						<span>⭐ 12232</span>
+						<span>🔱 1008</span>
 					</div>
 				<div class="stars-today">⭐ 10867 stars this month</div>
 				</div>
@@ -118,8 +118,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 52338</span>
-						<span>🔱 4204</span>
+						<span>⭐ 52424</span>
+						<span>🔱 4210</span>
 					</div>
 				<div class="stars-today">⭐ 30168 stars this month</div>
 				</div>
@@ -140,54 +140,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 130864</span>
-						<span>🔱 7284</span>
+						<span>⭐ 130891</span>
+						<span>🔱 7289</span>
 					</div>
 				<div class="stars-today">⭐ 14204 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/mvanhorn/last30days-skill" target="_blank">
-    
-
-
-      
-        mvanhorn /
-
-      last30days-skill</a></p>
-				<p>
-      AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 50073</span>
-						<span>🔱 4172</span>
-					</div>
-				<div class="stars-today">⭐ 21391 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/simplex-chat/simplex-chat" target="_blank">
-    
-
-
-      
-        simplex-chat /
-
-      simplex-chat</a></p>
-				<p>
-      SimpleX - the first messaging network operating without user identifiers of any kind - 100% private by design! iOS, Android and desktop apps 📱!
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Haskell</span>
-						<span>⭐ 18032</span>
-						<span>🔱 1060</span>
-					</div>
-				<div class="stars-today">⭐ 6897 stars this month</div>
 				</div>
 			</div>
 	
@@ -206,32 +162,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 JavaScript</span>
-						<span>⭐ 52217</span>
-						<span>🔱 8501</span>
+						<span>⭐ 52417</span>
+						<span>🔱 8536</span>
 					</div>
 				<div class="stars-today">⭐ 9636 stars this month</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/interviewstreet/hiring-agent" target="_blank">
+				<p><a href="https://github.com/simplex-chat/simplex-chat" target="_blank">
     
 
 
       
-        interviewstreet /
+        simplex-chat /
 
-      hiring-agent</a></p>
+      simplex-chat</a></p>
 				<p>
-      AI agent to evaluate and score resumes.
+      SimpleX - the first messaging network operating without user identifiers of any kind - 100% private by design! iOS, Android and desktop apps 📱!
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 5009</span>
-						<span>🔱 936</span>
+						<span>🔠 Haskell</span>
+						<span>⭐ 18042</span>
+						<span>🔱 1065</span>
 					</div>
-				<div class="stars-today">⭐ 4089 stars this month</div>
+				<div class="stars-today">⭐ 6897 stars this month</div>
 				</div>
 			</div>
 	
@@ -250,32 +206,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 38205</span>
-						<span>🔱 3874</span>
+						<span>⭐ 38287</span>
+						<span>🔱 3882</span>
 					</div>
 				<div class="stars-today">⭐ 12018 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/phuryn/pm-skills" target="_blank">
-    
-
-
-      
-        phuryn /
-
-      pm-skills</a></p>
-				<p>
-      PM Skills Marketplace: 100+ agentic skills, commands, and plugins — from discovery to strategy, execution, launch, and growth.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 </span>
-						<span>⭐ 22852</span>
-						<span>🔱 2301</span>
-					</div>
-				<div class="stars-today">⭐ 10741 stars this month</div>
 				</div>
 			</div>
 	
@@ -294,32 +228,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Rust</span>
-						<span>⭐ 13124</span>
-						<span>🔱 760</span>
+						<span>⭐ 13219</span>
+						<span>🔱 767</span>
 					</div>
 				<div class="stars-today">⭐ 7878 stars this month</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/stablyai/orca" target="_blank">
+				<p><a href="https://github.com/interviewstreet/hiring-agent" target="_blank">
     
 
 
       
-        stablyai /
+        interviewstreet /
 
-      orca</a></p>
+      hiring-agent</a></p>
 				<p>
-      Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop and mobile.
+      AI agent to evaluate and score resumes.
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 13088</span>
-						<span>🔱 880</span>
+						<span>🔠 Python</span>
+						<span>⭐ 5028</span>
+						<span>🔱 937</span>
 					</div>
-				<div class="stars-today">⭐ 8457 stars this month</div>
+				<div class="stars-today">⭐ 4089 stars this month</div>
 				</div>
 			</div>
 	
@@ -338,32 +272,98 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 C++</span>
-						<span>⭐ 13742</span>
-						<span>🔱 834</span>
+						<span>⭐ 13829</span>
+						<span>🔱 836</span>
 					</div>
 				<div class="stars-today">⭐ 3459 stars this month</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/kenn-io/agentsview" target="_blank">
+				<p><a href="https://github.com/stablyai/orca" target="_blank">
     
 
 
       
-        kenn-io /
+        stablyai /
 
-      agentsview</a></p>
+      orca</a></p>
 				<p>
-      Local-first session search, analytics, insights, and token use statistics for coding agents, supporting Claude Code, Codex, and more than 20 other agents. 
+      Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop and mobile.
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Go</span>
-						<span>⭐ 4042</span>
-						<span>🔱 306</span>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 13177</span>
+						<span>🔱 885</span>
 					</div>
-				<div class="stars-today">⭐ 2701 stars this month</div>
+				<div class="stars-today">⭐ 8457 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/phuryn/pm-skills" target="_blank">
+    
+
+
+      
+        phuryn /
+
+      pm-skills</a></p>
+				<p>
+      PM Skills Marketplace: 100+ agentic skills, commands, and plugins — from discovery to strategy, execution, launch, and growth.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 </span>
+						<span>⭐ 22871</span>
+						<span>🔱 2301</span>
+					</div>
+				<div class="stars-today">⭐ 10741 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/mvanhorn/last30days-skill" target="_blank">
+    
+
+
+      
+        mvanhorn /
+
+      last30days-skill</a></p>
+				<p>
+      AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 50156</span>
+						<span>🔱 4173</span>
+					</div>
+				<div class="stars-today">⭐ 21391 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/Zackriya-Solutions/meetily" target="_blank">
+    
+
+
+      
+        Zackriya-Solutions /
+
+      meetily</a></p>
+				<p>
+      Privacy first, AI meeting assistant with 4x faster Parakeet/Whisper live transcription, speaker diarization, and Ollama summarization built on Rust. 100% local processing. no cloud required. Meetily (Meetly Ai - https://meetily.ai) is the #1 Self-hosted, Open-source Ai meeting note taker for macOS & Windows. 
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Rust</span>
+						<span>⭐ 20076</span>
+						<span>🔱 2015</span>
+					</div>
+				<div class="stars-today">⭐ 6485 stars this month</div>
 				</div>
 			</div>
 	
@@ -390,6 +390,50 @@ keywords:
 			</div>
 	
 			<div class="repo-card">
+				<p><a href="https://github.com/MadsLorentzen/ai-job-search" target="_blank">
+    
+
+
+      
+        MadsLorentzen /
+
+      ai-job-search</a></p>
+				<p>
+      AI-powered job application framework built on Claude Code. Fork it, fill in your profile, and let Claude evaluate jobs, tailor CVs, write cover letters, and prepare you for interviews.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 8381</span>
+						<span>🔱 3098</span>
+					</div>
+				<div class="stars-today">⭐ 5582 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/alibaba/page-agent" target="_blank">
+    
+
+
+      
+        alibaba /
+
+      page-agent</a></p>
+				<p>
+      JavaScript in-page GUI agent. Control web interfaces with natural language.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 24786</span>
+						<span>🔱 2117</span>
+					</div>
+				<div class="stars-today">⭐ 6399 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
 				<p><a href="https://github.com/t8y2/dbx" target="_blank">
     
 
@@ -404,32 +448,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Rust</span>
-						<span>⭐ 9027</span>
-						<span>🔱 768</span>
+						<span>⭐ 9046</span>
+						<span>🔱 769</span>
 					</div>
 				<div class="stars-today">⭐ 4953 stars this month</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/roboflow/supervision" target="_blank">
+				<p><a href="https://github.com/ZhuLinsen/daily_stock_analysis" target="_blank">
     
 
 
       
-        roboflow /
+        ZhuLinsen /
 
-      supervision</a></p>
+      daily_stock_analysis</a></p>
 				<p>
-      We write your reusable computer vision tools. 💜
+      LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。 LLM-powered multi-market stock analysis system with multi-source market data, real-time news, decision dashboard, automated notifications, and cost-free scheduled runs.
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 47060</span>
-						<span>🔱 4193</span>
+						<span>⭐ 55372</span>
+						<span>🔱 47852</span>
 					</div>
-				<div class="stars-today">⭐ 6991 stars this month</div>
+				<div class="stars-today">⭐ 14373 stars this month</div>
 				</div>
 			</div>
 	
