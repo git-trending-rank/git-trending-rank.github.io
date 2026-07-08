@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2026-07-08
-date: 2026-07-08T08:00:33Z
+date: 2026-07-08T11:38:12Z
 categories:
 - daily
 keywords:
@@ -30,32 +30,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 12446</span>
-						<span>🔱 3992</span>
+						<span>⭐ 13284</span>
+						<span>🔱 4181</span>
 					</div>
 				<div class="stars-today">⭐ 2514 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/Zackriya-Solutions/meetily" target="_blank">
-    
-
-
-      
-        Zackriya-Solutions /
-
-      meetily</a></p>
-				<p>
-      Privacy first, AI meeting assistant with 4x faster Parakeet/Whisper live transcription, speaker diarization, and Ollama summarization built on Rust. 100% local processing. no cloud required. Meetily (Meetly Ai - https://meetily.ai) is the #1 Self-hosted, Open-source Ai meeting note taker for macOS & Windows. 
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Rust</span>
-						<span>⭐ 21163</span>
-						<span>🔱 2104</span>
-					</div>
-				<div class="stars-today">⭐ 1777 stars today</div>
 				</div>
 			</div>
 	
@@ -74,8 +52,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 JavaScript</span>
-						<span>⭐ 72550</span>
-						<span>🔱 7856</span>
+						<span>⭐ 72764</span>
+						<span>🔱 7874</span>
 					</div>
 				<div class="stars-today">⭐ 1317 stars today</div>
 				</div>
@@ -96,120 +74,98 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Rust</span>
-						<span>⭐ 78728</span>
-						<span>🔱 10590</span>
+						<span>⭐ 78839</span>
+						<span>🔱 10602</span>
 					</div>
 				<div class="stars-today">⭐ 1129 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/asgeirtj/system_prompts_leaks" target="_blank">
-    
-
-
-      
-        asgeirtj /
-
-      system_prompts_leaks</a></p>
-				<p>
-      Extracted system prompts from Anthropic - Claude Fable 5, Opus 4.8, Claude Code, Claude Design. OpenAI - ChatGPT 5.5 Thinking, GPT 5.5 Instant, Codex. Google - Gemini 3.5 Flash, 3.1 Pro, Antigravity. xAI - Grok, Cursor, Copilot, VS Code, Perplexity, and more. Updated regularly.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 JavaScript</span>
-						<span>⭐ 53412</span>
-						<span>🔱 8704</span>
-					</div>
-				<div class="stars-today">⭐ 1691 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/TencentCloud/CubeSandbox" target="_blank">
+				<p><a href="https://github.com/TencentCloud/TencentDB-Agent-Memory" target="_blank">
     
 
 
       
         TencentCloud /
 
-      CubeSandbox</a></p>
+      TencentDB-Agent-Memory</a></p>
 				<p>
-      Instant, Concurrent, Secure & Lightweight Sandbox for AI Agents.
+      TencentDB Agent Memory delivers fully local long-term memory for AI Agents via a 4-tier progressive pipeline, with zero external API dependencies.
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Rust</span>
-						<span>⭐ 8633</span>
-						<span>🔱 723</span>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 7315</span>
+						<span>🔱 686</span>
 					</div>
-				<div class="stars-today">⭐ 664 stars today</div>
+				<div class="stars-today">⭐ 610 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/AhmadIbrahiim/Website-downloader" target="_blank">
+				<p><a href="https://github.com/prisma/prisma" target="_blank">
     
 
 
       
-        AhmadIbrahiim /
+        prisma /
 
-      Website-downloader</a></p>
+      prisma</a></p>
 				<p>
-      💡 Download the complete source code of any website (including all assets). [ Javascripts, Stylesheets, Images ] using Node.js 
+      Next-generation ORM for Node.js & TypeScript | PostgreSQL, MySQL, MariaDB, SQL Server, SQLite, MongoDB and CockroachDB
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 HTML</span>
-						<span>⭐ 4294</span>
-						<span>🔱 1004</span>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 46379</span>
+						<span>🔱 2272</span>
 					</div>
-				<div class="stars-today">⭐ 140 stars today</div>
+				<div class="stars-today">⭐ 30 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/steipete/CodexBar" target="_blank">
+				<p><a href="https://github.com/mvanhorn/last30days-skill" target="_blank">
     
 
 
       
-        steipete /
+        mvanhorn /
 
-      CodexBar</a></p>
+      last30days-skill</a></p>
 				<p>
-      Show usage stats for OpenAI Codex and Claude Code, without having to login.
+      AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Swift</span>
-						<span>⭐ 17135</span>
-						<span>🔱 1396</span>
+						<span>🔠 Python</span>
+						<span>⭐ 50481</span>
+						<span>🔱 4213</span>
 					</div>
-				<div class="stars-today">⭐ 376 stars today</div>
+				<div class="stars-today">⭐ 659 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/dotnet/skills" target="_blank">
+				<p><a href="https://github.com/argoproj/argo-cd" target="_blank">
     
 
 
       
-        dotnet /
+        argoproj /
 
-      skills</a></p>
+      argo-cd</a></p>
 				<p>
-      Repository for skills to assist AI coding agents with .NET and C#
+      Declarative Continuous Deployment for Kubernetes
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 C#</span>
-						<span>⭐ 4378</span>
-						<span>🔱 325</span>
+						<span>🔠 Go</span>
+						<span>⭐ 23357</span>
+						<span>🔱 7422</span>
 					</div>
-				<div class="stars-today">⭐ 64 stars today</div>
+				<div class="stars-today">⭐ 20 stars today</div>
 				</div>
 			</div>
 	
@@ -228,10 +184,120 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 C#</span>
-						<span>⭐ 10637</span>
-						<span>🔱 714</span>
+						<span>⭐ 10932</span>
+						<span>🔱 732</span>
 					</div>
 				<div class="stars-today">⭐ 893 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/asgeirtj/system_prompts_leaks" target="_blank">
+    
+
+
+      
+        asgeirtj /
+
+      system_prompts_leaks</a></p>
+				<p>
+      Extracted system prompts from Anthropic - Claude Fable 5, Opus 4.8, Claude Code, Claude Design. OpenAI - ChatGPT 5.5 Thinking, GPT 5.5 Instant, Codex. Google - Gemini 3.5 Flash, 3.1 Pro, Antigravity. xAI - Grok, Cursor, Copilot, VS Code, Perplexity, and more. Updated regularly.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 JavaScript</span>
+						<span>⭐ 53579</span>
+						<span>🔱 8730</span>
+					</div>
+				<div class="stars-today">⭐ 1691 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/obra/superpowers" target="_blank">
+    
+
+
+      
+        obra /
+
+      superpowers</a></p>
+				<p>
+      An agentic skills framework & software development methodology that works.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Shell</span>
+						<span>⭐ 249367</span>
+						<span>🔱 22133</span>
+					</div>
+				<div class="stars-today">⭐ 999 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/alibaba/zvec" target="_blank">
+    
+
+
+      
+        alibaba /
+
+      zvec</a></p>
+				<p>
+      A lightweight, lightning-fast, in-process vector database
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 C++</span>
+						<span>⭐ 14204</span>
+						<span>🔱 872</span>
+					</div>
+				<div class="stars-today">⭐ 685 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/Diolinux/PhotoGIMP" target="_blank">
+    
+
+
+      
+        Diolinux /
+
+      PhotoGIMP</a></p>
+				<p>
+      A Patch for GIMP 3+ for Photoshop Users
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 CSS</span>
+						<span>⭐ 14594</span>
+						<span>🔱 571</span>
+					</div>
+				<div class="stars-today">⭐ 2031 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/wonderwhy-er/DesktopCommanderMCP" target="_blank">
+    
+
+
+      
+        wonderwhy-er /
+
+      DesktopCommanderMCP</a></p>
+				<p>
+      This is MCP server for Claude that gives it terminal control, file system search and diff file editing capabilities
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 6282</span>
+						<span>🔱 742</span>
+					</div>
+				<div class="stars-today">⭐ 20 stars today</div>
 				</div>
 			</div>
 	
@@ -250,54 +316,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 5516</span>
-						<span>🔱 682</span>
+						<span>⭐ 5665</span>
+						<span>🔱 690</span>
 					</div>
 				<div class="stars-today">⭐ 965 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/kyutai-labs/pocket-tts" target="_blank">
+				<p><a href="https://github.com/TencentCloud/CubeSandbox" target="_blank">
     
 
 
       
-        kyutai-labs /
+        TencentCloud /
 
-      pocket-tts</a></p>
+      CubeSandbox</a></p>
 				<p>
-      A TTS that fits in your CPU (and pocket)
+      Instant, Concurrent, Secure & Lightweight Sandbox for AI Agents.
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 6396</span>
-						<span>🔱 659</span>
+						<span>🔠 Rust</span>
+						<span>⭐ 8712</span>
+						<span>🔱 729</span>
 					</div>
-				<div class="stars-today">⭐ 531 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/hesreallyhim/awesome-claude-code" target="_blank">
-    
-
-
-      
-        hesreallyhim /
-
-      awesome-claude-code</a></p>
-				<p>
-      A hand-picked collection of the finest of resources for the most awesome of agents, Claude Code, the undisputed champion of coding companions, from the unstoppable team at Anthropic PBC. A delectable showcase of top tier skills, ambidextrous agents, scintillating status lines, top notch developer tooling, and also we have plugins
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 49383</span>
-						<span>🔱 4295</span>
-					</div>
-				<div class="stars-today">⭐ 144 stars today</div>
+				<div class="stars-today">⭐ 664 stars today</div>
 				</div>
 			</div>
 	
