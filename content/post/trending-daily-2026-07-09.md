@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2026-07-09
-date: 2026-07-09T09:00:35Z
+date: 2026-07-09T16:17:17Z
 categories:
 - daily
 keywords:
@@ -30,10 +30,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 16502</span>
-						<span>🔱 4952</span>
+						<span>⭐ 17883</span>
+						<span>🔱 5243</span>
 					</div>
-				<div class="stars-today">⭐ 5079 stars today</div>
+				<div class="stars-today">⭐ 3728 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/SmartlyDressedGames/U3-SDK" target="_blank">
+    
+
+
+      
+        SmartlyDressedGames /
+
+      U3-SDK</a></p>
+				<p>
+      Source code for Unturned, a free open-world zombie survival sandbox game.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 C#</span>
+						<span>⭐ 1871</span>
+						<span>🔱 234</span>
+					</div>
+				<div class="stars-today">⭐ 541 stars today</div>
 				</div>
 			</div>
 	
@@ -52,120 +74,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 JavaScript</span>
-						<span>⭐ 75121</span>
-						<span>🔱 8088</span>
+						<span>⭐ 75605</span>
+						<span>🔱 8126</span>
 					</div>
-				<div class="stars-today">⭐ 1297 stars today</div>
+				<div class="stars-today">⭐ 2582 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/ruvnet/RuView" target="_blank">
+				<p><a href="https://github.com/VoltAgent/awesome-design-md" target="_blank">
     
 
 
       
-        ruvnet /
+        VoltAgent /
 
-      RuView</a></p>
+      awesome-design-md</a></p>
 				<p>
-      π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.
+      A collection of DESIGN.md files analysis by popular brand design systems. Drop one into your project and let coding agents generate a matching UI.
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Rust</span>
-						<span>⭐ 79436</span>
-						<span>🔱 10680</span>
+						<span>🔠 </span>
+						<span>⭐ 99304</span>
+						<span>🔱 11554</span>
 					</div>
-				<div class="stars-today">⭐ 799 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/TencentCloud/TencentDB-Agent-Memory" target="_blank">
-    
-
-
-      
-        TencentCloud /
-
-      TencentDB-Agent-Memory</a></p>
-				<p>
-      TencentDB Agent Memory delivers fully local long-term memory for AI Agents via a 4-tier progressive pipeline, with zero external API dependencies.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 7892</span>
-						<span>🔱 727</span>
-					</div>
-				<div class="stars-today">⭐ 318 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/prisma/prisma" target="_blank">
-    
-
-
-      
-        prisma /
-
-      prisma</a></p>
-				<p>
-      Next-generation ORM for Node.js & TypeScript | PostgreSQL, MySQL, MariaDB, SQL Server, SQLite, MongoDB and CockroachDB
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 46695</span>
-						<span>🔱 2289</span>
-					</div>
-				<div class="stars-today">⭐ 46 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/mvanhorn/last30days-skill" target="_blank">
-    
-
-
-      
-        mvanhorn /
-
-      last30days-skill</a></p>
-				<p>
-      AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 51034</span>
-						<span>🔱 4257</span>
-					</div>
-				<div class="stars-today">⭐ 352 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/argoproj/argo-cd" target="_blank">
-    
-
-
-      
-        argoproj /
-
-      argo-cd</a></p>
-				<p>
-      Declarative Continuous Deployment for Kubernetes
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Go</span>
-						<span>⭐ 23497</span>
-						<span>🔱 7430</span>
-					</div>
-				<div class="stars-today">⭐ 29 stars today</div>
+				<div class="stars-today">⭐ 1569 stars today</div>
 				</div>
 			</div>
 	
@@ -184,98 +118,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 C#</span>
-						<span>⭐ 12663</span>
-						<span>🔱 854</span>
+						<span>⭐ 13111</span>
+						<span>🔱 893</span>
 					</div>
-				<div class="stars-today">⭐ 1717 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/asgeirtj/system_prompts_leaks" target="_blank">
-    
-
-
-      
-        asgeirtj /
-
-      system_prompts_leaks</a></p>
-				<p>
-      Extracted system prompts from Anthropic - Claude Fable 5, Opus 4.8, Claude Code, Claude Design. OpenAI - ChatGPT 5.5 Thinking, GPT 5.5 Instant, Codex. Google - Gemini 3.5 Flash, 3.1 Pro, Antigravity. xAI - Grok, Cursor, Copilot, VS Code, Perplexity, and more. Updated regularly.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 JavaScript</span>
-						<span>⭐ 54573</span>
-						<span>🔱 8885</span>
-					</div>
-				<div class="stars-today">⭐ 1218 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/obra/superpowers" target="_blank">
-    
-
-
-      
-        obra /
-
-      superpowers</a></p>
-				<p>
-      An agentic skills framework & software development methodology that works.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Shell</span>
-						<span>⭐ 250313</span>
-						<span>🔱 22207</span>
-					</div>
-				<div class="stars-today">⭐ 1116 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/alibaba/zvec" target="_blank">
-    
-
-
-      
-        alibaba /
-
-      zvec</a></p>
-				<p>
-      A lightweight, lightning-fast, in-process vector database
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 C++</span>
-						<span>⭐ 14573</span>
-						<span>🔱 901</span>
-					</div>
-				<div class="stars-today">⭐ 395 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/Diolinux/PhotoGIMP" target="_blank">
-    
-
-
-      
-        Diolinux /
-
-      PhotoGIMP</a></p>
-				<p>
-      A Patch for GIMP 3+ for Photoshop Users
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 CSS</span>
-						<span>⭐ 15222</span>
-						<span>🔱 605</span>
-					</div>
-				<div class="stars-today">⭐ 1125 stars today</div>
+				<div class="stars-today">⭐ 1923 stars today</div>
 				</div>
 			</div>
 	
@@ -294,10 +140,98 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 6441</span>
-						<span>🔱 752</span>
+						<span>⭐ 6509</span>
+						<span>🔱 756</span>
 					</div>
-				<div class="stars-today">⭐ 28 stars today</div>
+				<div class="stars-today">⭐ 185 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/anthropics/claude-cookbooks" target="_blank">
+    
+
+
+      
+        anthropics /
+
+      claude-cookbooks</a></p>
+				<p>
+      A collection of notebooks/recipes showcasing some fun and effective ways of using Claude.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Jupyter Notebook</span>
+						<span>⭐ 46986</span>
+						<span>🔱 5548</span>
+					</div>
+				<div class="stars-today">⭐ 194 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/vxcontrol/pentagi" target="_blank">
+    
+
+
+      
+        vxcontrol /
+
+      pentagi</a></p>
+				<p>
+      Fully autonomous AI Agents system capable of performing complex penetration testing tasks
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Go</span>
+						<span>⭐ 19202</span>
+						<span>🔱 2607</span>
+					</div>
+				<div class="stars-today">⭐ 454 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/unclecode/crawl4ai" target="_blank">
+    
+
+
+      
+        unclecode /
+
+      crawl4ai</a></p>
+				<p>
+      🚀🤖 Crawl4AI: Open-source LLM Friendly Web Crawler & Scraper. Don't be shy, join here: https://discord.gg/jP8KfhDhyN
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 71700</span>
+						<span>🔱 7369</span>
+					</div>
+				<div class="stars-today">⭐ 195 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/imthenachoman/How-To-Secure-A-Linux-Server" target="_blank">
+    
+
+
+      
+        imthenachoman /
+
+      How-To-Secure-A-Linux-Server</a></p>
+				<p>
+      An evolving how-to guide for securing a Linux server.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 </span>
+						<span>⭐ 28930</span>
+						<span>🔱 1932</span>
+					</div>
+				<div class="stars-today">⭐ 399 stars today</div>
 				</div>
 			</div>
 	
@@ -316,10 +250,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 C++</span>
-						<span>⭐ 2147</span>
-						<span>🔱 159</span>
+						<span>⭐ 2253</span>
+						<span>🔱 168</span>
 					</div>
-				<div class="stars-today">⭐ 296 stars today</div>
+				<div class="stars-today">⭐ 405 stars today</div>
 				</div>
 			</div>
 	
@@ -338,32 +272,76 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 6307</span>
-						<span>🔱 739</span>
+						<span>⭐ 6506</span>
+						<span>🔱 750</span>
 					</div>
-				<div class="stars-today">⭐ 951 stars today</div>
+				<div class="stars-today">⭐ 727 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/TencentCloud/CubeSandbox" target="_blank">
+				<p><a href="https://github.com/prisma/prisma" target="_blank">
     
 
 
       
-        TencentCloud /
+        prisma /
 
-      CubeSandbox</a></p>
+      prisma</a></p>
 				<p>
-      Instant, Concurrent, Secure & Lightweight Sandbox for AI Agents.
+      Next-generation ORM for Node.js & TypeScript | PostgreSQL, MySQL, MariaDB, SQL Server, SQLite, MongoDB and CockroachDB
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Rust</span>
-						<span>⭐ 9152</span>
-						<span>🔱 753</span>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 46801</span>
+						<span>🔱 2295</span>
 					</div>
-				<div class="stars-today">⭐ 564 stars today</div>
+				<div class="stars-today">⭐ 373 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/kyutai-labs/pocket-tts" target="_blank">
+    
+
+
+      
+        kyutai-labs /
+
+      pocket-tts</a></p>
+				<p>
+      A TTS that fits in your CPU (and pocket)
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 6823</span>
+						<span>🔱 688</span>
+					</div>
+				<div class="stars-today">⭐ 273 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/asgeirtj/system_prompts_leaks" target="_blank">
+    
+
+
+      
+        asgeirtj /
+
+      system_prompts_leaks</a></p>
+				<p>
+      Extracted system prompts from Anthropic - Claude Fable 5, Opus 4.8, Claude Code, Claude Design. OpenAI - ChatGPT 5.5 Thinking, GPT 5.5 Instant, Codex. Google - Gemini 3.5 Flash, 3.1 Pro, Antigravity. xAI - Grok, Cursor, Copilot, VS Code, Perplexity, and more. Updated regularly.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 JavaScript</span>
+						<span>⭐ 54896</span>
+						<span>🔱 8936</span>
+					</div>
+				<div class="stars-today">⭐ 1135 stars today</div>
 				</div>
 			</div>
 	

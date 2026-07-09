@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2026年7月
-date: 2026-07-09T09:00:35Z
+date: 2026-07-09T16:17:17Z
 categories:
 - monthly
 keywords:
@@ -30,32 +30,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 C</span>
-						<span>⭐ 28846</span>
-						<span>🔱 2140</span>
+						<span>⭐ 29019</span>
+						<span>🔱 2157</span>
 					</div>
 				<div class="stars-today">⭐ 25432 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/apple/container" target="_blank">
-    
-
-
-      
-        apple /
-
-      container</a></p>
-				<p>
-      A tool for creating and running Linux containers using lightweight virtual machines on a Mac. It is written in Swift, and optimized for Apple silicon. 
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Swift</span>
-						<span>⭐ 47211</span>
-						<span>🔱 1429</span>
-					</div>
-				<div class="stars-today">⭐ 20483 stars this month</div>
 				</div>
 			</div>
 	
@@ -74,32 +52,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 35895</span>
-						<span>🔱 4167</span>
+						<span>⭐ 36039</span>
+						<span>🔱 4186</span>
 					</div>
 				<div class="stars-today">⭐ 31078 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/NVIDIA/SkillSpector" target="_blank">
-    
-
-
-      
-        NVIDIA /
-
-      SkillSpector</a></p>
-				<p>
-      Security scanner for AI agent skills. Detect vulnerabilities, malicious patterns, and security risks.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 12546</span>
-						<span>🔱 1032</span>
-					</div>
-				<div class="stars-today">⭐ 11135 stars this month</div>
 				</div>
 			</div>
 	
@@ -118,10 +74,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 53529</span>
-						<span>🔱 4287</span>
+						<span>⭐ 53744</span>
+						<span>🔱 4302</span>
 					</div>
 				<div class="stars-today">⭐ 29819 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/NVIDIA/SkillSpector" target="_blank">
+    
+
+
+      
+        NVIDIA /
+
+      SkillSpector</a></p>
+				<p>
+      Security scanner for AI agent skills. Detect vulnerabilities, malicious patterns, and security risks.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 12587</span>
+						<span>🔱 1038</span>
+					</div>
+				<div class="stars-today">⭐ 11135 stars this month</div>
 				</div>
 			</div>
 	
@@ -140,54 +118,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 JavaScript</span>
-						<span>⭐ 54573</span>
-						<span>🔱 8885</span>
+						<span>⭐ 54896</span>
+						<span>🔱 8936</span>
 					</div>
 				<div class="stars-today">⭐ 12446 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/iptv-org/iptv" target="_blank">
-    
-
-
-      
-        iptv-org /
-
-      iptv</a></p>
-				<p>
-      Collection of publicly available IPTV channels from all over the world
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 131461</span>
-						<span>🔱 7320</span>
-					</div>
-				<div class="stars-today">⭐ 14144 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/simplex-chat/simplex-chat" target="_blank">
-    
-
-
-      
-        simplex-chat /
-
-      simplex-chat</a></p>
-				<p>
-      SimpleX - the first messaging network operating without user identifiers of any kind - 100% private by design! iOS, Android and desktop apps 📱!
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Haskell</span>
-						<span>⭐ 18177</span>
-						<span>🔱 1078</span>
-					</div>
-				<div class="stars-today">⭐ 7042 stars this month</div>
 				</div>
 			</div>
 	
@@ -206,10 +140,54 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 16502</span>
-						<span>🔱 4952</span>
+						<span>⭐ 17883</span>
+						<span>🔱 5243</span>
 					</div>
 				<div class="stars-today">⭐ 10540 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/apple/container" target="_blank">
+    
+
+
+      
+        apple /
+
+      container</a></p>
+				<p>
+      A tool for creating and running Linux containers using lightweight virtual machines on a Mac. It is written in Swift, and optimized for Apple silicon. 
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Swift</span>
+						<span>⭐ 47261</span>
+						<span>🔱 1433</span>
+					</div>
+				<div class="stars-today">⭐ 20483 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/iptv-org/iptv" target="_blank">
+    
+
+
+      
+        iptv-org /
+
+      iptv</a></p>
+				<p>
+      Collection of publicly available IPTV channels from all over the world
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 131611</span>
+						<span>🔱 7335</span>
+					</div>
+				<div class="stars-today">⭐ 14144 stars this month</div>
 				</div>
 			</div>
 	
@@ -228,10 +206,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Rust</span>
-						<span>⭐ 14553</span>
-						<span>🔱 831</span>
+						<span>⭐ 14689</span>
+						<span>🔱 841</span>
 					</div>
 				<div class="stars-today">⭐ 9114 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/simplex-chat/simplex-chat" target="_blank">
+    
+
+
+      
+        simplex-chat /
+
+      simplex-chat</a></p>
+				<p>
+      SimpleX - the first messaging network operating without user identifiers of any kind - 100% private by design! iOS, Android and desktop apps 📱!
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Haskell</span>
+						<span>⭐ 18194</span>
+						<span>🔱 1081</span>
+					</div>
+				<div class="stars-today">⭐ 7042 stars this month</div>
 				</div>
 			</div>
 	
@@ -250,8 +250,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 39285</span>
-						<span>🔱 3997</span>
+						<span>⭐ 39443</span>
+						<span>🔱 4010</span>
 					</div>
 				<div class="stars-today">⭐ 13169 stars this month</div>
 				</div>
@@ -272,32 +272,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 C++</span>
-						<span>⭐ 14573</span>
-						<span>🔱 901</span>
+						<span>⭐ 14625</span>
+						<span>🔱 903</span>
 					</div>
 				<div class="stars-today">⭐ 4505 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/interviewstreet/hiring-agent" target="_blank">
-    
-
-
-      
-        interviewstreet /
-
-      hiring-agent</a></p>
-				<p>
-      AI agent to evaluate and score resumes.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 5245</span>
-						<span>🔱 964</span>
-					</div>
-				<div class="stars-today">⭐ 4145 stars this month</div>
 				</div>
 			</div>
 	
@@ -316,8 +294,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 14537</span>
-						<span>🔱 980</span>
+						<span>⭐ 14888</span>
+						<span>🔱 1004</span>
 					</div>
 				<div class="stars-today">⭐ 9594 stars this month</div>
 				</div>
@@ -338,32 +316,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Rust</span>
-						<span>⭐ 21878</span>
-						<span>🔱 2185</span>
+						<span>⭐ 22072</span>
+						<span>🔱 2196</span>
 					</div>
 				<div class="stars-today">⭐ 8898 stars this month</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/phuryn/pm-skills" target="_blank">
+				<p><a href="https://github.com/interviewstreet/hiring-agent" target="_blank">
     
 
 
       
-        phuryn /
+        interviewstreet /
 
-      pm-skills</a></p>
+      hiring-agent</a></p>
 				<p>
-      PM Skills Marketplace: 100+ agentic skills, commands, and plugins — from discovery to strategy, execution, launch, and growth.
+      AI agent to evaluate and score resumes.
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 </span>
-						<span>⭐ 23118</span>
-						<span>🔱 2320</span>
+						<span>🔠 Python</span>
+						<span>⭐ 5266</span>
+						<span>🔱 969</span>
 					</div>
-				<div class="stars-today">⭐ 10758 stars this month</div>
+				<div class="stars-today">⭐ 4145 stars this month</div>
 				</div>
 			</div>
 	
@@ -382,8 +360,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 25336</span>
-						<span>🔱 2181</span>
+						<span>⭐ 25420</span>
+						<span>🔱 2188</span>
 					</div>
 				<div class="stars-today">⭐ 6860 stars this month</div>
 				</div>
@@ -404,8 +382,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Rust</span>
-						<span>⭐ 11258</span>
-						<span>🔱 522</span>
+						<span>⭐ 11270</span>
+						<span>🔱 525</span>
 					</div>
 				<div class="stars-today">⭐ 2584 stars this month</div>
 				</div>
@@ -426,54 +404,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 13980</span>
-						<span>🔱 2029</span>
+						<span>⭐ 14155</span>
+						<span>🔱 2064</span>
 					</div>
 				<div class="stars-today">⭐ 7718 stars this month</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/ZhuLinsen/daily_stock_analysis" target="_blank">
+				<p><a href="https://github.com/phuryn/pm-skills" target="_blank">
     
 
 
       
-        ZhuLinsen /
+        phuryn /
 
-      daily_stock_analysis</a></p>
+      pm-skills</a></p>
 				<p>
-      LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。 LLM-powered multi-market stock analysis system with multi-source market data, real-time news, decision dashboard, automated notifications, and cost-free scheduled runs.
+      PM Skills Marketplace: 100+ agentic skills, commands, and plugins — from discovery to strategy, execution, launch, and growth.
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 56049</span>
-						<span>🔱 48292</span>
+						<span>🔠 </span>
+						<span>⭐ 23169</span>
+						<span>🔱 2326</span>
 					</div>
-				<div class="stars-today">⭐ 14822 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/t8y2/dbx" target="_blank">
-    
-
-
-      
-        t8y2 /
-
-      dbx</a></p>
-				<p>
-      20MB, lightweight, cross-platform database client. Supports MySQL, PostgreSQL, SQLite, Redis, MongoDB, DuckDB, ClickHouse, SQL Server and more.20MB，轻量级跨平台数据库客户端、数据库管理工具。支持 MySQL、PostgreSQL、SQLite、Redis、MongoDB、DuckDB、ClickHouse、SQL Server 等。
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Rust</span>
-						<span>⭐ 9373</span>
-						<span>🔱 805</span>
-					</div>
-				<div class="stars-today">⭐ 5013 stars this month</div>
+				<div class="stars-today">⭐ 10758 stars this month</div>
 				</div>
 			</div>
 	
@@ -492,10 +448,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 9651</span>
-						<span>🔱 799</span>
+						<span>⭐ 9692</span>
+						<span>🔱 802</span>
 					</div>
 				<div class="stars-today">⭐ 4067 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/ZhuLinsen/daily_stock_analysis" target="_blank">
+    
+
+
+      
+        ZhuLinsen /
+
+      daily_stock_analysis</a></p>
+				<p>
+      LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。 LLM-powered multi-market stock analysis system with multi-source market data, real-time news, decision dashboard, automated notifications, and cost-free scheduled runs.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 56173</span>
+						<span>🔱 48362</span>
+					</div>
+				<div class="stars-today">⭐ 14822 stars this month</div>
 				</div>
 			</div>
 	
@@ -514,10 +492,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 27025</span>
-						<span>🔱 3820</span>
+						<span>⭐ 27122</span>
+						<span>🔱 3834</span>
 					</div>
 				<div class="stars-today">⭐ 10241 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/t8y2/dbx" target="_blank">
+    
+
+
+      
+        t8y2 /
+
+      dbx</a></p>
+				<p>
+      20MB, lightweight, cross-platform database client. Supports MySQL, PostgreSQL, SQLite, Redis, MongoDB, DuckDB, ClickHouse, SQL Server and more.20MB，轻量级跨平台数据库客户端、数据库管理工具。支持 MySQL、PostgreSQL、SQLite、Redis、MongoDB、DuckDB、ClickHouse、SQL Server 等。
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Rust</span>
+						<span>⭐ 9416</span>
+						<span>🔱 809</span>
+					</div>
+				<div class="stars-today">⭐ 5013 stars this month</div>
 				</div>
 			</div>
 	
