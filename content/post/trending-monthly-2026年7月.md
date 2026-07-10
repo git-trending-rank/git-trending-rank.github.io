@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2026年7月
-date: 2026-07-10T08:52:41Z
+date: 2026-07-10T12:15:32Z
 categories:
 - monthly
 keywords:
@@ -30,8 +30,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 C</span>
-						<span>⭐ 29396</span>
-						<span>🔱 2336</span>
+						<span>⭐ 29456</span>
+						<span>🔱 2340</span>
 					</div>
 				<div class="stars-today">⭐ 26040 stars this month</div>
 				</div>
@@ -52,8 +52,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 36421</span>
-						<span>🔱 4372</span>
+						<span>⭐ 36481</span>
+						<span>🔱 4378</span>
 					</div>
 				<div class="stars-today">⭐ 31648 stars this month</div>
 				</div>
@@ -74,32 +74,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 54177</span>
-						<span>🔱 4471</span>
+						<span>⭐ 54256</span>
+						<span>🔱 4479</span>
 					</div>
 				<div class="stars-today">⭐ 28801 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/NVIDIA/SkillSpector" target="_blank">
-    
-
-
-      
-        NVIDIA /
-
-      SkillSpector</a></p>
-				<p>
-      Security scanner for AI agent skills. Detect vulnerabilities, malicious patterns, and security risks.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 12662</span>
-						<span>🔱 1045</span>
-					</div>
-				<div class="stars-today">⭐ 10971 stars this month</div>
 				</div>
 			</div>
 	
@@ -118,98 +96,54 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 JavaScript</span>
-						<span>⭐ 55510</span>
-						<span>🔱 9162</span>
+						<span>⭐ 55612</span>
+						<span>🔱 9174</span>
 					</div>
 				<div class="stars-today">⭐ 13616 stars this month</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/apple/container" target="_blank">
+				<p><a href="https://github.com/NVIDIA/SkillSpector" target="_blank">
     
 
 
       
-        apple /
+        NVIDIA /
 
-      container</a></p>
+      SkillSpector</a></p>
 				<p>
-      A tool for creating and running Linux containers using lightweight virtual machines on a Mac. It is written in Swift, and optimized for Apple silicon. 
+      Security scanner for AI agent skills. Detect vulnerabilities, malicious patterns, and security risks.
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Swift</span>
-						<span>⭐ 47411</span>
-						<span>🔱 1582</span>
+						<span>🔠 Python</span>
+						<span>⭐ 12695</span>
+						<span>🔱 1048</span>
 					</div>
-				<div class="stars-today">⭐ 20582 stars this month</div>
+				<div class="stars-today">⭐ 10971 stars this month</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/iptv-org/iptv" target="_blank">
+				<p><a href="https://github.com/kunchenguid/no-mistakes" target="_blank">
     
 
 
       
-        iptv-org /
+        kunchenguid /
 
-      iptv</a></p>
+      no-mistakes</a></p>
 				<p>
-      Collection of publicly available IPTV channels from all over the world
+      git push no-mistakes
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 131931</span>
-						<span>🔱 7499</span>
+						<span>🔠 Go</span>
+						<span>⭐ 5775</span>
+						<span>🔱 495</span>
 					</div>
-				<div class="stars-today">⭐ 14536 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/ogulcancelik/herdr" target="_blank">
-    
-
-
-      
-        ogulcancelik /
-
-      herdr</a></p>
-				<p>
-      agent multiplexer that lives in your terminal.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Rust</span>
-						<span>⭐ 15002</span>
-						<span>🔱 985</span>
-					</div>
-				<div class="stars-today">⭐ 9607 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/simplex-chat/simplex-chat" target="_blank">
-    
-
-
-      
-        simplex-chat /
-
-      simplex-chat</a></p>
-				<p>
-      SimpleX - the first messaging network operating without user identifiers of any kind - 100% private by design! iOS, Android and desktop apps 📱!
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Haskell</span>
-						<span>⭐ 18322</span>
-						<span>🔱 1220</span>
-					</div>
-				<div class="stars-today">⭐ 7111 stars this month</div>
+				<div class="stars-today">⭐ 4513 stars this month</div>
 				</div>
 			</div>
 	
@@ -228,54 +162,76 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 39842</span>
-						<span>🔱 4173</span>
+						<span>⭐ 39899</span>
+						<span>🔱 4176</span>
 					</div>
 				<div class="stars-today">⭐ 13697 stars this month</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/alibaba/zvec" target="_blank">
+				<p><a href="https://github.com/ogulcancelik/herdr" target="_blank">
     
 
 
       
-        alibaba /
+        ogulcancelik /
 
-      zvec</a></p>
+      herdr</a></p>
 				<p>
-      A lightweight, lightning-fast, in-process vector database
+      agent multiplexer that lives in your terminal.
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 C++</span>
-						<span>⭐ 14682</span>
-						<span>🔱 908</span>
+						<span>🔠 Rust</span>
+						<span>⭐ 15046</span>
+						<span>🔱 990</span>
 					</div>
-				<div class="stars-today">⭐ 4912 stars this month</div>
+				<div class="stars-today">⭐ 9607 stars this month</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/stablyai/orca" target="_blank">
+				<p><a href="https://github.com/iptv-org/iptv" target="_blank">
     
 
 
       
-        stablyai /
+        iptv-org /
 
-      orca</a></p>
+      iptv</a></p>
 				<p>
-      Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop and mobile.
+      Collection of publicly available IPTV channels from all over the world
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 15555</span>
-						<span>🔱 1217</span>
+						<span>⭐ 131971</span>
+						<span>🔱 7501</span>
 					</div>
-				<div class="stars-today">⭐ 10439 stars this month</div>
+				<div class="stars-today">⭐ 14536 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/simplex-chat/simplex-chat" target="_blank">
+    
+
+
+      
+        simplex-chat /
+
+      simplex-chat</a></p>
+				<p>
+      SimpleX - the first messaging network operating without user identifiers of any kind - 100% private by design! iOS, Android and desktop apps 📱!
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Haskell</span>
+						<span>⭐ 18332</span>
+						<span>🔱 1221</span>
+					</div>
+				<div class="stars-today">⭐ 7111 stars this month</div>
 				</div>
 			</div>
 	
@@ -294,10 +250,54 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Rust</span>
-						<span>⭐ 22417</span>
-						<span>🔱 2355</span>
+						<span>⭐ 22466</span>
+						<span>🔱 2361</span>
 					</div>
 				<div class="stars-today">⭐ 9534 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/stablyai/orca" target="_blank">
+    
+
+
+      
+        stablyai /
+
+      orca</a></p>
+				<p>
+      Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop and mobile.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 15680</span>
+						<span>🔱 1224</span>
+					</div>
+				<div class="stars-today">⭐ 10439 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/apple/container" target="_blank">
+    
+
+
+      
+        apple /
+
+      container</a></p>
+				<p>
+      A tool for creating and running Linux containers using lightweight virtual machines on a Mac. It is written in Swift, and optimized for Apple silicon. 
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Swift</span>
+						<span>⭐ 47421</span>
+						<span>🔱 1582</span>
+					</div>
+				<div class="stars-today">⭐ 20582 stars this month</div>
 				</div>
 			</div>
 	
@@ -316,7 +316,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 5423</span>
+						<span>⭐ 5435</span>
 						<span>🔱 1107</span>
 					</div>
 				<div class="stars-today">⭐ 4239 stars this month</div>
@@ -338,32 +338,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 25657</span>
-						<span>🔱 2354</span>
+						<span>⭐ 25691</span>
+						<span>🔱 2360</span>
 					</div>
 				<div class="stars-today">⭐ 7146 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/n0-computer/iroh" target="_blank">
-    
-
-
-      
-        n0-computer /
-
-      iroh</a></p>
-				<p>
-      IP addresses break, dial keys instead. A library that adds QUIC + NAT Traversal to your apps.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Rust</span>
-						<span>⭐ 11391</span>
-						<span>🔱 668</span>
-					</div>
-				<div class="stars-today">⭐ 2617 stars this month</div>
 				</div>
 			</div>
 	
@@ -382,32 +360,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 14615</span>
-						<span>🔱 2255</span>
+						<span>⭐ 14709</span>
+						<span>🔱 2260</span>
 					</div>
 				<div class="stars-today">⭐ 8325 stars this month</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/phuryn/pm-skills" target="_blank">
+				<p><a href="https://github.com/n0-computer/iroh" target="_blank">
     
 
 
       
-        phuryn /
+        n0-computer /
 
-      pm-skills</a></p>
+      iroh</a></p>
 				<p>
-      PM Skills Marketplace: 100+ agentic skills, commands, and plugins — from discovery to strategy, execution, launch, and growth.
+      IP addresses break, dial keys instead. A library that adds QUIC + NAT Traversal to your apps.
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 </span>
-						<span>⭐ 23386</span>
-						<span>🔱 2473</span>
+						<span>🔠 Rust</span>
+						<span>⭐ 11398</span>
+						<span>🔱 668</span>
 					</div>
-				<div class="stars-today">⭐ 10042 stars this month</div>
+				<div class="stars-today">⭐ 2617 stars this month</div>
 				</div>
 			</div>
 	
@@ -426,32 +404,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 9914</span>
-						<span>🔱 941</span>
+						<span>⭐ 9936</span>
+						<span>🔱 942</span>
 					</div>
 				<div class="stars-today">⭐ 4177 stars this month</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/ZhuLinsen/daily_stock_analysis" target="_blank">
+				<p><a href="https://github.com/bradautomates/claude-video" target="_blank">
     
 
 
       
-        ZhuLinsen /
+        bradautomates /
 
-      daily_stock_analysis</a></p>
+      claude-video</a></p>
 				<p>
-      LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。 LLM-powered multi-market stock analysis system with multi-source market data, real-time news, decision dashboard, automated notifications, and cost-free scheduled runs.
+      Give Claude the ability to watch any video. /watch downloads, extracts frames, transcribes, hands it all to Claude.
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 56391</span>
-						<span>🔱 48514</span>
+						<span>⭐ 6989</span>
+						<span>🔱 784</span>
 					</div>
-				<div class="stars-today">⭐ 14989 stars this month</div>
+				<div class="stars-today">⭐ 4609 stars this month</div>
 				</div>
 			</div>
 	
@@ -470,32 +448,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 27373</span>
-						<span>🔱 3991</span>
+						<span>⭐ 27407</span>
+						<span>🔱 4002</span>
 					</div>
 				<div class="stars-today">⭐ 10636 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/t8y2/dbx" target="_blank">
-    
-
-
-      
-        t8y2 /
-
-      dbx</a></p>
-				<p>
-      20MB, lightweight, cross-platform database client. Supports MySQL, PostgreSQL, SQLite, Redis, MongoDB, DuckDB, ClickHouse, SQL Server and more.20MB，轻量级跨平台数据库客户端、数据库管理工具。支持 MySQL、PostgreSQL、SQLite、Redis、MongoDB、DuckDB、ClickHouse、SQL Server 等。
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Rust</span>
-						<span>⭐ 9612</span>
-						<span>🔱 952</span>
-					</div>
-				<div class="stars-today">⭐ 4945 stars this month</div>
 				</div>
 			</div>
 	
