@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2026年7月
-date: 2026-07-11T10:46:37Z
+date: 2026-07-11T12:42:02Z
 categories:
 - monthly
 keywords:
@@ -30,8 +30,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 C</span>
-						<span>⭐ 29899</span>
-						<span>🔱 2383</span>
+						<span>⭐ 29930</span>
+						<span>🔱 2386</span>
 					</div>
 				<div class="stars-today">⭐ 26480 stars this month</div>
 				</div>
@@ -52,8 +52,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 36931</span>
-						<span>🔱 4450</span>
+						<span>⭐ 36953</span>
+						<span>🔱 4454</span>
 					</div>
 				<div class="stars-today">⭐ 32095 stars this month</div>
 				</div>
@@ -74,8 +74,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 54699</span>
-						<span>🔱 4508</span>
+						<span>⭐ 54738</span>
+						<span>🔱 4511</span>
 					</div>
 				<div class="stars-today">⭐ 28774 stars this month</div>
 				</div>
@@ -96,32 +96,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 JavaScript</span>
-						<span>⭐ 55995</span>
-						<span>🔱 9235</span>
+						<span>⭐ 56029</span>
+						<span>🔱 9247</span>
 					</div>
 				<div class="stars-today">⭐ 14343 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/NVIDIA/SkillSpector" target="_blank">
-    
-
-
-      
-        NVIDIA /
-
-      SkillSpector</a></p>
-				<p>
-      Security scanner for AI agent skills. Detect vulnerabilities, malicious patterns, and security risks.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 12826</span>
-						<span>🔱 1051</span>
-					</div>
-				<div class="stars-today">⭐ 10790 stars this month</div>
 				</div>
 			</div>
 	
@@ -140,7 +118,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Go</span>
-						<span>⭐ 5863</span>
+						<span>⭐ 5871</span>
 						<span>🔱 515</span>
 					</div>
 				<div class="stars-today">⭐ 4599 stars this month</div>
@@ -162,8 +140,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 40337</span>
-						<span>🔱 4239</span>
+						<span>⭐ 40370</span>
+						<span>🔱 4243</span>
 					</div>
 				<div class="stars-today">⭐ 14196 stars this month</div>
 				</div>
@@ -184,76 +162,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Rust</span>
-						<span>⭐ 15357</span>
-						<span>🔱 1023</span>
+						<span>⭐ 15385</span>
+						<span>🔱 1026</span>
 					</div>
 				<div class="stars-today">⭐ 9902 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/iptv-org/iptv" target="_blank">
-    
-
-
-      
-        iptv-org /
-
-      iptv</a></p>
-				<p>
-      Collection of publicly available IPTV channels from all over the world
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 132229</span>
-						<span>🔱 7531</span>
-					</div>
-				<div class="stars-today">⭐ 14876 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/simplex-chat/simplex-chat" target="_blank">
-    
-
-
-      
-        simplex-chat /
-
-      simplex-chat</a></p>
-				<p>
-      SimpleX - the first messaging network operating without user identifiers of any kind - 100% private by design! iOS, Android and desktop apps 📱!
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Haskell</span>
-						<span>⭐ 18396</span>
-						<span>🔱 1229</span>
-					</div>
-				<div class="stars-today">⭐ 7249 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/Zackriya-Solutions/meetily" target="_blank">
-    
-
-
-      
-        Zackriya-Solutions /
-
-      meetily</a></p>
-				<p>
-      Privacy first, AI meeting assistant with 4x faster Parakeet/Whisper live transcription, speaker diarization, and Ollama summarization built on Rust. 100% local processing. no cloud required. Meetily (Meetly Ai - https://meetily.ai) is the #1 Self-hosted, Open-source Ai meeting note taker for macOS & Windows. Understand How to write meeting minutes
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Rust</span>
-						<span>⭐ 22918</span>
-						<span>🔱 2411</span>
-					</div>
-				<div class="stars-today">⭐ 9968 stars this month</div>
 				</div>
 			</div>
 	
@@ -272,32 +184,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 16144</span>
-						<span>🔱 1265</span>
+						<span>⭐ 16179</span>
+						<span>🔱 1270</span>
 					</div>
 				<div class="stars-today">⭐ 11236 stars this month</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/apple/container" target="_blank">
+				<p><a href="https://github.com/Zackriya-Solutions/meetily" target="_blank">
     
 
 
       
-        apple /
+        Zackriya-Solutions /
 
-      container</a></p>
+      meetily</a></p>
 				<p>
-      A tool for creating and running Linux containers using lightweight virtual machines on a Mac. It is written in Swift, and optimized for Apple silicon. 
+      Privacy first, AI meeting assistant with 4x faster Parakeet/Whisper live transcription, speaker diarization, and Ollama summarization built on Rust. 100% local processing. no cloud required. Meetily (Meetly Ai - https://meetily.ai) is the #1 Self-hosted, Open-source Ai meeting note taker for macOS & Windows. Understand How to write meeting minutes
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Swift</span>
-						<span>⭐ 47513</span>
-						<span>🔱 1588</span>
+						<span>🔠 Rust</span>
+						<span>⭐ 22953</span>
+						<span>🔱 2415</span>
 					</div>
-				<div class="stars-today">⭐ 19234 stars this month</div>
+				<div class="stars-today">⭐ 9968 stars this month</div>
 				</div>
 			</div>
 	
@@ -316,10 +228,54 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 5519</span>
-						<span>🔱 1116</span>
+						<span>⭐ 5530</span>
+						<span>🔱 1117</span>
 					</div>
 				<div class="stars-today">⭐ 4396 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/alibaba/zvec" target="_blank">
+    
+
+
+      
+        alibaba /
+
+      zvec</a></p>
+				<p>
+      A lightweight, lightning-fast, in-process vector database
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 C++</span>
+						<span>⭐ 14732</span>
+						<span>🔱 914</span>
+					</div>
+				<div class="stars-today">⭐ 4995 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/iptv-org/iptv" target="_blank">
+    
+
+
+      
+        iptv-org /
+
+      iptv</a></p>
+				<p>
+      Collection of publicly available IPTV channels from all over the world
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 132249</span>
+						<span>🔱 7537</span>
+					</div>
+				<div class="stars-today">⭐ 14876 stars this month</div>
 				</div>
 			</div>
 	
@@ -338,7 +294,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 25943</span>
+						<span>⭐ 25953</span>
 						<span>🔱 2388</span>
 					</div>
 				<div class="stars-today">⭐ 7398 stars this month</div>
@@ -360,10 +316,54 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 15365</span>
-						<span>🔱 2341</span>
+						<span>⭐ 15412</span>
+						<span>🔱 2349</span>
 					</div>
 				<div class="stars-today">⭐ 8867 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/simplex-chat/simplex-chat" target="_blank">
+    
+
+
+      
+        simplex-chat /
+
+      simplex-chat</a></p>
+				<p>
+      SimpleX - the first messaging network operating without user identifiers of any kind - 100% private by design! iOS, Android and desktop apps 📱!
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Haskell</span>
+						<span>⭐ 18400</span>
+						<span>🔱 1229</span>
+					</div>
+				<div class="stars-today">⭐ 7249 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/NVIDIA/SkillSpector" target="_blank">
+    
+
+
+      
+        NVIDIA /
+
+      SkillSpector</a></p>
+				<p>
+      Security scanner for AI agent skills. Detect vulnerabilities, malicious patterns, and security risks.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 12836</span>
+						<span>🔱 1052</span>
+					</div>
+				<div class="stars-today">⭐ 10790 stars this month</div>
 				</div>
 			</div>
 	
@@ -382,7 +382,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Rust</span>
-						<span>⭐ 11457</span>
+						<span>⭐ 11467</span>
 						<span>🔱 673</span>
 					</div>
 				<div class="stars-today">⭐ 2748 stars this month</div>
@@ -390,68 +390,46 @@ keywords:
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/mauriceboe/TREK" target="_blank">
+				<p><a href="https://github.com/gabime/spdlog" target="_blank">
     
 
 
       
-        mauriceboe /
+        gabime /
 
-      TREK</a></p>
+      spdlog</a></p>
 				<p>
-      A self-hosted travel/trip planner with real-time collaboration, interactive maps, PWA support, SSO, budgets, packing lists, and more.
+      Fast C++ logging library.
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 10056</span>
-						<span>🔱 953</span>
+						<span>🔠 C++</span>
+						<span>⭐ 29153</span>
+						<span>🔱 5318</span>
 					</div>
-				<div class="stars-today">⭐ 4420 stars this month</div>
+				<div class="stars-today">⭐ 303 stars this month</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/bradautomates/claude-video" target="_blank">
+				<p><a href="https://github.com/apple/container" target="_blank">
     
 
 
       
-        bradautomates /
+        apple /
 
-      claude-video</a></p>
+      container</a></p>
 				<p>
-      Give Claude the ability to watch any video. /watch downloads, extracts frames, transcribes, hands it all to Claude.
+      A tool for creating and running Linux containers using lightweight virtual machines on a Mac. It is written in Swift, and optimized for Apple silicon. 
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 7361</span>
-						<span>🔱 816</span>
+						<span>🔠 Swift</span>
+						<span>⭐ 47516</span>
+						<span>🔱 1588</span>
 					</div>
-				<div class="stars-today">⭐ 5106 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/JCodesMore/ai-website-cloner-template" target="_blank">
-    
-
-
-      
-        JCodesMore /
-
-      ai-website-cloner-template</a></p>
-				<p>
-      Clone any website with one command using AI coding agents
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 27672</span>
-						<span>🔱 4042</span>
-					</div>
-				<div class="stars-today">⭐ 10885 stars this month</div>
+				<div class="stars-today">⭐ 19234 stars this month</div>
 				</div>
 			</div>
 	

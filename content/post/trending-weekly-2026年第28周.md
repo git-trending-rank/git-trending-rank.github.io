@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2026年第28周
-date: 2026-07-11T10:46:37Z
+date: 2026-07-11T12:42:02Z
 categories:
 - weekly
 keywords:
@@ -30,54 +30,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Rust</span>
-						<span>⭐ 22918</span>
-						<span>🔱 2411</span>
+						<span>⭐ 22953</span>
+						<span>🔱 2415</span>
 					</div>
 				<div class="stars-today">⭐ 8795 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/asgeirtj/system_prompts_leaks" target="_blank">
-    
-
-
-      
-        asgeirtj /
-
-      system_prompts_leaks</a></p>
-				<p>
-      Extracted system prompts from Anthropic - Claude Fable 5, Opus 4.8, Claude Code, Claude Design. OpenAI - ChatGPT GPT-5.6, Codex GPT-5.6, GPT-5.5. Google - Gemini 3.5 Flash, 3.1 Pro, Antigravity. xAI - Grok, Cursor, Copilot, VS Code, Perplexity, and more. Updated regularly.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 JavaScript</span>
-						<span>⭐ 55995</span>
-						<span>🔱 9235</span>
-					</div>
-				<div class="stars-today">⭐ 7765 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/usestrix/strix" target="_blank">
-    
-
-
-      
-        usestrix /
-
-      strix</a></p>
-				<p>
-      Open-source AI penetration testing tool to find and fix your app’s vulnerabilities.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 40337</span>
-						<span>🔱 4239</span>
-					</div>
-				<div class="stars-today">⭐ 6443 stars this week</div>
 				</div>
 			</div>
 	
@@ -96,10 +52,54 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 JavaScript</span>
-						<span>⭐ 27542</span>
+						<span>⭐ 27559</span>
 						<span>🔱 1791</span>
 					</div>
 				<div class="stars-today">⭐ 4484 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/wonderwhy-er/DesktopCommanderMCP" target="_blank">
+    
+
+
+      
+        wonderwhy-er /
+
+      DesktopCommanderMCP</a></p>
+				<p>
+      This is MCP server for Claude that gives it terminal control, file system search and diff file editing capabilities
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 7666</span>
+						<span>🔱 962</span>
+					</div>
+				<div class="stars-today">⭐ 557 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/asgeirtj/system_prompts_leaks" target="_blank">
+    
+
+
+      
+        asgeirtj /
+
+      system_prompts_leaks</a></p>
+				<p>
+      Extracted system prompts from Anthropic - Claude Fable 5, Opus 4.8, Claude Code, Claude Design. OpenAI - ChatGPT GPT-5.6, Codex GPT-5.6, GPT-5.5. Google - Gemini 3.5 Flash, 3.1 Pro, Antigravity. xAI - Grok, Cursor, Copilot, VS Code, Perplexity, and more. Updated regularly.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 JavaScript</span>
+						<span>⭐ 56029</span>
+						<span>🔱 9247</span>
+					</div>
+				<div class="stars-today">⭐ 7765 stars this week</div>
 				</div>
 			</div>
 	
@@ -118,76 +118,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Rust</span>
-						<span>⭐ 15357</span>
-						<span>🔱 1023</span>
+						<span>⭐ 15385</span>
+						<span>🔱 1026</span>
 					</div>
 				<div class="stars-today">⭐ 4714 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/bradautomates/claude-video" target="_blank">
-    
-
-
-      
-        bradautomates /
-
-      claude-video</a></p>
-				<p>
-      Give Claude the ability to watch any video. /watch downloads, extracts frames, transcribes, hands it all to Claude.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 7361</span>
-						<span>🔱 816</span>
-					</div>
-				<div class="stars-today">⭐ 4093 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/facebook/astryx" target="_blank">
-    
-
-
-      
-        facebook /
-
-      astryx</a></p>
-				<p>
-      An open source design system that's fully customizable and agent ready
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 7832</span>
-						<span>🔱 660</span>
-					</div>
-				<div class="stars-today">⭐ 3582 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/alibaba/page-agent" target="_blank">
-    
-
-
-      
-        alibaba /
-
-      page-agent</a></p>
-				<p>
-      JavaScript in-page GUI agent. Control web interfaces with natural language.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 25943</span>
-						<span>🔱 2388</span>
-					</div>
-				<div class="stars-today">⭐ 3799 stars this week</div>
 				</div>
 			</div>
 	
@@ -206,10 +140,76 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Rust</span>
-						<span>⭐ 9642</span>
+						<span>⭐ 9649</span>
 						<span>🔱 949</span>
 					</div>
 				<div class="stars-today">⭐ 2514 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/facebook/astryx" target="_blank">
+    
+
+
+      
+        facebook /
+
+      astryx</a></p>
+				<p>
+      An open source design system that's fully customizable and agent ready
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 7842</span>
+						<span>🔱 661</span>
+					</div>
+				<div class="stars-today">⭐ 3582 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/usestrix/strix" target="_blank">
+    
+
+
+      
+        usestrix /
+
+      strix</a></p>
+				<p>
+      Open-source AI penetration testing tool to find and fix your app’s vulnerabilities.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 40370</span>
+						<span>🔱 4243</span>
+					</div>
+				<div class="stars-today">⭐ 6443 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/bradautomates/claude-video" target="_blank">
+    
+
+
+      
+        bradautomates /
+
+      claude-video</a></p>
+				<p>
+      Give Claude the ability to watch any video. /watch downloads, extracts frames, transcribes, hands it all to Claude.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 7385</span>
+						<span>🔱 824</span>
+					</div>
+				<div class="stars-today">⭐ 4093 stars this week</div>
 				</div>
 			</div>
 	
@@ -228,8 +228,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 15365</span>
-						<span>🔱 2341</span>
+						<span>⭐ 15412</span>
+						<span>🔱 2349</span>
 					</div>
 				<div class="stars-today">⭐ 4268 stars this week</div>
 				</div>
@@ -250,54 +250,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 16144</span>
-						<span>🔱 1265</span>
+						<span>⭐ 16179</span>
+						<span>🔱 1270</span>
 					</div>
 				<div class="stars-today">⭐ 4328 stars this week</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/huggingface/speech-to-speech" target="_blank">
+				<p><a href="https://github.com/alibaba/page-agent" target="_blank">
     
 
 
       
-        huggingface /
+        alibaba /
 
-      speech-to-speech</a></p>
+      page-agent</a></p>
 				<p>
-      Build local voice agents with open-source models
+      JavaScript in-page GUI agent. Control web interfaces with natural language.
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 6057</span>
-						<span>🔱 851</span>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 25953</span>
+						<span>🔱 2388</span>
 					</div>
-				<div class="stars-today">⭐ 811 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/ruvnet/RuView" target="_blank">
-    
-
-
-      
-        ruvnet /
-
-      RuView</a></p>
-				<p>
-      π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Rust</span>
-						<span>⭐ 79951</span>
-						<span>🔱 10762</span>
-					</div>
-				<div class="stars-today">⭐ 3657 stars this week</div>
+				<div class="stars-today">⭐ 3799 stars this week</div>
 				</div>
 			</div>
 	
@@ -316,10 +294,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 JavaScript</span>
-						<span>⭐ 3560</span>
-						<span>🔱 362</span>
+						<span>⭐ 3579</span>
+						<span>🔱 363</span>
 					</div>
 				<div class="stars-today">⭐ 1019 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/ChromeDevTools/chrome-devtools-mcp" target="_blank">
+    
+
+
+      
+        ChromeDevTools /
+
+      chrome-devtools-mcp</a></p>
+				<p>
+      Chrome DevTools for coding agents
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 46663</span>
+						<span>🔱 3190</span>
+					</div>
+				<div class="stars-today">⭐ 1255 stars this week</div>
 				</div>
 			</div>
 	
@@ -338,76 +338,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 C#</span>
-						<span>⭐ 14811</span>
-						<span>🔱 1010</span>
+						<span>⭐ 14872</span>
+						<span>🔱 1015</span>
 					</div>
 				<div class="stars-today">⭐ 5789 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/xbtlin/ai-berkshire" target="_blank">
-    
-
-
-      
-        xbtlin /
-
-      ai-berkshire</a></p>
-				<p>
-      AI 时代的伯克希尔：基于 Claude Code / Codex 的价值投资研究框架。巴菲特·芒格·段永平·李录四大师方法论 + 多Agent并行研究。| AI-era Berkshire: a value investing research framework built for Claude Code / Codex. 4 masters' methodologies + multi-agent adversarial analysis.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 12708</span>
-						<span>🔱 1802</span>
-					</div>
-				<div class="stars-today">⭐ 3596 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/wonderwhy-er/DesktopCommanderMCP" target="_blank">
-    
-
-
-      
-        wonderwhy-er /
-
-      DesktopCommanderMCP</a></p>
-				<p>
-      This is MCP server for Claude that gives it terminal control, file system search and diff file editing capabilities
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 7643</span>
-						<span>🔱 960</span>
-					</div>
-				<div class="stars-today">⭐ 557 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/dotnet/skills" target="_blank">
-    
-
-
-      
-        dotnet /
-
-      skills</a></p>
-				<p>
-      Repository for skills to assist AI coding agents with .NET and C#
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 C#</span>
-						<span>⭐ 4567</span>
-						<span>🔱 332</span>
-					</div>
-				<div class="stars-today">⭐ 914 stars this week</div>
 				</div>
 			</div>
 	
@@ -426,8 +360,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 22140</span>
-						<span>🔱 3096</span>
+						<span>⭐ 22154</span>
+						<span>🔱 3097</span>
 					</div>
 				<div class="stars-today">⭐ 2230 stars this week</div>
 				</div>
@@ -448,32 +382,98 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 JavaScript</span>
-						<span>⭐ 87946</span>
-						<span>🔱 5052</span>
+						<span>⭐ 87985</span>
+						<span>🔱 5056</span>
 					</div>
 				<div class="stars-today">⭐ 5348 stars this week</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/addyosmani/agent-skills" target="_blank">
+				<p><a href="https://github.com/ruvnet/RuView" target="_blank">
     
 
 
       
-        addyosmani /
+        ruvnet /
 
-      agent-skills</a></p>
+      RuView</a></p>
 				<p>
-      Production-grade engineering skills for AI coding agents.
+      π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 JavaScript</span>
-						<span>⭐ 77100</span>
-						<span>🔱 8275</span>
+						<span>🔠 Rust</span>
+						<span>⭐ 79963</span>
+						<span>🔱 10764</span>
 					</div>
-				<div class="stars-today">⭐ 7944 stars this week</div>
+				<div class="stars-today">⭐ 3657 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/abseil/abseil-cpp" target="_blank">
+    
+
+
+      
+        abseil /
+
+      abseil-cpp</a></p>
+				<p>
+      Abseil Common Libraries (C++)
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 C++</span>
+						<span>⭐ 17594</span>
+						<span>🔱 3206</span>
+					</div>
+				<div class="stars-today">⭐ 140 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/vxcontrol/pentagi" target="_blank">
+    
+
+
+      
+        vxcontrol /
+
+      pentagi</a></p>
+				<p>
+      Fully autonomous AI Agents system capable of performing complex penetration testing tasks
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Go</span>
+						<span>⭐ 19843</span>
+						<span>🔱 2655</span>
+					</div>
+				<div class="stars-today">⭐ 1706 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/google-labs-code/stitch-skills" target="_blank">
+    
+
+
+      
+        google-labs-code /
+
+      stitch-skills</a></p>
+				<p>
+      A library of Agent Skills designed to work with the Stitch MCP server. Each skill follows the Agent Skills open standard, for compatibility with coding agents such as Antigravity, Gemini CLI, Claude Code, Cursor.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 6905</span>
+						<span>🔱 939</span>
+					</div>
+				<div class="stars-today">⭐ 296 stars this week</div>
 				</div>
 			</div>
 	
