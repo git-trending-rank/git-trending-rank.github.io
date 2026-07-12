@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2026年第28周
-date: 2026-07-12T09:30:17Z
+date: 2026-07-12T11:00:13Z
 categories:
 - weekly
 keywords:
@@ -30,32 +30,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Rust</span>
-						<span>⭐ 23333</span>
-						<span>🔱 2467</span>
+						<span>⭐ 23356</span>
+						<span>🔱 2472</span>
 					</div>
 				<div class="stars-today">⭐ 8579 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/openai/codex-plugin-cc" target="_blank">
-    
-
-
-      
-        openai /
-
-      codex-plugin-cc</a></p>
-				<p>
-      Use Codex from Claude Code to review code or delegate tasks.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 JavaScript</span>
-						<span>⭐ 27806</span>
-						<span>🔱 1814</span>
-					</div>
-				<div class="stars-today">⭐ 4030 stars this week</div>
 				</div>
 			</div>
 	
@@ -74,7 +52,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 7847</span>
+						<span>⭐ 7851</span>
 						<span>🔱 978</span>
 					</div>
 				<div class="stars-today">⭐ 1451 stars this week</div>
@@ -82,46 +60,24 @@ keywords:
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/asgeirtj/system_prompts_leaks" target="_blank">
+				<p><a href="https://github.com/openai/codex-plugin-cc" target="_blank">
     
 
 
       
-        asgeirtj /
+        openai /
 
-      system_prompts_leaks</a></p>
+      codex-plugin-cc</a></p>
 				<p>
-      Extracted system prompts from Anthropic - Claude Fable 5, Opus 4.8, Claude Code, Claude Design. OpenAI - ChatGPT GPT-5.6, Codex GPT-5.6, GPT-5.5. Google - Gemini 3.5 Flash, 3.1 Pro, Antigravity. xAI - Grok, Cursor, Copilot, VS Code, Perplexity, and more. Updated regularly.
+      Use Codex from Claude Code to review code or delegate tasks.
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 JavaScript</span>
-						<span>⭐ 56413</span>
-						<span>🔱 9321</span>
+						<span>⭐ 27836</span>
+						<span>🔱 1817</span>
 					</div>
-				<div class="stars-today">⭐ 7731 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/ogulcancelik/herdr" target="_blank">
-    
-
-
-      
-        ogulcancelik /
-
-      herdr</a></p>
-				<p>
-      agent multiplexer that lives in your terminal.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Rust</span>
-						<span>⭐ 15607</span>
-						<span>🔱 1048</span>
-					</div>
-				<div class="stars-today">⭐ 4349 stars this week</div>
+				<div class="stars-today">⭐ 4030 stars this week</div>
 				</div>
 			</div>
 	
@@ -140,7 +96,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Rust</span>
-						<span>⭐ 9735</span>
+						<span>⭐ 9744</span>
 						<span>🔱 959</span>
 					</div>
 				<div class="stars-today">⭐ 2416 stars this week</div>
@@ -148,68 +104,68 @@ keywords:
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/facebook/astryx" target="_blank">
+				<p><a href="https://github.com/abseil/abseil-cpp" target="_blank">
     
 
 
       
-        facebook /
+        abseil /
 
-      astryx</a></p>
+      abseil-cpp</a></p>
 				<p>
-      An open source design system that's fully customizable and agent ready
+      Abseil Common Libraries (C++)
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 7999</span>
-						<span>🔱 681</span>
+						<span>🔠 C++</span>
+						<span>⭐ 17931</span>
+						<span>🔱 3217</span>
 					</div>
-				<div class="stars-today">⭐ 2779 stars this week</div>
+				<div class="stars-today">⭐ 229 stars this week</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/usestrix/strix" target="_blank">
+				<p><a href="https://github.com/ogulcancelik/herdr" target="_blank">
     
 
 
       
-        usestrix /
+        ogulcancelik /
 
-      strix</a></p>
+      herdr</a></p>
 				<p>
-      Open-source AI penetration testing tool to find and fix your app’s vulnerabilities.
+      agent multiplexer that lives in your terminal.
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 40670</span>
-						<span>🔱 4286</span>
+						<span>🔠 Rust</span>
+						<span>⭐ 15628</span>
+						<span>🔱 1048</span>
 					</div>
-				<div class="stars-today">⭐ 4987 stars this week</div>
+				<div class="stars-today">⭐ 4349 stars this week</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/bradautomates/claude-video" target="_blank">
+				<p><a href="https://github.com/asgeirtj/system_prompts_leaks" target="_blank">
     
 
 
       
-        bradautomates /
+        asgeirtj /
 
-      claude-video</a></p>
+      system_prompts_leaks</a></p>
 				<p>
-      Give Claude the ability to watch any video. /watch downloads, extracts frames, transcribes, hands it all to Claude.
+      Extracted system prompts from Anthropic - Claude Fable 5, Opus 4.8, Claude Code, Claude Design. OpenAI - ChatGPT GPT-5.6, Codex GPT-5.6, GPT-5.5. Google - Gemini 3.5 Flash, 3.1 Pro, Antigravity. xAI - Grok, Cursor, Copilot, VS Code, Perplexity, and more. Updated regularly.
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 7668</span>
-						<span>🔱 860</span>
+						<span>🔠 JavaScript</span>
+						<span>⭐ 56438</span>
+						<span>🔱 9323</span>
 					</div>
-				<div class="stars-today">⭐ 4399 stars this week</div>
+				<div class="stars-today">⭐ 7731 stars this week</div>
 				</div>
 			</div>
 	
@@ -228,8 +184,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 15877</span>
-						<span>🔱 2416</span>
+						<span>⭐ 15917</span>
+						<span>🔱 2422</span>
 					</div>
 				<div class="stars-today">⭐ 4375 stars this week</div>
 				</div>
@@ -250,76 +206,54 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 16537</span>
-						<span>🔱 1295</span>
+						<span>⭐ 16571</span>
+						<span>🔱 1300</span>
 					</div>
 				<div class="stars-today">⭐ 4368 stars this week</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/alibaba/page-agent" target="_blank">
+				<p><a href="https://github.com/bradautomates/claude-video" target="_blank">
     
 
 
       
-        alibaba /
+        bradautomates /
 
-      page-agent</a></p>
+      claude-video</a></p>
 				<p>
-      JavaScript in-page GUI agent. Control web interfaces with natural language.
+      Give Claude the ability to watch any video. /watch downloads, extracts frames, transcribes, hands it all to Claude.
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 26113</span>
-						<span>🔱 2401</span>
+						<span>🔠 Python</span>
+						<span>⭐ 7681</span>
+						<span>🔱 861</span>
 					</div>
-				<div class="stars-today">⭐ 3317 stars this week</div>
+				<div class="stars-today">⭐ 4399 stars this week</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/tt-a1i/archify" target="_blank">
+				<p><a href="https://github.com/facebook/astryx" target="_blank">
     
 
 
       
-        tt-a1i /
+        facebook /
 
-      archify</a></p>
+      astryx</a></p>
 				<p>
-      Any agent Skill: generate beautiful architecture diagrams with dark/light theme toggle and PNG/JPEG/WebP/SVG export
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 JavaScript</span>
-						<span>⭐ 3792</span>
-						<span>🔱 373</span>
-					</div>
-				<div class="stars-today">⭐ 1036 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/ChromeDevTools/chrome-devtools-mcp" target="_blank">
-    
-
-
-      
-        ChromeDevTools /
-
-      chrome-devtools-mcp</a></p>
-				<p>
-      Chrome DevTools for coding agents
+      An open source design system that's fully customizable and agent ready
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 46714</span>
-						<span>🔱 3195</span>
+						<span>⭐ 8007</span>
+						<span>🔱 683</span>
 					</div>
-				<div class="stars-today">⭐ 1097 stars this week</div>
+				<div class="stars-today">⭐ 2779 stars this week</div>
 				</div>
 			</div>
 	
@@ -338,10 +272,76 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 C#</span>
-						<span>⭐ 15224</span>
-						<span>🔱 1039</span>
+						<span>⭐ 15251</span>
+						<span>🔱 1040</span>
 					</div>
 				<div class="stars-today">⭐ 6549 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/usestrix/strix" target="_blank">
+    
+
+
+      
+        usestrix /
+
+      strix</a></p>
+				<p>
+      Open-source AI penetration testing tool to find and fix your app’s vulnerabilities.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 40685</span>
+						<span>🔱 4291</span>
+					</div>
+				<div class="stars-today">⭐ 4987 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/tt-a1i/archify" target="_blank">
+    
+
+
+      
+        tt-a1i /
+
+      archify</a></p>
+				<p>
+      Any agent Skill: generate beautiful architecture diagrams with dark/light theme toggle and PNG/JPEG/WebP/SVG export
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 JavaScript</span>
+						<span>⭐ 3805</span>
+						<span>🔱 374</span>
+					</div>
+				<div class="stars-today">⭐ 1036 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/alibaba/page-agent" target="_blank">
+    
+
+
+      
+        alibaba /
+
+      page-agent</a></p>
+				<p>
+      JavaScript in-page GUI agent. Control web interfaces with natural language.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 26126</span>
+						<span>🔱 2403</span>
+					</div>
+				<div class="stars-today">⭐ 3317 stars this week</div>
 				</div>
 			</div>
 	
@@ -360,7 +360,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 22263</span>
+						<span>⭐ 22269</span>
 						<span>🔱 3111</span>
 					</div>
 				<div class="stars-today">⭐ 2261 stars this week</div>
@@ -368,68 +368,24 @@ keywords:
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/JuliusBrussee/caveman" target="_blank">
+				<p><a href="https://github.com/ChromeDevTools/chrome-devtools-mcp" target="_blank">
     
 
 
       
-        JuliusBrussee /
+        ChromeDevTools /
 
-      caveman</a></p>
+      chrome-devtools-mcp</a></p>
 				<p>
-      🪨 why use many token when few token do trick — Claude Code skill that cuts 65% of tokens by talking like caveman
+      Chrome DevTools for coding agents
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 JavaScript</span>
-						<span>⭐ 88292</span>
-						<span>🔱 5073</span>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 46721</span>
+						<span>🔱 3195</span>
 					</div>
-				<div class="stars-today">⭐ 4696 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/ruvnet/RuView" target="_blank">
-    
-
-
-      
-        ruvnet /
-
-      RuView</a></p>
-				<p>
-      π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Rust</span>
-						<span>⭐ 80143</span>
-						<span>🔱 10791</span>
-					</div>
-				<div class="stars-today">⭐ 3720 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/abseil/abseil-cpp" target="_blank">
-    
-
-
-      
-        abseil /
-
-      abseil-cpp</a></p>
-				<p>
-      Abseil Common Libraries (C++)
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 C++</span>
-						<span>⭐ 17904</span>
-						<span>🔱 3216</span>
-					</div>
-				<div class="stars-today">⭐ 229 stars this week</div>
+				<div class="stars-today">⭐ 1097 stars this week</div>
 				</div>
 			</div>
 	
@@ -448,32 +404,76 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Go</span>
-						<span>⭐ 20031</span>
-						<span>🔱 2673</span>
+						<span>⭐ 20051</span>
+						<span>🔱 2674</span>
 					</div>
 				<div class="stars-today">⭐ 1766 stars this week</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/google-labs-code/stitch-skills" target="_blank">
+				<p><a href="https://github.com/ruvnet/RuView" target="_blank">
     
 
 
       
-        google-labs-code /
+        ruvnet /
 
-      stitch-skills</a></p>
+      RuView</a></p>
 				<p>
-      A library of Agent Skills designed to work with the Stitch MCP server. Each skill follows the Agent Skills open standard, for compatibility with coding agents such as Antigravity, Gemini CLI, Claude Code, Cursor.
+      π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 7183</span>
-						<span>🔱 953</span>
+						<span>🔠 Rust</span>
+						<span>⭐ 80154</span>
+						<span>🔱 10795</span>
 					</div>
-				<div class="stars-today">⭐ 549 stars this week</div>
+				<div class="stars-today">⭐ 3720 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/JuliusBrussee/caveman" target="_blank">
+    
+
+
+      
+        JuliusBrussee /
+
+      caveman</a></p>
+				<p>
+      🪨 why use many token when few token do trick — Claude Code skill that cuts 65% of tokens by talking like caveman
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 JavaScript</span>
+						<span>⭐ 88316</span>
+						<span>🔱 5076</span>
+					</div>
+				<div class="stars-today">⭐ 4696 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/pbakaus/impeccable" target="_blank">
+    
+
+
+      
+        pbakaus /
+
+      impeccable</a></p>
+				<p>
+      The design language that makes your AI harness better at design.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 JavaScript</span>
+						<span>⭐ 45793</span>
+						<span>🔱 2770</span>
+					</div>
+				<div class="stars-today">⭐ 2255 stars this week</div>
 				</div>
 			</div>
 	

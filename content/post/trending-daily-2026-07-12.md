@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2026-07-12
-date: 2026-07-12T09:30:17Z
+date: 2026-07-12T11:00:13Z
 categories:
 - daily
 keywords:
@@ -16,156 +16,24 @@ keywords:
 
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/catchorg/Catch2" target="_blank">
+				<p><a href="https://github.com/Dicklesworthstone/destructive_command_guard" target="_blank">
     
 
 
       
-        catchorg /
+        Dicklesworthstone /
 
-      Catch2</a></p>
+      destructive_command_guard</a></p>
 				<p>
-      A modern, C++-native, test framework for unit-tests, TDD and BDD - using C++14, C++17 and later (C++11 support is in v2.x branch, and C++03 on the Catch1.x branch)
+      The Destructive Command Guard (dcg) is for blocking dangerous git and shell commands from being executed by agents.
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 C++</span>
-						<span>⭐ 21212</span>
-						<span>🔱 3440</span>
+						<span>🔠 Rust</span>
+						<span>⭐ 2273</span>
+						<span>🔱 85</span>
 					</div>
-				<div class="stars-today">⭐ 113 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/abseil/abseil-cpp" target="_blank">
-    
-
-
-      
-        abseil /
-
-      abseil-cpp</a></p>
-				<p>
-      Abseil Common Libraries (C++)
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 C++</span>
-						<span>⭐ 17904</span>
-						<span>🔱 3216</span>
-					</div>
-				<div class="stars-today">⭐ 118 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/davila7/claude-code-templates" target="_blank">
-    
-
-
-      
-        davila7 /
-
-      claude-code-templates</a></p>
-				<p>
-      CLI tool for configuring and monitoring Claude Code
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 29118</span>
-						<span>🔱 3194</span>
-					</div>
-				<div class="stars-today">⭐ 232 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/google-labs-code/stitch-skills" target="_blank">
-    
-
-
-      
-        google-labs-code /
-
-      stitch-skills</a></p>
-				<p>
-      A library of Agent Skills designed to work with the Stitch MCP server. Each skill follows the Agent Skills open standard, for compatibility with coding agents such as Antigravity, Gemini CLI, Claude Code, Cursor.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 7183</span>
-						<span>🔱 953</span>
-					</div>
-				<div class="stars-today">⭐ 340 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/hashicorp/terraform" target="_blank">
-    
-
-
-      
-        hashicorp /
-
-      terraform</a></p>
-				<p>
-      Terraform enables you to safely and predictably create, change, and improve infrastructure. It is a source-available tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Go</span>
-						<span>⭐ 49425</span>
-						<span>🔱 10686</span>
-					</div>
-				<div class="stars-today">⭐ 229 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/zeux/meshoptimizer" target="_blank">
-    
-
-
-      
-        zeux /
-
-      meshoptimizer</a></p>
-				<p>
-      Mesh optimization library that makes meshes smaller and faster to render
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 C++</span>
-						<span>⭐ 8169</span>
-						<span>🔱 788</span>
-					</div>
-				<div class="stars-today">⭐ 110 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/openai/plugins" target="_blank">
-    
-
-
-      
-        openai /
-
-      plugins</a></p>
-				<p>
-      OpenAI Plugins
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 JavaScript</span>
-						<span>⭐ 4478</span>
-						<span>🔱 660</span>
-					</div>
-				<div class="stars-today">⭐ 29 stars today</div>
+				<div class="stars-today">⭐ 444 stars today</div>
 				</div>
 			</div>
 	
@@ -184,7 +52,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 7847</span>
+						<span>⭐ 7851</span>
 						<span>🔱 978</span>
 					</div>
 				<div class="stars-today">⭐ 909 stars today</div>
@@ -192,244 +60,68 @@ keywords:
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/chriskohlhoff/asio" target="_blank">
+				<p><a href="https://github.com/HKUDS/Vibe-Trading" target="_blank">
     
 
 
       
-        chriskohlhoff /
+        HKUDS /
 
-      asio</a></p>
+      Vibe-Trading</a></p>
 				<p>
-      Asio C++ Library
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 C++</span>
-						<span>⭐ 6156</span>
-						<span>🔱 1510</span>
-					</div>
-				<div class="stars-today">⭐ 76 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/oven-sh/bun" target="_blank">
-    
-
-
-      
-        oven-sh /
-
-      bun</a></p>
-				<p>
-      Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Rust</span>
-						<span>⭐ 94611</span>
-						<span>🔱 4964</span>
-					</div>
-				<div class="stars-today">⭐ 658 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/actions/checkout" target="_blank">
-    
-
-
-      
-        actions /
-
-      checkout</a></p>
-				<p>
-      Action for checking out a repo
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 8483</span>
-						<span>🔱 2717</span>
-					</div>
-				<div class="stars-today">⭐ 8 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/home-assistant/core" target="_blank">
-    
-
-
-      
-        home-assistant /
-
-      core</a></p>
-				<p>
-      🏡 Open source home automation that puts local control and privacy first.
+      "Vibe-Trading: Your Personal Trading Agent"
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 88801</span>
-						<span>🔱 38055</span>
+						<span>⭐ 19998</span>
+						<span>🔱 3511</span>
 					</div>
-				<div class="stars-today">⭐ 80 stars today</div>
+				<div class="stars-today">⭐ 776 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/microsoft/PowerToys" target="_blank">
+				<p><a href="https://github.com/PrefectHQ/prefect" target="_blank">
     
 
 
       
-        microsoft /
+        PrefectHQ /
 
-      PowerToys</a></p>
+      prefect</a></p>
 				<p>
-      Microsoft PowerToys is a collection of utilities that supercharge productivity and customization on Windows
+      Prefect is a workflow orchestration framework for building resilient data pipelines in Python.
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 C</span>
-						<span>⭐ 136507</span>
-						<span>🔱 8368</span>
+						<span>🔠 Python</span>
+						<span>⭐ 22993</span>
+						<span>🔱 2379</span>
 					</div>
-				<div class="stars-today">⭐ 39 stars today</div>
+				<div class="stars-today">⭐ 55 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/cypress-io/cypress" target="_blank">
+				<p><a href="https://github.com/Shubhamsaboo/awesome-llm-apps" target="_blank">
     
 
 
       
-        cypress-io /
+        Shubhamsaboo /
 
-      cypress</a></p>
+      awesome-llm-apps</a></p>
 				<p>
-      Fast, easy and reliable testing for anything that runs in a browser.
+      100+ AI Agent & RAG apps you can actually run — clone, customize, ship.
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 50666</span>
-						<span>🔱 3592</span>
+						<span>🔠 Python</span>
+						<span>⭐ 118181</span>
+						<span>🔱 17577</span>
 					</div>
-				<div class="stars-today">⭐ 19 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/vercel/next.js" target="_blank">
-    
-
-
-      
-        vercel /
-
-      next.js</a></p>
-				<p>
-      The React Framework
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 JavaScript</span>
-						<span>⭐ 141008</span>
-						<span>🔱 31557</span>
-					</div>
-				<div class="stars-today">⭐ 334 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/DayuanJiang/next-ai-draw-io" target="_blank">
-    
-
-
-      
-        DayuanJiang /
-
-      next-ai-draw-io</a></p>
-				<p>
-      A next.js web application that integrates AI capabilities with draw.io diagrams. This app allows you to create, modify, and enhance diagrams through natural language commands and AI-assisted visualization.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 33399</span>
-						<span>🔱 3613</span>
-					</div>
-				<div class="stars-today">⭐ 81 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/malisper/pgrust" target="_blank">
-    
-
-
-      
-        malisper /
-
-      pgrust</a></p>
-				<p>
-      Postgres rewritten in Rust, now passing 100% of the Postgres regression tests
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Rust</span>
-						<span>⭐ 2215</span>
-						<span>🔱 56</span>
-					</div>
-				<div class="stars-today">⭐ 774 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/dotnet/aspnetcore" target="_blank">
-    
-
-
-      
-        dotnet /
-
-      aspnetcore</a></p>
-				<p>
-      ASP.NET Core is a cross-platform .NET framework for building modern cloud-based web applications on Windows, Mac, or Linux.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 C#</span>
-						<span>⭐ 38330</span>
-						<span>🔱 10885</span>
-					</div>
-				<div class="stars-today">⭐ 4 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/prisma/prisma" target="_blank">
-    
-
-
-      
-        prisma /
-
-      prisma</a></p>
-				<p>
-      Next-generation ORM for Node.js & TypeScript | PostgreSQL, MySQL, MariaDB, SQL Server, SQLite, MongoDB and CockroachDB
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 47319</span>
-						<span>🔱 2478</span>
-					</div>
-				<div class="stars-today">⭐ 37 stars today</div>
+				<div class="stars-today">⭐ 549 stars today</div>
 				</div>
 			</div>
 	
@@ -448,98 +140,250 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Jupyter Notebook</span>
-						<span>⭐ 48091</span>
-						<span>🔱 5693</span>
+						<span>⭐ 48110</span>
+						<span>🔱 5697</span>
 					</div>
 				<div class="stars-today">⭐ 219 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/obra/superpowers" target="_blank">
+				<p><a href="https://github.com/home-assistant/core" target="_blank">
     
 
 
       
-        obra /
+        home-assistant /
 
-      superpowers</a></p>
+      core</a></p>
 				<p>
-      An agentic skills framework & software development methodology that works.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Shell</span>
-						<span>⭐ 252692</span>
-						<span>🔱 22561</span>
-					</div>
-				<div class="stars-today">⭐ 740 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/nasa/fprime" target="_blank">
-    
-
-
-      
-        nasa /
-
-      fprime</a></p>
-				<p>
-      F´ - A flight software and embedded systems framework
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 C++</span>
-						<span>⭐ 11535</span>
-						<span>🔱 1730</span>
-					</div>
-				<div class="stars-today">⭐ 22 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/ansible/ansible" target="_blank">
-    
-
-
-      
-        ansible /
-
-      ansible</a></p>
-				<p>
-      Ansible is a radically simple IT automation platform that makes your applications and systems easier to deploy and maintain. Automate everything from code deployment to network configuration to cloud management, in a language that approaches plain English, using SSH, with no agents to install on remote systems. https://docs.ansible.com.
+      🏡 Open source home automation that puts local control and privacy first.
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 69636</span>
-						<span>🔱 24280</span>
+						<span>⭐ 88832</span>
+						<span>🔱 38056</span>
 					</div>
-				<div class="stars-today">⭐ 24 stars today</div>
+				<div class="stars-today">⭐ 80 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/nuxt/nuxt" target="_blank">
+				<p><a href="https://github.com/Crosstalk-Solutions/project-nomad" target="_blank">
     
 
 
       
-        nuxt /
+        Crosstalk-Solutions /
 
-      nuxt</a></p>
+      project-nomad</a></p>
 				<p>
-      the full-stack Vue framework
+      Project N.O.M.A.D, is a self-contained, offline survival computer packed with critical tools, knowledge, and AI to keep you informed and empowered—anytime, anywhere.
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 60758</span>
-						<span>🔱 5842</span>
+						<span>⭐ 33587</span>
+						<span>🔱 3373</span>
 					</div>
-				<div class="stars-today">⭐ 16 stars today</div>
+				<div class="stars-today">⭐ 122 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/ColeMurray/background-agents" target="_blank">
+    
+
+
+      
+        ColeMurray /
+
+      background-agents</a></p>
+				<p>
+      An open-source background agents coding system
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 2144</span>
+						<span>🔱 335</span>
+					</div>
+				<div class="stars-today">⭐ 9 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/k1tbyte/Wand-Enhancer" target="_blank">
+    
+
+
+      
+        k1tbyte /
+
+      Wand-Enhancer</a></p>
+				<p>
+      Advanced UX and interoperability extension for Wand (WeMod) app
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 C#</span>
+						<span>⭐ 6515</span>
+						<span>🔱 18483</span>
+					</div>
+				<div class="stars-today">⭐ 661 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/pingdotgg/t3code" target="_blank">
+    
+
+
+      
+        pingdotgg /
+
+      t3code</a></p>
+				<p></p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 13630</span>
+						<span>🔱 2859</span>
+					</div>
+				<div class="stars-today">⭐ 79 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/virattt/ai-hedge-fund" target="_blank">
+    
+
+
+      
+        virattt /
+
+      ai-hedge-fund</a></p>
+				<p>
+      An AI Hedge Fund Team
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 61212</span>
+						<span>🔱 10834</span>
+					</div>
+				<div class="stars-today">⭐ 109 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/chen08209/FlClash" target="_blank">
+    
+
+
+      
+        chen08209 /
+
+      FlClash</a></p>
+				<p>
+      A multi-platform proxy client based on ClashMeta,simple and easy to use, open-source and ad-free.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Dart</span>
+						<span>⭐ 45098</span>
+						<span>🔱 2848</span>
+					</div>
+				<div class="stars-today">⭐ 151 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/davila7/claude-code-templates" target="_blank">
+    
+
+
+      
+        davila7 /
+
+      claude-code-templates</a></p>
+				<p>
+      CLI tool for configuring and monitoring Claude Code
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 29128</span>
+						<span>🔱 3196</span>
+					</div>
+				<div class="stars-today">⭐ 232 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/par274/sharpemu" target="_blank">
+    
+
+
+      
+        par274 /
+
+      sharpemu</a></p>
+				<p>
+      An experimental PlayStation 5 emulator project.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 C#</span>
+						<span>⭐ 962</span>
+						<span>🔱 61</span>
+					</div>
+				<div class="stars-today">⭐ 436 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/malisper/pgrust" target="_blank">
+    
+
+
+      
+        malisper /
+
+      pgrust</a></p>
+				<p>
+      Postgres rewritten in Rust, now passing 100% of the Postgres regression tests
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Rust</span>
+						<span>⭐ 2237</span>
+						<span>🔱 58</span>
+					</div>
+				<div class="stars-today">⭐ 774 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/Nutlope/hallmark" target="_blank">
+    
+
+
+      
+        Nutlope /
+
+      hallmark</a></p>
+				<p>
+      Anti-AI-slop design skill for Claude Code, Cursor, and Codex.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 CSS</span>
+						<span>⭐ 3905</span>
+						<span>🔱 238</span>
+					</div>
+				<div class="stars-today">⭐ 210 stars today</div>
 				</div>
 			</div>
 	

@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2026年7月
-date: 2026-07-12T09:30:17Z
+date: 2026-07-12T11:00:13Z
 categories:
 - monthly
 keywords:
@@ -30,8 +30,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 C</span>
-						<span>⭐ 30298</span>
-						<span>🔱 2430</span>
+						<span>⭐ 30337</span>
+						<span>🔱 2432</span>
 					</div>
 				<div class="stars-today">⭐ 26790 stars this month</div>
 				</div>
@@ -52,8 +52,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 37264</span>
-						<span>🔱 4495</span>
+						<span>⭐ 37293</span>
+						<span>🔱 4497</span>
 					</div>
 				<div class="stars-today">⭐ 32538 stars this month</div>
 				</div>
@@ -74,8 +74,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 55075</span>
-						<span>🔱 4536</span>
+						<span>⭐ 55103</span>
+						<span>🔱 4539</span>
 					</div>
 				<div class="stars-today">⭐ 28880 stars this month</div>
 				</div>
@@ -96,8 +96,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 JavaScript</span>
-						<span>⭐ 56413</span>
-						<span>🔱 9321</span>
+						<span>⭐ 56438</span>
+						<span>🔱 9323</span>
 					</div>
 				<div class="stars-today">⭐ 14671 stars this month</div>
 				</div>
@@ -118,8 +118,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Go</span>
-						<span>⭐ 5951</span>
-						<span>🔱 530</span>
+						<span>⭐ 5960</span>
+						<span>🔱 532</span>
 					</div>
 				<div class="stars-today">⭐ 4652 stars this month</div>
 				</div>
@@ -140,8 +140,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 40670</span>
-						<span>🔱 4286</span>
+						<span>⭐ 40685</span>
+						<span>🔱 4291</span>
 					</div>
 				<div class="stars-today">⭐ 14657 stars this month</div>
 				</div>
@@ -162,7 +162,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Rust</span>
-						<span>⭐ 15607</span>
+						<span>⭐ 15628</span>
 						<span>🔱 1048</span>
 					</div>
 				<div class="stars-today">⭐ 10125 stars this month</div>
@@ -184,8 +184,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 16537</span>
-						<span>🔱 1295</span>
+						<span>⭐ 16571</span>
+						<span>🔱 1300</span>
 					</div>
 				<div class="stars-today">⭐ 11693 stars this month</div>
 				</div>
@@ -206,8 +206,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Rust</span>
-						<span>⭐ 23333</span>
-						<span>🔱 2467</span>
+						<span>⭐ 23356</span>
+						<span>🔱 2472</span>
 					</div>
 				<div class="stars-today">⭐ 10434 stars this month</div>
 				</div>
@@ -228,7 +228,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 5599</span>
+						<span>⭐ 5605</span>
 						<span>🔱 1129</span>
 					</div>
 				<div class="stars-today">⭐ 4473 stars this month</div>
@@ -250,54 +250,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 C++</span>
-						<span>⭐ 14779</span>
+						<span>⭐ 14782</span>
 						<span>🔱 918</span>
 					</div>
 				<div class="stars-today">⭐ 5021 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/iptv-org/iptv" target="_blank">
-    
-
-
-      
-        iptv-org /
-
-      iptv</a></p>
-				<p>
-      Collection of publicly available IPTV channels from all over the world
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 132497</span>
-						<span>🔱 7558</span>
-					</div>
-				<div class="stars-today">⭐ 15068 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/alibaba/page-agent" target="_blank">
-    
-
-
-      
-        alibaba /
-
-      page-agent</a></p>
-				<p>
-      JavaScript in-page GUI agent. Control web interfaces with natural language.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 26113</span>
-						<span>🔱 2401</span>
-					</div>
-				<div class="stars-today">⭐ 7630 stars this month</div>
 				</div>
 			</div>
 	
@@ -316,10 +272,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 15877</span>
-						<span>🔱 2416</span>
+						<span>⭐ 15917</span>
+						<span>🔱 2422</span>
 					</div>
 				<div class="stars-today">⭐ 9525 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/alibaba/page-agent" target="_blank">
+    
+
+
+      
+        alibaba /
+
+      page-agent</a></p>
+				<p>
+      JavaScript in-page GUI agent. Control web interfaces with natural language.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 26126</span>
+						<span>🔱 2403</span>
+					</div>
+				<div class="stars-today">⭐ 7630 stars this month</div>
 				</div>
 			</div>
 	
@@ -338,7 +316,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Haskell</span>
-						<span>⭐ 18461</span>
+						<span>⭐ 18470</span>
 						<span>🔱 1239</span>
 					</div>
 				<div class="stars-today">⭐ 7317 stars this month</div>
@@ -346,46 +324,24 @@ keywords:
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/NVIDIA/SkillSpector" target="_blank">
+				<p><a href="https://github.com/iptv-org/iptv" target="_blank">
     
 
 
       
-        NVIDIA /
+        iptv-org /
 
-      SkillSpector</a></p>
+      iptv</a></p>
 				<p>
-      Security scanner for AI agent skills. Detect vulnerabilities, malicious patterns, and security risks.
+      Collection of publicly available IPTV channels from all over the world
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 12935</span>
-						<span>🔱 1056</span>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 132507</span>
+						<span>🔱 7558</span>
 					</div>
-				<div class="stars-today">⭐ 10589 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/n0-computer/iroh" target="_blank">
-    
-
-
-      
-        n0-computer /
-
-      iroh</a></p>
-				<p>
-      IP addresses break, dial keys instead. A library that adds QUIC + NAT Traversal to your apps.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Rust</span>
-						<span>⭐ 11549</span>
-						<span>🔱 678</span>
-					</div>
-				<div class="stars-today">⭐ 2815 stars this month</div>
+				<div class="stars-today">⭐ 15068 stars this month</div>
 				</div>
 			</div>
 	
@@ -404,7 +360,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 C++</span>
-						<span>⭐ 29167</span>
+						<span>⭐ 29169</span>
 						<span>🔱 5322</span>
 					</div>
 				<div class="stars-today">⭐ 297 stars this month</div>
@@ -412,24 +368,112 @@ keywords:
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/apple/container" target="_blank">
+				<p><a href="https://github.com/n0-computer/iroh" target="_blank">
     
 
 
       
-        apple /
+        n0-computer /
 
-      container</a></p>
+      iroh</a></p>
 				<p>
-      A tool for creating and running Linux containers using lightweight virtual machines on a Mac. It is written in Swift, and optimized for Apple silicon. 
+      IP addresses break, dial keys instead. A library that adds QUIC + NAT Traversal to your apps.
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Swift</span>
-						<span>⭐ 47610</span>
-						<span>🔱 1595</span>
+						<span>🔠 Rust</span>
+						<span>⭐ 11552</span>
+						<span>🔱 678</span>
 					</div>
-				<div class="stars-today">⭐ 16789 stars this month</div>
+				<div class="stars-today">⭐ 2815 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/NVIDIA/SkillSpector" target="_blank">
+    
+
+
+      
+        NVIDIA /
+
+      SkillSpector</a></p>
+				<p>
+      Security scanner for AI agent skills. Detect vulnerabilities, malicious patterns, and security risks.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 12944</span>
+						<span>🔱 1056</span>
+					</div>
+				<div class="stars-today">⭐ 10589 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/mauriceboe/TREK" target="_blank">
+    
+
+
+      
+        mauriceboe /
+
+      TREK</a></p>
+				<p>
+      A self-hosted travel/trip planner with real-time collaboration, interactive maps, PWA support, SSO, budgets, packing lists, and more.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 10110</span>
+						<span>🔱 960</span>
+					</div>
+				<div class="stars-today">⭐ 4517 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/ocornut/imgui" target="_blank">
+    
+
+
+      
+        ocornut /
+
+      imgui</a></p>
+				<p>
+      Dear ImGui: Bloat-free Graphical User interface for C++ with minimal dependencies
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 C++</span>
+						<span>⭐ 74512</span>
+						<span>🔱 12001</span>
+					</div>
+				<div class="stars-today">⭐ 840 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/topoteretes/cognee" target="_blank">
+    
+
+
+      
+        topoteretes /
+
+      cognee</a></p>
+				<p>
+      Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions with a self-hosted knowledge graph engine.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 27590</span>
+						<span>🔱 2742</span>
+					</div>
+				<div class="stars-today">⭐ 9870 stars this month</div>
 				</div>
 			</div>
 	
