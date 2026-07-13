@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2026-07-13
-date: 2026-07-13T12:22:38Z
+date: 2026-07-13T16:15:17Z
 categories:
 - daily
 keywords:
@@ -30,32 +30,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 64334</span>
-						<span>🔱 6888</span>
+						<span>⭐ 65167</span>
+						<span>🔱 6926</span>
 					</div>
 				<div class="stars-today">⭐ 1077 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/Dicklesworthstone/destructive_command_guard" target="_blank">
-    
-
-
-      
-        Dicklesworthstone /
-
-      destructive_command_guard</a></p>
-				<p>
-      The Destructive Command Guard (dcg) is for blocking dangerous git and shell commands from being executed by agents.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Rust</span>
-						<span>⭐ 3608</span>
-						<span>🔱 132</span>
-					</div>
-				<div class="stars-today">⭐ 1290 stars today</div>
 				</div>
 			</div>
 	
@@ -74,8 +52,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 21194</span>
-						<span>🔱 3686</span>
+						<span>⭐ 21435</span>
+						<span>🔱 3716</span>
 					</div>
 				<div class="stars-today">⭐ 1148 stars today</div>
 				</div>
@@ -96,8 +74,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 41671</span>
-						<span>🔱 4182</span>
+						<span>⭐ 41745</span>
+						<span>🔱 4190</span>
 					</div>
 				<div class="stars-today">⭐ 57 stars today</div>
 				</div>
@@ -118,8 +96,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 119199</span>
-						<span>🔱 17705</span>
+						<span>⭐ 119349</span>
+						<span>🔱 17728</span>
 					</div>
 				<div class="stars-today">⭐ 1006 stars today</div>
 				</div>
@@ -140,8 +118,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 CSS</span>
-						<span>⭐ 4728</span>
-						<span>🔱 264</span>
+						<span>⭐ 4882</span>
+						<span>🔱 270</span>
 					</div>
 				<div class="stars-today">⭐ 802 stars today</div>
 				</div>
@@ -162,8 +140,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 PowerShell</span>
-						<span>⭐ 50523</span>
-						<span>🔱 2038</span>
+						<span>⭐ 50647</span>
+						<span>🔱 2040</span>
 					</div>
 				<div class="stars-today">⭐ 74 stars today</div>
 				</div>
@@ -184,8 +162,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 83807</span>
-						<span>🔱 8269</span>
+						<span>⭐ 84169</span>
+						<span>🔱 8300</span>
 					</div>
 				<div class="stars-today">⭐ 1028 stars today</div>
 				</div>
@@ -206,8 +184,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 HTML</span>
-						<span>⭐ 12239</span>
-						<span>🔱 1434</span>
+						<span>⭐ 12416</span>
+						<span>🔱 1463</span>
 					</div>
 				<div class="stars-today">⭐ 435 stars today</div>
 				</div>
@@ -228,8 +206,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 120259</span>
-						<span>🔱 10669</span>
+						<span>⭐ 120401</span>
+						<span>🔱 10674</span>
 					</div>
 				<div class="stars-today">⭐ 508 stars today</div>
 				</div>
@@ -250,8 +228,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 JavaScript</span>
-						<span>⭐ 38106</span>
-						<span>🔱 6132</span>
+						<span>⭐ 38290</span>
+						<span>🔱 6140</span>
 					</div>
 				<div class="stars-today">⭐ 260 stars today</div>
 				</div>
