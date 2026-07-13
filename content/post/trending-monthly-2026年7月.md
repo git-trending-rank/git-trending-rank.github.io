@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2026年7月
-date: 2026-07-13T08:36:50Z
+date: 2026-07-13T12:22:38Z
 categories:
 - monthly
 keywords:
@@ -14,28 +14,6 @@ keywords:
 	<main class="container">
         <div class="repo-list" id="repoList">
 
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/DeusData/codebase-memory-mcp" target="_blank">
-    
-
-
-      
-        DeusData /
-
-      codebase-memory-mcp</a></p>
-				<p>
-      High-performance code intelligence MCP server. Indexes codebases into a persistent knowledge graph — average repo in milliseconds. 158 languages, sub-ms queries, 99% fewer tokens. Single static binary, zero dependencies.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 C</span>
-						<span>⭐ 30804</span>
-						<span>🔱 2459</span>
-					</div>
-				<div class="stars-today">⭐ 27178 stars this month</div>
-				</div>
-			</div>
 	
 			<div class="repo-card">
 				<p><a href="https://github.com/calesthio/OpenMontage" target="_blank">
@@ -52,32 +30,54 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 37722</span>
-						<span>🔱 4564</span>
+						<span>⭐ 37817</span>
+						<span>🔱 4570</span>
 					</div>
 				<div class="stars-today">⭐ 32911 stars this month</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/Panniantong/Agent-Reach" target="_blank">
+				<p><a href="https://github.com/DeusData/codebase-memory-mcp" target="_blank">
     
 
 
       
-        Panniantong /
+        DeusData /
 
-      Agent-Reach</a></p>
+      codebase-memory-mcp</a></p>
 				<p>
-      Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.
+      High-performance code intelligence MCP server. Indexes codebases into a persistent knowledge graph — average repo in milliseconds. 158 languages, sub-ms queries, 99% fewer tokens. Single static binary, zero dependencies.
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 55519</span>
-						<span>🔱 4585</span>
+						<span>🔠 C</span>
+						<span>⭐ 30902</span>
+						<span>🔱 2468</span>
 					</div>
-				<div class="stars-today">⭐ 28973 stars this month</div>
+				<div class="stars-today">⭐ 27178 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/GoogleCloudPlatform/knowledge-catalog" target="_blank">
+    
+
+
+      
+        GoogleCloudPlatform /
+
+      knowledge-catalog</a></p>
+				<p>
+      Google Cloud Knowledge Catalog Tools and Samples
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 HTML</span>
+						<span>⭐ 6824</span>
+						<span>🔱 558</span>
+					</div>
+				<div class="stars-today">⭐ 6800 stars this month</div>
 				</div>
 			</div>
 	
@@ -96,32 +96,54 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 JavaScript</span>
-						<span>⭐ 56924</span>
-						<span>🔱 9412</span>
+						<span>⭐ 57011</span>
+						<span>🔱 9424</span>
 					</div>
 				<div class="stars-today">⭐ 14973 stars this month</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/kunchenguid/no-mistakes" target="_blank">
+				<p><a href="https://github.com/Panniantong/Agent-Reach" target="_blank">
     
 
 
       
-        kunchenguid /
+        Panniantong /
 
-      no-mistakes</a></p>
+      Agent-Reach</a></p>
 				<p>
-      git push no-mistakes
+      Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Go</span>
-						<span>⭐ 6053</span>
-						<span>🔱 539</span>
+						<span>🔠 Python</span>
+						<span>⭐ 55598</span>
+						<span>🔱 4593</span>
 					</div>
-				<div class="stars-today">⭐ 4726 stars this month</div>
+				<div class="stars-today">⭐ 28973 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/catchorg/Catch2" target="_blank">
+    
+
+
+      
+        catchorg /
+
+      Catch2</a></p>
+				<p>
+      A modern, C++-native, test framework for unit-tests, TDD and BDD - using C++14, C++17 and later (C++11 support is in v2.x branch, and C++03 on the Catch1.x branch)
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 C++</span>
+						<span>⭐ 21275</span>
+						<span>🔱 3447</span>
+					</div>
+				<div class="stars-today">⭐ 877 stars this month</div>
 				</div>
 			</div>
 	
@@ -140,10 +162,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 40997</span>
-						<span>🔱 4327</span>
+						<span>⭐ 41053</span>
+						<span>🔱 4330</span>
 					</div>
 				<div class="stars-today">⭐ 14993 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/kunchenguid/no-mistakes" target="_blank">
+    
+
+
+      
+        kunchenguid /
+
+      no-mistakes</a></p>
+				<p>
+      git push no-mistakes
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Go</span>
+						<span>⭐ 6070</span>
+						<span>🔱 539</span>
+					</div>
+				<div class="stars-today">⭐ 4726 stars this month</div>
 				</div>
 			</div>
 	
@@ -162,8 +206,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Rust</span>
-						<span>⭐ 15926</span>
-						<span>🔱 1069</span>
+						<span>⭐ 15975</span>
+						<span>🔱 1075</span>
 					</div>
 				<div class="stars-today">⭐ 10286 stars this month</div>
 				</div>
@@ -184,8 +228,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 17550</span>
-						<span>🔱 1383</span>
+						<span>⭐ 17752</span>
+						<span>🔱 1395</span>
 					</div>
 				<div class="stars-today">⭐ 12079 stars this month</div>
 				</div>
@@ -206,8 +250,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Rust</span>
-						<span>⭐ 23781</span>
-						<span>🔱 2498</span>
+						<span>⭐ 23861</span>
+						<span>🔱 2507</span>
 					</div>
 				<div class="stars-today">⭐ 10839 stars this month</div>
 				</div>
@@ -228,32 +272,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 5682</span>
-						<span>🔱 1135</span>
+						<span>⭐ 5702</span>
+						<span>🔱 1136</span>
 					</div>
 				<div class="stars-today">⭐ 4540 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/alibaba/zvec" target="_blank">
-    
-
-
-      
-        alibaba /
-
-      zvec</a></p>
-				<p>
-      A lightweight, lightning-fast, in-process vector database
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 C++</span>
-						<span>⭐ 14835</span>
-						<span>🔱 924</span>
-					</div>
-				<div class="stars-today">⭐ 5073 stars this month</div>
 				</div>
 			</div>
 	
@@ -272,8 +294,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 16423</span>
-						<span>🔱 2497</span>
+						<span>⭐ 16523</span>
+						<span>🔱 2510</span>
 					</div>
 				<div class="stars-today">⭐ 10055 stars this month</div>
 				</div>
@@ -294,7 +316,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 26311</span>
+						<span>⭐ 26351</span>
 						<span>🔱 2419</span>
 					</div>
 				<div class="stars-today">⭐ 7797 stars this month</div>
@@ -316,54 +338,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Haskell</span>
-						<span>⭐ 18540</span>
-						<span>🔱 1246</span>
+						<span>⭐ 18554</span>
+						<span>🔱 1247</span>
 					</div>
 				<div class="stars-today">⭐ 7392 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/iptv-org/iptv" target="_blank">
-    
-
-
-      
-        iptv-org /
-
-      iptv</a></p>
-				<p>
-      Collection of publicly available IPTV channels from all over the world
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 132688</span>
-						<span>🔱 7569</span>
-					</div>
-				<div class="stars-today">⭐ 15178 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/gabime/spdlog" target="_blank">
-    
-
-
-      
-        gabime /
-
-      spdlog</a></p>
-				<p>
-      Fast C++ logging library.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 C++</span>
-						<span>⭐ 29181</span>
-						<span>🔱 5326</span>
-					</div>
-				<div class="stars-today">⭐ 308 stars this month</div>
 				</div>
 			</div>
 	
@@ -382,7 +360,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Rust</span>
-						<span>⭐ 11612</span>
+						<span>⭐ 11637</span>
 						<span>🔱 681</span>
 					</div>
 				<div class="stars-today">⭐ 2909 stars this month</div>
@@ -390,46 +368,46 @@ keywords:
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/NVIDIA/SkillSpector" target="_blank">
+				<p><a href="https://github.com/gabime/spdlog" target="_blank">
     
 
 
       
-        NVIDIA /
+        gabime /
 
-      SkillSpector</a></p>
+      spdlog</a></p>
 				<p>
-      Security scanner for AI agent skills. Detect vulnerabilities, malicious patterns, and security risks.
+      Fast C++ logging library.
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 13064</span>
-						<span>🔱 1059</span>
+						<span>🔠 C++</span>
+						<span>⭐ 29185</span>
+						<span>🔱 5327</span>
 					</div>
-				<div class="stars-today">⭐ 9876 stars this month</div>
+				<div class="stars-today">⭐ 308 stars this month</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/mauriceboe/TREK" target="_blank">
+				<p><a href="https://github.com/iptv-org/iptv" target="_blank">
     
 
 
       
-        mauriceboe /
+        iptv-org /
 
-      TREK</a></p>
+      iptv</a></p>
 				<p>
-      A self-hosted travel/trip planner with real-time collaboration, interactive maps, PWA support, SSO, budgets, packing lists, and more.
+      Collection of publicly available IPTV channels from all over the world
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 10254</span>
-						<span>🔱 972</span>
+						<span>⭐ 132719</span>
+						<span>🔱 7570</span>
 					</div>
-				<div class="stars-today">⭐ 4546 stars this month</div>
+				<div class="stars-today">⭐ 15178 stars this month</div>
 				</div>
 			</div>
 	
@@ -448,8 +426,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 C++</span>
-						<span>⭐ 74553</span>
-						<span>🔱 12001</span>
+						<span>⭐ 74561</span>
+						<span>🔱 12002</span>
 					</div>
 				<div class="stars-today">⭐ 843 stars this month</div>
 				</div>
@@ -470,7 +448,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 27704</span>
+						<span>⭐ 27714</span>
 						<span>🔱 2745</span>
 					</div>
 				<div class="stars-today">⭐ 9895 stars this month</div>

@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2026-07-13
-date: 2026-07-13T08:36:50Z
+date: 2026-07-13T12:22:38Z
 categories:
 - daily
 keywords:
@@ -14,6 +14,28 @@ keywords:
 	<main class="container">
         <div class="repo-list" id="repoList">
 
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/OpenCut-app/OpenCut" target="_blank">
+    
+
+
+      
+        OpenCut-app /
+
+      OpenCut</a></p>
+				<p>
+      The open-source CapCut alternative
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 64334</span>
+						<span>🔱 6888</span>
+					</div>
+				<div class="stars-today">⭐ 1077 stars today</div>
+				</div>
+			</div>
 	
 			<div class="repo-card">
 				<p><a href="https://github.com/Dicklesworthstone/destructive_command_guard" target="_blank">
@@ -30,32 +52,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Rust</span>
-						<span>⭐ 3418</span>
-						<span>🔱 125</span>
+						<span>⭐ 3608</span>
+						<span>🔱 132</span>
 					</div>
-				<div class="stars-today">⭐ 444 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/wonderwhy-er/DesktopCommanderMCP" target="_blank">
-    
-
-
-      
-        wonderwhy-er /
-
-      DesktopCommanderMCP</a></p>
-				<p>
-      This is MCP server for Claude that gives it terminal control, file system search and diff file editing capabilities
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 8092</span>
-						<span>🔱 993</span>
-					</div>
-				<div class="stars-today">⭐ 210 stars today</div>
+				<div class="stars-today">⭐ 1290 stars today</div>
 				</div>
 			</div>
 	
@@ -74,32 +74,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 21003</span>
-						<span>🔱 3662</span>
+						<span>⭐ 21194</span>
+						<span>🔱 3686</span>
 					</div>
-				<div class="stars-today">⭐ 768 stars today</div>
+				<div class="stars-today">⭐ 1148 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/PrefectHQ/prefect" target="_blank">
+				<p><a href="https://github.com/moeru-ai/airi" target="_blank">
     
 
 
       
-        PrefectHQ /
+        moeru-ai /
 
-      prefect</a></p>
+      airi</a></p>
 				<p>
-      Prefect is a workflow orchestration framework for building resilient data pipelines in Python.
+      💖🧸 Self hosted, you-owned Grok Companion, a container of souls of waifu, cyber livings to bring them into our worlds, wishing to achieve Neuro-sama's altitude. Capable of realtime voice chat, Minecraft, Factorio playing. Web / macOS / Windows supported.
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 23274</span>
-						<span>🔱 2403</span>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 41671</span>
+						<span>🔱 4182</span>
 					</div>
-				<div class="stars-today">⭐ 66 stars today</div>
+				<div class="stars-today">⭐ 57 stars today</div>
 				</div>
 			</div>
 	
@@ -118,250 +118,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 119005</span>
-						<span>🔱 17687</span>
+						<span>⭐ 119199</span>
+						<span>🔱 17705</span>
 					</div>
-				<div class="stars-today">⭐ 408 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/anthropics/claude-cookbooks" target="_blank">
-    
-
-
-      
-        anthropics /
-
-      claude-cookbooks</a></p>
-				<p>
-      A collection of notebooks/recipes showcasing some fun and effective ways of using Claude.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Jupyter Notebook</span>
-						<span>⭐ 48641</span>
-						<span>🔱 5746</span>
-					</div>
-				<div class="stars-today">⭐ 459 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/home-assistant/core" target="_blank">
-    
-
-
-      
-        home-assistant /
-
-      core</a></p>
-				<p>
-      🏡 Open source home automation that puts local control and privacy first.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 89264</span>
-						<span>🔱 38094</span>
-					</div>
-				<div class="stars-today">⭐ 400 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/Crosstalk-Solutions/project-nomad" target="_blank">
-    
-
-
-      
-        Crosstalk-Solutions /
-
-      project-nomad</a></p>
-				<p>
-      Project N.O.M.A.D, is a self-contained, offline survival computer packed with critical tools, knowledge, and AI to keep you informed and empowered—anytime, anywhere.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 33953</span>
-						<span>🔱 3404</span>
-					</div>
-				<div class="stars-today">⭐ 125 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/ColeMurray/background-agents" target="_blank">
-    
-
-
-      
-        ColeMurray /
-
-      background-agents</a></p>
-				<p>
-      An open-source background agents coding system
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 2348</span>
-						<span>🔱 346</span>
-					</div>
-				<div class="stars-today">⭐ 16 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/k1tbyte/Wand-Enhancer" target="_blank">
-    
-
-
-      
-        k1tbyte /
-
-      Wand-Enhancer</a></p>
-				<p>
-      Advanced UX and interoperability extension for Wand (WeMod) app
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 C#</span>
-						<span>⭐ 7089</span>
-						<span>🔱 19792</span>
-					</div>
-				<div class="stars-today">⭐ 609 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/pingdotgg/t3code" target="_blank">
-    
-
-
-      
-        pingdotgg /
-
-      t3code</a></p>
-				<p></p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 13842</span>
-						<span>🔱 2903</span>
-					</div>
-				<div class="stars-today">⭐ 75 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/virattt/ai-hedge-fund" target="_blank">
-    
-
-
-      
-        virattt /
-
-      ai-hedge-fund</a></p>
-				<p>
-      An AI Hedge Fund Team
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 61533</span>
-						<span>🔱 10874</span>
-					</div>
-				<div class="stars-today">⭐ 115 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/chen08209/FlClash" target="_blank">
-    
-
-
-      
-        chen08209 /
-
-      FlClash</a></p>
-				<p>
-      A multi-platform proxy client based on ClashMeta,simple and easy to use, open-source and ad-free.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Dart</span>
-						<span>⭐ 45373</span>
-						<span>🔱 2863</span>
-					</div>
-				<div class="stars-today">⭐ 154 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/davila7/claude-code-templates" target="_blank">
-    
-
-
-      
-        davila7 /
-
-      claude-code-templates</a></p>
-				<p>
-      CLI tool for configuring and monitoring Claude Code
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 29326</span>
-						<span>🔱 3210</span>
-					</div>
-				<div class="stars-today">⭐ 274 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/par274/sharpemu" target="_blank">
-    
-
-
-      
-        par274 /
-
-      sharpemu</a></p>
-				<p>
-      An experimental PlayStation 5 emulator project.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 C#</span>
-						<span>⭐ 1417</span>
-						<span>🔱 85</span>
-					</div>
-				<div class="stars-today">⭐ 314 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/malisper/pgrust" target="_blank">
-    
-
-
-      
-        malisper /
-
-      pgrust</a></p>
-				<p>
-      Postgres rewritten in Rust, now passing 100% of the Postgres regression tests
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Rust</span>
-						<span>⭐ 2653</span>
-						<span>🔱 74</span>
-					</div>
-				<div class="stars-today">⭐ 518 stars today</div>
+				<div class="stars-today">⭐ 1006 stars today</div>
 				</div>
 			</div>
 	
@@ -380,10 +140,120 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 CSS</span>
-						<span>⭐ 4590</span>
-						<span>🔱 259</span>
+						<span>⭐ 4728</span>
+						<span>🔱 264</span>
 					</div>
-				<div class="stars-today">⭐ 155 stars today</div>
+				<div class="stars-today">⭐ 802 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/Raphire/Win11Debloat" target="_blank">
+    
+
+
+      
+        Raphire /
+
+      Win11Debloat</a></p>
+				<p>
+      A simple, lightweight PowerShell script that allows you to remove pre-installed apps, disable telemetry, as well as perform various other changes to declutter and customize your Windows experience. Win11Debloat works for both Windows 10 and Windows 11.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 PowerShell</span>
+						<span>⭐ 50523</span>
+						<span>🔱 2038</span>
+					</div>
+				<div class="stars-today">⭐ 74 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/Graphify-Labs/graphify" target="_blank">
+    
+
+
+      
+        Graphify-Labs /
+
+      graphify</a></p>
+				<p>
+      AI coding assistant skill (Claude Code, Codex, OpenCode, Cursor, Gemini CLI, and more). Turn any folder of code, SQL schemas, R scripts, shell scripts, docs, papers, images, or videos into a queryable knowledge graph. App code + database schema + infrastructure in one graph.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 83807</span>
+						<span>🔱 8269</span>
+					</div>
+				<div class="stars-today">⭐ 1028 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/hasaneyldrm/exercises-dataset" target="_blank">
+    
+
+
+      
+        hasaneyldrm /
+
+      exercises-dataset</a></p>
+				<p>
+      1,324-exercise fitness dataset — animation GIFs, 180×180 thumbnails, muscle-group & equipment data, and step-by-step instructions in 6 languages. The exercise data layer behind the LogPress app.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 HTML</span>
+						<span>⭐ 12239</span>
+						<span>🔱 1434</span>
+					</div>
+				<div class="stars-today">⭐ 435 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/github/spec-kit" target="_blank">
+    
+
+
+      
+        github /
+
+      spec-kit</a></p>
+				<p>
+      💫 Toolkit to help you get started with Spec-Driven Development
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 120259</span>
+						<span>🔱 10669</span>
+					</div>
+				<div class="stars-today">⭐ 508 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/coreyhaines31/marketingskills" target="_blank">
+    
+
+
+      
+        coreyhaines31 /
+
+      marketingskills</a></p>
+				<p>
+      Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics, and growth engineering.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 JavaScript</span>
+						<span>⭐ 38106</span>
+						<span>🔱 6132</span>
+					</div>
+				<div class="stars-today">⭐ 260 stars today</div>
 				</div>
 			</div>
 	
