@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2026-07-14
-date: 2026-07-14T09:30:23Z
+date: 2026-07-14T11:13:03Z
 categories:
 - daily
 keywords:
@@ -16,24 +16,46 @@ keywords:
 
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/OpenCut-app/OpenCut" target="_blank">
+				<p><a href="https://github.com/Shubhamsaboo/awesome-llm-apps" target="_blank">
     
 
 
       
-        OpenCut-app /
+        Shubhamsaboo /
 
-      OpenCut</a></p>
+      awesome-llm-apps</a></p>
 				<p>
-      The open-source CapCut alternative
+      100+ AI Agent & RAG apps you can actually run — clone, customize, ship.
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 68241</span>
-						<span>🔱 7131</span>
+						<span>🔠 Python</span>
+						<span>⭐ 120217</span>
+						<span>🔱 17821</span>
 					</div>
-				<div class="stars-today">⭐ 1229 stars today</div>
+				<div class="stars-today">⭐ 996 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/mattpocock/skills" target="_blank">
+    
+
+
+      
+        mattpocock /
+
+      skills</a></p>
+				<p>
+      Skills for Real Engineers. Straight from my .claude directory.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Shell</span>
+						<span>⭐ 169317</span>
+						<span>🔱 14579</span>
+					</div>
+				<div class="stars-today">⭐ 1559 stars today</div>
 				</div>
 			</div>
 	
@@ -52,76 +74,54 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Rust</span>
-						<span>⭐ 4004</span>
-						<span>🔱 149</span>
+						<span>⭐ 4051</span>
+						<span>🔱 152</span>
 					</div>
 				<div class="stars-today">⭐ 1295 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/HKUDS/Vibe-Trading" target="_blank">
+				<p><a href="https://github.com/OpenCut-app/OpenCut" target="_blank">
     
 
 
       
-        HKUDS /
+        OpenCut-app /
 
-      Vibe-Trading</a></p>
+      OpenCut</a></p>
 				<p>
-      "Vibe-Trading: Your Personal Trading Agent"
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 22311</span>
-						<span>🔱 3838</span>
-					</div>
-				<div class="stars-today">⭐ 1153 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/moeru-ai/airi" target="_blank">
-    
-
-
-      
-        moeru-ai /
-
-      airi</a></p>
-				<p>
-      💖🧸 Self hosted, you-owned Grok Companion, a container of souls of waifu, cyber livings to bring them into our worlds, wishing to achieve Neuro-sama's altitude. Capable of realtime voice chat, Minecraft, Factorio playing. Web / macOS / Windows supported.
+      The open-source CapCut alternative
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 42205</span>
-						<span>🔱 4236</span>
+						<span>⭐ 68507</span>
+						<span>🔱 7150</span>
 					</div>
-				<div class="stars-today">⭐ 78 stars today</div>
+				<div class="stars-today">⭐ 1229 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/Shubhamsaboo/awesome-llm-apps" target="_blank">
+				<p><a href="https://github.com/virattt/ai-hedge-fund" target="_blank">
     
 
 
       
-        Shubhamsaboo /
+        virattt /
 
-      awesome-llm-apps</a></p>
+      ai-hedge-fund</a></p>
 				<p>
-      100+ AI Agent & RAG apps you can actually run — clone, customize, ship.
+      An AI Hedge Fund Team
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 120160</span>
-						<span>🔱 17814</span>
+						<span>⭐ 61659</span>
+						<span>🔱 10895</span>
 					</div>
-				<div class="stars-today">⭐ 996 stars today</div>
+				<div class="stars-today">⭐ 330 stars today</div>
 				</div>
 			</div>
 	
@@ -140,10 +140,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 CSS</span>
-						<span>⭐ 5585</span>
-						<span>🔱 325</span>
+						<span>⭐ 5680</span>
+						<span>🔱 330</span>
 					</div>
 				<div class="stars-today">⭐ 794 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/HKUDS/Vibe-Trading" target="_blank">
+    
+
+
+      
+        HKUDS /
+
+      Vibe-Trading</a></p>
+				<p>
+      "Vibe-Trading: Your Personal Trading Agent"
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 22400</span>
+						<span>🔱 3848</span>
+					</div>
+				<div class="stars-today">⭐ 1153 stars today</div>
 				</div>
 			</div>
 	
@@ -162,32 +184,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 PowerShell</span>
-						<span>⭐ 51181</span>
+						<span>⭐ 51245</span>
 						<span>🔱 2105</span>
 					</div>
 				<div class="stars-today">⭐ 118 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/Graphify-Labs/graphify" target="_blank">
-    
-
-
-      
-        Graphify-Labs /
-
-      graphify</a></p>
-				<p>
-      AI coding assistant skill (Claude Code, Codex, OpenCode, Cursor, Gemini CLI, and more). Turn any folder of code, SQL schemas, R scripts, shell scripts, docs, papers, images, or videos into a queryable knowledge graph. App code + database schema + infrastructure in one graph.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 85419</span>
-						<span>🔱 8428</span>
-					</div>
-				<div class="stars-today">⭐ 1095 stars today</div>
 				</div>
 			</div>
 	
@@ -206,54 +206,142 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 HTML</span>
-						<span>⭐ 12991</span>
-						<span>🔱 1538</span>
+						<span>⭐ 13056</span>
+						<span>🔱 1543</span>
 					</div>
 				<div class="stars-today">⭐ 451 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/github/spec-kit" target="_blank">
+				<p><a href="https://github.com/penpot/penpot" target="_blank">
     
 
 
       
-        github /
+        penpot /
 
-      spec-kit</a></p>
+      penpot</a></p>
 				<p>
-      💫 Toolkit to help you get started with Spec-Driven Development
+      Penpot: The open-source design platform for Product teams that need scalable collaboration.
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 120935</span>
-						<span>🔱 10753</span>
+						<span>🔠 Clojure</span>
+						<span>⭐ 55890</span>
+						<span>🔱 3675</span>
 					</div>
-				<div class="stars-today">⭐ 543 stars today</div>
+				<div class="stars-today">⭐ 264 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/coreyhaines31/marketingskills" target="_blank">
+				<p><a href="https://github.com/AIEraDev/Clypra" target="_blank">
     
 
 
       
-        coreyhaines31 /
+        AIEraDev /
 
-      marketingskills</a></p>
+      Clypra</a></p>
 				<p>
-      Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics, and growth engineering.
+      A modern video editor built with Tauri, React, and TypeScript. Focus on building free capabilities of premium capcut functionalities
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 JavaScript</span>
-						<span>⭐ 39006</span>
-						<span>🔱 6231</span>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 2432</span>
+						<span>🔱 270</span>
 					</div>
-				<div class="stars-today">⭐ 299 stars today</div>
+				<div class="stars-today">⭐ 66 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/par274/sharpemu" target="_blank">
+    
+
+
+      
+        par274 /
+
+      sharpemu</a></p>
+				<p>
+      An experimental PlayStation 5 emulator project.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 C#</span>
+						<span>⭐ 1753</span>
+						<span>🔱 109</span>
+					</div>
+				<div class="stars-today">⭐ 428 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/chenyme/grok2api" target="_blank">
+    
+
+
+      
+        chenyme /
+
+      grok2api</a></p>
+				<p>
+      面向 Grok Build、Grok Web 与 Grok Console 的多账号 API 网关
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Go</span>
+						<span>⭐ 5727</span>
+						<span>🔱 1914</span>
+					</div>
+				<div class="stars-today">⭐ 179 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/Graphify-Labs/graphify" target="_blank">
+    
+
+
+      
+        Graphify-Labs /
+
+      graphify</a></p>
+				<p>
+      AI coding assistant skill (Claude Code, Codex, OpenCode, Cursor, Gemini CLI, and more). Turn any folder of code, SQL schemas, R scripts, shell scripts, docs, papers, images, or videos into a queryable knowledge graph. App code + database schema + infrastructure in one graph.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 85548</span>
+						<span>🔱 8436</span>
+					</div>
+				<div class="stars-today">⭐ 1095 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/HenryNdubuaku/maths-cs-ai-compendium" target="_blank">
+    
+
+
+      
+        HenryNdubuaku /
+
+      maths-cs-ai-compendium</a></p>
+				<p>
+      Become a cracked AI/ML Research Engineer
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 4878</span>
+						<span>🔱 672</span>
+					</div>
+				<div class="stars-today">⭐ 69 stars today</div>
 				</div>
 			</div>
 	

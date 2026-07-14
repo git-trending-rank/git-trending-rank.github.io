@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2026年7月
-date: 2026-07-14T09:30:23Z
+date: 2026-07-14T11:13:04Z
 categories:
 - monthly
 keywords:
@@ -30,8 +30,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 38254</span>
-						<span>🔱 4625</span>
+						<span>⭐ 38309</span>
+						<span>🔱 4634</span>
 					</div>
 				<div class="stars-today">⭐ 33392 stars this month</div>
 				</div>
@@ -52,32 +52,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 C</span>
-						<span>⭐ 31298</span>
-						<span>🔱 2497</span>
+						<span>⭐ 31332</span>
+						<span>🔱 2499</span>
 					</div>
 				<div class="stars-today">⭐ 27660 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/GoogleCloudPlatform/knowledge-catalog" target="_blank">
-    
-
-
-      
-        GoogleCloudPlatform /
-
-      knowledge-catalog</a></p>
-				<p>
-      Google Cloud Knowledge Catalog Tools and Samples
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 HTML</span>
-						<span>⭐ 6933</span>
-						<span>🔱 567</span>
-					</div>
-				<div class="stars-today">⭐ 6484 stars this month</div>
 				</div>
 			</div>
 	
@@ -96,8 +74,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 22155</span>
-						<span>🔱 6797</span>
+						<span>⭐ 22204</span>
+						<span>🔱 6820</span>
 					</div>
 				<div class="stars-today">⭐ 18534 stars this month</div>
 				</div>
@@ -118,8 +96,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 JavaScript</span>
-						<span>⭐ 57527</span>
-						<span>🔱 9507</span>
+						<span>⭐ 57562</span>
+						<span>🔱 9514</span>
 					</div>
 				<div class="stars-today">⭐ 15390 stars this month</div>
 				</div>
@@ -140,32 +118,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 56010</span>
-						<span>🔱 4612</span>
+						<span>⭐ 56049</span>
+						<span>🔱 4614</span>
 					</div>
 				<div class="stars-today">⭐ 28900 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/catchorg/Catch2" target="_blank">
-    
-
-
-      
-        catchorg /
-
-      Catch2</a></p>
-				<p>
-      A modern, C++-native, test framework for unit-tests, TDD and BDD - using C++14, C++17 and later (C++11 support is in v2.x branch, and C++03 on the Catch1.x branch)
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 C++</span>
-						<span>⭐ 21290</span>
-						<span>🔱 3447</span>
-					</div>
-				<div class="stars-today">⭐ 887 stars this month</div>
 				</div>
 			</div>
 	
@@ -184,8 +140,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 41336</span>
-						<span>🔱 4346</span>
+						<span>⭐ 41348</span>
+						<span>🔱 4347</span>
 					</div>
 				<div class="stars-today">⭐ 15337 stars this month</div>
 				</div>
@@ -206,32 +162,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Go</span>
-						<span>⭐ 6150</span>
-						<span>🔱 550</span>
+						<span>⭐ 6159</span>
+						<span>🔱 552</span>
 					</div>
 				<div class="stars-today">⭐ 4819 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/ogulcancelik/herdr" target="_blank">
-    
-
-
-      
-        ogulcancelik /
-
-      herdr</a></p>
-				<p>
-      agent multiplexer that lives in your terminal.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Rust</span>
-						<span>⭐ 16268</span>
-						<span>🔱 1105</span>
-					</div>
-				<div class="stars-today">⭐ 10569 stars this month</div>
 				</div>
 			</div>
 	
@@ -250,10 +184,54 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 18721</span>
-						<span>🔱 1471</span>
+						<span>⭐ 18779</span>
+						<span>🔱 1475</span>
 					</div>
 				<div class="stars-today">⭐ 13222 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/GoogleCloudPlatform/knowledge-catalog" target="_blank">
+    
+
+
+      
+        GoogleCloudPlatform /
+
+      knowledge-catalog</a></p>
+				<p>
+      Google Cloud Knowledge Catalog Tools and Samples
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 HTML</span>
+						<span>⭐ 6948</span>
+						<span>🔱 571</span>
+					</div>
+				<div class="stars-today">⭐ 6484 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/ogulcancelik/herdr" target="_blank">
+    
+
+
+      
+        ogulcancelik /
+
+      herdr</a></p>
+				<p>
+      agent multiplexer that lives in your terminal.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Rust</span>
+						<span>⭐ 16288</span>
+						<span>🔱 1106</span>
+					</div>
+				<div class="stars-today">⭐ 10569 stars this month</div>
 				</div>
 			</div>
 	
@@ -272,32 +250,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Rust</span>
-						<span>⭐ 24391</span>
-						<span>🔱 2549</span>
+						<span>⭐ 24430</span>
+						<span>🔱 2550</span>
 					</div>
 				<div class="stars-today">⭐ 11340 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/interviewstreet/hiring-agent" target="_blank">
-    
-
-
-      
-        interviewstreet /
-
-      hiring-agent</a></p>
-				<p>
-      AI agent to evaluate and score resumes.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 5790</span>
-						<span>🔱 1151</span>
-					</div>
-				<div class="stars-today">⭐ 4624 stars this month</div>
 				</div>
 			</div>
 	
@@ -316,10 +272,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 17057</span>
-						<span>🔱 2582</span>
+						<span>⭐ 17096</span>
+						<span>🔱 2585</span>
 					</div>
 				<div class="stars-today">⭐ 10603 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/interviewstreet/hiring-agent" target="_blank">
+    
+
+
+      
+        interviewstreet /
+
+      hiring-agent</a></p>
+				<p>
+      AI agent to evaluate and score resumes.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 5796</span>
+						<span>🔱 1151</span>
+					</div>
+				<div class="stars-today">⭐ 4624 stars this month</div>
 				</div>
 			</div>
 	
@@ -338,8 +316,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 26540</span>
-						<span>🔱 2435</span>
+						<span>⭐ 26551</span>
+						<span>🔱 2436</span>
 					</div>
 				<div class="stars-today">⭐ 8001 stars this month</div>
 				</div>
@@ -360,32 +338,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Haskell</span>
-						<span>⭐ 18603</span>
+						<span>⭐ 18606</span>
 						<span>🔱 1258</span>
 					</div>
 				<div class="stars-today">⭐ 7461 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/n0-computer/iroh" target="_blank">
-    
-
-
-      
-        n0-computer /
-
-      iroh</a></p>
-				<p>
-      IP addresses break, dial keys instead. A library that adds QUIC + NAT Traversal to your apps.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Rust</span>
-						<span>⭐ 11687</span>
-						<span>🔱 683</span>
-					</div>
-				<div class="stars-today">⭐ 2981 stars this month</div>
 				</div>
 			</div>
 	
@@ -404,7 +360,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 C++</span>
-						<span>⭐ 29202</span>
+						<span>⭐ 29204</span>
 						<span>🔱 5332</span>
 					</div>
 				<div class="stars-today">⭐ 322 stars this month</div>
@@ -412,24 +368,68 @@ keywords:
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/iptv-org/iptv" target="_blank">
+				<p><a href="https://github.com/alibaba/zvec" target="_blank">
     
 
 
       
-        iptv-org /
+        alibaba /
 
-      iptv</a></p>
+      zvec</a></p>
 				<p>
-      Collection of publicly available IPTV channels from all over the world
+      A lightweight, lightning-fast, in-process vector database
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 C++</span>
+						<span>⭐ 14877</span>
+						<span>🔱 925</span>
+					</div>
+				<div class="stars-today">⭐ 5124 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/n0-computer/iroh" target="_blank">
+    
+
+
+      
+        n0-computer /
+
+      iroh</a></p>
+				<p>
+      IP addresses break, dial keys instead. A library that adds QUIC + NAT Traversal to your apps.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Rust</span>
+						<span>⭐ 11691</span>
+						<span>🔱 683</span>
+					</div>
+				<div class="stars-today">⭐ 2981 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/wonderwhy-er/DesktopCommanderMCP" target="_blank">
+    
+
+
+      
+        wonderwhy-er /
+
+      DesktopCommanderMCP</a></p>
+				<p>
+      This is MCP server for Claude that gives it terminal control, file system search and diff file editing capabilities
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 132894</span>
-						<span>🔱 7581</span>
+						<span>⭐ 8216</span>
+						<span>🔱 1001</span>
 					</div>
-				<div class="stars-today">⭐ 14736 stars this month</div>
+				<div class="stars-today">⭐ 2055 stars this month</div>
 				</div>
 			</div>
 	
@@ -448,8 +448,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 C++</span>
-						<span>⭐ 74617</span>
-						<span>🔱 12007</span>
+						<span>⭐ 74625</span>
+						<span>🔱 12008</span>
 					</div>
 				<div class="stars-today">⭐ 875 stars this month</div>
 				</div>
@@ -470,7 +470,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 27817</span>
+						<span>⭐ 27822</span>
 						<span>🔱 2752</span>
 					</div>
 				<div class="stars-today">⭐ 10013 stars this month</div>

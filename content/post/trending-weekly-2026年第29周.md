@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2026年第29周
-date: 2026-07-14T09:30:23Z
+date: 2026-07-14T11:13:04Z
 categories:
 - weekly
 keywords:
@@ -30,8 +30,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 22155</span>
-						<span>🔱 6797</span>
+						<span>⭐ 22204</span>
+						<span>🔱 6820</span>
 					</div>
 				<div class="stars-today">⭐ 15420 stars this week</div>
 				</div>
@@ -52,8 +52,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 8215</span>
-						<span>🔱 1000</span>
+						<span>⭐ 8216</span>
+						<span>🔱 1001</span>
 					</div>
 				<div class="stars-today">⭐ 1939 stars this week</div>
 				</div>
@@ -74,98 +74,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 C++</span>
-						<span>⭐ 17969</span>
-						<span>🔱 3221</span>
+						<span>⭐ 17970</span>
+						<span>🔱 3223</span>
 					</div>
 				<div class="stars-today">⭐ 621 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/Zackriya-Solutions/meetily" target="_blank">
-    
-
-
-      
-        Zackriya-Solutions /
-
-      meetily</a></p>
-				<p>
-      Privacy first, AI meeting assistant with 4x faster Parakeet/Whisper live transcription, speaker diarization, and Ollama summarization built on Rust. 100% local processing. no cloud required. Meetily (Meetly Ai - https://meetily.ai) is the #1 Self-hosted, Open-source Ai meeting note taker for macOS & Windows. Understand How to write meeting minutes
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Rust</span>
-						<span>⭐ 24391</span>
-						<span>🔱 2549</span>
-					</div>
-				<div class="stars-today">⭐ 5392 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/TencentCloud/CubeSandbox" target="_blank">
-    
-
-
-      
-        TencentCloud /
-
-      CubeSandbox</a></p>
-				<p>
-      Instant, Concurrent, Secure & Lightweight Sandbox for AI Agents.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Rust</span>
-						<span>⭐ 10064</span>
-						<span>🔱 988</span>
-					</div>
-				<div class="stars-today">⭐ 2367 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/openai/codex-plugin-cc" target="_blank">
-    
-
-
-      
-        openai /
-
-      codex-plugin-cc</a></p>
-				<p>
-      Use Codex from Claude Code to review code or delegate tasks.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 JavaScript</span>
-						<span>⭐ 28513</span>
-						<span>🔱 1879</span>
-					</div>
-				<div class="stars-today">⭐ 2265 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/ogulcancelik/herdr" target="_blank">
-    
-
-
-      
-        ogulcancelik /
-
-      herdr</a></p>
-				<p>
-      agent multiplexer that lives in your terminal.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Rust</span>
-						<span>⭐ 16268</span>
-						<span>🔱 1105</span>
-					</div>
-				<div class="stars-today">⭐ 3449 stars this week</div>
 				</div>
 			</div>
 	
@@ -184,76 +96,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 C#</span>
-						<span>⭐ 16404</span>
-						<span>🔱 1102</span>
+						<span>⭐ 16441</span>
+						<span>🔱 1104</span>
 					</div>
 				<div class="stars-today">⭐ 7596 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/diegosouzapw/OmniRoute" target="_blank">
-    
-
-
-      
-        diegosouzapw /
-
-      OmniRoute</a></p>
-				<p>
-      Never stop coding. Free AI gateway: one endpoint, 231+ providers (50+ free), connect Claude Code, Codex, Cursor, Cline & Copilot to FREE Claude/GPT/Gemini. RTK+Caveman stacked compression saves 15-95% tokens, smart auto-fallback, MCP/A2A, multimodal APIs, Desktop/PWA.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 17057</span>
-						<span>🔱 2582</span>
-					</div>
-				<div class="stars-today">⭐ 4345 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/asgeirtj/system_prompts_leaks" target="_blank">
-    
-
-
-      
-        asgeirtj /
-
-      system_prompts_leaks</a></p>
-				<p>
-      Extracted system prompts from Anthropic - Claude Fable 5, Opus 4.8, Claude Code, Claude Design. OpenAI - ChatGPT GPT-5.6, Codex GPT-5.6, GPT-5.5. Google - Gemini 3.5 Flash, 3.1 Pro, Antigravity. xAI - Grok, Cursor, Copilot, VS Code, Perplexity, and more. Updated regularly.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 JavaScript</span>
-						<span>⭐ 57527</span>
-						<span>🔱 9507</span>
-					</div>
-				<div class="stars-today">⭐ 6284 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/bradautomates/claude-video" target="_blank">
-    
-
-
-      
-        bradautomates /
-
-      claude-video</a></p>
-				<p>
-      Give Claude the ability to watch any video. /watch downloads, extracts frames, transcribes, hands it all to Claude.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 8305</span>
-						<span>🔱 909</span>
-					</div>
-				<div class="stars-today">⭐ 4128 stars this week</div>
 				</div>
 			</div>
 	
@@ -272,10 +118,120 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 18721</span>
-						<span>🔱 1471</span>
+						<span>⭐ 18779</span>
+						<span>🔱 1475</span>
 					</div>
 				<div class="stars-today">⭐ 5263 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/TencentCloud/CubeSandbox" target="_blank">
+    
+
+
+      
+        TencentCloud /
+
+      CubeSandbox</a></p>
+				<p>
+      Instant, Concurrent, Secure & Lightweight Sandbox for AI Agents.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Rust</span>
+						<span>⭐ 10097</span>
+						<span>🔱 989</span>
+					</div>
+				<div class="stars-today">⭐ 2367 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/ogulcancelik/herdr" target="_blank">
+    
+
+
+      
+        ogulcancelik /
+
+      herdr</a></p>
+				<p>
+      agent multiplexer that lives in your terminal.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Rust</span>
+						<span>⭐ 16288</span>
+						<span>🔱 1106</span>
+					</div>
+				<div class="stars-today">⭐ 3449 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/diegosouzapw/OmniRoute" target="_blank">
+    
+
+
+      
+        diegosouzapw /
+
+      OmniRoute</a></p>
+				<p>
+      Never stop coding. Free AI gateway: one endpoint, 231+ providers (50+ free), connect Claude Code, Codex, Cursor, Cline & Copilot to FREE Claude/GPT/Gemini. RTK+Caveman stacked compression saves 15-95% tokens, smart auto-fallback, MCP/A2A, multimodal APIs, Desktop/PWA.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 17096</span>
+						<span>🔱 2585</span>
+					</div>
+				<div class="stars-today">⭐ 4345 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/openai/codex-plugin-cc" target="_blank">
+    
+
+
+      
+        openai /
+
+      codex-plugin-cc</a></p>
+				<p>
+      Use Codex from Claude Code to review code or delegate tasks.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 JavaScript</span>
+						<span>⭐ 28529</span>
+						<span>🔱 1879</span>
+					</div>
+				<div class="stars-today">⭐ 2265 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/bradautomates/claude-video" target="_blank">
+    
+
+
+      
+        bradautomates /
+
+      claude-video</a></p>
+				<p>
+      Give Claude the ability to watch any video. /watch downloads, extracts frames, transcribes, hands it all to Claude.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 8334</span>
+						<span>🔱 909</span>
+					</div>
+				<div class="stars-today">⭐ 4128 stars this week</div>
 				</div>
 			</div>
 	
@@ -294,10 +250,54 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 JavaScript</span>
-						<span>⭐ 4355</span>
-						<span>🔱 396</span>
+						<span>⭐ 4370</span>
+						<span>🔱 399</span>
 					</div>
 				<div class="stars-today">⭐ 1333 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/Zackriya-Solutions/meetily" target="_blank">
+    
+
+
+      
+        Zackriya-Solutions /
+
+      meetily</a></p>
+				<p>
+      Privacy first, AI meeting assistant with 4x faster Parakeet/Whisper live transcription, speaker diarization, and Ollama summarization built on Rust. 100% local processing. no cloud required. Meetily (Meetly Ai - https://meetily.ai) is the #1 Self-hosted, Open-source Ai meeting note taker for macOS & Windows. Understand How to write meeting minutes
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Rust</span>
+						<span>⭐ 24430</span>
+						<span>🔱 2550</span>
+					</div>
+				<div class="stars-today">⭐ 5392 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/pbakaus/impeccable" target="_blank">
+    
+
+
+      
+        pbakaus /
+
+      impeccable</a></p>
+				<p>
+      The design language that makes your AI harness better at design.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 JavaScript</span>
+						<span>⭐ 46523</span>
+						<span>🔱 2807</span>
+					</div>
+				<div class="stars-today">⭐ 2450 stars this week</div>
 				</div>
 			</div>
 	
@@ -316,76 +316,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 8832</span>
-						<span>🔱 735</span>
+						<span>⭐ 8856</span>
+						<span>🔱 736</span>
 					</div>
 				<div class="stars-today">⭐ 2255 stars this week</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/usestrix/strix" target="_blank">
+				<p><a href="https://github.com/oven-sh/bun" target="_blank">
     
 
 
       
-        usestrix /
+        oven-sh /
 
-      strix</a></p>
+      bun</a></p>
 				<p>
-      Open-source AI penetration testing tool to find and fix your app’s vulnerabilities.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 41336</span>
-						<span>🔱 4346</span>
-					</div>
-				<div class="stars-today">⭐ 3403 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/alibaba/page-agent" target="_blank">
-    
-
-
-      
-        alibaba /
-
-      page-agent</a></p>
-				<p>
-      JavaScript in-page GUI agent. Control web interfaces with natural language.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 26540</span>
-						<span>🔱 2435</span>
-					</div>
-				<div class="stars-today">⭐ 1950 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/ruvnet/RuView" target="_blank">
-    
-
-
-      
-        ruvnet /
-
-      RuView</a></p>
-				<p>
-      π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.
+      Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Rust</span>
-						<span>⭐ 80570</span>
-						<span>🔱 10848</span>
+						<span>⭐ 94684</span>
+						<span>🔱 4964</span>
 					</div>
-				<div class="stars-today">⭐ 3403 stars this week</div>
+				<div class="stars-today">⭐ 1228 stars this week</div>
 				</div>
 			</div>
 	
@@ -404,10 +360,54 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Go</span>
-						<span>⭐ 20495</span>
-						<span>🔱 2714</span>
+						<span>⭐ 20504</span>
+						<span>🔱 2717</span>
 					</div>
 				<div class="stars-today">⭐ 2199 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/TencentCloud/TencentDB-Agent-Memory" target="_blank">
+    
+
+
+      
+        TencentCloud /
+
+      TencentDB-Agent-Memory</a></p>
+				<p>
+      TencentDB Agent Memory delivers fully local long-term memory for AI Agents via a 4-tier progressive pipeline, with zero external API dependencies.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 8794</span>
+						<span>🔱 806</span>
+					</div>
+				<div class="stars-today">⭐ 2231 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/Nutlope/hallmark" target="_blank">
+    
+
+
+      
+        Nutlope /
+
+      hallmark</a></p>
+				<p>
+      Anti-AI-slop design skill for Claude Code, Cursor, and Codex.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 CSS</span>
+						<span>⭐ 5680</span>
+						<span>🔱 330</span>
+					</div>
+				<div class="stars-today">⭐ 1558 stars this week</div>
 				</div>
 			</div>
 	
@@ -427,31 +427,31 @@ keywords:
 					<div>
 						<span>🔠 Go</span>
 						<span>⭐ 23691</span>
-						<span>🔱 7614</span>
+						<span>🔱 7615</span>
 					</div>
 				<div class="stars-today">⭐ 342 stars this week</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/pbakaus/impeccable" target="_blank">
+				<p><a href="https://github.com/Shubhamsaboo/awesome-llm-apps" target="_blank">
     
 
 
       
-        pbakaus /
+        Shubhamsaboo /
 
-      impeccable</a></p>
+      awesome-llm-apps</a></p>
 				<p>
-      The design language that makes your AI harness better at design.
+      100+ AI Agent & RAG apps you can actually run — clone, customize, ship.
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 JavaScript</span>
-						<span>⭐ 46507</span>
-						<span>🔱 2807</span>
+						<span>🔠 Python</span>
+						<span>⭐ 120217</span>
+						<span>🔱 17821</span>
 					</div>
-				<div class="stars-today">⭐ 2450 stars this week</div>
+				<div class="stars-today">⭐ 2860 stars this week</div>
 				</div>
 			</div>
 	
