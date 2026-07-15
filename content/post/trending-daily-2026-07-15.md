@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2026-07-15
-date: 2026-07-15T09:43:49Z
+date: 2026-07-15T11:16:25Z
 categories:
 - daily
 keywords:
@@ -14,50 +14,6 @@ keywords:
 	<main class="container">
         <div class="repo-list" id="repoList">
 
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/Shubhamsaboo/awesome-llm-apps" target="_blank">
-    
-
-
-      
-        Shubhamsaboo /
-
-      awesome-llm-apps</a></p>
-				<p>
-      100+ AI Agent & RAG apps you can actually run — clone, customize, ship.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 121427</span>
-						<span>🔱 17938</span>
-					</div>
-				<div class="stars-today">⭐ 1106 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/mattpocock/skills" target="_blank">
-    
-
-
-      
-        mattpocock /
-
-      skills</a></p>
-				<p>
-      Skills for Real Engineers. Straight from my .claude directory.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Shell</span>
-						<span>⭐ 171283</span>
-						<span>🔱 14720</span>
-					</div>
-				<div class="stars-today">⭐ 1679 stars today</div>
-				</div>
-			</div>
 	
 			<div class="repo-card">
 				<p><a href="https://github.com/OpenCut-app/OpenCut" target="_blank">
@@ -74,32 +30,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 69761</span>
-						<span>🔱 7239</span>
+						<span>⭐ 69852</span>
+						<span>🔱 7249</span>
 					</div>
 				<div class="stars-today">⭐ 4276 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/virattt/ai-hedge-fund" target="_blank">
-    
-
-
-      
-        virattt /
-
-      ai-hedge-fund</a></p>
-				<p>
-      An AI Hedge Fund Team
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 62064</span>
-						<span>🔱 10928</span>
-					</div>
-				<div class="stars-today">⭐ 109 stars today</div>
 				</div>
 			</div>
 	
@@ -118,10 +52,76 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 CSS</span>
-						<span>⭐ 6529</span>
-						<span>🔱 362</span>
+						<span>⭐ 6618</span>
+						<span>🔱 367</span>
 					</div>
 				<div class="stars-today">⭐ 1015 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/mattpocock/skills" target="_blank">
+    
+
+
+      
+        mattpocock /
+
+      skills</a></p>
+				<p>
+      Skills for Real Engineers. Straight from my .claude directory.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Shell</span>
+						<span>⭐ 171410</span>
+						<span>🔱 14726</span>
+					</div>
+				<div class="stars-today">⭐ 1679 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/moeru-ai/airi" target="_blank">
+    
+
+
+      
+        moeru-ai /
+
+      airi</a></p>
+				<p>
+      💖🧸 Self hosted, you-owned Grok Companion, a container of souls of waifu, cyber livings to bring them into our worlds, wishing to achieve Neuro-sama's altitude. Capable of realtime voice chat, Minecraft, Factorio playing. Web / macOS / Windows supported.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 42307</span>
+						<span>🔱 4237</span>
+					</div>
+				<div class="stars-today">⭐ 537 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/Dicklesworthstone/destructive_command_guard" target="_blank">
+    
+
+
+      
+        Dicklesworthstone /
+
+      destructive_command_guard</a></p>
+				<p>
+      The Destructive Command Guard (dcg) is for blocking dangerous git and shell commands from being executed by agents.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Rust</span>
+						<span>⭐ 4554</span>
+						<span>🔱 169</span>
+					</div>
+				<div class="stars-today">⭐ 473 stars today</div>
 				</div>
 			</div>
 	
@@ -140,98 +140,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 23250</span>
-						<span>🔱 3985</span>
+						<span>⭐ 23298</span>
+						<span>🔱 3992</span>
 					</div>
 				<div class="stars-today">⭐ 1256 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/Raphire/Win11Debloat" target="_blank">
+				<p><a href="https://github.com/openinterpreter/openinterpreter" target="_blank">
     
 
 
       
-        Raphire /
+        openinterpreter /
 
-      Win11Debloat</a></p>
+      openinterpreter</a></p>
 				<p>
-      A simple, lightweight PowerShell script that allows you to remove pre-installed apps, disable telemetry, as well as perform various other changes to declutter and customize your Windows experience. Win11Debloat works for both Windows 10 and Windows 11.
+      A coding agent for low-cost models
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 PowerShell</span>
-						<span>⭐ 52065</span>
-						<span>🔱 2146</span>
+						<span>🔠 Rust</span>
+						<span>⭐ 65119</span>
+						<span>🔱 5639</span>
 					</div>
-				<div class="stars-today">⭐ 783 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/hasaneyldrm/exercises-dataset" target="_blank">
-    
-
-
-      
-        hasaneyldrm /
-
-      exercises-dataset</a></p>
-				<p>
-      1,324-exercise fitness dataset — animation GIFs, 180×180 thumbnails, muscle-group & equipment data, and step-by-step instructions in 6 languages. The exercise data layer behind the LogPress app.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 HTML</span>
-						<span>⭐ 13932</span>
-						<span>🔱 1666</span>
-					</div>
-				<div class="stars-today">⭐ 851 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/penpot/penpot" target="_blank">
-    
-
-
-      
-        penpot /
-
-      penpot</a></p>
-				<p>
-      Penpot: The open-source design platform for Product teams that need scalable collaboration.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Clojure</span>
-						<span>⭐ 56377</span>
-						<span>🔱 3698</span>
-					</div>
-				<div class="stars-today">⭐ 395 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/AIEraDev/Clypra" target="_blank">
-    
-
-
-      
-        AIEraDev /
-
-      Clypra</a></p>
-				<p>
-      A modern video editor built with Tauri, React, and TypeScript. Focus on building free capabilities of premium capcut functionalities
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 2790</span>
-						<span>🔱 283</span>
-					</div>
-				<div class="stars-today">⭐ 85 stars today</div>
+				<div class="stars-today">⭐ 607 stars today</div>
 				</div>
 			</div>
 	
@@ -250,54 +184,54 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 C#</span>
-						<span>⭐ 2343</span>
-						<span>🔱 155</span>
+						<span>⭐ 2385</span>
+						<span>🔱 160</span>
 					</div>
 				<div class="stars-today">⭐ 332 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/chenyme/grok2api" target="_blank">
+				<p><a href="https://github.com/1c7/chinese-independent-developer" target="_blank">
     
 
 
       
-        chenyme /
+        1c7 /
 
-      grok2api</a></p>
+      chinese-independent-developer</a></p>
 				<p>
-      面向 Grok Build、Grok Web 与 Grok Console 的多账号 API 网关
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Go</span>
-						<span>⭐ 5983</span>
-						<span>🔱 1939</span>
-					</div>
-				<div class="stars-today">⭐ 186 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/Graphify-Labs/graphify" target="_blank">
-    
-
-
-      
-        Graphify-Labs /
-
-      graphify</a></p>
-				<p>
-      AI coding assistant skill (Claude Code, Codex, OpenCode, Cursor, Gemini CLI, and more). Turn any folder of code, SQL schemas, R scripts, shell scripts, docs, papers, images, or videos into a queryable knowledge graph. App code + database schema + infrastructure in one graph.
+      👩🏿‍💻👨🏾‍💻👩🏼‍💻👨🏽‍💻👩🏻‍💻中国独立开发者项目列表 -- 分享大家都在做什么
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 87068</span>
-						<span>🔱 8557</span>
+						<span>⭐ 55693</span>
+						<span>🔱 4836</span>
 					</div>
-				<div class="stars-today">⭐ 1851 stars today</div>
+				<div class="stars-today">⭐ 1196 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/HKUDS/DeepTutor" target="_blank">
+    
+
+
+      
+        HKUDS /
+
+      DeepTutor</a></p>
+				<p>
+      DeepTutor: Lifelong Personalized Tutoring. https://deeptutor.info/.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 26004</span>
+						<span>🔱 3545</span>
+					</div>
+				<div class="stars-today">⭐ 128 stars today</div>
 				</div>
 			</div>
 	
@@ -316,10 +250,98 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 5567</span>
-						<span>🔱 724</span>
+						<span>⭐ 5608</span>
+						<span>🔱 727</span>
 					</div>
 				<div class="stars-today">⭐ 112 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/Shubhamsaboo/awesome-llm-apps" target="_blank">
+    
+
+
+      
+        Shubhamsaboo /
+
+      awesome-llm-apps</a></p>
+				<p>
+      100+ AI Agent & RAG apps you can actually run — clone, customize, ship.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 121488</span>
+						<span>🔱 17947</span>
+					</div>
+				<div class="stars-today">⭐ 1106 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/coreyhaines31/marketingskills" target="_blank">
+    
+
+
+      
+        coreyhaines31 /
+
+      marketingskills</a></p>
+				<p>
+      Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics, and growth engineering.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 JavaScript</span>
+						<span>⭐ 39354</span>
+						<span>🔱 6283</span>
+					</div>
+				<div class="stars-today">⭐ 869 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/YimMenu/YimMenuV2" target="_blank">
+    
+
+
+      
+        YimMenu /
+
+      YimMenuV2</a></p>
+				<p>
+      Experimental menu for GTA 5: Enhanced
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 C++</span>
+						<span>⭐ 1353</span>
+						<span>🔱 348</span>
+					</div>
+				<div class="stars-today">⭐ 21 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/hasaneyldrm/exercises-dataset" target="_blank">
+    
+
+
+      
+        hasaneyldrm /
+
+      exercises-dataset</a></p>
+				<p>
+      1,324-exercise fitness dataset — animation GIFs, 180×180 thumbnails, muscle-group & equipment data, and step-by-step instructions in 6 languages. The exercise data layer behind the LogPress app.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 HTML</span>
+						<span>⭐ 13984</span>
+						<span>🔱 1671</span>
+					</div>
+				<div class="stars-today">⭐ 851 stars today</div>
 				</div>
 			</div>
 	
