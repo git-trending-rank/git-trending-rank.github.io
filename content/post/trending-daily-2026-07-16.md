@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2026-07-16
-date: 2026-07-16T09:49:44Z
+date: 2026-07-16T11:22:14Z
 categories:
 - daily
 keywords:
@@ -16,24 +16,24 @@ keywords:
 
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/OpenCut-app/OpenCut" target="_blank">
+				<p><a href="https://github.com/apache/ossie" target="_blank">
     
 
 
       
-        OpenCut-app /
+        apache /
 
-      OpenCut</a></p>
+      ossie</a></p>
 				<p>
-      The open-source CapCut alternative
+      Apache Ossie, industry wide specification effort to standardize how we exchange semantic metadata across analytics, AI and BI platforms, providing a vendor neutral, single source of truth for semantic data
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 73235</span>
-						<span>🔱 7434</span>
+						<span>🔠 Python</span>
+						<span>⭐ 729</span>
+						<span>🔱 124</span>
 					</div>
-				<div class="stars-today">⭐ 1664 stars today</div>
+				<div class="stars-today">⭐ 34 stars today</div>
 				</div>
 			</div>
 	
@@ -52,98 +52,54 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 CSS</span>
-						<span>⭐ 9898</span>
-						<span>🔱 496</span>
+						<span>⭐ 10080</span>
+						<span>🔱 506</span>
 					</div>
 				<div class="stars-today">⭐ 1277 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/mattpocock/skills" target="_blank">
+				<p><a href="https://github.com/OpenCut-app/OpenCut" target="_blank">
     
 
 
       
-        mattpocock /
+        OpenCut-app /
 
-      skills</a></p>
+      OpenCut</a></p>
 				<p>
-      Skills for Real Engineers. Straight from my .claude directory.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Shell</span>
-						<span>⭐ 173277</span>
-						<span>🔱 14868</span>
-					</div>
-				<div class="stars-today">⭐ 2130 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/moeru-ai/airi" target="_blank">
-    
-
-
-      
-        moeru-ai /
-
-      airi</a></p>
-				<p>
-      💖🧸 Self hosted, you-owned Grok Companion, a container of souls of waifu, cyber livings to bring them into our worlds, wishing to achieve Neuro-sama's altitude. Capable of realtime voice chat, Minecraft, Factorio playing. Web / macOS / Windows supported.
+      The open-source CapCut alternative
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 42717</span>
-						<span>🔱 4267</span>
+						<span>⭐ 73437</span>
+						<span>🔱 7451</span>
 					</div>
-				<div class="stars-today">⭐ 110 stars today</div>
+				<div class="stars-today">⭐ 1664 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/Dicklesworthstone/destructive_command_guard" target="_blank">
+				<p><a href="https://github.com/PostHog/posthog" target="_blank">
     
 
 
       
-        Dicklesworthstone /
+        PostHog /
 
-      destructive_command_guard</a></p>
+      posthog</a></p>
 				<p>
-      The Destructive Command Guard (dcg) is for blocking dangerous git and shell commands from being executed by agents.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Rust</span>
-						<span>⭐ 4941</span>
-						<span>🔱 185</span>
-					</div>
-				<div class="stars-today">⭐ 471 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/HKUDS/Vibe-Trading" target="_blank">
-    
-
-
-      
-        HKUDS /
-
-      Vibe-Trading</a></p>
-				<p>
-      "Vibe-Trading: Your Personal Trading Agent"
+      🦔 PostHog is an all-in-one developer platform for building successful products. We offer product analytics, web analytics, session replay, error tracking, feature flags, experimentation, surveys, data warehouse, a CDP, and an AI product assistant to help debug your code, ship features faster, and keep all your usage and customer data in one stack.
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 24066</span>
-						<span>🔱 4082</span>
+						<span>⭐ 35593</span>
+						<span>🔱 2979</span>
 					</div>
-				<div class="stars-today">⭐ 915 stars today</div>
+				<div class="stars-today">⭐ 58 stars today</div>
 				</div>
 			</div>
 	
@@ -162,120 +118,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Rust</span>
-						<span>⭐ 65732</span>
-						<span>🔱 5664</span>
+						<span>⭐ 65771</span>
+						<span>🔱 5665</span>
 					</div>
 				<div class="stars-today">⭐ 299 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/HKUDS/DeepTutor" target="_blank">
+				<p><a href="https://github.com/PrismML-Eng/Bonsai-demo" target="_blank">
     
 
 
       
-        HKUDS /
+        PrismML-Eng /
 
-      DeepTutor</a></p>
+      Bonsai-demo</a></p>
 				<p>
-      DeepTutor: Lifelong Personalized Tutoring. https://deeptutor.info/.
+      Bonsai Demo
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 26591</span>
-						<span>🔱 3592</span>
+						<span>🔠 Shell</span>
+						<span>⭐ 1362</span>
+						<span>🔱 149</span>
 					</div>
-				<div class="stars-today">⭐ 172 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/HenryNdubuaku/maths-cs-ai-compendium" target="_blank">
-    
-
-
-      
-        HenryNdubuaku /
-
-      maths-cs-ai-compendium</a></p>
-				<p>
-      Become a cracked AI/ML Research Engineer
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 6152</span>
-						<span>🔱 765</span>
-					</div>
-				<div class="stars-today">⭐ 725 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/Shubhamsaboo/awesome-llm-apps" target="_blank">
-    
-
-
-      
-        Shubhamsaboo /
-
-      awesome-llm-apps</a></p>
-				<p>
-      100+ AI Agent & RAG apps you can actually run — clone, customize, ship.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 122323</span>
-						<span>🔱 18039</span>
-					</div>
-				<div class="stars-today">⭐ 1236 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/coreyhaines31/marketingskills" target="_blank">
-    
-
-
-      
-        coreyhaines31 /
-
-      marketingskills</a></p>
-				<p>
-      Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics, and growth engineering.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 JavaScript</span>
-						<span>⭐ 40050</span>
-						<span>🔱 6335</span>
-					</div>
-				<div class="stars-today">⭐ 340 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/YimMenu/YimMenuV2" target="_blank">
-    
-
-
-      
-        YimMenu /
-
-      YimMenuV2</a></p>
-				<p>
-      Experimental menu for GTA 5: Enhanced
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 C++</span>
-						<span>⭐ 1474</span>
-						<span>🔱 356</span>
-					</div>
-				<div class="stars-today">⭐ 38 stars today</div>
+				<div class="stars-today">⭐ 323 stars today</div>
 				</div>
 			</div>
 	
@@ -294,10 +162,230 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 HTML</span>
-						<span>⭐ 14658</span>
-						<span>🔱 1757</span>
+						<span>⭐ 14694</span>
+						<span>🔱 1761</span>
 					</div>
 				<div class="stars-today">⭐ 949 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/Shubhamsaboo/awesome-llm-apps" target="_blank">
+    
+
+
+      
+        Shubhamsaboo /
+
+      awesome-llm-apps</a></p>
+				<p>
+      100+ AI Agent & RAG apps you can actually run — clone, customize, ship.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 122381</span>
+						<span>🔱 18047</span>
+					</div>
+				<div class="stars-today">⭐ 1236 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/lobehub/lobehub" target="_blank">
+    
+
+
+      
+        lobehub /
+
+      lobehub</a></p>
+				<p>
+      🤯 LobeHub is your Chief Agent Operator, organizing your agents into 7×24 operations by hiring, scheduling, and reporting on your entire AI team.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 79919</span>
+						<span>🔱 15597</span>
+					</div>
+				<div class="stars-today">⭐ 51 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/YimMenu/YimMenuV2" target="_blank">
+    
+
+
+      
+        YimMenu /
+
+      YimMenuV2</a></p>
+				<p>
+      Experimental menu for GTA 5: Enhanced
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 C++</span>
+						<span>⭐ 1479</span>
+						<span>🔱 357</span>
+					</div>
+				<div class="stars-today">⭐ 38 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/HKUDS/DeepTutor" target="_blank">
+    
+
+
+      
+        HKUDS /
+
+      DeepTutor</a></p>
+				<p>
+      DeepTutor: Lifelong Personalized Tutoring. https://deeptutor.info/.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 26639</span>
+						<span>🔱 3597</span>
+					</div>
+				<div class="stars-today">⭐ 172 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/mattpocock/skills" target="_blank">
+    
+
+
+      
+        mattpocock /
+
+      skills</a></p>
+				<p>
+      Skills for Real Engineers. Straight from my .claude directory.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Shell</span>
+						<span>⭐ 173419</span>
+						<span>🔱 14875</span>
+					</div>
+				<div class="stars-today">⭐ 2130 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/github/copilot-sdk" target="_blank">
+    
+
+
+      
+        github /
+
+      copilot-sdk</a></p>
+				<p>
+      Multi-platform SDK for integrating GitHub Copilot Agent into apps and services
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Java</span>
+						<span>⭐ 9511</span>
+						<span>🔱 1307</span>
+					</div>
+				<div class="stars-today">⭐ 8 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/ibelick/ui-skills" target="_blank">
+    
+
+
+      
+        ibelick /
+
+      ui-skills</a></p>
+				<p>
+      Skills for Design Engineers
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 3891</span>
+						<span>🔱 163</span>
+					</div>
+				<div class="stars-today">⭐ 141 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/Graphify-Labs/graphify" target="_blank">
+    
+
+
+      
+        Graphify-Labs /
+
+      graphify</a></p>
+				<p>
+      AI coding assistant skill (Claude Code, Codex, OpenCode, Cursor, Gemini CLI, and more). Turn any folder of code, SQL schemas, R scripts, shell scripts, docs, papers, images, or videos into a queryable knowledge graph. App code + database schema + infrastructure in one graph.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 88258</span>
+						<span>🔱 8642</span>
+					</div>
+				<div class="stars-today">⭐ 1623 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/codecrafters-io/build-your-own-x" target="_blank">
+    
+
+
+      
+        codecrafters-io /
+
+      build-your-own-x</a></p>
+				<p>
+      Master programming by recreating your favorite technologies from scratch.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Markdown</span>
+						<span>⭐ 525794</span>
+						<span>🔱 49745</span>
+					</div>
+				<div class="stars-today">⭐ 464 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/ossu/computer-science" target="_blank">
+    
+
+
+      
+        ossu /
+
+      computer-science</a></p>
+				<p>
+      🎓 Path to a free self-taught education in Computer Science!
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 HTML</span>
+						<span>⭐ 206212</span>
+						<span>🔱 25615</span>
+					</div>
+				<div class="stars-today">⭐ 125 stars today</div>
 				</div>
 			</div>
 	

@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2026年7月
-date: 2026-07-16T09:49:44Z
+date: 2026-07-16T11:22:14Z
 categories:
 - monthly
 keywords:
@@ -30,8 +30,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 39120</span>
-						<span>🔱 4734</span>
+						<span>⭐ 39137</span>
+						<span>🔱 4738</span>
 					</div>
 				<div class="stars-today">⭐ 34298 stars this month</div>
 				</div>
@@ -52,32 +52,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 C</span>
-						<span>⭐ 32027</span>
-						<span>🔱 2560</span>
+						<span>⭐ 32047</span>
+						<span>🔱 2564</span>
 					</div>
 				<div class="stars-today">⭐ 28343 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/catchorg/Catch2" target="_blank">
-    
-
-
-      
-        catchorg /
-
-      Catch2</a></p>
-				<p>
-      A modern, C++-native, test framework for unit-tests, TDD and BDD - using C++14, C++17 and later (C++11 support is in v2.x branch, and C++03 on the Catch1.x branch)
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 C++</span>
-						<span>⭐ 21303</span>
-						<span>🔱 3451</span>
-					</div>
-				<div class="stars-today">⭐ 908 stars this month</div>
 				</div>
 			</div>
 	
@@ -96,8 +74,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 JavaScript</span>
-						<span>⭐ 58239</span>
-						<span>🔱 9625</span>
+						<span>⭐ 58255</span>
+						<span>🔱 9628</span>
 					</div>
 				<div class="stars-today">⭐ 15928 stars this month</div>
 				</div>
@@ -118,7 +96,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Go</span>
-						<span>⭐ 6343</span>
+						<span>⭐ 6350</span>
 						<span>🔱 561</span>
 					</div>
 				<div class="stars-today">⭐ 4964 stars this month</div>
@@ -140,32 +118,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 41989</span>
-						<span>🔱 4408</span>
+						<span>⭐ 42016</span>
+						<span>🔱 4410</span>
 					</div>
 				<div class="stars-today">⭐ 15974 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/Panniantong/Agent-Reach" target="_blank">
-    
-
-
-      
-        Panniantong /
-
-      Agent-Reach</a></p>
-				<p>
-      Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 57028</span>
-						<span>🔱 4685</span>
-					</div>
-				<div class="stars-today">⭐ 27531 stars this month</div>
 				</div>
 			</div>
 	
@@ -184,8 +140,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 20289</span>
-						<span>🔱 1586</span>
+						<span>⭐ 20333</span>
+						<span>🔱 1589</span>
 					</div>
 				<div class="stars-today">⭐ 14890 stars this month</div>
 				</div>
@@ -206,7 +162,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Rust</span>
-						<span>⭐ 17014</span>
+						<span>⭐ 17035</span>
 						<span>🔱 1146</span>
 					</div>
 				<div class="stars-today">⭐ 11079 stars this month</div>
@@ -228,8 +184,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Rust</span>
-						<span>⭐ 25094</span>
-						<span>🔱 2621</span>
+						<span>⭐ 25109</span>
+						<span>🔱 2625</span>
 					</div>
 				<div class="stars-today">⭐ 12267 stars this month</div>
 				</div>
@@ -250,32 +206,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 17901</span>
-						<span>🔱 2660</span>
+						<span>⭐ 17919</span>
+						<span>🔱 2665</span>
 					</div>
 				<div class="stars-today">⭐ 11484 stars this month</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/gabime/spdlog" target="_blank">
+				<p><a href="https://github.com/Panniantong/Agent-Reach" target="_blank">
     
 
 
       
-        gabime /
+        Panniantong /
 
-      spdlog</a></p>
+      Agent-Reach</a></p>
 				<p>
-      Fast C++ logging library.
+      Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 C++</span>
-						<span>⭐ 29243</span>
-						<span>🔱 5331</span>
+						<span>🔠 Python</span>
+						<span>⭐ 57068</span>
+						<span>🔱 4687</span>
 					</div>
-				<div class="stars-today">⭐ 357 stars this month</div>
+				<div class="stars-today">⭐ 27531 stars this month</div>
 				</div>
 			</div>
 	
@@ -294,32 +250,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 26829</span>
-						<span>🔱 2465</span>
+						<span>⭐ 26833</span>
+						<span>🔱 2466</span>
 					</div>
 				<div class="stars-today">⭐ 8322 stars this month</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/GoogleCloudPlatform/knowledge-catalog" target="_blank">
+				<p><a href="https://github.com/gabime/spdlog" target="_blank">
     
 
 
       
-        GoogleCloudPlatform /
+        gabime /
 
-      knowledge-catalog</a></p>
+      spdlog</a></p>
 				<p>
-      Google Cloud Knowledge Catalog Tools and Samples
+      Fast C++ logging library.
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 HTML</span>
-						<span>⭐ 7173</span>
-						<span>🔱 586</span>
+						<span>🔠 C++</span>
+						<span>⭐ 29245</span>
+						<span>🔱 5331</span>
 					</div>
-				<div class="stars-today">⭐ 5364 stars this month</div>
+				<div class="stars-today">⭐ 357 stars this month</div>
 				</div>
 			</div>
 	
@@ -338,32 +294,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 5977</span>
-						<span>🔱 1172</span>
+						<span>⭐ 5985</span>
+						<span>🔱 1173</span>
 					</div>
 				<div class="stars-today">⭐ 4793 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/simplex-chat/simplex-chat" target="_blank">
-    
-
-
-      
-        simplex-chat /
-
-      simplex-chat</a></p>
-				<p>
-      SimpleX - the first messaging network operating without user identifiers of any kind - 100% private by design! iOS, Android and desktop apps 📱!
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Haskell</span>
-						<span>⭐ 18696</span>
-						<span>🔱 1265</span>
-					</div>
-				<div class="stars-today">⭐ 7565 stars this month</div>
 				</div>
 			</div>
 	
@@ -382,7 +316,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 C++</span>
-						<span>⭐ 74728</span>
+						<span>⭐ 74732</span>
 						<span>🔱 12014</span>
 					</div>
 				<div class="stars-today">⭐ 954 stars this month</div>
@@ -390,46 +324,24 @@ keywords:
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/wonderwhy-er/DesktopCommanderMCP" target="_blank">
+				<p><a href="https://github.com/simplex-chat/simplex-chat" target="_blank">
     
 
 
       
-        wonderwhy-er /
+        simplex-chat /
 
-      DesktopCommanderMCP</a></p>
+      simplex-chat</a></p>
 				<p>
-      This is MCP server for Claude that gives it terminal control, file system search and diff file editing capabilities
+      SimpleX - the first messaging network operating without user identifiers of any kind - 100% private by design! iOS, Android and desktop apps 📱!
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 8385</span>
-						<span>🔱 1011</span>
+						<span>🔠 Haskell</span>
+						<span>⭐ 18703</span>
+						<span>🔱 1265</span>
 					</div>
-				<div class="stars-today">⭐ 2199 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/n0-computer/iroh" target="_blank">
-    
-
-
-      
-        n0-computer /
-
-      iroh</a></p>
-				<p>
-      IP addresses break, dial keys instead. A library that adds QUIC + NAT Traversal to your apps.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Rust</span>
-						<span>⭐ 11772</span>
-						<span>🔱 696</span>
-					</div>
-				<div class="stars-today">⭐ 3068 stars this month</div>
+				<div class="stars-today">⭐ 7565 stars this month</div>
 				</div>
 			</div>
 	
@@ -448,10 +360,120 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 73235</span>
-						<span>🔱 7434</span>
+						<span>⭐ 73437</span>
+						<span>🔱 7451</span>
 					</div>
 				<div class="stars-today">⭐ 14882 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/GoogleCloudPlatform/knowledge-catalog" target="_blank">
+    
+
+
+      
+        GoogleCloudPlatform /
+
+      knowledge-catalog</a></p>
+				<p>
+      Google Cloud Knowledge Catalog Tools and Samples
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 HTML</span>
+						<span>⭐ 7181</span>
+						<span>🔱 586</span>
+					</div>
+				<div class="stars-today">⭐ 5364 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/wonderwhy-er/DesktopCommanderMCP" target="_blank">
+    
+
+
+      
+        wonderwhy-er /
+
+      DesktopCommanderMCP</a></p>
+				<p>
+      This is MCP server for Claude that gives it terminal control, file system search and diff file editing capabilities
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 8391</span>
+						<span>🔱 1012</span>
+					</div>
+				<div class="stars-today">⭐ 2199 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/iOfficeAI/OfficeCLI" target="_blank">
+    
+
+
+      
+        iOfficeAI /
+
+      OfficeCLI</a></p>
+				<p>
+      OfficeCLI is the first and best Office suite purpose-built for AI agents to read, edit, and automate Word, Excel, and PowerPoint files. Free, open-source, single binary, no Office installation required.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 C#</span>
+						<span>⭐ 18130</span>
+						<span>🔱 1203</span>
+					</div>
+				<div class="stars-today">⭐ 10589 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/topoteretes/cognee" target="_blank">
+    
+
+
+      
+        topoteretes /
+
+      cognee</a></p>
+				<p>
+      Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions with a self-hosted knowledge graph engine.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 27973</span>
+						<span>🔱 2765</span>
+					</div>
+				<div class="stars-today">⭐ 10195 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/bradautomates/claude-video" target="_blank">
+    
+
+
+      
+        bradautomates /
+
+      claude-video</a></p>
+				<p>
+      Give Claude the ability to watch any video. /watch downloads, extracts frames, transcribes, hands it all to Claude.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 8704</span>
+						<span>🔱 948</span>
+					</div>
+				<div class="stars-today">⭐ 6608 stars this month</div>
 				</div>
 			</div>
 	
