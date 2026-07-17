@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2026-07-17
-date: 2026-07-17T09:30:42Z
+date: 2026-07-17T11:10:08Z
 categories:
 - daily
 keywords:
@@ -16,68 +16,24 @@ keywords:
 
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/apache/ossie" target="_blank">
+				<p><a href="https://github.com/codecrafters-io/build-your-own-x" target="_blank">
     
 
 
       
-        apache /
+        codecrafters-io /
 
-      ossie</a></p>
+      build-your-own-x</a></p>
 				<p>
-      Apache Ossie, industry wide specification effort to standardize how we exchange semantic metadata across analytics, AI and BI platforms, providing a vendor neutral, single source of truth for semantic data
+      Master programming by recreating your favorite technologies from scratch.
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 1091</span>
-						<span>🔱 142</span>
+						<span>🔠 Markdown</span>
+						<span>⭐ 526776</span>
+						<span>🔱 49854</span>
 					</div>
-				<div class="stars-today">⭐ 60 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/Nutlope/hallmark" target="_blank">
-    
-
-
-      
-        Nutlope /
-
-      hallmark</a></p>
-				<p>
-      Anti-AI-slop design skill for Claude Code, Cursor, and Codex.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 CSS</span>
-						<span>⭐ 11498</span>
-						<span>🔱 569</span>
-					</div>
-				<div class="stars-today">⭐ 3372 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/OpenCut-app/OpenCut" target="_blank">
-    
-
-
-      
-        OpenCut-app /
-
-      OpenCut</a></p>
-				<p>
-      The open-source CapCut alternative
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 74466</span>
-						<span>🔱 7518</span>
-					</div>
-				<div class="stars-today">⭐ 3537 stars today</div>
+				<div class="stars-today">⭐ 435 stars today</div>
 				</div>
 			</div>
 	
@@ -96,186 +52,54 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 36003</span>
-						<span>🔱 3000</span>
+						<span>⭐ 36026</span>
+						<span>🔱 3002</span>
 					</div>
 				<div class="stars-today">⭐ 77 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/openinterpreter/openinterpreter" target="_blank">
+				<p><a href="https://github.com/HenryNdubuaku/maths-cs-ai-compendium" target="_blank">
     
 
 
       
-        openinterpreter /
+        HenryNdubuaku /
 
-      openinterpreter</a></p>
+      maths-cs-ai-compendium</a></p>
 				<p>
-      A coding agent for open models like Kimi K3
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Rust</span>
-						<span>⭐ 66173</span>
-						<span>🔱 5683</span>
-					</div>
-				<div class="stars-today">⭐ 661 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/PrismML-Eng/Bonsai-demo" target="_blank">
-    
-
-
-      
-        PrismML-Eng /
-
-      Bonsai-demo</a></p>
-				<p>
-      Bonsai Demo
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Shell</span>
-						<span>⭐ 1629</span>
-						<span>🔱 158</span>
-					</div>
-				<div class="stars-today">⭐ 196 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/hasaneyldrm/exercises-dataset" target="_blank">
-    
-
-
-      
-        hasaneyldrm /
-
-      exercises-dataset</a></p>
-				<p>
-      1,324-exercise fitness dataset — animation GIFs, 180×180 thumbnails, muscle-group & equipment data, and step-by-step instructions in 6 languages. The exercise data layer behind the LogPress app.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 HTML</span>
-						<span>⭐ 15276</span>
-						<span>🔱 1839</span>
-					</div>
-				<div class="stars-today">⭐ 710 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/Shubhamsaboo/awesome-llm-apps" target="_blank">
-    
-
-
-      
-        Shubhamsaboo /
-
-      awesome-llm-apps</a></p>
-				<p>
-      100+ AI Agent & RAG apps you can actually run — clone, customize, ship.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 123307</span>
-						<span>🔱 18175</span>
-					</div>
-				<div class="stars-today">⭐ 923 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/lobehub/lobehub" target="_blank">
-    
-
-
-      
-        lobehub /
-
-      lobehub</a></p>
-				<p>
-      🤯 LobeHub is your Chief Agent Operator, organizing your agents into 7×24 operations by hiring, scheduling, and reporting on your entire AI team.
+      Become a cracked AI/ML Research Engineer
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 80374</span>
-						<span>🔱 15626</span>
+						<span>⭐ 6349</span>
+						<span>🔱 789</span>
 					</div>
-				<div class="stars-today">⭐ 71 stars today</div>
+				<div class="stars-today">⭐ 511 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/YimMenu/YimMenuV2" target="_blank">
+				<p><a href="https://github.com/Nutlope/hallmark" target="_blank">
     
 
 
       
-        YimMenu /
+        Nutlope /
 
-      YimMenuV2</a></p>
+      hallmark</a></p>
 				<p>
-      Experimental menu for GTA 5: Enhanced
+      Anti-AI-slop design skill for Claude Code, Cursor, and Codex.
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 C++</span>
-						<span>⭐ 1537</span>
-						<span>🔱 363</span>
+						<span>🔠 CSS</span>
+						<span>⭐ 11571</span>
+						<span>🔱 573</span>
 					</div>
-				<div class="stars-today">⭐ 128 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/HKUDS/DeepTutor" target="_blank">
-    
-
-
-      
-        HKUDS /
-
-      DeepTutor</a></p>
-				<p>
-      DeepTutor: Lifelong Personalized Tutoring. https://deeptutor.info/.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 27125</span>
-						<span>🔱 3630</span>
-					</div>
-				<div class="stars-today">⭐ 656 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/mattpocock/skills" target="_blank">
-    
-
-
-      
-        mattpocock /
-
-      skills</a></p>
-				<p>
-      Skills for Real Engineers. Straight from my .claude directory.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Shell</span>
-						<span>⭐ 174989</span>
-						<span>🔱 15004</span>
-					</div>
-				<div class="stars-today">⭐ 2060 stars today</div>
+				<div class="stars-today">⭐ 3372 stars today</div>
 				</div>
 			</div>
 	
@@ -294,98 +118,206 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Java</span>
-						<span>⭐ 9735</span>
-						<span>🔱 1322</span>
+						<span>⭐ 9740</span>
+						<span>🔱 1323</span>
 					</div>
 				<div class="stars-today">⭐ 13 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/ibelick/ui-skills" target="_blank">
+				<p><a href="https://github.com/anthropics/cwc-workshops" target="_blank">
     
 
 
       
-        ibelick /
+        anthropics /
 
-      ui-skills</a></p>
-				<p>
-      Skills for Design Engineers
-    </p>
+      cwc-workshops</a></p>
+				<p></p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 4543</span>
-						<span>🔱 189</span>
+						<span>⭐ 1489</span>
+						<span>🔱 477</span>
 					</div>
-				<div class="stars-today">⭐ 178 stars today</div>
+				<div class="stars-today">⭐ 37 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/Graphify-Labs/graphify" target="_blank">
+				<p><a href="https://github.com/PrismML-Eng/Bonsai-demo" target="_blank">
     
 
 
       
-        Graphify-Labs /
+        PrismML-Eng /
 
-      graphify</a></p>
+      Bonsai-demo</a></p>
 				<p>
-      AI coding assistant skill (Claude Code, Codex, OpenCode, Cursor, Gemini CLI, and more). Turn any folder of code, SQL schemas, R scripts, shell scripts, docs, papers, images, or videos into a queryable knowledge graph. App code + database schema + infrastructure in one graph.
+      Bonsai Demo
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Shell</span>
+						<span>⭐ 1641</span>
+						<span>🔱 161</span>
+					</div>
+				<div class="stars-today">⭐ 196 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/protocolbuffers/protobuf" target="_blank">
+    
+
+
+      
+        protocolbuffers /
+
+      protobuf</a></p>
+				<p>
+      Protocol Buffers - Google's data interchange format
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 C++</span>
+						<span>⭐ 71508</span>
+						<span>🔱 16190</span>
+					</div>
+				<div class="stars-today">⭐ 11 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/tirth8205/code-review-graph" target="_blank">
+    
+
+
+      
+        tirth8205 /
+
+      code-review-graph</a></p>
+				<p>
+      Local-first code intelligence graph for MCP and CLI. Builds a persistent map of your codebase so AI coding tools read only what matters, with benchmarked context reductions on reviews and large-repo workflows.
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 89615</span>
-						<span>🔱 8744</span>
+						<span>⭐ 19583</span>
+						<span>🔱 2099</span>
 					</div>
-				<div class="stars-today">⭐ 1107 stars today</div>
+				<div class="stars-today">⭐ 57 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/codecrafters-io/build-your-own-x" target="_blank">
+				<p><a href="https://github.com/docusealco/docuseal" target="_blank">
     
 
 
       
-        codecrafters-io /
+        docusealco /
 
-      build-your-own-x</a></p>
+      docuseal</a></p>
 				<p>
-      Master programming by recreating your favorite technologies from scratch.
+      Open source DocuSign alternative. Create, fill, and sign digital documents ✍️
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Markdown</span>
-						<span>⭐ 526715</span>
-						<span>🔱 49842</span>
+						<span>🔠 Ruby</span>
+						<span>⭐ 17701</span>
+						<span>🔱 1757</span>
 					</div>
-				<div class="stars-today">⭐ 435 stars today</div>
+				<div class="stars-today">⭐ 152 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/ossu/computer-science" target="_blank">
+				<p><a href="https://github.com/openinterpreter/openinterpreter" target="_blank">
     
 
 
       
-        ossu /
+        openinterpreter /
 
-      computer-science</a></p>
+      openinterpreter</a></p>
 				<p>
-      🎓 Path to a free self-taught education in Computer Science!
+      A coding agent for open models like Kimi K3
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 HTML</span>
-						<span>⭐ 206779</span>
-						<span>🔱 25637</span>
+						<span>🔠 Rust</span>
+						<span>⭐ 66185</span>
+						<span>🔱 5687</span>
 					</div>
-				<div class="stars-today">⭐ 107 stars today</div>
+				<div class="stars-today">⭐ 661 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/RyanCodrai/turbovec" target="_blank">
+    
+
+
+      
+        RyanCodrai /
+
+      turbovec</a></p>
+				<p>
+      A vector index built on TurboQuant, written in Rust with Python bindings
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 13155</span>
+						<span>🔱 1164</span>
+					</div>
+				<div class="stars-today">⭐ 280 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/HKUDS/DeepTutor" target="_blank">
+    
+
+
+      
+        HKUDS /
+
+      DeepTutor</a></p>
+				<p>
+      DeepTutor: Lifelong Personalized Tutoring. https://deeptutor.info/.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 27159</span>
+						<span>🔱 3634</span>
+					</div>
+				<div class="stars-today">⭐ 656 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/OpenCut-app/OpenCut" target="_blank">
+    
+
+
+      
+        OpenCut-app /
+
+      OpenCut</a></p>
+				<p>
+      The open-source CapCut alternative
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 74520</span>
+						<span>🔱 7524</span>
+					</div>
+				<div class="stars-today">⭐ 3537 stars today</div>
 				</div>
 			</div>
 	

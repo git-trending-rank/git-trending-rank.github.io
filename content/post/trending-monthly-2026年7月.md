@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2026年7月
-date: 2026-07-17T09:30:43Z
+date: 2026-07-17T11:10:08Z
 categories:
 - monthly
 keywords:
@@ -30,7 +30,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 39387</span>
+						<span>⭐ 39409</span>
 						<span>🔱 4660</span>
 					</div>
 				<div class="stars-today">⭐ 34552 stars this month</div>
@@ -52,8 +52,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 C</span>
-						<span>⭐ 32257</span>
-						<span>🔱 2469</span>
+						<span>⭐ 32280</span>
+						<span>🔱 2470</span>
 					</div>
 				<div class="stars-today">⭐ 28389 stars this month</div>
 				</div>
@@ -74,8 +74,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 23332</span>
-						<span>🔱 7422</span>
+						<span>⭐ 23363</span>
+						<span>🔱 7436</span>
 					</div>
 				<div class="stars-today">⭐ 19972 stars this month</div>
 				</div>
@@ -96,8 +96,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 JavaScript</span>
-						<span>⭐ 58498</span>
-						<span>🔱 9566</span>
+						<span>⭐ 58517</span>
+						<span>🔱 9568</span>
 					</div>
 				<div class="stars-today">⭐ 15918 stars this month</div>
 				</div>
@@ -118,8 +118,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Go</span>
-						<span>⭐ 6365</span>
-						<span>🔱 475</span>
+						<span>⭐ 6371</span>
+						<span>🔱 476</span>
 					</div>
 				<div class="stars-today">⭐ 5010 stars this month</div>
 				</div>
@@ -140,7 +140,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 42127</span>
+						<span>⭐ 42140</span>
 						<span>🔱 4350</span>
 					</div>
 				<div class="stars-today">⭐ 16246 stars this month</div>
@@ -162,8 +162,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 20847</span>
-						<span>🔱 1508</span>
+						<span>⭐ 20891</span>
+						<span>🔱 1510</span>
 					</div>
 				<div class="stars-today">⭐ 15502 stars this month</div>
 				</div>
@@ -184,7 +184,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Rust</span>
-						<span>⭐ 17385</span>
+						<span>⭐ 17413</span>
 						<span>🔱 1087</span>
 					</div>
 				<div class="stars-today">⭐ 11259 stars this month</div>
@@ -206,7 +206,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Rust</span>
-						<span>⭐ 25207</span>
+						<span>⭐ 25215</span>
 						<span>🔱 2528</span>
 					</div>
 				<div class="stars-today">⭐ 12507 stars this month</div>
@@ -228,32 +228,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 18189</span>
-						<span>🔱 2612</span>
+						<span>⭐ 18206</span>
+						<span>🔱 2615</span>
 					</div>
 				<div class="stars-today">⭐ 11719 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/Panniantong/Agent-Reach" target="_blank">
-    
-
-
-      
-        Panniantong /
-
-      Agent-Reach</a></p>
-				<p>
-      Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 57355</span>
-						<span>🔱 4590</span>
-					</div>
-				<div class="stars-today">⭐ 26023 stars this month</div>
 				</div>
 			</div>
 	
@@ -272,32 +250,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 26865</span>
-						<span>🔱 2349</span>
+						<span>⭐ 26873</span>
+						<span>🔱 2351</span>
 					</div>
 				<div class="stars-today">⭐ 8408 stars this month</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/gabime/spdlog" target="_blank">
+				<p><a href="https://github.com/Panniantong/Agent-Reach" target="_blank">
     
 
 
       
-        gabime /
+        Panniantong /
 
-      spdlog</a></p>
+      Agent-Reach</a></p>
 				<p>
-      Fast C++ logging library.
+      Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 C++</span>
-						<span>⭐ 29156</span>
-						<span>🔱 5247</span>
+						<span>🔠 Python</span>
+						<span>⭐ 57373</span>
+						<span>🔱 4591</span>
 					</div>
-				<div class="stars-today">⭐ 373 stars this month</div>
+				<div class="stars-today">⭐ 26023 stars this month</div>
 				</div>
 			</div>
 	
@@ -316,8 +294,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 5975</span>
-						<span>🔱 1069</span>
+						<span>⭐ 5980</span>
+						<span>🔱 1070</span>
 					</div>
 				<div class="stars-today">⭐ 4889 stars this month</div>
 				</div>
@@ -338,8 +316,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 C++</span>
-						<span>⭐ 74706</span>
-						<span>🔱 11918</span>
+						<span>⭐ 74710</span>
+						<span>🔱 11919</span>
 					</div>
 				<div class="stars-today">⭐ 986 stars this month</div>
 				</div>
@@ -360,10 +338,54 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Haskell</span>
-						<span>⭐ 18650</span>
-						<span>🔱 1170</span>
+						<span>⭐ 18651</span>
+						<span>🔱 1171</span>
 					</div>
 				<div class="stars-today">⭐ 7609 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/BuilderIO/agent-native" target="_blank">
+    
+
+
+      
+        BuilderIO /
+
+      agent-native</a></p>
+				<p>
+      A framework for building agent-native applications.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 3728</span>
+						<span>🔱 360</span>
+					</div>
+				<div class="stars-today">⭐ 3249 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/gabime/spdlog" target="_blank">
+    
+
+
+      
+        gabime /
+
+      spdlog</a></p>
+				<p>
+      Fast C++ logging library.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 C++</span>
+						<span>⭐ 29157</span>
+						<span>🔱 5248</span>
+					</div>
+				<div class="stars-today">⭐ 373 stars this month</div>
 				</div>
 			</div>
 	
@@ -382,54 +404,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 74466</span>
-						<span>🔱 7518</span>
+						<span>⭐ 74520</span>
+						<span>🔱 7524</span>
 					</div>
 				<div class="stars-today">⭐ 17981 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/GoogleCloudPlatform/knowledge-catalog" target="_blank">
-    
-
-
-      
-        GoogleCloudPlatform /
-
-      knowledge-catalog</a></p>
-				<p>
-      Google Cloud Knowledge Catalog Tools and Samples
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 HTML</span>
-						<span>⭐ 7303</span>
-						<span>🔱 591</span>
-					</div>
-				<div class="stars-today">⭐ 4375 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/wonderwhy-er/DesktopCommanderMCP" target="_blank">
-    
-
-
-      
-        wonderwhy-er /
-
-      DesktopCommanderMCP</a></p>
-				<p>
-      This is MCP server for Claude that gives it terminal control, file system search and diff file editing capabilities
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 8423</span>
-						<span>🔱 933</span>
-					</div>
-				<div class="stars-today">⭐ 2298 stars this month</div>
 				</div>
 			</div>
 	
@@ -448,54 +426,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 C#</span>
-						<span>⭐ 18624</span>
-						<span>🔱 1241</span>
+						<span>⭐ 18651</span>
+						<span>🔱 1244</span>
 					</div>
 				<div class="stars-today">⭐ 11065 stars this month</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/topoteretes/cognee" target="_blank">
+				<p><a href="https://github.com/wonderwhy-er/DesktopCommanderMCP" target="_blank">
     
 
 
       
-        topoteretes /
+        wonderwhy-er /
 
-      cognee</a></p>
+      DesktopCommanderMCP</a></p>
 				<p>
-      Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions with a self-hosted knowledge graph engine.
+      This is MCP server for Claude that gives it terminal control, file system search and diff file editing capabilities
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 27968</span>
-						<span>🔱 2672</span>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 8427</span>
+						<span>🔱 934</span>
 					</div>
-				<div class="stars-today">⭐ 10229 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/bradautomates/claude-video" target="_blank">
-    
-
-
-      
-        bradautomates /
-
-      claude-video</a></p>
-				<p>
-      Give Claude the ability to watch any video. /watch downloads, extracts frames, transcribes, hands it all to Claude.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 8888</span>
-						<span>🔱 958</span>
-					</div>
-				<div class="stars-today">⭐ 6697 stars this month</div>
+				<div class="stars-today">⭐ 2298 stars this month</div>
 				</div>
 			</div>
 	
