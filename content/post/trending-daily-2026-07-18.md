@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2026-07-18
-date: 2026-07-18T10:52:01Z
+date: 2026-07-18T12:40:06Z
 categories:
 - daily
 keywords:
@@ -16,24 +16,46 @@ keywords:
 
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/codecrafters-io/build-your-own-x" target="_blank">
+				<p><a href="https://github.com/Robbyant/lingbot-map" target="_blank">
     
 
 
       
-        codecrafters-io /
+        Robbyant /
 
-      build-your-own-x</a></p>
+      lingbot-map</a></p>
 				<p>
-      Master programming by recreating your favorite technologies from scratch.
+      A feed-forward 3D foundation model for reconstructing scenes from streaming data
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Markdown</span>
-						<span>⭐ 527849</span>
-						<span>🔱 49947</span>
+						<span>🔠 Python</span>
+						<span>⭐ 12465</span>
+						<span>🔱 1308</span>
 					</div>
-				<div class="stars-today">⭐ 1068 stars today</div>
+				<div class="stars-today">⭐ 827 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/apache/ossie" target="_blank">
+    
+
+
+      
+        apache /
+
+      ossie</a></p>
+				<p>
+      Apache Ossie, industry wide specification effort to standardize how we exchange semantic metadata across analytics, AI and BI platforms, providing a vendor neutral, single source of truth for semantic data
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 1173</span>
+						<span>🔱 146</span>
+					</div>
+				<div class="stars-today">⭐ 48 stars today</div>
 				</div>
 			</div>
 	
@@ -52,140 +74,54 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 36339</span>
-						<span>🔱 3015</span>
+						<span>⭐ 36381</span>
+						<span>🔱 3018</span>
 					</div>
-				<div class="stars-today">⭐ 438 stars today</div>
+				<div class="stars-today">⭐ 337 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/HenryNdubuaku/maths-cs-ai-compendium" target="_blank">
+				<p><a href="https://github.com/ibelick/ui-skills" target="_blank">
     
 
 
       
-        HenryNdubuaku /
+        ibelick /
 
-      maths-cs-ai-compendium</a></p>
+      ui-skills</a></p>
 				<p>
-      Become a cracked AI/ML Research Engineer
+      Skills for Design Engineers
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 6840</span>
-						<span>🔱 823</span>
+						<span>⭐ 4705</span>
+						<span>🔱 200</span>
 					</div>
-				<div class="stars-today">⭐ 200 stars today</div>
+				<div class="stars-today">⭐ 529 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/Nutlope/hallmark" target="_blank">
+				<p><a href="https://github.com/rohitg00/ai-engineering-from-scratch" target="_blank">
     
 
 
       
-        Nutlope /
+        rohitg00 /
 
-      hallmark</a></p>
+      ai-engineering-from-scratch</a></p>
 				<p>
-      Anti-AI-slop design skill for Claude Code, Cursor, and Codex.
+      Learn it. Build it. Ship it for others.
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 CSS</span>
-						<span>⭐ 12498</span>
-						<span>🔱 620</span>
+						<span>🔠 Python</span>
+						<span>⭐ 38881</span>
+						<span>🔱 6519</span>
 					</div>
-				<div class="stars-today">⭐ 1485 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/github/copilot-sdk" target="_blank">
-    
-
-
-      
-        github /
-
-      copilot-sdk</a></p>
-				<p>
-      Multi-platform SDK for integrating GitHub Copilot Agent into apps and services
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Java</span>
-						<span>⭐ 9856</span>
-						<span>🔱 1337</span>
-					</div>
-				<div class="stars-today">⭐ 233 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/anthropics/cwc-workshops" target="_blank">
-    
-
-
-      
-        anthropics /
-
-      cwc-workshops</a></p>
-				<p></p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 1674</span>
-						<span>🔱 492</span>
-					</div>
-				<div class="stars-today">⭐ 45 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/PrismML-Eng/Bonsai-demo" target="_blank">
-    
-
-
-      
-        PrismML-Eng /
-
-      Bonsai-demo</a></p>
-				<p>
-      Bonsai Demo
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Shell</span>
-						<span>⭐ 1777</span>
-						<span>🔱 170</span>
-					</div>
-				<div class="stars-today">⭐ 278 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/protocolbuffers/protobuf" target="_blank">
-    
-
-
-      
-        protocolbuffers /
-
-      protobuf</a></p>
-				<p>
-      Protocol Buffers - Google's data interchange format
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 C++</span>
-						<span>⭐ 71575</span>
-						<span>🔱 16194</span>
-					</div>
-				<div class="stars-today">⭐ 11 stars today</div>
+				<div class="stars-today">⭐ 232 stars today</div>
 				</div>
 			</div>
 	
@@ -204,120 +140,120 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 19926</span>
-						<span>🔱 2113</span>
+						<span>⭐ 19953</span>
+						<span>🔱 2114</span>
 					</div>
-				<div class="stars-today">⭐ 74 stars today</div>
+				<div class="stars-today">⭐ 356 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/docusealco/docuseal" target="_blank">
+				<p><a href="https://github.com/elder-plinius/G0DM0D3" target="_blank">
     
 
 
       
-        docusealco /
+        elder-plinius /
 
-      docuseal</a></p>
+      G0DM0D3</a></p>
 				<p>
-      Open source DocuSign alternative. Create, fill, and sign digital documents ✍️
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Ruby</span>
-						<span>⭐ 17971</span>
-						<span>🔱 1774</span>
-					</div>
-				<div class="stars-today">⭐ 91 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/openinterpreter/openinterpreter" target="_blank">
-    
-
-
-      
-        openinterpreter /
-
-      openinterpreter</a></p>
-				<p>
-      A coding agent for open models like Kimi K3
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Rust</span>
-						<span>⭐ 66581</span>
-						<span>🔱 5717</span>
-					</div>
-				<div class="stars-today">⭐ 431 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/RyanCodrai/turbovec" target="_blank">
-    
-
-
-      
-        RyanCodrai /
-
-      turbovec</a></p>
-				<p>
-      A vector index built on TurboQuant, written in Rust with Python bindings
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 13443</span>
-						<span>🔱 1182</span>
-					</div>
-				<div class="stars-today">⭐ 280 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/HKUDS/DeepTutor" target="_blank">
-    
-
-
-      
-        HKUDS /
-
-      DeepTutor</a></p>
-				<p>
-      DeepTutor: Lifelong Personalized Tutoring. https://deeptutor.info/.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 27551</span>
-						<span>🔱 3662</span>
-					</div>
-				<div class="stars-today">⭐ 531 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/OpenCut-app/OpenCut" target="_blank">
-    
-
-
-      
-        OpenCut-app /
-
-      OpenCut</a></p>
-				<p>
-      The open-source CapCut alternative
+      LIBERATED AI CHAT
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 75189</span>
-						<span>🔱 7570</span>
+						<span>⭐ 9364</span>
+						<span>🔱 2245</span>
 					</div>
-				<div class="stars-today">⭐ 1074 stars today</div>
+				<div class="stars-today">⭐ 63 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/lyogavin/airllm" target="_blank">
+    
+
+
+      
+        lyogavin /
+
+      airllm</a></p>
+				<p>
+      AirLLM 70B inference with single 4GB GPU
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Jupyter Notebook</span>
+						<span>⭐ 23146</span>
+						<span>🔱 2642</span>
+					</div>
+				<div class="stars-today">⭐ 242 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/KnockOutEZ/wigolo" target="_blank">
+    
+
+
+      
+        KnockOutEZ /
+
+      wigolo</a></p>
+				<p>
+      The go-to web for your AI coding agent — local-first search, fetch, crawl & research over MCP. No API keys, no cloud, $0/query. Public beta.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 951</span>
+						<span>🔱 73</span>
+					</div>
+				<div class="stars-today">⭐ 192 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/codecrafters-io/build-your-own-x" target="_blank">
+    
+
+
+      
+        codecrafters-io /
+
+      build-your-own-x</a></p>
+				<p>
+      Master programming by recreating your favorite technologies from scratch.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Markdown</span>
+						<span>⭐ 527924</span>
+						<span>🔱 49954</span>
+					</div>
+				<div class="stars-today">⭐ 1131 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/MoonshotAI/kimi-cli" target="_blank">
+    
+
+
+      
+        MoonshotAI /
+
+      kimi-cli</a></p>
+				<p>
+      Kimi Code CLI is your next CLI agent.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 9281</span>
+						<span>🔱 1153</span>
+					</div>
+				<div class="stars-today">⭐ 48 stars today</div>
 				</div>
 			</div>
 	

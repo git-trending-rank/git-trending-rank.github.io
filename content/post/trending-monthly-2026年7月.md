@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2026年7月
-date: 2026-07-18T10:52:01Z
+date: 2026-07-18T12:40:06Z
 categories:
 - monthly
 keywords:
@@ -30,8 +30,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 39662</span>
-						<span>🔱 4697</span>
+						<span>⭐ 39679</span>
+						<span>🔱 4703</span>
 					</div>
 				<div class="stars-today">⭐ 34748 stars this month</div>
 				</div>
@@ -52,32 +52,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 C</span>
-						<span>⭐ 32546</span>
-						<span>🔱 2485</span>
+						<span>⭐ 32571</span>
+						<span>🔱 2486</span>
 					</div>
 				<div class="stars-today">⭐ 28151 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/asgeirtj/system_prompts_leaks" target="_blank">
-    
-
-
-      
-        asgeirtj /
-
-      system_prompts_leaks</a></p>
-				<p>
-      Extracted system prompts from Anthropic - Claude Fable 5, Opus 4.8, Claude Code, Claude Design. OpenAI - ChatGPT GPT-5.6, Codex GPT-5.6, GPT-5.5. Google - Gemini 3.5 Flash, 3.1 Pro, Antigravity. xAI - Grok, Cursor, Copilot, VS Code, Perplexity, and more. Updated regularly.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 JavaScript</span>
-						<span>⭐ 58748</span>
-						<span>🔱 9594</span>
-					</div>
-				<div class="stars-today">⭐ 15885 stars this month</div>
 				</div>
 			</div>
 	
@@ -96,8 +74,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Go</span>
-						<span>⭐ 6453</span>
-						<span>🔱 479</span>
+						<span>⭐ 6459</span>
+						<span>🔱 480</span>
 					</div>
 				<div class="stars-today">⭐ 5063 stars this month</div>
 				</div>
@@ -118,10 +96,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 42343</span>
-						<span>🔱 4364</span>
+						<span>⭐ 42352</span>
+						<span>🔱 4366</span>
 					</div>
 				<div class="stars-today">⭐ 16488 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/asgeirtj/system_prompts_leaks" target="_blank">
+    
+
+
+      
+        asgeirtj /
+
+      system_prompts_leaks</a></p>
+				<p>
+      Extracted system prompts from Anthropic - Claude Fable 5, Opus 4.8, Claude Code, Claude Design. OpenAI - ChatGPT GPT-5.6, Codex GPT-5.6, GPT-5.5. Google - Gemini 3.5 Flash, 3.1 Pro, Antigravity. xAI - Grok, Cursor, Copilot, VS Code, Perplexity, and more. Updated regularly.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 JavaScript</span>
+						<span>⭐ 58763</span>
+						<span>🔱 9598</span>
+					</div>
+				<div class="stars-today">⭐ 15885 stars this month</div>
 				</div>
 			</div>
 	
@@ -140,8 +140,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 21428</span>
-						<span>🔱 1545</span>
+						<span>⭐ 21490</span>
+						<span>🔱 1548</span>
 					</div>
 				<div class="stars-today">⭐ 16048 stars this month</div>
 				</div>
@@ -162,8 +162,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Rust</span>
-						<span>⭐ 17806</span>
-						<span>🔱 1129</span>
+						<span>⭐ 17830</span>
+						<span>🔱 1132</span>
 					</div>
 				<div class="stars-today">⭐ 11568 stars this month</div>
 				</div>
@@ -184,8 +184,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Rust</span>
-						<span>⭐ 25363</span>
-						<span>🔱 2544</span>
+						<span>⭐ 25374</span>
+						<span>🔱 2548</span>
 					</div>
 				<div class="stars-today">⭐ 12699 stars this month</div>
 				</div>
@@ -206,8 +206,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 18523</span>
-						<span>🔱 2652</span>
+						<span>⭐ 18546</span>
+						<span>🔱 2661</span>
 					</div>
 				<div class="stars-today">⭐ 12026 stars this month</div>
 				</div>
@@ -228,32 +228,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 26971</span>
+						<span>⭐ 26977</span>
 						<span>🔱 2359</span>
 					</div>
 				<div class="stars-today">⭐ 8521 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/Panniantong/Agent-Reach" target="_blank">
-    
-
-
-      
-        Panniantong /
-
-      Agent-Reach</a></p>
-				<p>
-      Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 57613</span>
-						<span>🔱 4613</span>
-					</div>
-				<div class="stars-today">⭐ 25126 stars this month</div>
 				</div>
 			</div>
 	
@@ -272,10 +250,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 6044</span>
-						<span>🔱 1078</span>
+						<span>⭐ 6052</span>
+						<span>🔱 1079</span>
 					</div>
 				<div class="stars-today">⭐ 4955 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/Panniantong/Agent-Reach" target="_blank">
+    
+
+
+      
+        Panniantong /
+
+      Agent-Reach</a></p>
+				<p>
+      Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 57631</span>
+						<span>🔱 4617</span>
+					</div>
+				<div class="stars-today">⭐ 25126 stars this month</div>
 				</div>
 			</div>
 	
@@ -294,7 +294,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 C++</span>
-						<span>⭐ 74759</span>
+						<span>⭐ 74761</span>
 						<span>🔱 11915</span>
 					</div>
 				<div class="stars-today">⭐ 1007 stars this month</div>
@@ -316,32 +316,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Haskell</span>
-						<span>⭐ 18701</span>
+						<span>⭐ 18707</span>
 						<span>🔱 1173</span>
 					</div>
 				<div class="stars-today">⭐ 7662 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/BuilderIO/agent-native" target="_blank">
-    
-
-
-      
-        BuilderIO /
-
-      agent-native</a></p>
-				<p>
-      A framework for building agent-native applications.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 3779</span>
-						<span>🔱 363</span>
-					</div>
-				<div class="stars-today">⭐ 3209 stars this month</div>
 				</div>
 			</div>
 	
@@ -360,32 +338,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 C++</span>
-						<span>⭐ 29177</span>
+						<span>⭐ 29178</span>
 						<span>🔱 5248</span>
 					</div>
 				<div class="stars-today">⭐ 391 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/OpenCut-app/OpenCut" target="_blank">
-    
-
-
-      
-        OpenCut-app /
-
-      OpenCut</a></p>
-				<p>
-      The open-source CapCut alternative
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 75189</span>
-						<span>🔱 7570</span>
-					</div>
-				<div class="stars-today">⭐ 18999 stars this month</div>
 				</div>
 			</div>
 	
@@ -404,8 +360,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 C#</span>
-						<span>⭐ 19054</span>
-						<span>🔱 1279</span>
+						<span>⭐ 19100</span>
+						<span>🔱 1283</span>
 					</div>
 				<div class="stars-today">⭐ 11556 stars this month</div>
 				</div>
@@ -426,10 +382,98 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 8471</span>
+						<span>⭐ 8475</span>
 						<span>🔱 937</span>
 					</div>
 				<div class="stars-today">⭐ 2389 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/Nutlope/hallmark" target="_blank">
+    
+
+
+      
+        Nutlope /
+
+      hallmark</a></p>
+				<p>
+      Anti-AI-slop design skill for Claude Code, Cursor, and Codex.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 CSS</span>
+						<span>⭐ 12556</span>
+						<span>🔱 624</span>
+					</div>
+				<div class="stars-today">⭐ 8775 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/OpenCut-app/OpenCut" target="_blank">
+    
+
+
+      
+        OpenCut-app /
+
+      OpenCut</a></p>
+				<p>
+      The open-source CapCut alternative
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 75223</span>
+						<span>🔱 7570</span>
+					</div>
+				<div class="stars-today">⭐ 18999 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/topoteretes/cognee" target="_blank">
+    
+
+
+      
+        topoteretes /
+
+      cognee</a></p>
+				<p>
+      Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions with a self-hosted knowledge graph engine.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 28099</span>
+						<span>🔱 2684</span>
+					</div>
+				<div class="stars-today">⭐ 10292 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/bradautomates/claude-video" target="_blank">
+    
+
+
+      
+        bradautomates /
+
+      claude-video</a></p>
+				<p>
+      Give Claude the ability to watch any video. /watch downloads, extracts frames, transcribes, hands it all to Claude.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 9025</span>
+						<span>🔱 972</span>
+					</div>
+				<div class="stars-today">⭐ 6862 stars this month</div>
 				</div>
 			</div>
 	
