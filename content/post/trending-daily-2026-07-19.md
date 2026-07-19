@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2026-07-19
-date: 2026-07-19T09:39:08Z
+date: 2026-07-19T10:59:52Z
 categories:
 - daily
 keywords:
@@ -16,90 +16,46 @@ keywords:
 
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/Robbyant/lingbot-map" target="_blank">
+				<p><a href="https://github.com/tirth8205/code-review-graph" target="_blank">
     
 
 
       
-        Robbyant /
+        tirth8205 /
 
-      lingbot-map</a></p>
+      code-review-graph</a></p>
 				<p>
-      A feed-forward 3D foundation model for reconstructing scenes from streaming data
+      Local-first code intelligence graph for MCP and CLI. Builds a persistent map of your codebase so AI coding tools read only what matters, with benchmarked context reductions on reviews and large-repo workflows.
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 13273</span>
-						<span>🔱 1376</span>
+						<span>⭐ 20422</span>
+						<span>🔱 2135</span>
 					</div>
-				<div class="stars-today">⭐ 831 stars today</div>
+				<div class="stars-today">⭐ 355 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/apache/ossie" target="_blank">
+				<p><a href="https://github.com/kvcache-ai/ktransformers" target="_blank">
     
 
 
       
-        apache /
+        kvcache-ai /
 
-      ossie</a></p>
+      ktransformers</a></p>
 				<p>
-      Apache Ossie, industry wide specification effort to standardize how we exchange semantic metadata across analytics, AI and BI platforms, providing a vendor neutral, single source of truth for semantic data
+      A Flexible Framework for Experiencing Heterogeneous LLM Inference/Fine-tune Optimizations
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 1346</span>
-						<span>🔱 158</span>
+						<span>⭐ 18122</span>
+						<span>🔱 1431</span>
 					</div>
-				<div class="stars-today">⭐ 47 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/PostHog/posthog" target="_blank">
-    
-
-
-      
-        PostHog /
-
-      posthog</a></p>
-				<p>
-      🦔 PostHog is the leading platform for building self-driving products. Our developer tools – AI observability, analytics, session replay, flags, experiments, error tracking, logs, and more – capture all the context agents need to diagnose problems, uncover opportunities, and ship fixes. Steer it all from Slack, web, desktop, or the MCP.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 36739</span>
-						<span>🔱 3039</span>
-					</div>
-				<div class="stars-today">⭐ 338 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/ibelick/ui-skills" target="_blank">
-    
-
-
-      
-        ibelick /
-
-      ui-skills</a></p>
-				<p>
-      Skills for Design Engineers
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 5250</span>
-						<span>🔱 224</span>
-					</div>
-				<div class="stars-today">⭐ 123 stars today</div>
+				<div class="stars-today">⭐ 328 stars today</div>
 				</div>
 			</div>
 	
@@ -118,76 +74,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 39295</span>
-						<span>🔱 6571</span>
+						<span>⭐ 39328</span>
+						<span>🔱 6581</span>
 					</div>
 				<div class="stars-today">⭐ 191 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/tirth8205/code-review-graph" target="_blank">
+				<p><a href="https://github.com/jamiepine/voicebox" target="_blank">
     
 
 
       
-        tirth8205 /
+        jamiepine /
 
-      code-review-graph</a></p>
+      voicebox</a></p>
 				<p>
-      Local-first code intelligence graph for MCP and CLI. Builds a persistent map of your codebase so AI coding tools read only what matters, with benchmarked context reductions on reviews and large-repo workflows.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 20384</span>
-						<span>🔱 2135</span>
-					</div>
-				<div class="stars-today">⭐ 355 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/elder-plinius/G0DM0D3" target="_blank">
-    
-
-
-      
-        elder-plinius /
-
-      G0DM0D3</a></p>
-				<p>
-      LIBERATED AI CHAT
+      The open-source AI voice studio. Clone, dictate, create.
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 9611</span>
-						<span>🔱 2263</span>
+						<span>⭐ 42959</span>
+						<span>🔱 5256</span>
 					</div>
-				<div class="stars-today">⭐ 69 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/lyogavin/airllm" target="_blank">
-    
-
-
-      
-        lyogavin /
-
-      airllm</a></p>
-				<p>
-      AirLLM 70B inference with single 4GB GPU
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Jupyter Notebook</span>
-						<span>⭐ 23473</span>
-						<span>🔱 2666</span>
-					</div>
-				<div class="stars-today">⭐ 161 stars today</div>
+				<div class="stars-today">⭐ 629 stars today</div>
 				</div>
 			</div>
 	
@@ -206,32 +118,164 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 1455</span>
-						<span>🔱 93</span>
+						<span>⭐ 1504</span>
+						<span>🔱 96</span>
 					</div>
 				<div class="stars-today">⭐ 203 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/codecrafters-io/build-your-own-x" target="_blank">
+				<p><a href="https://github.com/andrewrabert/jellium-desktop" target="_blank">
     
 
 
       
-        codecrafters-io /
+        andrewrabert /
 
-      build-your-own-x</a></p>
+      jellium-desktop</a></p>
 				<p>
-      Master programming by recreating your favorite technologies from scratch.
+      An unofficial desktop client for Jellyfin
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Markdown</span>
-						<span>⭐ 528533</span>
-						<span>🔱 50012</span>
+						<span>🔠 Rust</span>
+						<span>⭐ 1200</span>
+						<span>🔱 103</span>
 					</div>
-				<div class="stars-today">⭐ 1126 stars today</div>
+				<div class="stars-today">⭐ 55 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/github/copilot-sdk" target="_blank">
+    
+
+
+      
+        github /
+
+      copilot-sdk</a></p>
+				<p>
+      Multi-platform SDK for integrating GitHub Copilot Agent into apps and services
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Java</span>
+						<span>⭐ 9877</span>
+						<span>🔱 1344</span>
+					</div>
+				<div class="stars-today">⭐ 111 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/PostHog/posthog" target="_blank">
+    
+
+
+      
+        PostHog /
+
+      posthog</a></p>
+				<p>
+      🦔 PostHog is the leading platform for building self-driving products. Our developer tools – AI observability, analytics, session replay, flags, experiments, error tracking, logs, and more – capture all the context agents need to diagnose problems, uncover opportunities, and ship fixes. Steer it all from Slack, web, desktop, or the MCP.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 36762</span>
+						<span>🔱 3040</span>
+					</div>
+				<div class="stars-today">⭐ 338 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/microsoft/terminal" target="_blank">
+    
+
+
+      
+        microsoft /
+
+      terminal</a></p>
+				<p>
+      The new Windows Terminal and the original Windows console host, all in the same place!
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 C++</span>
+						<span>⭐ 104002</span>
+						<span>🔱 9431</span>
+					</div>
+				<div class="stars-today">⭐ 13 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/AstrBotDevs/AstrBot" target="_blank">
+    
+
+
+      
+        AstrBotDevs /
+
+      AstrBot</a></p>
+				<p>
+      AI Agent Assistant & development framework that integrates lots of IM platforms, LLMs, plugins and AI feature, and can be your openclaw alternative. ✨
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 36576</span>
+						<span>🔱 2538</span>
+					</div>
+				<div class="stars-today">⭐ 62 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/1jehuang/jcode" target="_blank">
+    
+
+
+      
+        1jehuang /
+
+      jcode</a></p>
+				<p>
+      Coding Agent Harness
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Rust</span>
+						<span>⭐ 8641</span>
+						<span>🔱 994</span>
+					</div>
+				<div class="stars-today">⭐ 199 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/trycua/cua" target="_blank">
+    
+
+
+      
+        trycua /
+
+      cua</a></p>
+				<p>
+      Scale computer-use 2.0 with open-source drivers, cross-OS fleets, and benchmarks for training, evaluation, and data generation.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 HTML</span>
+						<span>⭐ 20149</span>
+						<span>🔱 1335</span>
+					</div>
+				<div class="stars-today">⭐ 136 stars today</div>
 				</div>
 			</div>
 	
@@ -250,10 +294,118 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 9639</span>
+						<span>⭐ 9661</span>
 						<span>🔱 1169</span>
 					</div>
 				<div class="stars-today">⭐ 65 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/Flowseal/zapret-discord-youtube" target="_blank">
+    
+
+
+      
+        Flowseal /
+
+      zapret-discord-youtube</a></p>
+				<p></p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Batchfile</span>
+						<span>⭐ 30958</span>
+						<span>🔱 2374</span>
+					</div>
+				<div class="stars-today">⭐ 117 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/codecrafters-io/build-your-own-x" target="_blank">
+    
+
+
+      
+        codecrafters-io /
+
+      build-your-own-x</a></p>
+				<p>
+      Master programming by recreating your favorite technologies from scratch.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Markdown</span>
+						<span>⭐ 528577</span>
+						<span>🔱 50015</span>
+					</div>
+				<div class="stars-today">⭐ 1126 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/lyogavin/airllm" target="_blank">
+    
+
+
+      
+        lyogavin /
+
+      airllm</a></p>
+				<p>
+      AirLLM 70B inference with single 4GB GPU
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Jupyter Notebook</span>
+						<span>⭐ 23494</span>
+						<span>🔱 2668</span>
+					</div>
+				<div class="stars-today">⭐ 161 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/Canner/WrenAI" target="_blank">
+    
+
+
+      
+        Canner /
+
+      WrenAI</a></p>
+				<p>
+      GenBI (Generative BI) for AI agents, an open-source, governed text-to-SQL through an open context layer that turns natural-language questions into trusted dashboards, charts, and SQL across 20+ data sources, such as BigQuery, Snowflake, PostgreSQL, ClickHouse, Amazon Redshift, Databricks and more.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 16030</span>
+						<span>🔱 1832</span>
+					</div>
+				<div class="stars-today">⭐ 96 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/PKUFlyingPig/cs-self-learning" target="_blank">
+    
+
+
+      
+        PKUFlyingPig /
+
+      cs-self-learning</a></p>
+				<p>
+      计算机自学指南
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 HTML</span>
+						<span>⭐ 74041</span>
+						<span>🔱 7935</span>
+					</div>
+				<div class="stars-today">⭐ 128 stars today</div>
 				</div>
 			</div>
 	
