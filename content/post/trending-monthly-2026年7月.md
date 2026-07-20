@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2026年7月
-date: 2026-07-20T08:29:35Z
+date: 2026-07-20T12:05:25Z
 categories:
 - monthly
 keywords:
@@ -30,8 +30,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 40288</span>
-						<span>🔱 4769</span>
+						<span>⭐ 40358</span>
+						<span>🔱 4779</span>
 					</div>
 				<div class="stars-today">⭐ 34396 stars this month</div>
 				</div>
@@ -52,8 +52,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 24160</span>
-						<span>🔱 7802</span>
+						<span>⭐ 24236</span>
+						<span>🔱 7824</span>
 					</div>
 				<div class="stars-today">⭐ 20591 stars this month</div>
 				</div>
@@ -74,8 +74,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 C</span>
-						<span>⭐ 33062</span>
-						<span>🔱 2525</span>
+						<span>⭐ 33120</span>
+						<span>🔱 2526</span>
 					</div>
 				<div class="stars-today">⭐ 25557 stars this month</div>
 				</div>
@@ -96,8 +96,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 42758</span>
-						<span>🔱 4411</span>
+						<span>⭐ 42796</span>
+						<span>🔱 4416</span>
 					</div>
 				<div class="stars-today">⭐ 16862 stars this month</div>
 				</div>
@@ -118,8 +118,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Go</span>
-						<span>⭐ 6664</span>
-						<span>🔱 496</span>
+						<span>⭐ 6674</span>
+						<span>🔱 498</span>
 					</div>
 				<div class="stars-today">⭐ 5226 stars this month</div>
 				</div>
@@ -140,7 +140,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 C++</span>
-						<span>⭐ 21243</span>
+						<span>⭐ 21244</span>
 						<span>🔱 3345</span>
 					</div>
 				<div class="stars-today">⭐ 924 stars this month</div>
@@ -162,76 +162,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 22797</span>
-						<span>🔱 1633</span>
+						<span>⭐ 22932</span>
+						<span>🔱 1644</span>
 					</div>
 				<div class="stars-today">⭐ 16894 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/asgeirtj/system_prompts_leaks" target="_blank">
-    
-
-
-      
-        asgeirtj /
-
-      system_prompts_leaks</a></p>
-				<p>
-      Extracted system prompts from Anthropic - Claude Fable 5, Opus 4.8, Claude Code, Claude Design. OpenAI - ChatGPT GPT-5.6, Codex GPT-5.6, GPT-5.5. Google - Gemini 3.5 Flash, 3.1 Pro, Antigravity. xAI - Grok, Cursor, Copilot, VS Code, Perplexity, and more. Updated regularly.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 JavaScript</span>
-						<span>⭐ 59134</span>
-						<span>🔱 9648</span>
-					</div>
-				<div class="stars-today">⭐ 15887 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/ogulcancelik/herdr" target="_blank">
-    
-
-
-      
-        ogulcancelik /
-
-      herdr</a></p>
-				<p>
-      agent multiplexer that lives in your terminal.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Rust</span>
-						<span>⭐ 18526</span>
-						<span>🔱 1191</span>
-					</div>
-				<div class="stars-today">⭐ 12053 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/Zackriya-Solutions/meetily" target="_blank">
-    
-
-
-      
-        Zackriya-Solutions /
-
-      meetily</a></p>
-				<p>
-      Privacy first, AI meeting assistant with 4x faster Parakeet/Whisper live transcription, speaker diarization, and Ollama summarization built on Rust. 100% local processing. no cloud required. Meetily (Meetly Ai - https://meetily.ai) is the #1 Self-hosted, Open-source Ai meeting note taker for macOS & Windows. Understand How to write meeting minutes
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Rust</span>
-						<span>⭐ 25678</span>
-						<span>🔱 2573</span>
-					</div>
-				<div class="stars-today">⭐ 12969 stars this month</div>
 				</div>
 			</div>
 	
@@ -250,10 +184,76 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 20536</span>
-						<span>🔱 2832</span>
+						<span>⭐ 20708</span>
+						<span>🔱 2850</span>
 					</div>
 				<div class="stars-today">⭐ 13326 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/Zackriya-Solutions/meetily" target="_blank">
+    
+
+
+      
+        Zackriya-Solutions /
+
+      meetily</a></p>
+				<p>
+      Privacy first, AI meeting assistant with 4x faster Parakeet/Whisper live transcription, speaker diarization, and Ollama summarization built on Rust. 100% local processing. no cloud required. Meetily (Meetly Ai - https://meetily.ai) is the #1 Self-hosted, Open-source Ai meeting note taker for macOS & Windows. Understand How to write meeting minutes
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Rust</span>
+						<span>⭐ 25707</span>
+						<span>🔱 2575</span>
+					</div>
+				<div class="stars-today">⭐ 12969 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/ogulcancelik/herdr" target="_blank">
+    
+
+
+      
+        ogulcancelik /
+
+      herdr</a></p>
+				<p>
+      agent multiplexer that lives in your terminal.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Rust</span>
+						<span>⭐ 18595</span>
+						<span>🔱 1200</span>
+					</div>
+				<div class="stars-today">⭐ 12053 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/asgeirtj/system_prompts_leaks" target="_blank">
+    
+
+
+      
+        asgeirtj /
+
+      system_prompts_leaks</a></p>
+				<p>
+      Extracted system prompts from Anthropic - Claude Fable 5, Opus 4.8, Claude Code, Claude Design. OpenAI - ChatGPT GPT-5.6, Codex GPT-5.6, GPT-5.5. Google - Gemini 3.5 Flash, 3.1 Pro, Antigravity. xAI - Grok, Cursor, Copilot, VS Code, Perplexity, and more. Updated regularly.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 JavaScript</span>
+						<span>⭐ 59170</span>
+						<span>🔱 9651</span>
+					</div>
+				<div class="stars-today">⭐ 15887 stars this month</div>
 				</div>
 			</div>
 	
@@ -272,8 +272,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 27224</span>
-						<span>🔱 2385</span>
+						<span>⭐ 27247</span>
+						<span>🔱 2386</span>
 					</div>
 				<div class="stars-today">⭐ 8704 stars this month</div>
 				</div>
@@ -294,7 +294,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 6213</span>
+						<span>⭐ 6225</span>
 						<span>🔱 1097</span>
 					</div>
 				<div class="stars-today">⭐ 5103 stars this month</div>
@@ -316,54 +316,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 58433</span>
-						<span>🔱 4686</span>
+						<span>⭐ 58517</span>
+						<span>🔱 4690</span>
 					</div>
 				<div class="stars-today">⭐ 23606 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/ocornut/imgui" target="_blank">
-    
-
-
-      
-        ocornut /
-
-      imgui</a></p>
-				<p>
-      Dear ImGui: Bloat-free Graphical User interface for C++ with minimal dependencies
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 C++</span>
-						<span>⭐ 74839</span>
-						<span>🔱 11921</span>
-					</div>
-				<div class="stars-today">⭐ 1052 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/palmier-io/palmier-pro" target="_blank">
-    
-
-
-      
-        palmier-io /
-
-      palmier-pro</a></p>
-				<p>
-      macOS video editor built for AI
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Swift</span>
-						<span>⭐ 10842</span>
-						<span>🔱 816</span>
-					</div>
-				<div class="stars-today">⭐ 9436 stars this month</div>
 				</div>
 			</div>
 	
@@ -382,7 +338,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Haskell</span>
-						<span>⭐ 18789</span>
+						<span>⭐ 18791</span>
 						<span>🔱 1178</span>
 					</div>
 				<div class="stars-today">⭐ 7742 stars this month</div>
@@ -404,54 +360,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 CSS</span>
-						<span>⭐ 13684</span>
-						<span>🔱 690</span>
+						<span>⭐ 13843</span>
+						<span>🔱 695</span>
 					</div>
 				<div class="stars-today">⭐ 9975 stars this month</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/gabime/spdlog" target="_blank">
+				<p><a href="https://github.com/ocornut/imgui" target="_blank">
     
 
 
       
-        gabime /
+        ocornut /
 
-      spdlog</a></p>
+      imgui</a></p>
 				<p>
-      Fast C++ logging library.
+      Dear ImGui: Bloat-free Graphical User interface for C++ with minimal dependencies
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 C++</span>
-						<span>⭐ 29203</span>
-						<span>🔱 5248</span>
+						<span>⭐ 74850</span>
+						<span>🔱 11921</span>
 					</div>
-				<div class="stars-today">⭐ 405 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/iOfficeAI/OfficeCLI" target="_blank">
-    
-
-
-      
-        iOfficeAI /
-
-      OfficeCLI</a></p>
-				<p>
-      OfficeCLI is the first and best Office suite purpose-built for AI agents to read, edit, and automate Word, Excel, and PowerPoint files. Free, open-source, single binary, no Office installation required.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 C#</span>
-						<span>⭐ 19860</span>
-						<span>🔱 1336</span>
-					</div>
-				<div class="stars-today">⭐ 12295 stars this month</div>
+				<div class="stars-today">⭐ 1052 stars this month</div>
 				</div>
 			</div>
 	
@@ -470,32 +404,54 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 8582</span>
-						<span>🔱 947</span>
+						<span>⭐ 8589</span>
+						<span>🔱 951</span>
 					</div>
 				<div class="stars-today">⭐ 2488 stars this month</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/OpenCut-app/OpenCut" target="_blank">
+				<p><a href="https://github.com/iOfficeAI/OfficeCLI" target="_blank">
     
 
 
       
-        OpenCut-app /
+        iOfficeAI /
 
-      OpenCut</a></p>
+      OfficeCLI</a></p>
 				<p>
-      The open-source CapCut alternative
+      OfficeCLI is the first and best Office suite purpose-built for AI agents to read, edit, and automate Word, Excel, and PowerPoint files. Free, open-source, single binary, no Office installation required.
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 76094</span>
-						<span>🔱 7644</span>
+						<span>🔠 C#</span>
+						<span>⭐ 19956</span>
+						<span>🔱 1343</span>
 					</div>
-				<div class="stars-today">⭐ 18188 stars this month</div>
+				<div class="stars-today">⭐ 12295 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/gabime/spdlog" target="_blank">
+    
+
+
+      
+        gabime /
+
+      spdlog</a></p>
+				<p>
+      Fast C++ logging library.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 C++</span>
+						<span>⭐ 29205</span>
+						<span>🔱 5247</span>
+					</div>
+				<div class="stars-today">⭐ 405 stars this month</div>
 				</div>
 			</div>
 	
@@ -514,10 +470,54 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 28922</span>
-						<span>🔱 4159</span>
+						<span>⭐ 28965</span>
+						<span>🔱 4164</span>
 					</div>
 				<div class="stars-today">⭐ 11850 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/Robbyant/lingbot-map" target="_blank">
+    
+
+
+      
+        Robbyant /
+
+      lingbot-map</a></p>
+				<p>
+      A feed-forward 3D foundation model for reconstructing scenes from streaming data
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 13918</span>
+						<span>🔱 1461</span>
+					</div>
+				<div class="stars-today">⭐ 6389 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/OpenCut-app/OpenCut" target="_blank">
+    
+
+
+      
+        OpenCut-app /
+
+      OpenCut</a></p>
+				<p>
+      The open-source CapCut alternative
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 76172</span>
+						<span>🔱 7653</span>
+					</div>
+				<div class="stars-today">⭐ 18188 stars this month</div>
 				</div>
 			</div>
 	

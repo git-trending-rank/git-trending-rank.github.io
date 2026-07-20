@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2026年第30周
-date: 2026-07-20T08:29:35Z
+date: 2026-07-20T12:05:25Z
 categories:
 - weekly
 keywords:
@@ -30,8 +30,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 CSS</span>
-						<span>⭐ 13684</span>
-						<span>🔱 690</span>
+						<span>⭐ 13843</span>
+						<span>🔱 695</span>
 					</div>
 				<div class="stars-today">⭐ 9193 stars this week</div>
 				</div>
@@ -52,8 +52,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 76094</span>
-						<span>🔱 7644</span>
+						<span>⭐ 76172</span>
+						<span>🔱 7653</span>
 					</div>
 				<div class="stars-today">⭐ 12743 stars this week</div>
 				</div>
@@ -74,32 +74,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 124776</span>
-						<span>🔱 18428</span>
+						<span>⭐ 124908</span>
+						<span>🔱 18446</span>
 					</div>
 				<div class="stars-today">⭐ 6211 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/HKUDS/Vibe-Trading" target="_blank">
-    
-
-
-      
-        HKUDS /
-
-      Vibe-Trading</a></p>
-				<p>
-      "Vibe-Trading: Your Personal Trading Agent"
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 25439</span>
-						<span>🔱 4187</span>
-					</div>
-				<div class="stars-today">⭐ 5228 stars this week</div>
 				</div>
 			</div>
 	
@@ -118,10 +96,76 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 28145</span>
-						<span>🔱 3726</span>
+						<span>⭐ 28237</span>
+						<span>🔱 3739</span>
 					</div>
 				<div class="stars-today">⭐ 2375 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/HKUDS/Vibe-Trading" target="_blank">
+    
+
+
+      
+        HKUDS /
+
+      Vibe-Trading</a></p>
+				<p>
+      "Vibe-Trading: Your Personal Trading Agent"
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 25511</span>
+						<span>🔱 4195</span>
+					</div>
+				<div class="stars-today">⭐ 5228 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/tirth8205/code-review-graph" target="_blank">
+    
+
+
+      
+        tirth8205 /
+
+      code-review-graph</a></p>
+				<p>
+      Local-first code intelligence graph for MCP and CLI. Builds a persistent map of your codebase so AI coding tools read only what matters, with benchmarked context reductions on reviews and large-repo workflows.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 22302</span>
+						<span>🔱 2232</span>
+					</div>
+				<div class="stars-today">⭐ 1103 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/ibelick/ui-skills" target="_blank">
+    
+
+
+      
+        ibelick /
+
+      ui-skills</a></p>
+				<p>
+      Skills for Design Engineers
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 5561</span>
+						<span>🔱 238</span>
+					</div>
+				<div class="stars-today">⭐ 1669 stars this week</div>
 				</div>
 			</div>
 	
@@ -140,8 +184,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Shell</span>
-						<span>⭐ 178093</span>
-						<span>🔱 15251</span>
+						<span>⭐ 178346</span>
+						<span>🔱 15263</span>
 					</div>
 				<div class="stars-today">⭐ 10983 stars this week</div>
 				</div>
@@ -162,8 +206,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 3958</span>
-						<span>🔱 542</span>
+						<span>⭐ 4022</span>
+						<span>🔱 547</span>
 					</div>
 				<div class="stars-today">⭐ 1284 stars this week</div>
 				</div>
@@ -184,32 +228,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 C#</span>
-						<span>⭐ 19860</span>
-						<span>🔱 1336</span>
+						<span>⭐ 19956</span>
+						<span>🔱 1343</span>
 					</div>
 				<div class="stars-today">⭐ 4269 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/ibelick/ui-skills" target="_blank">
-    
-
-
-      
-        ibelick /
-
-      ui-skills</a></p>
-				<p>
-      Skills for Design Engineers
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 5526</span>
-						<span>🔱 234</span>
-					</div>
-				<div class="stars-today">⭐ 1669 stars this week</div>
 				</div>
 			</div>
 	
@@ -228,10 +250,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Rust</span>
-						<span>⭐ 99850</span>
-						<span>🔱 14942</span>
+						<span>⭐ 99931</span>
+						<span>🔱 14953</span>
 					</div>
 				<div class="stars-today">⭐ 2361 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/MoonshotAI/kimi-cli" target="_blank">
+    
+
+
+      
+        MoonshotAI /
+
+      kimi-cli</a></p>
+				<p>
+      Kimi Code CLI is your next CLI agent.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 10079</span>
+						<span>🔱 1210</span>
+					</div>
+				<div class="stars-today">⭐ 693 stars this week</div>
 				</div>
 			</div>
 	
@@ -250,32 +294,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Rust</span>
-						<span>⭐ 66883</span>
-						<span>🔱 5745</span>
+						<span>⭐ 66902</span>
+						<span>🔱 5750</span>
 					</div>
 				<div class="stars-today">⭐ 2498 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/tirth8205/code-review-graph" target="_blank">
-    
-
-
-      
-        tirth8205 /
-
-      code-review-graph</a></p>
-				<p>
-      Local-first code intelligence graph for MCP and CLI. Builds a persistent map of your codebase so AI coding tools read only what matters, with benchmarked context reductions on reviews and large-repo workflows.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 21989</span>
-						<span>🔱 2217</span>
-					</div>
-				<div class="stars-today">⭐ 1103 stars this week</div>
 				</div>
 			</div>
 	
@@ -294,8 +316,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 JavaScript</span>
-						<span>⭐ 6024</span>
-						<span>🔱 406</span>
+						<span>⭐ 6071</span>
+						<span>🔱 407</span>
 					</div>
 				<div class="stars-today">⭐ 2103 stars this week</div>
 				</div>
@@ -316,10 +338,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 73000</span>
-						<span>🔱 9012</span>
+						<span>⭐ 73094</span>
+						<span>🔱 9025</span>
 					</div>
 				<div class="stars-today">⭐ 2854 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/codecrafters-io/build-your-own-x" target="_blank">
+    
+
+
+      
+        codecrafters-io /
+
+      build-your-own-x</a></p>
+				<p>
+      Master programming by recreating your favorite technologies from scratch.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Markdown</span>
+						<span>⭐ 529250</span>
+						<span>🔱 50070</span>
+					</div>
+				<div class="stars-today">⭐ 4592 stars this week</div>
 				</div>
 			</div>
 	
@@ -336,7 +380,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 1791</span>
+						<span>⭐ 1797</span>
 						<span>🔱 499</span>
 					</div>
 				<div class="stars-today">⭐ 317 stars this week</div>
