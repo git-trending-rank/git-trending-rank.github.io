@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2026年第30周
-date: 2026-07-22T01:11:00Z
+date: 2026-07-22T04:52:41Z
 categories:
 - weekly
 keywords:
@@ -30,8 +30,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 CSS</span>
-						<span>⭐ 14957</span>
-						<span>🔱 746</span>
+						<span>⭐ 15070</span>
+						<span>🔱 753</span>
 					</div>
 				<div class="stars-today">⭐ 8948 stars this week</div>
 				</div>
@@ -52,8 +52,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 76993</span>
-						<span>🔱 7714</span>
+						<span>⭐ 77114</span>
+						<span>🔱 7727</span>
 					</div>
 				<div class="stars-today">⭐ 8341 stars this week</div>
 				</div>
@@ -74,8 +74,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 28840</span>
-						<span>🔱 3802</span>
+						<span>⭐ 28895</span>
+						<span>🔱 3808</span>
 					</div>
 				<div class="stars-today">⭐ 2908 stars this week</div>
 				</div>
@@ -96,8 +96,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 24554</span>
-						<span>🔱 2351</span>
+						<span>⭐ 24755</span>
+						<span>🔱 2364</span>
 					</div>
 				<div class="stars-today">⭐ 4791 stars this week</div>
 				</div>
@@ -113,13 +113,13 @@ keywords:
 
       awesome-llm-apps</a></p>
 				<p>
-      100+ AI Agent & RAG apps you can actually run — clone, customize, ship.
+      100+ AI Agents, Agent Skills and RAG Apps - Free and Open Source.
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 125773</span>
-						<span>🔱 18557</span>
+						<span>⭐ 125886</span>
+						<span>🔱 18577</span>
 					</div>
 				<div class="stars-today">⭐ 5385 stars this week</div>
 				</div>
@@ -140,8 +140,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 10510</span>
-						<span>🔱 1233</span>
+						<span>⭐ 10537</span>
+						<span>🔱 1234</span>
 					</div>
 				<div class="stars-today">⭐ 1294 stars this week</div>
 				</div>
@@ -162,8 +162,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 5840</span>
-						<span>🔱 245</span>
+						<span>⭐ 5879</span>
+						<span>🔱 249</span>
 					</div>
 				<div class="stars-today">⭐ 2094 stars this week</div>
 				</div>
@@ -184,8 +184,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Rust</span>
-						<span>⭐ 10322</span>
-						<span>🔱 1135</span>
+						<span>⭐ 10436</span>
+						<span>🔱 1144</span>
 					</div>
 				<div class="stars-today">⭐ 1769 stars this week</div>
 				</div>
@@ -206,8 +206,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 4248</span>
-						<span>🔱 561</span>
+						<span>⭐ 4288</span>
+						<span>🔱 563</span>
 					</div>
 				<div class="stars-today">⭐ 1364 stars this week</div>
 				</div>
@@ -228,8 +228,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 26134</span>
-						<span>🔱 4280</span>
+						<span>⭐ 26199</span>
+						<span>🔱 4290</span>
 					</div>
 				<div class="stars-today">⭐ 3679 stars this week</div>
 				</div>
@@ -250,8 +250,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Shell</span>
-						<span>⭐ 180473</span>
-						<span>🔱 15423</span>
+						<span>⭐ 180860</span>
+						<span>🔱 15451</span>
 					</div>
 				<div class="stars-today">⭐ 10651 stars this week</div>
 				</div>
@@ -272,8 +272,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 C#</span>
-						<span>⭐ 20634</span>
-						<span>🔱 1385</span>
+						<span>⭐ 20708</span>
+						<span>🔱 1391</span>
 					</div>
 				<div class="stars-today">⭐ 4047 stars this week</div>
 				</div>
@@ -294,8 +294,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 74664</span>
-						<span>🔱 9189</span>
+						<span>⭐ 74899</span>
+						<span>🔱 9209</span>
 					</div>
 				<div class="stars-today">⭐ 3569 stars this week</div>
 				</div>
@@ -316,7 +316,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Rust</span>
-						<span>⭐ 5285</span>
+						<span>⭐ 5296</span>
 						<span>🔱 196</span>
 					</div>
 				<div class="stars-today">⭐ 1167 stars this week</div>
@@ -338,32 +338,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Rust</span>
-						<span>⭐ 100404</span>
-						<span>🔱 15025</span>
+						<span>⭐ 100477</span>
+						<span>🔱 15043</span>
 					</div>
 				<div class="stars-today">⭐ 2445 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/tt-a1i/archify" target="_blank">
-    
-
-
-      
-        tt-a1i /
-
-      archify</a></p>
-				<p>
-      Any agent Skill: generate beautiful architecture diagrams with dark/light theme toggle and PNG/JPEG/WebP/SVG export
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 HTML</span>
-						<span>⭐ 6724</span>
-						<span>🔱 450</span>
-					</div>
-				<div class="stars-today">⭐ 2216 stars this week</div>
 				</div>
 			</div>
 	
@@ -382,8 +360,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Rust</span>
-						<span>⭐ 67061</span>
-						<span>🔱 5759</span>
+						<span>⭐ 67081</span>
+						<span>🔱 5760</span>
 					</div>
 				<div class="stars-today">⭐ 2205 stars this week</div>
 				</div>
@@ -404,8 +382,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 46019</span>
-						<span>🔱 8129</span>
+						<span>⭐ 46046</span>
+						<span>🔱 8134</span>
 					</div>
 				<div class="stars-today">⭐ 477 stars this week</div>
 				</div>
@@ -426,8 +404,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 24969</span>
-						<span>🔱 1800</span>
+						<span>⭐ 25223</span>
+						<span>🔱 1818</span>
 					</div>
 				<div class="stars-today">⭐ 5733 stars this week</div>
 				</div>
