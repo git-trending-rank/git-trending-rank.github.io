@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2026年7月
-date: 2026-07-22T08:00:12Z
+date: 2026-07-22T11:38:48Z
 categories:
 - monthly
 keywords:
@@ -30,32 +30,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 25045</span>
-						<span>🔱 8154</span>
+						<span>⭐ 25099</span>
+						<span>🔱 8184</span>
 					</div>
 				<div class="stars-today">⭐ 21332 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/calesthio/OpenMontage" target="_blank">
-    
-
-
-      
-        calesthio /
-
-      OpenMontage</a></p>
-				<p>
-      World's first open-source, agentic video production system. 12 pipelines, 52 tools, 500+ agent skills. Turn your AI coding assistant into a full video production studio.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 40991</span>
-						<span>🔱 4843</span>
-					</div>
-				<div class="stars-today">⭐ 33415 stars this month</div>
 				</div>
 			</div>
 	
@@ -74,32 +52,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 43269</span>
-						<span>🔱 4469</span>
+						<span>⭐ 43306</span>
+						<span>🔱 4474</span>
 					</div>
 				<div class="stars-today">⭐ 17358 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/DeusData/codebase-memory-mcp" target="_blank">
-    
-
-
-      
-        DeusData /
-
-      codebase-memory-mcp</a></p>
-				<p>
-      High-performance code intelligence MCP server. Indexes codebases into a persistent knowledge graph — average repo in milliseconds. 158 languages, sub-ms queries, 99% fewer tokens. Single static binary, zero dependencies.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 C</span>
-						<span>⭐ 33859</span>
-						<span>🔱 2597</span>
-					</div>
-				<div class="stars-today">⭐ 23966 stars this month</div>
 				</div>
 			</div>
 	
@@ -118,32 +74,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 C++</span>
-						<span>⭐ 21270</span>
+						<span>⭐ 21272</span>
 						<span>🔱 3354</span>
 					</div>
 				<div class="stars-today">⭐ 952 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/kunchenguid/no-mistakes" target="_blank">
-    
-
-
-      
-        kunchenguid /
-
-      no-mistakes</a></p>
-				<p>
-      git push no-mistakes
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Go</span>
-						<span>⭐ 6839</span>
-						<span>🔱 522</span>
-					</div>
-				<div class="stars-today">⭐ 5364 stars this month</div>
 				</div>
 			</div>
 	
@@ -162,10 +96,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 24069</span>
-						<span>🔱 3220</span>
+						<span>⭐ 24320</span>
+						<span>🔱 3246</span>
 					</div>
 				<div class="stars-today">⭐ 16353 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/DeusData/codebase-memory-mcp" target="_blank">
+    
+
+
+      
+        DeusData /
+
+      codebase-memory-mcp</a></p>
+				<p>
+      High-performance code intelligence MCP server. Indexes codebases into a persistent knowledge graph — average repo in milliseconds. 158 languages, sub-ms queries, 99% fewer tokens. Single static binary, zero dependencies.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 C</span>
+						<span>⭐ 33942</span>
+						<span>🔱 2603</span>
+					</div>
+				<div class="stars-today">⭐ 23966 stars this month</div>
 				</div>
 			</div>
 	
@@ -184,32 +140,54 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 25390</span>
-						<span>🔱 1832</span>
+						<span>⭐ 25573</span>
+						<span>🔱 1841</span>
 					</div>
 				<div class="stars-today">⭐ 18867 stars this month</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/ogulcancelik/herdr" target="_blank">
+				<p><a href="https://github.com/calesthio/OpenMontage" target="_blank">
     
 
 
       
-        ogulcancelik /
+        calesthio /
 
-      herdr</a></p>
+      OpenMontage</a></p>
 				<p>
-      agent multiplexer that lives in your terminal.
+      World's first open-source, agentic video production system. 12 pipelines, 52 tools, 500+ agent skills. Turn your AI coding assistant into a full video production studio.
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Rust</span>
-						<span>⭐ 19269</span>
-						<span>🔱 1262</span>
+						<span>🔠 Python</span>
+						<span>⭐ 41042</span>
+						<span>🔱 4853</span>
 					</div>
-				<div class="stars-today">⭐ 12612 stars this month</div>
+				<div class="stars-today">⭐ 33415 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/kunchenguid/no-mistakes" target="_blank">
+    
+
+
+      
+        kunchenguid /
+
+      no-mistakes</a></p>
+				<p>
+      git push no-mistakes
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Go</span>
+						<span>⭐ 6852</span>
+						<span>🔱 523</span>
+					</div>
+				<div class="stars-today">⭐ 5364 stars this month</div>
 				</div>
 			</div>
 	
@@ -228,10 +206,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Rust</span>
-						<span>⭐ 25988</span>
-						<span>🔱 2614</span>
+						<span>⭐ 26011</span>
+						<span>🔱 2617</span>
 					</div>
 				<div class="stars-today">⭐ 13297 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/ogulcancelik/herdr" target="_blank">
+    
+
+
+      
+        ogulcancelik /
+
+      herdr</a></p>
+				<p>
+      agent multiplexer that lives in your terminal.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Rust</span>
+						<span>⭐ 19329</span>
+						<span>🔱 1264</span>
+					</div>
+				<div class="stars-today">⭐ 12612 stars this month</div>
 				</div>
 			</div>
 	
@@ -250,8 +250,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 JavaScript</span>
-						<span>⭐ 59626</span>
-						<span>🔱 9722</span>
+						<span>⭐ 59659</span>
+						<span>🔱 9727</span>
 					</div>
 				<div class="stars-today">⭐ 15756 stars this month</div>
 				</div>
@@ -272,32 +272,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 27445</span>
+						<span>⭐ 27462</span>
 						<span>🔱 2407</span>
 					</div>
 				<div class="stars-today">⭐ 8951 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/interviewstreet/hiring-agent" target="_blank">
-    
-
-
-      
-        interviewstreet /
-
-      hiring-agent</a></p>
-				<p>
-      AI agent to evaluate and score resumes.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 6364</span>
-						<span>🔱 1112</span>
-					</div>
-				<div class="stars-today">⭐ 5255 stars this month</div>
 				</div>
 			</div>
 	
@@ -316,8 +294,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 CSS</span>
-						<span>⭐ 15190</span>
-						<span>🔱 760</span>
+						<span>⭐ 15301</span>
+						<span>🔱 766</span>
 					</div>
 				<div class="stars-today">⭐ 11449 stars this month</div>
 				</div>
@@ -338,8 +316,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 14782</span>
-						<span>🔱 1533</span>
+						<span>⭐ 14805</span>
+						<span>🔱 1538</span>
 					</div>
 				<div class="stars-today">⭐ 7459 stars this month</div>
 				</div>
@@ -360,54 +338,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Haskell</span>
-						<span>⭐ 18872</span>
-						<span>🔱 1191</span>
+						<span>⭐ 18884</span>
+						<span>🔱 1190</span>
 					</div>
 				<div class="stars-today">⭐ 7799 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/Panniantong/Agent-Reach" target="_blank">
-    
-
-
-      
-        Panniantong /
-
-      Agent-Reach</a></p>
-				<p>
-      Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 59321</span>
-						<span>🔱 4754</span>
-					</div>
-				<div class="stars-today">⭐ 23075 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/ocornut/imgui" target="_blank">
-    
-
-
-      
-        ocornut /
-
-      imgui</a></p>
-				<p>
-      Dear ImGui: Bloat-free Graphical User interface for C++ with minimal dependencies
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 C++</span>
-						<span>⭐ 74915</span>
-						<span>🔱 11927</span>
-					</div>
-				<div class="stars-today">⭐ 1092 stars this month</div>
 				</div>
 			</div>
 	
@@ -426,10 +360,54 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 C#</span>
-						<span>⭐ 20796</span>
-						<span>🔱 1398</span>
+						<span>⭐ 20885</span>
+						<span>🔱 1402</span>
 					</div>
 				<div class="stars-today">⭐ 13004 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/interviewstreet/hiring-agent" target="_blank">
+    
+
+
+      
+        interviewstreet /
+
+      hiring-agent</a></p>
+				<p>
+      AI agent to evaluate and score resumes.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 6377</span>
+						<span>🔱 1113</span>
+					</div>
+				<div class="stars-today">⭐ 5255 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/ocornut/imgui" target="_blank">
+    
+
+
+      
+        ocornut /
+
+      imgui</a></p>
+				<p>
+      Dear ImGui: Bloat-free Graphical User interface for C++ with minimal dependencies
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 C++</span>
+						<span>⭐ 74925</span>
+						<span>🔱 11927</span>
+					</div>
+				<div class="stars-today">⭐ 1092 stars this month</div>
 				</div>
 			</div>
 	
@@ -448,54 +426,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 8708</span>
-						<span>🔱 964</span>
+						<span>⭐ 8714</span>
+						<span>🔱 963</span>
 					</div>
 				<div class="stars-today">⭐ 2611 stars this month</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/gabime/spdlog" target="_blank">
+				<p><a href="https://github.com/Panniantong/Agent-Reach" target="_blank">
     
 
 
       
-        gabime /
+        Panniantong /
 
-      spdlog</a></p>
+      Agent-Reach</a></p>
 				<p>
-      Fast C++ logging library.
+      Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 C++</span>
-						<span>⭐ 29235</span>
-						<span>🔱 5259</span>
+						<span>🔠 Python</span>
+						<span>⭐ 59444</span>
+						<span>🔱 4765</span>
 					</div>
-				<div class="stars-today">⭐ 429 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/JCodesMore/ai-website-cloner-template" target="_blank">
-    
-
-
-      
-        JCodesMore /
-
-      ai-website-cloner-template</a></p>
-				<p>
-      Clone any website with one command using AI coding agents
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 29561</span>
-						<span>🔱 4230</span>
-					</div>
-				<div class="stars-today">⭐ 12350 stars this month</div>
+				<div class="stars-today">⭐ 23075 stars this month</div>
 				</div>
 			</div>
 	
@@ -514,10 +470,54 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 77225</span>
-						<span>🔱 7739</span>
+						<span>⭐ 77318</span>
+						<span>🔱 7747</span>
 					</div>
 				<div class="stars-today">⭐ 18592 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/JCodesMore/ai-website-cloner-template" target="_blank">
+    
+
+
+      
+        JCodesMore /
+
+      ai-website-cloner-template</a></p>
+				<p>
+      Clone any website with one command using AI coding agents
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 29597</span>
+						<span>🔱 4237</span>
+					</div>
+				<div class="stars-today">⭐ 12350 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/HKUDS/Vibe-Trading" target="_blank">
+    
+
+
+      
+        HKUDS /
+
+      Vibe-Trading</a></p>
+				<p>
+      "Vibe-Trading: Your Personal Trading Agent"
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 26302</span>
+						<span>🔱 4302</span>
+					</div>
+				<div class="stars-today">⭐ 13399 stars this month</div>
 				</div>
 			</div>
 	
