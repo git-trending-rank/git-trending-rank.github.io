@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2026-07-23
-date: 2026-07-23T08:03:03Z
+date: 2026-07-23T11:42:09Z
 categories:
 - daily
 keywords:
@@ -14,6 +14,28 @@ keywords:
 	<main class="container">
         <div class="repo-list" id="repoList">
 
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/block/buzz" target="_blank">
+    
+
+
+      
+        block /
+
+      buzz</a></p>
+				<p>
+      A hive mind communication platform
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Rust</span>
+						<span>⭐ 5089</span>
+						<span>🔱 395</span>
+					</div>
+				<div class="stars-today">⭐ 3252 stars today</div>
+				</div>
+			</div>
 	
 			<div class="repo-card">
 				<p><a href="https://github.com/koala73/worldmonitor" target="_blank">
@@ -30,164 +52,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 70006</span>
-						<span>🔱 10640</span>
+						<span>⭐ 70513</span>
+						<span>🔱 10688</span>
 					</div>
-				<div class="stars-today">⭐ 4139 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/ruvnet/RuView" target="_blank">
-    
-
-
-      
-        ruvnet /
-
-      RuView</a></p>
-				<p>
-      π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Rust</span>
-						<span>⭐ 84329</span>
-						<span>🔱 11280</span>
-					</div>
-				<div class="stars-today">⭐ 741 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/ayghri/i-have-adhd" target="_blank">
-    
-
-
-      
-        ayghri /
-
-      i-have-adhd</a></p>
-				<p>
-      A skill for your coding agent to stop it from burying the answer. ADHD-friendly output.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 8705</span>
-						<span>🔱 398</span>
-					</div>
-				<div class="stars-today">⭐ 1699 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/schollz/croc" target="_blank">
-    
-
-
-      
-        schollz /
-
-      croc</a></p>
-				<p>
-      Easily and securely send things from one computer to another 🐊 📦
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Go</span>
-						<span>⭐ 37928</span>
-						<span>🔱 1503</span>
-					</div>
-				<div class="stars-today">⭐ 739 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/likec4/likec4" target="_blank">
-    
-
-
-      
-        likec4 /
-
-      likec4</a></p>
-				<p>
-      Visualize, collaborate, and evolve the software architecture with always actual and live diagrams from your code
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 4462</span>
-						<span>🔱 307</span>
-					</div>
-				<div class="stars-today">⭐ 80 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/chrislgarry/Apollo-11" target="_blank">
-    
-
-
-      
-        chrislgarry /
-
-      Apollo-11</a></p>
-				<p>
-      Original Apollo 11 Guidance Computer (AGC) source code for the command and lunar modules.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Assembly</span>
-						<span>⭐ 70790</span>
-						<span>🔱 7896</span>
-					</div>
-				<div class="stars-today">⭐ 768 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/jamiepine/voicebox" target="_blank">
-    
-
-
-      
-        jamiepine /
-
-      voicebox</a></p>
-				<p>
-      The open-source AI voice studio. Clone, dictate, create.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 46028</span>
-						<span>🔱 5617</span>
-					</div>
-				<div class="stars-today">⭐ 557 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/diegosouzapw/OmniRoute" target="_blank">
-    
-
-
-      
-        diegosouzapw /
-
-      OmniRoute</a></p>
-				<p>
-      Never stop coding. Free MIT AI gateway: one endpoint, 278+ providers (90+ free), 500+ models — Kimi, Claude, GPT, OpenAI, Gemini, GLM, DeepSeek, MiniMax. Works with Claude Code, Codex, Cursor, OpenCode, Cline & Copilot. Quota-aware auto-fallback, RTK+Caveman compression saves 15-95% tokens, MCP/A2A, Desktop/PWA. Built by 500+ contributors
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 25928</span>
-						<span>🔱 3409</span>
-					</div>
-				<div class="stars-today">⭐ 1651 stars today</div>
+				<div class="stars-today">⭐ 3196 stars today</div>
 				</div>
 			</div>
 	
@@ -206,186 +74,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 32746</span>
-						<span>🔱 5621</span>
+						<span>⭐ 32815</span>
+						<span>🔱 5625</span>
 					</div>
-				<div class="stars-today">⭐ 137 stars today</div>
+				<div class="stars-today">⭐ 398 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/ComposioHQ/awesome-claude-skills" target="_blank">
+				<p><a href="https://github.com/ayghri/i-have-adhd" target="_blank">
     
 
 
       
-        ComposioHQ /
+        ayghri /
 
-      awesome-claude-skills</a></p>
+      i-have-adhd</a></p>
 				<p>
-      A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows
+      A skill for your coding agent to stop it from burying the answer. ADHD-friendly output.
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 69020</span>
-						<span>🔱 7822</span>
+						<span>⭐ 8910</span>
+						<span>🔱 411</span>
 					</div>
-				<div class="stars-today">⭐ 163 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/oblien/openship" target="_blank">
-    
-
-
-      
-        oblien /
-
-      openship</a></p>
-				<p>
-      Self-hosted deployment platform
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 7549</span>
-						<span>🔱 558</span>
-					</div>
-				<div class="stars-today">⭐ 1302 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/agegr/pi-web" target="_blank">
-    
-
-
-      
-        agegr /
-
-      pi-web</a></p>
-				<p>
-      Web UI for the pi coding agent
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 2172</span>
-						<span>🔱 314</span>
-					</div>
-				<div class="stars-today">⭐ 314 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/rohitg00/ai-engineering-from-scratch" target="_blank">
-    
-
-
-      
-        rohitg00 /
-
-      ai-engineering-from-scratch</a></p>
-				<p>
-      Learn it. Build it. Ship it for others.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 42569</span>
-						<span>🔱 7086</span>
-					</div>
-				<div class="stars-today">⭐ 652 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/tirth8205/code-review-graph" target="_blank">
-    
-
-
-      
-        tirth8205 /
-
-      code-review-graph</a></p>
-				<p>
-      Local-first code intelligence graph for MCP and CLI. Builds a persistent map of your codebase so AI coding tools read only what matters, with benchmarked context reductions on reviews and large-repo workflows.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 25563</span>
-						<span>🔱 2407</span>
-					</div>
-				<div class="stars-today">⭐ 882 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/dreamhunter2333/cloudflare_temp_email" target="_blank">
-    
-
-
-      
-        dreamhunter2333 /
-
-      cloudflare_temp_email</a></p>
-				<p>
-      CloudFlare free temp domain email 免费收发 临时域名邮箱 支持附件 IMAP SMTP TelegramBot
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 10914</span>
-						<span>🔱 7318</span>
-					</div>
-				<div class="stars-today">⭐ 68 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/DioxusLabs/dioxus" target="_blank">
-    
-
-
-      
-        DioxusLabs /
-
-      dioxus</a></p>
-				<p>
-      Fullstack app framework for web, desktop, and mobile.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Rust</span>
-						<span>⭐ 38142</span>
-						<span>🔱 1796</span>
-					</div>
-				<div class="stars-today">⭐ 420 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/hyprwm/Hyprland" target="_blank">
-    
-
-
-      
-        hyprwm /
-
-      Hyprland</a></p>
-				<p>
-      Hyprland is an independent, highly customizable, dynamic tiling Wayland compositor that doesn't sacrifice on its looks.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 C++</span>
-						<span>⭐ 37374</span>
-						<span>🔱 1874</span>
-					</div>
-				<div class="stars-today">⭐ 356 stars today</div>
+				<div class="stars-today">⭐ 1329 stars today</div>
 				</div>
 			</div>
 	
@@ -404,32 +118,252 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Rust</span>
-						<span>⭐ 8609</span>
-						<span>🔱 598</span>
+						<span>⭐ 8673</span>
+						<span>🔱 602</span>
 					</div>
-				<div class="stars-today">⭐ 108 stars today</div>
+				<div class="stars-today">⭐ 563 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/dottxt-ai/outlines" target="_blank">
+				<p><a href="https://github.com/citrolabs/ego-lite" target="_blank">
     
 
 
       
-        dottxt-ai /
+        citrolabs /
 
-      outlines</a></p>
+      ego-lite</a></p>
 				<p>
-      Structured Outputs
+      The best browser for both you and your AI agents work in parallel.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 JavaScript</span>
+						<span>⭐ 1232</span>
+						<span>🔱 74</span>
+					</div>
+				<div class="stars-today">⭐ 219 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/chrislgarry/Apollo-11" target="_blank">
+    
+
+
+      
+        chrislgarry /
+
+      Apollo-11</a></p>
+				<p>
+      Original Apollo 11 Guidance Computer (AGC) source code for the command and lunar modules.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Assembly</span>
+						<span>⭐ 70859</span>
+						<span>🔱 7904</span>
+					</div>
+				<div class="stars-today">⭐ 599 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/diegosouzapw/OmniRoute" target="_blank">
+    
+
+
+      
+        diegosouzapw /
+
+      OmniRoute</a></p>
+				<p>
+      Never stop coding. Free MIT AI gateway: one endpoint, 278+ providers (90+ free), 500+ models — Kimi, Claude, GPT, OpenAI, Gemini, GLM, DeepSeek, MiniMax. Works with Claude Code, Codex, Cursor, OpenCode, Cline & Copilot. Quota-aware auto-fallback, RTK+Caveman compression saves 15-95% tokens, MCP/A2A, Desktop/PWA. Built by 500+ contributors
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 26221</span>
+						<span>🔱 3441</span>
+					</div>
+				<div class="stars-today">⭐ 1925 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/ComposioHQ/awesome-claude-skills" target="_blank">
+    
+
+
+      
+        ComposioHQ /
+
+      awesome-claude-skills</a></p>
+				<p>
+      A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 15213</span>
-						<span>🔱 807</span>
+						<span>⭐ 69107</span>
+						<span>🔱 7826</span>
 					</div>
-				<div class="stars-today">⭐ 364 stars today</div>
+				<div class="stars-today">⭐ 637 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/earthtojake/text-to-cad" target="_blank">
+    
+
+
+      
+        earthtojake /
+
+      text-to-cad</a></p>
+				<p>
+      A collection of agent skills for CAD, robotics and hardware design
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 JavaScript</span>
+						<span>⭐ 9717</span>
+						<span>🔱 1077</span>
+					</div>
+				<div class="stars-today">⭐ 621 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/agegr/pi-web" target="_blank">
+    
+
+
+      
+        agegr /
+
+      pi-web</a></p>
+				<p>
+      Web UI for the pi coding agent
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 2220</span>
+						<span>🔱 317</span>
+					</div>
+				<div class="stars-today">⭐ 315 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/alibaba/open-code-review" target="_blank">
+    
+
+
+      
+        alibaba /
+
+      open-code-review</a></p>
+				<p>
+      Open-source & free — Battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in fine-tuned ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Go</span>
+						<span>⭐ 11067</span>
+						<span>🔱 772</span>
+					</div>
+				<div class="stars-today">⭐ 162 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/ruvnet/RuView" target="_blank">
+    
+
+
+      
+        ruvnet /
+
+      RuView</a></p>
+				<p>
+      π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Rust</span>
+						<span>⭐ 84604</span>
+						<span>🔱 11295</span>
+					</div>
+				<div class="stars-today">⭐ 1726 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/likec4/likec4" target="_blank">
+    
+
+
+      
+        likec4 /
+
+      likec4</a></p>
+				<p>
+      Visualize, collaborate, and evolve the software architecture with always actual and live diagrams from your code
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 4531</span>
+						<span>🔱 309</span>
+					</div>
+				<div class="stars-today">⭐ 475 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/Automattic/harper" target="_blank">
+    
+
+
+      
+        Automattic /
+
+      harper</a></p>
+				<p>
+      Offline, privacy-first grammar checker. Fast, open-source, Rust-powered
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Rust</span>
+						<span>⭐ 11810</span>
+						<span>🔱 438</span>
+					</div>
+				<div class="stars-today">⭐ 590 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/jellyfin/jellyfin" target="_blank">
+    
+
+
+      
+        jellyfin /
+
+      jellyfin</a></p>
+				<p>
+      The Free Software Media System - Server Backend & API
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 C#</span>
+						<span>⭐ 54595</span>
+						<span>🔱 5159</span>
+					</div>
+				<div class="stars-today">⭐ 53 stars today</div>
 				</div>
 			</div>
 	

@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2026年7月
-date: 2026-07-23T08:03:04Z
+date: 2026-07-23T11:42:09Z
 categories:
 - monthly
 keywords:
@@ -30,8 +30,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 25473</span>
-						<span>🔱 8325</span>
+						<span>⭐ 25567</span>
+						<span>🔱 8349</span>
 					</div>
 				<div class="stars-today">⭐ 21766 stars this month</div>
 				</div>
@@ -52,32 +52,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 43526</span>
-						<span>🔱 4496</span>
+						<span>⭐ 43578</span>
+						<span>🔱 4502</span>
 					</div>
 				<div class="stars-today">⭐ 17610 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/catchorg/Catch2" target="_blank">
-    
-
-
-      
-        catchorg /
-
-      Catch2</a></p>
-				<p>
-      A modern, C++-native, test framework for unit-tests, TDD and BDD - using C++14, C++17 and later (C++11 support is in v2.x branch, and C++03 on the Catch1.x branch)
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 C++</span>
-						<span>⭐ 21288</span>
-						<span>🔱 3354</span>
-					</div>
-				<div class="stars-today">⭐ 967 stars this month</div>
 				</div>
 			</div>
 	
@@ -96,32 +74,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 25929</span>
-						<span>🔱 3409</span>
+						<span>⭐ 26221</span>
+						<span>🔱 3441</span>
 					</div>
 				<div class="stars-today">⭐ 18052 stars this month</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/DeusData/codebase-memory-mcp" target="_blank">
+				<p><a href="https://github.com/catchorg/Catch2" target="_blank">
     
 
 
       
-        DeusData /
+        catchorg /
 
-      codebase-memory-mcp</a></p>
+      Catch2</a></p>
 				<p>
-      High-performance code intelligence MCP server. Indexes codebases into a persistent knowledge graph — average repo in milliseconds. 158 languages, sub-ms queries, 99% fewer tokens. Single static binary, zero dependencies.
+      A modern, C++-native, test framework for unit-tests, TDD and BDD - using C++14, C++17 and later (C++11 support is in v2.x branch, and C++03 on the Catch1.x branch)
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 C</span>
-						<span>⭐ 34348</span>
-						<span>🔱 2638</span>
+						<span>🔠 C++</span>
+						<span>⭐ 21289</span>
+						<span>🔱 3354</span>
 					</div>
-				<div class="stars-today">⭐ 23249 stars this month</div>
+				<div class="stars-today">⭐ 967 stars this month</div>
 				</div>
 			</div>
 	
@@ -140,54 +118,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 26668</span>
-						<span>🔱 1912</span>
+						<span>⭐ 26845</span>
+						<span>🔱 1923</span>
 					</div>
 				<div class="stars-today">⭐ 20026 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/calesthio/OpenMontage" target="_blank">
-    
-
-
-      
-        calesthio /
-
-      OpenMontage</a></p>
-				<p>
-      World's first open-source, agentic video production system. 12 production pipelines, 100+ tools, 700+ agent skill and production-knowledge files. Turn your AI coding assistant into a full video production studio.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 41420</span>
-						<span>🔱 4914</span>
-					</div>
-				<div class="stars-today">⭐ 30594 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/kunchenguid/no-mistakes" target="_blank">
-    
-
-
-      
-        kunchenguid /
-
-      no-mistakes</a></p>
-				<p>
-      git push no-mistakes
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Go</span>
-						<span>⭐ 6907</span>
-						<span>🔱 527</span>
-					</div>
-				<div class="stars-today">⭐ 5389 stars this month</div>
 				</div>
 			</div>
 	
@@ -206,8 +140,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Rust</span>
-						<span>⭐ 26167</span>
-						<span>🔱 2638</span>
+						<span>⭐ 26194</span>
+						<span>🔱 2639</span>
 					</div>
 				<div class="stars-today">⭐ 13432 stars this month</div>
 				</div>
@@ -228,10 +162,54 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Rust</span>
-						<span>⭐ 19679</span>
-						<span>🔱 1290</span>
+						<span>⭐ 19741</span>
+						<span>🔱 1294</span>
 					</div>
 				<div class="stars-today">⭐ 12842 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/DeusData/codebase-memory-mcp" target="_blank">
+    
+
+
+      
+        DeusData /
+
+      codebase-memory-mcp</a></p>
+				<p>
+      High-performance code intelligence MCP server. Indexes codebases into a persistent knowledge graph — average repo in milliseconds. 158 languages, sub-ms queries, 99% fewer tokens. Single static binary, zero dependencies.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 C</span>
+						<span>⭐ 34435</span>
+						<span>🔱 2647</span>
+					</div>
+				<div class="stars-today">⭐ 23249 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/kunchenguid/no-mistakes" target="_blank">
+    
+
+
+      
+        kunchenguid /
+
+      no-mistakes</a></p>
+				<p>
+      git push no-mistakes
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Go</span>
+						<span>⭐ 6915</span>
+						<span>🔱 528</span>
+					</div>
+				<div class="stars-today">⭐ 5389 stars this month</div>
 				</div>
 			</div>
 	
@@ -250,10 +228,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 JavaScript</span>
-						<span>⭐ 59836</span>
-						<span>🔱 9749</span>
+						<span>⭐ 59876</span>
+						<span>🔱 9755</span>
 					</div>
 				<div class="stars-today">⭐ 15152 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/calesthio/OpenMontage" target="_blank">
+    
+
+
+      
+        calesthio /
+
+      OpenMontage</a></p>
+				<p>
+      World's first open-source, agentic video production system. 12 production pipelines, 100+ tools, 700+ agent skill and production-knowledge files. Turn your AI coding assistant into a full video production studio.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 41493</span>
+						<span>🔱 4935</span>
+					</div>
+				<div class="stars-today">⭐ 30594 stars this month</div>
 				</div>
 			</div>
 	
@@ -272,32 +272,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 27538</span>
-						<span>🔱 2413</span>
+						<span>⭐ 27557</span>
+						<span>🔱 2414</span>
 					</div>
 				<div class="stars-today">⭐ 8980 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/Nutlope/hallmark" target="_blank">
-    
-
-
-      
-        Nutlope /
-
-      hallmark</a></p>
-				<p>
-      Anti-AI-slop design skill for Claude Code, Cursor, and Codex.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 CSS</span>
-						<span>⭐ 15849</span>
-						<span>🔱 802</span>
-					</div>
-				<div class="stars-today">⭐ 12114 stars this month</div>
 				</div>
 			</div>
 	
@@ -316,10 +294,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 14965</span>
+						<span>⭐ 15001</span>
 						<span>🔱 1551</span>
 					</div>
 				<div class="stars-today">⭐ 7701 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/Nutlope/hallmark" target="_blank">
+    
+
+
+      
+        Nutlope /
+
+      hallmark</a></p>
+				<p>
+      Anti-AI-slop design skill for Claude Code, Cursor, and Codex.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 CSS</span>
+						<span>⭐ 15951</span>
+						<span>🔱 803</span>
+					</div>
+				<div class="stars-today">⭐ 12114 stars this month</div>
 				</div>
 			</div>
 	
@@ -338,7 +338,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Haskell</span>
-						<span>⭐ 18915</span>
+						<span>⭐ 18922</span>
 						<span>🔱 1185</span>
 					</div>
 				<div class="stars-today">⭐ 7841 stars this month</div>
@@ -360,32 +360,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 C#</span>
-						<span>⭐ 21308</span>
-						<span>🔱 1420</span>
+						<span>⭐ 21403</span>
+						<span>🔱 1424</span>
 					</div>
 				<div class="stars-today">⭐ 13285 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/interviewstreet/hiring-agent" target="_blank">
-    
-
-
-      
-        interviewstreet /
-
-      hiring-agent</a></p>
-				<p>
-      AI agent to evaluate and score resumes.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 6431</span>
-						<span>🔱 1120</span>
-					</div>
-				<div class="stars-today">⭐ 5117 stars this month</div>
 				</div>
 			</div>
 	
@@ -404,7 +382,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 C++</span>
-						<span>⭐ 74951</span>
+						<span>⭐ 74954</span>
 						<span>🔱 11930</span>
 					</div>
 				<div class="stars-today">⭐ 1082 stars this month</div>
@@ -426,76 +404,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 8750</span>
-						<span>🔱 966</span>
+						<span>⭐ 8754</span>
+						<span>🔱 967</span>
 					</div>
 				<div class="stars-today">⭐ 2659 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/Panniantong/Agent-Reach" target="_blank">
-    
-
-
-      
-        Panniantong /
-
-      Agent-Reach</a></p>
-				<p>
-      Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 59888</span>
-						<span>🔱 4804</span>
-					</div>
-				<div class="stars-today">⭐ 22480 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/OpenCut-app/OpenCut" target="_blank">
-    
-
-
-      
-        OpenCut-app /
-
-      OpenCut</a></p>
-				<p>
-      The open-source CapCut alternative
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 77799</span>
-						<span>🔱 7773</span>
-					</div>
-				<div class="stars-today">⭐ 19013 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/JCodesMore/ai-website-cloner-template" target="_blank">
-    
-
-
-      
-        JCodesMore /
-
-      ai-website-cloner-template</a></p>
-				<p>
-      Clone any website with one command using AI coding agents
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 29770</span>
-						<span>🔱 4266</span>
-					</div>
-				<div class="stars-today">⭐ 12469 stars this month</div>
 				</div>
 			</div>
 	
@@ -514,10 +426,120 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 26690</span>
-						<span>🔱 4348</span>
+						<span>⭐ 26753</span>
+						<span>🔱 4358</span>
 					</div>
 				<div class="stars-today">⭐ 13554 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/OpenCut-app/OpenCut" target="_blank">
+    
+
+
+      
+        OpenCut-app /
+
+      OpenCut</a></p>
+				<p>
+      The open-source CapCut alternative
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 77898</span>
+						<span>🔱 7781</span>
+					</div>
+				<div class="stars-today">⭐ 19013 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/interviewstreet/hiring-agent" target="_blank">
+    
+
+
+      
+        interviewstreet /
+
+      hiring-agent</a></p>
+				<p>
+      AI agent to evaluate and score resumes.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 6446</span>
+						<span>🔱 1120</span>
+					</div>
+				<div class="stars-today">⭐ 5117 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/Panniantong/Agent-Reach" target="_blank">
+    
+
+
+      
+        Panniantong /
+
+      Agent-Reach</a></p>
+				<p>
+      Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 59979</span>
+						<span>🔱 4808</span>
+					</div>
+				<div class="stars-today">⭐ 22480 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/bradautomates/claude-video" target="_blank">
+    
+
+
+      
+        bradautomates /
+
+      claude-video</a></p>
+				<p>
+      Give Claude the ability to watch any video. /watch downloads, extracts frames, transcribes, hands it all to Claude.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 9690</span>
+						<span>🔱 1034</span>
+					</div>
+				<div class="stars-today">⭐ 7361 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/JCodesMore/ai-website-cloner-template" target="_blank">
+    
+
+
+      
+        JCodesMore /
+
+      ai-website-cloner-template</a></p>
+				<p>
+      Clone any website with one command using AI coding agents
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 29813</span>
+						<span>🔱 4271</span>
+					</div>
+				<div class="stars-today">⭐ 12469 stars this month</div>
 				</div>
 			</div>
 	
