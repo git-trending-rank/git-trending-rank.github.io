@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2026-07-24
-date: 2026-07-24T11:26:52Z
+date: 2026-07-24T13:08:01Z
 categories:
 - daily
 keywords:
@@ -30,10 +30,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Rust</span>
-						<span>⭐ 8311</span>
-						<span>🔱 647</span>
+						<span>⭐ 8579</span>
+						<span>🔱 659</span>
 					</div>
-				<div class="stars-today">⭐ 2162 stars today</div>
+				<div class="stars-today">⭐ 3274 stars today</div>
 				</div>
 			</div>
 	
@@ -52,10 +52,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 72658</span>
-						<span>🔱 10898</span>
+						<span>⭐ 72766</span>
+						<span>🔱 10918</span>
 					</div>
-				<div class="stars-today">⭐ 3175 stars today</div>
+				<div class="stars-today">⭐ 2194 stars today</div>
 				</div>
 			</div>
 	
@@ -74,10 +74,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 69754</span>
-						<span>🔱 7872</span>
+						<span>⭐ 69790</span>
+						<span>🔱 7874</span>
 					</div>
-				<div class="stars-today">⭐ 636 stars today</div>
+				<div class="stars-today">⭐ 662 stars today</div>
 				</div>
 			</div>
 	
@@ -96,10 +96,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Rust</span>
-						<span>⭐ 9128</span>
+						<span>⭐ 9163</span>
 						<span>🔱 622</span>
 					</div>
-				<div class="stars-today">⭐ 565 stars today</div>
+				<div class="stars-today">⭐ 472 stars today</div>
 				</div>
 			</div>
 	
@@ -118,10 +118,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 33316</span>
-						<span>🔱 5662</span>
+						<span>⭐ 33348</span>
+						<span>🔱 5666</span>
 					</div>
-				<div class="stars-today">⭐ 401 stars today</div>
+				<div class="stars-today">⭐ 506 stars today</div>
 				</div>
 			</div>
 	
@@ -140,10 +140,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Rust</span>
-						<span>⭐ 12675</span>
-						<span>🔱 470</span>
+						<span>⭐ 12733</span>
+						<span>🔱 472</span>
 					</div>
-				<div class="stars-today">⭐ 624 stars today</div>
+				<div class="stars-today">⭐ 877 stars today</div>
 				</div>
 			</div>
 	
@@ -162,10 +162,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 4859</span>
-						<span>🔱 329</span>
+						<span>⭐ 4886</span>
+						<span>🔱 330</span>
 					</div>
-				<div class="stars-today">⭐ 472 stars today</div>
+				<div class="stars-today">⭐ 339 stars today</div>
 				</div>
 			</div>
 	
@@ -179,15 +179,15 @@ keywords:
 
       ego-lite</a></p>
 				<p>
-      The best browser for both you and your AI agents work in parallel.
+      The fastest browser for AI agents to run web automation, built for sharing your logged-in browser state with your AI agents, like Codex or Claude Code, without disturbing you. Zero cost, zero config.
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 JavaScript</span>
-						<span>⭐ 2097</span>
+						<span>⭐ 2154</span>
 						<span>🔱 108</span>
 					</div>
-				<div class="stars-today">⭐ 247 stars today</div>
+				<div class="stars-today">⭐ 884 stars today</div>
 				</div>
 			</div>
 	
@@ -206,7 +206,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Go</span>
-						<span>⭐ 19101</span>
+						<span>⭐ 19163</span>
 						<span>🔱 587</span>
 					</div>
 				<div class="stars-today">⭐ 312 stars today</div>
@@ -228,10 +228,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Rust</span>
-						<span>⭐ 85571</span>
-						<span>🔱 11413</span>
+						<span>⭐ 85635</span>
+						<span>🔱 11416</span>
 					</div>
-				<div class="stars-today">⭐ 1708 stars today</div>
+				<div class="stars-today">⭐ 1021 stars today</div>
 				</div>
 			</div>
 	
@@ -245,13 +245,13 @@ keywords:
 
       Instatic</a></p>
 				<p>
-      Instatic is a modern self-hosted visual CMS - get it running in 1 minute
+      The open-source alternative to Webflow, Framer and WordPress. Agentic self-hosted visual CMS outputting clean static pages. Users, roles, plugins, content, database, it's all there. 
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 4027</span>
-						<span>🔱 382</span>
+						<span>⭐ 4069</span>
+						<span>🔱 387</span>
 					</div>
 				<div class="stars-today">⭐ 179 stars today</div>
 				</div>
@@ -272,10 +272,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Assembly</span>
-						<span>⭐ 71263</span>
-						<span>🔱 7929</span>
+						<span>⭐ 71281</span>
+						<span>🔱 7930</span>
 					</div>
-				<div class="stars-today">⭐ 592 stars today</div>
+				<div class="stars-today">⭐ 409 stars today</div>
 				</div>
 			</div>
 	
@@ -294,8 +294,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Shell</span>
-						<span>⭐ 185828</span>
-						<span>🔱 15946</span>
+						<span>⭐ 185973</span>
+						<span>🔱 15959</span>
 					</div>
 				<div class="stars-today">⭐ 2224 stars today</div>
 				</div>
@@ -316,8 +316,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Jupyter Notebook</span>
-						<span>⭐ 44829</span>
-						<span>🔱 5372</span>
+						<span>⭐ 44854</span>
+						<span>🔱 5376</span>
 					</div>
 				<div class="stars-today">⭐ 654 stars today</div>
 				</div>
@@ -338,10 +338,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 28032</span>
-						<span>🔱 3681</span>
+						<span>⭐ 28134</span>
+						<span>🔱 3695</span>
 					</div>
-				<div class="stars-today">⭐ 1929 stars today</div>
+				<div class="stars-today">⭐ 1843 stars today</div>
 				</div>
 			</div>
 	
@@ -360,7 +360,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Java</span>
-						<span>⭐ 26122</span>
+						<span>⭐ 26157</span>
 						<span>🔱 2874</span>
 					</div>
 				<div class="stars-today">⭐ 173 stars today</div>
