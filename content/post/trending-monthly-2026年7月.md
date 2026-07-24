@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2026年7月
-date: 2026-07-24T08:00:00Z
+date: 2026-07-24T11:26:52Z
 categories:
 - monthly
 keywords:
@@ -14,6 +14,28 @@ keywords:
 	<main class="container">
         <div class="repo-list" id="repoList">
 
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/xbtlin/ai-berkshire" target="_blank">
+    
+
+
+      
+        xbtlin /
+
+      ai-berkshire</a></p>
+				<p>
+      AI 时代的伯克希尔：基于 Claude Code / Codex 的价值投资研究框架。巴菲特·芒格·段永平·李录四大师方法论 + 多Agent并行研究。| AI-era Berkshire: a value investing research framework built for Claude Code / Codex. 4 masters' methodologies + multi-agent adversarial analysis.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 13799</span>
+						<span>🔱 1933</span>
+					</div>
+				<div class="stars-today">⭐ 13031 stars this month</div>
+				</div>
+			</div>
 	
 			<div class="repo-card">
 				<p><a href="https://github.com/MadsLorentzen/ai-job-search" target="_blank">
@@ -30,32 +52,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 26061</span>
-						<span>🔱 8503</span>
+						<span>⭐ 26154</span>
+						<span>🔱 8531</span>
 					</div>
 				<div class="stars-today">⭐ 22183 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/usestrix/strix" target="_blank">
-    
-
-
-      
-        usestrix /
-
-      strix</a></p>
-				<p>
-      Open-source AI penetration testing tool to find and fix your app’s vulnerabilities.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 43825</span>
-						<span>🔱 4527</span>
-					</div>
-				<div class="stars-today">⭐ 17842 stars this month</div>
 				</div>
 			</div>
 	
@@ -74,10 +74,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 27763</span>
-						<span>🔱 3646</span>
+						<span>⭐ 28032</span>
+						<span>🔱 3681</span>
 					</div>
 				<div class="stars-today">⭐ 19755 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/usestrix/strix" target="_blank">
+    
+
+
+      
+        usestrix /
+
+      strix</a></p>
+				<p>
+      Open-source AI penetration testing tool to find and fix your app’s vulnerabilities.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 43872</span>
+						<span>🔱 4527</span>
+					</div>
+				<div class="stars-today">⭐ 17842 stars this month</div>
 				</div>
 			</div>
 	
@@ -96,7 +118,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 C++</span>
-						<span>⭐ 21307</span>
+						<span>⭐ 21308</span>
 						<span>🔱 3355</span>
 					</div>
 				<div class="stars-today">⭐ 984 stars this month</div>
@@ -118,32 +140,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 27791</span>
-						<span>🔱 1977</span>
+						<span>⭐ 27954</span>
+						<span>🔱 1985</span>
 					</div>
 				<div class="stars-today">⭐ 20972 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/Zackriya-Solutions/meetily" target="_blank">
-    
-
-
-      
-        Zackriya-Solutions /
-
-      meetily</a></p>
-				<p>
-      Privacy first, AI meeting assistant with 4x faster Parakeet/Whisper live transcription, speaker diarization, and Ollama summarization built on Rust. 100% local processing. no cloud required. Meetily (Meetly Ai - https://meetily.ai) is the #1 Self-hosted, Open-source Ai meeting note taker for macOS & Windows. Understand How to write meeting minutes
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Rust</span>
-						<span>⭐ 26369</span>
-						<span>🔱 2658</span>
-					</div>
-				<div class="stars-today">⭐ 13587 stars this month</div>
 				</div>
 			</div>
 	
@@ -162,10 +162,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Rust</span>
-						<span>⭐ 20165</span>
+						<span>⭐ 20228</span>
 						<span>🔱 1324</span>
 					</div>
 				<div class="stars-today">⭐ 13100 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/Zackriya-Solutions/meetily" target="_blank">
+    
+
+
+      
+        Zackriya-Solutions /
+
+      meetily</a></p>
+				<p>
+      Privacy first, AI meeting assistant with 4x faster Parakeet/Whisper live transcription, speaker diarization, and Ollama summarization built on Rust. 100% local processing. no cloud required. Meetily (Meetly Ai - https://meetily.ai) is the #1 Self-hosted, Open-source Ai meeting note taker for macOS & Windows. Understand How to write meeting minutes
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Rust</span>
+						<span>⭐ 26393</span>
+						<span>🔱 2661</span>
+					</div>
+				<div class="stars-today">⭐ 13587 stars this month</div>
 				</div>
 			</div>
 	
@@ -184,32 +206,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 C</span>
-						<span>⭐ 34707</span>
-						<span>🔱 2684</span>
+						<span>⭐ 34757</span>
+						<span>🔱 2689</span>
 					</div>
 				<div class="stars-today">⭐ 22464 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/kunchenguid/no-mistakes" target="_blank">
-    
-
-
-      
-        kunchenguid /
-
-      no-mistakes</a></p>
-				<p>
-      git push no-mistakes
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Go</span>
-						<span>⭐ 6994</span>
-						<span>🔱 539</span>
-					</div>
-				<div class="stars-today">⭐ 5370 stars this month</div>
 				</div>
 			</div>
 	
@@ -228,54 +228,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 JavaScript</span>
-						<span>⭐ 60148</span>
-						<span>🔱 9799</span>
+						<span>⭐ 60193</span>
+						<span>🔱 9808</span>
 					</div>
 				<div class="stars-today">⭐ 14994 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/calesthio/OpenMontage" target="_blank">
-    
-
-
-      
-        calesthio /
-
-      OpenMontage</a></p>
-				<p>
-      World's first open-source, agentic video production system. 12 production pipelines, 100+ tools, 700+ agent skill and production-knowledge files. Turn your AI coding assistant into a full video production studio.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 41768</span>
-						<span>🔱 4974</span>
-					</div>
-				<div class="stars-today">⭐ 27748 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/alibaba/page-agent" target="_blank">
-    
-
-
-      
-        alibaba /
-
-      page-agent</a></p>
-				<p>
-      JavaScript in-page GUI agent. Control web interfaces with natural language.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 27655</span>
-						<span>🔱 2429</span>
-					</div>
-				<div class="stars-today">⭐ 8657 stars this month</div>
 				</div>
 			</div>
 	
@@ -294,8 +250,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 15183</span>
-						<span>🔱 1570</span>
+						<span>⭐ 15212</span>
+						<span>🔱 1574</span>
 					</div>
 				<div class="stars-today">⭐ 7873 stars this month</div>
 				</div>
@@ -316,32 +272,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 CSS</span>
-						<span>⭐ 16459</span>
-						<span>🔱 828</span>
+						<span>⭐ 16525</span>
+						<span>🔱 830</span>
 					</div>
 				<div class="stars-today">⭐ 12692 stars this month</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/simplex-chat/simplex-chat" target="_blank">
+				<p><a href="https://github.com/alibaba/page-agent" target="_blank">
     
 
 
       
-        simplex-chat /
+        alibaba /
 
-      simplex-chat</a></p>
+      page-agent</a></p>
 				<p>
-      SimpleX - the first messaging network operating without user identifiers of any kind - 100% private by design! iOS, Android and desktop apps 📱!
+      JavaScript in-page GUI agent. Control web interfaces with natural language.
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Haskell</span>
-						<span>⭐ 18959</span>
-						<span>🔱 1189</span>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 27668</span>
+						<span>🔱 2430</span>
 					</div>
-				<div class="stars-today">⭐ 7880 stars this month</div>
+				<div class="stars-today">⭐ 8657 stars this month</div>
 				</div>
 			</div>
 	
@@ -360,8 +316,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 C#</span>
-						<span>⭐ 21745</span>
-						<span>🔱 1455</span>
+						<span>⭐ 21801</span>
+						<span>🔱 1457</span>
 					</div>
 				<div class="stars-today">⭐ 13655 stars this month</div>
 				</div>
@@ -382,10 +338,98 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 C++</span>
-						<span>⭐ 74992</span>
-						<span>🔱 11931</span>
+						<span>⭐ 75001</span>
+						<span>🔱 11930</span>
 					</div>
 				<div class="stars-today">⭐ 1079 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/calesthio/OpenMontage" target="_blank">
+    
+
+
+      
+        calesthio /
+
+      OpenMontage</a></p>
+				<p>
+      World's first open-source, agentic video production system. 12 production pipelines, 100+ tools, 700+ agent skill and production-knowledge files. Turn your AI coding assistant into a full video production studio.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 41828</span>
+						<span>🔱 4982</span>
+					</div>
+				<div class="stars-today">⭐ 27748 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/simplex-chat/simplex-chat" target="_blank">
+    
+
+
+      
+        simplex-chat /
+
+      simplex-chat</a></p>
+				<p>
+      SimpleX - the first messaging network operating without user identifiers of any kind - 100% private by design! iOS, Android and desktop apps 📱!
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Haskell</span>
+						<span>⭐ 18968</span>
+						<span>🔱 1189</span>
+					</div>
+				<div class="stars-today">⭐ 7880 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/kunchenguid/no-mistakes" target="_blank">
+    
+
+
+      
+        kunchenguid /
+
+      no-mistakes</a></p>
+				<p>
+      git push no-mistakes
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Go</span>
+						<span>⭐ 7007</span>
+						<span>🔱 539</span>
+					</div>
+				<div class="stars-today">⭐ 5370 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/koala73/worldmonitor" target="_blank">
+    
+
+
+      
+        koala73 /
+
+      worldmonitor</a></p>
+				<p>
+      Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 72658</span>
+						<span>🔱 10898</span>
+					</div>
+				<div class="stars-today">⭐ 12432 stars this month</div>
 				</div>
 			</div>
 	
@@ -404,7 +448,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 8792</span>
+						<span>⭐ 8797</span>
 						<span>🔱 969</span>
 					</div>
 				<div class="stars-today">⭐ 2694 stars this month</div>
@@ -426,76 +470,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 27068</span>
-						<span>🔱 4398</span>
+						<span>⭐ 27141</span>
+						<span>🔱 4408</span>
 					</div>
 				<div class="stars-today">⭐ 13875 stars this month</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/OpenCut-app/OpenCut" target="_blank">
+				<p><a href="https://github.com/gabime/spdlog" target="_blank">
     
 
 
       
-        OpenCut-app /
+        gabime /
 
-      OpenCut</a></p>
+      spdlog</a></p>
 				<p>
-      The open-source CapCut alternative
+      Fast C++ logging library.
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 78231</span>
-						<span>🔱 7808</span>
+						<span>🔠 C++</span>
+						<span>⭐ 29244</span>
+						<span>🔱 5261</span>
 					</div>
-				<div class="stars-today">⭐ 19270 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/interviewstreet/hiring-agent" target="_blank">
-    
-
-
-      
-        interviewstreet /
-
-      hiring-agent</a></p>
-				<p>
-      AI agent to evaluate and score resumes.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 6512</span>
-						<span>🔱 1129</span>
-					</div>
-				<div class="stars-today">⭐ 4897 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/Panniantong/Agent-Reach" target="_blank">
-    
-
-
-      
-        Panniantong /
-
-      Agent-Reach</a></p>
-				<p>
-      Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 60363</span>
-						<span>🔱 4851</span>
-					</div>
-				<div class="stars-today">⭐ 22184 stars this month</div>
+				<div class="stars-today">⭐ 439 stars this month</div>
 				</div>
 			</div>
 	
@@ -514,32 +514,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 9831</span>
-						<span>🔱 1043</span>
+						<span>⭐ 9856</span>
+						<span>🔱 1045</span>
 					</div>
 				<div class="stars-today">⭐ 7386 stars this month</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/JCodesMore/ai-website-cloner-template" target="_blank">
+				<p><a href="https://github.com/OpenCut-app/OpenCut" target="_blank">
     
 
 
       
-        JCodesMore /
+        OpenCut-app /
 
-      ai-website-cloner-template</a></p>
+      OpenCut</a></p>
 				<p>
-      Clone any website with one command using AI coding agents
+      The open-source CapCut alternative
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 29975</span>
-						<span>🔱 4295</span>
+						<span>⭐ 78273</span>
+						<span>🔱 7813</span>
 					</div>
-				<div class="stars-today">⭐ 11907 stars this month</div>
+				<div class="stars-today">⭐ 19270 stars this month</div>
 				</div>
 			</div>
 	
