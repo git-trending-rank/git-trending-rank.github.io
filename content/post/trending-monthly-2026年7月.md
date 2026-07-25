@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2026年7月
-date: 2026-07-25T10:57:08Z
+date: 2026-07-25T12:49:02Z
 categories:
 - monthly
 keywords:
@@ -14,28 +14,6 @@ keywords:
 	<main class="container">
         <div class="repo-list" id="repoList">
 
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/xbtlin/ai-berkshire" target="_blank">
-    
-
-
-      
-        xbtlin /
-
-      ai-berkshire</a></p>
-				<p>
-      AI 时代的伯克希尔：基于 Claude Code / Codex 的价值投资研究框架。巴菲特·芒格·段永平·李录四大师方法论 + 多Agent并行研究。| AI-era Berkshire: a value investing research framework built for Claude Code / Codex. 4 masters' methodologies + multi-agent adversarial analysis.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 13985</span>
-						<span>🔱 1963</span>
-					</div>
-				<div class="stars-today">⭐ 12691 stars this month</div>
-				</div>
-			</div>
 	
 			<div class="repo-card">
 				<p><a href="https://github.com/MadsLorentzen/ai-job-search" target="_blank">
@@ -52,8 +30,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 26559</span>
-						<span>🔱 8693</span>
+						<span>⭐ 26614</span>
+						<span>🔱 8709</span>
 					</div>
 				<div class="stars-today">⭐ 22740 stars this month</div>
 				</div>
@@ -74,8 +52,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 29447</span>
-						<span>🔱 3841</span>
+						<span>⭐ 29536</span>
+						<span>🔱 3847</span>
 					</div>
 				<div class="stars-today">⭐ 21480 stars this month</div>
 				</div>
@@ -96,10 +74,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 44089</span>
-						<span>🔱 4557</span>
+						<span>⭐ 44099</span>
+						<span>🔱 4558</span>
 					</div>
 				<div class="stars-today">⭐ 18109 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/xbtlin/ai-berkshire" target="_blank">
+    
+
+
+      
+        xbtlin /
+
+      ai-berkshire</a></p>
+				<p>
+      AI 时代的伯克希尔：基于 Claude Code / Codex 的价值投资研究框架。巴菲特·芒格·段永平·李录四大师方法论 + 多Agent并行研究。| AI-era Berkshire: a value investing research framework built for Claude Code / Codex. 4 masters' methodologies + multi-agent adversarial analysis.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 13991</span>
+						<span>🔱 1964</span>
+					</div>
+				<div class="stars-today">⭐ 12691 stars this month</div>
 				</div>
 			</div>
 	
@@ -118,7 +118,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 C++</span>
-						<span>⭐ 21322</span>
+						<span>⭐ 21323</span>
 						<span>🔱 3363</span>
 					</div>
 				<div class="stars-today">⭐ 1003 stars this month</div>
@@ -140,32 +140,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 28666</span>
-						<span>🔱 2034</span>
+						<span>⭐ 28723</span>
+						<span>🔱 2035</span>
 					</div>
 				<div class="stars-today">⭐ 21756 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/ogulcancelik/herdr" target="_blank">
-    
-
-
-      
-        ogulcancelik /
-
-      herdr</a></p>
-				<p>
-      agent multiplexer that lives in your terminal.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Rust</span>
-						<span>⭐ 20560</span>
-						<span>🔱 1352</span>
-					</div>
-				<div class="stars-today">⭐ 13424 stars this month</div>
 				</div>
 			</div>
 	
@@ -184,10 +162,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Rust</span>
-						<span>⭐ 26536</span>
+						<span>⭐ 26545</span>
 						<span>🔱 2677</span>
 					</div>
 				<div class="stars-today">⭐ 13765 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/ogulcancelik/herdr" target="_blank">
+    
+
+
+      
+        ogulcancelik /
+
+      herdr</a></p>
+				<p>
+      agent multiplexer that lives in your terminal.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Rust</span>
+						<span>⭐ 20596</span>
+						<span>🔱 1355</span>
+					</div>
+				<div class="stars-today">⭐ 13424 stars this month</div>
 				</div>
 			</div>
 	
@@ -206,7 +206,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 C</span>
-						<span>⭐ 35154</span>
+						<span>⭐ 35184</span>
 						<span>🔱 2724</span>
 					</div>
 				<div class="stars-today">⭐ 21376 stars this month</div>
@@ -228,8 +228,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 JavaScript</span>
-						<span>⭐ 60387</span>
-						<span>🔱 9849</span>
+						<span>⭐ 60393</span>
+						<span>🔱 9851</span>
 					</div>
 				<div class="stars-today">⭐ 14978 stars this month</div>
 				</div>
@@ -250,8 +250,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 15349</span>
-						<span>🔱 1595</span>
+						<span>⭐ 15353</span>
+						<span>🔱 1596</span>
 					</div>
 				<div class="stars-today">⭐ 8070 stars this month</div>
 				</div>
@@ -272,142 +272,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 CSS</span>
-						<span>⭐ 17341</span>
-						<span>🔱 871</span>
+						<span>⭐ 17376</span>
+						<span>🔱 873</span>
 					</div>
 				<div class="stars-today">⭐ 13239 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/alibaba/page-agent" target="_blank">
-    
-
-
-      
-        alibaba /
-
-      page-agent</a></p>
-				<p>
-      JavaScript in-page GUI agent. Control web interfaces with natural language.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 27763</span>
-						<span>🔱 2439</span>
-					</div>
-				<div class="stars-today">⭐ 8476 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/iOfficeAI/OfficeCLI" target="_blank">
-    
-
-
-      
-        iOfficeAI /
-
-      OfficeCLI</a></p>
-				<p>
-      OfficeCLI is the first and best Office suite purpose-built for AI agents to read, edit, and automate Word, Excel, and PowerPoint files. Free, open-source, single binary, no Office installation required.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 C#</span>
-						<span>⭐ 22028</span>
-						<span>🔱 1483</span>
-					</div>
-				<div class="stars-today">⭐ 13959 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/ocornut/imgui" target="_blank">
-    
-
-
-      
-        ocornut /
-
-      imgui</a></p>
-				<p>
-      Dear ImGui: Bloat-free Graphical User interface for C++ with minimal dependencies
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 C++</span>
-						<span>⭐ 75038</span>
-						<span>🔱 11942</span>
-					</div>
-				<div class="stars-today">⭐ 1109 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/calesthio/OpenMontage" target="_blank">
-    
-
-
-      
-        calesthio /
-
-      OpenMontage</a></p>
-				<p>
-      World's first open-source, agentic video production system. 12 production pipelines, 100+ tools, 700+ agent skill and production-knowledge files. Turn your AI coding assistant into a full video production studio.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 42098</span>
-						<span>🔱 5021</span>
-					</div>
-				<div class="stars-today">⭐ 24525 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/simplex-chat/simplex-chat" target="_blank">
-    
-
-
-      
-        simplex-chat /
-
-      simplex-chat</a></p>
-				<p>
-      SimpleX - the first messaging network operating without user identifiers of any kind - 100% private by design! iOS, Android and desktop apps 📱!
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Haskell</span>
-						<span>⭐ 19015</span>
-						<span>🔱 1198</span>
-					</div>
-				<div class="stars-today">⭐ 7914 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/kunchenguid/no-mistakes" target="_blank">
-    
-
-
-      
-        kunchenguid /
-
-      no-mistakes</a></p>
-				<p>
-      git push no-mistakes
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Go</span>
-						<span>⭐ 7067</span>
-						<span>🔱 548</span>
-					</div>
-				<div class="stars-today">⭐ 5363 stars this month</div>
 				</div>
 			</div>
 	
@@ -426,32 +294,76 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 73800</span>
-						<span>🔱 11071</span>
+						<span>⭐ 73865</span>
+						<span>🔱 11085</span>
 					</div>
 				<div class="stars-today">⭐ 13611 stars this month</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/wonderwhy-er/DesktopCommanderMCP" target="_blank">
+				<p><a href="https://github.com/iOfficeAI/OfficeCLI" target="_blank">
     
 
 
       
-        wonderwhy-er /
+        iOfficeAI /
 
-      DesktopCommanderMCP</a></p>
+      OfficeCLI</a></p>
 				<p>
-      This is MCP server for Claude that gives it terminal control, file system search and diff file editing capabilities
+      OfficeCLI is the first and best Office suite purpose-built for AI agents to read, edit, and automate Word, Excel, and PowerPoint files. Free, open-source, single binary, no Office installation required.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 C#</span>
+						<span>⭐ 22045</span>
+						<span>🔱 1484</span>
+					</div>
+				<div class="stars-today">⭐ 13959 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/alibaba/page-agent" target="_blank">
+    
+
+
+      
+        alibaba /
+
+      page-agent</a></p>
+				<p>
+      JavaScript in-page GUI agent. Control web interfaces with natural language.
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 8822</span>
-						<span>🔱 979</span>
+						<span>⭐ 27769</span>
+						<span>🔱 2440</span>
 					</div>
-				<div class="stars-today">⭐ 2730 stars this month</div>
+				<div class="stars-today">⭐ 8476 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/ocornut/imgui" target="_blank">
+    
+
+
+      
+        ocornut /
+
+      imgui</a></p>
+				<p>
+      Dear ImGui: Bloat-free Graphical User interface for C++ with minimal dependencies
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 C++</span>
+						<span>⭐ 75040</span>
+						<span>🔱 11940</span>
+					</div>
+				<div class="stars-today">⭐ 1109 stars this month</div>
 				</div>
 			</div>
 	
@@ -470,32 +382,54 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 27432</span>
-						<span>🔱 4463</span>
+						<span>⭐ 27450</span>
+						<span>🔱 4466</span>
 					</div>
 				<div class="stars-today">⭐ 14184 stars this month</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/gabime/spdlog" target="_blank">
+				<p><a href="https://github.com/wonderwhy-er/DesktopCommanderMCP" target="_blank">
     
 
 
       
-        gabime /
+        wonderwhy-er /
 
-      spdlog</a></p>
+      DesktopCommanderMCP</a></p>
 				<p>
-      Fast C++ logging library.
+      This is MCP server for Claude that gives it terminal control, file system search and diff file editing capabilities
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 C++</span>
-						<span>⭐ 29260</span>
-						<span>🔱 5270</span>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 8824</span>
+						<span>🔱 979</span>
 					</div>
-				<div class="stars-today">⭐ 440 stars this month</div>
+				<div class="stars-today">⭐ 2730 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/every-app/open-seo" target="_blank">
+    
+
+
+      
+        every-app /
+
+      open-seo</a></p>
+				<p>
+      Open source alternative to Semrush and Ahrefs
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 7817</span>
+						<span>🔱 852</span>
+					</div>
+				<div class="stars-today">⭐ 5394 stars this month</div>
 				</div>
 			</div>
 	
@@ -514,7 +448,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 9990</span>
+						<span>⭐ 9994</span>
 						<span>🔱 1059</span>
 					</div>
 				<div class="stars-today">⭐ 7470 stars this month</div>
@@ -536,10 +470,54 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 78547</span>
-						<span>🔱 7846</span>
+						<span>⭐ 78574</span>
+						<span>🔱 7849</span>
 					</div>
 				<div class="stars-today">⭐ 19277 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/calesthio/OpenMontage" target="_blank">
+    
+
+
+      
+        calesthio /
+
+      OpenMontage</a></p>
+				<p>
+      World's first open-source, agentic video production system. 12 production pipelines, 100+ tools, 700+ agent skill and production-knowledge files. Turn your AI coding assistant into a full video production studio.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 42116</span>
+						<span>🔱 5024</span>
+					</div>
+				<div class="stars-today">⭐ 24525 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/simplex-chat/simplex-chat" target="_blank">
+    
+
+
+      
+        simplex-chat /
+
+      simplex-chat</a></p>
+				<p>
+      SimpleX - the first messaging network operating without user identifiers of any kind - 100% private by design! iOS, Android and desktop apps 📱!
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Haskell</span>
+						<span>⭐ 19017</span>
+						<span>🔱 1198</span>
+					</div>
+				<div class="stars-today">⭐ 7914 stars this month</div>
 				</div>
 			</div>
 	

@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2026-07-25
-date: 2026-07-25T10:57:08Z
+date: 2026-07-25T12:49:02Z
 categories:
 - daily
 keywords:
@@ -30,142 +30,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Rust</span>
-						<span>⭐ 10814</span>
-						<span>🔱 842</span>
+						<span>⭐ 10972</span>
+						<span>🔱 854</span>
 					</div>
-				<div class="stars-today">⭐ 3270 stars today</div>
+				<div class="stars-today">⭐ 2506 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/koala73/worldmonitor" target="_blank">
+				<p><a href="https://github.com/alibaba/open-code-review" target="_blank">
     
 
 
       
-        koala73 /
+        alibaba /
 
-      worldmonitor</a></p>
+      open-code-review</a></p>
 				<p>
-      Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface
+      Open-source & free — Battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in fine-tuned ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 73800</span>
-						<span>🔱 11071</span>
+						<span>🔠 Go</span>
+						<span>⭐ 12608</span>
+						<span>🔱 860</span>
 					</div>
-				<div class="stars-today">⭐ 2184 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/ComposioHQ/awesome-claude-skills" target="_blank">
-    
-
-
-      
-        ComposioHQ /
-
-      awesome-claude-skills</a></p>
-				<p>
-      A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 70316</span>
-						<span>🔱 7921</span>
-					</div>
-				<div class="stars-today">⭐ 663 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/Pumpkin-MC/Pumpkin" target="_blank">
-    
-
-
-      
-        Pumpkin-MC /
-
-      Pumpkin</a></p>
-				<p>
-      Empowering everyone to host fast and efficient Minecraft servers.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Rust</span>
-						<span>⭐ 9474</span>
-						<span>🔱 638</span>
-					</div>
-				<div class="stars-today">⭐ 473 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/shiyu-coder/Kronos" target="_blank">
-    
-
-
-      
-        shiyu-coder /
-
-      Kronos</a></p>
-				<p>
-      Kronos: A Foundation Model for the Language of Financial Markets
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 33637</span>
-						<span>🔱 5685</span>
-					</div>
-				<div class="stars-today">⭐ 499 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/Automattic/harper" target="_blank">
-    
-
-
-      
-        Automattic /
-
-      harper</a></p>
-				<p>
-      Offline, privacy-first grammar checker. Fast, open-source, Rust-powered
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Rust</span>
-						<span>⭐ 13192</span>
-						<span>🔱 492</span>
-					</div>
-				<div class="stars-today">⭐ 876 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/likec4/likec4" target="_blank">
-    
-
-
-      
-        likec4 /
-
-      likec4</a></p>
-				<p>
-      Visualize, collaborate, and evolve the software architecture with always actual and live diagrams from your code
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 5131</span>
-						<span>🔱 338</span>
-					</div>
-				<div class="stars-today">⭐ 337 stars today</div>
+				<div class="stars-today">⭐ 1066 stars today</div>
 				</div>
 			</div>
 	
@@ -184,98 +74,164 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 JavaScript</span>
-						<span>⭐ 3061</span>
-						<span>🔱 148</span>
+						<span>⭐ 3131</span>
+						<span>🔱 151</span>
 					</div>
-				<div class="stars-today">⭐ 880 stars today</div>
+				<div class="stars-today">⭐ 986 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/yorukot/superfile" target="_blank">
+				<p><a href="https://github.com/ComposioHQ/awesome-claude-skills" target="_blank">
     
 
 
       
-        yorukot /
+        ComposioHQ /
 
-      superfile</a></p>
+      awesome-claude-skills</a></p>
 				<p>
-      Pretty fancy and modern terminal file manager
+      A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Go</span>
-						<span>⭐ 19809</span>
-						<span>🔱 608</span>
+						<span>🔠 Python</span>
+						<span>⭐ 70345</span>
+						<span>🔱 7925</span>
 					</div>
-				<div class="stars-today">⭐ 338 stars today</div>
+				<div class="stars-today">⭐ 574 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/ruvnet/RuView" target="_blank">
+				<p><a href="https://github.com/anthropics/claude-cookbooks" target="_blank">
     
 
 
       
-        ruvnet /
+        anthropics /
 
-      RuView</a></p>
+      claude-cookbooks</a></p>
 				<p>
-      π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.
+      A collection of notebooks/recipes showcasing some fun and effective ways of using Claude.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Jupyter Notebook</span>
+						<span>⭐ 49698</span>
+						<span>🔱 5888</span>
+					</div>
+				<div class="stars-today">⭐ 144 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/Automattic/harper" target="_blank">
+    
+
+
+      
+        Automattic /
+
+      harper</a></p>
+				<p>
+      Offline, privacy-first grammar checker. Fast, open-source, Rust-powered
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Rust</span>
-						<span>⭐ 86164</span>
-						<span>🔱 11463</span>
+						<span>⭐ 13223</span>
+						<span>🔱 492</span>
 					</div>
-				<div class="stars-today">⭐ 1022 stars today</div>
+				<div class="stars-today">⭐ 503 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/CoreBunch/Instatic" target="_blank">
+				<p><a href="https://github.com/shiyu-coder/Kronos" target="_blank">
     
 
 
       
-        CoreBunch /
+        shiyu-coder /
 
-      Instatic</a></p>
+      Kronos</a></p>
 				<p>
-      The open-source alternative to Webflow, Framer and WordPress. Agentic self-hosted visual CMS outputting clean static pages. Users, roles, plugins, content, database, it's all there. 
+      Kronos: A Foundation Model for the Language of Financial Markets
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 4447</span>
-						<span>🔱 418</span>
+						<span>🔠 Python</span>
+						<span>⭐ 33654</span>
+						<span>🔱 5690</span>
 					</div>
-				<div class="stars-today">⭐ 201 stars today</div>
+				<div class="stars-today">⭐ 319 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/chrislgarry/Apollo-11" target="_blank">
+				<p><a href="https://github.com/obra/superpowers" target="_blank">
     
 
 
       
-        chrislgarry /
+        obra /
 
-      Apollo-11</a></p>
+      superpowers</a></p>
 				<p>
-      Original Apollo 11 Guidance Computer (AGC) source code for the command and lunar modules.
+      An agentic skills framework & software development methodology that works.
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Assembly</span>
-						<span>⭐ 71470</span>
-						<span>🔱 7937</span>
+						<span>🔠 Shell</span>
+						<span>⭐ 260812</span>
+						<span>🔱 23268</span>
 					</div>
-				<div class="stars-today">⭐ 409 stars today</div>
+				<div class="stars-today">⭐ 600 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/Pumpkin-MC/Pumpkin" target="_blank">
+    
+
+
+      
+        Pumpkin-MC /
+
+      Pumpkin</a></p>
+				<p>
+      Empowering everyone to host fast and efficient Minecraft servers.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Rust</span>
+						<span>⭐ 9510</span>
+						<span>🔱 638</span>
+					</div>
+				<div class="stars-today">⭐ 357 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/permissionlesstech/bitchat" target="_blank">
+    
+
+
+      
+        permissionlesstech /
+
+      bitchat</a></p>
+				<p>
+      bluetooth mesh chat, IRC vibes
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Swift</span>
+						<span>⭐ 28094</span>
+						<span>🔱 3973</span>
+					</div>
+				<div class="stars-today">⭐ 1695 stars today</div>
 				</div>
 			</div>
 	
@@ -294,10 +250,54 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Shell</span>
-						<span>⭐ 187523</span>
-						<span>🔱 16098</span>
+						<span>⭐ 187625</span>
+						<span>🔱 16115</span>
 					</div>
-				<div class="stars-today">⭐ 2251 stars today</div>
+				<div class="stars-today">⭐ 1743 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/palmier-io/palmier-pro" target="_blank">
+    
+
+
+      
+        palmier-io /
+
+      palmier-pro</a></p>
+				<p>
+      macOS video editor built for AI
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Swift</span>
+						<span>⭐ 12014</span>
+						<span>🔱 887</span>
+					</div>
+				<div class="stars-today">⭐ 731 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/CoreBunch/Instatic" target="_blank">
+    
+
+
+      
+        CoreBunch /
+
+      Instatic</a></p>
+				<p>
+      The open-source alternative to Webflow, Framer and WordPress. Agentic self-hosted visual CMS outputting clean static pages. Users, roles, plugins, content, database, it's all there. 
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 4479</span>
+						<span>🔱 422</span>
+					</div>
+				<div class="stars-today">⭐ 424 stars today</div>
 				</div>
 			</div>
 	
@@ -316,32 +316,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Jupyter Notebook</span>
-						<span>⭐ 45219</span>
-						<span>🔱 5405</span>
+						<span>⭐ 45244</span>
+						<span>🔱 5410</span>
 					</div>
-				<div class="stars-today">⭐ 328 stars today</div>
+				<div class="stars-today">⭐ 405 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/diegosouzapw/OmniRoute" target="_blank">
+				<p><a href="https://github.com/RyanCodrai/turbovec" target="_blank">
     
 
 
       
-        diegosouzapw /
+        RyanCodrai /
 
-      OmniRoute</a></p>
+      turbovec</a></p>
 				<p>
-      Never stop coding. Free MIT AI gateway: one endpoint, 290+ providers (90+ free), 500+ models — Kimi, Claude, GPT, OpenAI, Gemini, GLM, DeepSeek, MiniMax. Works with Claude Code, Codex, Cursor, OpenCode, Cline & Copilot. Quota-aware auto-fallback, RTK+Caveman compression saves 15-95% tokens, MCP/A2A, Desktop/PWA. Built by 500+ contributors
+      A vector index built on TurboQuant, written in Rust with Python bindings
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 29447</span>
-						<span>🔱 3841</span>
+						<span>🔠 Python</span>
+						<span>⭐ 14156</span>
+						<span>🔱 1264</span>
 					</div>
-				<div class="stars-today">⭐ 1841 stars today</div>
+				<div class="stars-today">⭐ 89 stars today</div>
 				</div>
 			</div>
 	
@@ -360,10 +360,54 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Java</span>
-						<span>⭐ 26483</span>
+						<span>⭐ 26500</span>
 						<span>🔱 2891</span>
 					</div>
-				<div class="stars-today">⭐ 82 stars today</div>
+				<div class="stars-today">⭐ 364 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/andrewyng/aisuite" target="_blank">
+    
+
+
+      
+        andrewyng /
+
+      aisuite</a></p>
+				<p>
+      Simple, unified interface to multiple Generative AI providers 
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 15130</span>
+						<span>🔱 1609</span>
+					</div>
+				<div class="stars-today">⭐ 75 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/affaan-m/ECC" target="_blank">
+    
+
+
+      
+        affaan-m /
+
+      ECC</a></p>
+				<p>
+      The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 JavaScript</span>
+						<span>⭐ 233092</span>
+						<span>🔱 35528</span>
+					</div>
+				<div class="stars-today">⭐ 364 stars today</div>
 				</div>
 			</div>
 	
