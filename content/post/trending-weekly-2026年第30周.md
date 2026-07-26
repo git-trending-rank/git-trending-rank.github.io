@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2026年第30周
-date: 2026-07-26T07:58:22Z
+date: 2026-07-26T11:09:53Z
 categories:
 - weekly
 keywords:
@@ -30,8 +30,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 20140</span>
-						<span>🔱 2010</span>
+						<span>⭐ 20307</span>
+						<span>🔱 2025</span>
 					</div>
 				<div class="stars-today">⭐ 16579 stars this week</div>
 				</div>
@@ -52,8 +52,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 74324</span>
-						<span>🔱 11156</span>
+						<span>⭐ 74407</span>
+						<span>🔱 11174</span>
 					</div>
 				<div class="stars-today">⭐ 12085 stars this week</div>
 				</div>
@@ -74,8 +74,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 26460</span>
-						<span>🔱 2471</span>
+						<span>⭐ 26492</span>
+						<span>🔱 2473</span>
 					</div>
 				<div class="stars-today">⭐ 6423 stars this week</div>
 				</div>
@@ -96,32 +96,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Rust</span>
-						<span>⭐ 11519</span>
-						<span>🔱 1272</span>
+						<span>⭐ 11548</span>
+						<span>🔱 1276</span>
 					</div>
 				<div class="stars-today">⭐ 2914 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/agegr/pi-web" target="_blank">
-    
-
-
-      
-        agegr /
-
-      pi-web</a></p>
-				<p>
-      Web UI for the pi coding agent
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 2783</span>
-						<span>🔱 378</span>
-					</div>
-				<div class="stars-today">⭐ 1450 stars this week</div>
 				</div>
 			</div>
 	
@@ -140,32 +118,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 30282</span>
-						<span>🔱 3951</span>
+						<span>⭐ 30414</span>
+						<span>🔱 3962</span>
 					</div>
 				<div class="stars-today">⭐ 11147 stars this week</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/MoonshotAI/kimi-code" target="_blank">
+				<p><a href="https://github.com/agegr/pi-web" target="_blank">
     
 
 
       
-        MoonshotAI /
+        agegr /
 
-      kimi-code</a></p>
+      pi-web</a></p>
 				<p>
-      Kimi Code CLI — The Starting Point for Next-Gen Agents
+      Web UI for the pi coding agent
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 5102</span>
-						<span>🔱 746</span>
+						<span>⭐ 2808</span>
+						<span>🔱 379</span>
 					</div>
-				<div class="stars-today">⭐ 1534 stars this week</div>
+				<div class="stars-today">⭐ 1450 stars this week</div>
 				</div>
 			</div>
 	
@@ -184,54 +162,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 77726</span>
-						<span>🔱 9572</span>
+						<span>⭐ 77825</span>
+						<span>🔱 9579</span>
 					</div>
 				<div class="stars-today">⭐ 5167 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/MoonshotAI/kimi-cli" target="_blank">
-    
-
-
-      
-        MoonshotAI /
-
-      kimi-cli</a></p>
-				<p>
-      Kimi Code CLI is your next CLI agent.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 10847</span>
-						<span>🔱 1255</span>
-					</div>
-				<div class="stars-today">⭐ 1537 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/rohitg00/ai-engineering-from-scratch" target="_blank">
-    
-
-
-      
-        rohitg00 /
-
-      ai-engineering-from-scratch</a></p>
-				<p>
-      Learn it. Build it. Ship it for others.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 43563</span>
-						<span>🔱 7301</span>
-					</div>
-				<div class="stars-today">⭐ 4518 stars this week</div>
 				</div>
 			</div>
 	
@@ -250,8 +184,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Shell</span>
-						<span>⭐ 188682</span>
-						<span>🔱 16210</span>
+						<span>⭐ 188927</span>
+						<span>🔱 16224</span>
 					</div>
 				<div class="stars-today">⭐ 11790 stars this week</div>
 				</div>
@@ -272,54 +206,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Rust</span>
-						<span>⭐ 86454</span>
-						<span>🔱 11502</span>
+						<span>⭐ 86490</span>
+						<span>🔱 11507</span>
 					</div>
 				<div class="stars-today">⭐ 5313 stars this week</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/HKUDS/DeepTutor" target="_blank">
+				<p><a href="https://github.com/rohitg00/ai-engineering-from-scratch" target="_blank">
     
 
 
       
-        HKUDS /
+        rohitg00 /
 
-      DeepTutor</a></p>
+      ai-engineering-from-scratch</a></p>
 				<p>
-      DeepTutor: Lifelong Personalized Tutoring. https://deeptutor.info/.
+      Learn it. Build it. Ship it for others.
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 29887</span>
-						<span>🔱 3936</span>
+						<span>⭐ 43598</span>
+						<span>🔱 7314</span>
 					</div>
-				<div class="stars-today">⭐ 2154 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/Nutlope/hallmark" target="_blank">
-    
-
-
-      
-        Nutlope /
-
-      hallmark</a></p>
-				<p>
-      Anti-AI-slop design skill for Claude Code, Cursor, and Codex.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 CSS</span>
-						<span>⭐ 17854</span>
-						<span>🔱 898</span>
-					</div>
-				<div class="stars-today">⭐ 4881 stars this week</div>
+				<div class="stars-today">⭐ 4518 stars this week</div>
 				</div>
 			</div>
 	
@@ -338,10 +250,54 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Rust</span>
-						<span>⭐ 9787</span>
-						<span>🔱 660</span>
+						<span>⭐ 9822</span>
+						<span>🔱 665</span>
 					</div>
 				<div class="stars-today">⭐ 1584 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/HKUDS/DeepTutor" target="_blank">
+    
+
+
+      
+        HKUDS /
+
+      DeepTutor</a></p>
+				<p>
+      DeepTutor: Lifelong Personalized Tutoring. https://deeptutor.info/.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 29933</span>
+						<span>🔱 3944</span>
+					</div>
+				<div class="stars-today">⭐ 2154 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/MoonshotAI/kimi-code" target="_blank">
+    
+
+
+      
+        MoonshotAI /
+
+      kimi-code</a></p>
+				<p>
+      Kimi Code CLI — The Starting Point for Next-Gen Agents
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 5117</span>
+						<span>🔱 749</span>
+					</div>
+				<div class="stars-today">⭐ 1534 stars this week</div>
 				</div>
 			</div>
 	
@@ -360,32 +316,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Go</span>
-						<span>⭐ 38506</span>
-						<span>🔱 1532</span>
+						<span>⭐ 38540</span>
+						<span>🔱 1533</span>
 					</div>
 				<div class="stars-today">⭐ 2849 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/stablyai/orca" target="_blank">
-    
-
-
-      
-        stablyai /
-
-      orca</a></p>
-				<p>
-      Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop, mobile and VPS.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 29201</span>
-						<span>🔱 2077</span>
-					</div>
-				<div class="stars-today">⭐ 7327 stars this week</div>
 				</div>
 			</div>
 	
@@ -404,76 +338,142 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 8021</span>
-						<span>🔱 878</span>
+						<span>⭐ 8067</span>
+						<span>🔱 883</span>
 					</div>
 				<div class="stars-today">⭐ 3439 stars this week</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/hyprwm/Hyprland" target="_blank">
+				<p><a href="https://github.com/Nutlope/hallmark" target="_blank">
     
 
 
       
-        hyprwm /
+        Nutlope /
 
-      Hyprland</a></p>
+      hallmark</a></p>
 				<p>
-      Hyprland is an independent, highly customizable, dynamic tiling Wayland compositor that doesn't sacrifice on its looks.
+      Anti-AI-slop design skill for Claude Code, Cursor, and Codex.
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 C++</span>
-						<span>⭐ 37489</span>
-						<span>🔱 1888</span>
+						<span>🔠 CSS</span>
+						<span>⭐ 17924</span>
+						<span>🔱 900</span>
 					</div>
-				<div class="stars-today">⭐ 737 stars this week</div>
+				<div class="stars-today">⭐ 4881 stars this week</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/jamiepine/voicebox" target="_blank">
+				<p><a href="https://github.com/MoonshotAI/kimi-cli" target="_blank">
     
 
 
       
-        jamiepine /
+        MoonshotAI /
 
-      voicebox</a></p>
+      kimi-cli</a></p>
 				<p>
-      The open-source AI voice studio. Clone, dictate, create.
+      Kimi Code CLI is your next CLI agent.
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 46802</span>
-						<span>🔱 5735</span>
+						<span>🔠 Python</span>
+						<span>⭐ 10852</span>
+						<span>🔱 1256</span>
 					</div>
-				<div class="stars-today">⭐ 4237 stars this week</div>
+				<div class="stars-today">⭐ 1537 stars this week</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/ibelick/ui-skills" target="_blank">
+				<p><a href="https://github.com/stablyai/orca" target="_blank">
     
 
 
       
-        ibelick /
+        stablyai /
 
-      ui-skills</a></p>
+      orca</a></p>
 				<p>
-      Skills for Design Engineers
+      Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop, mobile and VPS.
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 6480</span>
-						<span>🔱 284</span>
+						<span>⭐ 29304</span>
+						<span>🔱 2087</span>
 					</div>
-				<div class="stars-today">⭐ 1647 stars this week</div>
+				<div class="stars-today">⭐ 7327 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/shiyu-coder/Kronos" target="_blank">
+    
+
+
+      
+        shiyu-coder /
+
+      Kronos</a></p>
+				<p>
+      Kronos: A Foundation Model for the Language of Financial Markets
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 33945</span>
+						<span>🔱 5729</span>
+					</div>
+				<div class="stars-today">⭐ 1499 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/earthtojake/text-to-cad" target="_blank">
+    
+
+
+      
+        earthtojake /
+
+      text-to-cad</a></p>
+				<p>
+      A collection of agent skills for CAD, robotics and hardware design
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 JavaScript</span>
+						<span>⭐ 10421</span>
+						<span>🔱 1139</span>
+					</div>
+				<div class="stars-today">⭐ 2125 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/CoreBunch/Instatic" target="_blank">
+    
+
+
+      
+        CoreBunch /
+
+      Instatic</a></p>
+				<p>
+      The open-source alternative to Webflow, Framer and WordPress. Agentic self-hosted visual CMS outputting clean static pages. Users, roles, plugins, content, database, it's all there. 
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 5320</span>
+						<span>🔱 499</span>
+					</div>
+				<div class="stars-today">⭐ 1825 stars this week</div>
 				</div>
 			</div>
 	
@@ -492,10 +492,30 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 70746</span>
-						<span>🔱 7952</span>
+						<span>⭐ 70806</span>
+						<span>🔱 7955</span>
 					</div>
 				<div class="stars-today">⭐ 2436 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/pingdotgg/t3code" target="_blank">
+    
+
+
+      
+        pingdotgg /
+
+      t3code</a></p>
+				<p></p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 14911</span>
+						<span>🔱 3283</span>
+					</div>
+				<div class="stars-today">⭐ 711 stars this week</div>
 				</div>
 			</div>
 	

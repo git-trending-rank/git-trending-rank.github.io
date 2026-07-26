@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2026年7月
-date: 2026-07-26T07:58:21Z
+date: 2026-07-26T11:09:54Z
 categories:
 - monthly
 keywords:
@@ -30,8 +30,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 26964</span>
-						<span>🔱 8801</span>
+						<span>⭐ 27056</span>
+						<span>🔱 8825</span>
 					</div>
 				<div class="stars-today">⭐ 23212 stars this month</div>
 				</div>
@@ -52,8 +52,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 30282</span>
-						<span>🔱 3951</span>
+						<span>⭐ 30414</span>
+						<span>🔱 3962</span>
 					</div>
 				<div class="stars-today">⭐ 23016 stars this month</div>
 				</div>
@@ -74,32 +74,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 44269</span>
-						<span>🔱 4601</span>
+						<span>⭐ 44308</span>
+						<span>🔱 4606</span>
 					</div>
 				<div class="stars-today">⭐ 18324 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/xbtlin/ai-berkshire" target="_blank">
-    
-
-
-      
-        xbtlin /
-
-      ai-berkshire</a></p>
-				<p>
-      AI 时代的伯克希尔：基于 Claude Code / Codex 的价值投资研究框架。巴菲特·芒格·段永平·李录四大师方法论 + 多Agent并行研究。| AI-era Berkshire: a value investing research framework built for Claude Code / Codex. 4 masters' methodologies + multi-agent adversarial analysis.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 14108</span>
-						<span>🔱 1991</span>
-					</div>
-				<div class="stars-today">⭐ 12519 stars this month</div>
 				</div>
 			</div>
 	
@@ -118,8 +96,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 C++</span>
-						<span>⭐ 21341</span>
-						<span>🔱 3377</span>
+						<span>⭐ 21342</span>
+						<span>🔱 3375</span>
 					</div>
 				<div class="stars-today">⭐ 1015 stars this month</div>
 				</div>
@@ -140,32 +118,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 29201</span>
-						<span>🔱 2077</span>
+						<span>⭐ 29304</span>
+						<span>🔱 2087</span>
 					</div>
 				<div class="stars-today">⭐ 21817 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/Zackriya-Solutions/meetily" target="_blank">
-    
-
-
-      
-        Zackriya-Solutions /
-
-      meetily</a></p>
-				<p>
-      Privacy first, AI meeting assistant with 4x faster Parakeet/Whisper live transcription, speaker diarization, and Ollama summarization built on Rust. 100% local processing. no cloud required. Meetily (Meetly Ai - https://meetily.ai) is the #1 Self-hosted, Open-source Ai meeting note taker for macOS & Windows. Understand How to write meeting minutes
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Rust</span>
-						<span>⭐ 26688</span>
-						<span>🔱 2700</span>
-					</div>
-				<div class="stars-today">⭐ 13915 stars this month</div>
 				</div>
 			</div>
 	
@@ -184,76 +140,54 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Rust</span>
-						<span>⭐ 20885</span>
-						<span>🔱 1397</span>
+						<span>⭐ 20920</span>
+						<span>🔱 1400</span>
 					</div>
 				<div class="stars-today">⭐ 13607 stars this month</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/DeusData/codebase-memory-mcp" target="_blank">
+				<p><a href="https://github.com/Zackriya-Solutions/meetily" target="_blank">
     
 
 
       
-        DeusData /
+        Zackriya-Solutions /
 
-      codebase-memory-mcp</a></p>
+      meetily</a></p>
 				<p>
-      High-performance code intelligence MCP server. Indexes codebases into a persistent knowledge graph — average repo in milliseconds. 158 languages, sub-ms queries, 99% fewer tokens. Single static binary, zero dependencies.
+      Privacy first, AI meeting assistant with 4x faster Parakeet/Whisper live transcription, speaker diarization, and Ollama summarization built on Rust. 100% local processing. no cloud required. Meetily (Meetly Ai - https://meetily.ai) is the #1 Self-hosted, Open-source Ai meeting note taker for macOS & Windows. Understand How to write meeting minutes
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 C</span>
-						<span>⭐ 35407</span>
-						<span>🔱 2762</span>
+						<span>🔠 Rust</span>
+						<span>⭐ 26706</span>
+						<span>🔱 2702</span>
 					</div>
-				<div class="stars-today">⭐ 20976 stars this month</div>
+				<div class="stars-today">⭐ 13915 stars this month</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/asgeirtj/system_prompts_leaks" target="_blank">
+				<p><a href="https://github.com/xbtlin/ai-berkshire" target="_blank">
     
 
 
       
-        asgeirtj /
+        xbtlin /
 
-      system_prompts_leaks</a></p>
+      ai-berkshire</a></p>
 				<p>
-      Extracted system prompts from Anthropic - Claude Fable 5, Opus 4.8, Claude Code, Claude Design. OpenAI - ChatGPT GPT-5.6, Codex GPT-5.6, GPT-5.5. Google - Gemini 3.5 Flash, 3.1 Pro, Antigravity. xAI - Grok, Cursor, Copilot, VS Code, Perplexity, and more. Updated regularly.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 JavaScript</span>
-						<span>⭐ 60544</span>
-						<span>🔱 9879</span>
-					</div>
-				<div class="stars-today">⭐ 14812 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/Robbyant/lingbot-map" target="_blank">
-    
-
-
-      
-        Robbyant /
-
-      lingbot-map</a></p>
-				<p>
-      A feed-forward 3D foundation model for reconstructing scenes from streaming data
+      AI 时代的伯克希尔：基于 Claude Code / Codex 的价值投资研究框架。巴菲特·芒格·段永平·李录四大师方法论 + 多Agent并行研究。| AI-era Berkshire: a value investing research framework built for Claude Code / Codex. 4 masters' methodologies + multi-agent adversarial analysis.
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 15452</span>
-						<span>🔱 1619</span>
+						<span>⭐ 14134</span>
+						<span>🔱 1995</span>
 					</div>
-				<div class="stars-today">⭐ 8205 stars this month</div>
+				<div class="stars-today">⭐ 12519 stars this month</div>
 				</div>
 			</div>
 	
@@ -272,10 +206,98 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 CSS</span>
-						<span>⭐ 17854</span>
-						<span>🔱 898</span>
+						<span>⭐ 17924</span>
+						<span>🔱 900</span>
 					</div>
 				<div class="stars-today">⭐ 14156 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/asgeirtj/system_prompts_leaks" target="_blank">
+    
+
+
+      
+        asgeirtj /
+
+      system_prompts_leaks</a></p>
+				<p>
+      Extracted system prompts from Anthropic - Claude Fable 5, Opus 4.8, Claude Code, Claude Design. OpenAI - ChatGPT GPT-5.6, Codex GPT-5.6, GPT-5.5. Google - Gemini 3.5 Flash, 3.1 Pro, Antigravity. xAI - Grok, Cursor, Copilot, VS Code, Perplexity, and more. Updated regularly.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 JavaScript</span>
+						<span>⭐ 60569</span>
+						<span>🔱 9885</span>
+					</div>
+				<div class="stars-today">⭐ 14812 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/DeusData/codebase-memory-mcp" target="_blank">
+    
+
+
+      
+        DeusData /
+
+      codebase-memory-mcp</a></p>
+				<p>
+      High-performance code intelligence MCP server. Indexes codebases into a persistent knowledge graph — average repo in milliseconds. 158 languages, sub-ms queries, 99% fewer tokens. Single static binary, zero dependencies.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 C</span>
+						<span>⭐ 35451</span>
+						<span>🔱 2767</span>
+					</div>
+				<div class="stars-today">⭐ 20976 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/Robbyant/lingbot-map" target="_blank">
+    
+
+
+      
+        Robbyant /
+
+      lingbot-map</a></p>
+				<p>
+      A feed-forward 3D foundation model for reconstructing scenes from streaming data
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 15478</span>
+						<span>🔱 1622</span>
+					</div>
+				<div class="stars-today">⭐ 8205 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/permissionlesstech/bitchat" target="_blank">
+    
+
+
+      
+        permissionlesstech /
+
+      bitchat</a></p>
+				<p>
+      bluetooth mesh chat, IRC vibes
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Swift</span>
+						<span>⭐ 29097</span>
+						<span>🔱 4470</span>
+					</div>
+				<div class="stars-today">⭐ 2701 stars this month</div>
 				</div>
 			</div>
 	
@@ -294,8 +316,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 74324</span>
-						<span>🔱 11156</span>
+						<span>⭐ 74407</span>
+						<span>🔱 11174</span>
 					</div>
 				<div class="stars-today">⭐ 14554 stars this month</div>
 				</div>
@@ -316,54 +338,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 C#</span>
-						<span>⭐ 22221</span>
+						<span>⭐ 22254</span>
 						<span>🔱 1494</span>
 					</div>
 				<div class="stars-today">⭐ 14153 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/alibaba/page-agent" target="_blank">
-    
-
-
-      
-        alibaba /
-
-      page-agent</a></p>
-				<p>
-      JavaScript in-page GUI agent. Control web interfaces with natural language.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 27844</span>
-						<span>🔱 2454</span>
-					</div>
-				<div class="stars-today">⭐ 8372 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/ocornut/imgui" target="_blank">
-    
-
-
-      
-        ocornut /
-
-      imgui</a></p>
-				<p>
-      Dear ImGui: Bloat-free Graphical User interface for C++ with minimal dependencies
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 C++</span>
-						<span>⭐ 75067</span>
-						<span>🔱 11959</span>
-					</div>
-				<div class="stars-today">⭐ 1131 stars this month</div>
 				</div>
 			</div>
 	
@@ -382,54 +360,54 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 27646</span>
-						<span>🔱 4500</span>
+						<span>⭐ 27677</span>
+						<span>🔱 4506</span>
 					</div>
 				<div class="stars-today">⭐ 14438 stars this month</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/wonderwhy-er/DesktopCommanderMCP" target="_blank">
+				<p><a href="https://github.com/ocornut/imgui" target="_blank">
     
 
 
       
-        wonderwhy-er /
+        ocornut /
 
-      DesktopCommanderMCP</a></p>
+      imgui</a></p>
 				<p>
-      This is MCP server for Claude that gives it terminal control, file system search and diff file editing capabilities
+      Dear ImGui: Bloat-free Graphical User interface for C++ with minimal dependencies
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 8855</span>
-						<span>🔱 992</span>
+						<span>🔠 C++</span>
+						<span>⭐ 75077</span>
+						<span>🔱 11960</span>
 					</div>
-				<div class="stars-today">⭐ 2755 stars this month</div>
+				<div class="stars-today">⭐ 1131 stars this month</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/every-app/open-seo" target="_blank">
+				<p><a href="https://github.com/alibaba/page-agent" target="_blank">
     
 
 
       
-        every-app /
+        alibaba /
 
-      open-seo</a></p>
+      page-agent</a></p>
 				<p>
-      Open source alternative to Semrush and Ahrefs
+      JavaScript in-page GUI agent. Control web interfaces with natural language.
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 8021</span>
-						<span>🔱 878</span>
+						<span>⭐ 27858</span>
+						<span>🔱 2455</span>
 					</div>
-				<div class="stars-today">⭐ 5500 stars this month</div>
+				<div class="stars-today">⭐ 8372 stars this month</div>
 				</div>
 			</div>
 	
@@ -448,8 +426,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 10140</span>
-						<span>🔱 1071</span>
+						<span>⭐ 10201</span>
+						<span>🔱 1074</span>
 					</div>
 				<div class="stars-today">⭐ 7565 stars this month</div>
 				</div>
@@ -470,54 +448,54 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 78791</span>
-						<span>🔱 7866</span>
+						<span>⭐ 78836</span>
+						<span>🔱 7870</span>
 					</div>
 				<div class="stars-today">⭐ 19309 stars this month</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/calesthio/OpenMontage" target="_blank">
+				<p><a href="https://github.com/every-app/open-seo" target="_blank">
     
 
 
       
-        calesthio /
+        every-app /
 
-      OpenMontage</a></p>
+      open-seo</a></p>
 				<p>
-      World's first open-source, agentic video production system. 12 production pipelines, 100+ tools, 700+ agent skill and production-knowledge files. Turn your AI coding assistant into a full video production studio.
+      Open source alternative to Semrush and Ahrefs
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 42335</span>
-						<span>🔱 5061</span>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 8067</span>
+						<span>🔱 883</span>
 					</div>
-				<div class="stars-today">⭐ 20972 stars this month</div>
+				<div class="stars-today">⭐ 5500 stars this month</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/simplex-chat/simplex-chat" target="_blank">
+				<p><a href="https://github.com/gabime/spdlog" target="_blank">
     
 
 
       
-        simplex-chat /
+        gabime /
 
-      simplex-chat</a></p>
+      spdlog</a></p>
 				<p>
-      SimpleX - the first messaging network operating without user identifiers of any kind - 100% private by design! iOS, Android and desktop apps 📱!
+      Fast C++ logging library.
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Haskell</span>
-						<span>⭐ 19063</span>
-						<span>🔱 1214</span>
+						<span>🔠 C++</span>
+						<span>⭐ 29267</span>
+						<span>🔱 5285</span>
 					</div>
-				<div class="stars-today">⭐ 7957 stars this month</div>
+				<div class="stars-today">⭐ 452 stars this month</div>
 				</div>
 			</div>
 	
