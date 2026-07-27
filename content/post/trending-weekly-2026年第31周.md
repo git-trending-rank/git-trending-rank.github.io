@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2026年第31周
-date: 2026-07-27T08:58:47Z
+date: 2026-07-27T12:45:09Z
 categories:
 - weekly
 keywords:
@@ -16,24 +16,24 @@ keywords:
 
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/bojieli/ai-agent-book" target="_blank">
+				<p><a href="https://github.com/ayghri/i-have-adhd" target="_blank">
     
 
 
       
-        bojieli /
+        ayghri /
 
-      ai-agent-book</a></p>
+      i-have-adhd</a></p>
 				<p>
-      《深入理解 AI Agent：设计原理与工程实践》（李博杰 著）开源主仓库：全书正文、编译版 PDF 与按章配套代码
+      A skill for your coding agent to stop it from burying the answer. ADHD-friendly output.
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 21963</span>
-						<span>🔱 2196</span>
+						<span>⭐ 11039</span>
+						<span>🔱 557</span>
 					</div>
-				<div class="stars-today">⭐ 15909 stars this week</div>
+				<div class="stars-today">⭐ 6991 stars this week</div>
 				</div>
 			</div>
 	
@@ -52,76 +52,54 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 75045</span>
-						<span>🔱 11268</span>
+						<span>⭐ 75130</span>
+						<span>🔱 11281</span>
 					</div>
 				<div class="stars-today">⭐ 12615 stars this week</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/tirth8205/code-review-graph" target="_blank">
+				<p><a href="https://github.com/bojieli/ai-agent-book" target="_blank">
     
 
 
       
-        tirth8205 /
+        bojieli /
 
-      code-review-graph</a></p>
+      ai-agent-book</a></p>
 				<p>
-      Local-first code intelligence graph for MCP and CLI. Builds a persistent map of your codebase so AI coding tools read only what matters, with benchmarked context reductions on reviews and large-repo workflows.
+      《深入理解 AI Agent：设计原理与工程实践》（李博杰 著）开源主仓库：全书正文、编译版 PDF 与按章配套代码
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 26772</span>
-						<span>🔱 2492</span>
+						<span>⭐ 22256</span>
+						<span>🔱 2232</span>
 					</div>
-				<div class="stars-today">⭐ 6006 stars this week</div>
+				<div class="stars-today">⭐ 15909 stars this week</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/1jehuang/jcode" target="_blank">
+				<p><a href="https://github.com/oblien/openship" target="_blank">
     
 
 
       
-        1jehuang /
+        oblien /
 
-      jcode</a></p>
+      openship</a></p>
 				<p>
-      The most RAM effiecent harness
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Rust</span>
-						<span>⭐ 11743</span>
-						<span>🔱 1307</span>
-					</div>
-				<div class="stars-today">⭐ 2909 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/diegosouzapw/OmniRoute" target="_blank">
-    
-
-
-      
-        diegosouzapw /
-
-      OmniRoute</a></p>
-				<p>
-      Never stop coding. Free MIT AI gateway: one endpoint, 290+ providers (90+ free), 500+ models — Kimi, Claude, GPT, OpenAI, Gemini, GLM, DeepSeek, MiniMax. Works with Claude Code, Codex, Cursor, OpenCode, Cline & Copilot. Quota-aware auto-fallback, RTK+Caveman compression saves 15-95% tokens, MCP/A2A, Desktop/PWA. Built by 500+ contributors
+      Self-hosted deployment platform
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 31483</span>
-						<span>🔱 4073</span>
+						<span>⭐ 8822</span>
+						<span>🔱 716</span>
 					</div>
-				<div class="stars-today">⭐ 10912 stars this week</div>
+				<div class="stars-today">⭐ 5844 stars this week</div>
 				</div>
 			</div>
 	
@@ -140,32 +118,76 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 2954</span>
-						<span>🔱 390</span>
+						<span>⭐ 2971</span>
+						<span>🔱 395</span>
 					</div>
 				<div class="stars-today">⭐ 1551 stars this week</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/earendil-works/pi" target="_blank">
+				<p><a href="https://github.com/tirth8205/code-review-graph" target="_blank">
     
 
 
       
-        earendil-works /
+        tirth8205 /
 
-      pi</a></p>
+      code-review-graph</a></p>
 				<p>
-      AI agent toolkit: unified LLM API, agent loop, TUI, coding agent CLI
+      Local-first code intelligence graph for MCP and CLI. Builds a persistent map of your codebase so AI coding tools read only what matters, with benchmarked context reductions on reviews and large-repo workflows.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 26822</span>
+						<span>🔱 2494</span>
+					</div>
+				<div class="stars-today">⭐ 6006 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/diegosouzapw/OmniRoute" target="_blank">
+    
+
+
+      
+        diegosouzapw /
+
+      OmniRoute</a></p>
+				<p>
+      Never stop coding. Free MIT AI gateway: one endpoint, 290+ providers (90+ free), 500+ models — Kimi, Claude, GPT, OpenAI, Gemini, GLM, DeepSeek, MiniMax. Works with Claude Code, Codex, Cursor, OpenCode, Cline & Copilot. Quota-aware auto-fallback, RTK+Caveman compression saves 15-95% tokens, MCP/A2A, Desktop/PWA. Built by 500+ contributors
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 78591</span>
-						<span>🔱 9666</span>
+						<span>⭐ 31668</span>
+						<span>🔱 4100</span>
 					</div>
-				<div class="stars-today">⭐ 5389 stars this week</div>
+				<div class="stars-today">⭐ 10912 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/1jehuang/jcode" target="_blank">
+    
+
+
+      
+        1jehuang /
+
+      jcode</a></p>
+				<p>
+      The most RAM effiecent harness
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Rust</span>
+						<span>⭐ 11770</span>
+						<span>🔱 1309</span>
+					</div>
+				<div class="stars-today">⭐ 2909 stars this week</div>
 				</div>
 			</div>
 	
@@ -184,10 +206,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Shell</span>
-						<span>⭐ 190465</span>
-						<span>🔱 16359</span>
+						<span>⭐ 190786</span>
+						<span>🔱 16391</span>
 					</div>
 				<div class="stars-today">⭐ 12238 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/earendil-works/pi" target="_blank">
+    
+
+
+      
+        earendil-works /
+
+      pi</a></p>
+				<p>
+      AI agent toolkit: unified LLM API, agent loop, TUI, coding agent CLI
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 78751</span>
+						<span>🔱 9685</span>
+					</div>
+				<div class="stars-today">⭐ 5389 stars this week</div>
 				</div>
 			</div>
 	
@@ -206,32 +250,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Rust</span>
-						<span>⭐ 86756</span>
-						<span>🔱 11542</span>
+						<span>⭐ 86794</span>
+						<span>🔱 11547</span>
 					</div>
 				<div class="stars-today">⭐ 5497 stars this week</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/rohitg00/ai-engineering-from-scratch" target="_blank">
+				<p><a href="https://github.com/shiyu-coder/Kronos" target="_blank">
     
 
 
       
-        rohitg00 /
+        shiyu-coder /
 
-      ai-engineering-from-scratch</a></p>
+      Kronos</a></p>
 				<p>
-      Learn it. Build it. Ship it for others.
+      Kronos: A Foundation Model for the Language of Financial Markets
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 43990</span>
-						<span>🔱 7407</span>
+						<span>⭐ 34400</span>
+						<span>🔱 5781</span>
 					</div>
-				<div class="stars-today">⭐ 4317 stars this week</div>
+				<div class="stars-today">⭐ 1768 stars this week</div>
 				</div>
 			</div>
 	
@@ -250,10 +294,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Rust</span>
-						<span>⭐ 10138</span>
-						<span>🔱 678</span>
+						<span>⭐ 10168</span>
+						<span>🔱 681</span>
 					</div>
 				<div class="stars-today">⭐ 1883 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/rohitg00/ai-engineering-from-scratch" target="_blank">
+    
+
+
+      
+        rohitg00 /
+
+      ai-engineering-from-scratch</a></p>
+				<p>
+      Learn it. Build it. Ship it for others.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 44055</span>
+						<span>🔱 7415</span>
+					</div>
+				<div class="stars-today">⭐ 4317 stars this week</div>
 				</div>
 			</div>
 	
@@ -272,8 +338,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 30285</span>
-						<span>🔱 3985</span>
+						<span>⭐ 30363</span>
+						<span>🔱 3987</span>
 					</div>
 				<div class="stars-today">⭐ 2199 stars this week</div>
 				</div>
@@ -294,8 +360,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 5268</span>
-						<span>🔱 773</span>
+						<span>⭐ 5290</span>
+						<span>🔱 778</span>
 					</div>
 				<div class="stars-today">⭐ 1380 stars this week</div>
 				</div>
@@ -316,120 +382,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Go</span>
-						<span>⭐ 38757</span>
+						<span>⭐ 38782</span>
 						<span>🔱 1542</span>
 					</div>
 				<div class="stars-today">⭐ 2993 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/every-app/open-seo" target="_blank">
-    
-
-
-      
-        every-app /
-
-      open-seo</a></p>
-				<p>
-      Open source alternative to Semrush and Ahrefs
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 8349</span>
-						<span>🔱 907</span>
-					</div>
-				<div class="stars-today">⭐ 3639 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/Nutlope/hallmark" target="_blank">
-    
-
-
-      
-        Nutlope /
-
-      hallmark</a></p>
-				<p>
-      Anti-AI-slop design skill for Claude Code, Cursor, and Codex.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 CSS</span>
-						<span>⭐ 18465</span>
-						<span>🔱 929</span>
-					</div>
-				<div class="stars-today">⭐ 4932 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/MoonshotAI/kimi-cli" target="_blank">
-    
-
-
-      
-        MoonshotAI /
-
-      kimi-cli</a></p>
-				<p>
-      Kimi Code CLI is your next CLI agent.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 10933</span>
-						<span>🔱 1257</span>
-					</div>
-				<div class="stars-today">⭐ 1200 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/stablyai/orca" target="_blank">
-    
-
-
-      
-        stablyai /
-
-      orca</a></p>
-				<p>
-      Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop, mobile and VPS.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 30202</span>
-						<span>🔱 2137</span>
-					</div>
-				<div class="stars-today">⭐ 7392 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/shiyu-coder/Kronos" target="_blank">
-    
-
-
-      
-        shiyu-coder /
-
-      Kronos</a></p>
-				<p>
-      Kronos: A Foundation Model for the Language of Financial Markets
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 34324</span>
-						<span>🔱 5776</span>
-					</div>
-				<div class="stars-today">⭐ 1768 stars this week</div>
 				</div>
 			</div>
 	
@@ -448,8 +404,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 JavaScript</span>
-						<span>⭐ 10695</span>
-						<span>🔱 1163</span>
+						<span>⭐ 10735</span>
+						<span>🔱 1168</span>
 					</div>
 				<div class="stars-today">⭐ 2169 stars this week</div>
 				</div>
@@ -470,32 +426,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 5936</span>
-						<span>🔱 529</span>
+						<span>⭐ 6054</span>
+						<span>🔱 536</span>
 					</div>
 				<div class="stars-today">⭐ 1893 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/ComposioHQ/awesome-claude-skills" target="_blank">
-    
-
-
-      
-        ComposioHQ /
-
-      awesome-claude-skills</a></p>
-				<p>
-      A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 70993</span>
-						<span>🔱 7965</span>
-					</div>
-				<div class="stars-today">⭐ 2820 stars this week</div>
 				</div>
 			</div>
 	
@@ -512,10 +446,120 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 15172</span>
-						<span>🔱 3321</span>
+						<span>⭐ 15215</span>
+						<span>🔱 3327</span>
 					</div>
 				<div class="stars-today">⭐ 793 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/hyprwm/Hyprland" target="_blank">
+    
+
+
+      
+        hyprwm /
+
+      Hyprland</a></p>
+				<p>
+      Hyprland is an independent, highly customizable, dynamic tiling Wayland compositor that doesn't sacrifice on its looks.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 C++</span>
+						<span>⭐ 37516</span>
+						<span>🔱 1889</span>
+					</div>
+				<div class="stars-today">⭐ 784 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/every-app/open-seo" target="_blank">
+    
+
+
+      
+        every-app /
+
+      open-seo</a></p>
+				<p>
+      Open source alternative to Semrush and Ahrefs
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 8401</span>
+						<span>🔱 915</span>
+					</div>
+				<div class="stars-today">⭐ 3639 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/Nutlope/hallmark" target="_blank">
+    
+
+
+      
+        Nutlope /
+
+      hallmark</a></p>
+				<p>
+      Anti-AI-slop design skill for Claude Code, Cursor, and Codex.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 CSS</span>
+						<span>⭐ 18545</span>
+						<span>🔱 934</span>
+					</div>
+				<div class="stars-today">⭐ 4932 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/stablyai/orca" target="_blank">
+    
+
+
+      
+        stablyai /
+
+      orca</a></p>
+				<p>
+      Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop, mobile and VPS.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 30394</span>
+						<span>🔱 2142</span>
+					</div>
+				<div class="stars-today">⭐ 7392 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/KnockOutEZ/wigolo" target="_blank">
+    
+
+
+      
+        KnockOutEZ /
+
+      wigolo</a></p>
+				<p>
+      The go-to web for your AI coding agent — local-first search, fetch, crawl & research over MCP. No API keys, no cloud, $0/query. Public beta.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 3678</span>
+						<span>🔱 247</span>
+					</div>
+				<div class="stars-today">⭐ 1971 stars this week</div>
 				</div>
 			</div>
 	
