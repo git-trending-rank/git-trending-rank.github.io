@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2026年7月
-date: 2026-07-28T08:06:59Z
+date: 2026-07-28T11:46:56Z
 categories:
 - monthly
 keywords:
@@ -30,54 +30,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 32468</span>
-						<span>🔱 4203</span>
+						<span>⭐ 32637</span>
+						<span>🔱 4222</span>
 					</div>
 				<div class="stars-today">⭐ 24936 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/usestrix/strix" target="_blank">
-    
-
-
-      
-        usestrix /
-
-      strix</a></p>
-				<p>
-      Open-source AI penetration testing tool to find and fix your app’s vulnerabilities.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 45103</span>
-						<span>🔱 4719</span>
-					</div>
-				<div class="stars-today">⭐ 18948 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/hasaneyldrm/exercises-dataset" target="_blank">
-    
-
-
-      
-        hasaneyldrm /
-
-      exercises-dataset</a></p>
-				<p>
-      1,324-exercise fitness dataset — animation GIFs, 180×180 thumbnails, muscle-group & equipment data, and step-by-step instructions in 6 languages. The exercise data layer behind the LogPress app.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 HTML</span>
-						<span>⭐ 17429</span>
-						<span>🔱 2130</span>
-					</div>
-				<div class="stars-today">⭐ 16896 stars this month</div>
 				</div>
 			</div>
 	
@@ -96,10 +52,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Swift</span>
-						<span>⭐ 32699</span>
-						<span>🔱 5130</span>
+						<span>⭐ 32913</span>
+						<span>🔱 5160</span>
 					</div>
 				<div class="stars-today">⭐ 5679 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/usestrix/strix" target="_blank">
+    
+
+
+      
+        usestrix /
+
+      strix</a></p>
+				<p>
+      Open-source AI penetration testing tool to find and fix your app’s vulnerabilities.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 45162</span>
+						<span>🔱 4728</span>
+					</div>
+				<div class="stars-today">⭐ 18948 stars this month</div>
 				</div>
 			</div>
 	
@@ -118,76 +96,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 31190</span>
-						<span>🔱 2207</span>
+						<span>⭐ 31361</span>
+						<span>🔱 2216</span>
 					</div>
 				<div class="stars-today">⭐ 22573 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/catchorg/Catch2" target="_blank">
-    
-
-
-      
-        catchorg /
-
-      Catch2</a></p>
-				<p>
-      A modern, C++-native, test framework for unit-tests, TDD and BDD - using C++14, C++17 and later (C++11 support is in v2.x branch, and C++03 on the Catch1.x branch)
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 C++</span>
-						<span>⭐ 21372</span>
-						<span>🔱 3390</span>
-					</div>
-				<div class="stars-today">⭐ 1057 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/ogulcancelik/herdr" target="_blank">
-    
-
-
-      
-        ogulcancelik /
-
-      herdr</a></p>
-				<p>
-      agent multiplexer that lives in your terminal.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Rust</span>
-						<span>⭐ 21667</span>
-						<span>🔱 1456</span>
-					</div>
-				<div class="stars-today">⭐ 13835 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/emilkowalski/skills" target="_blank">
-    
-
-
-      
-        emilkowalski /
-
-      skills</a></p>
-				<p>
-      Skills for Design Engineers.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 </span>
-						<span>⭐ 21778</span>
-						<span>🔱 1178</span>
-					</div>
-				<div class="stars-today">⭐ 17933 stars this month</div>
 				</div>
 			</div>
 	
@@ -206,10 +118,54 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Rust</span>
-						<span>⭐ 27073</span>
-						<span>🔱 2750</span>
+						<span>⭐ 27118</span>
+						<span>🔱 2753</span>
 					</div>
 				<div class="stars-today">⭐ 14255 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/emilkowalski/skills" target="_blank">
+    
+
+
+      
+        emilkowalski /
+
+      skills</a></p>
+				<p>
+      Skills for Design Engineers.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 </span>
+						<span>⭐ 21868</span>
+						<span>🔱 1183</span>
+					</div>
+				<div class="stars-today">⭐ 17933 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/ogulcancelik/herdr" target="_blank">
+    
+
+
+      
+        ogulcancelik /
+
+      herdr</a></p>
+				<p>
+      agent multiplexer that lives in your terminal.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Rust</span>
+						<span>⭐ 21742</span>
+						<span>🔱 1458</span>
+					</div>
+				<div class="stars-today">⭐ 13835 stars this month</div>
 				</div>
 			</div>
 	
@@ -228,32 +184,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 CSS</span>
-						<span>⭐ 19025</span>
-						<span>🔱 953</span>
+						<span>⭐ 19132</span>
+						<span>🔱 956</span>
 					</div>
 				<div class="stars-today">⭐ 15231 stars this month</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/xbtlin/ai-berkshire" target="_blank">
+				<p><a href="https://github.com/hasaneyldrm/exercises-dataset" target="_blank">
     
 
 
       
-        xbtlin /
+        hasaneyldrm /
 
-      ai-berkshire</a></p>
+      exercises-dataset</a></p>
 				<p>
-      AI 时代的伯克希尔：基于 Claude Code / Codex 的价值投资研究框架。巴菲特·芒格·段永平·李录四大师方法论 + 多Agent并行研究。| AI-era Berkshire: a value investing research framework built for Claude Code / Codex. 4 masters' methodologies + multi-agent adversarial analysis.
+      1,324-exercise fitness dataset — animation GIFs, 180×180 thumbnails, muscle-group & equipment data, and step-by-step instructions in 6 languages. The exercise data layer behind the LogPress app.
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 14519</span>
-						<span>🔱 2038</span>
+						<span>🔠 HTML</span>
+						<span>⭐ 17490</span>
+						<span>🔱 2136</span>
 					</div>
-				<div class="stars-today">⭐ 10999 stars this month</div>
+				<div class="stars-today">⭐ 16896 stars this month</div>
 				</div>
 			</div>
 	
@@ -272,32 +228,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 JavaScript</span>
-						<span>⭐ 61026</span>
-						<span>🔱 9968</span>
+						<span>⭐ 61064</span>
+						<span>🔱 9976</span>
 					</div>
 				<div class="stars-today">⭐ 14761 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/Robbyant/lingbot-map" target="_blank">
-    
-
-
-      
-        Robbyant /
-
-      lingbot-map</a></p>
-				<p>
-      A feed-forward 3D foundation model for reconstructing scenes from streaming data
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 15716</span>
-						<span>🔱 1657</span>
-					</div>
-				<div class="stars-today">⭐ 8189 stars this month</div>
 				</div>
 			</div>
 	
@@ -316,10 +250,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 75559</span>
-						<span>🔱 11317</span>
+						<span>⭐ 75651</span>
+						<span>🔱 11324</span>
 					</div>
 				<div class="stars-today">⭐ 15236 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/catchorg/Catch2" target="_blank">
+    
+
+
+      
+        catchorg /
+
+      Catch2</a></p>
+				<p>
+      A modern, C++-native, test framework for unit-tests, TDD and BDD - using C++14, C++17 and later (C++11 support is in v2.x branch, and C++03 on the Catch1.x branch)
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 C++</span>
+						<span>⭐ 21373</span>
+						<span>🔱 3391</span>
+					</div>
+				<div class="stars-today">⭐ 1057 stars this month</div>
 				</div>
 			</div>
 	
@@ -338,32 +294,120 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 C#</span>
-						<span>⭐ 22745</span>
-						<span>🔱 1532</span>
+						<span>⭐ 22798</span>
+						<span>🔱 1535</span>
 					</div>
 				<div class="stars-today">⭐ 14550 stars this month</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/DeusData/codebase-memory-mcp" target="_blank">
+				<p><a href="https://github.com/Robbyant/lingbot-map" target="_blank">
     
 
 
       
-        DeusData /
+        Robbyant /
 
-      codebase-memory-mcp</a></p>
+      lingbot-map</a></p>
 				<p>
-      High-performance code intelligence MCP server. Indexes codebases into a persistent knowledge graph — average repo in milliseconds. 158 languages, sub-ms queries, 99% fewer tokens. Single static binary, zero dependencies.
+      A feed-forward 3D foundation model for reconstructing scenes from streaming data
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 C</span>
-						<span>⭐ 36024</span>
-						<span>🔱 2815</span>
+						<span>🔠 Python</span>
+						<span>⭐ 15736</span>
+						<span>🔱 1662</span>
 					</div>
-				<div class="stars-today">⭐ 19689 stars this month</div>
+				<div class="stars-today">⭐ 8189 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/bradautomates/claude-video" target="_blank">
+    
+
+
+      
+        bradautomates /
+
+      claude-video</a></p>
+				<p>
+      Give Claude the ability to watch any video. /watch downloads, extracts frames, transcribes, hands it all to Claude.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 11597</span>
+						<span>🔱 1174</span>
+					</div>
+				<div class="stars-today">⭐ 8199 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/wonderwhy-er/DesktopCommanderMCP" target="_blank">
+    
+
+
+      
+        wonderwhy-er /
+
+      DesktopCommanderMCP</a></p>
+				<p>
+      This is MCP server for Claude that gives it terminal control, file system search and diff file editing capabilities
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 8907</span>
+						<span>🔱 1010</span>
+					</div>
+				<div class="stars-today">⭐ 2807 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/xbtlin/ai-berkshire" target="_blank">
+    
+
+
+      
+        xbtlin /
+
+      ai-berkshire</a></p>
+				<p>
+      AI 时代的伯克希尔：基于 Claude Code / Codex 的价值投资研究框架。巴菲特·芒格·段永平·李录四大师方法论 + 多Agent并行研究。| AI-era Berkshire: a value investing research framework built for Claude Code / Codex. 4 masters' methodologies + multi-agent adversarial analysis.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 14548</span>
+						<span>🔱 2042</span>
+					</div>
+				<div class="stars-today">⭐ 10999 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/openai/codex-plugin-cc" target="_blank">
+    
+
+
+      
+        openai /
+
+      codex-plugin-cc</a></p>
+				<p>
+      Use Codex from Claude Code to review code or delegate tasks.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 JavaScript</span>
+						<span>⭐ 30180</span>
+						<span>🔱 1976</span>
+					</div>
+				<div class="stars-today">⭐ 8576 stars this month</div>
 				</div>
 			</div>
 	
@@ -382,8 +426,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 C++</span>
-						<span>⭐ 75274</span>
-						<span>🔱 11971</span>
+						<span>⭐ 75301</span>
+						<span>🔱 11973</span>
 					</div>
 				<div class="stars-today">⭐ 1186 stars this month</div>
 				</div>
@@ -404,98 +448,54 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 28167</span>
-						<span>🔱 4567</span>
+						<span>⭐ 28223</span>
+						<span>🔱 4576</span>
 					</div>
 				<div class="stars-today">⭐ 14723 stars this month</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/wonderwhy-er/DesktopCommanderMCP" target="_blank">
+				<p><a href="https://github.com/DeusData/codebase-memory-mcp" target="_blank">
     
 
 
       
-        wonderwhy-er /
+        DeusData /
 
-      DesktopCommanderMCP</a></p>
+      codebase-memory-mcp</a></p>
 				<p>
-      This is MCP server for Claude that gives it terminal control, file system search and diff file editing capabilities
+      High-performance code intelligence MCP server. Indexes codebases into a persistent knowledge graph — average repo in milliseconds. 158 languages, sub-ms queries, 99% fewer tokens. Single static binary, zero dependencies.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 C</span>
+						<span>⭐ 36069</span>
+						<span>🔱 2818</span>
+					</div>
+				<div class="stars-today">⭐ 19689 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/OpenCut-app/OpenCut" target="_blank">
+    
+
+
+      
+        OpenCut-app /
+
+      OpenCut</a></p>
+				<p>
+      The open-source CapCut alternative
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 8903</span>
-						<span>🔱 1010</span>
+						<span>⭐ 79399</span>
+						<span>🔱 7918</span>
 					</div>
-				<div class="stars-today">⭐ 2807 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/bradautomates/claude-video" target="_blank">
-    
-
-
-      
-        bradautomates /
-
-      claude-video</a></p>
-				<p>
-      Give Claude the ability to watch any video. /watch downloads, extracts frames, transcribes, hands it all to Claude.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 11447</span>
-						<span>🔱 1161</span>
-					</div>
-				<div class="stars-today">⭐ 8199 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/alibaba/page-agent" target="_blank">
-    
-
-
-      
-        alibaba /
-
-      page-agent</a></p>
-				<p>
-      JavaScript in-page GUI agent. Control web interfaces with natural language.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 28035</span>
-						<span>🔱 2465</span>
-					</div>
-				<div class="stars-today">⭐ 7926 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/openai/codex-plugin-cc" target="_blank">
-    
-
-
-      
-        openai /
-
-      codex-plugin-cc</a></p>
-				<p>
-      Use Codex from Claude Code to review code or delegate tasks.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 JavaScript</span>
-						<span>⭐ 30162</span>
-						<span>🔱 1974</span>
-					</div>
-				<div class="stars-today">⭐ 8576 stars this month</div>
+				<div class="stars-today">⭐ 19436 stars this month</div>
 				</div>
 			</div>
 	

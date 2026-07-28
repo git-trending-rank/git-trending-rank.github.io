@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2026-07-28
-date: 2026-07-28T08:06:59Z
+date: 2026-07-28T11:46:56Z
 categories:
 - daily
 keywords:
@@ -16,200 +16,24 @@ keywords:
 
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/permissionlesstech/bitchat" target="_blank">
+				<p><a href="https://github.com/pascalorg/editor" target="_blank">
     
 
 
       
-        permissionlesstech /
+        pascalorg /
 
-      bitchat</a></p>
+      editor</a></p>
 				<p>
-      bluetooth mesh chat, IRC vibes
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Swift</span>
-						<span>⭐ 32699</span>
-						<span>🔱 5130</span>
-					</div>
-				<div class="stars-today">⭐ 2346 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/amnezia-vpn/amnezia-client" target="_blank">
-    
-
-
-      
-        amnezia-vpn /
-
-      amnezia-client</a></p>
-				<p>
-      Amnezia VPN Client (Desktop+Mobile)
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 C++</span>
-						<span>⭐ 14026</span>
-						<span>🔱 1041</span>
-					</div>
-				<div class="stars-today">⭐ 515 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/moeru-ai/airi" target="_blank">
-    
-
-
-      
-        moeru-ai /
-
-      airi</a></p>
-				<p>
-      💖🧸 Self hosted, you-owned Grok Companion, a container of souls of waifu, cyber livings to bring them into our worlds, wishing to achieve Neuro-sama's altitude. Capable of realtime voice chat, Minecraft, Factorio playing. Web / macOS / Windows supported.
+      Create and share 3D architectural projects.
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 44344</span>
-						<span>🔱 4416</span>
+						<span>⭐ 18236</span>
+						<span>🔱 2494</span>
 					</div>
-				<div class="stars-today">⭐ 572 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/opengeos/GeoLibre" target="_blank">
-    
-
-
-      
-        opengeos /
-
-      GeoLibre</a></p>
-				<p>
-      A lightweight, cloud-native GIS platform for visualizing, exploring, and analyzing geospatial data. It runs in the web browser, on the desktop, on mobile, and inside Jupyter notebooks.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 2946</span>
-						<span>🔱 368</span>
-					</div>
-				<div class="stars-today">⭐ 420 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/yorukot/superfile" target="_blank">
-    
-
-
-      
-        yorukot /
-
-      superfile</a></p>
-				<p>
-      Pretty fancy and modern terminal file manager
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Go</span>
-						<span>⭐ 21090</span>
-						<span>🔱 675</span>
-					</div>
-				<div class="stars-today">⭐ 600 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/NanmiCoder/MediaCrawler" target="_blank">
-    
-
-
-      
-        NanmiCoder /
-
-      MediaCrawler</a></p>
-				<p>
-      小红书笔记 | 评论爬虫、抖音视频 | 评论爬虫、快手视频 | 评论爬虫、B 站视频 ｜ 评论爬虫、微博帖子 ｜ 评论爬虫、百度贴吧帖子 ｜ 百度贴吧评论回复爬虫 | 知乎问答文章｜评论爬虫
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 58633</span>
-						<span>🔱 11634</span>
-					</div>
-				<div class="stars-today">⭐ 362 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/pbakaus/impeccable" target="_blank">
-    
-
-
-      
-        pbakaus /
-
-      impeccable</a></p>
-				<p>
-      The design language that makes your AI harness better at design.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 JavaScript</span>
-						<span>⭐ 51868</span>
-						<span>🔱 3048</span>
-					</div>
-				<div class="stars-today">⭐ 847 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/shiyu-coder/Kronos" target="_blank">
-    
-
-
-      
-        shiyu-coder /
-
-      Kronos</a></p>
-				<p>
-      Kronos: A Foundation Model for the Language of Financial Markets
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 34686</span>
-						<span>🔱 5808</span>
-					</div>
-				<div class="stars-today">⭐ 441 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/alibaba/open-code-review" target="_blank">
-    
-
-
-      
-        alibaba /
-
-      open-code-review</a></p>
-				<p>
-      Open-source & free — Battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in fine-tuned ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Go</span>
-						<span>⭐ 15197</span>
-						<span>🔱 1023</span>
-					</div>
-				<div class="stars-today">⭐ 979 stars today</div>
+				<div class="stars-today">⭐ 412 stars today</div>
 				</div>
 			</div>
 	
@@ -228,10 +52,208 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Java</span>
-						<span>⭐ 25936</span>
-						<span>🔱 9677</span>
+						<span>⭐ 25972</span>
+						<span>🔱 9679</span>
 					</div>
 				<div class="stars-today">⭐ 180 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/moeru-ai/airi" target="_blank">
+    
+
+
+      
+        moeru-ai /
+
+      airi</a></p>
+				<p>
+      💖🧸 Self hosted, you-owned Grok Companion, a container of souls of waifu, cyber livings to bring them into our worlds, wishing to achieve Neuro-sama's altitude. Capable of realtime voice chat, Minecraft, Factorio playing. Web / macOS / Windows supported.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 44474</span>
+						<span>🔱 4425</span>
+					</div>
+				<div class="stars-today">⭐ 572 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/andrewyng/aisuite" target="_blank">
+    
+
+
+      
+        andrewyng /
+
+      aisuite</a></p>
+				<p>
+      Simple, unified interface to multiple Generative AI providers 
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 15562</span>
+						<span>🔱 1646</span>
+					</div>
+				<div class="stars-today">⭐ 185 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/affaan-m/ECC" target="_blank">
+    
+
+
+      
+        affaan-m /
+
+      ECC</a></p>
+				<p>
+      The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 JavaScript</span>
+						<span>⭐ 234423</span>
+						<span>🔱 35732</span>
+					</div>
+				<div class="stars-today">⭐ 458 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/huggingface/speech-to-speech" target="_blank">
+    
+
+
+      
+        huggingface /
+
+      speech-to-speech</a></p>
+				<p>
+      Build local voice agents with open-source models
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 6761</span>
+						<span>🔱 925</span>
+					</div>
+				<div class="stars-today">⭐ 177 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/virgiliojr94/book-to-skill" target="_blank">
+    
+
+
+      
+        virgiliojr94 /
+
+      book-to-skill</a></p>
+				<p>
+      Turn any technical book PDF into a Claude Code skill — ready to study, reference, and use while you work.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 10720</span>
+						<span>🔱 1298</span>
+					</div>
+				<div class="stars-today">⭐ 366 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/opengeos/GeoLibre" target="_blank">
+    
+
+
+      
+        opengeos /
+
+      GeoLibre</a></p>
+				<p>
+      A lightweight, cloud-native GIS platform for visualizing, exploring, and analyzing geospatial data. It runs in the web browser, on the desktop, on mobile, and inside Jupyter notebooks.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 3040</span>
+						<span>🔱 370</span>
+					</div>
+				<div class="stars-today">⭐ 420 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/paperswithbacktest/awesome-systematic-trading" target="_blank">
+    
+
+
+      
+        paperswithbacktest /
+
+      awesome-systematic-trading</a></p>
+				<p>
+      A curated list of awesome libraries, packages, strategies, books, blogs, tutorials for systematic trading.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 9149</span>
+						<span>🔱 1276</span>
+					</div>
+				<div class="stars-today">⭐ 113 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/microsoft/agent-governance-toolkit" target="_blank">
+    
+
+
+      
+        microsoft /
+
+      agent-governance-toolkit</a></p>
+				<p>
+      AI Agent Governance Toolkit — Policy enforcement, zero-trust identity, execution sandboxing, and reliability engineering for autonomous AI agents. Covers 10/10 OWASP Agentic Top 10.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 4973</span>
+						<span>🔱 827</span>
+					</div>
+				<div class="stars-today">⭐ 17 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/yorukot/superfile" target="_blank">
+    
+
+
+      
+        yorukot /
+
+      superfile</a></p>
+				<p>
+      Pretty fancy and modern terminal file manager
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Go</span>
+						<span>⭐ 21176</span>
+						<span>🔱 679</span>
+					</div>
+				<div class="stars-today">⭐ 600 stars today</div>
 				</div>
 			</div>
 	
@@ -250,96 +272,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 11447</span>
-						<span>🔱 1161</span>
+						<span>⭐ 11597</span>
+						<span>🔱 1174</span>
 					</div>
 				<div class="stars-today">⭐ 434 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/vudovn/ag-kit" target="_blank">
-    
-
-
-      
-        vudovn /
-
-      ag-kit</a></p>
-				<p></p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 8034</span>
-						<span>🔱 1514</span>
-					</div>
-				<div class="stars-today">⭐ 14 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/apache/cassandra" target="_blank">
-    
-
-
-      
-        apache /
-
-      cassandra</a></p>
-				<p>
-      Open source transactional distributed database. Linear scalability and proven fault-tolerance on commodity hardware or cloud infrastructure without compromising performance.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Java</span>
-						<span>⭐ 10012</span>
-						<span>🔱 4004</span>
-					</div>
-				<div class="stars-today">⭐ 11 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/mvanhorn/last30days-skill" target="_blank">
-    
-
-
-      
-        mvanhorn /
-
-      last30days-skill</a></p>
-				<p>
-      AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 54389</span>
-						<span>🔱 4703</span>
-					</div>
-				<div class="stars-today">⭐ 240 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/ocornut/imgui" target="_blank">
-    
-
-
-      
-        ocornut /
-
-      imgui</a></p>
-				<p>
-      Dear ImGui: Bloat-free Graphical User interface for C++ with minimal dependencies
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 C++</span>
-						<span>⭐ 75274</span>
-						<span>🔱 11971</span>
-					</div>
-				<div class="stars-today">⭐ 51 stars today</div>
 				</div>
 			</div>
 	
