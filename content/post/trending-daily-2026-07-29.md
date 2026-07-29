@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2026-07-29
-date: 2026-07-29T08:11:14Z
+date: 2026-07-29T11:50:35Z
 categories:
 - daily
 keywords:
@@ -16,46 +16,24 @@ keywords:
 
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/pascalorg/editor" target="_blank">
+				<p><a href="https://github.com/opengeos/GeoLibre" target="_blank">
     
 
 
       
-        pascalorg /
+        opengeos /
 
-      editor</a></p>
+      GeoLibre</a></p>
 				<p>
-      Create and share 3D architectural projects.
+      A lightweight, cloud-native GIS platform for visualizing, exploring, and analyzing geospatial data. It runs in the web browser, on the desktop, on mobile, and inside Jupyter notebooks.
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 19085</span>
-						<span>🔱 2554</span>
+						<span>⭐ 3696</span>
+						<span>🔱 411</span>
 					</div>
-				<div class="stars-today">⭐ 341 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/jenkinsci/jenkins" target="_blank">
-    
-
-
-      
-        jenkinsci /
-
-      jenkins</a></p>
-				<p>
-      Jenkins automation server
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Java</span>
-						<span>⭐ 26163</span>
-						<span>🔱 9703</span>
-					</div>
-				<div class="stars-today">⭐ 180 stars today</div>
+				<div class="stars-today">⭐ 607 stars today</div>
 				</div>
 			</div>
 	
@@ -74,32 +52,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 45034</span>
-						<span>🔱 4462</span>
+						<span>⭐ 45134</span>
+						<span>🔱 4465</span>
 					</div>
 				<div class="stars-today">⭐ 797 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/andrewyng/aisuite" target="_blank">
-    
-
-
-      
-        andrewyng /
-
-      aisuite</a></p>
-				<p>
-      Simple, unified interface to multiple Generative AI providers 
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 15771</span>
-						<span>🔱 1661</span>
-					</div>
-				<div class="stars-today">⭐ 62 stars today</div>
 				</div>
 			</div>
 	
@@ -118,8 +74,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 JavaScript</span>
-						<span>⭐ 235118</span>
-						<span>🔱 35819</span>
+						<span>⭐ 235230</span>
+						<span>🔱 35829</span>
 					</div>
 				<div class="stars-today">⭐ 636 stars today</div>
 				</div>
@@ -140,54 +96,208 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 7499</span>
-						<span>🔱 974</span>
+						<span>⭐ 7593</span>
+						<span>🔱 980</span>
 					</div>
 				<div class="stars-today">⭐ 227 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/virgiliojr94/book-to-skill" target="_blank">
+				<p><a href="https://github.com/1jehuang/jcode" target="_blank">
     
 
 
       
-        virgiliojr94 /
+        1jehuang /
 
-      book-to-skill</a></p>
+      jcode</a></p>
 				<p>
-      Turn any technical book PDF into a Claude Code skill — ready to study, reference, and use while you work.
+      The most RAM effiecent harness
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 11918</span>
-						<span>🔱 1369</span>
+						<span>🔠 Rust</span>
+						<span>⭐ 13093</span>
+						<span>🔱 1448</span>
 					</div>
-				<div class="stars-today">⭐ 423 stars today</div>
+				<div class="stars-today">⭐ 652 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/opengeos/GeoLibre" target="_blank">
+				<p><a href="https://github.com/grokability/snipe-it" target="_blank">
     
 
 
       
-        opengeos /
+        grokability /
 
-      GeoLibre</a></p>
+      snipe-it</a></p>
 				<p>
-      A lightweight, cloud-native GIS platform for visualizing, exploring, and analyzing geospatial data. It runs in the web browser, on the desktop, on mobile, and inside Jupyter notebooks.
+      A free open source IT asset/license management system
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 PHP</span>
+						<span>⭐ 14259</span>
+						<span>🔱 3893</span>
+					</div>
+				<div class="stars-today">⭐ 6 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/deepfakes/faceswap" target="_blank">
+    
+
+
+      
+        deepfakes /
+
+      faceswap</a></p>
+				<p>
+      Deepfakes Software For All
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 55981</span>
+						<span>🔱 13412</span>
+					</div>
+				<div class="stars-today">⭐ 135 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/microsoft/VibeVoice" target="_blank">
+    
+
+
+      
+        microsoft /
+
+      VibeVoice</a></p>
+				<p>
+      Open-Source Frontier Voice AI
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 51053</span>
+						<span>🔱 5700</span>
+					</div>
+				<div class="stars-today">⭐ 332 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/different-ai/openwork" target="_blank">
+    
+
+
+      
+        different-ai /
+
+      openwork</a></p>
+				<p>
+      The open-source alternative to Claude Cowork (powered by opencode)
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 3614</span>
-						<span>🔱 405</span>
+						<span>⭐ 17427</span>
+						<span>🔱 1827</span>
 					</div>
-				<div class="stars-today">⭐ 607 stars today</div>
+				<div class="stars-today">⭐ 58 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/obra/superpowers" target="_blank">
+    
+
+
+      
+        obra /
+
+      superpowers</a></p>
+				<p>
+      An agentic skills framework & software development methodology that works.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Shell</span>
+						<span>⭐ 263031</span>
+						<span>🔱 23488</span>
+					</div>
+				<div class="stars-today">⭐ 634 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/MoonshotAI/FlashKDA" target="_blank">
+    
+
+
+      
+        MoonshotAI /
+
+      FlashKDA</a></p>
+				<p>
+      FlashKDA: high-performance Kimi Delta Attention kernels
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Cuda</span>
+						<span>⭐ 888</span>
+						<span>🔱 90</span>
+					</div>
+				<div class="stars-today">⭐ 216 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/NanmiCoder/MediaCrawler" target="_blank">
+    
+
+
+      
+        NanmiCoder /
+
+      MediaCrawler</a></p>
+				<p>
+      小红书笔记 | 评论爬虫、抖音视频 | 评论爬虫、快手视频 | 评论爬虫、B 站视频 ｜ 评论爬虫、微博帖子 ｜ 评论爬虫、百度贴吧帖子 ｜ 百度贴吧评论回复爬虫 | 知乎问答文章｜评论爬虫
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 58917</span>
+						<span>🔱 11659</span>
+					</div>
+				<div class="stars-today">⭐ 794 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/alibaba/open-code-review" target="_blank">
+    
+
+
+      
+        alibaba /
+
+      open-code-review</a></p>
+				<p>
+      Open-source & free — Battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in fine-tuned ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Go</span>
+						<span>⭐ 15689</span>
+						<span>🔱 1065</span>
+					</div>
+				<div class="stars-today">⭐ 918 stars today</div>
 				</div>
 			</div>
 	
@@ -206,76 +316,76 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 9966</span>
-						<span>🔱 1316</span>
+						<span>⭐ 10093</span>
+						<span>🔱 1325</span>
 					</div>
 				<div class="stars-today">⭐ 309 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/microsoft/agent-governance-toolkit" target="_blank">
+				<p><a href="https://github.com/maderix/ANE" target="_blank">
     
 
 
       
-        microsoft /
+        maderix /
 
-      agent-governance-toolkit</a></p>
+      ANE</a></p>
 				<p>
-      AI Agent Governance Toolkit — Policy enforcement, zero-trust identity, execution sandboxing, and reliability engineering for autonomous AI agents. Covers 10/10 OWASP Agentic Top 10.
+      Training neural networks on Apple Neural Engine via reverse-engineered private APIs
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 5369</span>
-						<span>🔱 849</span>
+						<span>🔠 Objective-C</span>
+						<span>⭐ 7069</span>
+						<span>🔱 955</span>
 					</div>
-				<div class="stars-today">⭐ 46 stars today</div>
+				<div class="stars-today">⭐ 13 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/yorukot/superfile" target="_blank">
+				<p><a href="https://github.com/pascalorg/editor" target="_blank">
     
 
 
       
-        yorukot /
+        pascalorg /
 
-      superfile</a></p>
+      editor</a></p>
 				<p>
-      Pretty fancy and modern terminal file manager
+      Create and share 3D architectural projects.
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Go</span>
-						<span>⭐ 21693</span>
-						<span>🔱 708</span>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 19252</span>
+						<span>🔱 2567</span>
 					</div>
-				<div class="stars-today">⭐ 662 stars today</div>
+				<div class="stars-today">⭐ 341 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/bradautomates/claude-video" target="_blank">
+				<p><a href="https://github.com/virgiliojr94/book-to-skill" target="_blank">
     
 
 
       
-        bradautomates /
+        virgiliojr94 /
 
-      claude-video</a></p>
+      book-to-skill</a></p>
 				<p>
-      Give Claude the ability to watch any video. /watch downloads, extracts frames, transcribes, hands it all to Claude.
+      Turn any technical book PDF into a Claude Code skill — ready to study, reference, and use while you work.
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 12392</span>
-						<span>🔱 1232</span>
+						<span>⭐ 12137</span>
+						<span>🔱 1380</span>
 					</div>
-				<div class="stars-today">⭐ 988 stars today</div>
+				<div class="stars-today">⭐ 423 stars today</div>
 				</div>
 			</div>
 	

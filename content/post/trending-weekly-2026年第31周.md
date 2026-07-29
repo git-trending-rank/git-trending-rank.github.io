@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2026年第31周
-date: 2026-07-29T08:11:14Z
+date: 2026-07-29T11:50:35Z
 categories:
 - weekly
 keywords:
@@ -14,6 +14,28 @@ keywords:
 	<main class="container">
         <div class="repo-list" id="repoList">
 
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/block/buzz" target="_blank">
+    
+
+
+      
+        block /
+
+      buzz</a></p>
+				<p>
+      A hive mind communication platform
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Rust</span>
+						<span>⭐ 16284</span>
+						<span>🔱 1500</span>
+					</div>
+				<div class="stars-today">⭐ 15046 stars this week</div>
+				</div>
+			</div>
 	
 			<div class="repo-card">
 				<p><a href="https://github.com/koala73/worldmonitor" target="_blank">
@@ -30,8 +52,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 76153</span>
-						<span>🔱 11383</span>
+						<span>⭐ 76267</span>
+						<span>🔱 11394</span>
 					</div>
 				<div class="stars-today">⭐ 12173 stars this week</div>
 				</div>
@@ -52,10 +74,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 13065</span>
-						<span>🔱 680</span>
+						<span>⭐ 13184</span>
+						<span>🔱 687</span>
 					</div>
 				<div class="stars-today">⭐ 6156 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/citrolabs/ego-lite" target="_blank">
+    
+
+
+      
+        citrolabs /
+
+      ego-lite</a></p>
+				<p>
+      The fastest browser for AI agents to run browser automation, built for sharing your logged-in browser state with your AI agents, like Codex or Claude Code, without disturbing you. Zero cost, zero config.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 JavaScript</span>
+						<span>⭐ 5837</span>
+						<span>🔱 288</span>
+					</div>
+				<div class="stars-today">⭐ 4904 stars this week</div>
 				</div>
 			</div>
 	
@@ -74,8 +118,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 25471</span>
-						<span>🔱 2636</span>
+						<span>⭐ 25807</span>
+						<span>🔱 2681</span>
 					</div>
 				<div class="stars-today">⭐ 10637 stars this week</div>
 				</div>
@@ -96,32 +140,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 33509</span>
-						<span>🔱 4336</span>
+						<span>⭐ 33675</span>
+						<span>🔱 4350</span>
 					</div>
 				<div class="stars-today">⭐ 10028 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/oblien/openship" target="_blank">
-    
-
-
-      
-        oblien /
-
-      openship</a></p>
-				<p>
-      Self-hosted deployment platform
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 9549</span>
-						<span>🔱 764</span>
-					</div>
-				<div class="stars-today">⭐ 3628 stars this week</div>
 				</div>
 			</div>
 	
@@ -140,98 +162,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Shell</span>
-						<span>⭐ 193604</span>
-						<span>🔱 16661</span>
+						<span>⭐ 193902</span>
+						<span>🔱 16684</span>
 					</div>
 				<div class="stars-today">⭐ 12794 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/UditAkhourii/adhd" target="_blank">
-    
-
-
-      
-        UditAkhourii /
-
-      adhd</a></p>
-				<p>
-      ADHD — a skill for coding agents. Tree-of-thought with pruning, built on the Claude & Codex Agent SDK. Fans out parallel divergent thoughts under different cognitive frames, scores, prunes traps, deepens the survivors. The no-brainer skill for creative and interdisciplinary work.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 2630</span>
-						<span>🔱 210</span>
-					</div>
-				<div class="stars-today">⭐ 992 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/agegr/pi-web" target="_blank">
-    
-
-
-      
-        agegr /
-
-      pi-web</a></p>
-				<p>
-      Web UI for the pi coding agent
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 3162</span>
-						<span>🔱 418</span>
-					</div>
-				<div class="stars-today">⭐ 1474 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/ruvnet/RuView" target="_blank">
-    
-
-
-      
-        ruvnet /
-
-      RuView</a></p>
-				<p>
-      π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Rust</span>
-						<span>⭐ 87373</span>
-						<span>🔱 11610</span>
-					</div>
-				<div class="stars-today">⭐ 5026 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/earendil-works/pi" target="_blank">
-    
-
-
-      
-        earendil-works /
-
-      pi</a></p>
-				<p>
-      AI agent toolkit: unified LLM API, agent loop, TUI, coding agent CLI
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 80006</span>
-						<span>🔱 9847</span>
-					</div>
-				<div class="stars-today">⭐ 5244 stars this week</div>
 				</div>
 			</div>
 	
@@ -250,32 +184,54 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 34878</span>
-						<span>🔱 5823</span>
+						<span>⭐ 34910</span>
+						<span>🔱 5826</span>
 					</div>
 				<div class="stars-today">⭐ 2521 stars this week</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/Pumpkin-MC/Pumpkin" target="_blank">
+				<p><a href="https://github.com/UditAkhourii/adhd" target="_blank">
     
 
 
       
-        Pumpkin-MC /
+        UditAkhourii /
 
-      Pumpkin</a></p>
+      adhd</a></p>
 				<p>
-      Empowering everyone to host fast and efficient Minecraft servers.
+      ADHD — a skill for coding agents. Tree-of-thought with pruning, built on the Claude & Codex Agent SDK. Fans out parallel divergent thoughts under different cognitive frames, scores, prunes traps, deepens the survivors. The no-brainer skill for creative and interdisciplinary work.
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Rust</span>
-						<span>⭐ 10324</span>
-						<span>🔱 690</span>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 2657</span>
+						<span>🔱 209</span>
 					</div>
-				<div class="stars-today">⭐ 2262 stars this week</div>
+				<div class="stars-today">⭐ 992 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/alibaba/open-code-review" target="_blank">
+    
+
+
+      
+        alibaba /
+
+      open-code-review</a></p>
+				<p>
+      Open-source & free — Battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in fine-tuned ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Go</span>
+						<span>⭐ 15689</span>
+						<span>🔱 1065</span>
+					</div>
+				<div class="stars-today">⭐ 4672 stars this week</div>
 				</div>
 			</div>
 	
@@ -294,8 +250,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 6501</span>
-						<span>🔱 574</span>
+						<span>⭐ 6528</span>
+						<span>🔱 576</span>
 					</div>
 				<div class="stars-today">⭐ 2828 stars this week</div>
 				</div>
@@ -316,32 +272,140 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Rust</span>
-						<span>⭐ 12994</span>
-						<span>🔱 1438</span>
+						<span>⭐ 13093</span>
+						<span>🔱 1448</span>
 					</div>
 				<div class="stars-today">⭐ 2495 stars this week</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/rohitg00/ai-engineering-from-scratch" target="_blank">
+				<p><a href="https://github.com/Pumpkin-MC/Pumpkin" target="_blank">
     
 
 
       
-        rohitg00 /
+        Pumpkin-MC /
 
-      ai-engineering-from-scratch</a></p>
+      Pumpkin</a></p>
 				<p>
-      Learn it. Build it. Ship it for others.
+      Empowering everyone to host fast and efficient Minecraft servers.
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 44714</span>
-						<span>🔱 7582</span>
+						<span>🔠 Rust</span>
+						<span>⭐ 10341</span>
+						<span>🔱 691</span>
 					</div>
-				<div class="stars-today">⭐ 3333 stars this week</div>
+				<div class="stars-today">⭐ 2262 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/agegr/pi-web" target="_blank">
+    
+
+
+      
+        agegr /
+
+      pi-web</a></p>
+				<p>
+      Web UI for the pi coding agent
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 3194</span>
+						<span>🔱 423</span>
+					</div>
+				<div class="stars-today">⭐ 1474 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/earendil-works/pi" target="_blank">
+    
+
+
+      
+        earendil-works /
+
+      pi</a></p>
+				<p>
+      AI agent toolkit: unified LLM API, agent loop, TUI, coding agent CLI
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 80122</span>
+						<span>🔱 9866</span>
+					</div>
+				<div class="stars-today">⭐ 5244 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/pingdotgg/t3code" target="_blank">
+    
+
+
+      
+        pingdotgg /
+
+      t3code</a></p>
+				<p></p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 15537</span>
+						<span>🔱 3401</span>
+					</div>
+				<div class="stars-today">⭐ 1202 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/oblien/openship" target="_blank">
+    
+
+
+      
+        oblien /
+
+      openship</a></p>
+				<p>
+      Self-hosted deployment platform
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 9608</span>
+						<span>🔱 768</span>
+					</div>
+				<div class="stars-today">⭐ 3628 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/ruvnet/RuView" target="_blank">
+    
+
+
+      
+        ruvnet /
+
+      RuView</a></p>
+				<p>
+      π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Rust</span>
+						<span>⭐ 87413</span>
+						<span>🔱 11614</span>
+					</div>
+				<div class="stars-today">⭐ 5026 stars this week</div>
 				</div>
 			</div>
 	
@@ -360,140 +424,54 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 9116</span>
-						<span>🔱 1034</span>
+						<span>⭐ 9173</span>
+						<span>🔱 1040</span>
 					</div>
 				<div class="stars-today">⭐ 2596 stars this week</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/tirth8205/code-review-graph" target="_blank">
+				<p><a href="https://github.com/rohitg00/ai-engineering-from-scratch" target="_blank">
     
 
 
       
-        tirth8205 /
+        rohitg00 /
 
-      code-review-graph</a></p>
+      ai-engineering-from-scratch</a></p>
 				<p>
-      Local-first code intelligence graph for MCP and CLI. Builds a persistent map of your codebase so AI coding tools read only what matters, with benchmarked context reductions on reviews and large-repo workflows.
+      Learn it. Build it. Ship it for others.
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 27455</span>
-						<span>🔱 2542</span>
+						<span>⭐ 44754</span>
+						<span>🔱 7588</span>
 					</div>
-				<div class="stars-today">⭐ 3032 stars this week</div>
+				<div class="stars-today">⭐ 3333 stars this week</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/likec4/likec4" target="_blank">
+				<p><a href="https://github.com/earthtojake/text-to-cad" target="_blank">
     
 
 
       
-        likec4 /
+        earthtojake /
 
-      likec4</a></p>
+      text-to-cad</a></p>
 				<p>
-      Visualize, collaborate, and evolve the software architecture with always actual and live diagrams from your code
+      A collection of agent skills for CAD, robotics and hardware design
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 5261</span>
-						<span>🔱 352</span>
+						<span>🔠 JavaScript</span>
+						<span>⭐ 11671</span>
+						<span>🔱 1252</span>
 					</div>
-				<div class="stars-today">⭐ 1228 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/pingdotgg/t3code" target="_blank">
-    
-
-
-      
-        pingdotgg /
-
-      t3code</a></p>
-				<p></p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 15515</span>
-						<span>🔱 3396</span>
-					</div>
-				<div class="stars-today">⭐ 1202 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/HKUDS/DeepTutor" target="_blank">
-    
-
-
-      
-        HKUDS /
-
-      DeepTutor</a></p>
-				<p>
-      DeepTutor: Lifelong Personalized Tutoring. https://deeptutor.info/.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 31030</span>
-						<span>🔱 4060</span>
-					</div>
-				<div class="stars-today">⭐ 2100 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/schollz/croc" target="_blank">
-    
-
-
-      
-        schollz /
-
-      croc</a></p>
-				<p>
-      Easily and securely send things from one computer to another 🐊 📦
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Go</span>
-						<span>⭐ 39044</span>
-						<span>🔱 1546</span>
-					</div>
-				<div class="stars-today">⭐ 2488 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/hyprwm/Hyprland" target="_blank">
-    
-
-
-      
-        hyprwm /
-
-      Hyprland</a></p>
-				<p>
-      Hyprland is an independent, highly customizable, dynamic tiling Wayland compositor that doesn't sacrifice on its looks.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 C++</span>
-						<span>⭐ 37628</span>
-						<span>🔱 1901</span>
-					</div>
-				<div class="stars-today">⭐ 774 stars this week</div>
+				<div class="stars-today">⭐ 2481 stars this week</div>
 				</div>
 			</div>
 	
