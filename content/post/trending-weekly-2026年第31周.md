@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2026年第31周
-date: 2026-07-30T07:58:35Z
+date: 2026-07-30T11:42:14Z
 categories:
 - weekly
 keywords:
@@ -30,10 +30,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Rust</span>
-						<span>⭐ 17538</span>
-						<span>🔱 1681</span>
+						<span>⭐ 17779</span>
+						<span>🔱 1711</span>
 					</div>
 				<div class="stars-today">⭐ 13317 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/citrolabs/ego-lite" target="_blank">
+    
+
+
+      
+        citrolabs /
+
+      ego-lite</a></p>
+				<p>
+      The fastest browser for AI agents to run browser automation, built for sharing your logged-in browser state with your AI agents, like Codex or Claude Code, without disturbing you. Zero cost, zero config.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 JavaScript</span>
+						<span>⭐ 6278</span>
+						<span>🔱 307</span>
+					</div>
+				<div class="stars-today">⭐ 4863 stars this week</div>
 				</div>
 			</div>
 	
@@ -52,8 +74,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 76674</span>
-						<span>🔱 11443</span>
+						<span>⭐ 76741</span>
+						<span>🔱 11447</span>
 					</div>
 				<div class="stars-today">⭐ 8681 stars this week</div>
 				</div>
@@ -74,32 +96,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 13749</span>
-						<span>🔱 731</span>
+						<span>⭐ 13879</span>
+						<span>🔱 739</span>
 					</div>
 				<div class="stars-today">⭐ 5544 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/citrolabs/ego-lite" target="_blank">
-    
-
-
-      
-        citrolabs /
-
-      ego-lite</a></p>
-				<p>
-      The fastest browser for AI agents to run browser automation, built for sharing your logged-in browser state with your AI agents, like Codex or Claude Code, without disturbing you. Zero cost, zero config.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 JavaScript</span>
-						<span>⭐ 6183</span>
-						<span>🔱 304</span>
-					</div>
-				<div class="stars-today">⭐ 4863 stars this week</div>
 				</div>
 			</div>
 	
@@ -118,98 +118,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 26813</span>
-						<span>🔱 2814</span>
+						<span>⭐ 27032</span>
+						<span>🔱 2844</span>
 					</div>
 				<div class="stars-today">⭐ 8998 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/diegosouzapw/OmniRoute" target="_blank">
-    
-
-
-      
-        diegosouzapw /
-
-      OmniRoute</a></p>
-				<p>
-      Never stop coding. Free MIT AI gateway: one endpoint, 290+ providers (90+ free), 500+ models — Kimi, Claude, GPT, OpenAI, Gemini, GLM, DeepSeek, MiniMax. Works with Claude Code, Codex, Cursor, OpenCode, Cline & Copilot. Quota-aware auto-fallback, RTK+Caveman compression saves 15-95% tokens, MCP/A2A, Desktop/PWA. Built by 500+ contributors
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 34427</span>
-						<span>🔱 4446</span>
-					</div>
-				<div class="stars-today">⭐ 9420 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/mattpocock/skills" target="_blank">
-    
-
-
-      
-        mattpocock /
-
-      skills</a></p>
-				<p>
-      Skills for Real Engineers. Straight from my .agents directory.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Shell</span>
-						<span>⭐ 195192</span>
-						<span>🔱 16808</span>
-					</div>
-				<div class="stars-today">⭐ 12680 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/shiyu-coder/Kronos" target="_blank">
-    
-
-
-      
-        shiyu-coder /
-
-      Kronos</a></p>
-				<p>
-      Kronos: A Foundation Model for the Language of Financial Markets
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 35035</span>
-						<span>🔱 5842</span>
-					</div>
-				<div class="stars-today">⭐ 2516 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/UditAkhourii/adhd" target="_blank">
-    
-
-
-      
-        UditAkhourii /
-
-      adhd</a></p>
-				<p>
-      ADHD — a skill for coding agents. Tree-of-thought with pruning, built on the Claude & Codex Agent SDK. Fans out parallel divergent thoughts under different cognitive frames, scores, prunes traps, deepens the survivors. The no-brainer skill for creative and interdisciplinary work.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 2775</span>
-						<span>🔱 214</span>
-					</div>
-				<div class="stars-today">⭐ 996 stars this week</div>
 				</div>
 			</div>
 	
@@ -228,32 +140,76 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Go</span>
-						<span>⭐ 16263</span>
-						<span>🔱 1100</span>
+						<span>⭐ 16379</span>
+						<span>🔱 1104</span>
 					</div>
 				<div class="stars-today">⭐ 4875 stars this week</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/CoreBunch/Instatic" target="_blank">
+				<p><a href="https://github.com/mattpocock/skills" target="_blank">
     
 
 
       
-        CoreBunch /
+        mattpocock /
 
-      Instatic</a></p>
+      skills</a></p>
 				<p>
-      The open-source alternative to Webflow, Framer and WordPress. Agentic self-hosted visual CMS outputting clean static pages. Users, roles, plugins, content, database, it's all there. 
+      Skills for Real Engineers. Straight from my .agents directory.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Shell</span>
+						<span>⭐ 195513</span>
+						<span>🔱 16833</span>
+					</div>
+				<div class="stars-today">⭐ 12680 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/diegosouzapw/OmniRoute" target="_blank">
+    
+
+
+      
+        diegosouzapw /
+
+      OmniRoute</a></p>
+				<p>
+      Never stop coding. Free MIT AI gateway: one endpoint, 290+ providers (90+ free), 500+ models — Kimi, Claude, GPT, OpenAI, Gemini, GLM, DeepSeek, MiniMax. Works with Claude Code, Codex, Cursor, OpenCode, Cline & Copilot. Quota-aware auto-fallback, RTK+Caveman compression saves 15-95% tokens, MCP/A2A, Desktop/PWA. Built by 500+ contributors
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 6660</span>
-						<span>🔱 586</span>
+						<span>⭐ 34610</span>
+						<span>🔱 4469</span>
 					</div>
-				<div class="stars-today">⭐ 2892 stars this week</div>
+				<div class="stars-today">⭐ 9420 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/shiyu-coder/Kronos" target="_blank">
+    
+
+
+      
+        shiyu-coder /
+
+      Kronos</a></p>
+				<p>
+      Kronos: A Foundation Model for the Language of Financial Markets
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 35062</span>
+						<span>🔱 5847</span>
+					</div>
+				<div class="stars-today">⭐ 2516 stars this week</div>
 				</div>
 			</div>
 	
@@ -272,10 +228,140 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Rust</span>
-						<span>⭐ 13688</span>
-						<span>🔱 1502</span>
+						<span>⭐ 13863</span>
+						<span>🔱 1524</span>
 					</div>
 				<div class="stars-today">⭐ 2594 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/pingdotgg/t3code" target="_blank">
+    
+
+
+      
+        pingdotgg /
+
+      t3code</a></p>
+				<p></p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 15752</span>
+						<span>🔱 3474</span>
+					</div>
+				<div class="stars-today">⭐ 1296 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/pascalorg/editor" target="_blank">
+    
+
+
+      
+        pascalorg /
+
+      editor</a></p>
+				<p>
+      Create and share 3D architectural projects.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 19859</span>
+						<span>🔱 2611</span>
+					</div>
+				<div class="stars-today">⭐ 1968 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/tokio-rs/topcoat" target="_blank">
+    
+
+
+      
+        tokio-rs /
+
+      topcoat</a></p>
+				<p>
+      A batteries-included framework for building web apps
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Rust</span>
+						<span>⭐ 3872</span>
+						<span>🔱 129</span>
+					</div>
+				<div class="stars-today">⭐ 1592 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/CoreBunch/Instatic" target="_blank">
+    
+
+
+      
+        CoreBunch /
+
+      Instatic</a></p>
+				<p>
+      The open-source alternative to Webflow, Framer and WordPress. Agentic self-hosted visual CMS outputting clean static pages. Users, roles, plugins, content, database, it's all there. 
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 6681</span>
+						<span>🔱 589</span>
+					</div>
+				<div class="stars-today">⭐ 2892 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/UditAkhourii/adhd" target="_blank">
+    
+
+
+      
+        UditAkhourii /
+
+      adhd</a></p>
+				<p>
+      ADHD — a skill for coding agents. Tree-of-thought with pruning, built on the Claude & Codex Agent SDK. Fans out parallel divergent thoughts under different cognitive frames, scores, prunes traps, deepens the survivors. The no-brainer skill for creative and interdisciplinary work.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 2795</span>
+						<span>🔱 215</span>
+					</div>
+				<div class="stars-today">⭐ 996 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/virgiliojr94/book-to-skill" target="_blank">
+    
+
+
+      
+        virgiliojr94 /
+
+      book-to-skill</a></p>
+				<p>
+      Turn any technical book PDF into a Claude Code skill — ready to study, reference, and use while you work.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 13425</span>
+						<span>🔱 1458</span>
+					</div>
+				<div class="stars-today">⭐ 3094 stars this week</div>
 				</div>
 			</div>
 	
@@ -294,32 +380,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Rust</span>
-						<span>⭐ 10397</span>
+						<span>⭐ 10404</span>
 						<span>🔱 695</span>
 					</div>
 				<div class="stars-today">⭐ 2199 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/agegr/pi-web" target="_blank">
-    
-
-
-      
-        agegr /
-
-      pi-web</a></p>
-				<p>
-      Web UI for the pi coding agent
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 3267</span>
-						<span>🔱 436</span>
-					</div>
-				<div class="stars-today">⭐ 1260 stars this week</div>
 				</div>
 			</div>
 	
@@ -338,140 +402,76 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 80615</span>
-						<span>🔱 9931</span>
+						<span>⭐ 80750</span>
+						<span>🔱 9958</span>
 					</div>
 				<div class="stars-today">⭐ 4979 stars this week</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/pingdotgg/t3code" target="_blank">
+				<p><a href="https://github.com/opengeos/GeoLibre" target="_blank">
     
 
 
       
-        pingdotgg /
+        opengeos /
 
-      t3code</a></p>
-				<p></p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 15711</span>
-						<span>🔱 3468</span>
-					</div>
-				<div class="stars-today">⭐ 1296 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/oblien/openship" target="_blank">
-    
-
-
-      
-        oblien /
-
-      openship</a></p>
+      GeoLibre</a></p>
 				<p>
-      Self-hosted deployment platform
+      A lightweight, cloud-native GIS platform for visualizing, exploring, and analyzing geospatial data. It runs in the web browser, on the desktop, on mobile, and inside Jupyter notebooks.
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 9820</span>
-						<span>🔱 775</span>
+						<span>⭐ 4415</span>
+						<span>🔱 451</span>
 					</div>
-				<div class="stars-today">⭐ 2743 stars this week</div>
+				<div class="stars-today">⭐ 2116 stars this week</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/ruvnet/RuView" target="_blank">
+				<p><a href="https://github.com/Automattic/harper" target="_blank">
     
 
 
       
-        ruvnet /
+        Automattic /
 
-      RuView</a></p>
+      harper</a></p>
 				<p>
-      π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.
+      Offline, privacy-first grammar checker. Fast, open-source, Rust-powered
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Rust</span>
-						<span>⭐ 87600</span>
-						<span>🔱 11634</span>
+						<span>⭐ 13924</span>
+						<span>🔱 538</span>
 					</div>
-				<div class="stars-today">⭐ 4504 stars this week</div>
+				<div class="stars-today">⭐ 2454 stars this week</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/every-app/open-seo" target="_blank">
+				<p><a href="https://github.com/moeru-ai/airi" target="_blank">
     
 
 
       
-        every-app /
+        moeru-ai /
 
-      open-seo</a></p>
+      airi</a></p>
 				<p>
-      Open source alternative to Semrush and Ahrefs
+      💖🧸 Self hosted, you-owned Grok Companion, a container of souls of waifu, cyber livings to bring them into our worlds, wishing to achieve Neuro-sama's altitude. Capable of realtime voice chat, Minecraft, Factorio playing. Web / macOS / Windows supported.
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 9456</span>
-						<span>🔱 1078</span>
+						<span>⭐ 45720</span>
+						<span>🔱 4512</span>
 					</div>
-				<div class="stars-today">⭐ 2332 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/rohitg00/ai-engineering-from-scratch" target="_blank">
-    
-
-
-      
-        rohitg00 /
-
-      ai-engineering-from-scratch</a></p>
-				<p>
-      Learn it. Build it. Ship it for others.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 45013</span>
-						<span>🔱 7642</span>
-					</div>
-				<div class="stars-today">⭐ 2965 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/earthtojake/text-to-cad" target="_blank">
-    
-
-
-      
-        earthtojake /
-
-      text-to-cad</a></p>
-				<p>
-      A collection of agent skills for CAD, robotics and hardware design
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 JavaScript</span>
-						<span>⭐ 11947</span>
-						<span>🔱 1273</span>
-					</div>
-				<div class="stars-today">⭐ 2242 stars this week</div>
+				<div class="stars-today">⭐ 2392 stars this week</div>
 				</div>
 			</div>
 	

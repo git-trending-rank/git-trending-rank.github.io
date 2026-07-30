@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2026年7月
-date: 2026-07-30T07:58:35Z
+date: 2026-07-30T11:42:14Z
 categories:
 - monthly
 keywords:
@@ -30,8 +30,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Swift</span>
-						<span>⭐ 33375</span>
-						<span>🔱 5281</span>
+						<span>⭐ 33406</span>
+						<span>🔱 5288</span>
 					</div>
 				<div class="stars-today">⭐ 7255 stars this month</div>
 				</div>
@@ -52,32 +52,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 34427</span>
-						<span>🔱 4446</span>
+						<span>⭐ 34610</span>
+						<span>🔱 4469</span>
 					</div>
 				<div class="stars-today">⭐ 26276 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/usestrix/strix" target="_blank">
-    
-
-
-      
-        usestrix /
-
-      strix</a></p>
-				<p>
-      Open-source AI penetration testing tool to find and fix your app’s vulnerabilities.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 45703</span>
-						<span>🔱 4786</span>
-					</div>
-				<div class="stars-today">⭐ 18792 stars this month</div>
 				</div>
 			</div>
 	
@@ -96,10 +74,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 33210</span>
-						<span>🔱 2333</span>
+						<span>⭐ 33384</span>
+						<span>🔱 2340</span>
 					</div>
 				<div class="stars-today">⭐ 23777 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/usestrix/strix" target="_blank">
+    
+
+
+      
+        usestrix /
+
+      strix</a></p>
+				<p>
+      Open-source AI penetration testing tool to find and fix your app’s vulnerabilities.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 45741</span>
+						<span>🔱 4788</span>
+					</div>
+				<div class="stars-today">⭐ 18792 stars this month</div>
 				</div>
 			</div>
 	
@@ -118,8 +118,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Rust</span>
-						<span>⭐ 27431</span>
-						<span>🔱 2816</span>
+						<span>⭐ 27456</span>
+						<span>🔱 2819</span>
 					</div>
 				<div class="stars-today">⭐ 14636 stars this month</div>
 				</div>
@@ -140,8 +140,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 </span>
-						<span>⭐ 22706</span>
-						<span>🔱 1237</span>
+						<span>⭐ 22785</span>
+						<span>🔱 1241</span>
 					</div>
 				<div class="stars-today">⭐ 18756 stars this month</div>
 				</div>
@@ -162,8 +162,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 CSS</span>
-						<span>⭐ 19818</span>
-						<span>🔱 981</span>
+						<span>⭐ 19879</span>
+						<span>🔱 984</span>
 					</div>
 				<div class="stars-today">⭐ 16235 stars this month</div>
 				</div>
@@ -184,8 +184,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 JavaScript</span>
-						<span>⭐ 61402</span>
-						<span>🔱 10040</span>
+						<span>⭐ 61422</span>
+						<span>🔱 10045</span>
 					</div>
 				<div class="stars-today">⭐ 14634 stars this month</div>
 				</div>
@@ -206,54 +206,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 76674</span>
-						<span>🔱 11443</span>
+						<span>⭐ 76741</span>
+						<span>🔱 11447</span>
 					</div>
 				<div class="stars-today">⭐ 15849 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/iOfficeAI/OfficeCLI" target="_blank">
-    
-
-
-      
-        iOfficeAI /
-
-      OfficeCLI</a></p>
-				<p>
-      OfficeCLI is the first and best Office suite purpose-built for AI agents to read, edit, and automate Word, Excel, and PowerPoint files. Free, open-source, single binary, no Office installation required.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 C#</span>
-						<span>⭐ 23365</span>
-						<span>🔱 1568</span>
-					</div>
-				<div class="stars-today">⭐ 15004 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/bradautomates/claude-video" target="_blank">
-    
-
-
-      
-        bradautomates /
-
-      claude-video</a></p>
-				<p>
-      Give Claude the ability to watch any video. /watch downloads, extracts frames, transcribes, hands it all to Claude.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 12763</span>
-						<span>🔱 1258</span>
-					</div>
-				<div class="stars-today">⭐ 9872 stars this month</div>
 				</div>
 			</div>
 	
@@ -272,32 +228,54 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 JavaScript</span>
-						<span>⭐ 30434</span>
-						<span>🔱 2004</span>
+						<span>⭐ 30455</span>
+						<span>🔱 2007</span>
 					</div>
 				<div class="stars-today">⭐ 8723 stars this month</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/hasaneyldrm/exercises-dataset" target="_blank">
+				<p><a href="https://github.com/bradautomates/claude-video" target="_blank">
     
 
 
       
-        hasaneyldrm /
+        bradautomates /
 
-      exercises-dataset</a></p>
+      claude-video</a></p>
 				<p>
-      1,324-exercise fitness dataset — animation GIFs, 180×180 thumbnails, muscle-group & equipment data, and step-by-step instructions in 6 languages. The exercise data layer behind the LogPress app.
+      Give Claude the ability to watch any video. /watch downloads, extracts frames, transcribes, hands it all to Claude.
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 HTML</span>
-						<span>⭐ 17982</span>
-						<span>🔱 2185</span>
+						<span>🔠 Python</span>
+						<span>⭐ 12808</span>
+						<span>🔱 1260</span>
 					</div>
-				<div class="stars-today">⭐ 13494 stars this month</div>
+				<div class="stars-today">⭐ 9872 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/iOfficeAI/OfficeCLI" target="_blank">
+    
+
+
+      
+        iOfficeAI /
+
+      OfficeCLI</a></p>
+				<p>
+      OfficeCLI is the first and best Office suite purpose-built for AI agents to read, edit, and automate Word, Excel, and PowerPoint files. Free, open-source, single binary, no Office installation required.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 C#</span>
+						<span>⭐ 23416</span>
+						<span>🔱 1573</span>
+					</div>
+				<div class="stars-today">⭐ 15004 stars this month</div>
 				</div>
 			</div>
 	
@@ -316,7 +294,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 8966</span>
+						<span>⭐ 8970</span>
 						<span>🔱 1028</span>
 					</div>
 				<div class="stars-today">⭐ 2863 stars this month</div>
@@ -324,24 +302,24 @@ keywords:
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/Robbyant/lingbot-map" target="_blank">
+				<p><a href="https://github.com/huggingface/speech-to-speech" target="_blank">
     
 
 
       
-        Robbyant /
+        huggingface /
 
-      lingbot-map</a></p>
+      speech-to-speech</a></p>
 				<p>
-      A feed-forward 3D foundation model for reconstructing scenes from streaming data
+      Build local voice agents with open-source models
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 15883</span>
-						<span>🔱 1693</span>
+						<span>⭐ 8204</span>
+						<span>🔱 1025</span>
 					</div>
-				<div class="stars-today">⭐ 7511 stars this month</div>
+				<div class="stars-today">⭐ 2803 stars this month</div>
 				</div>
 			</div>
 	
@@ -360,54 +338,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 28631</span>
-						<span>🔱 4631</span>
+						<span>⭐ 28669</span>
+						<span>🔱 4633</span>
 					</div>
 				<div class="stars-today">⭐ 13918 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/ocornut/imgui" target="_blank">
-    
-
-
-      
-        ocornut /
-
-      imgui</a></p>
-				<p>
-      Dear ImGui: Bloat-free Graphical User interface for C++ with minimal dependencies
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 C++</span>
-						<span>⭐ 75388</span>
-						<span>🔱 11978</span>
-					</div>
-				<div class="stars-today">⭐ 1394 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/catchorg/Catch2" target="_blank">
-    
-
-
-      
-        catchorg /
-
-      Catch2</a></p>
-				<p>
-      A modern, C++-native, test framework for unit-tests, TDD and BDD - using C++14, C++17 and later (C++11 support is in v2.x branch, and C++03 on the Catch1.x branch)
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 C++</span>
-						<span>⭐ 21390</span>
-						<span>🔱 3421</span>
-					</div>
-				<div class="stars-today">⭐ 1074 stars this month</div>
 				</div>
 			</div>
 	
@@ -426,8 +360,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 79828</span>
-						<span>🔱 7941</span>
+						<span>⭐ 79879</span>
+						<span>🔱 7944</span>
 					</div>
 				<div class="stars-today">⭐ 19614 stars this month</div>
 				</div>
@@ -448,10 +382,76 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 9456</span>
-						<span>🔱 1078</span>
+						<span>⭐ 9513</span>
+						<span>🔱 1081</span>
 					</div>
 				<div class="stars-today">⭐ 5534 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/Robbyant/lingbot-map" target="_blank">
+    
+
+
+      
+        Robbyant /
+
+      lingbot-map</a></p>
+				<p>
+      A feed-forward 3D foundation model for reconstructing scenes from streaming data
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 15897</span>
+						<span>🔱 1693</span>
+					</div>
+				<div class="stars-today">⭐ 7511 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/hasaneyldrm/exercises-dataset" target="_blank">
+    
+
+
+      
+        hasaneyldrm /
+
+      exercises-dataset</a></p>
+				<p>
+      1,324-exercise fitness dataset — animation GIFs, 180×180 thumbnails, muscle-group & equipment data, and step-by-step instructions in 6 languages. The exercise data layer behind the LogPress app.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 HTML</span>
+						<span>⭐ 18028</span>
+						<span>🔱 2188</span>
+					</div>
+				<div class="stars-today">⭐ 13494 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/Shubhamsaboo/awesome-llm-apps" target="_blank">
+    
+
+
+      
+        Shubhamsaboo /
+
+      awesome-llm-apps</a></p>
+				<p>
+      100+ AI Agents, Agent Skills and RAG Apps - Free and Open Source.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 128898</span>
+						<span>🔱 19020</span>
+					</div>
+				<div class="stars-today">⭐ 13110 stars this month</div>
 				</div>
 			</div>
 	
@@ -470,32 +470,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 28182</span>
+						<span>⭐ 28200</span>
 						<span>🔱 2473</span>
 					</div>
 				<div class="stars-today">⭐ 7802 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/huggingface/speech-to-speech" target="_blank">
-    
-
-
-      
-        huggingface /
-
-      speech-to-speech</a></p>
-				<p>
-      Build local voice agents with open-source models
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 8098</span>
-						<span>🔱 1022</span>
-					</div>
-				<div class="stars-today">⭐ 2803 stars this month</div>
 				</div>
 			</div>
 	
