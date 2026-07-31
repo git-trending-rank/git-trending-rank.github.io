@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2026-07-31
-date: 2026-07-31T08:22:53Z
+date: 2026-07-31T11:49:31Z
 categories:
 - daily
 keywords:
@@ -16,68 +16,24 @@ keywords:
 
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/huggingface/speech-to-speech" target="_blank">
+				<p><a href="https://github.com/zhaoxuya520/reverse-skill" target="_blank">
     
 
 
       
-        huggingface /
+        zhaoxuya520 /
 
-      speech-to-speech</a></p>
+      reverse-skill</a></p>
 				<p>
-      Build local voice agents with open-source models
+      Reverse Engineering / Authorized Penetration Testing / Security Research Skill Router Pack AI-powered routing + On-demand toolchain bootstrapping + Self-evolving knowledge base Supports Claude Code, Kiro, Cursor, Cline, and other AI coding clients 逆向/渗透/安全技能路由包 - AI 自动路由 + 按需自举工具链 + 自动进化经验库 | 支持 Claude Code / Kiro / Cursor / Cline 等代码 AI 客户端
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 9379</span>
-						<span>🔱 1153</span>
+						<span>🔠 PowerShell</span>
+						<span>⭐ 10017</span>
+						<span>🔱 1551</span>
 					</div>
-				<div class="stars-today">⭐ 628 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/microsoft/AI-For-Beginners" target="_blank">
-    
-
-
-      
-        microsoft /
-
-      AI-For-Beginners</a></p>
-				<p>
-      12 Weeks, 24 Lessons, AI for All!
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Jupyter Notebook</span>
-						<span>⭐ 54602</span>
-						<span>🔱 11047</span>
-					</div>
-				<div class="stars-today">⭐ 155 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/paperswithbacktest/awesome-systematic-trading" target="_blank">
-    
-
-
-      
-        paperswithbacktest /
-
-      awesome-systematic-trading</a></p>
-				<p>
-      A curated list of awesome libraries, packages, strategies, books, blogs, tutorials for systematic trading.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 11353</span>
-						<span>🔱 1438</span>
-					</div>
-				<div class="stars-today">⭐ 621 stars today</div>
+				<div class="stars-today">⭐ 612 stars today</div>
 				</div>
 			</div>
 	
@@ -96,54 +52,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 19016</span>
-						<span>🔱 1928</span>
+						<span>⭐ 19117</span>
+						<span>🔱 1936</span>
 					</div>
 				<div class="stars-today">⭐ 915 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/WhiskeySockets/Baileys" target="_blank">
-    
-
-
-      
-        WhiskeySockets /
-
-      Baileys</a></p>
-				<p>
-      Socket-based TS/JavaScript API for WhatsApp Web
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 JavaScript</span>
-						<span>⭐ 10503</span>
-						<span>🔱 3260</span>
-					</div>
-				<div class="stars-today">⭐ 19 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/pascalorg/editor" target="_blank">
-    
-
-
-      
-        pascalorg /
-
-      editor</a></p>
-				<p>
-      Create and share 3D architectural projects.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 20289</span>
-						<span>🔱 2632</span>
-					</div>
-				<div class="stars-today">⭐ 625 stars today</div>
 				</div>
 			</div>
 	
@@ -162,120 +74,98 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 55759</span>
-						<span>🔱 4798</span>
+						<span>⭐ 55856</span>
+						<span>🔱 4806</span>
 					</div>
 				<div class="stars-today">⭐ 378 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/dotnet/aspnetcore" target="_blank">
+				<p><a href="https://github.com/paperswithbacktest/awesome-systematic-trading" target="_blank">
     
 
 
       
-        dotnet /
+        paperswithbacktest /
 
-      aspnetcore</a></p>
+      awesome-systematic-trading</a></p>
 				<p>
-      ASP.NET Core is a cross-platform .NET framework for building modern cloud-based web applications on Windows, Mac, or Linux.
+      A curated list of awesome libraries, packages, strategies, books, blogs, tutorials for systematic trading.
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 C#</span>
-						<span>⭐ 38324</span>
-						<span>🔱 10860</span>
+						<span>🔠 Python</span>
+						<span>⭐ 11456</span>
+						<span>🔱 1443</span>
 					</div>
-				<div class="stars-today">⭐ 7 stars today</div>
+				<div class="stars-today">⭐ 621 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/microsoft/PowerToys" target="_blank">
+				<p><a href="https://github.com/microsoft/AI-For-Beginners" target="_blank">
     
 
 
       
         microsoft /
 
-      PowerToys</a></p>
+      AI-For-Beginners</a></p>
 				<p>
-      Microsoft PowerToys is a collection of utilities that supercharge productivity and customization on Windows
+      12 Weeks, 24 Lessons, AI for All!
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 C</span>
-						<span>⭐ 137260</span>
-						<span>🔱 8370</span>
+						<span>🔠 Jupyter Notebook</span>
+						<span>⭐ 54870</span>
+						<span>🔱 11084</span>
 					</div>
-				<div class="stars-today">⭐ 70 stars today</div>
+				<div class="stars-today">⭐ 155 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/ansible/ansible" target="_blank">
+				<p><a href="https://github.com/github/copilot-sdk" target="_blank">
     
 
 
       
-        ansible /
+        github /
 
-      ansible</a></p>
+      copilot-sdk</a></p>
 				<p>
-      Ansible is a radically simple IT automation platform that makes your applications and systems easier to deploy and maintain. Automate everything from code deployment to network configuration to cloud management, in a language that approaches plain English, using SSH, with no agents to install on remote systems. https://docs.ansible.com.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 69968</span>
-						<span>🔱 24256</span>
-					</div>
-				<div class="stars-today">⭐ 29 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/ChromeDevTools/chrome-devtools-mcp" target="_blank">
-    
-
-
-      
-        ChromeDevTools /
-
-      chrome-devtools-mcp</a></p>
-				<p>
-      Chrome DevTools for coding agents
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 48195</span>
-						<span>🔱 3271</span>
-					</div>
-				<div class="stars-today">⭐ 80 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/jenkinsci/jenkins" target="_blank">
-    
-
-
-      
-        jenkinsci /
-
-      jenkins</a></p>
-				<p>
-      Jenkins automation server
+      Multi-platform SDK for integrating GitHub Copilot Agent into apps and services
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Java</span>
-						<span>⭐ 26353</span>
-						<span>🔱 9722</span>
+						<span>⭐ 10065</span>
+						<span>🔱 1365</span>
 					</div>
-				<div class="stars-today">⭐ 25 stars today</div>
+				<div class="stars-today">⭐ 7 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/chatwoot/chatwoot" target="_blank">
+    
+
+
+      
+        chatwoot /
+
+      chatwoot</a></p>
+				<p>
+      Open-source live-chat, email support, omni-channel desk. An alternative to Intercom, Zendesk, Salesforce Service Cloud etc. 🔥💬
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Ruby</span>
+						<span>⭐ 34955</span>
+						<span>🔱 8423</span>
+					</div>
+				<div class="stars-today">⭐ 53 stars today</div>
 				</div>
 			</div>
 	
@@ -294,32 +184,98 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Rust</span>
-						<span>⭐ 1975</span>
-						<span>🔱 166</span>
+						<span>⭐ 2017</span>
+						<span>🔱 167</span>
 					</div>
 				<div class="stars-today">⭐ 190 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/affaan-m/ECC" target="_blank">
+				<p><a href="https://github.com/usekaneo/kaneo" target="_blank">
     
 
 
       
-        affaan-m /
+        usekaneo /
 
-      ECC</a></p>
+      kaneo</a></p>
 				<p>
-      The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.
+      🎯 All you need. Nothing you don't. Open source project management that works for you, not against you.
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 JavaScript</span>
-						<span>⭐ 236425</span>
-						<span>🔱 35945</span>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 4628</span>
+						<span>🔱 423</span>
 					</div>
-				<div class="stars-today">⭐ 804 stars today</div>
+				<div class="stars-today">⭐ 188 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/geo-tp/ESP32-Bit-Pirate" target="_blank">
+    
+
+
+      
+        geo-tp /
+
+      ESP32-Bit-Pirate</a></p>
+				<p>
+      A Hardware Hacking Tool with Web-Based CLI That Speaks Every Protocol 
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 C++</span>
+						<span>⭐ 4685</span>
+						<span>🔱 383</span>
+					</div>
+				<div class="stars-today">⭐ 152 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/deepfakes/faceswap" target="_blank">
+    
+
+
+      
+        deepfakes /
+
+      faceswap</a></p>
+				<p>
+      Deepfakes Software For All
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 56753</span>
+						<span>🔱 13461</span>
+					</div>
+				<div class="stars-today">⭐ 619 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/1jehuang/jcode" target="_blank">
+    
+
+
+      
+        1jehuang /
+
+      jcode</a></p>
+				<p>
+      The most RAM efficient harness
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Rust</span>
+						<span>⭐ 14377</span>
+						<span>🔱 1588</span>
+					</div>
+				<div class="stars-today">⭐ 812 stars today</div>
 				</div>
 			</div>
 	
