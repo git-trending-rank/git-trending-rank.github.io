@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2026年8月
-date: 2026-08-01T11:07:14Z
+date: 2026-08-01T12:43:16Z
 categories:
 - monthly
 keywords:
@@ -30,7 +30,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Swift</span>
-						<span>⭐ 33800</span>
+						<span>⭐ 33823</span>
 						<span>🔱 5398</span>
 					</div>
 				<div class="stars-today">⭐ 7687 stars this month</div>
@@ -52,8 +52,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 36528</span>
-						<span>🔱 4698</span>
+						<span>⭐ 36608</span>
+						<span>🔱 4715</span>
 					</div>
 				<div class="stars-today">⭐ 27829 stars this month</div>
 				</div>
@@ -74,8 +74,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 34890</span>
-						<span>🔱 2435</span>
+						<span>⭐ 34927</span>
+						<span>🔱 2436</span>
 					</div>
 				<div class="stars-today">⭐ 25201 stars this month</div>
 				</div>
@@ -96,32 +96,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 </span>
-						<span>⭐ 23490</span>
-						<span>🔱 1275</span>
+						<span>⭐ 23518</span>
+						<span>🔱 1276</span>
 					</div>
 				<div class="stars-today">⭐ 19439 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/Zackriya-Solutions/meetily" target="_blank">
-    
-
-
-      
-        Zackriya-Solutions /
-
-      meetily</a></p>
-				<p>
-      Privacy first, AI meeting assistant with 4x faster Parakeet/Whisper live transcription, speaker diarization, and Ollama summarization built on Rust. 100% local processing. no cloud required. Meetily (Meetly Ai - https://meetily.ai) is the #1 Self-hosted, Open-source Ai meeting note taker for macOS & Windows. Understand How to write meeting minutes
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Rust</span>
-						<span>⭐ 27756</span>
-						<span>🔱 2853</span>
-					</div>
-				<div class="stars-today">⭐ 14907 stars this month</div>
 				</div>
 			</div>
 	
@@ -140,54 +118,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 CSS</span>
-						<span>⭐ 20443</span>
-						<span>🔱 1023</span>
+						<span>⭐ 20467</span>
+						<span>🔱 1024</span>
 					</div>
 				<div class="stars-today">⭐ 16829 stars this month</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/openai/codex-plugin-cc" target="_blank">
+				<p><a href="https://github.com/Zackriya-Solutions/meetily" target="_blank">
     
 
 
       
-        openai /
+        Zackriya-Solutions /
 
-      codex-plugin-cc</a></p>
+      meetily</a></p>
 				<p>
-      Use Codex from Claude Code to review code or delegate tasks.
+      Privacy first, AI meeting assistant with 4x faster Parakeet/Whisper live transcription, speaker diarization, and Ollama summarization built on Rust. 100% local processing. no cloud required. Meetily (Meetly Ai - https://meetily.ai) is the #1 Self-hosted, Open-source Ai meeting note taker for macOS & Windows. Understand How to write meeting minutes
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 JavaScript</span>
-						<span>⭐ 30763</span>
-						<span>🔱 2026</span>
+						<span>🔠 Rust</span>
+						<span>⭐ 27770</span>
+						<span>🔱 2854</span>
 					</div>
-				<div class="stars-today">⭐ 8998 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/usestrix/strix" target="_blank">
-    
-
-
-      
-        usestrix /
-
-      strix</a></p>
-				<p>
-      Open-source AI penetration testing tool to find and fix your app’s vulnerabilities.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 46323</span>
-						<span>🔱 4859</span>
-					</div>
-				<div class="stars-today">⭐ 18958 stars this month</div>
+				<div class="stars-today">⭐ 14907 stars this month</div>
 				</div>
 			</div>
 	
@@ -206,32 +162,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 77614</span>
-						<span>🔱 11598</span>
+						<span>⭐ 77638</span>
+						<span>🔱 11602</span>
 					</div>
 				<div class="stars-today">⭐ 16613 stars this month</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/asgeirtj/system_prompts_leaks" target="_blank">
+				<p><a href="https://github.com/openai/codex-plugin-cc" target="_blank">
     
 
 
       
-        asgeirtj /
+        openai /
 
-      system_prompts_leaks</a></p>
+      codex-plugin-cc</a></p>
 				<p>
-      Extracted system prompts from Anthropic - Claude Fable 5, Opus 5, Claude Design, Claude Code. OpenAI - ChatGPT GPT-5.6-Sol, Codex. Google - Gemini 3.5 Flash, 3.1 Pro, Antigravity. xAI - Grok, Cursor, Copilot, VS Code, Perplexity, and more. Updated regularly.
+      Use Codex from Claude Code to review code or delegate tasks.
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 JavaScript</span>
-						<span>⭐ 61762</span>
-						<span>🔱 10080</span>
+						<span>⭐ 30775</span>
+						<span>🔱 2026</span>
 					</div>
-				<div class="stars-today">⭐ 14733 stars this month</div>
+				<div class="stars-today">⭐ 8998 stars this month</div>
 				</div>
 			</div>
 	
@@ -250,10 +206,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 13196</span>
+						<span>⭐ 13204</span>
 						<span>🔱 1292</span>
 					</div>
 				<div class="stars-today">⭐ 10346 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/asgeirtj/system_prompts_leaks" target="_blank">
+    
+
+
+      
+        asgeirtj /
+
+      system_prompts_leaks</a></p>
+				<p>
+      Extracted system prompts from Anthropic - Claude Fable 5, Opus 5, Claude Design, Claude Code. OpenAI - ChatGPT GPT-5.6-Sol, Codex. Google - Gemini 3.5 Flash, 3.1 Pro, Antigravity. xAI - Grok, Cursor, Copilot, VS Code, Perplexity, and more. Updated regularly.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 JavaScript</span>
+						<span>⭐ 61772</span>
+						<span>🔱 10079</span>
+					</div>
+				<div class="stars-today">⭐ 14733 stars this month</div>
 				</div>
 			</div>
 	
@@ -272,54 +250,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 C#</span>
-						<span>⭐ 23958</span>
-						<span>🔱 1612</span>
+						<span>⭐ 23970</span>
+						<span>🔱 1616</span>
 					</div>
 				<div class="stars-today">⭐ 15632 stars this month</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/erincatto/box3d" target="_blank">
+				<p><a href="https://github.com/usestrix/strix" target="_blank">
     
 
 
       
-        erincatto /
+        usestrix /
 
-      box3d</a></p>
+      strix</a></p>
 				<p>
-      Box3D is a 3D physics engine for games
+      Open-source AI penetration testing tool to find and fix your app’s vulnerabilities.
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 C</span>
-						<span>⭐ 5742</span>
-						<span>🔱 282</span>
+						<span>🔠 Python</span>
+						<span>⭐ 46337</span>
+						<span>🔱 4859</span>
 					</div>
-				<div class="stars-today">⭐ 5733 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/wonderwhy-er/DesktopCommanderMCP" target="_blank">
-    
-
-
-      
-        wonderwhy-er /
-
-      DesktopCommanderMCP</a></p>
-				<p>
-      This is MCP server for Claude that gives it terminal control, file system search and diff file editing capabilities
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 9030</span>
-						<span>🔱 1031</span>
-					</div>
-				<div class="stars-today">⭐ 2927 stars this month</div>
+				<div class="stars-today">⭐ 18958 stars this month</div>
 				</div>
 			</div>
 	
@@ -338,10 +294,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 9981</span>
+						<span>⭐ 10002</span>
 						<span>🔱 1212</span>
 					</div>
 				<div class="stars-today">⭐ 4740 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/wonderwhy-er/DesktopCommanderMCP" target="_blank">
+    
+
+
+      
+        wonderwhy-er /
+
+      DesktopCommanderMCP</a></p>
+				<p>
+      This is MCP server for Claude that gives it terminal control, file system search and diff file editing capabilities
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 9031</span>
+						<span>🔱 1031</span>
+					</div>
+				<div class="stars-today">⭐ 2927 stars this month</div>
 				</div>
 			</div>
 	
@@ -360,8 +338,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 129471</span>
-						<span>🔱 19093</span>
+						<span>⭐ 129484</span>
+						<span>🔱 19099</span>
 					</div>
 				<div class="stars-today">⭐ 13624 stars this month</div>
 				</div>
@@ -382,76 +360,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 80262</span>
-						<span>🔱 7967</span>
+						<span>⭐ 80274</span>
+						<span>🔱 7971</span>
 					</div>
 				<div class="stars-today">⭐ 19902 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/HKUDS/Vibe-Trading" target="_blank">
-    
-
-
-      
-        HKUDS /
-
-      Vibe-Trading</a></p>
-				<p>
-      "Vibe-Trading: Your Personal Trading Agent"
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 29063</span>
-						<span>🔱 4678</span>
-					</div>
-				<div class="stars-today">⭐ 13643 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/HKUDS/DeepTutor" target="_blank">
-    
-
-
-      
-        HKUDS /
-
-      DeepTutor</a></p>
-				<p>
-      DeepTutor: Lifelong Personalized Tutoring. https://deeptutor.info/.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 31717</span>
-						<span>🔱 4134</span>
-					</div>
-				<div class="stars-today">⭐ 6410 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/hasaneyldrm/exercises-dataset" target="_blank">
-    
-
-
-      
-        hasaneyldrm /
-
-      exercises-dataset</a></p>
-				<p>
-      1,324-exercise fitness dataset — animation GIFs, 180×180 thumbnails, muscle-group & equipment data, and step-by-step instructions in 6 languages. The exercise data layer behind the LogPress app.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 HTML</span>
-						<span>⭐ 18382</span>
-						<span>🔱 2231</span>
-					</div>
-				<div class="stars-today">⭐ 13008 stars this month</div>
 				</div>
 			</div>
 	
@@ -470,10 +382,98 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 JavaScript</span>
-						<span>⭐ 53509</span>
+						<span>⭐ 53541</span>
 						<span>🔱 3170</span>
 					</div>
 				<div class="stars-today">⭐ 11096 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/HKUDS/DeepTutor" target="_blank">
+    
+
+
+      
+        HKUDS /
+
+      DeepTutor</a></p>
+				<p>
+      DeepTutor: Lifelong Personalized Tutoring. https://deeptutor.info/.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 31728</span>
+						<span>🔱 4142</span>
+					</div>
+				<div class="stars-today">⭐ 6410 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/HKUDS/Vibe-Trading" target="_blank">
+    
+
+
+      
+        HKUDS /
+
+      Vibe-Trading</a></p>
+				<p>
+      "Vibe-Trading: Your Personal Trading Agent"
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 29076</span>
+						<span>🔱 4678</span>
+					</div>
+				<div class="stars-today">⭐ 13643 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/1jehuang/jcode" target="_blank">
+    
+
+
+      
+        1jehuang /
+
+      jcode</a></p>
+				<p>
+      The most RAM efficient harness
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Rust</span>
+						<span>⭐ 14812</span>
+						<span>🔱 1632</span>
+					</div>
+				<div class="stars-today">⭐ 6587 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/every-app/open-seo" target="_blank">
+    
+
+
+      
+        every-app /
+
+      open-seo</a></p>
+				<p>
+      Open source alternative to Semrush and Ahrefs
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 9876</span>
+						<span>🔱 1130</span>
+					</div>
+				<div class="stars-today">⭐ 5978 stars this month</div>
 				</div>
 			</div>
 	

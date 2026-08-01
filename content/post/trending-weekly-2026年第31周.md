@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2026年第31周
-date: 2026-08-01T11:07:14Z
+date: 2026-08-01T12:43:16Z
 categories:
 - weekly
 keywords:
@@ -14,6 +14,28 @@ keywords:
 	<main class="container">
         <div class="repo-list" id="repoList">
 
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/permissionlesstech/bitchat" target="_blank">
+    
+
+
+      
+        permissionlesstech /
+
+      bitchat</a></p>
+				<p>
+      bluetooth mesh chat, IRC vibes
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Swift</span>
+						<span>⭐ 33823</span>
+						<span>🔱 5398</span>
+					</div>
+				<div class="stars-today">⭐ 6761 stars this week</div>
+				</div>
+			</div>
 	
 			<div class="repo-card">
 				<p><a href="https://github.com/block/buzz" target="_blank">
@@ -30,8 +52,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Rust</span>
-						<span>⭐ 19910</span>
-						<span>🔱 2041</span>
+						<span>⭐ 19958</span>
+						<span>🔱 2046</span>
 					</div>
 				<div class="stars-today">⭐ 10558 stars this week</div>
 				</div>
@@ -52,32 +74,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 JavaScript</span>
-						<span>⭐ 7197</span>
-						<span>🔱 345</span>
+						<span>⭐ 7215</span>
+						<span>🔱 346</span>
 					</div>
 				<div class="stars-today">⭐ 4741 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/alibaba/open-code-review" target="_blank">
-    
-
-
-      
-        alibaba /
-
-      open-code-review</a></p>
-				<p>
-      Open-source & free — Battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in fine-tuned ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Go</span>
-						<span>⭐ 17247</span>
-						<span>🔱 1173</span>
-					</div>
-				<div class="stars-today">⭐ 4746 stars this week</div>
 				</div>
 			</div>
 	
@@ -96,54 +96,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 14952</span>
-						<span>🔱 821</span>
+						<span>⭐ 14981</span>
+						<span>🔱 823</span>
 					</div>
 				<div class="stars-today">⭐ 5133 stars this week</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/bojieli/ai-agent-book" target="_blank">
+				<p><a href="https://github.com/alibaba/open-code-review" target="_blank">
     
 
 
       
-        bojieli /
+        alibaba /
 
-      ai-agent-book</a></p>
+      open-code-review</a></p>
 				<p>
-      《深入理解 AI Agent：设计原理与工程实践》（李博杰 著）开源主仓库：全书正文、编译版 PDF 与按章配套代码
+      Open-source & free — Battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in fine-tuned ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 28866</span>
-						<span>🔱 3051</span>
+						<span>🔠 Go</span>
+						<span>⭐ 17278</span>
+						<span>🔱 1177</span>
 					</div>
-				<div class="stars-today">⭐ 9454 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/pascalorg/editor" target="_blank">
-    
-
-
-      
-        pascalorg /
-
-      editor</a></p>
-				<p>
-      Create and share 3D architectural projects.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 20516</span>
-						<span>🔱 2645</span>
-					</div>
-				<div class="stars-today">⭐ 2863 stars this week</div>
+				<div class="stars-today">⭐ 4746 stars this week</div>
 				</div>
 			</div>
 	
@@ -162,10 +140,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 14530</span>
-						<span>🔱 1572</span>
+						<span>⭐ 14570</span>
+						<span>🔱 1578</span>
 					</div>
 				<div class="stars-today">⭐ 4603 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/pascalorg/editor" target="_blank">
+    
+
+
+      
+        pascalorg /
+
+      editor</a></p>
+				<p>
+      Create and share 3D architectural projects.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 20525</span>
+						<span>🔱 2645</span>
+					</div>
+				<div class="stars-today">⭐ 2863 stars this week</div>
 				</div>
 			</div>
 	
@@ -184,74 +184,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Rust</span>
-						<span>⭐ 14793</span>
-						<span>🔱 1630</span>
+						<span>⭐ 14812</span>
+						<span>🔱 1632</span>
 					</div>
 				<div class="stars-today">⭐ 3351 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/mattpocock/skills" target="_blank">
-    
-
-
-      
-        mattpocock /
-
-      skills</a></p>
-				<p>
-      Skills for Real Engineers. Straight from my .agents directory.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Shell</span>
-						<span>⭐ 198350</span>
-						<span>🔱 17080</span>
-					</div>
-				<div class="stars-today">⭐ 11622 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/pingdotgg/t3code" target="_blank">
-    
-
-
-      
-        pingdotgg /
-
-      t3code</a></p>
-				<p></p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 16152</span>
-						<span>🔱 3595</span>
-					</div>
-				<div class="stars-today">⭐ 1488 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/koala73/worldmonitor" target="_blank">
-    
-
-
-      
-        koala73 /
-
-      worldmonitor</a></p>
-				<p>
-      Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 77614</span>
-						<span>🔱 11598</span>
-					</div>
-				<div class="stars-today">⭐ 4657 stars this week</div>
 				</div>
 			</div>
 	
@@ -270,32 +206,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 4775</span>
+						<span>⭐ 4784</span>
 						<span>🔱 482</span>
 					</div>
 				<div class="stars-today">⭐ 2765 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/shiyu-coder/Kronos" target="_blank">
-    
-
-
-      
-        shiyu-coder /
-
-      Kronos</a></p>
-				<p>
-      Kronos: A Foundation Model for the Language of Financial Markets
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 35318</span>
-						<span>🔱 5886</span>
-					</div>
-				<div class="stars-today">⭐ 1939 stars this week</div>
 				</div>
 			</div>
 	
@@ -314,10 +228,74 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 46304</span>
-						<span>🔱 4562</span>
+						<span>⭐ 46309</span>
+						<span>🔱 4563</span>
 					</div>
 				<div class="stars-today">⭐ 3125 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/pingdotgg/t3code" target="_blank">
+    
+
+
+      
+        pingdotgg /
+
+      t3code</a></p>
+				<p></p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 16155</span>
+						<span>🔱 3596</span>
+					</div>
+				<div class="stars-today">⭐ 1488 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/microsoft/AI-For-Beginners" target="_blank">
+    
+
+
+      
+        microsoft /
+
+      AI-For-Beginners</a></p>
+				<p>
+      12 Weeks, 24 Lessons, AI for All!
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Jupyter Notebook</span>
+						<span>⭐ 55877</span>
+						<span>🔱 11218</span>
+					</div>
+				<div class="stars-today">⭐ 2529 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/shiyu-coder/Kronos" target="_blank">
+    
+
+
+      
+        shiyu-coder /
+
+      Kronos</a></p>
+				<p>
+      Kronos: A Foundation Model for the Language of Financial Markets
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 35324</span>
+						<span>🔱 5887</span>
+					</div>
+				<div class="stars-today">⭐ 1939 stars this week</div>
 				</div>
 			</div>
 	
@@ -336,8 +314,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 36528</span>
-						<span>🔱 4698</span>
+						<span>⭐ 36608</span>
+						<span>🔱 4715</span>
 					</div>
 				<div class="stars-today">⭐ 7701 stars this week</div>
 				</div>
@@ -358,54 +336,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 7038</span>
-						<span>🔱 609</span>
+						<span>⭐ 7048</span>
+						<span>🔱 611</span>
 					</div>
 				<div class="stars-today">⭐ 2866 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/earthtojake/text-to-cad" target="_blank">
-    
-
-
-      
-        earthtojake /
-
-      text-to-cad</a></p>
-				<p>
-      A library of agent skills for CAD, CAE and CAM
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 JavaScript</span>
-						<span>⭐ 12316</span>
-						<span>🔱 1310</span>
-					</div>
-				<div class="stars-today">⭐ 1901 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/earendil-works/pi" target="_blank">
-    
-
-
-      
-        earendil-works /
-
-      pi</a></p>
-				<p>
-      AI agent toolkit: unified LLM API, agent loop, TUI, coding agent CLI
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 81729</span>
-						<span>🔱 10093</span>
-					</div>
-				<div class="stars-today">⭐ 4571 stars this week</div>
 				</div>
 			</div>
 	
@@ -424,10 +358,54 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 51758</span>
-						<span>🔱 5734</span>
+						<span>⭐ 51760</span>
+						<span>🔱 5735</span>
 					</div>
 				<div class="stars-today">⭐ 1222 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/earthtojake/text-to-cad" target="_blank">
+    
+
+
+      
+        earthtojake /
+
+      text-to-cad</a></p>
+				<p>
+      A library of agent skills for CAD, CAE and CAM
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 JavaScript</span>
+						<span>⭐ 12319</span>
+						<span>🔱 1311</span>
+					</div>
+				<div class="stars-today">⭐ 1901 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/different-ai/openwork" target="_blank">
+    
+
+
+      
+        different-ai /
+
+      openwork</a></p>
+				<p>
+      The open-source alternative to Claude Cowork (powered by opencode)
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 19811</span>
+						<span>🔱 2054</span>
+					</div>
+				<div class="stars-today">⭐ 2213 stars this week</div>
 				</div>
 			</div>
 	
