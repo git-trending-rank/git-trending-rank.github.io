@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2026年8月
-date: 2026-08-02T07:55:31Z
+date: 2026-08-02T11:07:31Z
 categories:
 - monthly
 keywords:
@@ -30,8 +30,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Swift</span>
-						<span>⭐ 34028</span>
-						<span>🔱 5428</span>
+						<span>⭐ 34070</span>
+						<span>🔱 5434</span>
 					</div>
 				<div class="stars-today">⭐ 7929 stars this month</div>
 				</div>
@@ -52,8 +52,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 37273</span>
-						<span>🔱 4833</span>
+						<span>⭐ 37395</span>
+						<span>🔱 4846</span>
 					</div>
 				<div class="stars-today">⭐ 27829 stars this month</div>
 				</div>
@@ -74,8 +74,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 35353</span>
-						<span>🔱 2495</span>
+						<span>⭐ 35426</span>
+						<span>🔱 2499</span>
 					</div>
 				<div class="stars-today">⭐ 25285 stars this month</div>
 				</div>
@@ -96,10 +96,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 </span>
-						<span>⭐ 23749</span>
+						<span>⭐ 23800</span>
 						<span>🔱 1287</span>
 					</div>
 				<div class="stars-today">⭐ 19576 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/tt-a1i/archify" target="_blank">
+    
+
+
+      
+        tt-a1i /
+
+      archify</a></p>
+				<p>
+      Agent skill for beautiful, verifiable architecture, workflow, sequence, data-flow, and lifecycle diagrams—self-contained HTML with motion and crisp export.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 HTML</span>
+						<span>⭐ 8404</span>
+						<span>🔱 656</span>
+					</div>
+				<div class="stars-today">⭐ 6644 stars this month</div>
 				</div>
 			</div>
 	
@@ -118,32 +140,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 CSS</span>
-						<span>⭐ 20665</span>
-						<span>🔱 1036</span>
+						<span>⭐ 20711</span>
+						<span>🔱 1037</span>
 					</div>
 				<div class="stars-today">⭐ 17116 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/Zackriya-Solutions/meetily" target="_blank">
-    
-
-
-      
-        Zackriya-Solutions /
-
-      meetily</a></p>
-				<p>
-      Privacy first, AI meeting assistant with 4x faster Parakeet/Whisper live transcription, speaker diarization, and Ollama summarization built on Rust. 100% local processing. no cloud required. Meetily (Meetly Ai - https://meetily.ai) is the #1 Self-hosted, Open-source Ai meeting note taker for macOS & Windows. Understand How to write meeting minutes
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Rust</span>
-						<span>⭐ 27894</span>
-						<span>🔱 2880</span>
-					</div>
-				<div class="stars-today">⭐ 14946 stars this month</div>
 				</div>
 			</div>
 	
@@ -162,32 +162,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 77896</span>
-						<span>🔱 11639</span>
+						<span>⭐ 77937</span>
+						<span>🔱 11650</span>
 					</div>
 				<div class="stars-today">⭐ 16936 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/openai/codex-plugin-cc" target="_blank">
-    
-
-
-      
-        openai /
-
-      codex-plugin-cc</a></p>
-				<p>
-      Use Codex from Claude Code to review code or delegate tasks.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 JavaScript</span>
-						<span>⭐ 30890</span>
-						<span>🔱 2043</span>
-					</div>
-				<div class="stars-today">⭐ 9083 stars this month</div>
 				</div>
 			</div>
 	
@@ -206,7 +184,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 13348</span>
+						<span>⭐ 13372</span>
 						<span>🔱 1304</span>
 					</div>
 				<div class="stars-today">⭐ 10493 stars this month</div>
@@ -214,24 +192,24 @@ keywords:
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/asgeirtj/system_prompts_leaks" target="_blank">
+				<p><a href="https://github.com/Zackriya-Solutions/meetily" target="_blank">
     
 
 
       
-        asgeirtj /
+        Zackriya-Solutions /
 
-      system_prompts_leaks</a></p>
+      meetily</a></p>
 				<p>
-      Extracted system prompts from Anthropic - Claude Fable 5, Opus 5, Claude Design, Claude Code. OpenAI - ChatGPT GPT-5.6-Sol, Codex. Google - Gemini 3.5 Flash, 3.1 Pro, Antigravity. xAI - Grok, Cursor, Copilot, VS Code, Perplexity, and more. Updated regularly.
+      Privacy first, AI meeting assistant with 4x faster Parakeet/Whisper live transcription, speaker diarization, and Ollama summarization built on Rust. 100% local processing. no cloud required. Meetily (Meetly Ai - https://meetily.ai) is the #1 Self-hosted, Open-source Ai meeting note taker for macOS & Windows. Understand How to write meeting minutes
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 JavaScript</span>
-						<span>⭐ 61895</span>
-						<span>🔱 10115</span>
+						<span>🔠 Rust</span>
+						<span>⭐ 27912</span>
+						<span>🔱 2881</span>
 					</div>
-				<div class="stars-today">⭐ 14616 stars this month</div>
+				<div class="stars-today">⭐ 14946 stars this month</div>
 				</div>
 			</div>
 	
@@ -250,32 +228,76 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 C#</span>
-						<span>⭐ 24147</span>
-						<span>🔱 1631</span>
+						<span>⭐ 24185</span>
+						<span>🔱 1633</span>
 					</div>
 				<div class="stars-today">⭐ 15871 stars this month</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/usestrix/strix" target="_blank">
+				<p><a href="https://github.com/asgeirtj/system_prompts_leaks" target="_blank">
     
 
 
       
-        usestrix /
+        asgeirtj /
 
-      strix</a></p>
+      system_prompts_leaks</a></p>
 				<p>
-      Open-source AI penetration testing tool to find and fix your app’s vulnerabilities.
+      Extracted system prompts from Anthropic - Claude Fable 5, Opus 5, Claude Design, Claude Code. OpenAI - ChatGPT GPT-5.6-Sol, Codex. Google - Gemini 3.5 Flash, 3.1 Pro, Antigravity. xAI - Grok, Cursor, Copilot, VS Code, Perplexity, and more. Updated regularly.
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 46508</span>
-						<span>🔱 4890</span>
+						<span>🔠 JavaScript</span>
+						<span>⭐ 61918</span>
+						<span>🔱 10118</span>
 					</div>
-				<div class="stars-today">⭐ 17847 stars this month</div>
+				<div class="stars-today">⭐ 14616 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/openai/codex-plugin-cc" target="_blank">
+    
+
+
+      
+        openai /
+
+      codex-plugin-cc</a></p>
+				<p>
+      Use Codex from Claude Code to review code or delegate tasks.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 JavaScript</span>
+						<span>⭐ 30905</span>
+						<span>🔱 2044</span>
+					</div>
+				<div class="stars-today">⭐ 9083 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/facebook/astryx" target="_blank">
+    
+
+
+      
+        facebook /
+
+      astryx</a></p>
+				<p>
+      An open source design system that's fully customizable and agent ready
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 11246</span>
+						<span>🔱 929</span>
+					</div>
+				<div class="stars-today">⭐ 8278 stars this month</div>
 				</div>
 			</div>
 	
@@ -294,8 +316,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 10304</span>
-						<span>🔱 1259</span>
+						<span>⭐ 10349</span>
+						<span>🔱 1262</span>
 					</div>
 				<div class="stars-today">⭐ 5231 stars this month</div>
 				</div>
@@ -316,120 +338,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 9052</span>
-						<span>🔱 1050</span>
+						<span>⭐ 9058</span>
+						<span>🔱 1051</span>
 					</div>
 				<div class="stars-today">⭐ 2949 stars this month</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/Shubhamsaboo/awesome-llm-apps" target="_blank">
+				<p><a href="https://github.com/usestrix/strix" target="_blank">
     
 
 
       
-        Shubhamsaboo /
+        usestrix /
 
-      awesome-llm-apps</a></p>
+      strix</a></p>
 				<p>
-      100+ AI Agents, Agent Skills and RAG Apps - Free and Open Source.
+      Open-source AI penetration testing tool to find and fix your app’s vulnerabilities.
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 129679</span>
-						<span>🔱 19132</span>
+						<span>⭐ 46534</span>
+						<span>🔱 4891</span>
 					</div>
-				<div class="stars-today">⭐ 13797 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/OpenCut-app/OpenCut" target="_blank">
-    
-
-
-      
-        OpenCut-app /
-
-      OpenCut</a></p>
-				<p>
-      The open-source CapCut alternative
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 80412</span>
-						<span>🔱 7982</span>
-					</div>
-				<div class="stars-today">⭐ 19744 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/pbakaus/impeccable" target="_blank">
-    
-
-
-      
-        pbakaus /
-
-      impeccable</a></p>
-				<p>
-      The design language that makes your AI harness better at design.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 JavaScript</span>
-						<span>⭐ 53813</span>
-						<span>🔱 3204</span>
-					</div>
-				<div class="stars-today">⭐ 11229 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/HKUDS/DeepTutor" target="_blank">
-    
-
-
-      
-        HKUDS /
-
-      DeepTutor</a></p>
-				<p>
-      DeepTutor: Lifelong Personalized Tutoring. https://deeptutor.info/.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 31847</span>
-						<span>🔱 4159</span>
-					</div>
-				<div class="stars-today">⭐ 6775 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/HKUDS/Vibe-Trading" target="_blank">
-    
-
-
-      
-        HKUDS /
-
-      Vibe-Trading</a></p>
-				<p>
-      "Vibe-Trading: Your Personal Trading Agent"
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 29232</span>
-						<span>🔱 4698</span>
-					</div>
-				<div class="stars-today">⭐ 13093 stars this month</div>
+				<div class="stars-today">⭐ 17847 stars this month</div>
 				</div>
 			</div>
 	
@@ -448,32 +382,120 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Rust</span>
-						<span>⭐ 15036</span>
-						<span>🔱 1667</span>
+						<span>⭐ 15097</span>
+						<span>🔱 1672</span>
 					</div>
 				<div class="stars-today">⭐ 6915 stars this month</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/every-app/open-seo" target="_blank">
+				<p><a href="https://github.com/Shubhamsaboo/awesome-llm-apps" target="_blank">
     
 
 
       
-        every-app /
+        Shubhamsaboo /
 
-      open-seo</a></p>
+      awesome-llm-apps</a></p>
 				<p>
-      Open source alternative to Semrush and Ahrefs
+      100+ AI Agents, Agent Skills and RAG Apps - Free and Open Source.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 129718</span>
+						<span>🔱 19137</span>
+					</div>
+				<div class="stars-today">⭐ 13797 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/pbakaus/impeccable" target="_blank">
+    
+
+
+      
+        pbakaus /
+
+      impeccable</a></p>
+				<p>
+      The design language that makes your AI harness better at design.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 JavaScript</span>
+						<span>⭐ 53878</span>
+						<span>🔱 3205</span>
+					</div>
+				<div class="stars-today">⭐ 11229 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/OpenCut-app/OpenCut" target="_blank">
+    
+
+
+      
+        OpenCut-app /
+
+      OpenCut</a></p>
+				<p>
+      The open-source CapCut alternative
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 10017</span>
-						<span>🔱 1144</span>
+						<span>⭐ 80438</span>
+						<span>🔱 7983</span>
 					</div>
-				<div class="stars-today">⭐ 6034 stars this month</div>
+				<div class="stars-today">⭐ 19744 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/HKUDS/DeepTutor" target="_blank">
+    
+
+
+      
+        HKUDS /
+
+      DeepTutor</a></p>
+				<p>
+      DeepTutor: Lifelong Personalized Tutoring. https://deeptutor.info/.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 31876</span>
+						<span>🔱 4163</span>
+					</div>
+				<div class="stars-today">⭐ 6775 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/Emily2040/seedance-2.0" target="_blank">
+    
+
+
+      
+        Emily2040 /
+
+      seedance-2.0</a></p>
+				<p>
+      Comprehensive production pipeline for quad-modal AI filmmaking with Seedance 2.0
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 5826</span>
+						<span>🔱 882</span>
+					</div>
+				<div class="stars-today">⭐ 4182 stars this month</div>
 				</div>
 			</div>
 	

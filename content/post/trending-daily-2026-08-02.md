@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2026-08-02
-date: 2026-08-02T07:55:31Z
+date: 2026-08-02T11:07:31Z
 categories:
 - daily
 keywords:
@@ -30,32 +30,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Jupyter Notebook</span>
-						<span>⭐ 57966</span>
-						<span>🔱 11446</span>
+						<span>⭐ 58359</span>
+						<span>🔱 11498</span>
 					</div>
 				<div class="stars-today">⭐ 949 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/paperswithbacktest/awesome-systematic-trading" target="_blank">
-    
-
-
-      
-        paperswithbacktest /
-
-      awesome-systematic-trading</a></p>
-				<p>
-      A curated list of awesome libraries, packages, strategies, books, blogs, tutorials for systematic trading.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 12400</span>
-						<span>🔱 1522</span>
-					</div>
-				<div class="stars-today">⭐ 523 stars today</div>
 				</div>
 			</div>
 	
@@ -74,142 +52,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 5811</span>
-						<span>🔱 494</span>
+						<span>⭐ 5874</span>
+						<span>🔱 496</span>
 					</div>
 				<div class="stars-today">⭐ 760 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/zhaoxuya520/reverse-skill" target="_blank">
+				<p><a href="https://github.com/lyogavin/airllm" target="_blank">
     
 
 
       
-        zhaoxuya520 /
+        lyogavin /
 
-      reverse-skill</a></p>
+      airllm</a></p>
 				<p>
-      Reverse Engineering / Authorized Penetration Testing / Security Research Skill Router Pack AI-powered routing + On-demand toolchain bootstrapping + Self-evolving knowledge base Supports Claude Code, Kiro, Cursor, Cline, and other AI coding clients 逆向/渗透/安全技能路由包 - AI 自动路由 + 按需自举工具链 + 自动进化经验库 | 支持 Claude Code / Kiro / Cursor / Cline 等代码 AI 客户端
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 PowerShell</span>
-						<span>⭐ 12209</span>
-						<span>🔱 1838</span>
-					</div>
-				<div class="stars-today">⭐ 1320 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/microsoft/generative-ai-for-beginners" target="_blank">
-    
-
-
-      
-        microsoft /
-
-      generative-ai-for-beginners</a></p>
-				<p>
-      21 Lessons, Get Started Building with Generative AI 
+      AirLLM 70B inference with single 4GB GPU
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Jupyter Notebook</span>
-						<span>⭐ 114380</span>
-						<span>🔱 61244</span>
+						<span>⭐ 25149</span>
+						<span>🔱 2833</span>
 					</div>
-				<div class="stars-today">⭐ 108 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/github/copilot-sdk" target="_blank">
-    
-
-
-      
-        github /
-
-      copilot-sdk</a></p>
-				<p>
-      Multi-platform SDK for integrating GitHub Copilot Agent into apps and services
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Java</span>
-						<span>⭐ 10313</span>
-						<span>🔱 1389</span>
-					</div>
-				<div class="stars-today">⭐ 142 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/github/gh-stack" target="_blank">
-    
-
-
-      
-        github /
-
-      gh-stack</a></p>
-				<p>
-      GitHub Stacked PRs
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Go</span>
-						<span>⭐ 874</span>
-						<span>🔱 38</span>
-					</div>
-				<div class="stars-today">⭐ 46 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/huggingface/speech-to-speech" target="_blank">
-    
-
-
-      
-        huggingface /
-
-      speech-to-speech</a></p>
-				<p>
-      Build local voice agents with open-source models
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 10304</span>
-						<span>🔱 1259</span>
-					</div>
-				<div class="stars-today">⭐ 442 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/abus-aikorea/voice-pro" target="_blank">
-    
-
-
-      
-        abus-aikorea /
-
-      voice-pro</a></p>
-				<p>
-      Gradio WebUI for creators and developers, featuring key TTS (Edge-TTS, kokoro) and zero-shot Voice Cloning (E2 & F5-TTS, CosyVoice), with Whisper audio processing, YouTube download, Demucs vocal isolation, and multilingual translation.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 11881</span>
-						<span>🔱 1731</span>
-					</div>
-				<div class="stars-today">⭐ 58 stars today</div>
+				<div class="stars-today">⭐ 242 stars today</div>
 				</div>
 			</div>
 	
@@ -228,54 +96,120 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Crystal</span>
-						<span>⭐ 21695</span>
-						<span>🔱 2435</span>
+						<span>⭐ 21732</span>
+						<span>🔱 2439</span>
 					</div>
 				<div class="stars-today">⭐ 435 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/ansible/ansible" target="_blank">
+				<p><a href="https://github.com/codecrafters-io/build-your-own-x" target="_blank">
     
 
 
       
-        ansible /
+        codecrafters-io /
 
-      ansible</a></p>
+      build-your-own-x</a></p>
 				<p>
-      Ansible is a radically simple IT automation platform that makes your applications and systems easier to deploy and maintain. Automate everything from code deployment to network configuration to cloud management, in a language that approaches plain English, using SSH, with no agents to install on remote systems. https://docs.ansible.com.
+      Master programming by recreating your favorite technologies from scratch.
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 70154</span>
-						<span>🔱 24271</span>
+						<span>🔠 Markdown</span>
+						<span>⭐ 534370</span>
+						<span>🔱 50515</span>
 					</div>
-				<div class="stars-today">⭐ 30 stars today</div>
+				<div class="stars-today">⭐ 710 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/microsoft/TRELLIS.2" target="_blank">
+				<p><a href="https://github.com/zhaoxuya520/reverse-skill" target="_blank">
+    
+
+
+      
+        zhaoxuya520 /
+
+      reverse-skill</a></p>
+				<p>
+      Reverse Engineering / Authorized Penetration Testing / Security Research Skill Router Pack AI-powered routing + On-demand toolchain bootstrapping + Self-evolving knowledge base Supports Claude Code, Kiro, Cursor, Cline, and other AI coding clients 逆向/渗透/安全技能路由包 - AI 自动路由 + 按需自举工具链 + 自动进化经验库 | 支持 Claude Code / Kiro / Cursor / Cline 等代码 AI 客户端
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 PowerShell</span>
+						<span>⭐ 12407</span>
+						<span>🔱 1859</span>
+					</div>
+				<div class="stars-today">⭐ 1320 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/different-ai/openwork" target="_blank">
+    
+
+
+      
+        different-ai /
+
+      openwork</a></p>
+				<p>
+      The open-source alternative to Claude Cowork (powered by opencode)
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 20061</span>
+						<span>🔱 2073</span>
+					</div>
+				<div class="stars-today">⭐ 585 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/microsoft/generative-ai-for-beginners" target="_blank">
     
 
 
       
         microsoft /
 
-      TRELLIS.2</a></p>
+      generative-ai-for-beginners</a></p>
 				<p>
-      Native and Compact Structured Latents for 3D Generation
+      21 Lessons, Get Started Building with Generative AI 
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Jupyter Notebook</span>
+						<span>⭐ 114460</span>
+						<span>🔱 61252</span>
+					</div>
+				<div class="stars-today">⭐ 108 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/Panniantong/Agent-Reach" target="_blank">
+    
+
+
+      
+        Panniantong /
+
+      Agent-Reach</a></p>
+				<p>
+      Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 10012</span>
-						<span>🔱 1203</span>
+						<span>⭐ 64257</span>
+						<span>🔱 5317</span>
 					</div>
-				<div class="stars-today">⭐ 107 stars today</div>
+				<div class="stars-today">⭐ 645 stars today</div>
 				</div>
 			</div>
 	
@@ -294,10 +228,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 10456</span>
-						<span>🔱 996</span>
+						<span>⭐ 10564</span>
+						<span>🔱 1004</span>
 					</div>
 				<div class="stars-today">⭐ 227 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/mvanhorn/last30days-skill" target="_blank">
+    
+
+
+      
+        mvanhorn /
+
+      last30days-skill</a></p>
+				<p>
+      AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 56686</span>
+						<span>🔱 4951</span>
+					</div>
+				<div class="stars-today">⭐ 600 stars today</div>
 				</div>
 			</div>
 	
@@ -316,32 +272,74 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 JavaScript</span>
-						<span>⭐ 6793</span>
-						<span>🔱 800</span>
+						<span>⭐ 6817</span>
+						<span>🔱 802</span>
 					</div>
 				<div class="stars-today">⭐ 53 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/bytedance/deer-flow" target="_blank">
+				<p><a href="https://github.com/HarbourMasters/Lighthouse" target="_blank">
     
 
 
       
-        bytedance /
+        HarbourMasters /
 
-      deer-flow</a></p>
+      Lighthouse</a></p>
+				<p></p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 C</span>
+						<span>⭐ 163</span>
+						<span>🔱 13</span>
+					</div>
+				<div class="stars-today">⭐ 62 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/antirez/ds4" target="_blank">
+    
+
+
+      
+        antirez /
+
+      ds4</a></p>
 				<p>
-      An open-source long-horizon SuperAgent harness that researches, codes, and creates. With the help of sandboxes, memories, tools, skill, subagents and message gateway, it handles different levels of tasks that could take minutes to hours.
+      DeepSeek 4 Flash and PRO local inference engine for Metal, CUDA and ROCm
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 78846</span>
-						<span>🔱 10757</span>
+						<span>🔠 C</span>
+						<span>⭐ 19816</span>
+						<span>🔱 1759</span>
 					</div>
-				<div class="stars-today">⭐ 209 stars today</div>
+				<div class="stars-today">⭐ 150 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/esengine/DeepSeek-Reasonix" target="_blank">
+    
+
+
+      
+        esengine /
+
+      DeepSeek-Reasonix</a></p>
+				<p>
+      DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability — leave it running.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Go</span>
+						<span>⭐ 28697</span>
+						<span>🔱 1849</span>
+					</div>
+				<div class="stars-today">⭐ 274 stars today</div>
 				</div>
 			</div>
 	
