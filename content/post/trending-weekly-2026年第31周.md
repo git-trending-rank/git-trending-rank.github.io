@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2026年第31周
-date: 2026-08-02T16:40:40Z
+date: 2026-08-02T18:45:00Z
 categories:
 - weekly
 keywords:
@@ -30,8 +30,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Rust</span>
-						<span>⭐ 20900</span>
-						<span>🔱 2225</span>
+						<span>⭐ 20961</span>
+						<span>🔱 2235</span>
 					</div>
 				<div class="stars-today">⭐ 9003 stars this week</div>
 				</div>
@@ -52,8 +52,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 15229</span>
-						<span>🔱 1643</span>
+						<span>⭐ 15269</span>
+						<span>🔱 1644</span>
 					</div>
 				<div class="stars-today">⭐ 5105 stars this week</div>
 				</div>
@@ -74,8 +74,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 15557</span>
-						<span>🔱 864</span>
+						<span>⭐ 15592</span>
+						<span>🔱 867</span>
 					</div>
 				<div class="stars-today">⭐ 5232 stars this week</div>
 				</div>
@@ -96,10 +96,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Jupyter Notebook</span>
-						<span>⭐ 58733</span>
-						<span>🔱 11571</span>
+						<span>⭐ 58827</span>
+						<span>🔱 11585</span>
 					</div>
 				<div class="stars-today">⭐ 3246 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/bojieli/ai-agent-book" target="_blank">
+    
+
+
+      
+        bojieli /
+
+      ai-agent-book</a></p>
+				<p>
+      《深入理解 AI Agent：设计原理与工程实践》（李博杰 著）开源主仓库：全书正文、编译版 PDF 与按章配套代码
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 29844</span>
+						<span>🔱 3180</span>
+					</div>
+				<div class="stars-today">⭐ 9298 stars this week</div>
 				</div>
 			</div>
 	
@@ -118,8 +140,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Rust</span>
-						<span>⭐ 15182</span>
-						<span>🔱 1683</span>
+						<span>⭐ 15213</span>
+						<span>🔱 1684</span>
 					</div>
 				<div class="stars-today">⭐ 3548 stars this week</div>
 				</div>
@@ -140,7 +162,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 20705</span>
+						<span>⭐ 20715</span>
 						<span>🔱 2661</span>
 					</div>
 				<div class="stars-today">⭐ 3028 stars this week</div>
@@ -162,7 +184,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Go</span>
-						<span>⭐ 17803</span>
+						<span>⭐ 17827</span>
 						<span>🔱 1207</span>
 					</div>
 				<div class="stars-today">⭐ 4708 stars this week</div>
@@ -184,8 +206,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Swift</span>
-						<span>⭐ 34120</span>
-						<span>🔱 5443</span>
+						<span>⭐ 34135</span>
+						<span>🔱 5449</span>
 					</div>
 				<div class="stars-today">⭐ 5737 stars this week</div>
 				</div>
@@ -206,8 +228,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 46519</span>
-						<span>🔱 4585</span>
+						<span>⭐ 46531</span>
+						<span>🔱 4586</span>
 					</div>
 				<div class="stars-today">⭐ 3335 stars this week</div>
 				</div>
@@ -228,8 +250,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 15888</span>
-						<span>🔱 1682</span>
+						<span>⭐ 15891</span>
+						<span>🔱 1683</span>
 					</div>
 				<div class="stars-today">⭐ 584 stars this week</div>
 				</div>
@@ -250,8 +272,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 4941</span>
-						<span>🔱 492</span>
+						<span>⭐ 4953</span>
+						<span>🔱 496</span>
 					</div>
 				<div class="stars-today">⭐ 2951 stars this week</div>
 				</div>
@@ -272,8 +294,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 JavaScript</span>
-						<span>⭐ 7601</span>
-						<span>🔱 378</span>
+						<span>⭐ 7620</span>
+						<span>🔱 379</span>
 					</div>
 				<div class="stars-today">⭐ 4090 stars this week</div>
 				</div>
@@ -292,7 +314,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 16312</span>
+						<span>⭐ 16322</span>
 						<span>🔱 3636</span>
 					</div>
 				<div class="stars-today">⭐ 1439 stars this week</div>
@@ -314,8 +336,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 37615</span>
-						<span>🔱 4885</span>
+						<span>⭐ 37704</span>
+						<span>🔱 4899</span>
 					</div>
 				<div class="stars-today">⭐ 7259 stars this week</div>
 				</div>
@@ -336,7 +358,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 JavaScript</span>
-						<span>⭐ 12478</span>
+						<span>⭐ 12487</span>
 						<span>🔱 1325</span>
 					</div>
 				<div class="stars-today">⭐ 2009 stars this week</div>
@@ -358,8 +380,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 10118</span>
-						<span>🔱 1213</span>
+						<span>⭐ 10129</span>
+						<span>🔱 1215</span>
 					</div>
 				<div class="stars-today">⭐ 898 stars this week</div>
 				</div>
@@ -380,8 +402,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 20171</span>
-						<span>🔱 2080</span>
+						<span>⭐ 20211</span>
+						<span>🔱 2084</span>
 					</div>
 				<div class="stars-today">⭐ 2720 stars this week</div>
 				</div>
@@ -402,8 +424,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Kotlin</span>
-						<span>⭐ 7246</span>
-						<span>🔱 1786</span>
+						<span>⭐ 7249</span>
+						<span>🔱 1787</span>
 					</div>
 				<div class="stars-today">⭐ 1049 stars this week</div>
 				</div>
