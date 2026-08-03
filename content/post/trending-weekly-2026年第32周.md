@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2026年第32周
-date: 2026-08-03T08:51:59Z
+date: 2026-08-03T12:45:46Z
 categories:
 - weekly
 keywords:
@@ -30,54 +30,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Rust</span>
-						<span>⭐ 21399</span>
-						<span>🔱 2302</span>
+						<span>⭐ 21521</span>
+						<span>🔱 2319</span>
 					</div>
 				<div class="stars-today">⭐ 8217 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/virgiliojr94/book-to-skill" target="_blank">
-    
-
-
-      
-        virgiliojr94 /
-
-      book-to-skill</a></p>
-				<p>
-      Turn any technical book PDF into a Claude Code skill — ready to study, reference, and use while you work.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 15622</span>
-						<span>🔱 1680</span>
-					</div>
-				<div class="stars-today">⭐ 5223 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/ayghri/i-have-adhd" target="_blank">
-    
-
-
-      
-        ayghri /
-
-      i-have-adhd</a></p>
-				<p>
-      A skill to stop your coding agent from burying the answer. ADHD-friendly output.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 15928</span>
-						<span>🔱 888</span>
-					</div>
-				<div class="stars-today">⭐ 5225 stars this week</div>
 				</div>
 			</div>
 	
@@ -96,10 +52,76 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Jupyter Notebook</span>
-						<span>⭐ 60016</span>
-						<span>🔱 11755</span>
+						<span>⭐ 60313</span>
+						<span>🔱 11807</span>
 					</div>
 				<div class="stars-today">⭐ 5601 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/virgiliojr94/book-to-skill" target="_blank">
+    
+
+
+      
+        virgiliojr94 /
+
+      book-to-skill</a></p>
+				<p>
+      Turn any technical book PDF into a Claude Code skill — ready to study, reference, and use while you work.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 15718</span>
+						<span>🔱 1687</span>
+					</div>
+				<div class="stars-today">⭐ 5223 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/zhaoxuya520/reverse-skill" target="_blank">
+    
+
+
+      
+        zhaoxuya520 /
+
+      reverse-skill</a></p>
+				<p>
+      Reverse Engineering / Authorized Penetration Testing / Security Research Skill Router Pack AI-powered routing + On-demand toolchain bootstrapping + Self-evolving knowledge base Supports Claude Code, Kiro, Cursor, Cline, and other AI coding clients 逆向/渗透/安全技能路由包 - AI 自动路由 + 按需自举工具链 + 自动进化经验库 | 支持 Claude Code / Kiro / Cursor / Cline 等代码 AI 客户端
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 PowerShell</span>
+						<span>⭐ 14939</span>
+						<span>🔱 2203</span>
+					</div>
+				<div class="stars-today">⭐ 4415 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/ayghri/i-have-adhd" target="_blank">
+    
+
+
+      
+        ayghri /
+
+      i-have-adhd</a></p>
+				<p>
+      A skill to stop your coding agent from burying the answer. ADHD-friendly output.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 16036</span>
+						<span>🔱 895</span>
+					</div>
+				<div class="stars-today">⭐ 5225 stars this week</div>
 				</div>
 			</div>
 	
@@ -118,76 +140,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Rust</span>
-						<span>⭐ 15371</span>
-						<span>🔱 1700</span>
+						<span>⭐ 15429</span>
+						<span>🔱 1706</span>
 					</div>
 				<div class="stars-today">⭐ 3620 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/pascalorg/editor" target="_blank">
-    
-
-
-      
-        pascalorg /
-
-      editor</a></p>
-				<p>
-      Create and share 3D architectural projects.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 20825</span>
-						<span>🔱 2670</span>
-					</div>
-				<div class="stars-today">⭐ 3163 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/alibaba/open-code-review" target="_blank">
-    
-
-
-      
-        alibaba /
-
-      open-code-review</a></p>
-				<p>
-      Fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Go</span>
-						<span>⭐ 18165</span>
-						<span>🔱 1221</span>
-					</div>
-				<div class="stars-today">⭐ 4365 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/permissionlesstech/bitchat" target="_blank">
-    
-
-
-      
-        permissionlesstech /
-
-      bitchat</a></p>
-				<p>
-      bluetooth mesh chat, IRC vibes
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Swift</span>
-						<span>⭐ 34237</span>
-						<span>🔱 5465</span>
-					</div>
-				<div class="stars-today">⭐ 4942 stars this week</div>
 				</div>
 			</div>
 	
@@ -206,32 +162,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 46627</span>
-						<span>🔱 4599</span>
+						<span>⭐ 46662</span>
+						<span>🔱 4601</span>
 					</div>
 				<div class="stars-today">⭐ 3431 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/andrewyng/aisuite" target="_blank">
-    
-
-
-      
-        andrewyng /
-
-      aisuite</a></p>
-				<p>
-      Simple, unified interface to multiple Generative AI providers 
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 15928</span>
-						<span>🔱 1684</span>
-					</div>
-				<div class="stars-today">⭐ 576 stars this week</div>
 				</div>
 			</div>
 	
@@ -250,118 +184,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 5055</span>
-						<span>🔱 506</span>
+						<span>⭐ 5083</span>
+						<span>🔱 507</span>
 					</div>
 				<div class="stars-today">⭐ 2933 stars this week</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/citrolabs/ego-lite" target="_blank">
+				<p><a href="https://github.com/pascalorg/editor" target="_blank">
     
 
 
       
-        citrolabs /
+        pascalorg /
 
-      ego-lite</a></p>
+      editor</a></p>
 				<p>
-      The fastest browser for AI agents to run browser automation, built for sharing your logged-in browser state with your AI agents, like Codex or Claude Code, without disturbing you. Zero cost, zero config.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 JavaScript</span>
-						<span>⭐ 7829</span>
-						<span>🔱 389</span>
-					</div>
-				<div class="stars-today">⭐ 3582 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/pingdotgg/t3code" target="_blank">
-    
-
-
-      
-        pingdotgg /
-
-      t3code</a></p>
-				<p></p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 16381</span>
-						<span>🔱 3654</span>
-					</div>
-				<div class="stars-today">⭐ 1431 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/diegosouzapw/OmniRoute" target="_blank">
-    
-
-
-      
-        diegosouzapw /
-
-      OmniRoute</a></p>
-				<p>
-      Never stop coding. Free MIT AI gateway: one endpoint, 290+ providers (90+ free), 500+ models — Kimi, Claude, GPT, OpenAI, Gemini, GLM, DeepSeek, MiniMax. Works with Claude Code, Codex, Cursor, OpenCode, Cline & Copilot. Quota-aware auto-fallback, RTK+Caveman compression saves 15-95% tokens, MCP/A2A, Desktop/PWA. Built by 500+ contributors
+      Create and share 3D architectural projects.
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 38210</span>
-						<span>🔱 5024</span>
+						<span>⭐ 20862</span>
+						<span>🔱 2672</span>
 					</div>
-				<div class="stars-today">⭐ 7141 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/earthtojake/text-to-cad" target="_blank">
-    
-
-
-      
-        earthtojake /
-
-      text-to-cad</a></p>
-				<p>
-      A library of agent skills for CAD, CAE and CAM
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 JavaScript</span>
-						<span>⭐ 12581</span>
-						<span>🔱 1329</span>
-					</div>
-				<div class="stars-today">⭐ 2063 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/microsoft/TRELLIS.2" target="_blank">
-    
-
-
-      
-        microsoft /
-
-      TRELLIS.2</a></p>
-				<p>
-      Native and Compact Structured Latents for 3D Generation
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 10225</span>
-						<span>🔱 1229</span>
-					</div>
-				<div class="stars-today">⭐ 1106 stars this week</div>
+				<div class="stars-today">⭐ 3163 stars this week</div>
 				</div>
 			</div>
 	
@@ -380,32 +228,162 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 20567</span>
-						<span>🔱 2103</span>
+						<span>⭐ 20646</span>
+						<span>🔱 2106</span>
 					</div>
 				<div class="stars-today">⭐ 2925 stars this week</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/permissionlesstech/bitchat-android" target="_blank">
+				<p><a href="https://github.com/andrewyng/aisuite" target="_blank">
     
 
 
       
-        permissionlesstech /
+        andrewyng /
 
-      bitchat-android</a></p>
+      aisuite</a></p>
 				<p>
-      decentralized mesh chat
+      Simple, unified interface to multiple Generative AI providers 
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Kotlin</span>
-						<span>⭐ 7277</span>
-						<span>🔱 1791</span>
+						<span>🔠 Python</span>
+						<span>⭐ 15939</span>
+						<span>🔱 1684</span>
 					</div>
-				<div class="stars-today">⭐ 928 stars this week</div>
+				<div class="stars-today">⭐ 576 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/alibaba/open-code-review" target="_blank">
+    
+
+
+      
+        alibaba /
+
+      open-code-review</a></p>
+				<p>
+      Fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Go</span>
+						<span>⭐ 18251</span>
+						<span>🔱 1228</span>
+					</div>
+				<div class="stars-today">⭐ 4365 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/citrolabs/ego-lite" target="_blank">
+    
+
+
+      
+        citrolabs /
+
+      ego-lite</a></p>
+				<p>
+      The fastest browser for AI agents to run browser automation, built for sharing your logged-in browser state with your AI agents, like Codex or Claude Code, without disturbing you. Zero cost, zero config.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 JavaScript</span>
+						<span>⭐ 7893</span>
+						<span>🔱 392</span>
+					</div>
+				<div class="stars-today">⭐ 3582 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/pingdotgg/t3code" target="_blank">
+    
+
+
+      
+        pingdotgg /
+
+      t3code</a></p>
+				<p></p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 16421</span>
+						<span>🔱 3669</span>
+					</div>
+				<div class="stars-today">⭐ 1431 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/microsoft/TRELLIS.2" target="_blank">
+    
+
+
+      
+        microsoft /
+
+      TRELLIS.2</a></p>
+				<p>
+      Native and Compact Structured Latents for 3D Generation
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 10259</span>
+						<span>🔱 1232</span>
+					</div>
+				<div class="stars-today">⭐ 1106 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/earthtojake/text-to-cad" target="_blank">
+    
+
+
+      
+        earthtojake /
+
+      text-to-cad</a></p>
+				<p>
+      A library of agent skills for CAD, CAE and CAM
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 JavaScript</span>
+						<span>⭐ 12613</span>
+						<span>🔱 1331</span>
+					</div>
+				<div class="stars-today">⭐ 2063 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/lyogavin/airllm" target="_blank">
+    
+
+
+      
+        lyogavin /
+
+      airllm</a></p>
+				<p>
+      AirLLM 70B inference with single 4GB GPU
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Jupyter Notebook</span>
+						<span>⭐ 26297</span>
+						<span>🔱 2926</span>
+					</div>
+				<div class="stars-today">⭐ 1588 stars this week</div>
 				</div>
 			</div>
 	
