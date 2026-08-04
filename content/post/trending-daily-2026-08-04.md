@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2026-08-04
-date: 2026-08-04T08:10:03Z
+date: 2026-08-04T11:51:13Z
 categories:
 - daily
 keywords:
@@ -16,24 +16,24 @@ keywords:
 
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/lyogavin/airllm" target="_blank">
+				<p><a href="https://github.com/TencentCloud/TencentDB-Agent-Memory" target="_blank">
     
 
 
       
-        lyogavin /
+        TencentCloud /
 
-      airllm</a></p>
+      TencentDB-Agent-Memory</a></p>
 				<p>
-      AirLLM 70B inference with single 4GB GPU
+      TencentDB Agent Memory is a team-level memory hub for AI Agents — turning conversations, docs, and code into four reusable memory assets (Chat Memory, Skill, LLM-Wiki, Code-Graph) that are governed, shared, and equipped across agents and frameworks.
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Jupyter Notebook</span>
-						<span>⭐ 27676</span>
-						<span>🔱 3006</span>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 12739</span>
+						<span>🔱 1210</span>
 					</div>
-				<div class="stars-today">⭐ 1085 stars today</div>
+				<div class="stars-today">⭐ 1090 stars today</div>
 				</div>
 			</div>
 	
@@ -52,8 +52,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 PowerShell</span>
-						<span>⭐ 16625</span>
-						<span>🔱 2326</span>
+						<span>⭐ 17070</span>
+						<span>🔱 2370</span>
 					</div>
 				<div class="stars-today">⭐ 2446 stars today</div>
 				</div>
@@ -74,76 +74,54 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Rust</span>
-						<span>⭐ 8946</span>
-						<span>🔱 586</span>
+						<span>⭐ 9231</span>
+						<span>🔱 614</span>
 					</div>
 				<div class="stars-today">⭐ 1699 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/esengine/DeepSeek-Reasonix" target="_blank">
+				<p><a href="https://github.com/uber/ADR" target="_blank">
     
 
 
       
-        esengine /
+        uber /
 
-      DeepSeek-Reasonix</a></p>
+      ADR</a></p>
 				<p>
-      DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability — leave it running.
+      ADR secures enterprise AI agents through observability, security benchmarking, and threat detection. Deployed at Uber.
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Go</span>
-						<span>⭐ 30309</span>
-						<span>🔱 1954</span>
+						<span>🔠 Python</span>
+						<span>⭐ 510</span>
+						<span>🔱 60</span>
 					</div>
-				<div class="stars-today">⭐ 883 stars today</div>
+				<div class="stars-today">⭐ 140 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/TencentCloud/TencentDB-Agent-Memory" target="_blank">
+				<p><a href="https://github.com/obra/superpowers" target="_blank">
     
 
 
       
-        TencentCloud /
+        obra /
 
-      TencentDB-Agent-Memory</a></p>
+      superpowers</a></p>
 				<p>
-      TencentDB Agent Memory is a team-level memory hub for AI Agents — turning conversations, docs, and code into four reusable memory assets (Chat Memory, Skill, LLM-Wiki, Code-Graph) that are governed, shared, and equipped across agents and frameworks.
+      An agentic skills framework & software development methodology that works.
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 12522</span>
-						<span>🔱 1184</span>
+						<span>🔠 Shell</span>
+						<span>⭐ 266053</span>
+						<span>🔱 23786</span>
 					</div>
-				<div class="stars-today">⭐ 1090 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/microsoft/AI-For-Beginners" target="_blank">
-    
-
-
-      
-        microsoft /
-
-      AI-For-Beginners</a></p>
-				<p>
-      12 Weeks, 24 Lessons, AI for All!
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Jupyter Notebook</span>
-						<span>⭐ 61251</span>
-						<span>🔱 11902</span>
-					</div>
-				<div class="stars-today">⭐ 1902 stars today</div>
+				<div class="stars-today">⭐ 617 stars today</div>
 				</div>
 			</div>
 	
@@ -162,164 +140,120 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Jupyter Notebook</span>
-						<span>⭐ 115884</span>
-						<span>🔱 61483</span>
+						<span>⭐ 115988</span>
+						<span>🔱 61510</span>
 					</div>
 				<div class="stars-today">⭐ 775 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/donnemartin/system-design-primer" target="_blank">
+				<p><a href="https://github.com/cypress-io/cypress" target="_blank">
     
 
 
       
-        donnemartin /
+        cypress-io /
 
-      system-design-primer</a></p>
+      cypress</a></p>
 				<p>
-      Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.
+      Fast, easy and reliable testing for anything that runs in a browser.
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 360774</span>
-						<span>🔱 57542</span>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 50663</span>
+						<span>🔱 3621</span>
 					</div>
-				<div class="stars-today">⭐ 237 stars today</div>
+				<div class="stars-today">⭐ 6 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/antirez/ds4" target="_blank">
+				<p><a href="https://github.com/lyogavin/airllm" target="_blank">
     
 
 
       
-        antirez /
+        lyogavin /
 
-      ds4</a></p>
+      airllm</a></p>
 				<p>
-      DeepSeek 4 Flash and PRO local inference engine for Metal, CUDA and ROCm
+      AirLLM 70B inference with single 4GB GPU
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 C</span>
-						<span>⭐ 20464</span>
-						<span>🔱 1809</span>
+						<span>🔠 Jupyter Notebook</span>
+						<span>⭐ 27938</span>
+						<span>🔱 3026</span>
 					</div>
-				<div class="stars-today">⭐ 384 stars today</div>
+				<div class="stars-today">⭐ 1085 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/shiyu-coder/Kronos" target="_blank">
+				<p><a href="https://github.com/webpack/webpack" target="_blank">
     
 
 
       
-        shiyu-coder /
+        webpack /
 
-      Kronos</a></p>
+      webpack</a></p>
 				<p>
-      Kronos: A Foundation Model for the Language of Financial Markets
+      A bundler for javascript and friends. Packs many modules into a few bundled assets. Code Splitting allows for loading parts of the application on demand. Through "loaders", modules can be CommonJs, AMD, ES6 modules, CSS, Images, JSON, Coffeescript, LESS, ... and your custom stuff.
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 35910</span>
-						<span>🔱 5975</span>
+						<span>🔠 JavaScript</span>
+						<span>⭐ 65884</span>
+						<span>🔱 9520</span>
 					</div>
-				<div class="stars-today">⭐ 200 stars today</div>
+				<div class="stars-today">⭐ 8 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/Panniantong/Agent-Reach" target="_blank">
+				<p><a href="https://github.com/gabime/spdlog" target="_blank">
     
 
 
       
-        Panniantong /
+        gabime /
 
-      Agent-Reach</a></p>
+      spdlog</a></p>
 				<p>
-      Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.
+      Fast C++ logging library.
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 66083</span>
-						<span>🔱 5478</span>
+						<span>🔠 C++</span>
+						<span>⭐ 29342</span>
+						<span>🔱 5365</span>
 					</div>
-				<div class="stars-today">⭐ 1057 stars today</div>
+				<div class="stars-today">⭐ 9 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/Alishahryar1/free-claude-code" target="_blank">
+				<p><a href="https://github.com/denoland/deno" target="_blank">
     
 
 
       
-        Alishahryar1 /
+        denoland /
 
-      free-claude-code</a></p>
+      deno</a></p>
 				<p>
-      Use Claude Code, Codex and Pi for free from your terminal, app, IDE, or phone like OpenClaw (voice supported)
+      A modern runtime for JavaScript and TypeScript.
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 44190</span>
-						<span>🔱 7279</span>
+						<span>🔠 Rust</span>
+						<span>⭐ 107986</span>
+						<span>🔱 6297</span>
 					</div>
-				<div class="stars-today">⭐ 278 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/iv-org/invidious" target="_blank">
-    
-
-
-      
-        iv-org /
-
-      invidious</a></p>
-				<p>
-      Invidious is an alternative front-end to YouTube
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Crystal</span>
-						<span>⭐ 22330</span>
-						<span>🔱 2486</span>
-					</div>
-				<div class="stars-today">⭐ 402 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/livekit/agents" target="_blank">
-    
-
-
-      
-        livekit /
-
-      agents</a></p>
-				<p>
-      A framework for building realtime voice AI agents 🤖🎙️📹 
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 12169</span>
-						<span>🔱 3461</span>
-					</div>
-				<div class="stars-today">⭐ 148 stars today</div>
+				<div class="stars-today">⭐ 27 stars today</div>
 				</div>
 			</div>
 	
@@ -338,32 +272,142 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 7035</span>
-						<span>🔱 566</span>
+						<span>⭐ 7093</span>
+						<span>🔱 571</span>
 					</div>
 				<div class="stars-today">⭐ 665 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/jamiepine/voicebox" target="_blank">
+				<p><a href="https://github.com/livekit/agents" target="_blank">
     
 
 
       
-        jamiepine /
+        livekit /
 
-      voicebox</a></p>
+      agents</a></p>
 				<p>
-      The open-source AI voice studio. Clone, dictate, create.
+      A framework for building realtime voice AI agents 🤖🎙️📹 
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 12218</span>
+						<span>🔱 3463</span>
+					</div>
+				<div class="stars-today">⭐ 148 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/angular/angular" target="_blank">
+    
+
+
+      
+        angular /
+
+      angular</a></p>
+				<p>
+      Deliver web apps with confidence 🚀
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 48919</span>
-						<span>🔱 6006</span>
+						<span>⭐ 100701</span>
+						<span>🔱 27382</span>
 					</div>
-				<div class="stars-today">⭐ 412 stars today</div>
+				<div class="stars-today">⭐ 8 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/tailwindlabs/tailwindcss" target="_blank">
+    
+
+
+      
+        tailwindlabs /
+
+      tailwindcss</a></p>
+				<p>
+      A utility-first CSS framework for rapid UI development.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 96250</span>
+						<span>🔱 5522</span>
+					</div>
+				<div class="stars-today">⭐ 30 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/browser-use/video-use" target="_blank">
+    
+
+
+      
+        browser-use /
+
+      video-use</a></p>
+				<p>
+      Edit videos with coding agents
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 18955</span>
+						<span>🔱 2379</span>
+					</div>
+				<div class="stars-today">⭐ 306 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/esengine/DeepSeek-Reasonix" target="_blank">
+    
+
+
+      
+        esengine /
+
+      DeepSeek-Reasonix</a></p>
+				<p>
+      DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability — leave it running.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Go</span>
+						<span>⭐ 30465</span>
+						<span>🔱 1964</span>
+					</div>
+				<div class="stars-today">⭐ 883 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/EveryInc/compound-engineering-plugin" target="_blank">
+    
+
+
+      
+        EveryInc /
+
+      compound-engineering-plugin</a></p>
+				<p>
+      Official Compound Engineering plugin for Claude Code, Codex, Cursor, and more
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 23759</span>
+						<span>🔱 1944</span>
+					</div>
+				<div class="stars-today">⭐ 33 stars today</div>
 				</div>
 			</div>
 	

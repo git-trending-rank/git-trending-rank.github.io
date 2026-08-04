@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2026年8月
-date: 2026-08-04T08:10:04Z
+date: 2026-08-04T11:51:13Z
 categories:
 - monthly
 keywords:
@@ -30,8 +30,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Swift</span>
-						<span>⭐ 34363</span>
-						<span>🔱 5486</span>
+						<span>⭐ 34378</span>
+						<span>🔱 5487</span>
 					</div>
 				<div class="stars-today">⭐ 8367 stars this month</div>
 				</div>
@@ -52,8 +52,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 39065</span>
-						<span>🔱 5151</span>
+						<span>⭐ 39203</span>
+						<span>🔱 5170</span>
 					</div>
 				<div class="stars-today">⭐ 28232 stars this month</div>
 				</div>
@@ -74,8 +74,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 36945</span>
-						<span>🔱 2618</span>
+						<span>⭐ 37071</span>
+						<span>🔱 2625</span>
 					</div>
 				<div class="stars-today">⭐ 25250 stars this month</div>
 				</div>
@@ -96,8 +96,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 </span>
-						<span>⭐ 24578</span>
-						<span>🔱 1324</span>
+						<span>⭐ 24668</span>
+						<span>🔱 1328</span>
 					</div>
 				<div class="stars-today">⭐ 19789 stars this month</div>
 				</div>
@@ -118,32 +118,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 HTML</span>
-						<span>⭐ 8953</span>
-						<span>🔱 722</span>
+						<span>⭐ 9017</span>
+						<span>🔱 723</span>
 					</div>
 				<div class="stars-today">⭐ 6501 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/koala73/worldmonitor" target="_blank">
-    
-
-
-      
-        koala73 /
-
-      worldmonitor</a></p>
-				<p>
-      Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 78614</span>
-						<span>🔱 11739</span>
-					</div>
-				<div class="stars-today">⭐ 17517 stars this month</div>
 				</div>
 			</div>
 	
@@ -162,10 +140,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 CSS</span>
-						<span>⭐ 21372</span>
-						<span>🔱 1081</span>
+						<span>⭐ 21483</span>
+						<span>🔱 1087</span>
 					</div>
 				<div class="stars-today">⭐ 17706 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/koala73/worldmonitor" target="_blank">
+    
+
+
+      
+        koala73 /
+
+      worldmonitor</a></p>
+				<p>
+      Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 78675</span>
+						<span>🔱 11752</span>
+					</div>
+				<div class="stars-today">⭐ 17517 stars this month</div>
 				</div>
 			</div>
 	
@@ -184,54 +184,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 C#</span>
-						<span>⭐ 25110</span>
-						<span>🔱 1691</span>
+						<span>⭐ 25209</span>
+						<span>🔱 1696</span>
 					</div>
 				<div class="stars-today">⭐ 16458 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/bradautomates/claude-video" target="_blank">
-    
-
-
-      
-        bradautomates /
-
-      claude-video</a></p>
-				<p>
-      Give Claude the ability to watch any video. /watch downloads, extracts frames, transcribes, hands it all to Claude.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 13739</span>
-						<span>🔱 1333</span>
-					</div>
-				<div class="stars-today">⭐ 10750 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/Zackriya-Solutions/meetily" target="_blank">
-    
-
-
-      
-        Zackriya-Solutions /
-
-      meetily</a></p>
-				<p>
-      Privacy first, AI meeting assistant with 4x faster Parakeet/Whisper live transcription, speaker diarization, and Ollama summarization built on Rust. 100% local processing. no cloud required. Meetily (Meetly Ai - https://meetily.ai) is the #1 Self-hosted, Open-source Ai meeting note taker for macOS & Windows. Understand How to write meeting minutes
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Rust</span>
-						<span>⭐ 28201</span>
-						<span>🔱 2948</span>
-					</div>
-				<div class="stars-today">⭐ 14535 stars this month</div>
 				</div>
 			</div>
 	
@@ -250,10 +206,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 10805</span>
-						<span>🔱 1325</span>
+						<span>⭐ 10846</span>
+						<span>🔱 1329</span>
 					</div>
 				<div class="stars-today">⭐ 5579 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/bradautomates/claude-video" target="_blank">
+    
+
+
+      
+        bradautomates /
+
+      claude-video</a></p>
+				<p>
+      Give Claude the ability to watch any video. /watch downloads, extracts frames, transcribes, hands it all to Claude.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 13779</span>
+						<span>🔱 1335</span>
+					</div>
+				<div class="stars-today">⭐ 10750 stars this month</div>
 				</div>
 			</div>
 	
@@ -272,76 +250,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 9141</span>
+						<span>⭐ 9146</span>
 						<span>🔱 1092</span>
 					</div>
 				<div class="stars-today">⭐ 3006 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/facebook/astryx" target="_blank">
-    
-
-
-      
-        facebook /
-
-      astryx</a></p>
-				<p>
-      An open source design system that's fully customizable and agent ready
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 11499</span>
-						<span>🔱 978</span>
-					</div>
-				<div class="stars-today">⭐ 7387 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/openai/codex-plugin-cc" target="_blank">
-    
-
-
-      
-        openai /
-
-      codex-plugin-cc</a></p>
-				<p>
-      Use Codex from Claude Code to review code or delegate tasks.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 JavaScript</span>
-						<span>⭐ 31199</span>
-						<span>🔱 2099</span>
-					</div>
-				<div class="stars-today">⭐ 8384 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/asgeirtj/system_prompts_leaks" target="_blank">
-    
-
-
-      
-        asgeirtj /
-
-      system_prompts_leaks</a></p>
-				<p>
-      Extracted system prompts from Anthropic - Claude Fable 5, Opus 5, Claude Design, Claude Code. OpenAI - ChatGPT GPT-5.6-Sol, Codex. Google - Gemini 3.5 Flash, 3.1 Pro, Antigravity. xAI - Grok, Cursor, Copilot, VS Code, Perplexity, and more. Updated regularly.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 JavaScript</span>
-						<span>⭐ 62234</span>
-						<span>🔱 10202</span>
-					</div>
-				<div class="stars-today">⭐ 14503 stars this month</div>
 				</div>
 			</div>
 	
@@ -360,8 +272,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Rust</span>
-						<span>⭐ 15680</span>
-						<span>🔱 1728</span>
+						<span>⭐ 15733</span>
+						<span>🔱 1735</span>
 					</div>
 				<div class="stars-today">⭐ 7469 stars this month</div>
 				</div>
@@ -382,8 +294,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 130346</span>
-						<span>🔱 19238</span>
+						<span>⭐ 130393</span>
+						<span>🔱 19244</span>
 					</div>
 				<div class="stars-today">⭐ 14250 stars this month</div>
 				</div>
@@ -404,8 +316,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 32287</span>
-						<span>🔱 4217</span>
+						<span>⭐ 32326</span>
+						<span>🔱 4225</span>
 					</div>
 				<div class="stars-today">⭐ 7155 stars this month</div>
 				</div>
@@ -426,32 +338,52 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 JavaScript</span>
-						<span>⭐ 54755</span>
-						<span>🔱 3291</span>
+						<span>⭐ 54869</span>
+						<span>🔱 3299</span>
 					</div>
 				<div class="stars-today">⭐ 11471 stars this month</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/usestrix/strix" target="_blank">
+				<p><a href="https://github.com/facebook/astryx" target="_blank">
     
 
 
       
-        usestrix /
+        facebook /
 
-      strix</a></p>
+      astryx</a></p>
 				<p>
-      Open-source AI penetration testing tool to find and fix your app’s vulnerabilities.
+      An open source design system that's fully customizable and agent ready
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 47555</span>
-						<span>🔱 5033</span>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 11530</span>
+						<span>🔱 978</span>
 					</div>
-				<div class="stars-today">⭐ 13453 stars this month</div>
+				<div class="stars-today">⭐ 7387 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/pingdotgg/t3code" target="_blank">
+    
+
+
+      
+        pingdotgg /
+
+      t3code</a></p>
+				<p></p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 16584</span>
+						<span>🔱 3709</span>
+					</div>
+				<div class="stars-today">⭐ 3384 stars this month</div>
 				</div>
 			</div>
 	
@@ -470,30 +402,98 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 80814</span>
-						<span>🔱 8018</span>
+						<span>⭐ 80851</span>
+						<span>🔱 8020</span>
 					</div>
 				<div class="stars-today">⭐ 19626 stars this month</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/pingdotgg/t3code" target="_blank">
+				<p><a href="https://github.com/HKUDS/Vibe-Trading" target="_blank">
     
 
 
       
-        pingdotgg /
+        HKUDS /
 
-      t3code</a></p>
-				<p></p>
+      Vibe-Trading</a></p>
+				<p>
+      "Vibe-Trading: Your Personal Trading Agent"
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 29545</span>
+						<span>🔱 4765</span>
+					</div>
+				<div class="stars-today">⭐ 12049 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/openai/codex-plugin-cc" target="_blank">
+    
+
+
+      
+        openai /
+
+      codex-plugin-cc</a></p>
+				<p>
+      Use Codex from Claude Code to review code or delegate tasks.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 JavaScript</span>
+						<span>⭐ 31219</span>
+						<span>🔱 2101</span>
+					</div>
+				<div class="stars-today">⭐ 8384 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/every-app/open-seo" target="_blank">
+    
+
+
+      
+        every-app /
+
+      open-seo</a></p>
+				<p>
+      Open source alternative to Semrush and Ahrefs
+    </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 16560</span>
-						<span>🔱 3699</span>
+						<span>⭐ 10316</span>
+						<span>🔱 1189</span>
 					</div>
-				<div class="stars-today">⭐ 3384 stars this month</div>
+				<div class="stars-today">⭐ 6306 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/usestrix/strix" target="_blank">
+    
+
+
+      
+        usestrix /
+
+      strix</a></p>
+				<p>
+      Open-source AI penetration testing tool to find and fix your app’s vulnerabilities.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 47736</span>
+						<span>🔱 5046</span>
+					</div>
+				<div class="stars-today">⭐ 13453 stars this month</div>
 				</div>
 			</div>
 	
