@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2026年8月
-date: 2026-08-05T08:08:50Z
+date: 2026-08-05T11:47:25Z
 categories:
 - monthly
 keywords:
@@ -30,8 +30,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Swift</span>
-						<span>⭐ 34484</span>
-						<span>🔱 5504</span>
+						<span>⭐ 34512</span>
+						<span>🔱 5507</span>
 					</div>
 				<div class="stars-today">⭐ 8467 stars this month</div>
 				</div>
@@ -52,32 +52,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 40023</span>
-						<span>🔱 5282</span>
+						<span>⭐ 40218</span>
+						<span>🔱 5299</span>
 					</div>
 				<div class="stars-today">⭐ 28511 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/MadsLorentzen/ai-job-search" target="_blank">
-    
-
-
-      
-        MadsLorentzen /
-
-      ai-job-search</a></p>
-				<p>
-      The job search that runs on your machine. AI job application framework built on Claude Code: evaluate postings, tailor CVs, write cover letters, prep interviews. Fork it and own it.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 29823</span>
-						<span>🔱 10115</span>
-					</div>
-				<div class="stars-today">⭐ 25195 stars this month</div>
 				</div>
 			</div>
 	
@@ -96,8 +74,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 37700</span>
-						<span>🔱 2663</span>
+						<span>⭐ 37831</span>
+						<span>🔱 2672</span>
 					</div>
 				<div class="stars-today">⭐ 25624 stars this month</div>
 				</div>
@@ -118,8 +96,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 </span>
-						<span>⭐ 25182</span>
-						<span>🔱 1359</span>
+						<span>⭐ 25291</span>
+						<span>🔱 1367</span>
 					</div>
 				<div class="stars-today">⭐ 20079 stars this month</div>
 				</div>
@@ -140,32 +118,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 HTML</span>
-						<span>⭐ 9259</span>
+						<span>⭐ 9321</span>
 						<span>🔱 739</span>
 					</div>
 				<div class="stars-today">⭐ 6627 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/Nutlope/hallmark" target="_blank">
-    
-
-
-      
-        Nutlope /
-
-      hallmark</a></p>
-				<p>
-      Anti-AI-slop design skill for Claude Code, Cursor, and Codex.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 CSS</span>
-						<span>⭐ 21830</span>
-						<span>🔱 1104</span>
-					</div>
-				<div class="stars-today">⭐ 18119 stars this month</div>
 				</div>
 			</div>
 	
@@ -184,32 +140,54 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 78932</span>
-						<span>🔱 11795</span>
+						<span>⭐ 78989</span>
+						<span>🔱 11805</span>
 					</div>
 				<div class="stars-today">⭐ 17795 stars this month</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/iOfficeAI/OfficeCLI" target="_blank">
+				<p><a href="https://github.com/Nutlope/hallmark" target="_blank">
     
 
 
       
-        iOfficeAI /
+        Nutlope /
 
-      OfficeCLI</a></p>
+      hallmark</a></p>
 				<p>
-      OfficeCLI is the first and best Office suite purpose-built for AI agents to read, edit, and automate Word, Excel, and PowerPoint files. Free, open-source, single binary, no Office installation required.
+      Anti-AI-slop design skill for Claude Code, Cursor, and Codex.
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 C#</span>
-						<span>⭐ 25609</span>
-						<span>🔱 1717</span>
+						<span>🔠 CSS</span>
+						<span>⭐ 21895</span>
+						<span>🔱 1109</span>
 					</div>
-				<div class="stars-today">⭐ 17070 stars this month</div>
+				<div class="stars-today">⭐ 18119 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/MadsLorentzen/ai-job-search" target="_blank">
+    
+
+
+      
+        MadsLorentzen /
+
+      ai-job-search</a></p>
+				<p>
+      The job search that runs on your machine. AI job application framework built on Claude Code: evaluate postings, tailor CVs, write cover letters, prep interviews. Fork it and own it.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 29908</span>
+						<span>🔱 10142</span>
+					</div>
+				<div class="stars-today">⭐ 25195 stars this month</div>
 				</div>
 			</div>
 	
@@ -228,54 +206,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 11012</span>
-						<span>🔱 1354</span>
+						<span>⭐ 11053</span>
+						<span>🔱 1357</span>
 					</div>
 				<div class="stars-today">⭐ 5734 stars this month</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/bradautomates/claude-video" target="_blank">
+				<p><a href="https://github.com/iOfficeAI/OfficeCLI" target="_blank">
     
 
 
       
-        bradautomates /
+        iOfficeAI /
 
-      claude-video</a></p>
+      OfficeCLI</a></p>
 				<p>
-      Give Claude the ability to watch any video. /watch downloads, extracts frames, transcribes, hands it all to Claude.
+      OfficeCLI is the first and best Office suite purpose-built for AI agents to read, edit, and automate Word, Excel, and PowerPoint files. Free, open-source, single binary, no Office installation required.
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 13966</span>
-						<span>🔱 1348</span>
+						<span>🔠 C#</span>
+						<span>⭐ 25687</span>
+						<span>🔱 1722</span>
 					</div>
-				<div class="stars-today">⭐ 10848 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/wonderwhy-er/DesktopCommanderMCP" target="_blank">
-    
-
-
-      
-        wonderwhy-er /
-
-      DesktopCommanderMCP</a></p>
-				<p>
-      This is MCP server for Claude that gives it terminal control, file system search and diff file editing capabilities
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 9174</span>
-						<span>🔱 1102</span>
-					</div>
-				<div class="stars-today">⭐ 3053 stars this month</div>
+				<div class="stars-today">⭐ 17070 stars this month</div>
 				</div>
 			</div>
 	
@@ -294,32 +250,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Rust</span>
-						<span>⭐ 15950</span>
-						<span>🔱 1758</span>
+						<span>⭐ 15987</span>
+						<span>🔱 1763</span>
 					</div>
 				<div class="stars-today">⭐ 7778 stars this month</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/Shubhamsaboo/awesome-llm-apps" target="_blank">
+				<p><a href="https://github.com/wonderwhy-er/DesktopCommanderMCP" target="_blank">
     
 
 
       
-        Shubhamsaboo /
+        wonderwhy-er /
 
-      awesome-llm-apps</a></p>
+      DesktopCommanderMCP</a></p>
 				<p>
-      100+ AI Agents, Agent Skills and RAG Apps - Free and Open Source.
+      This is MCP server for Claude that gives it terminal control, file system search and diff file editing capabilities
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 130635</span>
-						<span>🔱 19270</span>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 9180</span>
+						<span>🔱 1103</span>
 					</div>
-				<div class="stars-today">⭐ 14514 stars this month</div>
+				<div class="stars-today">⭐ 3053 stars this month</div>
 				</div>
 			</div>
 	
@@ -338,74 +294,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 32475</span>
-						<span>🔱 4239</span>
+						<span>⭐ 32510</span>
+						<span>🔱 4243</span>
 					</div>
 				<div class="stars-today">⭐ 7338 stars this month</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/pbakaus/impeccable" target="_blank">
+				<p><a href="https://github.com/Shubhamsaboo/awesome-llm-apps" target="_blank">
     
 
 
       
-        pbakaus /
+        Shubhamsaboo /
 
-      impeccable</a></p>
+      awesome-llm-apps</a></p>
 				<p>
-      The design language that makes your AI harness better at design.
+      100+ AI Agents, Agent Skills and RAG Apps - Free and Open Source.
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 JavaScript</span>
-						<span>⭐ 55443</span>
-						<span>🔱 3350</span>
+						<span>🔠 Python</span>
+						<span>⭐ 130688</span>
+						<span>🔱 19272</span>
 					</div>
-				<div class="stars-today">⭐ 11861 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/facebook/astryx" target="_blank">
-    
-
-
-      
-        facebook /
-
-      astryx</a></p>
-				<p>
-      An open source design system that's fully customizable and agent ready
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 11641</span>
-						<span>🔱 987</span>
-					</div>
-				<div class="stars-today">⭐ 6591 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/pingdotgg/t3code" target="_blank">
-    
-
-
-      
-        pingdotgg /
-
-      t3code</a></p>
-				<p></p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 16695</span>
-						<span>🔱 3740</span>
-					</div>
-				<div class="stars-today">⭐ 3503 stars this month</div>
+				<div class="stars-today">⭐ 14514 stars this month</div>
 				</div>
 			</div>
 	
@@ -424,54 +338,74 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 81003</span>
-						<span>🔱 8031</span>
+						<span>⭐ 81039</span>
+						<span>🔱 8033</span>
 					</div>
 				<div class="stars-today">⭐ 19775 stars this month</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/HKUDS/Vibe-Trading" target="_blank">
+				<p><a href="https://github.com/pbakaus/impeccable" target="_blank">
     
 
 
       
-        HKUDS /
+        pbakaus /
 
-      Vibe-Trading</a></p>
+      impeccable</a></p>
 				<p>
-      "Vibe-Trading: Your Personal Trading Agent"
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 29710</span>
-						<span>🔱 4787</span>
-					</div>
-				<div class="stars-today">⭐ 12089 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/openai/codex-plugin-cc" target="_blank">
-    
-
-
-      
-        openai /
-
-      codex-plugin-cc</a></p>
-				<p>
-      Use Codex from Claude Code to review code or delegate tasks.
+      The design language that makes your AI harness better at design.
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 JavaScript</span>
-						<span>⭐ 31339</span>
-						<span>🔱 2120</span>
+						<span>⭐ 55537</span>
+						<span>🔱 3355</span>
 					</div>
-				<div class="stars-today">⭐ 7731 stars this month</div>
+				<div class="stars-today">⭐ 11861 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/pingdotgg/t3code" target="_blank">
+    
+
+
+      
+        pingdotgg /
+
+      t3code</a></p>
+				<p></p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 16727</span>
+						<span>🔱 3745</span>
+					</div>
+				<div class="stars-today">⭐ 3503 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/bradautomates/claude-video" target="_blank">
+    
+
+
+      
+        bradautomates /
+
+      claude-video</a></p>
+				<p>
+      Give Claude the ability to watch any video. /watch downloads, extracts frames, transcribes, hands it all to Claude.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 13995</span>
+						<span>🔱 1350</span>
+					</div>
+				<div class="stars-today">⭐ 10848 stars this month</div>
 				</div>
 			</div>
 	
@@ -490,10 +424,54 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 10465</span>
-						<span>🔱 1203</span>
+						<span>⭐ 10490</span>
+						<span>🔱 1206</span>
 					</div>
 				<div class="stars-today">⭐ 6380 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/HKUDS/Vibe-Trading" target="_blank">
+    
+
+
+      
+        HKUDS /
+
+      Vibe-Trading</a></p>
+				<p>
+      "Vibe-Trading: Your Personal Trading Agent"
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 29748</span>
+						<span>🔱 4793</span>
+					</div>
+				<div class="stars-today">⭐ 12089 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/facebook/astryx" target="_blank">
+    
+
+
+      
+        facebook /
+
+      astryx</a></p>
+				<p>
+      An open source design system that's fully customizable and agent ready
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 11667</span>
+						<span>🔱 988</span>
+					</div>
+				<div class="stars-today">⭐ 6591 stars this month</div>
 				</div>
 			</div>
 	
@@ -512,10 +490,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 48557</span>
-						<span>🔱 5123</span>
+						<span>⭐ 48676</span>
+						<span>🔱 5137</span>
 					</div>
 				<div class="stars-today">⭐ 12737 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/tirth8205/code-review-graph" target="_blank">
+    
+
+
+      
+        tirth8205 /
+
+      code-review-graph</a></p>
+				<p>
+      Local-first code intelligence graph for MCP and CLI. Builds a persistent map of your codebase so AI coding tools read only what matters, with benchmarked context reductions on reviews and large-repo workflows.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 28582</span>
+						<span>🔱 2652</span>
+					</div>
+				<div class="stars-today">⭐ 9423 stars this month</div>
 				</div>
 			</div>
 	

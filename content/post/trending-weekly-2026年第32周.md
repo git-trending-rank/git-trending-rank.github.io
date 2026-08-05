@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2026年第32周
-date: 2026-08-05T08:08:50Z
+date: 2026-08-05T11:47:25Z
 categories:
 - weekly
 keywords:
@@ -30,8 +30,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 PowerShell</span>
-						<span>⭐ 18474</span>
-						<span>🔱 2526</span>
+						<span>⭐ 18774</span>
+						<span>🔱 2560</span>
 					</div>
 				<div class="stars-today">⭐ 8386 stars this week</div>
 				</div>
@@ -52,10 +52,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Jupyter Notebook</span>
-						<span>⭐ 61845</span>
-						<span>🔱 12014</span>
+						<span>⭐ 61931</span>
+						<span>🔱 12039</span>
 					</div>
 				<div class="stars-today">⭐ 8582 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/lyogavin/airllm" target="_blank">
+    
+
+
+      
+        lyogavin /
+
+      airllm</a></p>
+				<p>
+      AirLLM 70B inference with single 4GB GPU
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Jupyter Notebook</span>
+						<span>⭐ 28765</span>
+						<span>🔱 3093</span>
+					</div>
+				<div class="stars-today">⭐ 3911 stars this week</div>
 				</div>
 			</div>
 	
@@ -74,10 +96,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Rust</span>
-						<span>⭐ 22706</span>
-						<span>🔱 2548</span>
+						<span>⭐ 22784</span>
+						<span>🔱 2563</span>
 					</div>
 				<div class="stars-today">⭐ 7262 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/TencentCloud/TencentDB-Agent-Memory" target="_blank">
+    
+
+
+      
+        TencentCloud /
+
+      TencentDB-Agent-Memory</a></p>
+				<p>
+      TencentDB Agent Memory is a team-level memory hub for AI Agents — turning conversations, docs, and code into four reusable memory assets (Chat Memory, Skill, LLM-Wiki, Code-Graph) that are governed, shared, and equipped across agents and frameworks.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 14629</span>
+						<span>🔱 1326</span>
+					</div>
+				<div class="stars-today">⭐ 3659 stars this week</div>
 				</div>
 			</div>
 	
@@ -96,8 +140,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 16599</span>
-						<span>🔱 1761</span>
+						<span>⭐ 16741</span>
+						<span>🔱 1780</span>
 					</div>
 				<div class="stars-today">⭐ 5420 stars this week</div>
 				</div>
@@ -118,7 +162,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 20982</span>
+						<span>⭐ 21017</span>
 						<span>🔱 2060</span>
 					</div>
 				<div class="stars-today">⭐ 3601 stars this week</div>
@@ -140,32 +184,54 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 16941</span>
-						<span>🔱 955</span>
+						<span>⭐ 17030</span>
+						<span>🔱 963</span>
 					</div>
 				<div class="stars-today">⭐ 4389 stars this week</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/lyogavin/airllm" target="_blank">
+				<p><a href="https://github.com/esengine/DeepSeek-Reasonix" target="_blank">
     
 
 
       
-        lyogavin /
+        esengine /
 
-      airllm</a></p>
+      DeepSeek-Reasonix</a></p>
 				<p>
-      AirLLM 70B inference with single 4GB GPU
+      DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability — leave it running.
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Jupyter Notebook</span>
-						<span>⭐ 28641</span>
-						<span>🔱 3081</span>
+						<span>🔠 Go</span>
+						<span>⭐ 31201</span>
+						<span>🔱 2003</span>
 					</div>
-				<div class="stars-today">⭐ 3911 stars this week</div>
+				<div class="stars-today">⭐ 2857 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/woosal1337/blog" target="_blank">
+    
+
+
+      
+        woosal1337 /
+
+      blog</a></p>
+				<p>
+      My blog website.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 JavaScript</span>
+						<span>⭐ 361</span>
+						<span>🔱 29</span>
+					</div>
+				<div class="stars-today">⭐ 158 stars this week</div>
 				</div>
 			</div>
 	
@@ -184,142 +250,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Rust</span>
-						<span>⭐ 15950</span>
-						<span>🔱 1758</span>
+						<span>⭐ 15987</span>
+						<span>🔱 1763</span>
 					</div>
 				<div class="stars-today">⭐ 3294 stars this week</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/TencentCloud/TencentDB-Agent-Memory" target="_blank">
+				<p><a href="https://github.com/DataExpert-io/data-engineer-handbook" target="_blank">
     
 
 
       
-        TencentCloud /
+        DataExpert-io /
 
-      TencentDB-Agent-Memory</a></p>
+      data-engineer-handbook</a></p>
 				<p>
-      TencentDB Agent Memory is a team-level memory hub for AI Agents — turning conversations, docs, and code into four reusable memory assets (Chat Memory, Skill, LLM-Wiki, Code-Graph) that are governed, shared, and equipped across agents and frameworks.
+      This is a repo with links to everything you'd ever want to learn about data engineering
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 14345</span>
-						<span>🔱 1316</span>
+						<span>🔠 Jupyter Notebook</span>
+						<span>⭐ 43029</span>
+						<span>🔱 8722</span>
 					</div>
-				<div class="stars-today">⭐ 3659 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/opengeos/GeoLibre" target="_blank">
-    
-
-
-      
-        opengeos /
-
-      GeoLibre</a></p>
-				<p>
-      A lightweight, cloud-native GIS platform for visualizing, exploring, and analyzing geospatial data. It runs in the web browser, on the desktop, on mobile, and inside Jupyter notebooks.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 5421</span>
-						<span>🔱 531</span>
-					</div>
-				<div class="stars-today">⭐ 2236 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/bojieli/ai-agent-book" target="_blank">
-    
-
-
-      
-        bojieli /
-
-      ai-agent-book</a></p>
-				<p>
-      《深入理解 AI Agent：设计原理与工程实践》（李博杰 著）开源主仓库：全书正文、编译版 PDF 与按章配套代码
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 32281</span>
-						<span>🔱 3450</span>
-					</div>
-				<div class="stars-today">⭐ 7076 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/moeru-ai/airi" target="_blank">
-    
-
-
-      
-        moeru-ai /
-
-      airi</a></p>
-				<p>
-      💖🧸 Self hosted, you-owned Grok Companion, a container of souls of waifu, cyber livings to bring them into our worlds, wishing to achieve Neuro-sama's altitude. Capable of realtime voice chat, Minecraft, Factorio playing. Web / macOS / Windows supported.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 46934</span>
-						<span>🔱 4639</span>
-					</div>
-				<div class="stars-today">⭐ 2358 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/alibaba/open-code-review" target="_blank">
-    
-
-
-      
-        alibaba /
-
-      open-code-review</a></p>
-				<p>
-      Fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Go</span>
-						<span>⭐ 18922</span>
-						<span>🔱 1285</span>
-					</div>
-				<div class="stars-today">⭐ 3361 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/pascalorg/editor" target="_blank">
-    
-
-
-      
-        pascalorg /
-
-      editor</a></p>
-				<p>
-      Create and share 3D architectural projects.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 21099</span>
-						<span>🔱 2689</span>
-					</div>
-				<div class="stars-today">⭐ 2696 stars this week</div>
+				<div class="stars-today">⭐ 567 stars this week</div>
 				</div>
 			</div>
 	
@@ -338,8 +294,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 JavaScript</span>
-						<span>⭐ 8462</span>
-						<span>🔱 408</span>
+						<span>⭐ 8517</span>
+						<span>🔱 409</span>
 					</div>
 				<div class="stars-today">⭐ 2633 stars this week</div>
 				</div>
