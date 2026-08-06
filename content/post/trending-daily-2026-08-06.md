@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2026-08-06
-date: 2026-08-06T08:07:35Z
+date: 2026-08-06T11:52:37Z
 categories:
 - daily
 keywords:
@@ -14,50 +14,6 @@ keywords:
 	<main class="container">
         <div class="repo-list" id="repoList">
 
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/cloudflare/computer" target="_blank">
-    
-
-
-      
-        cloudflare /
-
-      computer</a></p>
-				<p>
-      Give your agent a computer 👾
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 3921</span>
-						<span>🔱 184</span>
-					</div>
-				<div class="stars-today">⭐ 891 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/huangruiteng/loopx" target="_blank">
-    
-
-
-      
-        huangruiteng /
-
-      loopx</a></p>
-				<p>
-      Lightweight loop engineering state kernel for long-running AI agent teams. Agent-loop agnostic across Codex, Claude Code, and other coding agents, with durable goals, quota-aware auto-wake, executable todos, evidence logs, and verifiable handoffs.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 2453</span>
-						<span>🔱 177</span>
-					</div>
-				<div class="stars-today">⭐ 326 stars today</div>
-				</div>
-			</div>
 	
 			<div class="repo-card">
 				<p><a href="https://github.com/TencentCloud/TencentDB-Agent-Memory" target="_blank">
@@ -74,76 +30,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 15440</span>
-						<span>🔱 1397</span>
+						<span>⭐ 15661</span>
+						<span>🔱 1410</span>
 					</div>
 				<div class="stars-today">⭐ 1892 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/donnemartin/system-design-primer" target="_blank">
-    
-
-
-      
-        donnemartin /
-
-      system-design-primer</a></p>
-				<p>
-      Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 361791</span>
-						<span>🔱 57664</span>
-					</div>
-				<div class="stars-today">⭐ 303 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/firecrawl/pdf-inspector" target="_blank">
-    
-
-
-      
-        firecrawl /
-
-      pdf-inspector</a></p>
-				<p>
-      Fast Rust library for PDF inspection, classification, and text extraction. Intelligently detects scanned vs text-based PDFs to enable smart routing decisions.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Rust</span>
-						<span>⭐ 11812</span>
-						<span>🔱 797</span>
-					</div>
-				<div class="stars-today">⭐ 1582 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/esengine/DeepSeek-Reasonix" target="_blank">
-    
-
-
-      
-        esengine /
-
-      DeepSeek-Reasonix</a></p>
-				<p>
-      DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability — leave it running.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Go</span>
-						<span>⭐ 31941</span>
-						<span>🔱 2060</span>
-					</div>
-				<div class="stars-today">⭐ 747 stars today</div>
 				</div>
 			</div>
 	
@@ -162,10 +52,208 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 JavaScript</span>
-						<span>⭐ 82188</span>
-						<span>🔱 8839</span>
+						<span>⭐ 82317</span>
+						<span>🔱 8844</span>
 					</div>
 				<div class="stars-today">⭐ 226 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/cloudflare/computer" target="_blank">
+    
+
+
+      
+        cloudflare /
+
+      computer</a></p>
+				<p>
+      Give your agent a computer 👾
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 4328</span>
+						<span>🔱 210</span>
+					</div>
+				<div class="stars-today">⭐ 891 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/mattpocock/skills" target="_blank">
+    
+
+
+      
+        mattpocock /
+
+      skills</a></p>
+				<p>
+      Skills for Real Engineers. Straight from my .agents directory.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Shell</span>
+						<span>⭐ 205971</span>
+						<span>🔱 17787</span>
+					</div>
+				<div class="stars-today">⭐ 1695 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/goauthentik/authentik" target="_blank">
+    
+
+
+      
+        goauthentik /
+
+      authentik</a></p>
+				<p>
+      The authentication glue you need.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 22800</span>
+						<span>🔱 1757</span>
+					</div>
+				<div class="stars-today">⭐ 123 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/huangruiteng/loopx" target="_blank">
+    
+
+
+      
+        huangruiteng /
+
+      loopx</a></p>
+				<p>
+      Lightweight loop engineering state kernel for long-running AI agent teams. Agent-loop agnostic across Codex, Claude Code, and other coding agents, with durable goals, quota-aware auto-wake, executable todos, evidence logs, and verifiable handoffs.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 2583</span>
+						<span>🔱 191</span>
+					</div>
+				<div class="stars-today">⭐ 326 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/google/guava" target="_blank">
+    
+
+
+      
+        google /
+
+      guava</a></p>
+				<p>
+      Google core libraries for Java
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Java</span>
+						<span>⭐ 51550</span>
+						<span>🔱 11155</span>
+					</div>
+				<div class="stars-today">⭐ 9 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/TapXWorld/ChinaTextbook" target="_blank">
+    
+
+
+      
+        TapXWorld /
+
+      ChinaTextbook</a></p>
+				<p>
+      所有小初高、大学PDF教材。
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Roff</span>
+						<span>⭐ 76912</span>
+						<span>🔱 17384</span>
+					</div>
+				<div class="stars-today">⭐ 157 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/Significant-Gravitas/AutoGPT" target="_blank">
+    
+
+
+      
+        Significant-Gravitas /
+
+      AutoGPT</a></p>
+				<p>
+      AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 185850</span>
+						<span>🔱 46048</span>
+					</div>
+				<div class="stars-today">⭐ 28 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/tirth8205/code-review-graph" target="_blank">
+    
+
+
+      
+        tirth8205 /
+
+      code-review-graph</a></p>
+				<p>
+      Local-first code intelligence graph for MCP and CLI. Builds a persistent map of your codebase so AI coding tools read only what matters, with benchmarked context reductions on reviews and large-repo workflows.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 28806</span>
+						<span>🔱 2670</span>
+					</div>
+				<div class="stars-today">⭐ 232 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/esengine/DeepSeek-Reasonix" target="_blank">
+    
+
+
+      
+        esengine /
+
+      DeepSeek-Reasonix</a></p>
+				<p>
+      DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability — leave it running.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Go</span>
+						<span>⭐ 32071</span>
+						<span>🔱 2070</span>
+					</div>
+				<div class="stars-today">⭐ 747 stars today</div>
 				</div>
 			</div>
 	
@@ -184,120 +272,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Shell</span>
-						<span>⭐ 267591</span>
-						<span>🔱 23914</span>
+						<span>⭐ 267734</span>
+						<span>🔱 23919</span>
 					</div>
 				<div class="stars-today">⭐ 931 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/roboflow/supervision" target="_blank">
+				<p><a href="https://github.com/firecrawl/pdf-inspector" target="_blank">
     
 
 
       
-        roboflow /
+        firecrawl /
 
-      supervision</a></p>
+      pdf-inspector</a></p>
 				<p>
-      We write your reusable computer vision tools. 💜
+      Fast Rust library for PDF inspection, classification, and text extraction. Intelligently detects scanned vs text-based PDFs to enable smart routing decisions.
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 49065</span>
-						<span>🔱 4622</span>
+						<span>🔠 Rust</span>
+						<span>⭐ 11993</span>
+						<span>🔱 805</span>
 					</div>
-				<div class="stars-today">⭐ 146 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/vercel/next.js" target="_blank">
-    
-
-
-      
-        vercel /
-
-      next.js</a></p>
-				<p>
-      The React Framework
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 JavaScript</span>
-						<span>⭐ 141615</span>
-						<span>🔱 31683</span>
-					</div>
-				<div class="stars-today">⭐ 68 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/tailwindlabs/tailwindcss" target="_blank">
-    
-
-
-      
-        tailwindlabs /
-
-      tailwindcss</a></p>
-				<p>
-      A utility-first CSS framework for rapid UI development.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 96980</span>
-						<span>🔱 5554</span>
-					</div>
-				<div class="stars-today">⭐ 408 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/uber/ADR" target="_blank">
-    
-
-
-      
-        uber /
-
-      ADR</a></p>
-				<p>
-      ADR secures enterprise AI agents through observability, security benchmarking, and threat detection. Deployed at Uber.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 1138</span>
-						<span>🔱 91</span>
-					</div>
-				<div class="stars-today">⭐ 354 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/lyogavin/airllm" target="_blank">
-    
-
-
-      
-        lyogavin /
-
-      airllm</a></p>
-				<p>
-      AirLLM 70B inference with single 4GB GPU
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Jupyter Notebook</span>
-						<span>⭐ 29309</span>
-						<span>🔱 3139</span>
-					</div>
-				<div class="stars-today">⭐ 833 stars today</div>
+				<div class="stars-today">⭐ 1582 stars today</div>
 				</div>
 			</div>
 	

@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2026年8月
-date: 2026-08-06T08:07:35Z
+date: 2026-08-06T11:52:37Z
 categories:
 - monthly
 keywords:
@@ -30,8 +30,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Swift</span>
-						<span>⭐ 34596</span>
-						<span>🔱 5525</span>
+						<span>⭐ 34618</span>
+						<span>🔱 5527</span>
 					</div>
 				<div class="stars-today">⭐ 8603 stars this month</div>
 				</div>
@@ -52,8 +52,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 41087</span>
-						<span>🔱 5431</span>
+						<span>⭐ 41243</span>
+						<span>🔱 5449</span>
 					</div>
 				<div class="stars-today">⭐ 29141 stars this month</div>
 				</div>
@@ -74,8 +74,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 38454</span>
-						<span>🔱 2709</span>
+						<span>⭐ 38577</span>
+						<span>🔱 2719</span>
 					</div>
 				<div class="stars-today">⭐ 26073 stars this month</div>
 				</div>
@@ -96,32 +96,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 </span>
-						<span>⭐ 25961</span>
-						<span>🔱 1405</span>
+						<span>⭐ 26062</span>
+						<span>🔱 1411</span>
 					</div>
 				<div class="stars-today">⭐ 20625 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/tt-a1i/archify" target="_blank">
-    
-
-
-      
-        tt-a1i /
-
-      archify</a></p>
-				<p>
-      Agent skill for beautiful, verifiable architecture, workflow, sequence, data-flow, and lifecycle diagrams—self-contained HTML with motion and crisp export.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 HTML</span>
-						<span>⭐ 9608</span>
-						<span>🔱 756</span>
-					</div>
-				<div class="stars-today">⭐ 6837 stars this month</div>
 				</div>
 			</div>
 	
@@ -140,8 +118,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 79235</span>
-						<span>🔱 11838</span>
+						<span>⭐ 79281</span>
+						<span>🔱 11855</span>
 					</div>
 				<div class="stars-today">⭐ 18064 stars this month</div>
 				</div>
@@ -162,10 +140,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 CSS</span>
-						<span>⭐ 22118</span>
-						<span>🔱 1121</span>
+						<span>⭐ 22174</span>
+						<span>🔱 1124</span>
 					</div>
 				<div class="stars-today">⭐ 18510 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/tt-a1i/archify" target="_blank">
+    
+
+
+      
+        tt-a1i /
+
+      archify</a></p>
+				<p>
+      Agent skill for beautiful, verifiable architecture, workflow, sequence, data-flow, and lifecycle diagrams—self-contained HTML with motion and crisp export.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 HTML</span>
+						<span>⭐ 9694</span>
+						<span>🔱 759</span>
+					</div>
+				<div class="stars-today">⭐ 6837 stars this month</div>
 				</div>
 			</div>
 	
@@ -184,32 +184,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 11299</span>
-						<span>🔱 1400</span>
+						<span>⭐ 11340</span>
+						<span>🔱 1402</span>
 					</div>
 				<div class="stars-today">⭐ 5874 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/iOfficeAI/OfficeCLI" target="_blank">
-    
-
-
-      
-        iOfficeAI /
-
-      OfficeCLI</a></p>
-				<p>
-      OfficeCLI is the first and best Office suite purpose-built for AI agents to read, edit, and automate Word, Excel, and PowerPoint files. Free, open-source, single binary, no Office installation required.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 C#</span>
-						<span>⭐ 25997</span>
-						<span>🔱 1746</span>
-					</div>
-				<div class="stars-today">⭐ 17505 stars this month</div>
 				</div>
 			</div>
 	
@@ -228,10 +206,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Rust</span>
-						<span>⭐ 16129</span>
-						<span>🔱 1798</span>
+						<span>⭐ 16142</span>
+						<span>🔱 1804</span>
 					</div>
 				<div class="stars-today">⭐ 7992 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/iOfficeAI/OfficeCLI" target="_blank">
+    
+
+
+      
+        iOfficeAI /
+
+      OfficeCLI</a></p>
+				<p>
+      OfficeCLI is the first and best Office suite purpose-built for AI agents to read, edit, and automate Word, Excel, and PowerPoint files. Free, open-source, single binary, no Office installation required.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 C#</span>
+						<span>⭐ 26056</span>
+						<span>🔱 1750</span>
+					</div>
+				<div class="stars-today">⭐ 17505 stars this month</div>
 				</div>
 			</div>
 	
@@ -250,8 +250,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 9211</span>
-						<span>🔱 1107</span>
+						<span>⭐ 9218</span>
+						<span>🔱 1108</span>
 					</div>
 				<div class="stars-today">⭐ 3088 stars this month</div>
 				</div>
@@ -272,8 +272,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 32644</span>
-						<span>🔱 4263</span>
+						<span>⭐ 32667</span>
+						<span>🔱 4266</span>
 					</div>
 				<div class="stars-today">⭐ 7519 stars this month</div>
 				</div>
@@ -294,8 +294,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 130928</span>
-						<span>🔱 19313</span>
+						<span>⭐ 130983</span>
+						<span>🔱 19321</span>
 					</div>
 				<div class="stars-today">⭐ 14735 stars this month</div>
 				</div>
@@ -316,10 +316,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 81227</span>
-						<span>🔱 8051</span>
+						<span>⭐ 81254</span>
+						<span>🔱 8054</span>
 					</div>
 				<div class="stars-today">⭐ 19925 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/microsoft/AI-For-Beginners" target="_blank">
+    
+
+
+      
+        microsoft /
+
+      AI-For-Beginners</a></p>
+				<p>
+      12 Weeks, 24 Lessons, AI for All!
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Jupyter Notebook</span>
+						<span>⭐ 62393</span>
+						<span>🔱 12148</span>
+					</div>
+				<div class="stars-today">⭐ 10568 stars this month</div>
 				</div>
 			</div>
 	
@@ -338,8 +360,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 JavaScript</span>
-						<span>⭐ 55989</span>
-						<span>🔱 3391</span>
+						<span>⭐ 56069</span>
+						<span>🔱 3400</span>
 					</div>
 				<div class="stars-today">⭐ 12331 stars this month</div>
 				</div>
@@ -358,32 +380,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 16875</span>
-						<span>🔱 3780</span>
+						<span>⭐ 16906</span>
+						<span>🔱 3796</span>
 					</div>
 				<div class="stars-today">⭐ 3622 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/bradautomates/claude-video" target="_blank">
-    
-
-
-      
-        bradautomates /
-
-      claude-video</a></p>
-				<p>
-      Give Claude the ability to watch any video. /watch downloads, extracts frames, transcribes, hands it all to Claude.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 14167</span>
-						<span>🔱 1356</span>
-					</div>
-				<div class="stars-today">⭐ 10693 stars this month</div>
 				</div>
 			</div>
 	
@@ -402,10 +402,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 10646</span>
-						<span>🔱 1226</span>
+						<span>⭐ 10669</span>
+						<span>🔱 1228</span>
 					</div>
 				<div class="stars-today">⭐ 6508 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/zhaoxuya520/reverse-skill" target="_blank">
+    
+
+
+      
+        zhaoxuya520 /
+
+      reverse-skill</a></p>
+				<p>
+      Reverse Engineering / Authorized Penetration Testing / Security Research Skill Router Pack AI-powered routing + On-demand toolchain bootstrapping + Self-evolving knowledge base Supports Claude Code, Kiro, Cursor, Cline, and other AI coding clients 逆向/渗透/安全技能路由包 - AI 自动路由 + 按需自举工具链 + 自动进化经验库 | 支持 Claude Code / Kiro / Cursor / Cline 等代码 AI 客户端
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 PowerShell</span>
+						<span>⭐ 19521</span>
+						<span>🔱 2674</span>
+					</div>
+				<div class="stars-today">⭐ 11891 stars this month</div>
 				</div>
 			</div>
 	
@@ -424,54 +446,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 29928</span>
-						<span>🔱 4822</span>
+						<span>⭐ 29970</span>
+						<span>🔱 4830</span>
 					</div>
 				<div class="stars-today">⭐ 12165 stars this month</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/facebook/astryx" target="_blank">
+				<p><a href="https://github.com/bradautomates/claude-video" target="_blank">
     
 
 
       
-        facebook /
+        bradautomates /
 
-      astryx</a></p>
+      claude-video</a></p>
 				<p>
-      An open source design system that's fully customizable and agent ready
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 11771</span>
-						<span>🔱 1000</span>
-					</div>
-				<div class="stars-today">⭐ 6191 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/usestrix/strix" target="_blank">
-    
-
-
-      
-        usestrix /
-
-      strix</a></p>
-				<p>
-      Open-source AI penetration testing tool to find and fix your app’s vulnerabilities.
+      Give Claude the ability to watch any video. /watch downloads, extracts frames, transcribes, hands it all to Claude.
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 49127</span>
-						<span>🔱 5193</span>
+						<span>⭐ 14194</span>
+						<span>🔱 1361</span>
 					</div>
-				<div class="stars-today">⭐ 12507 stars this month</div>
+				<div class="stars-today">⭐ 10693 stars this month</div>
 				</div>
 			</div>
 	
@@ -490,8 +490,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 28759</span>
-						<span>🔱 2669</span>
+						<span>⭐ 28806</span>
+						<span>🔱 2670</span>
 					</div>
 				<div class="stars-today">⭐ 9581 stars this month</div>
 				</div>

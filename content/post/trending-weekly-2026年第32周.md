@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2026年第32周
-date: 2026-08-06T08:07:35Z
+date: 2026-08-06T11:52:37Z
 categories:
 - weekly
 keywords:
@@ -30,8 +30,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 PowerShell</span>
-						<span>⭐ 19379</span>
-						<span>🔱 2652</span>
+						<span>⭐ 19521</span>
+						<span>🔱 2674</span>
 					</div>
 				<div class="stars-today">⭐ 9904 stars this week</div>
 				</div>
@@ -52,54 +52,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Jupyter Notebook</span>
-						<span>⭐ 62262</span>
-						<span>🔱 12115</span>
+						<span>⭐ 62393</span>
+						<span>🔱 12148</span>
 					</div>
 				<div class="stars-today">⭐ 8926 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/lyogavin/airllm" target="_blank">
-    
-
-
-      
-        lyogavin /
-
-      airllm</a></p>
-				<p>
-      AirLLM 70B inference with single 4GB GPU
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Jupyter Notebook</span>
-						<span>⭐ 29309</span>
-						<span>🔱 3139</span>
-					</div>
-				<div class="stars-today">⭐ 4659 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/block/buzz" target="_blank">
-    
-
-
-      
-        block /
-
-      buzz</a></p>
-				<p>
-      A hive mind communication platform
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Rust</span>
-						<span>⭐ 23489</span>
-						<span>🔱 2669</span>
-					</div>
-				<div class="stars-today">⭐ 6456 stars this week</div>
 				</div>
 			</div>
 	
@@ -118,10 +74,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 15440</span>
-						<span>🔱 1397</span>
+						<span>⭐ 15661</span>
+						<span>🔱 1410</span>
 					</div>
 				<div class="stars-today">⭐ 5445 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/lyogavin/airllm" target="_blank">
+    
+
+
+      
+        lyogavin /
+
+      airllm</a></p>
+				<p>
+      AirLLM 70B inference with single 4GB GPU
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Jupyter Notebook</span>
+						<span>⭐ 29421</span>
+						<span>🔱 3143</span>
+					</div>
+				<div class="stars-today">⭐ 4659 stars this week</div>
 				</div>
 			</div>
 	
@@ -140,54 +118,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 17174</span>
-						<span>🔱 1824</span>
+						<span>⭐ 17292</span>
+						<span>🔱 1837</span>
 					</div>
 				<div class="stars-today">⭐ 4596 stars this week</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/different-ai/openwork" target="_blank">
+				<p><a href="https://github.com/block/buzz" target="_blank">
     
 
 
       
-        different-ai /
+        block /
 
-      openwork</a></p>
+      buzz</a></p>
 				<p>
-      The open-source alternative to Claude Cowork (powered by opencode)
+      A hive mind communication platform
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 21172</span>
-						<span>🔱 2076</span>
+						<span>🔠 Rust</span>
+						<span>⭐ 23661</span>
+						<span>🔱 2695</span>
 					</div>
-				<div class="stars-today">⭐ 3665 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/ayghri/i-have-adhd" target="_blank">
-    
-
-
-      
-        ayghri /
-
-      i-have-adhd</a></p>
-				<p>
-      A skill to stop your coding agent from burying the answer. ADHD-friendly output.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 17401</span>
-						<span>🔱 997</span>
-					</div>
-				<div class="stars-today">⭐ 3874 stars this week</div>
+				<div class="stars-today">⭐ 6456 stars this week</div>
 				</div>
 			</div>
 	
@@ -206,54 +162,98 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Go</span>
-						<span>⭐ 31941</span>
-						<span>🔱 2060</span>
+						<span>⭐ 32071</span>
+						<span>🔱 2070</span>
 					</div>
 				<div class="stars-today">⭐ 3408 stars this week</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/woosal1337/blog" target="_blank">
+				<p><a href="https://github.com/different-ai/openwork" target="_blank">
     
 
 
       
-        woosal1337 /
+        different-ai /
 
-      blog</a></p>
+      openwork</a></p>
 				<p>
-      My blog website.
+      The open-source alternative to Claude Cowork (powered by opencode)
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 JavaScript</span>
-						<span>⭐ 414</span>
-						<span>🔱 32</span>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 21205</span>
+						<span>🔱 2078</span>
 					</div>
-				<div class="stars-today">⭐ 160 stars this week</div>
+				<div class="stars-today">⭐ 3665 stars this week</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/1jehuang/jcode" target="_blank">
+				<p><a href="https://github.com/agavra/tuicr" target="_blank">
     
 
 
       
-        1jehuang /
+        agavra /
 
-      jcode</a></p>
+      tuicr</a></p>
 				<p>
-      The most RAM efficient harness
+      a code review TUI with vim keybindings
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Rust</span>
-						<span>⭐ 16129</span>
-						<span>🔱 1798</span>
+						<span>⭐ 2454</span>
+						<span>🔱 188</span>
 					</div>
-				<div class="stars-today">⭐ 2903 stars this week</div>
+				<div class="stars-today">⭐ 859 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/ayghri/i-have-adhd" target="_blank">
+    
+
+
+      
+        ayghri /
+
+      i-have-adhd</a></p>
+				<p>
+      A skill to stop your coding agent from burying the answer. ADHD-friendly output.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 17495</span>
+						<span>🔱 1005</span>
+					</div>
+				<div class="stars-today">⭐ 3874 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/deepfakes/faceswap" target="_blank">
+    
+
+
+      
+        deepfakes /
+
+      faceswap</a></p>
+				<p>
+      Deepfakes Software For All
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 57256</span>
+						<span>🔱 13501</span>
+					</div>
+				<div class="stars-today">⭐ 1154 stars this week</div>
 				</div>
 			</div>
 	
@@ -272,32 +272,54 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Jupyter Notebook</span>
-						<span>⭐ 43159</span>
-						<span>🔱 8833</span>
+						<span>⭐ 43180</span>
+						<span>🔱 8844</span>
 					</div>
 				<div class="stars-today">⭐ 590 stars this week</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/citrolabs/ego-lite" target="_blank">
+				<p><a href="https://github.com/antirez/ds4" target="_blank">
     
 
 
       
-        citrolabs /
+        antirez /
 
-      ego-lite</a></p>
+      ds4</a></p>
 				<p>
-      The fastest browser for AI agents to run browser automation, built for sharing your logged-in browser state with your AI agents, like Codex or Claude Code, without disturbing you. Zero cost, zero config.
+      DeepSeek 4 Flash and PRO local inference engine for Metal, CUDA and ROCm
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 JavaScript</span>
-						<span>⭐ 8905</span>
-						<span>🔱 422</span>
+						<span>🔠 C</span>
+						<span>⭐ 20731</span>
+						<span>🔱 1849</span>
 					</div>
-				<div class="stars-today">⭐ 2737 stars this week</div>
+				<div class="stars-today">⭐ 1266 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/embabel/embabel-agent" target="_blank">
+    
+
+
+      
+        embabel /
+
+      embabel-agent</a></p>
+				<p>
+      Agent framework for the JVM. Pronounced Em-BAY-bel /ɛmˈbeɪbəl/
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Kotlin</span>
+						<span>⭐ 3973</span>
+						<span>🔱 398</span>
+					</div>
+				<div class="stars-today">⭐ 138 stars this week</div>
 				</div>
 			</div>
 	
