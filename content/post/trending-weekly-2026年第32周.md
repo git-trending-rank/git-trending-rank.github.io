@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2026年第32周
-date: 2026-08-07T10:37:56Z
+date: 2026-08-07T12:31:20Z
 categories:
 - weekly
 keywords:
@@ -30,8 +30,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 PowerShell</span>
-						<span>⭐ 20257</span>
-						<span>🔱 2784</span>
+						<span>⭐ 20300</span>
+						<span>🔱 2787</span>
 					</div>
 				<div class="stars-today">⭐ 10091 stars this week</div>
 				</div>
@@ -52,8 +52,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Jupyter Notebook</span>
-						<span>⭐ 62966</span>
-						<span>🔱 12215</span>
+						<span>⭐ 63003</span>
+						<span>🔱 12218</span>
 					</div>
 				<div class="stars-today">⭐ 9164 stars this week</div>
 				</div>
@@ -74,10 +74,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 17124</span>
-						<span>🔱 1534</span>
+						<span>⭐ 17206</span>
+						<span>🔱 1542</span>
 					</div>
 				<div class="stars-today">⭐ 6444 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/usekaneo/kaneo" target="_blank">
+    
+
+
+      
+        usekaneo /
+
+      kaneo</a></p>
+				<p>
+      🎯 All you need. Nothing you don't. Open source project management that works for you, not against you.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 7556</span>
+						<span>🔱 607</span>
+					</div>
+				<div class="stars-today">⭐ 3078 stars this week</div>
 				</div>
 			</div>
 	
@@ -96,10 +118,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Jupyter Notebook</span>
-						<span>⭐ 29768</span>
-						<span>🔱 3181</span>
+						<span>⭐ 29797</span>
+						<span>🔱 3183</span>
 					</div>
 				<div class="stars-today">⭐ 5222 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/esengine/DeepSeek-Reasonix" target="_blank">
+    
+
+
+      
+        esengine /
+
+      DeepSeek-Reasonix</a></p>
+				<p>
+      DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability — leave it running.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Go</span>
+						<span>⭐ 32790</span>
+						<span>🔱 2115</span>
+					</div>
+				<div class="stars-today">⭐ 4203 stars this week</div>
 				</div>
 			</div>
 	
@@ -118,8 +162,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 17908</span>
-						<span>🔱 1915</span>
+						<span>⭐ 17961</span>
+						<span>🔱 1922</span>
 					</div>
 				<div class="stars-today">⭐ 3903 stars this week</div>
 				</div>
@@ -140,32 +184,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Rust</span>
-						<span>⭐ 24591</span>
-						<span>🔱 2828</span>
+						<span>⭐ 24624</span>
+						<span>🔱 2837</span>
 					</div>
 				<div class="stars-today">⭐ 5903 stars this week</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/esengine/DeepSeek-Reasonix" target="_blank">
+				<p><a href="https://github.com/paperswithbacktest/awesome-systematic-trading" target="_blank">
     
 
 
       
-        esengine /
+        paperswithbacktest /
 
-      DeepSeek-Reasonix</a></p>
+      awesome-systematic-trading</a></p>
 				<p>
-      DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability — leave it running.
+      A curated list of awesome libraries, packages, strategies, books, blogs, tutorials for systematic trading.
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Go</span>
-						<span>⭐ 32761</span>
-						<span>🔱 2114</span>
+						<span>🔠 Python</span>
+						<span>⭐ 12867</span>
+						<span>🔱 1568</span>
 					</div>
-				<div class="stars-today">⭐ 4203 stars this week</div>
+				<div class="stars-today">⭐ 1982 stars this week</div>
 				</div>
 			</div>
 	
@@ -184,98 +228,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 21369</span>
+						<span>⭐ 21382</span>
 						<span>🔱 2091</span>
 					</div>
 				<div class="stars-today">⭐ 2939 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/agavra/tuicr" target="_blank">
-    
-
-
-      
-        agavra /
-
-      tuicr</a></p>
-				<p>
-      a code review TUI with vim keybindings
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Rust</span>
-						<span>⭐ 2522</span>
-						<span>🔱 188</span>
-					</div>
-				<div class="stars-today">⭐ 741 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/ayghri/i-have-adhd" target="_blank">
-    
-
-
-      
-        ayghri /
-
-      i-have-adhd</a></p>
-				<p>
-      A skill to stop your coding agent from burying the answer. ADHD-friendly output.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 17943</span>
-						<span>🔱 1040</span>
-					</div>
-				<div class="stars-today">⭐ 3628 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/deepfakes/faceswap" target="_blank">
-    
-
-
-      
-        deepfakes /
-
-      faceswap</a></p>
-				<p>
-      Deepfakes Software For All
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 57376</span>
-						<span>🔱 13502</span>
-					</div>
-				<div class="stars-today">⭐ 618 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/DataExpert-io/data-engineer-handbook" target="_blank">
-    
-
-
-      
-        DataExpert-io /
-
-      data-engineer-handbook</a></p>
-				<p>
-      This is a repo with links to everything you'd ever want to learn about data engineering
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Jupyter Notebook</span>
-						<span>⭐ 43316</span>
-						<span>🔱 8913</span>
-					</div>
-				<div class="stars-today">⭐ 716 stars this week</div>
 				</div>
 			</div>
 	
@@ -294,10 +250,54 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 C</span>
-						<span>⭐ 20849</span>
-						<span>🔱 1860</span>
+						<span>⭐ 20859</span>
+						<span>🔱 1862</span>
 					</div>
 				<div class="stars-today">⭐ 1319 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/DataExpert-io/data-engineer-handbook" target="_blank">
+    
+
+
+      
+        DataExpert-io /
+
+      data-engineer-handbook</a></p>
+				<p>
+      This is a repo with links to everything you'd ever want to learn about data engineering
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Jupyter Notebook</span>
+						<span>⭐ 43321</span>
+						<span>🔱 8916</span>
+					</div>
+				<div class="stars-today">⭐ 716 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/unclebob/swarm-forge" target="_blank">
+    
+
+
+      
+        unclebob /
+
+      swarm-forge</a></p>
+				<p>
+      A simple tool for coordinating several AI agents.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Clojure</span>
+						<span>⭐ 1707</span>
+						<span>🔱 190</span>
+					</div>
+				<div class="stars-today">⭐ 248 stars this week</div>
 				</div>
 			</div>
 	
@@ -316,10 +316,54 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Kotlin</span>
-						<span>⭐ 4004</span>
+						<span>⭐ 4006</span>
 						<span>🔱 398</span>
 					</div>
 				<div class="stars-today">⭐ 154 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/ayghri/i-have-adhd" target="_blank">
+    
+
+
+      
+        ayghri /
+
+      i-have-adhd</a></p>
+				<p>
+      A skill to stop your coding agent from burying the answer. ADHD-friendly output.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 17972</span>
+						<span>🔱 1042</span>
+					</div>
+				<div class="stars-today">⭐ 3628 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/tailwindlabs/tailwindcss" target="_blank">
+    
+
+
+      
+        tailwindlabs /
+
+      tailwindcss</a></p>
+				<p>
+      A utility-first CSS framework for rapid UI development.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 97048</span>
+						<span>🔱 5566</span>
+					</div>
+				<div class="stars-today">⭐ 992 stars this week</div>
 				</div>
 			</div>
 	

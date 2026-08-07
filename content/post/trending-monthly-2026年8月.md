@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2026年8月
-date: 2026-08-07T10:37:57Z
+date: 2026-08-07T12:31:20Z
 categories:
 - monthly
 keywords:
@@ -30,7 +30,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Swift</span>
-						<span>⭐ 34706</span>
+						<span>⭐ 34712</span>
 						<span>🔱 5540</span>
 					</div>
 				<div class="stars-today">⭐ 8701 stars this month</div>
@@ -52,8 +52,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 42064</span>
-						<span>🔱 5585</span>
+						<span>⭐ 42126</span>
+						<span>🔱 5598</span>
 					</div>
 				<div class="stars-today">⭐ 29383 stars this month</div>
 				</div>
@@ -74,32 +74,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 39318</span>
-						<span>🔱 2763</span>
+						<span>⭐ 39360</span>
+						<span>🔱 2765</span>
 					</div>
 				<div class="stars-today">⭐ 26353 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/emilkowalski/skills" target="_blank">
-    
-
-
-      
-        emilkowalski /
-
-      skills</a></p>
-				<p>
-      Skills for Designers and Engineers.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 </span>
-						<span>⭐ 26632</span>
-						<span>🔱 1438</span>
-					</div>
-				<div class="stars-today">⭐ 21162 stars this month</div>
 				</div>
 			</div>
 	
@@ -118,10 +96,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 79540</span>
-						<span>🔱 11885</span>
+						<span>⭐ 79556</span>
+						<span>🔱 11888</span>
 					</div>
 				<div class="stars-today">⭐ 18274 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/emilkowalski/skills" target="_blank">
+    
+
+
+      
+        emilkowalski /
+
+      skills</a></p>
+				<p>
+      Skills for Designers and Engineers.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 </span>
+						<span>⭐ 26685</span>
+						<span>🔱 1440</span>
+					</div>
+				<div class="stars-today">⭐ 21162 stars this month</div>
 				</div>
 			</div>
 	
@@ -140,7 +140,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 CSS</span>
-						<span>⭐ 22459</span>
+						<span>⭐ 22481</span>
 						<span>🔱 1140</span>
 					</div>
 				<div class="stars-today">⭐ 18764 stars this month</div>
@@ -162,32 +162,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 HTML</span>
-						<span>⭐ 10017</span>
-						<span>🔱 787</span>
+						<span>⭐ 10030</span>
+						<span>🔱 788</span>
 					</div>
 				<div class="stars-today">⭐ 7074 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/huggingface/speech-to-speech" target="_blank">
-    
-
-
-      
-        huggingface /
-
-      speech-to-speech</a></p>
-				<p>
-      Build local voice agents with open-source models
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 11520</span>
-						<span>🔱 1427</span>
-					</div>
-				<div class="stars-today">⭐ 6090 stars this month</div>
 				</div>
 			</div>
 	
@@ -206,54 +184,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Rust</span>
-						<span>⭐ 16269</span>
-						<span>🔱 1826</span>
+						<span>⭐ 16281</span>
+						<span>🔱 1827</span>
 					</div>
 				<div class="stars-today">⭐ 8110 stars this month</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/iOfficeAI/OfficeCLI" target="_blank">
+				<p><a href="https://github.com/huggingface/speech-to-speech" target="_blank">
     
 
 
       
-        iOfficeAI /
+        huggingface /
 
-      OfficeCLI</a></p>
+      speech-to-speech</a></p>
 				<p>
-      OfficeCLI is the first and best Office suite purpose-built for AI agents to read, edit, and automate Word, Excel, and PowerPoint files. Free, open-source, single binary, no Office installation required.
+      Build local voice agents with open-source models
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 C#</span>
-						<span>⭐ 26374</span>
-						<span>🔱 1778</span>
+						<span>🔠 Python</span>
+						<span>⭐ 11523</span>
+						<span>🔱 1427</span>
 					</div>
-				<div class="stars-today">⭐ 17847 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/wonderwhy-er/DesktopCommanderMCP" target="_blank">
-    
-
-
-      
-        wonderwhy-er /
-
-      DesktopCommanderMCP</a></p>
-				<p>
-      This is MCP server for Claude that gives it terminal control, file system search and diff file editing capabilities
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 9242</span>
-						<span>🔱 1116</span>
-					</div>
-				<div class="stars-today">⭐ 3118 stars this month</div>
+				<div class="stars-today">⭐ 6090 stars this month</div>
 				</div>
 			</div>
 	
@@ -272,76 +228,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 32866</span>
-						<span>🔱 4279</span>
+						<span>⭐ 32876</span>
+						<span>🔱 4282</span>
 					</div>
 				<div class="stars-today">⭐ 7645 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/MadsLorentzen/ai-job-search" target="_blank">
-    
-
-
-      
-        MadsLorentzen /
-
-      ai-job-search</a></p>
-				<p>
-      The job search that runs on your machine. AI job application framework built on Claude Code: evaluate postings, tailor CVs, write cover letters, prep interviews. Fork it and own it.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 30612</span>
-						<span>🔱 10412</span>
-					</div>
-				<div class="stars-today">⭐ 23601 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/Shubhamsaboo/awesome-llm-apps" target="_blank">
-    
-
-
-      
-        Shubhamsaboo /
-
-      awesome-llm-apps</a></p>
-				<p>
-      100+ AI Agents, Agent Skills and RAG Apps - Free and Open Source.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 131220</span>
-						<span>🔱 19342</span>
-					</div>
-				<div class="stars-today">⭐ 14892 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/OpenCut-app/OpenCut" target="_blank">
-    
-
-
-      
-        OpenCut-app /
-
-      OpenCut</a></p>
-				<p>
-      The open-source CapCut alternative
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 81439</span>
-						<span>🔱 8067</span>
-					</div>
-				<div class="stars-today">⭐ 20061 stars this month</div>
 				</div>
 			</div>
 	
@@ -360,32 +250,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Jupyter Notebook</span>
-						<span>⭐ 62966</span>
-						<span>🔱 12215</span>
+						<span>⭐ 63003</span>
+						<span>🔱 12218</span>
 					</div>
 				<div class="stars-today">⭐ 10946 stars this month</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/pbakaus/impeccable" target="_blank">
+				<p><a href="https://github.com/Shubhamsaboo/awesome-llm-apps" target="_blank">
     
 
 
       
-        pbakaus /
+        Shubhamsaboo /
 
-      impeccable</a></p>
+      awesome-llm-apps</a></p>
 				<p>
-      The design language that makes your AI harness better at design.
+      100+ AI Agents, Agent Skills and RAG Apps - Free and Open Source.
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 JavaScript</span>
-						<span>⭐ 56499</span>
-						<span>🔱 3431</span>
+						<span>🔠 Python</span>
+						<span>⭐ 131232</span>
+						<span>🔱 19347</span>
 					</div>
-				<div class="stars-today">⭐ 12655 stars this month</div>
+				<div class="stars-today">⭐ 14892 stars this month</div>
 				</div>
 			</div>
 	
@@ -402,32 +292,54 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 17106</span>
-						<span>🔱 3852</span>
+						<span>⭐ 17124</span>
+						<span>🔱 3862</span>
 					</div>
 				<div class="stars-today">⭐ 3746 stars this month</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/every-app/open-seo" target="_blank">
+				<p><a href="https://github.com/OpenCut-app/OpenCut" target="_blank">
     
 
 
       
-        every-app /
+        OpenCut-app /
 
-      open-seo</a></p>
+      OpenCut</a></p>
 				<p>
-      Open source alternative to Semrush and Ahrefs
+      The open-source CapCut alternative
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 10796</span>
-						<span>🔱 1238</span>
+						<span>⭐ 81452</span>
+						<span>🔱 8068</span>
 					</div>
-				<div class="stars-today">⭐ 6602 stars this month</div>
+				<div class="stars-today">⭐ 20061 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/wonderwhy-er/DesktopCommanderMCP" target="_blank">
+    
+
+
+      
+        wonderwhy-er /
+
+      DesktopCommanderMCP</a></p>
+				<p>
+      This is MCP server for Claude that gives it terminal control, file system search and diff file editing capabilities
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 9245</span>
+						<span>🔱 1116</span>
+					</div>
+				<div class="stars-today">⭐ 3118 stars this month</div>
 				</div>
 			</div>
 	
@@ -446,10 +358,120 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 PowerShell</span>
-						<span>⭐ 20257</span>
-						<span>🔱 2784</span>
+						<span>⭐ 20300</span>
+						<span>🔱 2787</span>
 					</div>
 				<div class="stars-today">⭐ 12319 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/iOfficeAI/OfficeCLI" target="_blank">
+    
+
+
+      
+        iOfficeAI /
+
+      OfficeCLI</a></p>
+				<p>
+      OfficeCLI is the first and best Office suite purpose-built for AI agents to read, edit, and automate Word, Excel, and PowerPoint files. Free, open-source, single binary, no Office installation required.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 C#</span>
+						<span>⭐ 26395</span>
+						<span>🔱 1779</span>
+					</div>
+				<div class="stars-today">⭐ 17847 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/pbakaus/impeccable" target="_blank">
+    
+
+
+      
+        pbakaus /
+
+      impeccable</a></p>
+				<p>
+      The design language that makes your AI harness better at design.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 JavaScript</span>
+						<span>⭐ 56539</span>
+						<span>🔱 3434</span>
+					</div>
+				<div class="stars-today">⭐ 12655 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/every-app/open-seo" target="_blank">
+    
+
+
+      
+        every-app /
+
+      open-seo</a></p>
+				<p>
+      Open source alternative to Semrush and Ahrefs
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 10804</span>
+						<span>🔱 1239</span>
+					</div>
+				<div class="stars-today">⭐ 6602 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/tirth8205/code-review-graph" target="_blank">
+    
+
+
+      
+        tirth8205 /
+
+      code-review-graph</a></p>
+				<p>
+      Local-first code intelligence graph for MCP and CLI. Builds a persistent map of your codebase so AI coding tools read only what matters, with benchmarked context reductions on reviews and large-repo workflows.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 29299</span>
+						<span>🔱 2690</span>
+					</div>
+				<div class="stars-today">⭐ 9787 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/mattpocock/skills" target="_blank">
+    
+
+
+      
+        mattpocock /
+
+      skills</a></p>
+				<p>
+      Skills for Real Engineers. Straight from my .agents directory.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Shell</span>
+						<span>⭐ 208129</span>
+						<span>🔱 17961</span>
+					</div>
+				<div class="stars-today">⭐ 49283 stars this month</div>
 				</div>
 			</div>
 	
@@ -468,8 +490,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 30157</span>
-						<span>🔱 4857</span>
+						<span>⭐ 30171</span>
+						<span>🔱 4861</span>
 					</div>
 				<div class="stars-today">⭐ 12134 stars this month</div>
 				</div>
@@ -490,32 +512,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 14373</span>
+						<span>⭐ 14382</span>
 						<span>🔱 1377</span>
 					</div>
 				<div class="stars-today">⭐ 10428 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/tirth8205/code-review-graph" target="_blank">
-    
-
-
-      
-        tirth8205 /
-
-      code-review-graph</a></p>
-				<p>
-      Local-first code intelligence graph for MCP and CLI. Builds a persistent map of your codebase so AI coding tools read only what matters, with benchmarked context reductions on reviews and large-repo workflows.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 29271</span>
-						<span>🔱 2691</span>
-					</div>
-				<div class="stars-today">⭐ 9787 stars this month</div>
 				</div>
 			</div>
 	
