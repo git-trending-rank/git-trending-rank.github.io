@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2026年第32周
-date: 2026-08-08T10:16:13Z
+date: 2026-08-08T12:16:52Z
 categories:
 - weekly
 keywords:
@@ -30,32 +30,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 PowerShell</span>
-						<span>⭐ 20825</span>
-						<span>🔱 2863</span>
+						<span>⭐ 20878</span>
+						<span>🔱 2870</span>
 					</div>
 				<div class="stars-today">⭐ 10400 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/microsoft/AI-For-Beginners" target="_blank">
-    
-
-
-      
-        microsoft /
-
-      AI-For-Beginners</a></p>
-				<p>
-      12 Weeks, 24 Lessons, AI for All!
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Jupyter Notebook</span>
-						<span>⭐ 63362</span>
-						<span>🔱 12275</span>
-					</div>
-				<div class="stars-today">⭐ 8224 stars this week</div>
 				</div>
 			</div>
 	
@@ -74,32 +52,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 17843</span>
-						<span>🔱 1593</span>
+						<span>⭐ 17909</span>
+						<span>🔱 1602</span>
 					</div>
 				<div class="stars-today">⭐ 7501 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/usekaneo/kaneo" target="_blank">
-    
-
-
-      
-        usekaneo /
-
-      kaneo</a></p>
-				<p>
-      🎯 All you need. Nothing you don't. Open source project management that works for you, not against you.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 7662</span>
-						<span>🔱 613</span>
-					</div>
-				<div class="stars-today">⭐ 2925 stars this week</div>
 				</div>
 			</div>
 	
@@ -118,10 +74,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Jupyter Notebook</span>
-						<span>⭐ 30010</span>
+						<span>⭐ 30030</span>
 						<span>🔱 3193</span>
 					</div>
 				<div class="stars-today">⭐ 5521 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/microsoft/AI-For-Beginners" target="_blank">
+    
+
+
+      
+        microsoft /
+
+      AI-For-Beginners</a></p>
+				<p>
+      12 Weeks, 24 Lessons, AI for All!
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Jupyter Notebook</span>
+						<span>⭐ 63401</span>
+						<span>🔱 12283</span>
+					</div>
+				<div class="stars-today">⭐ 8224 stars this week</div>
 				</div>
 			</div>
 	
@@ -140,10 +118,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Go</span>
-						<span>⭐ 32988</span>
-						<span>🔱 2130</span>
+						<span>⭐ 33013</span>
+						<span>🔱 2131</span>
 					</div>
 				<div class="stars-today">⭐ 4739 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/usekaneo/kaneo" target="_blank">
+    
+
+
+      
+        usekaneo /
+
+      kaneo</a></p>
+				<p>
+      🎯 All you need. Nothing you don't. Open source project management that works for you, not against you.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 7671</span>
+						<span>🔱 614</span>
+					</div>
+				<div class="stars-today">⭐ 2925 stars this week</div>
 				</div>
 			</div>
 	
@@ -162,54 +162,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 18562</span>
-						<span>🔱 2003</span>
+						<span>⭐ 18606</span>
+						<span>🔱 2006</span>
 					</div>
 				<div class="stars-today">⭐ 3957 stars this week</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/block/buzz" target="_blank">
+				<p><a href="https://github.com/iv-org/invidious" target="_blank">
     
 
 
       
-        block /
+        iv-org /
 
-      buzz</a></p>
+      invidious</a></p>
 				<p>
-      A hive mind communication platform
+      Invidious is an alternative front-end to YouTube
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Rust</span>
-						<span>⭐ 25128</span>
-						<span>🔱 2925</span>
+						<span>🔠 Crystal</span>
+						<span>⭐ 22448</span>
+						<span>🔱 2506</span>
 					</div>
-				<div class="stars-today">⭐ 5746 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/paperswithbacktest/awesome-systematic-trading" target="_blank">
-    
-
-
-      
-        paperswithbacktest /
-
-      awesome-systematic-trading</a></p>
-				<p>
-      A curated list of awesome libraries, packages, strategies, books, blogs, tutorials for systematic trading.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 13008</span>
-						<span>🔱 1581</span>
-					</div>
-				<div class="stars-today">⭐ 1433 stars this week</div>
+				<div class="stars-today">⭐ 1225 stars this week</div>
 				</div>
 			</div>
 	
@@ -228,54 +206,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 21519</span>
-						<span>🔱 2107</span>
+						<span>⭐ 21529</span>
+						<span>🔱 2108</span>
 					</div>
 				<div class="stars-today">⭐ 2367 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/antirez/ds4" target="_blank">
-    
-
-
-      
-        antirez /
-
-      ds4</a></p>
-				<p>
-      DeepSeek 4 Flash and PRO local inference engine for Metal, CUDA and ROCm
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 C</span>
-						<span>⭐ 20928</span>
-						<span>🔱 1869</span>
-					</div>
-				<div class="stars-today">⭐ 1341 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/DataExpert-io/data-engineer-handbook" target="_blank">
-    
-
-
-      
-        DataExpert-io /
-
-      data-engineer-handbook</a></p>
-				<p>
-      This is a repo with links to everything you'd ever want to learn about data engineering
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Jupyter Notebook</span>
-						<span>⭐ 43409</span>
-						<span>🔱 8979</span>
-					</div>
-				<div class="stars-today">⭐ 742 stars this week</div>
 				</div>
 			</div>
 	
@@ -294,10 +228,120 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Clojure</span>
-						<span>⭐ 1919</span>
+						<span>⭐ 1936</span>
 						<span>🔱 206</span>
 					</div>
 				<div class="stars-today">⭐ 273 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/google/skills" target="_blank">
+    
+
+
+      
+        google /
+
+      skills</a></p>
+				<p>
+      Agent Skills for Google products and technologies
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 16461</span>
+						<span>🔱 1302</span>
+					</div>
+				<div class="stars-today">⭐ 718 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/antirez/ds4" target="_blank">
+    
+
+
+      
+        antirez /
+
+      ds4</a></p>
+				<p>
+      DeepSeek 4 Flash and PRO local inference engine for Metal, CUDA and ROCm
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 C</span>
+						<span>⭐ 20932</span>
+						<span>🔱 1869</span>
+					</div>
+				<div class="stars-today">⭐ 1341 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/Comfy-Org/ComfyUI" target="_blank">
+    
+
+
+      
+        Comfy-Org /
+
+      ComfyUI</a></p>
+				<p>
+      The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 124763</span>
+						<span>🔱 14786</span>
+					</div>
+				<div class="stars-today">⭐ 1682 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/DataExpert-io/data-engineer-handbook" target="_blank">
+    
+
+
+      
+        DataExpert-io /
+
+      data-engineer-handbook</a></p>
+				<p>
+      This is a repo with links to everything you'd ever want to learn about data engineering
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Jupyter Notebook</span>
+						<span>⭐ 43418</span>
+						<span>🔱 8983</span>
+					</div>
+				<div class="stars-today">⭐ 742 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/donnemartin/system-design-primer" target="_blank">
+    
+
+
+      
+        donnemartin /
+
+      system-design-primer</a></p>
+				<p>
+      Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 362352</span>
+						<span>🔱 57717</span>
+					</div>
+				<div class="stars-today">⭐ 2507 stars this week</div>
 				</div>
 			</div>
 	
@@ -316,54 +360,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Kotlin</span>
-						<span>⭐ 4020</span>
+						<span>⭐ 4022</span>
 						<span>🔱 399</span>
 					</div>
 				<div class="stars-today">⭐ 176 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/ayghri/i-have-adhd" target="_blank">
-    
-
-
-      
-        ayghri /
-
-      i-have-adhd</a></p>
-				<p>
-      A skill to stop your coding agent from burying the answer. ADHD-friendly output.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 18294</span>
-						<span>🔱 1063</span>
-					</div>
-				<div class="stars-today">⭐ 3497 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/tailwindlabs/tailwindcss" target="_blank">
-    
-
-
-      
-        tailwindlabs /
-
-      tailwindcss</a></p>
-				<p>
-      A utility-first CSS framework for rapid UI development.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 97120</span>
-						<span>🔱 5568</span>
-					</div>
-				<div class="stars-today">⭐ 997 stars this week</div>
 				</div>
 			</div>
 	
