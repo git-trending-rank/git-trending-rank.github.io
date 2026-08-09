@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2026年8月
-date: 2026-08-09T10:17:47Z
+date: 2026-08-09T12:18:38Z
 categories:
 - monthly
 keywords:
@@ -14,28 +14,6 @@ keywords:
 	<main class="container">
         <div class="repo-list" id="repoList">
 
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/permissionlesstech/bitchat" target="_blank">
-    
-
-
-      
-        permissionlesstech /
-
-      bitchat</a></p>
-				<p>
-      bluetooth mesh chat, IRC vibes
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Swift</span>
-						<span>⭐ 34848</span>
-						<span>🔱 5566</span>
-					</div>
-				<div class="stars-today">⭐ 8840 stars this month</div>
-				</div>
-			</div>
 	
 			<div class="repo-card">
 				<p><a href="https://github.com/diegosouzapw/OmniRoute" target="_blank">
@@ -52,8 +30,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 43759</span>
-						<span>🔱 5865</span>
+						<span>⭐ 43821</span>
+						<span>🔱 5878</span>
 					</div>
 				<div class="stars-today">⭐ 29953 stars this month</div>
 				</div>
@@ -74,32 +52,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 CSS</span>
-						<span>⭐ 22856</span>
-						<span>🔱 1172</span>
+						<span>⭐ 22872</span>
+						<span>🔱 1173</span>
 					</div>
 				<div class="stars-today">⭐ 19221 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/emilkowalski/skills" target="_blank">
-    
-
-
-      
-        emilkowalski /
-
-      skills</a></p>
-				<p>
-      Skills for Designers and Engineers.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 </span>
-						<span>⭐ 27476</span>
-						<span>🔱 1510</span>
-					</div>
-				<div class="stars-today">⭐ 21921 stars this month</div>
 				</div>
 			</div>
 	
@@ -118,7 +74,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 80039</span>
+						<span>⭐ 80068</span>
 						<span>🔱 11966</span>
 					</div>
 				<div class="stars-today">⭐ 18670 stars this month</div>
@@ -126,24 +82,24 @@ keywords:
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/stablyai/orca" target="_blank">
+				<p><a href="https://github.com/emilkowalski/skills" target="_blank">
     
 
 
       
-        stablyai /
+        emilkowalski /
 
-      orca</a></p>
+      skills</a></p>
 				<p>
-      Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop, mobile and VPS.
+      Skills for Designers and Engineers.
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 40474</span>
-						<span>🔱 2842</span>
+						<span>🔠 </span>
+						<span>⭐ 27518</span>
+						<span>🔱 1511</span>
 					</div>
-				<div class="stars-today">⭐ 26442 stars this month</div>
+				<div class="stars-today">⭐ 21921 stars this month</div>
 				</div>
 			</div>
 	
@@ -162,10 +118,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Rust</span>
-						<span>⭐ 16537</span>
-						<span>🔱 1860</span>
+						<span>⭐ 16550</span>
+						<span>🔱 1861</span>
 					</div>
 				<div class="stars-today">⭐ 8325 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/stablyai/orca" target="_blank">
+    
+
+
+      
+        stablyai /
+
+      orca</a></p>
+				<p>
+      Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop, mobile and VPS.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 40511</span>
+						<span>🔱 2845</span>
+					</div>
+				<div class="stars-today">⭐ 26442 stars this month</div>
 				</div>
 			</div>
 	
@@ -182,8 +160,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 17461</span>
-						<span>🔱 3969</span>
+						<span>⭐ 17477</span>
+						<span>🔱 3973</span>
 					</div>
 				<div class="stars-today">⭐ 4068 stars this month</div>
 				</div>
@@ -204,8 +182,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 33272</span>
-						<span>🔱 4310</span>
+						<span>⭐ 33289</span>
+						<span>🔱 4311</span>
 					</div>
 				<div class="stars-today">⭐ 7933 stars this month</div>
 				</div>
@@ -226,32 +204,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 PowerShell</span>
-						<span>⭐ 22029</span>
-						<span>🔱 3002</span>
+						<span>⭐ 22098</span>
+						<span>🔱 3014</span>
 					</div>
 				<div class="stars-today">⭐ 13560 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/tt-a1i/archify" target="_blank">
-    
-
-
-      
-        tt-a1i /
-
-      archify</a></p>
-				<p>
-      Agent skill for beautiful, verifiable architecture, workflow, sequence, data-flow, and lifecycle diagrams—self-contained HTML with motion and crisp export.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 HTML</span>
-						<span>⭐ 10764</span>
-						<span>🔱 834</span>
-					</div>
-				<div class="stars-today">⭐ 7532 stars this month</div>
 				</div>
 			</div>
 	
@@ -270,8 +226,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Jupyter Notebook</span>
-						<span>⭐ 63801</span>
-						<span>🔱 12361</span>
+						<span>⭐ 63831</span>
+						<span>🔱 12368</span>
 					</div>
 				<div class="stars-today">⭐ 11788 stars this month</div>
 				</div>
@@ -292,32 +248,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 81791</span>
-						<span>🔱 8099</span>
+						<span>⭐ 81807</span>
+						<span>🔱 8098</span>
 					</div>
 				<div class="stars-today">⭐ 20266 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/mattpocock/skills" target="_blank">
-    
-
-
-      
-        mattpocock /
-
-      skills</a></p>
-				<p>
-      Skills for Real Engineers. Straight from my .agents directory.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Shell</span>
-						<span>⭐ 210499</span>
-						<span>🔱 18183</span>
-					</div>
-				<div class="stars-today">⭐ 49928 stars this month</div>
 				</div>
 			</div>
 	
@@ -336,10 +270,76 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 11022</span>
-						<span>🔱 1271</span>
+						<span>⭐ 11032</span>
+						<span>🔱 1272</span>
 					</div>
 				<div class="stars-today">⭐ 6799 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/mattpocock/skills" target="_blank">
+    
+
+
+      
+        mattpocock /
+
+      skills</a></p>
+				<p>
+      Skills for Real Engineers. Straight from my .agents directory.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Shell</span>
+						<span>⭐ 210591</span>
+						<span>🔱 18198</span>
+					</div>
+				<div class="stars-today">⭐ 49928 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/tt-a1i/archify" target="_blank">
+    
+
+
+      
+        tt-a1i /
+
+      archify</a></p>
+				<p>
+      Agent skill for beautiful, verifiable architecture, workflow, sequence, data-flow, and lifecycle diagrams—self-contained HTML with motion and crisp export.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 HTML</span>
+						<span>⭐ 10789</span>
+						<span>🔱 835</span>
+					</div>
+				<div class="stars-today">⭐ 7532 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/TencentCloud/TencentDB-Agent-Memory" target="_blank">
+    
+
+
+      
+        TencentCloud /
+
+      TencentDB-Agent-Memory</a></p>
+				<p>
+      TencentDB Agent Memory is a team-level memory hub for AI Agents — turning conversations, docs, and code into four reusable memory assets (Chat Memory, Skill, LLM-Wiki, Code-Graph) that are governed, shared, and equipped across agents and frameworks.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 18521</span>
+						<span>🔱 1669</span>
+					</div>
+				<div class="stars-today">⭐ 10732 stars this month</div>
 				</div>
 			</div>
 	
@@ -358,8 +358,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 131625</span>
-						<span>🔱 19387</span>
+						<span>⭐ 131645</span>
+						<span>🔱 19391</span>
 					</div>
 				<div class="stars-today">⭐ 15127 stars this month</div>
 				</div>
@@ -380,32 +380,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 85789</span>
-						<span>🔱 10657</span>
+						<span>⭐ 85820</span>
+						<span>🔱 10661</span>
 					</div>
 				<div class="stars-today">⭐ 17222 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/TencentCloud/TencentDB-Agent-Memory" target="_blank">
-    
-
-
-      
-        TencentCloud /
-
-      TencentDB-Agent-Memory</a></p>
-				<p>
-      TencentDB Agent Memory is a team-level memory hub for AI Agents — turning conversations, docs, and code into four reusable memory assets (Chat Memory, Skill, LLM-Wiki, Code-Graph) that are governed, shared, and equipped across agents and frameworks.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 18485</span>
-						<span>🔱 1664</span>
-					</div>
-				<div class="stars-today">⭐ 10732 stars this month</div>
 				</div>
 			</div>
 	
@@ -424,10 +402,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 29508</span>
-						<span>🔱 2704</span>
+						<span>⭐ 29520</span>
+						<span>🔱 2705</span>
 					</div>
 				<div class="stars-today">⭐ 10260 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/virgiliojr94/book-to-skill" target="_blank">
+    
+
+
+      
+        virgiliojr94 /
+
+      book-to-skill</a></p>
+				<p>
+      Turn any technical book PDF into a Claude Code skill — ready to study, reference, and use while you work.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 19194</span>
+						<span>🔱 2059</span>
+					</div>
+				<div class="stars-today">⭐ 10581 stars this month</div>
 				</div>
 			</div>
 	
@@ -446,8 +446,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 11783</span>
-						<span>🔱 1455</span>
+						<span>⭐ 11790</span>
+						<span>🔱 1456</span>
 					</div>
 				<div class="stars-today">⭐ 6143 stars this month</div>
 				</div>
@@ -468,54 +468,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 C#</span>
-						<span>⭐ 26949</span>
-						<span>🔱 1830</span>
+						<span>⭐ 26970</span>
+						<span>🔱 1831</span>
 					</div>
 				<div class="stars-today">⭐ 15700 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/bradautomates/claude-video" target="_blank">
-    
-
-
-      
-        bradautomates /
-
-      claude-video</a></p>
-				<p>
-      Give Claude the ability to watch any video. /watch downloads, extracts frames, transcribes, hands it all to Claude.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 14668</span>
-						<span>🔱 1406</span>
-					</div>
-				<div class="stars-today">⭐ 8853 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/virgiliojr94/book-to-skill" target="_blank">
-    
-
-
-      
-        virgiliojr94 /
-
-      book-to-skill</a></p>
-				<p>
-      Turn any technical book PDF into a Claude Code skill — ready to study, reference, and use while you work.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 19148</span>
-						<span>🔱 2056</span>
-					</div>
-				<div class="stars-today">⭐ 10581 stars this month</div>
 				</div>
 			</div>
 	
@@ -534,10 +490,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 3816</span>
-						<span>🔱 532</span>
+						<span>⭐ 3818</span>
+						<span>🔱 531</span>
 					</div>
 				<div class="stars-today">⭐ 2755 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/bradautomates/claude-video" target="_blank">
+    
+
+
+      
+        bradautomates /
+
+      claude-video</a></p>
+				<p>
+      Give Claude the ability to watch any video. /watch downloads, extracts frames, transcribes, hands it all to Claude.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 14680</span>
+						<span>🔱 1406</span>
+					</div>
+				<div class="stars-today">⭐ 8853 stars this month</div>
 				</div>
 			</div>
 	

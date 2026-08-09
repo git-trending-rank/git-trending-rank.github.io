@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2026-08-09
-date: 2026-08-09T10:17:46Z
+date: 2026-08-09T12:18:38Z
 categories:
 - daily
 keywords:
@@ -30,10 +30,96 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 9729</span>
-						<span>🔱 936</span>
+						<span>⭐ 9920</span>
+						<span>🔱 974</span>
 					</div>
 				<div class="stars-today">⭐ 2483 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/vitali87/code-graph-rag" target="_blank">
+    
+
+
+      
+        vitali87 /
+
+      code-graph-rag</a></p>
+				<p>
+      The ultimate RAG for your monorepo. Query, understand, and edit multi-language codebases with the power of AI and knowledge graphs
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 2676</span>
+						<span>🔱 455</span>
+					</div>
+				<div class="stars-today">⭐ 59 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/msitarzewski/agency-agents" target="_blank">
+    
+
+
+      
+        msitarzewski /
+
+      agency-agents</a></p>
+				<p>
+      A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Shell</span>
+						<span>⭐ 140072</span>
+						<span>🔱 22858</span>
+					</div>
+				<div class="stars-today">⭐ 446 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/pranshuparmar/witr" target="_blank">
+    
+
+
+      
+        pranshuparmar /
+
+      witr</a></p>
+				<p>
+      Why is this running? Trace any process, port, container, or file back to what started it - CLI + TUI.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Go</span>
+						<span>⭐ 20241</span>
+						<span>🔱 677</span>
+					</div>
+				<div class="stars-today">⭐ 556 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/google-deepmind/weathernext" target="_blank">
+    
+
+
+      
+        google-deepmind /
+
+      weathernext</a></p>
+				<p></p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 6918</span>
+						<span>🔱 913</span>
+					</div>
+				<div class="stars-today">⭐ 55 stars today</div>
 				</div>
 			</div>
 	
@@ -52,76 +138,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 JavaScript</span>
-						<span>⭐ 84814</span>
-						<span>🔱 9128</span>
+						<span>⭐ 84861</span>
+						<span>🔱 9136</span>
 					</div>
 				<div class="stars-today">⭐ 779 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/TapXWorld/ChinaTextbook" target="_blank">
+				<p><a href="https://github.com/ZhuLinsen/daily_stock_analysis" target="_blank">
     
 
 
       
-        TapXWorld /
+        ZhuLinsen /
 
-      ChinaTextbook</a></p>
+      daily_stock_analysis</a></p>
 				<p>
-      所有小初高、大学PDF教材。
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Roff</span>
-						<span>⭐ 78116</span>
-						<span>🔱 17696</span>
-					</div>
-				<div class="stars-today">⭐ 118 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/google/skills" target="_blank">
-    
-
-
-      
-        google /
-
-      skills</a></p>
-				<p>
-      Agent Skills for Google products and technologies
+      LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。 LLM-powered multi-market stock analysis system with multi-source market data, real-time news, decision dashboard, automated notifications, and cost-free scheduled runs.
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 16947</span>
-						<span>🔱 1380</span>
+						<span>⭐ 60905</span>
+						<span>🔱 51904</span>
 					</div>
-				<div class="stars-today">⭐ 481 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/mattpocock/skills" target="_blank">
-    
-
-
-      
-        mattpocock /
-
-      skills</a></p>
-				<p>
-      Skills for Real Engineers. Straight from my .agents directory.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Shell</span>
-						<span>⭐ 210499</span>
-						<span>🔱 18183</span>
-					</div>
-				<div class="stars-today">⭐ 1359 stars today</div>
+				<div class="stars-today">⭐ 287 stars today</div>
 				</div>
 			</div>
 	
@@ -140,142 +182,96 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 24097</span>
-						<span>🔱 1848</span>
+						<span>⭐ 24119</span>
+						<span>🔱 1849</span>
 					</div>
 				<div class="stars-today">⭐ 467 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/TauricResearch/TradingAgents" target="_blank">
-    
-
-
-      
-        TauricResearch /
-
-      TradingAgents</a></p>
-				<p>
-      TradingAgents: Multi-Agents LLM Financial Trading Framework
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 96762</span>
-						<span>🔱 18679</span>
-					</div>
-				<div class="stars-today">⭐ 153 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/google/guava" target="_blank">
+				<p><a href="https://github.com/google/skills" target="_blank">
     
 
 
       
         google /
 
-      guava</a></p>
+      skills</a></p>
 				<p>
-      Google core libraries for Java
+      Agent Skills for Google products and technologies
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Java</span>
-						<span>⭐ 51885</span>
-						<span>🔱 11182</span>
+						<span>🔠 Python</span>
+						<span>⭐ 16983</span>
+						<span>🔱 1384</span>
 					</div>
-				<div class="stars-today">⭐ 93 stars today</div>
+				<div class="stars-today">⭐ 481 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/LadybirdBrowser/ladybird" target="_blank">
+				<p><a href="https://github.com/Comfy-Org/ComfyUI" target="_blank">
     
 
 
       
-        LadybirdBrowser /
+        Comfy-Org /
 
-      ladybird</a></p>
+      ComfyUI</a></p>
 				<p>
-      Truly independent web browser
+      The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 C++</span>
-						<span>⭐ 65090</span>
-						<span>🔱 3107</span>
+						<span>🔠 Python</span>
+						<span>⭐ 125114</span>
+						<span>🔱 14816</span>
 					</div>
-				<div class="stars-today">⭐ 48 stars today</div>
+				<div class="stars-today">⭐ 333 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/denoland/celld" target="_blank">
+				<p><a href="https://github.com/harveyai/harvey-labs" target="_blank">
     
 
 
       
-        denoland /
+        harveyai /
 
-      celld</a></p>
+      harvey-labs</a></p>
 				<p>
-      self-hosted, distributed Durable Objects
+      A benchmark built to evaluate and improve agent capabilities for supporting legal work.
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Rust</span>
-						<span>⭐ 2755</span>
-						<span>🔱 79</span>
+						<span>🔠 Python</span>
+						<span>⭐ 692</span>
+						<span>🔱 170</span>
 					</div>
-				<div class="stars-today">⭐ 432 stars today</div>
+				<div class="stars-today">⭐ 47 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/litu54/DevOps-Interview-Guide" target="_blank">
+				<p><a href="https://github.com/pingdotgg/t3code" target="_blank">
     
 
 
       
-        litu54 /
+        pingdotgg /
 
-      DevOps-Interview-Guide</a></p>
-				<p>
-       DevOps Interview Guide
-    </p>
+      t3code</a></p>
+				<p></p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 </span>
-						<span>⭐ 785</span>
-						<span>🔱 912</span>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 17477</span>
+						<span>🔱 3973</span>
 					</div>
-				<div class="stars-today">⭐ 68 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/bannedbook/fanqiang" target="_blank">
-    
-
-
-      
-        bannedbook /
-
-      fanqiang</a></p>
-				<p>
-      翻墙-科学上网
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Kotlin</span>
-						<span>⭐ 50115</span>
-						<span>🔱 8275</span>
-					</div>
-				<div class="stars-today">⭐ 101 stars today</div>
+				<div class="stars-today">⭐ 182 stars today</div>
 				</div>
 			</div>
 	

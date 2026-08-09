@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2026年第32周
-date: 2026-08-09T10:17:46Z
+date: 2026-08-09T12:18:38Z
 categories:
 - weekly
 keywords:
@@ -14,6 +14,28 @@ keywords:
 	<main class="container">
         <div class="repo-list" id="repoList">
 
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/firecrawl/pdf-inspector" target="_blank">
+    
+
+
+      
+        firecrawl /
+
+      pdf-inspector</a></p>
+				<p>
+      Fast Rust library for PDF inspection, classification, and text extraction. Intelligently detects scanned vs text-based PDFs to enable smart routing decisions.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Rust</span>
+						<span>⭐ 13670</span>
+						<span>🔱 933</span>
+					</div>
+				<div class="stars-today">⭐ 8846 stars this week</div>
+				</div>
+			</div>
 	
 			<div class="repo-card">
 				<p><a href="https://github.com/zhaoxuya520/reverse-skill" target="_blank">
@@ -30,8 +52,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 PowerShell</span>
-						<span>⭐ 22029</span>
-						<span>🔱 3002</span>
+						<span>⭐ 22098</span>
+						<span>🔱 3014</span>
 					</div>
 				<div class="stars-today">⭐ 9635 stars this week</div>
 				</div>
@@ -52,8 +74,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 18485</span>
-						<span>🔱 1664</span>
+						<span>⭐ 18521</span>
+						<span>🔱 1669</span>
 					</div>
 				<div class="stars-today">⭐ 8046 stars this week</div>
 				</div>
@@ -74,32 +96,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Jupyter Notebook</span>
-						<span>⭐ 30245</span>
-						<span>🔱 3215</span>
+						<span>⭐ 30269</span>
+						<span>🔱 3219</span>
 					</div>
 				<div class="stars-today">⭐ 5711 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/microsoft/AI-For-Beginners" target="_blank">
-    
-
-
-      
-        microsoft /
-
-      AI-For-Beginners</a></p>
-				<p>
-      12 Weeks, 24 Lessons, AI for All!
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Jupyter Notebook</span>
-						<span>⭐ 63801</span>
-						<span>🔱 12361</span>
-					</div>
-				<div class="stars-today">⭐ 7469 stars this week</div>
 				</div>
 			</div>
 	
@@ -118,10 +118,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Go</span>
-						<span>⭐ 33301</span>
-						<span>🔱 2150</span>
+						<span>⭐ 33327</span>
+						<span>🔱 2153</span>
 					</div>
 				<div class="stars-today">⭐ 4704 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/microsoft/AI-For-Beginners" target="_blank">
+    
+
+
+      
+        microsoft /
+
+      AI-For-Beginners</a></p>
+				<p>
+      12 Weeks, 24 Lessons, AI for All!
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Jupyter Notebook</span>
+						<span>⭐ 63831</span>
+						<span>🔱 12368</span>
+					</div>
+				<div class="stars-today">⭐ 7469 stars this week</div>
 				</div>
 			</div>
 	
@@ -140,7 +162,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 7807</span>
+						<span>⭐ 7817</span>
 						<span>🔱 623</span>
 					</div>
 				<div class="stars-today">⭐ 2259 stars this week</div>
@@ -162,76 +184,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 19148</span>
-						<span>🔱 2056</span>
+						<span>⭐ 19194</span>
+						<span>🔱 2059</span>
 					</div>
 				<div class="stars-today">⭐ 4071 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/iv-org/invidious" target="_blank">
-    
-
-
-      
-        iv-org /
-
-      invidious</a></p>
-				<p>
-      Invidious is an alternative front-end to YouTube
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Crystal</span>
-						<span>⭐ 22494</span>
-						<span>🔱 2513</span>
-					</div>
-				<div class="stars-today">⭐ 997 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/different-ai/openwork" target="_blank">
-    
-
-
-      
-        different-ai /
-
-      openwork</a></p>
-				<p>
-      The open-source alternative to Claude Cowork (powered by opencode)
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 21662</span>
-						<span>🔱 2120</span>
-					</div>
-				<div class="stars-today">⭐ 1834 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/unclebob/swarm-forge" target="_blank">
-    
-
-
-      
-        unclebob /
-
-      swarm-forge</a></p>
-				<p>
-      A simple tool for coordinating several AI agents.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Clojure</span>
-						<span>⭐ 2006</span>
-						<span>🔱 212</span>
-					</div>
-				<div class="stars-today">⭐ 504 stars this week</div>
 				</div>
 			</div>
 	
@@ -250,32 +206,76 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 16947</span>
-						<span>🔱 1380</span>
+						<span>⭐ 16983</span>
+						<span>🔱 1384</span>
 					</div>
 				<div class="stars-today">⭐ 1143 stars this week</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/antirez/ds4" target="_blank">
+				<p><a href="https://github.com/unclebob/swarm-forge" target="_blank">
     
 
 
       
-        antirez /
+        unclebob /
 
-      ds4</a></p>
+      swarm-forge</a></p>
 				<p>
-      DeepSeek 4 Flash and PRO local inference engine for Metal, CUDA and ROCm
+      A simple tool for coordinating several AI agents.
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 C</span>
-						<span>⭐ 21010</span>
-						<span>🔱 1884</span>
+						<span>🔠 Clojure</span>
+						<span>⭐ 2016</span>
+						<span>🔱 213</span>
 					</div>
-				<div class="stars-today">⭐ 1254 stars this week</div>
+				<div class="stars-today">⭐ 504 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/iv-org/invidious" target="_blank">
+    
+
+
+      
+        iv-org /
+
+      invidious</a></p>
+				<p>
+      Invidious is an alternative front-end to YouTube
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Crystal</span>
+						<span>⭐ 22505</span>
+						<span>🔱 2513</span>
+					</div>
+				<div class="stars-today">⭐ 997 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/goauthentik/authentik" target="_blank">
+    
+
+
+      
+        goauthentik /
+
+      authentik</a></p>
+				<p>
+      The authentication glue you need.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 24119</span>
+						<span>🔱 1849</span>
+					</div>
+				<div class="stars-today">⭐ 1334 stars this week</div>
 				</div>
 			</div>
 	
@@ -294,54 +294,76 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 125055</span>
-						<span>🔱 14814</span>
+						<span>⭐ 125114</span>
+						<span>🔱 14816</span>
 					</div>
 				<div class="stars-today">⭐ 1778 stars this week</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/DataExpert-io/data-engineer-handbook" target="_blank">
+				<p><a href="https://github.com/drawdb-io/drawdb" target="_blank">
     
 
 
       
-        DataExpert-io /
+        drawdb-io /
 
-      data-engineer-handbook</a></p>
+      drawdb</a></p>
 				<p>
-      This is a repo with links to everything you'd ever want to learn about data engineering
+      Free, simple, and intuitive online database diagram editor and SQL generator.
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Jupyter Notebook</span>
-						<span>⭐ 43519</span>
-						<span>🔱 9026</span>
+						<span>🔠 JavaScript</span>
+						<span>⭐ 38535</span>
+						<span>🔱 3154</span>
 					</div>
-				<div class="stars-today">⭐ 794 stars this week</div>
+				<div class="stars-today">⭐ 312 stars this week</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/donnemartin/system-design-primer" target="_blank">
+				<p><a href="https://github.com/vitali87/code-graph-rag" target="_blank">
     
 
 
       
-        donnemartin /
+        vitali87 /
 
-      system-design-primer</a></p>
+      code-graph-rag</a></p>
 				<p>
-      Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.
+      The ultimate RAG for your monorepo. Query, understand, and edit multi-language codebases with the power of AI and knowledge graphs
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 362568</span>
-						<span>🔱 57726</span>
+						<span>⭐ 2676</span>
+						<span>🔱 455</span>
 					</div>
-				<div class="stars-today">⭐ 2606 stars this week</div>
+				<div class="stars-today">⭐ 237 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/livekit/agents" target="_blank">
+    
+
+
+      
+        livekit /
+
+      agents</a></p>
+				<p>
+      A framework for building realtime voice AI agents 🤖🎙️📹 
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 12774</span>
+						<span>🔱 3520</span>
+					</div>
+				<div class="stars-today">⭐ 1170 stars this week</div>
 				</div>
 			</div>
 	
@@ -360,10 +382,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Kotlin</span>
-						<span>⭐ 4047</span>
+						<span>⭐ 4049</span>
 						<span>🔱 401</span>
 					</div>
 				<div class="stars-today">⭐ 188 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/donnemartin/system-design-primer" target="_blank">
+    
+
+
+      
+        donnemartin /
+
+      system-design-primer</a></p>
+				<p>
+      Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 362592</span>
+						<span>🔱 57731</span>
+					</div>
+				<div class="stars-today">⭐ 2606 stars this week</div>
 				</div>
 			</div>
 	
