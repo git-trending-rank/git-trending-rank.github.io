@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2026年第33周
-date: 2026-08-10T10:51:53Z
+date: 2026-08-10T12:34:59Z
 categories:
 - weekly
 keywords:
@@ -14,6 +14,28 @@ keywords:
 	<main class="container">
         <div class="repo-list" id="repoList">
 
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/huangruiteng/loopx" target="_blank">
+    
+
+
+      
+        huangruiteng /
+
+      loopx</a></p>
+				<p>
+      Lightweight loop engineering state kernel for long-running AI agent teams. Agent-loop agnostic across Codex, Claude Code, and other coding agents, with durable goals, quota-aware auto-wake, executable todos, evidence logs, and verifiable handoffs.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 3868</span>
+						<span>🔱 313</span>
+					</div>
+				<div class="stars-today">⭐ 3518 stars this week</div>
+				</div>
+			</div>
 	
 			<div class="repo-card">
 				<p><a href="https://github.com/firecrawl/pdf-inspector" target="_blank">
@@ -30,32 +52,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Rust</span>
-						<span>⭐ 14157</span>
-						<span>🔱 962</span>
+						<span>⭐ 14197</span>
+						<span>🔱 965</span>
 					</div>
 				<div class="stars-today">⭐ 8641 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/zhaoxuya520/reverse-skill" target="_blank">
-    
-
-
-      
-        zhaoxuya520 /
-
-      reverse-skill</a></p>
-				<p>
-      Reverse Engineering / Authorized Penetration Testing / Security Research Skill Router Pack AI-powered routing + On-demand toolchain bootstrapping + Self-evolving knowledge base Supports Claude Code, Kiro, Cursor, Cline, and other AI coding clients 逆向/渗透/安全技能路由包 - AI 自动路由 + 按需自举工具链 + 自动进化经验库 | 支持 Claude Code / Kiro / Cursor / Cline 等代码 AI 客户端
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 PowerShell</span>
-						<span>⭐ 23043</span>
-						<span>🔱 3133</span>
-					</div>
-				<div class="stars-today">⭐ 9784 stars this week</div>
 				</div>
 			</div>
 	
@@ -74,7 +74,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 19132</span>
+						<span>⭐ 19186</span>
 						<span>🔱 1729</span>
 					</div>
 				<div class="stars-today">⭐ 8003 stars this week</div>
@@ -82,24 +82,24 @@ keywords:
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/lyogavin/airllm" target="_blank">
+				<p><a href="https://github.com/zhaoxuya520/reverse-skill" target="_blank">
     
 
 
       
-        lyogavin /
+        zhaoxuya520 /
 
-      airllm</a></p>
+      reverse-skill</a></p>
 				<p>
-      AirLLM 70B inference with single 4GB GPU
+      Reverse Engineering / Authorized Penetration Testing / Security Research Skill Router Pack AI-powered routing + On-demand toolchain bootstrapping + Self-evolving knowledge base Supports Claude Code, Kiro, Cursor, Cline, and other AI coding clients 逆向/渗透/安全技能路由包 - AI 自动路由 + 按需自举工具链 + 自动进化经验库 | 支持 Claude Code / Kiro / Cursor / Cline 等代码 AI 客户端
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Jupyter Notebook</span>
-						<span>⭐ 30475</span>
-						<span>🔱 3250</span>
+						<span>🔠 PowerShell</span>
+						<span>⭐ 23098</span>
+						<span>🔱 3142</span>
 					</div>
-				<div class="stars-today">⭐ 5129 stars this week</div>
+				<div class="stars-today">⭐ 9784 stars this week</div>
 				</div>
 			</div>
 	
@@ -118,7 +118,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Go</span>
-						<span>⭐ 33617</span>
+						<span>⭐ 33636</span>
 						<span>🔱 2182</span>
 					</div>
 				<div class="stars-today">⭐ 4709 stars this week</div>
@@ -126,68 +126,46 @@ keywords:
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/microsoft/AI-For-Beginners" target="_blank">
+				<p><a href="https://github.com/lyogavin/airllm" target="_blank">
     
 
 
       
-        microsoft /
+        lyogavin /
 
-      AI-For-Beginners</a></p>
+      airllm</a></p>
 				<p>
-      12 Weeks, 24 Lessons, AI for All!
+      AirLLM 70B inference with single 4GB GPU
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Jupyter Notebook</span>
-						<span>⭐ 64306</span>
-						<span>🔱 12434</span>
+						<span>⭐ 30492</span>
+						<span>🔱 3251</span>
 					</div>
-				<div class="stars-today">⭐ 5514 stars this week</div>
+				<div class="stars-today">⭐ 5129 stars this week</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/usekaneo/kaneo" target="_blank">
+				<p><a href="https://github.com/semantica-agi/semantica" target="_blank">
     
 
 
       
-        usekaneo /
+        semantica-agi /
 
-      kaneo</a></p>
+      semantica</a></p>
 				<p>
-      🎯 All you need. Nothing you don't. Open source project management that works for you, not against you.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 7984</span>
-						<span>🔱 634</span>
-					</div>
-				<div class="stars-today">⭐ 1952 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/virgiliojr94/book-to-skill" target="_blank">
-    
-
-
-      
-        virgiliojr94 /
-
-      book-to-skill</a></p>
-				<p>
-      Turn any technical book PDF into a Claude Code skill — ready to study, reference, and use while you work.
+      Graph-Native Infrastructure for Context and Accountable AI Systems
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 19716</span>
-						<span>🔱 2113</span>
+						<span>⭐ 3696</span>
+						<span>🔱 421</span>
 					</div>
-				<div class="stars-today">⭐ 4121 stars this week</div>
+				<div class="stars-today">⭐ 1102 stars this week</div>
 				</div>
 			</div>
 	
@@ -206,10 +184,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 17494</span>
+						<span>⭐ 17515</span>
 						<span>🔱 1403</span>
 					</div>
 				<div class="stars-today">⭐ 1626 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/virgiliojr94/book-to-skill" target="_blank">
+    
+
+
+      
+        virgiliojr94 /
+
+      book-to-skill</a></p>
+				<p>
+      Turn any technical book PDF into a Claude Code skill — ready to study, reference, and use while you work.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 19760</span>
+						<span>🔱 2117</span>
+					</div>
+				<div class="stars-today">⭐ 4121 stars this week</div>
 				</div>
 			</div>
 	
@@ -228,76 +228,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Clojure</span>
-						<span>⭐ 2086</span>
+						<span>⭐ 2089</span>
 						<span>🔱 220</span>
 					</div>
 				<div class="stars-today">⭐ 562 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/iv-org/invidious" target="_blank">
-    
-
-
-      
-        iv-org /
-
-      invidious</a></p>
-				<p>
-      Invidious is an alternative front-end to YouTube
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Crystal</span>
-						<span>⭐ 22571</span>
-						<span>🔱 2516</span>
-					</div>
-				<div class="stars-today">⭐ 778 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/goauthentik/authentik" target="_blank">
-    
-
-
-      
-        goauthentik /
-
-      authentik</a></p>
-				<p>
-      The authentication glue you need.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 24440</span>
-						<span>🔱 1868</span>
-					</div>
-				<div class="stars-today">⭐ 1579 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/Comfy-Org/ComfyUI" target="_blank">
-    
-
-
-      
-        Comfy-Org /
-
-      ComfyUI</a></p>
-				<p>
-      The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 125966</span>
-						<span>🔱 14879</span>
-					</div>
-				<div class="stars-today">⭐ 2018 stars this week</div>
 				</div>
 			</div>
 	
@@ -316,10 +250,76 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 JavaScript</span>
-						<span>⭐ 38697</span>
+						<span>⭐ 38707</span>
 						<span>🔱 3164</span>
 					</div>
 				<div class="stars-today">⭐ 331 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/usekaneo/kaneo" target="_blank">
+    
+
+
+      
+        usekaneo /
+
+      kaneo</a></p>
+				<p>
+      🎯 All you need. Nothing you don't. Open source project management that works for you, not against you.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 7993</span>
+						<span>🔱 636</span>
+					</div>
+				<div class="stars-today">⭐ 1952 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/microsoft/AI-For-Beginners" target="_blank">
+    
+
+
+      
+        microsoft /
+
+      AI-For-Beginners</a></p>
+				<p>
+      12 Weeks, 24 Lessons, AI for All!
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Jupyter Notebook</span>
+						<span>⭐ 64321</span>
+						<span>🔱 12440</span>
+					</div>
+				<div class="stars-today">⭐ 5514 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/Comfy-Org/ComfyUI" target="_blank">
+    
+
+
+      
+        Comfy-Org /
+
+      ComfyUI</a></p>
+				<p>
+      The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 126012</span>
+						<span>🔱 14880</span>
+					</div>
+				<div class="stars-today">⭐ 2018 stars this week</div>
 				</div>
 			</div>
 	
@@ -338,76 +338,54 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 3325</span>
-						<span>🔱 538</span>
+						<span>⭐ 3360</span>
+						<span>🔱 539</span>
 					</div>
 				<div class="stars-today">⭐ 236 stars this week</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/livekit/agents" target="_blank">
+				<p><a href="https://github.com/goauthentik/authentik" target="_blank">
     
 
 
       
-        livekit /
+        goauthentik /
 
-      agents</a></p>
+      authentik</a></p>
 				<p>
-      A framework for building realtime voice AI agents 🤖🎙️📹 
+      The authentication glue you need.
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 12880</span>
-						<span>🔱 3535</span>
+						<span>⭐ 24451</span>
+						<span>🔱 1869</span>
 					</div>
-				<div class="stars-today">⭐ 1138 stars this week</div>
+				<div class="stars-today">⭐ 1579 stars this week</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/embabel/embabel-agent" target="_blank">
+				<p><a href="https://github.com/DataExpert-io/data-engineer-handbook" target="_blank">
     
 
 
       
-        embabel /
+        DataExpert-io /
 
-      embabel-agent</a></p>
+      data-engineer-handbook</a></p>
 				<p>
-      Agent framework for the JVM. Pronounced Em-BAY-bel /ɛmˈbeɪbəl/
+      This is a repo with links to everything you'd ever want to learn about data engineering
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Kotlin</span>
-						<span>⭐ 4079</span>
-						<span>🔱 402</span>
+						<span>🔠 Jupyter Notebook</span>
+						<span>⭐ 43561</span>
+						<span>🔱 9081</span>
 					</div>
-				<div class="stars-today">⭐ 195 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/donnemartin/system-design-primer" target="_blank">
-    
-
-
-      
-        donnemartin /
-
-      system-design-primer</a></p>
-				<p>
-      Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 362884</span>
-						<span>🔱 57768</span>
-					</div>
-				<div class="stars-today">⭐ 2724 stars this week</div>
+				<div class="stars-today">⭐ 824 stars this week</div>
 				</div>
 			</div>
 	

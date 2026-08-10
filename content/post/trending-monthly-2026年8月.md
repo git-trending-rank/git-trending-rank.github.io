@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2026年8月
-date: 2026-08-10T10:51:53Z
+date: 2026-08-10T12:34:59Z
 categories:
 - monthly
 keywords:
@@ -30,8 +30,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 44708</span>
-						<span>🔱 5996</span>
+						<span>⭐ 44782</span>
+						<span>🔱 6009</span>
 					</div>
 				<div class="stars-today">⭐ 30114 stars this month</div>
 				</div>
@@ -52,7 +52,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 CSS</span>
-						<span>⭐ 23324</span>
+						<span>⭐ 23352</span>
 						<span>🔱 1191</span>
 					</div>
 				<div class="stars-today">⭐ 19383 stars this month</div>
@@ -74,8 +74,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 80364</span>
-						<span>🔱 12015</span>
+						<span>⭐ 80389</span>
+						<span>🔱 12020</span>
 					</div>
 				<div class="stars-today">⭐ 18846 stars this month</div>
 				</div>
@@ -96,8 +96,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Rust</span>
-						<span>⭐ 16688</span>
-						<span>🔱 1882</span>
+						<span>⭐ 16698</span>
+						<span>🔱 1883</span>
 					</div>
 				<div class="stars-today">⭐ 8441 stars this month</div>
 				</div>
@@ -118,10 +118,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 41275</span>
-						<span>🔱 2888</span>
+						<span>⭐ 41342</span>
+						<span>🔱 2892</span>
 					</div>
 				<div class="stars-today">⭐ 26197 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/zhaoxuya520/reverse-skill" target="_blank">
+    
+
+
+      
+        zhaoxuya520 /
+
+      reverse-skill</a></p>
+				<p>
+      Reverse Engineering / Authorized Penetration Testing / Security Research Skill Router Pack AI-powered routing + On-demand toolchain bootstrapping + Self-evolving knowledge base Supports Claude Code, Kiro, Cursor, Cline, and other AI coding clients 逆向/渗透/安全技能路由包 - AI 自动路由 + 按需自举工具链 + 自动进化经验库 | 支持 Claude Code / Kiro / Cursor / Cline 等代码 AI 客户端
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 PowerShell</span>
+						<span>⭐ 23098</span>
+						<span>🔱 3142</span>
+					</div>
+				<div class="stars-today">⭐ 14667 stars this month</div>
 				</div>
 			</div>
 	
@@ -138,8 +160,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 17830</span>
-						<span>🔱 4030</span>
+						<span>⭐ 17856</span>
+						<span>🔱 4034</span>
 					</div>
 				<div class="stars-today">⭐ 4164 stars this month</div>
 				</div>
@@ -160,76 +182,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 33508</span>
-						<span>🔱 4325</span>
+						<span>⭐ 33589</span>
+						<span>🔱 4328</span>
 					</div>
 				<div class="stars-today">⭐ 8060 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/zhaoxuya520/reverse-skill" target="_blank">
-    
-
-
-      
-        zhaoxuya520 /
-
-      reverse-skill</a></p>
-				<p>
-      Reverse Engineering / Authorized Penetration Testing / Security Research Skill Router Pack AI-powered routing + On-demand toolchain bootstrapping + Self-evolving knowledge base Supports Claude Code, Kiro, Cursor, Cline, and other AI coding clients 逆向/渗透/安全技能路由包 - AI 自动路由 + 按需自举工具链 + 自动进化经验库 | 支持 Claude Code / Kiro / Cursor / Cline 等代码 AI 客户端
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 PowerShell</span>
-						<span>⭐ 23043</span>
-						<span>🔱 3133</span>
-					</div>
-				<div class="stars-today">⭐ 14667 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/microsoft/AI-For-Beginners" target="_blank">
-    
-
-
-      
-        microsoft /
-
-      AI-For-Beginners</a></p>
-				<p>
-      12 Weeks, 24 Lessons, AI for All!
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Jupyter Notebook</span>
-						<span>⭐ 64306</span>
-						<span>🔱 12434</span>
-					</div>
-				<div class="stars-today">⭐ 12125 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/OpenCut-app/OpenCut" target="_blank">
-    
-
-
-      
-        OpenCut-app /
-
-      OpenCut</a></p>
-				<p>
-      The open-source CapCut alternative
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 82003</span>
-						<span>🔱 8109</span>
-					</div>
-				<div class="stars-today">⭐ 20310 stars this month</div>
 				</div>
 			</div>
 	
@@ -248,8 +204,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 11176</span>
-						<span>🔱 1289</span>
+						<span>⭐ 11187</span>
+						<span>🔱 1291</span>
 					</div>
 				<div class="stars-today">⭐ 6888 stars this month</div>
 				</div>
@@ -270,32 +226,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Shell</span>
-						<span>⭐ 211944</span>
-						<span>🔱 18315</span>
+						<span>⭐ 212041</span>
+						<span>🔱 18322</span>
 					</div>
 				<div class="stars-today">⭐ 49380 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/tt-a1i/archify" target="_blank">
-    
-
-
-      
-        tt-a1i /
-
-      archify</a></p>
-				<p>
-      Agent skill for beautiful, verifiable architecture, workflow, sequence, data-flow, and lifecycle diagrams—self-contained HTML with motion and crisp export.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 HTML</span>
-						<span>⭐ 11068</span>
-						<span>🔱 854</span>
-					</div>
-				<div class="stars-today">⭐ 7736 stars this month</div>
 				</div>
 			</div>
 	
@@ -314,7 +248,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 19132</span>
+						<span>⭐ 19186</span>
 						<span>🔱 1729</span>
 					</div>
 				<div class="stars-today">⭐ 10707 stars this month</div>
@@ -322,24 +256,46 @@ keywords:
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/Shubhamsaboo/awesome-llm-apps" target="_blank">
+				<p><a href="https://github.com/kangarooking/cangjie-skill" target="_blank">
     
 
 
       
-        Shubhamsaboo /
+        kangarooking /
 
-      awesome-llm-apps</a></p>
+      cangjie-skill</a></p>
 				<p>
-      100+ AI Agents, Agent Skills and RAG Apps - Free and Open Source.
+      把书、长视频、播客等高价值内容蒸馏成可执行的 Agent Skills
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 131862</span>
-						<span>🔱 19417</span>
+						<span>⭐ 6898</span>
+						<span>🔱 865</span>
 					</div>
-				<div class="stars-today">⭐ 15170 stars this month</div>
+				<div class="stars-today">⭐ 4609 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/tt-a1i/archify" target="_blank">
+    
+
+
+      
+        tt-a1i /
+
+      archify</a></p>
+				<p>
+      Agent skill for beautiful, verifiable architecture, workflow, sequence, data-flow, and lifecycle diagrams—self-contained HTML with motion and crisp export.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 HTML</span>
+						<span>⭐ 11092</span>
+						<span>🔱 854</span>
+					</div>
+				<div class="stars-today">⭐ 7736 stars this month</div>
 				</div>
 			</div>
 	
@@ -358,10 +314,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 86385</span>
-						<span>🔱 10726</span>
+						<span>⭐ 86435</span>
+						<span>🔱 10732</span>
 					</div>
 				<div class="stars-today">⭐ 17130 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/OpenCut-app/OpenCut" target="_blank">
+    
+
+
+      
+        OpenCut-app /
+
+      OpenCut</a></p>
+				<p>
+      The open-source CapCut alternative
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 82022</span>
+						<span>🔱 8109</span>
+					</div>
+				<div class="stars-today">⭐ 20310 stars this month</div>
 				</div>
 			</div>
 	
@@ -380,8 +358,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 29654</span>
-						<span>🔱 2715</span>
+						<span>⭐ 29659</span>
+						<span>🔱 2716</span>
 					</div>
 				<div class="stars-today">⭐ 10341 stars this month</div>
 				</div>
@@ -402,10 +380,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 19716</span>
-						<span>🔱 2113</span>
+						<span>⭐ 19760</span>
+						<span>🔱 2117</span>
 					</div>
 				<div class="stars-today">⭐ 10969 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/Shubhamsaboo/awesome-llm-apps" target="_blank">
+    
+
+
+      
+        Shubhamsaboo /
+
+      awesome-llm-apps</a></p>
+				<p>
+      100+ AI Agents, Agent Skills and RAG Apps - Free and Open Source.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 131877</span>
+						<span>🔱 19423</span>
+					</div>
+				<div class="stars-today">⭐ 15170 stars this month</div>
 				</div>
 			</div>
 	
@@ -424,32 +424,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 11963</span>
-						<span>🔱 1470</span>
+						<span>⭐ 11975</span>
+						<span>🔱 1472</span>
 					</div>
 				<div class="stars-today">⭐ 6184 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/iOfficeAI/OfficeCLI" target="_blank">
-    
-
-
-      
-        iOfficeAI /
-
-      OfficeCLI</a></p>
-				<p>
-      OfficeCLI is the first and best Office suite purpose-built for AI agents to read, edit, and automate Word, Excel, and PowerPoint files. Free, open-source, single binary, no Office installation required.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 C#</span>
-						<span>⭐ 27335</span>
-						<span>🔱 1852</span>
-					</div>
-				<div class="stars-today">⭐ 14276 stars this month</div>
 				</div>
 			</div>
 	
@@ -468,7 +446,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 3902</span>
+						<span>⭐ 3903</span>
 						<span>🔱 539</span>
 					</div>
 				<div class="stars-today">⭐ 2781 stars this month</div>
@@ -476,24 +454,24 @@ keywords:
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/bradautomates/claude-video" target="_blank">
+				<p><a href="https://github.com/MoonshotAI/kimi-code" target="_blank">
     
 
 
       
-        bradautomates /
+        MoonshotAI /
 
-      claude-video</a></p>
+      kimi-code</a></p>
 				<p>
-      Give Claude the ability to watch any video. /watch downloads, extracts frames, transcribes, hands it all to Claude.
+      Kimi Code CLI — The Starting Point for Next-Gen Agents
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 14854</span>
-						<span>🔱 1417</span>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 6264</span>
+						<span>🔱 990</span>
 					</div>
-				<div class="stars-today">⭐ 8376 stars this month</div>
+				<div class="stars-today">⭐ 3240 stars this month</div>
 				</div>
 			</div>
 	
