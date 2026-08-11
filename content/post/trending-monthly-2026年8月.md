@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2026年8月
-date: 2026-08-11T10:37:38Z
+date: 2026-08-11T12:31:14Z
 categories:
 - monthly
 keywords:
@@ -30,32 +30,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 45526</span>
-						<span>🔱 6114</span>
+						<span>⭐ 45593</span>
+						<span>🔱 6124</span>
 					</div>
 				<div class="stars-today">⭐ 30445 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/Nutlope/hallmark" target="_blank">
-    
-
-
-      
-        Nutlope /
-
-      hallmark</a></p>
-				<p>
-      Anti-AI-slop design skill for Claude Code, Cursor, and Codex.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 CSS</span>
-						<span>⭐ 23663</span>
-						<span>🔱 1205</span>
-					</div>
-				<div class="stars-today">⭐ 19841 stars this month</div>
 				</div>
 			</div>
 	
@@ -74,10 +52,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 80623</span>
-						<span>🔱 12047</span>
+						<span>⭐ 80648</span>
+						<span>🔱 12050</span>
 					</div>
 				<div class="stars-today">⭐ 19125 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/Nutlope/hallmark" target="_blank">
+    
+
+
+      
+        Nutlope /
+
+      hallmark</a></p>
+				<p>
+      Anti-AI-slop design skill for Claude Code, Cursor, and Codex.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 CSS</span>
+						<span>⭐ 23690</span>
+						<span>🔱 1206</span>
+					</div>
+				<div class="stars-today">⭐ 19841 stars this month</div>
 				</div>
 			</div>
 	
@@ -96,32 +96,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Rust</span>
-						<span>⭐ 17030</span>
-						<span>🔱 1916</span>
+						<span>⭐ 17055</span>
+						<span>🔱 1921</span>
 					</div>
 				<div class="stars-today">⭐ 8576 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/stablyai/orca" target="_blank">
-    
-
-
-      
-        stablyai /
-
-      orca</a></p>
-				<p>
-      Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop, mobile and VPS.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 42112</span>
-						<span>🔱 2943</span>
-					</div>
-				<div class="stars-today">⭐ 26074 stars this month</div>
 				</div>
 			</div>
 	
@@ -140,30 +118,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 PowerShell</span>
-						<span>⭐ 23685</span>
-						<span>🔱 3215</span>
+						<span>⭐ 23741</span>
+						<span>🔱 3227</span>
 					</div>
 				<div class="stars-today">⭐ 15571 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/pingdotgg/t3code" target="_blank">
-    
-
-
-      
-        pingdotgg /
-
-      t3code</a></p>
-				<p></p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 18153</span>
-						<span>🔱 4091</span>
-					</div>
-				<div class="stars-today">⭐ 4506 stars this month</div>
 				</div>
 			</div>
 	
@@ -182,54 +140,52 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 34302</span>
-						<span>🔱 4393</span>
+						<span>⭐ 34355</span>
+						<span>🔱 4397</span>
 					</div>
 				<div class="stars-today">⭐ 8346 stars this month</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/every-app/open-seo" target="_blank">
+				<p><a href="https://github.com/stablyai/orca" target="_blank">
     
 
 
       
-        every-app /
+        stablyai /
 
-      open-seo</a></p>
+      orca</a></p>
 				<p>
-      Open source alternative to Semrush and Ahrefs
+      Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop, mobile and VPS.
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 11285</span>
-						<span>🔱 1301</span>
+						<span>⭐ 42192</span>
+						<span>🔱 2946</span>
 					</div>
-				<div class="stars-today">⭐ 7031 stars this month</div>
+				<div class="stars-today">⭐ 26074 stars this month</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/mattpocock/skills" target="_blank">
+				<p><a href="https://github.com/pingdotgg/t3code" target="_blank">
     
 
 
       
-        mattpocock /
+        pingdotgg /
 
-      skills</a></p>
-				<p>
-      Skills for Real Engineers. Straight from my .agents directory.
-    </p>
+      t3code</a></p>
+				<p></p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Shell</span>
-						<span>⭐ 213236</span>
-						<span>🔱 18406</span>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 18175</span>
+						<span>🔱 4097</span>
 					</div>
-				<div class="stars-today">⭐ 49125 stars this month</div>
+				<div class="stars-today">⭐ 4506 stars this month</div>
 				</div>
 			</div>
 	
@@ -248,32 +204,54 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 19678</span>
-						<span>🔱 1776</span>
+						<span>⭐ 19710</span>
+						<span>🔱 1778</span>
 					</div>
 				<div class="stars-today">⭐ 11255 stars this month</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/kangarooking/cangjie-skill" target="_blank">
+				<p><a href="https://github.com/mattpocock/skills" target="_blank">
     
 
 
       
-        kangarooking /
+        mattpocock /
 
-      cangjie-skill</a></p>
+      skills</a></p>
 				<p>
-      把书、长视频、播客等高价值内容蒸馏成可执行的 Agent Skills
+      Skills for Real Engineers. Straight from my .agents directory.
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 7156</span>
-						<span>🔱 893</span>
+						<span>🔠 Shell</span>
+						<span>⭐ 213340</span>
+						<span>🔱 18411</span>
 					</div>
-				<div class="stars-today">⭐ 4632 stars this month</div>
+				<div class="stars-today">⭐ 49125 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/every-app/open-seo" target="_blank">
+    
+
+
+      
+        every-app /
+
+      open-seo</a></p>
+				<p>
+      Open source alternative to Semrush and Ahrefs
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 11290</span>
+						<span>🔱 1304</span>
+					</div>
+				<div class="stars-today">⭐ 7031 stars this month</div>
 				</div>
 			</div>
 	
@@ -292,8 +270,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 HTML</span>
-						<span>⭐ 11312</span>
-						<span>🔱 866</span>
+						<span>⭐ 11335</span>
+						<span>🔱 867</span>
 					</div>
 				<div class="stars-today">⭐ 7900 stars this month</div>
 				</div>
@@ -314,54 +292,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 87263</span>
-						<span>🔱 10849</span>
+						<span>⭐ 87347</span>
+						<span>🔱 10859</span>
 					</div>
 				<div class="stars-today">⭐ 17394 stars this month</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/OpenCut-app/OpenCut" target="_blank">
+				<p><a href="https://github.com/kangarooking/cangjie-skill" target="_blank">
     
 
 
       
-        OpenCut-app /
+        kangarooking /
 
-      OpenCut</a></p>
+      cangjie-skill</a></p>
 				<p>
-      The open-source CapCut alternative
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 82260</span>
-						<span>🔱 8132</span>
-					</div>
-				<div class="stars-today">⭐ 20412 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/tirth8205/code-review-graph" target="_blank">
-    
-
-
-      
-        tirth8205 /
-
-      code-review-graph</a></p>
-				<p>
-      Local-first code intelligence graph for MCP and CLI. Builds a persistent map of your codebase so AI coding tools read only what matters, with benchmarked context reductions on reviews and large-repo workflows.
+      把书、长视频、播客等高价值内容蒸馏成可执行的 Agent Skills
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 29770</span>
-						<span>🔱 2725</span>
+						<span>⭐ 7178</span>
+						<span>🔱 895</span>
 					</div>
-				<div class="stars-today">⭐ 10435 stars this month</div>
+				<div class="stars-today">⭐ 4632 stars this month</div>
 				</div>
 			</div>
 	
@@ -380,32 +336,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 20285</span>
-						<span>🔱 2150</span>
+						<span>⭐ 20321</span>
+						<span>🔱 2153</span>
 					</div>
 				<div class="stars-today">⭐ 11470 stars this month</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/Shubhamsaboo/awesome-llm-apps" target="_blank">
+				<p><a href="https://github.com/tirth8205/code-review-graph" target="_blank">
     
 
 
       
-        Shubhamsaboo /
+        tirth8205 /
 
-      awesome-llm-apps</a></p>
+      code-review-graph</a></p>
 				<p>
-      100+ AI Agents, Agent Skills and RAG Apps - Free and Open Source.
+      Local-first code intelligence graph for MCP and CLI. Builds a persistent map of your codebase so AI coding tools read only what matters, with benchmarked context reductions on reviews and large-repo workflows.
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 132067</span>
-						<span>🔱 19439</span>
+						<span>⭐ 29776</span>
+						<span>🔱 2725</span>
 					</div>
-				<div class="stars-today">⭐ 15049 stars this month</div>
+				<div class="stars-today">⭐ 10435 stars this month</div>
 				</div>
 			</div>
 	
@@ -424,8 +380,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 12074</span>
-						<span>🔱 1481</span>
+						<span>⭐ 12080</span>
+						<span>🔱 1484</span>
 					</div>
 				<div class="stars-today">⭐ 6179 stars this month</div>
 				</div>
@@ -446,10 +402,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 3983</span>
-						<span>🔱 553</span>
+						<span>⭐ 3989</span>
+						<span>🔱 555</span>
 					</div>
 				<div class="stars-today">⭐ 2848 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/OpenCut-app/OpenCut" target="_blank">
+    
+
+
+      
+        OpenCut-app /
+
+      OpenCut</a></p>
+				<p>
+      The open-source CapCut alternative
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 82288</span>
+						<span>🔱 8135</span>
+					</div>
+				<div class="stars-today">⭐ 20412 stars this month</div>
 				</div>
 			</div>
 	
@@ -468,10 +446,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 6348</span>
-						<span>🔱 1006</span>
+						<span>⭐ 6350</span>
+						<span>🔱 1009</span>
 					</div>
 				<div class="stars-today">⭐ 3269 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/iOfficeAI/OfficeCLI" target="_blank">
+    
+
+
+      
+        iOfficeAI /
+
+      OfficeCLI</a></p>
+				<p>
+      OfficeCLI is the first and best Office suite purpose-built for AI agents to read, edit, and automate Word, Excel, and PowerPoint files. Free, open-source, single binary, no Office installation required.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 C#</span>
+						<span>⭐ 27615</span>
+						<span>🔱 1870</span>
+					</div>
+				<div class="stars-today">⭐ 13309 stars this month</div>
 				</div>
 			</div>
 	

@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2026年第33周
-date: 2026-08-11T10:37:38Z
+date: 2026-08-11T12:31:14Z
 categories:
 - weekly
 keywords:
@@ -14,6 +14,28 @@ keywords:
 	<main class="container">
         <div class="repo-list" id="repoList">
 
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/cloudflare/computer" target="_blank">
+    
+
+
+      
+        cloudflare /
+
+      computer</a></p>
+				<p>
+      Give your agent a computer 👾
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 7505</span>
+						<span>🔱 401</span>
+					</div>
+				<div class="stars-today">⭐ 6807 stars this week</div>
+				</div>
+			</div>
 	
 			<div class="repo-card">
 				<p><a href="https://github.com/huangruiteng/loopx" target="_blank">
@@ -30,8 +52,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 4074</span>
-						<span>🔱 326</span>
+						<span>⭐ 4087</span>
+						<span>🔱 327</span>
 					</div>
 				<div class="stars-today">⭐ 2947 stars this week</div>
 				</div>
@@ -52,8 +74,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Rust</span>
-						<span>⭐ 14535</span>
-						<span>🔱 998</span>
+						<span>⭐ 14559</span>
+						<span>🔱 1000</span>
 					</div>
 				<div class="stars-today">⭐ 7143 stars this week</div>
 				</div>
@@ -74,10 +96,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 19678</span>
-						<span>🔱 1776</span>
+						<span>⭐ 19710</span>
+						<span>🔱 1778</span>
 					</div>
 				<div class="stars-today">⭐ 7555 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/semantica-agi/semantica" target="_blank">
+    
+
+
+      
+        semantica-agi /
+
+      semantica</a></p>
+				<p>
+      Graph-Native Infrastructure for Context and Accountable AI Systems
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 4569</span>
+						<span>🔱 508</span>
+					</div>
+				<div class="stars-today">⭐ 2009 stars this week</div>
 				</div>
 			</div>
 	
@@ -96,8 +140,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 PowerShell</span>
-						<span>⭐ 23685</span>
-						<span>🔱 3215</span>
+						<span>⭐ 23741</span>
+						<span>🔱 3227</span>
 					</div>
 				<div class="stars-today">⭐ 8182 stars this week</div>
 				</div>
@@ -118,54 +162,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Go</span>
-						<span>⭐ 33875</span>
+						<span>⭐ 33891</span>
 						<span>🔱 2209</span>
 					</div>
 				<div class="stars-today">⭐ 4109 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/lyogavin/airllm" target="_blank">
-    
-
-
-      
-        lyogavin /
-
-      airllm</a></p>
-				<p>
-      AirLLM 70B inference with single 4GB GPU
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Jupyter Notebook</span>
-						<span>⭐ 30676</span>
-						<span>🔱 3263</span>
-					</div>
-				<div class="stars-today">⭐ 4042 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/semantica-agi/semantica" target="_blank">
-    
-
-
-      
-        semantica-agi /
-
-      semantica</a></p>
-				<p>
-      Graph-Native Infrastructure for Context and Accountable AI Systems
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 4524</span>
-						<span>🔱 500</span>
-					</div>
-				<div class="stars-today">⭐ 2009 stars this week</div>
 				</div>
 			</div>
 	
@@ -184,10 +184,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 17698</span>
+						<span>⭐ 17709</span>
 						<span>🔱 1414</span>
 					</div>
 				<div class="stars-today">⭐ 2159 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/vitali87/code-graph-rag" target="_blank">
+    
+
+
+      
+        vitali87 /
+
+      code-graph-rag</a></p>
+				<p>
+      The ultimate RAG for your monorepo. Query, understand, and edit multi-language codebases with the power of AI and knowledge graphs
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 3693</span>
+						<span>🔱 555</span>
+					</div>
+				<div class="stars-today">⭐ 920 stars this week</div>
 				</div>
 			</div>
 	
@@ -206,8 +228,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 20285</span>
-						<span>🔱 2150</span>
+						<span>⭐ 20321</span>
+						<span>🔱 2153</span>
 					</div>
 				<div class="stars-today">⭐ 4113 stars this week</div>
 				</div>
@@ -228,7 +250,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Clojure</span>
-						<span>⭐ 2142</span>
+						<span>⭐ 2144</span>
 						<span>🔱 224</span>
 					</div>
 				<div class="stars-today">⭐ 627 stars this week</div>
@@ -250,54 +272,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 JavaScript</span>
-						<span>⭐ 38808</span>
+						<span>⭐ 38813</span>
 						<span>🔱 3167</span>
 					</div>
 				<div class="stars-today">⭐ 503 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/usekaneo/kaneo" target="_blank">
-    
-
-
-      
-        usekaneo /
-
-      kaneo</a></p>
-				<p>
-      🎯 All you need. Nothing you don't. Open source project management that works for you, not against you.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 8098</span>
-						<span>🔱 642</span>
-					</div>
-				<div class="stars-today">⭐ 1396 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/microsoft/AI-For-Beginners" target="_blank">
-    
-
-
-      
-        microsoft /
-
-      AI-For-Beginners</a></p>
-				<p>
-      12 Weeks, 24 Lessons, AI for All!
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Jupyter Notebook</span>
-						<span>⭐ 64542</span>
-						<span>🔱 12488</span>
-					</div>
-				<div class="stars-today">⭐ 4028 stars this week</div>
 				</div>
 			</div>
 	
@@ -316,32 +294,54 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 126659</span>
-						<span>🔱 14919</span>
+						<span>⭐ 126702</span>
+						<span>🔱 14921</span>
 					</div>
 				<div class="stars-today">⭐ 2842 stars this week</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/vitali87/code-graph-rag" target="_blank">
+				<p><a href="https://github.com/lyogavin/airllm" target="_blank">
     
 
 
       
-        vitali87 /
+        lyogavin /
 
-      code-graph-rag</a></p>
+      airllm</a></p>
 				<p>
-      The ultimate RAG for your monorepo. Query, understand, and edit multi-language codebases with the power of AI and knowledge graphs
+      AirLLM 70B inference with single 4GB GPU
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 3673</span>
-						<span>🔱 554</span>
+						<span>🔠 Jupyter Notebook</span>
+						<span>⭐ 30694</span>
+						<span>🔱 3263</span>
 					</div>
-				<div class="stars-today">⭐ 920 stars this week</div>
+				<div class="stars-today">⭐ 4042 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/LadybirdBrowser/ladybird" target="_blank">
+    
+
+
+      
+        LadybirdBrowser /
+
+      ladybird</a></p>
+				<p>
+      Truly independent web browser
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 C++</span>
+						<span>⭐ 65366</span>
+						<span>🔱 3124</span>
+					</div>
+				<div class="stars-today">⭐ 508 stars this week</div>
 				</div>
 			</div>
 	
@@ -360,32 +360,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 24561</span>
-						<span>🔱 1880</span>
+						<span>⭐ 24572</span>
+						<span>🔱 1883</span>
 					</div>
 				<div class="stars-today">⭐ 1912 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/DataExpert-io/data-engineer-handbook" target="_blank">
-    
-
-
-      
-        DataExpert-io /
-
-      data-engineer-handbook</a></p>
-				<p>
-      This is a repo with links to everything you'd ever want to learn about data engineering
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Jupyter Notebook</span>
-						<span>⭐ 43650</span>
-						<span>🔱 9105</span>
-					</div>
-				<div class="stars-today">⭐ 781 stars this week</div>
 				</div>
 			</div>
 	

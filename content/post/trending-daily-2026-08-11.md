@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2026-08-11
-date: 2026-08-11T10:37:38Z
+date: 2026-08-11T12:31:14Z
 categories:
 - daily
 keywords:
@@ -14,28 +14,6 @@ keywords:
 	<main class="container">
         <div class="repo-list" id="repoList">
 
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/semantica-agi/semantica" target="_blank">
-    
-
-
-      
-        semantica-agi /
-
-      semantica</a></p>
-				<p>
-      Graph-Native Infrastructure for Context and Accountable AI Systems
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 4524</span>
-						<span>🔱 500</span>
-					</div>
-				<div class="stars-today">⭐ 970 stars today</div>
-				</div>
-			</div>
 	
 			<div class="repo-card">
 				<p><a href="https://github.com/msitarzewski/agency-agents" target="_blank">
@@ -52,32 +30,54 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Shell</span>
-						<span>⭐ 142205</span>
-						<span>🔱 23173</span>
+						<span>⭐ 142343</span>
+						<span>🔱 23185</span>
 					</div>
-				<div class="stars-today">⭐ 1349 stars today</div>
+				<div class="stars-today">⭐ 971 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/NanmiCoder/MediaCrawler" target="_blank">
+				<p><a href="https://github.com/semantica-agi/semantica" target="_blank">
     
 
 
       
-        NanmiCoder /
+        semantica-agi /
 
-      MediaCrawler</a></p>
+      semantica</a></p>
 				<p>
-      小红书笔记 | 评论爬虫、抖音视频 | 评论爬虫、快手视频 | 评论爬虫、B 站视频 ｜ 评论爬虫、微博帖子 ｜ 评论爬虫、百度贴吧帖子 ｜ 百度贴吧评论回复爬虫 | 知乎问答文章｜评论爬虫
+      Graph-Native Infrastructure for Context and Accountable AI Systems
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 61617</span>
-						<span>🔱 12074</span>
+						<span>⭐ 4569</span>
+						<span>🔱 508</span>
 					</div>
-				<div class="stars-today">⭐ 259 stars today</div>
+				<div class="stars-today">⭐ 884 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/nvm-sh/nvm" target="_blank">
+    
+
+
+      
+        nvm-sh /
+
+      nvm</a></p>
+				<p>
+      Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Shell</span>
+						<span>⭐ 94416</span>
+						<span>🔱 10348</span>
+					</div>
+				<div class="stars-today">⭐ 18 stars today</div>
 				</div>
 			</div>
 	
@@ -96,184 +96,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 JavaScript</span>
-						<span>⭐ 86006</span>
-						<span>🔱 9251</span>
+						<span>⭐ 86037</span>
+						<span>🔱 9254</span>
 					</div>
-				<div class="stars-today">⭐ 659 stars today</div>
+				<div class="stars-today">⭐ 571 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/paperclipai/paperclip" target="_blank">
+				<p><a href="https://github.com/ZhuLinsen/daily_stock_analysis" target="_blank">
     
 
 
       
-        paperclipai /
+        ZhuLinsen /
 
-      paperclip</a></p>
+      daily_stock_analysis</a></p>
 				<p>
-      The open-source app everyone uses to manage agents at work
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 76868</span>
-						<span>🔱 14221</span>
-					</div>
-				<div class="stars-today">⭐ 198 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/PrimeIntellect-ai/prime-agent" target="_blank">
-    
-
-
-      
-        PrimeIntellect-ai /
-
-      prime-agent</a></p>
-				<p>
-      A self-improving RLM agent for coding workflows and long-running autonomous tasks.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 13566</span>
-						<span>🔱 1395</span>
-					</div>
-				<div class="stars-today">⭐ 2642 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/LadybirdBrowser/ladybird" target="_blank">
-    
-
-
-      
-        LadybirdBrowser /
-
-      ladybird</a></p>
-				<p>
-      Truly independent web browser
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 C++</span>
-						<span>⭐ 65356</span>
-						<span>🔱 3124</span>
-					</div>
-				<div class="stars-today">⭐ 56 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/ruvnet/RuView" target="_blank">
-    
-
-
-      
-        ruvnet /
-
-      RuView</a></p>
-				<p>
-      π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Rust</span>
-						<span>⭐ 89554</span>
-						<span>🔱 11902</span>
-					</div>
-				<div class="stars-today">⭐ 154 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/danielmiessler/LifeOS" target="_blank">
-    
-
-
-      
-        danielmiessler /
-
-      LifeOS</a></p>
-				<p>
-      ⛰️A General Hill-climbing AI harness that helps you move from Current State to Ideal State in both Life and Work.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 18195</span>
-						<span>🔱 2379</span>
-					</div>
-				<div class="stars-today">⭐ 315 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/firecrawl/firecrawl" target="_blank">
-    
-
-
-      
-        firecrawl /
-
-      firecrawl</a></p>
-				<p>
-      The context API to search, scrape, and interact with the web at scale. 🔥
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 165522</span>
-						<span>🔱 9312</span>
-					</div>
-				<div class="stars-today">⭐ 835 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/TauricResearch/TradingAgents" target="_blank">
-    
-
-
-      
-        TauricResearch /
-
-      TradingAgents</a></p>
-				<p>
-      TradingAgents: Multi-Agents LLM Financial Trading Framework
+      LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。 LLM-powered multi-market stock analysis system with multi-source market data, real-time news, decision dashboard, automated notifications, and cost-free scheduled runs.
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 97491</span>
-						<span>🔱 18759</span>
+						<span>⭐ 61911</span>
+						<span>🔱 52355</span>
 					</div>
-				<div class="stars-today">⭐ 177 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/google-deepmind/weathernext" target="_blank">
-    
-
-
-      
-        google-deepmind /
-
-      weathernext</a></p>
-				<p></p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 7444</span>
-						<span>🔱 959</span>
-					</div>
-				<div class="stars-today">⭐ 325 stars today</div>
+				<div class="stars-today">⭐ 731 stars today</div>
 				</div>
 			</div>
 	
@@ -292,74 +140,252 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 3673</span>
-						<span>🔱 554</span>
+						<span>⭐ 3693</span>
+						<span>🔱 555</span>
 					</div>
-				<div class="stars-today">⭐ 682 stars today</div>
+				<div class="stars-today">⭐ 339 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/pingdotgg/t3code" target="_blank">
+				<p><a href="https://github.com/anthropics/skills" target="_blank">
     
 
 
       
-        pingdotgg /
+        anthropics /
 
-      t3code</a></p>
-				<p></p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 18153</span>
-						<span>🔱 4091</span>
-					</div>
-				<div class="stars-today">⭐ 389 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/Comfy-Org/ComfyUI" target="_blank">
-    
-
-
-      
-        Comfy-Org /
-
-      ComfyUI</a></p>
+      skills</a></p>
 				<p>
-      The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.
+      Public repository for Agent Skills
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 126659</span>
-						<span>🔱 14919</span>
+						<span>⭐ 167823</span>
+						<span>🔱 20009</span>
 					</div>
-				<div class="stars-today">⭐ 922 stars today</div>
+				<div class="stars-today">⭐ 468 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/opa334/Dopamine" target="_blank">
+				<p><a href="https://github.com/3b1b/manim" target="_blank">
     
 
 
       
-        opa334 /
+        3b1b /
 
-      Dopamine</a></p>
+      manim</a></p>
 				<p>
-      Dopamine is a semi-untethered jailbreak for iOS 15 to 26(.0.1)
+      Animation engine for explanatory math videos
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 C</span>
-						<span>⭐ 6150</span>
-						<span>🔱 6204</span>
+						<span>🔠 Python</span>
+						<span>⭐ 89961</span>
+						<span>🔱 7468</span>
 					</div>
-				<div class="stars-today">⭐ 111 stars today</div>
+				<div class="stars-today">⭐ 381 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/HKUDS/DeepTutor" target="_blank">
+    
+
+
+      
+        HKUDS /
+
+      DeepTutor</a></p>
+				<p>
+      DeepTutor: Lifelong Personalized Tutoring. https://deeptutor.info/.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 34355</span>
+						<span>🔱 4397</span>
+					</div>
+				<div class="stars-today">⭐ 829 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/stablyai/orca" target="_blank">
+    
+
+
+      
+        stablyai /
+
+      orca</a></p>
+				<p>
+      Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop, mobile and VPS.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 42192</span>
+						<span>🔱 2946</span>
+					</div>
+				<div class="stars-today">⭐ 881 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/paperclipai/paperclip" target="_blank">
+    
+
+
+      
+        paperclipai /
+
+      paperclip</a></p>
+				<p>
+      The open-source app everyone uses to manage agents at work
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 76915</span>
+						<span>🔱 14225</span>
+					</div>
+				<div class="stars-today">⭐ 743 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/huggingface/transformers" target="_blank">
+    
+
+
+      
+        huggingface /
+
+      transformers</a></p>
+				<p>
+      🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio, and multimodal models, for both inference and training. 
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 163602</span>
+						<span>🔱 34191</span>
+					</div>
+				<div class="stars-today">⭐ 69 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/harveyai/harvey-labs" target="_blank">
+    
+
+
+      
+        harveyai /
+
+      harvey-labs</a></p>
+				<p>
+      A benchmark built to evaluate and improve agent capabilities for supporting legal work.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 984</span>
+						<span>🔱 190</span>
+					</div>
+				<div class="stars-today">⭐ 24 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/jaywcjlove/awesome-mac" target="_blank">
+    
+
+
+      
+        jaywcjlove /
+
+      awesome-mac</a></p>
+				<p>
+       This project is dedicated to collecting high-quality macOS software and organizing them systematically by different categories for easy search and use.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Swift</span>
+						<span>⭐ 110190</span>
+						<span>🔱 8400</span>
+					</div>
+				<div class="stars-today">⭐ 414 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/calesthio/OpenMontage" target="_blank">
+    
+
+
+      
+        calesthio /
+
+      OpenMontage</a></p>
+				<p>
+      World's first open-source, agentic video production system. 12 production pipelines, 100+ tools, 700+ agent skill and production-knowledge files. Turn your AI coding assistant into a full video production studio.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 47001</span>
+						<span>🔱 5868</span>
+					</div>
+				<div class="stars-today">⭐ 436 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/practical-tutorials/project-based-learning" target="_blank">
+    
+
+
+      
+        practical-tutorials /
+
+      project-based-learning</a></p>
+				<p>
+      Curated list of project-based tutorials
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 278163</span>
+						<span>🔱 35758</span>
+					</div>
+				<div class="stars-today">⭐ 394 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/PrimeIntellect-ai/prime-agent" target="_blank">
+    
+
+
+      
+        PrimeIntellect-ai /
+
+      prime-agent</a></p>
+				<p>
+      A self-improving RLM agent for coding workflows and long-running autonomous tasks.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 13659</span>
+						<span>🔱 1400</span>
+					</div>
+				<div class="stars-today">⭐ 1148 stars today</div>
 				</div>
 			</div>
 	
