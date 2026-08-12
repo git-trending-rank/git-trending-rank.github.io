@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2026年8月
-date: 2026-08-12T10:44:58Z
+date: 2026-08-12T12:35:16Z
 categories:
 - monthly
 keywords:
@@ -30,8 +30,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 46200</span>
-						<span>🔱 6219</span>
+						<span>⭐ 46261</span>
+						<span>🔱 6223</span>
 					</div>
 				<div class="stars-today">⭐ 30582 stars this month</div>
 				</div>
@@ -52,8 +52,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 81033</span>
-						<span>🔱 12107</span>
+						<span>⭐ 81069</span>
+						<span>🔱 12114</span>
 					</div>
 				<div class="stars-today">⭐ 19348 stars this month</div>
 				</div>
@@ -74,8 +74,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 CSS</span>
-						<span>⭐ 24245</span>
-						<span>🔱 1221</span>
+						<span>⭐ 24279</span>
+						<span>🔱 1223</span>
 					</div>
 				<div class="stars-today">⭐ 20034 stars this month</div>
 				</div>
@@ -96,8 +96,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Rust</span>
-						<span>⭐ 17266</span>
-						<span>🔱 1939</span>
+						<span>⭐ 17279</span>
+						<span>🔱 1941</span>
 					</div>
 				<div class="stars-today">⭐ 8917 stars this month</div>
 				</div>
@@ -118,74 +118,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 PowerShell</span>
-						<span>⭐ 24251</span>
-						<span>🔱 3297</span>
+						<span>⭐ 24289</span>
+						<span>🔱 3304</span>
 					</div>
 				<div class="stars-today">⭐ 15942 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/HKUDS/DeepTutor" target="_blank">
-    
-
-
-      
-        HKUDS /
-
-      DeepTutor</a></p>
-				<p>
-      DeepTutor: Lifelong Personalized Tutoring. https://deeptutor.info/.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 35072</span>
-						<span>🔱 4448</span>
-					</div>
-				<div class="stars-today">⭐ 9113 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/stablyai/orca" target="_blank">
-    
-
-
-      
-        stablyai /
-
-      orca</a></p>
-				<p>
-      Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop, mobile and VPS.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 43295</span>
-						<span>🔱 3018</span>
-					</div>
-				<div class="stars-today">⭐ 26440 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/pingdotgg/t3code" target="_blank">
-    
-
-
-      
-        pingdotgg /
-
-      t3code</a></p>
-				<p></p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 18341</span>
-						<span>🔱 4174</span>
-					</div>
-				<div class="stars-today">⭐ 4753 stars this month</div>
 				</div>
 			</div>
 	
@@ -204,10 +140,74 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 20260</span>
-						<span>🔱 1829</span>
+						<span>⭐ 20323</span>
+						<span>🔱 1836</span>
 					</div>
 				<div class="stars-today">⭐ 11445 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/HKUDS/DeepTutor" target="_blank">
+    
+
+
+      
+        HKUDS /
+
+      DeepTutor</a></p>
+				<p>
+      DeepTutor: Lifelong Personalized Tutoring. https://deeptutor.info/.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 35093</span>
+						<span>🔱 4451</span>
+					</div>
+				<div class="stars-today">⭐ 9113 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/pingdotgg/t3code" target="_blank">
+    
+
+
+      
+        pingdotgg /
+
+      t3code</a></p>
+				<p></p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 18350</span>
+						<span>🔱 4176</span>
+					</div>
+				<div class="stars-today">⭐ 4753 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/stablyai/orca" target="_blank">
+    
+
+
+      
+        stablyai /
+
+      orca</a></p>
+				<p>
+      Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop, mobile and VPS.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 43390</span>
+						<span>🔱 3030</span>
+					</div>
+				<div class="stars-today">⭐ 26440 stars this month</div>
 				</div>
 			</div>
 	
@@ -226,8 +226,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Shell</span>
-						<span>⭐ 214492</span>
-						<span>🔱 18507</span>
+						<span>⭐ 214589</span>
+						<span>🔱 18513</span>
 					</div>
 				<div class="stars-today">⭐ 49161 stars this month</div>
 				</div>
@@ -248,32 +248,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 11403</span>
-						<span>🔱 1316</span>
+						<span>⭐ 11417</span>
+						<span>🔱 1317</span>
 					</div>
 				<div class="stars-today">⭐ 7123 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/tt-a1i/archify" target="_blank">
-    
-
-
-      
-        tt-a1i /
-
-      archify</a></p>
-				<p>
-      Agent skill for beautiful, verifiable architecture, workflow, sequence, data-flow, and lifecycle diagrams—self-contained HTML with motion and crisp export.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 HTML</span>
-						<span>⭐ 11565</span>
-						<span>🔱 881</span>
-					</div>
-				<div class="stars-today">⭐ 7913 stars this month</div>
 				</div>
 			</div>
 	
@@ -292,32 +270,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 88228</span>
-						<span>🔱 10964</span>
+						<span>⭐ 88289</span>
+						<span>🔱 10972</span>
 					</div>
 				<div class="stars-today">⭐ 18096 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/kangarooking/cangjie-skill" target="_blank">
-    
-
-
-      
-        kangarooking /
-
-      cangjie-skill</a></p>
-				<p>
-      把书、长视频、播客等高价值内容蒸馏成可执行的 Agent Skills
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 7395</span>
-						<span>🔱 913</span>
-					</div>
-				<div class="stars-today">⭐ 4833 stars this month</div>
 				</div>
 			</div>
 	
@@ -336,8 +292,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 20694</span>
-						<span>🔱 2186</span>
+						<span>⭐ 20727</span>
+						<span>🔱 2188</span>
 					</div>
 				<div class="stars-today">⭐ 11976 stars this month</div>
 				</div>
@@ -358,32 +314,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 29872</span>
-						<span>🔱 2738</span>
+						<span>⭐ 29880</span>
+						<span>🔱 2742</span>
 					</div>
 				<div class="stars-today">⭐ 10514 stars this month</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/huggingface/speech-to-speech" target="_blank">
+				<p><a href="https://github.com/kangarooking/cangjie-skill" target="_blank">
     
 
 
       
-        huggingface /
+        kangarooking /
 
-      speech-to-speech</a></p>
+      cangjie-skill</a></p>
 				<p>
-      Build local voice agents with open-source models
+      把书、长视频、播客等高价值内容蒸馏成可执行的 Agent Skills
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 12373</span>
-						<span>🔱 1510</span>
+						<span>⭐ 7407</span>
+						<span>🔱 915</span>
 					</div>
-				<div class="stars-today">⭐ 6181 stars this month</div>
+				<div class="stars-today">⭐ 4833 stars this month</div>
 				</div>
 			</div>
 	
@@ -402,54 +358,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 4056</span>
-						<span>🔱 563</span>
+						<span>⭐ 4064</span>
+						<span>🔱 566</span>
 					</div>
 				<div class="stars-today">⭐ 2913 stars this month</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/OpenCut-app/OpenCut" target="_blank">
+				<p><a href="https://github.com/tt-a1i/archify" target="_blank">
     
 
 
       
-        OpenCut-app /
+        tt-a1i /
 
-      OpenCut</a></p>
+      archify</a></p>
 				<p>
-      The open-source CapCut alternative
+      Agent skill for beautiful, verifiable architecture, workflow, sequence, data-flow, and lifecycle diagrams—self-contained HTML with motion and crisp export.
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 82476</span>
-						<span>🔱 8148</span>
+						<span>🔠 HTML</span>
+						<span>⭐ 11578</span>
+						<span>🔱 883</span>
 					</div>
-				<div class="stars-today">⭐ 20621 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/kunchenguid/firstmate" target="_blank">
-    
-
-
-      
-        kunchenguid /
-
-      firstmate</a></p>
-				<p>
-      Talk to one agent. Ship with a crew.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Shell</span>
-						<span>⭐ 3298</span>
-						<span>🔱 1090</span>
-					</div>
-				<div class="stars-today">⭐ 2174 stars this month</div>
+				<div class="stars-today">⭐ 7913 stars this month</div>
 				</div>
 			</div>
 	
@@ -468,10 +402,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 6417</span>
-						<span>🔱 1019</span>
+						<span>⭐ 6423</span>
+						<span>🔱 1021</span>
 					</div>
 				<div class="stars-today">⭐ 3345 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/different-ai/openwork" target="_blank">
+    
+
+
+      
+        different-ai /
+
+      openwork</a></p>
+				<p>
+      The open-source alternative to Claude Cowork (powered by opencode)
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 21898</span>
+						<span>🔱 2163</span>
+					</div>
+				<div class="stars-today">⭐ 5293 stars this month</div>
 				</div>
 			</div>
 	
@@ -490,10 +446,54 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 C#</span>
-						<span>⭐ 27855</span>
-						<span>🔱 1886</span>
+						<span>⭐ 27867</span>
+						<span>🔱 1888</span>
 					</div>
 				<div class="stars-today">⭐ 12907 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/bradautomates/claude-video" target="_blank">
+    
+
+
+      
+        bradautomates /
+
+      claude-video</a></p>
+				<p>
+      Give Claude the ability to watch any video. /watch downloads, extracts frames, transcribes, hands it all to Claude.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 15084</span>
+						<span>🔱 1443</span>
+					</div>
+				<div class="stars-today">⭐ 7676 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/kunchenguid/firstmate" target="_blank">
+    
+
+
+      
+        kunchenguid /
+
+      firstmate</a></p>
+				<p>
+      Talk to one agent. Ship with a crew.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Shell</span>
+						<span>⭐ 3309</span>
+						<span>🔱 1092</span>
+					</div>
+				<div class="stars-today">⭐ 2174 stars this month</div>
 				</div>
 			</div>
 	
