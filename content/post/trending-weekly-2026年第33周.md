@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2026年第33周
-date: 2026-08-14T10:43:15Z
+date: 2026-08-14T12:30:41Z
 categories:
 - weekly
 keywords:
@@ -30,8 +30,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 15732</span>
-						<span>🔱 1681</span>
+						<span>⭐ 15762</span>
+						<span>🔱 1682</span>
 					</div>
 				<div class="stars-today">⭐ 12476 stars this week</div>
 				</div>
@@ -52,8 +52,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 7206</span>
-						<span>🔱 751</span>
+						<span>⭐ 7270</span>
+						<span>🔱 759</span>
 					</div>
 				<div class="stars-today">⭐ 4073 stars this week</div>
 				</div>
@@ -74,54 +74,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 18134</span>
-						<span>🔱 1433</span>
+						<span>⭐ 18139</span>
+						<span>🔱 1434</span>
 					</div>
 				<div class="stars-today">⭐ 2359 stars this week</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/cloudflare/computer" target="_blank">
+				<p><a href="https://github.com/denoland/celld" target="_blank">
     
 
 
       
-        cloudflare /
+        denoland /
 
-      computer</a></p>
+      celld</a></p>
 				<p>
-      Give your agent a computer 👾
+      self-hosted, distributed Durable Objects
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 8049</span>
-						<span>🔱 444</span>
+						<span>🔠 Rust</span>
+						<span>⭐ 3479</span>
+						<span>🔱 112</span>
 					</div>
-				<div class="stars-today">⭐ 3599 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/TencentCloud/TencentDB-Agent-Memory" target="_blank">
-    
-
-
-      
-        TencentCloud /
-
-      TencentDB-Agent-Memory</a></p>
-				<p>
-      TencentDB Agent Memory is a team-level memory hub for AI Agents — turning conversations, docs, and code into four reusable memory assets (Chat Memory, Skill, LLM-Wiki, Code-Graph) that are governed, shared, and equipped across agents and frameworks.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 21525</span>
-						<span>🔱 1965</span>
-					</div>
-				<div class="stars-today">⭐ 5388 stars this week</div>
+				<div class="stars-today">⭐ 1783 stars this week</div>
 				</div>
 			</div>
 	
@@ -140,32 +118,76 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 4255</span>
-						<span>🔱 589</span>
+						<span>⭐ 4261</span>
+						<span>🔱 590</span>
 					</div>
 				<div class="stars-today">⭐ 1628 stars this week</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/huangruiteng/loopx" target="_blank">
+				<p><a href="https://github.com/megadose/holehe" target="_blank">
     
 
 
       
-        huangruiteng /
+        megadose /
 
-      loopx</a></p>
+      holehe</a></p>
 				<p>
-      Lightweight loop engineering state kernel for long-running AI agent teams. Agent-loop agnostic across Codex, Claude Code, and other coding agents, with durable goals, quota-aware auto-wake, executable todos, evidence logs, and verifiable handoffs.
+      holehe allows you to check if the mail is used on different sites like twitter, instagram and will retrieve information on sites with the forgotten password function.
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 4658</span>
-						<span>🔱 402</span>
+						<span>⭐ 12613</span>
+						<span>🔱 1692</span>
 					</div>
-				<div class="stars-today">⭐ 1967 stars this week</div>
+				<div class="stars-today">⭐ 327 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/NVIDIA-NeMo/Switchyard" target="_blank">
+    
+
+
+      
+        NVIDIA-NeMo /
+
+      Switchyard</a></p>
+				<p>
+      Switchyard lets LLM applications route traffic across models and providers while preserving native OpenAI and Anthropic API compatibility - enabling flexible model selection, benchmarking, and cost/performance optimization.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Rust</span>
+						<span>⭐ 1385</span>
+						<span>🔱 122</span>
+					</div>
+				<div class="stars-today">⭐ 900 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/cloudflare/computer" target="_blank">
+    
+
+
+      
+        cloudflare /
+
+      computer</a></p>
+				<p>
+      Give your agent a computer 👾
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 8055</span>
+						<span>🔱 444</span>
+					</div>
+				<div class="stars-today">⭐ 3599 stars this week</div>
 				</div>
 			</div>
 	
@@ -184,7 +206,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 JavaScript</span>
-						<span>⭐ 87139</span>
+						<span>⭐ 87153</span>
 						<span>🔱 9353</span>
 					</div>
 				<div class="stars-today">⭐ 4562 stars this week</div>
@@ -192,90 +214,68 @@ keywords:
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/drawdb-io/drawdb" target="_blank">
+				<p><a href="https://github.com/TencentCloud/TencentDB-Agent-Memory" target="_blank">
     
 
 
       
-        drawdb-io /
+        TencentCloud /
 
-      drawdb</a></p>
+      TencentDB-Agent-Memory</a></p>
 				<p>
-      Free, simple, and intuitive online database diagram editor and SQL generator.
+      TencentDB Agent Memory is a team-level memory hub for AI Agents — turning conversations, docs, and code into four reusable memory assets (Chat Memory, Skill, LLM-Wiki, Code-Graph) that are governed, shared, and equipped across agents and frameworks.
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 JavaScript</span>
-						<span>⭐ 39079</span>
-						<span>🔱 3185</span>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 21562</span>
+						<span>🔱 1970</span>
 					</div>
-				<div class="stars-today">⭐ 693 stars this week</div>
+				<div class="stars-today">⭐ 5388 stars this week</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/firecrawl/pdf-inspector" target="_blank">
+				<p><a href="https://github.com/cactus-compute/needle" target="_blank">
     
 
 
       
-        firecrawl /
+        cactus-compute /
 
-      pdf-inspector</a></p>
+      needle</a></p>
 				<p>
-      Fast Rust library for PDF inspection, classification, and text extraction. Intelligently detects scanned vs text-based PDFs to enable smart routing decisions.
+      14MB foundation model for tiny devices; phones, wearables, smart home, and robots.
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Rust</span>
-						<span>⭐ 15470</span>
-						<span>🔱 1074</span>
+						<span>🔠 Python</span>
+						<span>⭐ 5297</span>
+						<span>🔱 354</span>
 					</div>
-				<div class="stars-today">⭐ 3251 stars this week</div>
+				<div class="stars-today">⭐ 1377 stars this week</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/LadybirdBrowser/ladybird" target="_blank">
+				<p><a href="https://github.com/huangruiteng/loopx" target="_blank">
     
 
 
       
-        LadybirdBrowser /
+        huangruiteng /
 
-      ladybird</a></p>
+      loopx</a></p>
 				<p>
-      Truly independent web browser
+      Lightweight loop engineering state kernel for long-running AI agent teams. Agent-loop agnostic across Codex, Claude Code, and other coding agents, with durable goals, quota-aware auto-wake, executable todos, evidence logs, and verifiable handoffs.
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 C++</span>
-						<span>⭐ 65594</span>
-						<span>🔱 3133</span>
+						<span>🔠 Python</span>
+						<span>⭐ 4663</span>
+						<span>🔱 403</span>
 					</div>
-				<div class="stars-today">⭐ 775 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/esengine/DeepSeek-Reasonix" target="_blank">
-    
-
-
-      
-        esengine /
-
-      DeepSeek-Reasonix</a></p>
-				<p>
-      DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability — leave it running.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Go</span>
-						<span>⭐ 34564</span>
-						<span>🔱 2285</span>
-					</div>
-				<div class="stars-today">⭐ 2419 stars this week</div>
+				<div class="stars-today">⭐ 1967 stars this week</div>
 				</div>
 			</div>
 	
@@ -294,7 +294,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 91055</span>
+						<span>⭐ 91065</span>
 						<span>🔱 7546</span>
 					</div>
 				<div class="stars-today">⭐ 1530 stars this week</div>
@@ -302,24 +302,24 @@ keywords:
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/zhaoxuya520/reverse-skill" target="_blank">
+				<p><a href="https://github.com/LadybirdBrowser/ladybird" target="_blank">
     
 
 
       
-        zhaoxuya520 /
+        LadybirdBrowser /
 
-      reverse-skill</a></p>
+      ladybird</a></p>
 				<p>
-      Reverse Engineering / Authorized Penetration Testing / Security Research Skill Router Pack AI-powered routing + On-demand toolchain bootstrapping + Self-evolving knowledge base Supports Claude Code, Kiro, Cursor, Cline, and other AI coding clients 逆向/渗透/安全技能路由包 - AI 自动路由 + 按需自举工具链 + 自动进化经验库 | 支持 Claude Code / Kiro / Cursor / Cline 等代码 AI 客户端
+      Truly independent web browser
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 PowerShell</span>
-						<span>⭐ 25127</span>
-						<span>🔱 3415</span>
+						<span>🔠 C++</span>
+						<span>⭐ 65597</span>
+						<span>🔱 3133</span>
 					</div>
-				<div class="stars-today">⭐ 5270 stars this week</div>
+				<div class="stars-today">⭐ 775 stars this week</div>
 				</div>
 			</div>
 	
@@ -338,54 +338,30 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Roff</span>
-						<span>⭐ 79498</span>
-						<span>🔱 18041</span>
+						<span>⭐ 79513</span>
+						<span>🔱 18049</span>
 					</div>
 				<div class="stars-today">⭐ 2369 stars this week</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/virgiliojr94/book-to-skill" target="_blank">
+				<p><a href="https://github.com/pingdotgg/t3code" target="_blank">
     
 
 
       
-        virgiliojr94 /
+        pingdotgg /
 
-      book-to-skill</a></p>
-				<p>
-      Turn any technical book PDF into a Claude Code skill — ready to study, reference, and use while you work.
-    </p>
+      t3code</a></p>
+				<p></p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 21410</span>
-						<span>🔱 2254</span>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 18671</span>
+						<span>🔱 4311</span>
 					</div>
-				<div class="stars-today">⭐ 3789 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/Comfy-Org/ComfyUI" target="_blank">
-    
-
-
-      
-        Comfy-Org /
-
-      ComfyUI</a></p>
-				<p>
-      The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 127514</span>
-						<span>🔱 15009</span>
-					</div>
-				<div class="stars-today">⭐ 3122 stars this week</div>
+				<div class="stars-today">⭐ 1665 stars this week</div>
 				</div>
 			</div>
 	

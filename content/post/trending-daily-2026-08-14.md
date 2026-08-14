@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2026-08-14
-date: 2026-08-14T10:43:15Z
+date: 2026-08-14T12:30:41Z
 categories:
 - daily
 keywords:
@@ -30,54 +30,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 HTML</span>
-						<span>⭐ 16201</span>
-						<span>🔱 973</span>
+						<span>⭐ 16381</span>
+						<span>🔱 983</span>
 					</div>
-				<div class="stars-today">⭐ 4475 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/semantica-agi/semantica" target="_blank">
-    
-
-
-      
-        semantica-agi /
-
-      semantica</a></p>
-				<p>
-      Graph-Native Infrastructure for Context and Accountable AI Systems
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 7206</span>
-						<span>🔱 751</span>
-					</div>
-				<div class="stars-today">⭐ 713 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/anthropics/skills" target="_blank">
-    
-
-
-      
-        anthropics /
-
-      skills</a></p>
-				<p>
-      Public repository for Agent Skills
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 169337</span>
-						<span>🔱 20156</span>
-					</div>
-				<div class="stars-today">⭐ 312 stars today</div>
+				<div class="stars-today">⭐ 3651 stars today</div>
 				</div>
 			</div>
 	
@@ -96,76 +52,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 5243</span>
-						<span>🔱 348</span>
+						<span>⭐ 5297</span>
+						<span>🔱 354</span>
 					</div>
-				<div class="stars-today">⭐ 769 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/altic-dev/FluidVoice" target="_blank">
-    
-
-
-      
-        altic-dev /
-
-      FluidVoice</a></p>
-				<p>
-      Fastest and only macOS Dictation app with on-device STT and custom trained AI enhancement model. A local Wispr Flow alternative. ⭐ helps a ton :) Windows & iOS waitlist open. Linux soon.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Swift</span>
-						<span>⭐ 10053</span>
-						<span>🔱 672</span>
-					</div>
-				<div class="stars-today">⭐ 76 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/unslothai/unsloth" target="_blank">
-    
-
-
-      
-        unslothai /
-
-      unsloth</a></p>
-				<p>
-      Local UI to run and train LLMs and diffusion models, including Qwen3.8, Kimi K3, MiniMax-H3, Gemma 4, DeepSeek-V4, FLUX and more.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 71273</span>
-						<span>🔱 6424</span>
-					</div>
-				<div class="stars-today">⭐ 328 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/macro-inc/macro" target="_blank">
-    
-
-
-      
-        macro-inc /
-
-      macro</a></p>
-				<p>
-      Macro is a unified workspace for teams: email, chat, docs, tasks, agents, calls, and CRM — @-linked together with shared AI memory.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Rust</span>
-						<span>⭐ 2802</span>
-						<span>🔱 289</span>
-					</div>
-				<div class="stars-today">⭐ 1239 stars today</div>
+				<div class="stars-today">⭐ 661 stars today</div>
 				</div>
 			</div>
 	
@@ -184,10 +74,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 12577</span>
-						<span>🔱 1688</span>
+						<span>⭐ 12613</span>
+						<span>🔱 1692</span>
 					</div>
-				<div class="stars-today">⭐ 195 stars today</div>
+				<div class="stars-today">⭐ 427 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/macro-inc/macro" target="_blank">
+    
+
+
+      
+        macro-inc /
+
+      macro</a></p>
+				<p>
+      Macro is a unified workspace for teams: email, chat, docs, tasks, agents, calls, and CRM — @-linked together with shared AI memory.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Rust</span>
+						<span>⭐ 2831</span>
+						<span>🔱 291</span>
+					</div>
+				<div class="stars-today">⭐ 435 stars today</div>
 				</div>
 			</div>
 	
@@ -206,32 +118,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 20768</span>
-						<span>🔱 3323</span>
+						<span>⭐ 20789</span>
+						<span>🔱 3328</span>
 					</div>
-				<div class="stars-today">⭐ 283 stars today</div>
+				<div class="stars-today">⭐ 292 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/NVIDIA-NeMo/Switchyard" target="_blank">
+				<p><a href="https://github.com/citrolabs/ego-lite" target="_blank">
     
 
 
       
-        NVIDIA-NeMo /
+        citrolabs /
 
-      Switchyard</a></p>
+      ego-lite</a></p>
 				<p>
-      Switchyard lets LLM applications route traffic across models and providers while preserving native OpenAI and Anthropic API compatibility - enabling flexible model selection, benchmarking, and cost/performance optimization.
+      The fastest browser for AI agents to run browser automation, built for sharing your logged-in browser state with your AI agents, like Codex or Claude Code, without disturbing you. Zero cost, zero config.
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Rust</span>
-						<span>⭐ 1370</span>
-						<span>🔱 121</span>
+						<span>🔠 JavaScript</span>
+						<span>⭐ 10090</span>
+						<span>🔱 518</span>
 					</div>
-				<div class="stars-today">⭐ 408 stars today</div>
+				<div class="stars-today">⭐ 153 stars today</div>
 				</div>
 			</div>
 	
@@ -250,98 +162,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 6902</span>
-						<span>🔱 618</span>
+						<span>⭐ 6931</span>
+						<span>🔱 620</span>
 					</div>
-				<div class="stars-today">⭐ 241 stars today</div>
+				<div class="stars-today">⭐ 769 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/kepano/obsidian-skills" target="_blank">
+				<p><a href="https://github.com/github/spec-kit" target="_blank">
     
 
 
       
-        kepano /
+        github /
 
-      obsidian-skills</a></p>
+      spec-kit</a></p>
 				<p>
-      Agent skills for Obsidian. Teach your agent to use Obsidian CLI and open formats including Markdown, Bases, JSON Canvas.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 </span>
-						<span>⭐ 46158</span>
-						<span>🔱 3308</span>
-					</div>
-				<div class="stars-today">⭐ 292 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/3b1b/manim" target="_blank">
-    
-
-
-      
-        3b1b /
-
-      manim</a></p>
-				<p>
-      Animation engine for explanatory math videos
+      💫 Toolkit to help you get started with Spec-Driven Development
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 91055</span>
-						<span>🔱 7546</span>
+						<span>⭐ 127991</span>
+						<span>🔱 11440</span>
 					</div>
-				<div class="stars-today">⭐ 176 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/msitarzewski/agency-agents" target="_blank">
-    
-
-
-      
-        msitarzewski /
-
-      agency-agents</a></p>
-				<p>
-      A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Shell</span>
-						<span>⭐ 145400</span>
-						<span>🔱 23519</span>
-					</div>
-				<div class="stars-today">⭐ 778 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/Lightricks/LTX-2" target="_blank">
-    
-
-
-      
-        Lightricks /
-
-      LTX-2</a></p>
-				<p>
-      Official Python inference and LoRA trainer package for the LTX-2 audio–video generative model.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 9000</span>
-						<span>🔱 1416</span>
-					</div>
-				<div class="stars-today">⭐ 205 stars today</div>
+				<div class="stars-today">⭐ 1147 stars today</div>
 				</div>
 			</div>
 	
@@ -360,10 +206,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 5687</span>
-						<span>🔱 593</span>
+						<span>⭐ 5726</span>
+						<span>🔱 595</span>
 					</div>
-				<div class="stars-today">⭐ 118 stars today</div>
+				<div class="stars-today">⭐ 580 stars today</div>
 				</div>
 			</div>
 	
@@ -382,10 +228,162 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Go</span>
-						<span>⭐ 88260</span>
-						<span>🔱 10365</span>
+						<span>⭐ 88284</span>
+						<span>🔱 10369</span>
 					</div>
-				<div class="stars-today">⭐ 465 stars today</div>
+				<div class="stars-today">⭐ 474 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/cursor/plugins" target="_blank">
+    
+
+
+      
+        cursor /
+
+      plugins</a></p>
+				<p>
+      Cursor plugin specification and official plugins
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 2720</span>
+						<span>🔱 221</span>
+					</div>
+				<div class="stars-today">⭐ 54 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/deepseek-ai/awesome-deepseek-agent" target="_blank">
+    
+
+
+      
+        deepseek-ai /
+
+      awesome-deepseek-agent</a></p>
+				<p></p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 </span>
+						<span>⭐ 5525</span>
+						<span>🔱 684</span>
+					</div>
+				<div class="stars-today">⭐ 171 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/semantica-agi/semantica" target="_blank">
+    
+
+
+      
+        semantica-agi /
+
+      semantica</a></p>
+				<p>
+      Graph-Native Infrastructure for Context and Accountable AI Systems
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 7270</span>
+						<span>🔱 759</span>
+					</div>
+				<div class="stars-today">⭐ 1183 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/rustdesk/rustdesk" target="_blank">
+    
+
+
+      
+        rustdesk /
+
+      rustdesk</a></p>
+				<p>
+      An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Rust</span>
+						<span>⭐ 120438</span>
+						<span>🔱 18447</span>
+					</div>
+				<div class="stars-today">⭐ 130 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/OpenCut-app/OpenCut" target="_blank">
+    
+
+
+      
+        OpenCut-app /
+
+      OpenCut</a></p>
+				<p>
+      The open-source CapCut alternative
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 82887</span>
+						<span>🔱 8215</span>
+					</div>
+				<div class="stars-today">⭐ 238 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/unslothai/unsloth" target="_blank">
+    
+
+
+      
+        unslothai /
+
+      unsloth</a></p>
+				<p>
+      Local UI to run and train LLMs and diffusion models, including Qwen3.8, Kimi K3, MiniMax-H3, Gemma 4, DeepSeek-V4, FLUX and more.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 71291</span>
+						<span>🔱 6427</span>
+					</div>
+				<div class="stars-today">⭐ 502 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/ToolJet/ToolJet" target="_blank">
+    
+
+
+      
+        ToolJet /
+
+      ToolJet</a></p>
+				<p>
+      ToolJet is the open-source foundation of ToolJet AI - the enterprise app generation platform for building internal tools, dashboard, business applications, workflows and AI agents 🚀
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 JavaScript</span>
+						<span>⭐ 38762</span>
+						<span>🔱 5236</span>
+					</div>
+				<div class="stars-today">⭐ 115 stars today</div>
 				</div>
 			</div>
 	
