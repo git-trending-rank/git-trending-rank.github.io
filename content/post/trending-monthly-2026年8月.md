@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2026年8月
-date: 2026-08-15T10:07:36Z
+date: 2026-08-15T12:00:57Z
 categories:
 - monthly
 keywords:
@@ -14,6 +14,28 @@ keywords:
 	<main class="container">
         <div class="repo-list" id="repoList">
 
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/bojieli/ai-agent-book" target="_blank">
+    
+
+
+      
+        bojieli /
+
+      ai-agent-book</a></p>
+				<p>
+      《深入理解 AI Agent：设计原理与工程实践》（李博杰 著）开源主仓库：全书正文、编译版 PDF 与按章配套代码
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 37483</span>
+						<span>🔱 4116</span>
+					</div>
+				<div class="stars-today">⭐ 37585 stars this month</div>
+				</div>
+			</div>
 	
 			<div class="repo-card">
 				<p><a href="https://github.com/diegosouzapw/OmniRoute" target="_blank">
@@ -30,8 +52,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 48240</span>
-						<span>🔱 6551</span>
+						<span>⭐ 48292</span>
+						<span>🔱 6560</span>
 					</div>
 				<div class="stars-today">⭐ 30924 stars this month</div>
 				</div>
@@ -52,7 +74,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 81992</span>
+						<span>⭐ 82016</span>
 						<span>🔱 12248</span>
 					</div>
 				<div class="stars-today">⭐ 20347 stars this month</div>
@@ -74,8 +96,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Rust</span>
-						<span>⭐ 17588</span>
-						<span>🔱 1980</span>
+						<span>⭐ 17598</span>
+						<span>🔱 1982</span>
 					</div>
 				<div class="stars-today">⭐ 9326 stars this month</div>
 				</div>
@@ -96,8 +118,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 21820</span>
-						<span>🔱 1998</span>
+						<span>⭐ 21840</span>
+						<span>🔱 2000</span>
 					</div>
 				<div class="stars-today">⭐ 12911 stars this month</div>
 				</div>
@@ -118,8 +140,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 PowerShell</span>
-						<span>⭐ 25350</span>
-						<span>🔱 3437</span>
+						<span>⭐ 25373</span>
+						<span>🔱 3438</span>
 					</div>
 				<div class="stars-today">⭐ 17172 stars this month</div>
 				</div>
@@ -138,8 +160,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 18796</span>
-						<span>🔱 4346</span>
+						<span>⭐ 18807</span>
+						<span>🔱 4351</span>
 					</div>
 				<div class="stars-today">⭐ 4866 stars this month</div>
 				</div>
@@ -160,32 +182,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 45853</span>
-						<span>🔱 3202</span>
+						<span>⭐ 45877</span>
+						<span>🔱 3204</span>
 					</div>
 				<div class="stars-today">⭐ 26995 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/HKUDS/DeepTutor" target="_blank">
-    
-
-
-      
-        HKUDS /
-
-      DeepTutor</a></p>
-				<p>
-      DeepTutor: Lifelong Personalized Tutoring. https://deeptutor.info/.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 35709</span>
-						<span>🔱 4520</span>
-					</div>
-				<div class="stars-today">⭐ 9903 stars this month</div>
 				</div>
 			</div>
 	
@@ -204,8 +204,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Shell</span>
-						<span>⭐ 217951</span>
-						<span>🔱 18774</span>
+						<span>⭐ 218016</span>
+						<span>🔱 18780</span>
 					</div>
 				<div class="stars-today">⭐ 48799 stars this month</div>
 				</div>
@@ -226,7 +226,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 90675</span>
+						<span>⭐ 90718</span>
 						<span>🔱 11250</span>
 					</div>
 				<div class="stars-today">⭐ 19705 stars this month</div>
@@ -234,24 +234,24 @@ keywords:
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/virgiliojr94/book-to-skill" target="_blank">
+				<p><a href="https://github.com/HKUDS/DeepTutor" target="_blank">
     
 
 
       
-        virgiliojr94 /
+        HKUDS /
 
-      book-to-skill</a></p>
+      DeepTutor</a></p>
 				<p>
-      Turn any technical book PDF into a Claude Code skill — ready to study, reference, and use while you work.
+      DeepTutor: Lifelong Personalized Tutoring. https://deeptutor.info/.
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 21693</span>
-						<span>🔱 2285</span>
+						<span>⭐ 35721</span>
+						<span>🔱 4521</span>
 					</div>
-				<div class="stars-today">⭐ 12941 stars this month</div>
+				<div class="stars-today">⭐ 9903 stars this month</div>
 				</div>
 			</div>
 	
@@ -270,10 +270,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 11979</span>
+						<span>⭐ 11990</span>
 						<span>🔱 1372</span>
 					</div>
 				<div class="stars-today">⭐ 7613 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/virgiliojr94/book-to-skill" target="_blank">
+    
+
+
+      
+        virgiliojr94 /
+
+      book-to-skill</a></p>
+				<p>
+      Turn any technical book PDF into a Claude Code skill — ready to study, reference, and use while you work.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 21709</span>
+						<span>🔱 2288</span>
+					</div>
+				<div class="stars-today">⭐ 12941 stars this month</div>
 				</div>
 			</div>
 	
@@ -292,7 +314,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 30209</span>
+						<span>⭐ 30220</span>
 						<span>🔱 2766</span>
 					</div>
 				<div class="stars-today">⭐ 10738 stars this month</div>
@@ -314,7 +336,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 CSS</span>
-						<span>⭐ 24993</span>
+						<span>⭐ 25011</span>
 						<span>🔱 1268</span>
 					</div>
 				<div class="stars-today">⭐ 19228 stars this month</div>
@@ -336,10 +358,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 4263</span>
+						<span>⭐ 4269</span>
 						<span>🔱 606</span>
 					</div>
 				<div class="stars-today">⭐ 3071 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/lyogavin/airllm" target="_blank">
+    
+
+
+      
+        lyogavin /
+
+      airllm</a></p>
+				<p>
+      AirLLM 70B inference with single 4GB GPU
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Jupyter Notebook</span>
+						<span>⭐ 31172</span>
+						<span>🔱 3313</span>
+					</div>
+				<div class="stars-today">⭐ 8667 stars this month</div>
 				</div>
 			</div>
 	
@@ -358,54 +402,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 7921</span>
+						<span>⭐ 7932</span>
 						<span>🔱 956</span>
 					</div>
 				<div class="stars-today">⭐ 5011 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/MoonshotAI/kimi-code" target="_blank">
-    
-
-
-      
-        MoonshotAI /
-
-      kimi-code</a></p>
-				<p>
-      Kimi Code CLI — The Starting Point for Next-Gen Agents
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 6717</span>
-						<span>🔱 1048</span>
-					</div>
-				<div class="stars-today">⭐ 3600 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/tt-a1i/archify" target="_blank">
-    
-
-
-      
-        tt-a1i /
-
-      archify</a></p>
-				<p>
-      Agent skill for beautiful, verifiable architecture, workflow, sequence, data-flow, and lifecycle diagrams—self-contained HTML with motion and crisp export.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 HTML</span>
-						<span>⭐ 12769</span>
-						<span>🔱 944</span>
-					</div>
-				<div class="stars-today">⭐ 8121 stars this month</div>
 				</div>
 			</div>
 	
@@ -424,10 +424,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 22256</span>
-						<span>🔱 2200</span>
+						<span>⭐ 22265</span>
+						<span>🔱 2199</span>
 					</div>
 				<div class="stars-today">⭐ 5521 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/MoonshotAI/kimi-code" target="_blank">
+    
+
+
+      
+        MoonshotAI /
+
+      kimi-code</a></p>
+				<p>
+      Kimi Code CLI — The Starting Point for Next-Gen Agents
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 6721</span>
+						<span>🔱 1049</span>
+					</div>
+				<div class="stars-today">⭐ 3600 stars this month</div>
 				</div>
 			</div>
 	
@@ -446,7 +468,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 6079</span>
+						<span>⭐ 6083</span>
 						<span>🔱 618</span>
 					</div>
 				<div class="stars-today">⭐ 4325 stars this month</div>

@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2026年第33周
-date: 2026-08-15T10:07:36Z
+date: 2026-08-15T12:00:57Z
 categories:
 - weekly
 keywords:
@@ -16,24 +16,24 @@ keywords:
 
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/PrimeIntellect-ai/prime-agent" target="_blank">
+				<p><a href="https://github.com/cathrynlavery/diagram-design" target="_blank">
     
 
 
       
-        PrimeIntellect-ai /
+        cathrynlavery /
 
-      prime-agent</a></p>
+      diagram-design</a></p>
 				<p>
-      A self-improving RLM agent for coding workflows and long-running autonomous tasks.
+      29 editorial diagram types for Claude Code. Self-contained HTML + SVG. No shadows, no Mermaid-slop.
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 16080</span>
-						<span>🔱 1726</span>
+						<span>🔠 HTML</span>
+						<span>⭐ 17955</span>
+						<span>🔱 1073</span>
 					</div>
-				<div class="stars-today">⭐ 10739 stars this week</div>
+				<div class="stars-today">⭐ 13556 stars this week</div>
 				</div>
 			</div>
 	
@@ -52,76 +52,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 7714</span>
-						<span>🔱 797</span>
+						<span>⭐ 7757</span>
+						<span>🔱 801</span>
 					</div>
 				<div class="stars-today">⭐ 5135 stars this week</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/google/skills" target="_blank">
+				<p><a href="https://github.com/PrimeIntellect-ai/prime-agent" target="_blank">
     
 
 
       
-        google /
+        PrimeIntellect-ai /
 
-      skills</a></p>
+      prime-agent</a></p>
 				<p>
-      Agent Skills for Google products and technologies
+      A self-improving RLM agent for coding workflows and long-running autonomous tasks.
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 18252</span>
-						<span>🔱 1441</span>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 16114</span>
+						<span>🔱 1729</span>
 					</div>
-				<div class="stars-today">⭐ 2186 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/denoland/celld" target="_blank">
-    
-
-
-      
-        denoland /
-
-      celld</a></p>
-				<p>
-      self-hosted, distributed Durable Objects
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Rust</span>
-						<span>⭐ 3606</span>
-						<span>🔱 117</span>
-					</div>
-				<div class="stars-today">⭐ 1549 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/vitali87/code-graph-rag" target="_blank">
-    
-
-
-      
-        vitali87 /
-
-      code-graph-rag</a></p>
-				<p>
-      The ultimate RAG for your monorepo. Query, understand, and edit multi-language codebases with the power of AI and knowledge graphs
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 4322</span>
-						<span>🔱 591</span>
-					</div>
-				<div class="stars-today">⭐ 1718 stars this week</div>
+				<div class="stars-today">⭐ 10739 stars this week</div>
 				</div>
 			</div>
 	
@@ -140,8 +96,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 12961</span>
-						<span>🔱 1730</span>
+						<span>⭐ 12984</span>
+						<span>🔱 1731</span>
 					</div>
 				<div class="stars-today">⭐ 671 stars this week</div>
 				</div>
@@ -162,76 +118,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Rust</span>
-						<span>⭐ 1510</span>
-						<span>🔱 135</span>
+						<span>⭐ 1515</span>
+						<span>🔱 137</span>
 					</div>
 				<div class="stars-today">⭐ 1195 stars this week</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/cloudflare/computer" target="_blank">
+				<p><a href="https://github.com/vitali87/code-graph-rag" target="_blank">
     
 
 
       
-        cloudflare /
+        vitali87 /
 
-      computer</a></p>
+      code-graph-rag</a></p>
 				<p>
-      Give your agent a computer 👾
+      The ultimate RAG for your monorepo. Query, understand, and edit multi-language codebases with the power of AI and knowledge graphs
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 8179</span>
-						<span>🔱 449</span>
+						<span>🔠 Python</span>
+						<span>⭐ 4329</span>
+						<span>🔱 591</span>
 					</div>
-				<div class="stars-today">⭐ 2856 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/addyosmani/agent-skills" target="_blank">
-    
-
-
-      
-        addyosmani /
-
-      agent-skills</a></p>
-				<p>
-      Production-grade engineering skills for AI coding agents.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 JavaScript</span>
-						<span>⭐ 87359</span>
-						<span>🔱 9372</span>
-					</div>
-				<div class="stars-today">⭐ 3845 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/TencentCloud/TencentDB-Agent-Memory" target="_blank">
-    
-
-
-      
-        TencentCloud /
-
-      TencentDB-Agent-Memory</a></p>
-				<p>
-      TencentDB Agent Memory is a team-level memory hub for AI Agents — turning conversations, docs, and code into four reusable memory assets (Chat Memory, Skill, LLM-Wiki, Code-Graph) that are governed, shared, and equipped across agents and frameworks.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 21820</span>
-						<span>🔱 1998</span>
-					</div>
-				<div class="stars-today">⭐ 4423 stars this week</div>
+				<div class="stars-today">⭐ 1718 stars this week</div>
 				</div>
 			</div>
 	
@@ -250,32 +162,98 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 5794</span>
-						<span>🔱 386</span>
+						<span>⭐ 5831</span>
+						<span>🔱 391</span>
 					</div>
 				<div class="stars-today">⭐ 1929 stars this week</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/huangruiteng/loopx" target="_blank">
+				<p><a href="https://github.com/macro-inc/macro" target="_blank">
     
 
 
       
-        huangruiteng /
+        macro-inc /
 
-      loopx</a></p>
+      macro</a></p>
 				<p>
-      Provider-neutral control plane for long-horizon AI agent work across Codex, Claude Code, and other harnesses, with durable goals, typed todos, evidence, gates, quota, recovery, and verifiable handoffs.
+      Macro is a unified workspace for teams: email, chat, docs, tasks, agents, calls, and CRM — @-linked together with shared AI memory.
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 4753</span>
-						<span>🔱 412</span>
+						<span>🔠 Rust</span>
+						<span>⭐ 3180</span>
+						<span>🔱 313</span>
 					</div>
-				<div class="stars-today">⭐ 1455 stars this week</div>
+				<div class="stars-today">⭐ 2159 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/ToolJet/ToolJet" target="_blank">
+    
+
+
+      
+        ToolJet /
+
+      ToolJet</a></p>
+				<p>
+      ToolJet is the open-source foundation of ToolJet AI - the enterprise app generation platform for building internal tools, dashboard, business applications, workflows and AI agents 🚀
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 JavaScript</span>
+						<span>⭐ 39290</span>
+						<span>🔱 5277</span>
+					</div>
+				<div class="stars-today">⭐ 543 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/TencentCloud/TencentDB-Agent-Memory" target="_blank">
+    
+
+
+      
+        TencentCloud /
+
+      TencentDB-Agent-Memory</a></p>
+				<p>
+      TencentDB Agent Memory is a team-level memory hub for AI Agents — turning conversations, docs, and code into four reusable memory assets (Chat Memory, Skill, LLM-Wiki, Code-Graph) that are governed, shared, and equipped across agents and frameworks.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 21840</span>
+						<span>🔱 2000</span>
+					</div>
+				<div class="stars-today">⭐ 4423 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/addyosmani/agent-skills" target="_blank">
+    
+
+
+      
+        addyosmani /
+
+      agent-skills</a></p>
+				<p>
+      Production-grade engineering skills for AI coding agents.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 JavaScript</span>
+						<span>⭐ 87379</span>
+						<span>🔱 9372</span>
+					</div>
+				<div class="stars-today">⭐ 3845 stars this week</div>
 				</div>
 			</div>
 	
@@ -294,7 +272,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 91165</span>
+						<span>⭐ 91174</span>
 						<span>🔱 7548</span>
 					</div>
 				<div class="stars-today">⭐ 1919 stars this week</div>
@@ -302,66 +280,88 @@ keywords:
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/LadybirdBrowser/ladybird" target="_blank">
+				<p><a href="https://github.com/cloudflare/computer" target="_blank">
     
 
 
       
-        LadybirdBrowser /
+        cloudflare /
 
-      ladybird</a></p>
+      computer</a></p>
 				<p>
-      Truly independent web browser
+      Give your agent a computer 👾
     </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 C++</span>
-						<span>⭐ 65651</span>
-						<span>🔱 3131</span>
-					</div>
-				<div class="stars-today">⭐ 819 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/TapXWorld/ChinaTextbook" target="_blank">
-    
-
-
-      
-        TapXWorld /
-
-      ChinaTextbook</a></p>
-				<p>
-      所有小初高、大学PDF教材。
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Roff</span>
-						<span>⭐ 79704</span>
-						<span>🔱 18082</span>
-					</div>
-				<div class="stars-today">⭐ 1998 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/pingdotgg/t3code" target="_blank">
-    
-
-
-      
-        pingdotgg /
-
-      t3code</a></p>
-				<p></p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 18796</span>
-						<span>🔱 4346</span>
+						<span>⭐ 8189</span>
+						<span>🔱 449</span>
 					</div>
-				<div class="stars-today">⭐ 1603 stars this week</div>
+				<div class="stars-today">⭐ 2856 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/google/skills" target="_blank">
+    
+
+
+      
+        google /
+
+      skills</a></p>
+				<p>
+      Agent Skills for Google products and technologies
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 18262</span>
+						<span>🔱 1441</span>
+					</div>
+				<div class="stars-today">⭐ 2186 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/google-deepmind/weathernext" target="_blank">
+    
+
+
+      
+        google-deepmind /
+
+      weathernext</a></p>
+				<p></p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 7496</span>
+						<span>🔱 962</span>
+					</div>
+				<div class="stars-today">⭐ 674 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/paperclipai/paperclip" target="_blank">
+    
+
+
+      
+        paperclipai /
+
+      paperclip</a></p>
+				<p>
+      The open-source app everyone uses to manage agents at work
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 78201</span>
+						<span>🔱 14347</span>
+					</div>
+				<div class="stars-today">⭐ 2404 stars this week</div>
 				</div>
 			</div>
 	
