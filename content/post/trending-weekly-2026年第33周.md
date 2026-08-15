@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2026年第33周
-date: 2026-08-15T08:10:15Z
+date: 2026-08-15T10:07:36Z
 categories:
 - weekly
 keywords:
@@ -30,8 +30,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 16052</span>
-						<span>🔱 1721</span>
+						<span>⭐ 16080</span>
+						<span>🔱 1726</span>
 					</div>
 				<div class="stars-today">⭐ 10739 stars this week</div>
 				</div>
@@ -52,8 +52,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 7661</span>
-						<span>🔱 794</span>
+						<span>⭐ 7714</span>
+						<span>🔱 797</span>
 					</div>
 				<div class="stars-today">⭐ 5135 stars this week</div>
 				</div>
@@ -74,8 +74,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 18237</span>
-						<span>🔱 1440</span>
+						<span>⭐ 18252</span>
+						<span>🔱 1441</span>
 					</div>
 				<div class="stars-today">⭐ 2186 stars this week</div>
 				</div>
@@ -96,7 +96,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Rust</span>
-						<span>⭐ 3590</span>
+						<span>⭐ 3606</span>
 						<span>🔱 117</span>
 					</div>
 				<div class="stars-today">⭐ 1549 stars this week</div>
@@ -118,7 +118,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 4314</span>
+						<span>⭐ 4322</span>
 						<span>🔱 591</span>
 					</div>
 				<div class="stars-today">⭐ 1718 stars this week</div>
@@ -140,8 +140,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 12934</span>
-						<span>🔱 1727</span>
+						<span>⭐ 12961</span>
+						<span>🔱 1730</span>
 					</div>
 				<div class="stars-today">⭐ 671 stars this week</div>
 				</div>
@@ -162,8 +162,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Rust</span>
-						<span>⭐ 1499</span>
-						<span>🔱 134</span>
+						<span>⭐ 1510</span>
+						<span>🔱 135</span>
 					</div>
 				<div class="stars-today">⭐ 1195 stars this week</div>
 				</div>
@@ -184,8 +184,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 8160</span>
-						<span>🔱 448</span>
+						<span>⭐ 8179</span>
+						<span>🔱 449</span>
 					</div>
 				<div class="stars-today">⭐ 2856 stars this week</div>
 				</div>
@@ -206,8 +206,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 JavaScript</span>
-						<span>⭐ 87342</span>
-						<span>🔱 9370</span>
+						<span>⭐ 87359</span>
+						<span>🔱 9372</span>
 					</div>
 				<div class="stars-today">⭐ 3845 stars this week</div>
 				</div>
@@ -228,8 +228,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 21796</span>
-						<span>🔱 1997</span>
+						<span>⭐ 21820</span>
+						<span>🔱 1998</span>
 					</div>
 				<div class="stars-today">⭐ 4423 stars this week</div>
 				</div>
@@ -250,8 +250,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 5747</span>
-						<span>🔱 385</span>
+						<span>⭐ 5794</span>
+						<span>🔱 386</span>
 					</div>
 				<div class="stars-today">⭐ 1929 stars this week</div>
 				</div>
@@ -267,13 +267,13 @@ keywords:
 
       loopx</a></p>
 				<p>
-      Lightweight loop engineering state kernel for long-running AI agent teams. Agent-loop agnostic across Codex, Claude Code, and other coding agents, with durable goals, quota-aware auto-wake, executable todos, evidence logs, and verifiable handoffs.
+      Provider-neutral control plane for long-horizon AI agent work across Codex, Claude Code, and other harnesses, with durable goals, typed todos, evidence, gates, quota, recovery, and verifiable handoffs.
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 4742</span>
-						<span>🔱 411</span>
+						<span>⭐ 4753</span>
+						<span>🔱 412</span>
 					</div>
 				<div class="stars-today">⭐ 1455 stars this week</div>
 				</div>
@@ -294,8 +294,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 91155</span>
-						<span>🔱 7549</span>
+						<span>⭐ 91165</span>
+						<span>🔱 7548</span>
 					</div>
 				<div class="stars-today">⭐ 1919 stars this week</div>
 				</div>
@@ -316,7 +316,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 C++</span>
-						<span>⭐ 65646</span>
+						<span>⭐ 65651</span>
 						<span>🔱 3131</span>
 					</div>
 				<div class="stars-today">⭐ 819 stars this week</div>
@@ -338,8 +338,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Roff</span>
-						<span>⭐ 79687</span>
-						<span>🔱 18076</span>
+						<span>⭐ 79704</span>
+						<span>🔱 18082</span>
 					</div>
 				<div class="stars-today">⭐ 1998 stars this week</div>
 				</div>
@@ -358,8 +358,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 18780</span>
-						<span>🔱 4344</span>
+						<span>⭐ 18796</span>
+						<span>🔱 4346</span>
 					</div>
 				<div class="stars-today">⭐ 1603 stars this week</div>
 				</div>
