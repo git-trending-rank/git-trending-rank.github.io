@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2026-08-16
-date: 2026-08-16T10:08:09Z
+date: 2026-08-16T12:01:03Z
 categories:
 - daily
 keywords:
@@ -30,76 +30,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 4371</span>
-						<span>🔱 217</span>
+						<span>⭐ 4414</span>
+						<span>🔱 219</span>
 					</div>
 				<div class="stars-today">⭐ 599 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/cathrynlavery/diagram-design" target="_blank">
+				<p><a href="https://github.com/basecamp/omarchy" target="_blank">
     
 
 
       
-        cathrynlavery /
+        basecamp /
 
-      diagram-design</a></p>
+      omarchy</a></p>
 				<p>
-      29 editorial diagram types for Claude Code. Self-contained HTML + SVG. No shadows, no Mermaid-slop.
+      Beautiful, Modern & Opinionated Linux
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 HTML</span>
-						<span>⭐ 19062</span>
-						<span>🔱 1156</span>
+						<span>🔠 Shell</span>
+						<span>⭐ 25077</span>
+						<span>🔱 2555</span>
 					</div>
-				<div class="stars-today">⭐ 1607 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/cursor/plugins" target="_blank">
-    
-
-
-      
-        cursor /
-
-      plugins</a></p>
-				<p>
-      Cursor plugin specification and official plugins
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 3015</span>
-						<span>🔱 242</span>
-					</div>
-				<div class="stars-today">⭐ 149 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/cactus-compute/needle" target="_blank">
-    
-
-
-      
-        cactus-compute /
-
-      needle</a></p>
-				<p>
-      14MB foundation model for tiny devices; phones, wearables, smart home, and robots.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 6231</span>
-						<span>🔱 415</span>
-					</div>
-				<div class="stars-today">⭐ 547 stars today</div>
+				<div class="stars-today">⭐ 225 stars today</div>
 				</div>
 			</div>
 	
@@ -118,10 +74,54 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 72225</span>
-						<span>🔱 6504</span>
+						<span>⭐ 72252</span>
+						<span>🔱 6506</span>
 					</div>
 				<div class="stars-today">⭐ 434 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/OpenCut-app/OpenCut" target="_blank">
+    
+
+
+      
+        OpenCut-app /
+
+      OpenCut</a></p>
+				<p>
+      The open-source CapCut alternative
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 83518</span>
+						<span>🔱 8264</span>
+					</div>
+				<div class="stars-today">⭐ 134 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/akitaonrails/ai-memory" target="_blank">
+    
+
+
+      
+        akitaonrails /
+
+      ai-memory</a></p>
+				<p>
+      Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Rust</span>
+						<span>⭐ 1534</span>
+						<span>🔱 163</span>
+					</div>
+				<div class="stars-today">⭐ 41 stars today</div>
 				</div>
 			</div>
 	
@@ -140,98 +140,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 460704</span>
-						<span>🔱 50900</span>
+						<span>⭐ 460816</span>
+						<span>🔱 50914</span>
 					</div>
 				<div class="stars-today">⭐ 2260 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/MakazhanAlpamys/Soup" target="_blank">
-    
-
-
-      
-        MakazhanAlpamys /
-
-      Soup</a></p>
-				<p>
-      Fine-tune LLMs from one YAML. Layer streaming trains an 8B model on a 4 GB laptop GPU.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 1856</span>
-						<span>🔱 274</span>
-					</div>
-				<div class="stars-today">⭐ 297 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/github/spec-kit" target="_blank">
-    
-
-
-      
-        github /
-
-      spec-kit</a></p>
-				<p>
-      💫 Toolkit to help you get started with Spec-Driven Development
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 129367</span>
-						<span>🔱 11568</span>
-					</div>
-				<div class="stars-today">⭐ 892 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/megadose/holehe" target="_blank">
-    
-
-
-      
-        megadose /
-
-      holehe</a></p>
-				<p>
-      holehe allows you to check if the mail is used on different sites like twitter, instagram and will retrieve information on sites with the forgotten password function.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 13206</span>
-						<span>🔱 1750</span>
-					</div>
-				<div class="stars-today">⭐ 382 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/altic-dev/FluidVoice" target="_blank">
-    
-
-
-      
-        altic-dev /
-
-      FluidVoice</a></p>
-				<p>
-      Fastest and only macOS Dictation app with on-device STT and custom trained AI enhancement model. A local Wispr Flow alternative. DM us on X for an easter egg 😉 - https://x.com/fluidvoiceapp
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Swift</span>
-						<span>⭐ 10430</span>
-						<span>🔱 703</span>
-					</div>
-				<div class="stars-today">⭐ 104 stars today</div>
 				</div>
 			</div>
 	
@@ -250,54 +162,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 JavaScript</span>
-						<span>⭐ 39703</span>
-						<span>🔱 5307</span>
+						<span>⭐ 39734</span>
+						<span>🔱 5310</span>
 					</div>
 				<div class="stars-today">⭐ 544 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/HKUDS/CLI-Anything" target="_blank">
+				<p><a href="https://github.com/cactus-compute/needle" target="_blank">
     
 
 
       
-        HKUDS /
+        cactus-compute /
 
-      CLI-Anything</a></p>
+      needle</a></p>
 				<p>
-      "CLI-Anything: Making ALL Software Agent-Native" -- CLI-Hub: https://clianything.cc/
+      14MB foundation model for tiny devices; phones, wearables, smart home, and robots.
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 47536</span>
-						<span>🔱 4401</span>
+						<span>⭐ 6270</span>
+						<span>🔱 417</span>
 					</div>
-				<div class="stars-today">⭐ 118 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/citrolabs/ego-lite" target="_blank">
-    
-
-
-      
-        citrolabs /
-
-      ego-lite</a></p>
-				<p>
-      The fastest browser for AI agents to run browser automation, built for sharing your logged-in browser state with your AI agents, like Codex or Claude Code, without disturbing you. Zero cost, zero config.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 JavaScript</span>
-						<span>⭐ 11223</span>
-						<span>🔱 573</span>
-					</div>
-				<div class="stars-today">⭐ 545 stars today</div>
+				<div class="stars-today">⭐ 547 stars today</div>
 				</div>
 			</div>
 	

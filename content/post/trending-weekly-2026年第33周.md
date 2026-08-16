@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2026年第33周
-date: 2026-08-16T10:08:09Z
+date: 2026-08-16T12:01:03Z
 categories:
 - weekly
 keywords:
@@ -30,8 +30,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 HTML</span>
-						<span>⭐ 19062</span>
-						<span>🔱 1156</span>
+						<span>⭐ 19133</span>
+						<span>🔱 1159</span>
 					</div>
 				<div class="stars-today">⭐ 14735 stars this week</div>
 				</div>
@@ -52,8 +52,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 8036</span>
-						<span>🔱 820</span>
+						<span>⭐ 8055</span>
+						<span>🔱 823</span>
 					</div>
 				<div class="stars-today">⭐ 5339 stars this week</div>
 				</div>
@@ -74,32 +74,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 16411</span>
-						<span>🔱 1764</span>
+						<span>⭐ 16431</span>
+						<span>🔱 1767</span>
 					</div>
 				<div class="stars-today">⭐ 8488 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/megadose/holehe" target="_blank">
-    
-
-
-      
-        megadose /
-
-      holehe</a></p>
-				<p>
-      holehe allows you to check if the mail is used on different sites like twitter, instagram and will retrieve information on sites with the forgotten password function.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 13206</span>
-						<span>🔱 1750</span>
-					</div>
-				<div class="stars-today">⭐ 1059 stars this week</div>
 				</div>
 			</div>
 	
@@ -118,32 +96,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Rust</span>
-						<span>⭐ 1612</span>
-						<span>🔱 144</span>
+						<span>⭐ 1615</span>
+						<span>🔱 145</span>
 					</div>
 				<div class="stars-today">⭐ 1326 stars this week</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/vitali87/code-graph-rag" target="_blank">
+				<p><a href="https://github.com/megadose/holehe" target="_blank">
     
 
 
       
-        vitali87 /
+        megadose /
 
-      code-graph-rag</a></p>
+      holehe</a></p>
 				<p>
-      The ultimate RAG for your monorepo. Query, understand, and edit multi-language codebases with the power of AI and knowledge graphs
+      holehe allows you to check if the mail is used on different sites like twitter, instagram and will retrieve information on sites with the forgotten password function.
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 4390</span>
-						<span>🔱 596</span>
+						<span>⭐ 13219</span>
+						<span>🔱 1753</span>
 					</div>
-				<div class="stars-today">⭐ 1756 stars this week</div>
+				<div class="stars-today">⭐ 1059 stars this week</div>
 				</div>
 			</div>
 	
@@ -162,8 +140,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 6231</span>
-						<span>🔱 415</span>
+						<span>⭐ 6270</span>
+						<span>🔱 417</span>
 					</div>
 				<div class="stars-today">⭐ 2488 stars this week</div>
 				</div>
@@ -184,10 +162,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Rust</span>
-						<span>⭐ 3313</span>
-						<span>🔱 330</span>
+						<span>⭐ 3328</span>
+						<span>🔱 332</span>
 					</div>
 				<div class="stars-today">⭐ 2434 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/vitali87/code-graph-rag" target="_blank">
+    
+
+
+      
+        vitali87 /
+
+      code-graph-rag</a></p>
+				<p>
+      The ultimate RAG for your monorepo. Query, understand, and edit multi-language codebases with the power of AI and knowledge graphs
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 4399</span>
+						<span>🔱 596</span>
+					</div>
+				<div class="stars-today">⭐ 1756 stars this week</div>
 				</div>
 			</div>
 	
@@ -206,32 +206,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 JavaScript</span>
-						<span>⭐ 39703</span>
-						<span>🔱 5307</span>
+						<span>⭐ 39734</span>
+						<span>🔱 5310</span>
 					</div>
 				<div class="stars-today">⭐ 1047 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/TencentCloud/TencentDB-Agent-Memory" target="_blank">
-    
-
-
-      
-        TencentCloud /
-
-      TencentDB-Agent-Memory</a></p>
-				<p>
-      TencentDB Agent Memory is a team-level memory hub for AI Agents — turning conversations, docs, and code into four reusable memory assets (Chat Memory, Skill, LLM-Wiki, Code-Graph) that are governed, shared, and equipped across agents and frameworks.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 22074</span>
-						<span>🔱 2024</span>
-					</div>
-				<div class="stars-today">⭐ 3956 stars this week</div>
 				</div>
 			</div>
 	
@@ -250,8 +228,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 JavaScript</span>
-						<span>⭐ 87590</span>
-						<span>🔱 9385</span>
+						<span>⭐ 87617</span>
+						<span>🔱 9390</span>
 					</div>
 				<div class="stars-today">⭐ 3300 stars this week</div>
 				</div>
@@ -272,7 +250,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 91275</span>
+						<span>⭐ 91280</span>
 						<span>🔱 7550</span>
 					</div>
 				<div class="stars-today">⭐ 2008 stars this week</div>
@@ -280,66 +258,90 @@ keywords:
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/cloudflare/computer" target="_blank">
+				<p><a href="https://github.com/basecamp/omarchy" target="_blank">
     
 
 
       
-        cloudflare /
+        basecamp /
 
-      computer</a></p>
+      omarchy</a></p>
 				<p>
-      Give your agent a computer 👾
+      Beautiful, Modern & Opinionated Linux
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Shell</span>
+						<span>⭐ 25077</span>
+						<span>🔱 2555</span>
+					</div>
+				<div class="stars-today">⭐ 591 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/unslothai/unsloth" target="_blank">
+    
+
+
+      
+        unslothai /
+
+      unsloth</a></p>
+				<p>
+      Local UI to run and train LLMs and diffusion models, including Qwen3.8, Kimi K3, MiniMax-H3, Gemma 4, DeepSeek-V4, FLUX and more.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 72252</span>
+						<span>🔱 6506</span>
+					</div>
+				<div class="stars-today">⭐ 2207 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/TencentCloud/TencentDB-Agent-Memory" target="_blank">
+    
+
+
+      
+        TencentCloud /
+
+      TencentDB-Agent-Memory</a></p>
+				<p>
+      TencentDB Agent Memory is a team-level memory hub for AI Agents — turning conversations, docs, and code into four reusable memory assets (Chat Memory, Skill, LLM-Wiki, Code-Graph) that are governed, shared, and equipped across agents and frameworks.
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 8303</span>
-						<span>🔱 450</span>
+						<span>⭐ 22096</span>
+						<span>🔱 2025</span>
 					</div>
-				<div class="stars-today">⭐ 1966 stars this week</div>
+				<div class="stars-today">⭐ 3956 stars this week</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/google/skills" target="_blank">
+				<p><a href="https://github.com/Lightricks/LTX-2" target="_blank">
     
 
 
       
-        google /
+        Lightricks /
 
-      skills</a></p>
+      LTX-2</a></p>
 				<p>
-      Agent Skills for Google products and technologies
+      Official Python inference and LoRA trainer package for the LTX-2 audio–video generative model.
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 18371</span>
-						<span>🔱 1444</span>
+						<span>⭐ 9033</span>
+						<span>🔱 1426</span>
 					</div>
-				<div class="stars-today">⭐ 1821 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/google-deepmind/weathernext" target="_blank">
-    
-
-
-      
-        google-deepmind /
-
-      weathernext</a></p>
-				<p></p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 7531</span>
-						<span>🔱 961</span>
-					</div>
-				<div class="stars-today">⭐ 670 stars this week</div>
+				<div class="stars-today">⭐ 484 stars this week</div>
 				</div>
 			</div>
 	
@@ -358,8 +360,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 78382</span>
-						<span>🔱 14366</span>
+						<span>⭐ 78398</span>
+						<span>🔱 14370</span>
 					</div>
 				<div class="stars-today">⭐ 2430 stars this week</div>
 				</div>
