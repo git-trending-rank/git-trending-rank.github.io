@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2026-08-17
-date: 2026-08-17T10:17:08Z
+date: 2026-08-17T12:13:20Z
 categories:
 - daily
 keywords:
@@ -14,6 +14,182 @@ keywords:
 	<main class="container">
         <div class="repo-list" id="repoList">
 
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/harry0703/MoneyPrinterTurbo" target="_blank">
+    
+
+
+      
+        harry0703 /
+
+      MoneyPrinterTurbo</a></p>
+				<p>
+      利用 AI 大模型和自动化工作流，根据主题或关键词一键生成高清短视频。Generate HD short videos from a topic or keyword with an automated AI workflow.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 105261</span>
+						<span>🔱 16007</span>
+					</div>
+				<div class="stars-today">⭐ 494 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/usestrix/strix" target="_blank">
+    
+
+
+      
+        usestrix /
+
+      strix</a></p>
+				<p>
+      Open-source AI penetration testing tool to find and fix your app’s vulnerabilities.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 53618</span>
+						<span>🔱 5747</span>
+					</div>
+				<div class="stars-today">⭐ 856 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/nautechsystems/nautilus_trader" target="_blank">
+    
+
+
+      
+        nautechsystems /
+
+      nautilus_trader</a></p>
+				<p>
+      Production-grade Rust-native trading engine with deterministic event-driven architecture
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Rust</span>
+						<span>⭐ 25674</span>
+						<span>🔱 3358</span>
+					</div>
+				<div class="stars-today">⭐ 115 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/mukul975/Anthropic-Cybersecurity-Skills" target="_blank">
+    
+
+
+      
+        mukul975 /
+
+      Anthropic-Cybersecurity-Skills</a></p>
+				<p>
+      817 structured cybersecurity skills for AI agents · Mapped to 6 frameworks: MITRE ATT&CK, NIST CSF 2.0, MITRE ATLAS, D3FEND, NIST AI RMF & MITRE F3 (Fight Fraud) · agentskills.io standard · Works with Claude Code, GitHub Copilot, Codex CLI, Cursor, Gemini CLI & 20+ platforms · 29 security domains · Apache 2.0
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 28099</span>
+						<span>🔱 3419</span>
+					</div>
+				<div class="stars-today">⭐ 156 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/AlexsJones/llmfit" target="_blank">
+    
+
+
+      
+        AlexsJones /
+
+      llmfit</a></p>
+				<p>
+      Hundreds of models & providers. One command to find what runs on your hardware.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Rust</span>
+						<span>⭐ 32009</span>
+						<span>🔱 1986</span>
+					</div>
+				<div class="stars-today">⭐ 187 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/santifer/career-ops" target="_blank">
+    
+
+
+      
+        santifer /
+
+      career-ops</a></p>
+				<p>
+      Open-source AI job search: scan job portals, evaluate listings with a structured A-F rubric into a 1.0-5.0 score, tailor your CV, track applications — runs locally in your AI coding CLI (Claude Code, Codex, OpenCode, Antigravity…)
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 JavaScript</span>
+						<span>⭐ 64203</span>
+						<span>🔱 12635</span>
+					</div>
+				<div class="stars-today">⭐ 147 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/jundot/omlx" target="_blank">
+    
+
+
+      
+        jundot /
+
+      omlx</a></p>
+				<p>
+      LLM inference server with continuous batching & SSD caching for Apple Silicon — managed from the macOS menu bar
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 18844</span>
+						<span>🔱 1638</span>
+					</div>
+				<div class="stars-today">⭐ 60 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/immich-app/immich" target="_blank">
+    
+
+
+      
+        immich-app /
+
+      immich</a></p>
+				<p>
+      High performance self-hosted photo and video management solution.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 110845</span>
+						<span>🔱 6560</span>
+					</div>
+				<div class="stars-today">⭐ 140 stars today</div>
+				</div>
+			</div>
 	
 			<div class="repo-card">
 				<p><a href="https://github.com/cordiverse/cordis" target="_blank">
@@ -30,142 +206,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 5315</span>
-						<span>🔱 286</span>
+						<span>⭐ 5368</span>
+						<span>🔱 290</span>
 					</div>
-				<div class="stars-today">⭐ 720 stars today</div>
+				<div class="stars-today">⭐ 959 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/basecamp/omarchy" target="_blank">
+				<p><a href="https://github.com/agalwood/Motrix" target="_blank">
     
 
 
       
-        basecamp /
+        agalwood /
 
-      omarchy</a></p>
+      Motrix</a></p>
 				<p>
-      Beautiful, Modern & Opinionated Linux
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Shell</span>
-						<span>⭐ 25777</span>
-						<span>🔱 2615</span>
-					</div>
-				<div class="stars-today">⭐ 270 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/unslothai/unsloth" target="_blank">
-    
-
-
-      
-        unslothai /
-
-      unsloth</a></p>
-				<p>
-      Local UI to run and train LLMs and diffusion models, including Qwen3.8, Kimi K3, MiniMax-H3, Gemma 4, DeepSeek-V4, FLUX and more.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 72981</span>
-						<span>🔱 6574</span>
-					</div>
-				<div class="stars-today">⭐ 572 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/OpenCut-app/OpenCut" target="_blank">
-    
-
-
-      
-        OpenCut-app /
-
-      OpenCut</a></p>
-				<p>
-      The open-source CapCut alternative
+      A full-featured download manager.
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 84283</span>
-						<span>🔱 8315</span>
+						<span>⭐ 52820</span>
+						<span>🔱 4913</span>
 					</div>
-				<div class="stars-today">⭐ 150 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/public-apis/public-apis" target="_blank">
-    
-
-
-      
-        public-apis /
-
-      public-apis</a></p>
-				<p>
-      A collective list of free APIs
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 462636</span>
-						<span>🔱 51087</span>
-					</div>
-				<div class="stars-today">⭐ 1588 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/ToolJet/ToolJet" target="_blank">
-    
-
-
-      
-        ToolJet /
-
-      ToolJet</a></p>
-				<p>
-      ToolJet is the open-source foundation of ToolJet AI - the enterprise app generation platform for building internal tools, dashboard, business applications, workflows and AI agents 🚀
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 JavaScript</span>
-						<span>⭐ 40343</span>
-						<span>🔱 5344</span>
-					</div>
-				<div class="stars-today">⭐ 452 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/cactus-compute/needle" target="_blank">
-    
-
-
-      
-        cactus-compute /
-
-      needle</a></p>
-				<p>
-      14MB foundation model for tiny devices; phones, wearables, smart home, and robots.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 6943</span>
-						<span>🔱 446</span>
-					</div>
-				<div class="stars-today">⭐ 443 stars today</div>
+				<div class="stars-today">⭐ 295 stars today</div>
 				</div>
 			</div>
 	

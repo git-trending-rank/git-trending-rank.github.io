@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2026年8月
-date: 2026-08-17T10:17:08Z
+date: 2026-08-17T12:13:20Z
 categories:
 - monthly
 keywords:
@@ -14,6 +14,28 @@ keywords:
 	<main class="container">
         <div class="repo-list" id="repoList">
 
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/ayghri/i-have-adhd" target="_blank">
+    
+
+
+      
+        ayghri /
+
+      i-have-adhd</a></p>
+				<p>
+      A skill to stop your coding agent from burying the answer. ADHD-friendly output.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 21248</span>
+						<span>🔱 1345</span>
+					</div>
+				<div class="stars-today">⭐ 20897 stars this month</div>
+				</div>
+			</div>
 	
 			<div class="repo-card">
 				<p><a href="https://github.com/bojieli/ai-agent-book" target="_blank">
@@ -30,8 +52,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 38298</span>
-						<span>🔱 4219</span>
+						<span>⭐ 38352</span>
+						<span>🔱 4227</span>
 					</div>
 				<div class="stars-today">⭐ 37110 stars this month</div>
 				</div>
@@ -52,8 +74,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 49460</span>
-						<span>🔱 6738</span>
+						<span>⭐ 49512</span>
+						<span>🔱 6743</span>
 					</div>
 				<div class="stars-today">⭐ 31374 stars this month</div>
 				</div>
@@ -74,32 +96,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 82549</span>
-						<span>🔱 12320</span>
+						<span>⭐ 82567</span>
+						<span>🔱 12322</span>
 					</div>
 				<div class="stars-today">⭐ 20810 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/1jehuang/jcode" target="_blank">
-    
-
-
-      
-        1jehuang /
-
-      jcode</a></p>
-				<p>
-      The most RAM efficient harness
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Rust</span>
-						<span>⭐ 17799</span>
-						<span>🔱 1999</span>
-					</div>
-				<div class="stars-today">⭐ 9481 stars this month</div>
 				</div>
 			</div>
 	
@@ -118,10 +118,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 22474</span>
-						<span>🔱 2049</span>
+						<span>⭐ 22499</span>
+						<span>🔱 2051</span>
 					</div>
 				<div class="stars-today">⭐ 13308 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/1jehuang/jcode" target="_blank">
+    
+
+
+      
+        1jehuang /
+
+      jcode</a></p>
+				<p>
+      The most RAM efficient harness
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Rust</span>
+						<span>⭐ 17805</span>
+						<span>🔱 1999</span>
+					</div>
+				<div class="stars-today">⭐ 9481 stars this month</div>
 				</div>
 			</div>
 	
@@ -140,8 +162,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 PowerShell</span>
-						<span>⭐ 25879</span>
-						<span>🔱 3506</span>
+						<span>⭐ 25904</span>
+						<span>🔱 3511</span>
 					</div>
 				<div class="stars-today">⭐ 17554 stars this month</div>
 				</div>
@@ -160,10 +182,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 19008</span>
-						<span>🔱 4419</span>
+						<span>⭐ 19017</span>
+						<span>🔱 4421</span>
 					</div>
 				<div class="stars-today">⭐ 5027 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/microsoft/AI-For-Beginners" target="_blank">
+    
+
+
+      
+        microsoft /
+
+      AI-For-Beginners</a></p>
+				<p>
+      12 Weeks, 24 Lessons, AI for All!
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Jupyter Notebook</span>
+						<span>⭐ 65105</span>
+						<span>🔱 12641</span>
+					</div>
+				<div class="stars-today">⭐ 12920 stars this month</div>
 				</div>
 			</div>
 	
@@ -182,54 +226,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 92056</span>
-						<span>🔱 11400</span>
+						<span>⭐ 92128</span>
+						<span>🔱 11410</span>
 					</div>
 				<div class="stars-today">⭐ 19903 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/every-app/open-seo" target="_blank">
-    
-
-
-      
-        every-app /
-
-      open-seo</a></p>
-				<p>
-      Open source alternative to Semrush and Ahrefs
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 12289</span>
-						<span>🔱 1399</span>
-					</div>
-				<div class="stars-today">⭐ 7870 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/mattpocock/skills" target="_blank">
-    
-
-
-      
-        mattpocock /
-
-      skills</a></p>
-				<p>
-      Skills for Real Engineers. Straight from my .agents directory.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Shell</span>
-						<span>⭐ 219808</span>
-						<span>🔱 18921</span>
-					</div>
-				<div class="stars-today">⭐ 46346 stars this month</div>
 				</div>
 			</div>
 	
@@ -248,10 +248,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 22394</span>
-						<span>🔱 2360</span>
+						<span>⭐ 22424</span>
+						<span>🔱 2363</span>
 					</div>
 				<div class="stars-today">⭐ 13494 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/mattpocock/skills" target="_blank">
+    
+
+
+      
+        mattpocock /
+
+      skills</a></p>
+				<p>
+      Skills for Real Engineers. Straight from my .agents directory.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Shell</span>
+						<span>⭐ 219902</span>
+						<span>🔱 18928</span>
+					</div>
+				<div class="stars-today">⭐ 46346 stars this month</div>
 				</div>
 			</div>
 	
@@ -270,10 +292,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 46990</span>
-						<span>🔱 3272</span>
+						<span>⭐ 47052</span>
+						<span>🔱 3277</span>
 					</div>
 				<div class="stars-today">⭐ 26429 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/every-app/open-seo" target="_blank">
+    
+
+
+      
+        every-app /
+
+      open-seo</a></p>
+				<p>
+      Open source alternative to Semrush and Ahrefs
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 12303</span>
+						<span>🔱 1400</span>
+					</div>
+				<div class="stars-today">⭐ 7870 stars this month</div>
 				</div>
 			</div>
 	
@@ -292,32 +336,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 36054</span>
-						<span>🔱 4538</span>
+						<span>⭐ 36070</span>
+						<span>🔱 4539</span>
 					</div>
 				<div class="stars-today">⭐ 9425 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/tirth8205/code-review-graph" target="_blank">
-    
-
-
-      
-        tirth8205 /
-
-      code-review-graph</a></p>
-				<p>
-      Local-first code intelligence graph for MCP and CLI. Builds a persistent map of your codebase so AI coding tools read only what matters, with benchmarked context reductions on reviews and large-repo workflows.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 30397</span>
-						<span>🔱 2777</span>
-					</div>
-				<div class="stars-today">⭐ 10934 stars this month</div>
 				</div>
 			</div>
 	
@@ -336,32 +358,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 4540</span>
-						<span>🔱 631</span>
+						<span>⭐ 4552</span>
+						<span>🔱 632</span>
 					</div>
 				<div class="stars-today">⭐ 3175 stars this month</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/Nutlope/hallmark" target="_blank">
+				<p><a href="https://github.com/tirth8205/code-review-graph" target="_blank">
     
 
 
       
-        Nutlope /
+        tirth8205 /
 
-      hallmark</a></p>
+      code-review-graph</a></p>
 				<p>
-      Anti-AI-slop design skill for Claude Code, Cursor, and Codex.
+      Local-first code intelligence graph for MCP and CLI. Builds a persistent map of your codebase so AI coding tools read only what matters, with benchmarked context reductions on reviews and large-repo workflows.
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 CSS</span>
-						<span>⭐ 25427</span>
-						<span>🔱 1293</span>
+						<span>🔠 Python</span>
+						<span>⭐ 30405</span>
+						<span>🔱 2778</span>
 					</div>
-				<div class="stars-today">⭐ 15143 stars this month</div>
+				<div class="stars-today">⭐ 10934 stars this month</div>
 				</div>
 			</div>
 	
@@ -380,32 +402,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Jupyter Notebook</span>
-						<span>⭐ 31415</span>
-						<span>🔱 3335</span>
+						<span>⭐ 31427</span>
+						<span>🔱 3336</span>
 					</div>
 				<div class="stars-today">⭐ 8712 stars this month</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/different-ai/openwork" target="_blank">
+				<p><a href="https://github.com/Nutlope/hallmark" target="_blank">
     
 
 
       
-        different-ai /
+        Nutlope /
 
-      openwork</a></p>
+      hallmark</a></p>
 				<p>
-      The open-source alternative to Claude Cowork (powered by opencode)
+      Anti-AI-slop design skill for Claude Code, Cursor, and Codex.
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 22504</span>
-						<span>🔱 2222</span>
+						<span>🔠 CSS</span>
+						<span>⭐ 25446</span>
+						<span>🔱 1293</span>
 					</div>
-				<div class="stars-today">⭐ 5703 stars this month</div>
+				<div class="stars-today">⭐ 15143 stars this month</div>
 				</div>
 			</div>
 	
@@ -424,7 +446,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 13354</span>
+						<span>⭐ 13362</span>
 						<span>🔱 1765</span>
 					</div>
 				<div class="stars-today">⭐ 1588 stars this month</div>
@@ -432,24 +454,46 @@ keywords:
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/tt-a1i/archify" target="_blank">
+				<p><a href="https://github.com/different-ai/openwork" target="_blank">
     
 
 
       
-        tt-a1i /
+        different-ai /
 
-      archify</a></p>
+      openwork</a></p>
 				<p>
-      Agent skill for beautiful, verifiable architecture, workflow, sequence, data-flow, and lifecycle diagrams—self-contained HTML with motion and crisp export.
+      The open-source alternative to Claude Cowork (powered by opencode)
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 HTML</span>
-						<span>⭐ 13719</span>
-						<span>🔱 1006</span>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 22510</span>
+						<span>🔱 2223</span>
 					</div>
-				<div class="stars-today">⭐ 7964 stars this month</div>
+				<div class="stars-today">⭐ 5703 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/opengeos/GeoLibre" target="_blank">
+    
+
+
+      
+        opengeos /
+
+      GeoLibre</a></p>
+				<p>
+      A lightweight, cloud-native GIS platform for visualizing, exploring, and analyzing geospatial data. It runs in the web browser, on the desktop, on mobile, and inside Jupyter notebooks.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 6252</span>
+						<span>🔱 628</span>
+					</div>
+				<div class="stars-today">⭐ 4492 stars this month</div>
 				</div>
 			</div>
 	

@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2026年第34周
-date: 2026-08-17T10:17:09Z
+date: 2026-08-17T12:13:20Z
 categories:
 - weekly
 keywords:
@@ -30,8 +30,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 HTML</span>
-						<span>⭐ 20089</span>
-						<span>🔱 1226</span>
+						<span>⭐ 20188</span>
+						<span>🔱 1237</span>
 					</div>
 				<div class="stars-today">⭐ 15600 stars this week</div>
 				</div>
@@ -52,76 +52,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 8376</span>
-						<span>🔱 860</span>
+						<span>⭐ 8397</span>
+						<span>🔱 863</span>
 					</div>
 				<div class="stars-today">⭐ 5284 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/PrimeIntellect-ai/prime-agent" target="_blank">
-    
-
-
-      
-        PrimeIntellect-ai /
-
-      prime-agent</a></p>
-				<p>
-      A self-improving RLM agent for coding workflows and long-running autonomous tasks.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 16745</span>
-						<span>🔱 1800</span>
-					</div>
-				<div class="stars-today">⭐ 6435 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/NVIDIA-NeMo/Switchyard" target="_blank">
-    
-
-
-      
-        NVIDIA-NeMo /
-
-      Switchyard</a></p>
-				<p>
-      Switchyard lets LLM applications route traffic across models and providers while preserving native OpenAI and Anthropic API compatibility - enabling flexible model selection, benchmarking, and cost/performance optimization.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Rust</span>
-						<span>⭐ 1749</span>
-						<span>🔱 154</span>
-					</div>
-				<div class="stars-today">⭐ 1435 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/megadose/holehe" target="_blank">
-    
-
-
-      
-        megadose /
-
-      holehe</a></p>
-				<p>
-      holehe allows you to check if the mail is used on different sites like twitter, instagram and will retrieve information on sites with the forgotten password function.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 13354</span>
-						<span>🔱 1765</span>
-					</div>
-				<div class="stars-today">⭐ 1287 stars this week</div>
 				</div>
 			</div>
 	
@@ -140,10 +74,54 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 6943</span>
-						<span>🔱 446</span>
+						<span>⭐ 6992</span>
+						<span>🔱 450</span>
 					</div>
 				<div class="stars-today">⭐ 2950 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/megadose/holehe" target="_blank">
+    
+
+
+      
+        megadose /
+
+      holehe</a></p>
+				<p>
+      holehe allows you to check if the mail is used on different sites like twitter, instagram and will retrieve information on sites with the forgotten password function.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 13362</span>
+						<span>🔱 1765</span>
+					</div>
+				<div class="stars-today">⭐ 1287 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/PrimeIntellect-ai/prime-agent" target="_blank">
+    
+
+
+      
+        PrimeIntellect-ai /
+
+      prime-agent</a></p>
+				<p>
+      A self-improving RLM agent for coding workflows and long-running autonomous tasks.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 16782</span>
+						<span>🔱 1804</span>
+					</div>
+				<div class="stars-today">⭐ 6435 stars this week</div>
 				</div>
 			</div>
 	
@@ -162,7 +140,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Rust</span>
-						<span>⭐ 3470</span>
+						<span>⭐ 3486</span>
 						<span>🔱 348</span>
 					</div>
 				<div class="stars-today">⭐ 2588 stars this week</div>
@@ -184,7 +162,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 4472</span>
+						<span>⭐ 4478</span>
 						<span>🔱 600</span>
 					</div>
 				<div class="stars-today">⭐ 1686 stars this week</div>
@@ -192,46 +170,24 @@ keywords:
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/ToolJet/ToolJet" target="_blank">
+				<p><a href="https://github.com/unslothai/unsloth" target="_blank">
     
 
 
       
-        ToolJet /
+        unslothai /
 
-      ToolJet</a></p>
+      unsloth</a></p>
 				<p>
-      ToolJet is the open-source foundation of ToolJet AI - the enterprise app generation platform for building internal tools, dashboard, business applications, workflows and AI agents 🚀
+      Local UI to run and train LLMs and diffusion models, including Qwen3.8, Kimi K3, MiniMax-H3, Gemma 4, DeepSeek-V4, FLUX and more.
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 JavaScript</span>
-						<span>⭐ 40343</span>
-						<span>🔱 5344</span>
+						<span>🔠 Python</span>
+						<span>⭐ 73021</span>
+						<span>🔱 6577</span>
 					</div>
-				<div class="stars-today">⭐ 1518 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/addyosmani/agent-skills" target="_blank">
-    
-
-
-      
-        addyosmani /
-
-      agent-skills</a></p>
-				<p>
-      Production-grade engineering skills for AI coding agents.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 JavaScript</span>
-						<span>⭐ 87905</span>
-						<span>🔱 9415</span>
-					</div>
-				<div class="stars-today">⭐ 2882 stars this week</div>
+				<div class="stars-today">⭐ 2645 stars this week</div>
 				</div>
 			</div>
 	
@@ -250,8 +206,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 91422</span>
-						<span>🔱 7559</span>
+						<span>⭐ 91434</span>
+						<span>🔱 7561</span>
 					</div>
 				<div class="stars-today">⭐ 1978 stars this week</div>
 				</div>
@@ -272,32 +228,54 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Shell</span>
-						<span>⭐ 25777</span>
-						<span>🔱 2615</span>
+						<span>⭐ 25825</span>
+						<span>🔱 2622</span>
 					</div>
 				<div class="stars-today">⭐ 759 stars this week</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/unslothai/unsloth" target="_blank">
+				<p><a href="https://github.com/addyosmani/agent-skills" target="_blank">
     
 
 
       
-        unslothai /
+        addyosmani /
 
-      unsloth</a></p>
+      agent-skills</a></p>
 				<p>
-      Local UI to run and train LLMs and diffusion models, including Qwen3.8, Kimi K3, MiniMax-H3, Gemma 4, DeepSeek-V4, FLUX and more.
+      Production-grade engineering skills for AI coding agents.
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 72981</span>
-						<span>🔱 6574</span>
+						<span>🔠 JavaScript</span>
+						<span>⭐ 87929</span>
+						<span>🔱 9416</span>
 					</div>
-				<div class="stars-today">⭐ 2645 stars this week</div>
+				<div class="stars-today">⭐ 2882 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/lightningpixel/modly" target="_blank">
+    
+
+
+      
+        lightningpixel /
+
+      modly</a></p>
+				<p>
+      Desktop app to generate 3D models from images or prompt using local AI — runs entirely on your GPU
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 6218</span>
+						<span>🔱 623</span>
+					</div>
+				<div class="stars-today">⭐ 1278 stars this week</div>
 				</div>
 			</div>
 	
@@ -316,54 +294,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 22474</span>
-						<span>🔱 2049</span>
+						<span>⭐ 22499</span>
+						<span>🔱 2051</span>
 					</div>
 				<div class="stars-today">⭐ 3637 stars this week</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/Lightricks/LTX-2" target="_blank">
+				<p><a href="https://github.com/anthropics/skills" target="_blank">
     
 
 
       
-        Lightricks /
+        anthropics /
 
-      LTX-2</a></p>
+      skills</a></p>
 				<p>
-      Official Python inference and LoRA trainer package for the LTX-2 audio–video generative model.
+      Public repository for Agent Skills
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 9080</span>
-						<span>🔱 1432</span>
+						<span>⭐ 169870</span>
+						<span>🔱 20216</span>
 					</div>
-				<div class="stars-today">⭐ 497 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/paperclipai/paperclip" target="_blank">
-    
-
-
-      
-        paperclipai /
-
-      paperclip</a></p>
-				<p>
-      The open-source app everyone uses to manage agents at work
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 78646</span>
-						<span>🔱 14400</span>
-					</div>
-				<div class="stars-today">⭐ 2499 stars this week</div>
+				<div class="stars-today">⭐ 2698 stars this week</div>
 				</div>
 			</div>
 	
