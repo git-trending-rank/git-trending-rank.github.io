@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2026-08-18
-date: 2026-08-18T10:13:07Z
+date: 2026-08-18T12:15:10Z
 categories:
 - daily
 keywords:
@@ -30,54 +30,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 107291</span>
-						<span>🔱 16266</span>
+						<span>⭐ 107496</span>
+						<span>🔱 16297</span>
 					</div>
 				<div class="stars-today">⭐ 1189 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/usestrix/strix" target="_blank">
+				<p><a href="https://github.com/chaitanyagiri/munder-difflin" target="_blank">
     
 
 
       
-        usestrix /
+        chaitanyagiri /
 
-      strix</a></p>
+      munder-difflin</a></p>
 				<p>
-      Open-source AI penetration testing tool to find and fix your app’s vulnerabilities.
+      local multi-agent harness
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 54738</span>
-						<span>🔱 5846</span>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 1654</span>
+						<span>🔱 209</span>
 					</div>
-				<div class="stars-today">⭐ 598 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/nautechsystems/nautilus_trader" target="_blank">
-    
-
-
-      
-        nautechsystems /
-
-      nautilus_trader</a></p>
-				<p>
-      Production-grade Rust-native trading engine with deterministic event-driven architecture
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Rust</span>
-						<span>⭐ 26174</span>
-						<span>🔱 3391</span>
-					</div>
-				<div class="stars-today">⭐ 120 stars today</div>
+				<div class="stars-today">⭐ 256 stars today</div>
 				</div>
 			</div>
 	
@@ -96,10 +74,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Rust</span>
-						<span>⭐ 2404</span>
-						<span>🔱 213</span>
+						<span>⭐ 2448</span>
+						<span>🔱 214</span>
 					</div>
 				<div class="stars-today">⭐ 207 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/volcengine/OpenViking" target="_blank">
+    
+
+
+      
+        volcengine /
+
+      OpenViking</a></p>
+				<p>
+      Self-evolving Context Database for AI Agents. Unify Agent Memory, Knowledge RAG and Skills.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 29034</span>
+						<span>🔱 2285</span>
+					</div>
+				<div class="stars-today">⭐ 239 stars today</div>
 				</div>
 			</div>
 	
@@ -118,120 +118,54 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 28739</span>
-						<span>🔱 3465</span>
+						<span>⭐ 28795</span>
+						<span>🔱 3470</span>
 					</div>
 				<div class="stars-today">⭐ 198 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/AlexsJones/llmfit" target="_blank">
+				<p><a href="https://github.com/public-apis/public-apis" target="_blank">
     
 
 
       
-        AlexsJones /
+        public-apis /
 
-      llmfit</a></p>
+      public-apis</a></p>
 				<p>
-      Hundreds of models & providers. One command to find what runs on your hardware.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Rust</span>
-						<span>⭐ 32576</span>
-						<span>🔱 2012</span>
-					</div>
-				<div class="stars-today">⭐ 198 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/santifer/career-ops" target="_blank">
-    
-
-
-      
-        santifer /
-
-      career-ops</a></p>
-				<p>
-      Open-source AI job search: scan job portals, evaluate listings with a structured A-F rubric into a 1.0-5.0 score, tailor your CV, track applications — runs locally in your AI coding CLI (Claude Code, Codex, OpenCode, Antigravity…)
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 JavaScript</span>
-						<span>⭐ 65212</span>
-						<span>🔱 12676</span>
-					</div>
-				<div class="stars-today">⭐ 218 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/jundot/omlx" target="_blank">
-    
-
-
-      
-        jundot /
-
-      omlx</a></p>
-				<p>
-      LLM inference server with continuous batching & SSD caching for Apple Silicon — managed from the macOS menu bar
+      A collective list of free APIs
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 19161</span>
-						<span>🔱 1648</span>
+						<span>⭐ 463697</span>
+						<span>🔱 51249</span>
 					</div>
-				<div class="stars-today">⭐ 78 stars today</div>
+				<div class="stars-today">⭐ 1907 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/immich-app/immich" target="_blank">
+				<p><a href="https://github.com/basecamp/omarchy" target="_blank">
     
 
 
       
-        immich-app /
+        basecamp /
 
-      immich</a></p>
+      omarchy</a></p>
 				<p>
-      High performance self-hosted photo and video management solution.
+      Beautiful, Modern & Opinionated Linux
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 111459</span>
-						<span>🔱 6592</span>
+						<span>🔠 Shell</span>
+						<span>⭐ 26177</span>
+						<span>🔱 2669</span>
 					</div>
-				<div class="stars-today">⭐ 175 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/cordiverse/cordis" target="_blank">
-    
-
-
-      
-        cordiverse /
-
-      cordis</a></p>
-				<p>
-      Meta-Framework of Spatiotemporal Composability
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 5938</span>
-						<span>🔱 321</span>
-					</div>
-				<div class="stars-today">⭐ 957 stars today</div>
+				<div class="stars-today">⭐ 710 stars today</div>
 				</div>
 			</div>
 	
@@ -250,10 +184,118 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 53362</span>
-						<span>🔱 4934</span>
+						<span>⭐ 53413</span>
+						<span>🔱 4938</span>
 					</div>
 				<div class="stars-today">⭐ 344 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/NawfalMotii79/PLFM_RADAR" target="_blank">
+    
+
+
+      
+        NawfalMotii79 /
+
+      PLFM_RADAR</a></p>
+				<p>
+      Open-source, low-cost 10.5 GHz PLFM phased array RADAR system
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 PLSQL</span>
+						<span>⭐ 24152</span>
+						<span>🔱 5567</span>
+					</div>
+				<div class="stars-today">⭐ 204 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/jundot/omlx" target="_blank">
+    
+
+
+      
+        jundot /
+
+      omlx</a></p>
+				<p>
+      LLM inference server with continuous batching & SSD caching for Apple Silicon — managed from the macOS menu bar
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 19188</span>
+						<span>🔱 1651</span>
+					</div>
+				<div class="stars-today">⭐ 78 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/bojieli/ai-agent-book" target="_blank">
+    
+
+
+      
+        bojieli /
+
+      ai-agent-book</a></p>
+				<p>
+      《深入理解 AI Agent：设计原理与工程实践》（李博杰 著）开源主仓库：全书正文、编译版 PDF 与按章配套代码
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 38885</span>
+						<span>🔱 4288</span>
+					</div>
+				<div class="stars-today">⭐ 556 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/genlayerlabs/genlayer-project-boilerplate" target="_blank">
+    
+
+
+      
+        genlayerlabs /
+
+      genlayer-project-boilerplate</a></p>
+				<p></p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 15724</span>
+						<span>🔱 791</span>
+					</div>
+				<div class="stars-today">⭐ 543 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/OpenCut-app/OpenCut" target="_blank">
+    
+
+
+      
+        OpenCut-app /
+
+      OpenCut</a></p>
+				<p>
+      The open-source CapCut alternative
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 84485</span>
+						<span>🔱 8335</span>
+					</div>
+				<div class="stars-today">⭐ 682 stars today</div>
 				</div>
 			</div>
 	

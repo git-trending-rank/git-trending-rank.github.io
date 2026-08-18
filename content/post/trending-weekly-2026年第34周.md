@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2026年第34周
-date: 2026-08-18T10:13:07Z
+date: 2026-08-18T12:15:10Z
 categories:
 - weekly
 keywords:
@@ -30,8 +30,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 HTML</span>
-						<span>⭐ 21204</span>
-						<span>🔱 1310</span>
+						<span>⭐ 21292</span>
+						<span>🔱 1318</span>
 					</div>
 				<div class="stars-today">⭐ 16260 stars this week</div>
 				</div>
@@ -52,8 +52,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 8794</span>
-						<span>🔱 901</span>
+						<span>⭐ 8828</span>
+						<span>🔱 904</span>
 					</div>
 				<div class="stars-today">⭐ 4746 stars this week</div>
 				</div>
@@ -74,8 +74,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 7303</span>
-						<span>🔱 472</span>
+						<span>⭐ 7333</span>
+						<span>🔱 474</span>
 					</div>
 				<div class="stars-today">⭐ 3627 stars this week</div>
 				</div>
@@ -96,120 +96,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 13512</span>
-						<span>🔱 1778</span>
+						<span>⭐ 13525</span>
+						<span>🔱 1779</span>
 					</div>
 				<div class="stars-today">⭐ 1416 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/PrimeIntellect-ai/prime-agent" target="_blank">
-    
-
-
-      
-        PrimeIntellect-ai /
-
-      prime-agent</a></p>
-				<p>
-      A self-improving RLM agent for coding workflows and long-running autonomous tasks.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 17042</span>
-						<span>🔱 1826</span>
-					</div>
-				<div class="stars-today">⭐ 4328 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/macro-inc/macro" target="_blank">
-    
-
-
-      
-        macro-inc /
-
-      macro</a></p>
-				<p>
-      Macro is a unified workspace for teams: email, chat, docs, tasks, agents, calls, and CRM — @-linked together with shared AI memory.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Rust</span>
-						<span>⭐ 3611</span>
-						<span>🔱 359</span>
-					</div>
-				<div class="stars-today">⭐ 2724 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/vitali87/code-graph-rag" target="_blank">
-    
-
-
-      
-        vitali87 /
-
-      code-graph-rag</a></p>
-				<p>
-      The ultimate RAG for your monorepo. Query, understand, and edit multi-language codebases with the power of AI and knowledge graphs
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 4583</span>
-						<span>🔱 612</span>
-					</div>
-				<div class="stars-today">⭐ 1135 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/unslothai/unsloth" target="_blank">
-    
-
-
-      
-        unslothai /
-
-      unsloth</a></p>
-				<p>
-      Local UI to run and train LLMs and diffusion models, including Qwen3.8, Kimi K3, MiniMax-H3, Gemma 4, DeepSeek-V4, FLUX and more.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 73406</span>
-						<span>🔱 6623</span>
-					</div>
-				<div class="stars-today">⭐ 3329 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/3b1b/manim" target="_blank">
-    
-
-
-      
-        3b1b /
-
-      manim</a></p>
-				<p>
-      Animation engine for explanatory math videos
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 91550</span>
-						<span>🔱 7561</span>
-					</div>
-				<div class="stars-today">⭐ 1724 stars this week</div>
 				</div>
 			</div>
 	
@@ -228,32 +118,54 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Shell</span>
-						<span>⭐ 26147</span>
-						<span>🔱 2665</span>
+						<span>⭐ 26177</span>
+						<span>🔱 2669</span>
 					</div>
 				<div class="stars-today">⭐ 1477 stars this week</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/addyosmani/agent-skills" target="_blank">
+				<p><a href="https://github.com/macro-inc/macro" target="_blank">
     
 
 
       
-        addyosmani /
+        macro-inc /
 
-      agent-skills</a></p>
+      macro</a></p>
 				<p>
-      Production-grade engineering skills for AI coding agents.
+      Macro is a unified workspace for teams: email, chat, docs, tasks, agents, calls, and CRM — @-linked together with shared AI memory.
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 JavaScript</span>
-						<span>⭐ 88172</span>
-						<span>🔱 9447</span>
+						<span>🔠 Rust</span>
+						<span>⭐ 3617</span>
+						<span>🔱 359</span>
 					</div>
-				<div class="stars-today">⭐ 2575 stars this week</div>
+				<div class="stars-today">⭐ 2724 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/unslothai/unsloth" target="_blank">
+    
+
+
+      
+        unslothai /
+
+      unsloth</a></p>
+				<p>
+      Local UI to run and train LLMs and diffusion models, including Qwen3.8, Kimi K3, MiniMax-H3, Gemma 4, DeepSeek-V4, FLUX and more.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 73431</span>
+						<span>🔱 6629</span>
+					</div>
+				<div class="stars-today">⭐ 3329 stars this week</div>
 				</div>
 			</div>
 	
@@ -272,54 +184,164 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 6506</span>
-						<span>🔱 645</span>
+						<span>⭐ 6542</span>
+						<span>🔱 648</span>
 					</div>
 				<div class="stars-today">⭐ 1338 stars this week</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/TencentCloud/TencentDB-Agent-Memory" target="_blank">
+				<p><a href="https://github.com/AlexsJones/llmfit" target="_blank">
     
 
 
       
-        TencentCloud /
+        AlexsJones /
 
-      TencentDB-Agent-Memory</a></p>
+      llmfit</a></p>
 				<p>
-      TencentDB Agent Memory is a team-level memory hub for AI Agents — turning conversations, docs, and code into four reusable memory assets (Chat Memory, Skill, LLM-Wiki, Code-Graph) that are governed, shared, and equipped across agents and frameworks.
+      Hundreds of models & providers. One command to find what runs on your hardware.
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 22822</span>
-						<span>🔱 2081</span>
+						<span>🔠 Rust</span>
+						<span>⭐ 32602</span>
+						<span>🔱 2014</span>
 					</div>
-				<div class="stars-today">⭐ 3389 stars this week</div>
+				<div class="stars-today">⭐ 861 stars this week</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/anthropics/skills" target="_blank">
+				<p><a href="https://github.com/public-apis/public-apis" target="_blank">
     
 
 
       
-        anthropics /
+        public-apis /
 
-      skills</a></p>
+      public-apis</a></p>
 				<p>
-      Public repository for Agent Skills
+      A collective list of free APIs
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 170162</span>
-						<span>🔱 20247</span>
+						<span>⭐ 463697</span>
+						<span>🔱 51249</span>
 					</div>
-				<div class="stars-today">⭐ 2714 stars this week</div>
+				<div class="stars-today">⭐ 8071 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/PrimeIntellect-ai/prime-agent" target="_blank">
+    
+
+
+      
+        PrimeIntellect-ai /
+
+      prime-agent</a></p>
+				<p>
+      A self-improving RLM agent for coding workflows and long-running autonomous tasks.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 17059</span>
+						<span>🔱 1832</span>
+					</div>
+				<div class="stars-today">⭐ 4328 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/3b1b/manim" target="_blank">
+    
+
+
+      
+        3b1b /
+
+      manim</a></p>
+				<p>
+      Animation engine for explanatory math videos
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 91561</span>
+						<span>🔱 7561</span>
+					</div>
+				<div class="stars-today">⭐ 1724 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/Lightricks/LTX-2" target="_blank">
+    
+
+
+      
+        Lightricks /
+
+      LTX-2</a></p>
+				<p>
+      Official Python inference and LoRA trainer package for the LTX-2 audio–video generative model.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 9102</span>
+						<span>🔱 1436</span>
+					</div>
+				<div class="stars-today">⭐ 544 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/vitali87/code-graph-rag" target="_blank">
+    
+
+
+      
+        vitali87 /
+
+      code-graph-rag</a></p>
+				<p>
+      The ultimate RAG for your monorepo. Query, understand, and edit multi-language codebases with the power of AI and knowledge graphs
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 4590</span>
+						<span>🔱 612</span>
+					</div>
+				<div class="stars-today">⭐ 1135 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/superradcompany/microsandbox" target="_blank">
+    
+
+
+      
+        superradcompany /
+
+      microsandbox</a></p>
+				<p>
+      🧱 easy fast local-first microVM runtime and library
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Rust</span>
+						<span>⭐ 7595</span>
+						<span>🔱 406</span>
+					</div>
+				<div class="stars-today">⭐ 352 stars this week</div>
 				</div>
 			</div>
 	
