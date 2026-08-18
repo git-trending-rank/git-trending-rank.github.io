@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2026-08-18
-date: 2026-08-18T14:18:13Z
+date: 2026-08-18T16:13:40Z
 categories:
 - daily
 keywords:
@@ -30,8 +30,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 107766</span>
-						<span>🔱 16344</span>
+						<span>⭐ 108059</span>
+						<span>🔱 16394</span>
 					</div>
 				<div class="stars-today">⭐ 2306 stars today</div>
 				</div>
@@ -52,8 +52,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 1738</span>
-						<span>🔱 215</span>
+						<span>⭐ 1811</span>
+						<span>🔱 221</span>
 					</div>
 				<div class="stars-today">⭐ 256 stars today</div>
 				</div>
@@ -74,10 +74,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Rust</span>
-						<span>⭐ 2506</span>
-						<span>🔱 220</span>
+						<span>⭐ 2572</span>
+						<span>🔱 224</span>
 					</div>
-				<div class="stars-today">⭐ 207 stars today</div>
+				<div class="stars-today">⭐ 730 stars today</div>
 				</div>
 			</div>
 	
@@ -96,10 +96,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 29111</span>
-						<span>🔱 2290</span>
+						<span>⭐ 29174</span>
+						<span>🔱 2294</span>
 					</div>
-				<div class="stars-today">⭐ 239 stars today</div>
+				<div class="stars-today">⭐ 298 stars today</div>
 				</div>
 			</div>
 	
@@ -118,8 +118,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 28872</span>
-						<span>🔱 3473</span>
+						<span>⭐ 28942</span>
+						<span>🔱 3476</span>
 					</div>
 				<div class="stars-today">⭐ 726 stars today</div>
 				</div>
@@ -140,10 +140,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 463898</span>
-						<span>🔱 51269</span>
+						<span>⭐ 464059</span>
+						<span>🔱 51284</span>
 					</div>
-				<div class="stars-today">⭐ 1907 stars today</div>
+				<div class="stars-today">⭐ 1139 stars today</div>
 				</div>
 			</div>
 	
@@ -162,8 +162,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Shell</span>
-						<span>⭐ 26227</span>
-						<span>🔱 2674</span>
+						<span>⭐ 26269</span>
+						<span>🔱 2676</span>
 					</div>
 				<div class="stars-today">⭐ 710 stars today</div>
 				</div>
@@ -184,8 +184,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 53466</span>
-						<span>🔱 4942</span>
+						<span>⭐ 53518</span>
+						<span>🔱 4945</span>
 					</div>
 				<div class="stars-today">⭐ 607 stars today</div>
 				</div>
@@ -206,8 +206,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 PLSQL</span>
-						<span>⭐ 24184</span>
-						<span>🔱 5571</span>
+						<span>⭐ 24217</span>
+						<span>🔱 5576</span>
 					</div>
 				<div class="stars-today">⭐ 204 stars today</div>
 				</div>
@@ -228,10 +228,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 19238</span>
-						<span>🔱 1652</span>
+						<span>⭐ 19286</span>
+						<span>🔱 1656</span>
 					</div>
 				<div class="stars-today">⭐ 366 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/bojieli/ai-agent-book" target="_blank">
+    
+
+
+      
+        bojieli /
+
+      ai-agent-book</a></p>
+				<p>
+      《深入理解 AI Agent：设计原理与工程实践》（李博杰 著）开源主仓库：全书正文、编译版 PDF 与按章配套代码
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 38971</span>
+						<span>🔱 4299</span>
+					</div>
+				<div class="stars-today">⭐ 556 stars today</div>
 				</div>
 			</div>
 	
@@ -248,8 +270,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 15814</span>
-						<span>🔱 795</span>
+						<span>⭐ 15859</span>
+						<span>🔱 797</span>
 					</div>
 				<div class="stars-today">⭐ 543 stars today</div>
 				</div>
@@ -270,8 +292,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 84538</span>
-						<span>🔱 8338</span>
+						<span>⭐ 84594</span>
+						<span>🔱 8339</span>
 					</div>
 				<div class="stars-today">⭐ 682 stars today</div>
 				</div>
