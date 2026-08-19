@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2026-08-19
-date: 2026-08-19T00:22:44Z
+date: 2026-08-19T02:44:57Z
 categories:
 - daily
 keywords:
@@ -30,8 +30,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 108508</span>
-						<span>🔱 16475</span>
+						<span>⭐ 108736</span>
+						<span>🔱 16508</span>
 					</div>
 				<div class="stars-today">⭐ 2304 stars today</div>
 				</div>
@@ -52,8 +52,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 2020</span>
-						<span>🔱 239</span>
+						<span>⭐ 2115</span>
+						<span>🔱 247</span>
 					</div>
 				<div class="stars-today">⭐ 306 stars today</div>
 				</div>
@@ -74,8 +74,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Rust</span>
-						<span>⭐ 2713</span>
-						<span>🔱 232</span>
+						<span>⭐ 2795</span>
+						<span>🔱 239</span>
 					</div>
 				<div class="stars-today">⭐ 648 stars today</div>
 				</div>
@@ -96,8 +96,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 29361</span>
-						<span>🔱 2304</span>
+						<span>⭐ 29495</span>
+						<span>🔱 2310</span>
 					</div>
 				<div class="stars-today">⭐ 213 stars today</div>
 				</div>
@@ -118,8 +118,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 29178</span>
-						<span>🔱 3494</span>
+						<span>⭐ 29261</span>
+						<span>🔱 3498</span>
 					</div>
 				<div class="stars-today">⭐ 730 stars today</div>
 				</div>
@@ -140,8 +140,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 464530</span>
-						<span>🔱 51315</span>
+						<span>⭐ 464690</span>
+						<span>🔱 51328</span>
 					</div>
 				<div class="stars-today">⭐ 1005 stars today</div>
 				</div>
@@ -162,8 +162,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Shell</span>
-						<span>⭐ 26416</span>
-						<span>🔱 2688</span>
+						<span>⭐ 26468</span>
+						<span>🔱 2693</span>
 					</div>
 				<div class="stars-today">⭐ 356 stars today</div>
 				</div>
@@ -184,8 +184,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 53649</span>
-						<span>🔱 4948</span>
+						<span>⭐ 53740</span>
+						<span>🔱 4951</span>
 					</div>
 				<div class="stars-today">⭐ 609 stars today</div>
 				</div>
@@ -206,8 +206,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 PLSQL</span>
-						<span>⭐ 24291</span>
-						<span>🔱 5587</span>
+						<span>⭐ 24343</span>
+						<span>🔱 5594</span>
 					</div>
 				<div class="stars-today">⭐ 192 stars today</div>
 				</div>
@@ -228,32 +228,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 19389</span>
-						<span>🔱 1669</span>
+						<span>⭐ 19449</span>
+						<span>🔱 1672</span>
 					</div>
 				<div class="stars-today">⭐ 370 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/bojieli/ai-agent-book" target="_blank">
-    
-
-
-      
-        bojieli /
-
-      ai-agent-book</a></p>
-				<p>
-      《深入理解 AI Agent：设计原理与工程实践》（李博杰 著）开源主仓库：全书正文、编译版 PDF 与按章配套代码
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 39099</span>
-						<span>🔱 4310</span>
-					</div>
-				<div class="stars-today">⭐ 543 stars today</div>
 				</div>
 			</div>
 	
@@ -270,8 +248,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 15926</span>
-						<span>🔱 801</span>
+						<span>⭐ 15992</span>
+						<span>🔱 802</span>
 					</div>
 				<div class="stars-today">⭐ 535 stars today</div>
 				</div>
@@ -292,8 +270,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 84765</span>
-						<span>🔱 8352</span>
+						<span>⭐ 84846</span>
+						<span>🔱 8355</span>
 					</div>
 				<div class="stars-today">⭐ 192 stars today</div>
 				</div>
