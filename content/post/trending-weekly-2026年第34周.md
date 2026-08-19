@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2026年第34周
-date: 2026-08-19T12:15:03Z
+date: 2026-08-19T14:18:47Z
 categories:
 - weekly
 keywords:
@@ -30,32 +30,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 HTML</span>
-						<span>⭐ 22608</span>
-						<span>🔱 1391</span>
+						<span>⭐ 22820</span>
+						<span>🔱 1399</span>
 					</div>
 				<div class="stars-today">⭐ 15812 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/semantica-agi/semantica" target="_blank">
-    
-
-
-      
-        semantica-agi /
-
-      semantica</a></p>
-				<p>
-      Graph-Native Infrastructure for Context and Accountable AI Systems
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 9363</span>
-						<span>🔱 970</span>
-					</div>
-				<div class="stars-today">⭐ 4304 stars this week</div>
 				</div>
 			</div>
 	
@@ -74,10 +52,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 7687</span>
-						<span>🔱 492</span>
+						<span>⭐ 7718</span>
+						<span>🔱 493</span>
 					</div>
 				<div class="stars-today">⭐ 3772 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/semantica-agi/semantica" target="_blank">
+    
+
+
+      
+        semantica-agi /
+
+      semantica</a></p>
+				<p>
+      Graph-Native Infrastructure for Context and Accountable AI Systems
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 9405</span>
+						<span>🔱 979</span>
+					</div>
+				<div class="stars-today">⭐ 4304 stars this week</div>
 				</div>
 			</div>
 	
@@ -96,8 +96,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 13671</span>
-						<span>🔱 1794</span>
+						<span>⭐ 13682</span>
+						<span>🔱 1795</span>
 					</div>
 				<div class="stars-today">⭐ 1568 stars this week</div>
 				</div>
@@ -118,10 +118,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Shell</span>
-						<span>⭐ 26648</span>
-						<span>🔱 2709</span>
+						<span>⭐ 26686</span>
+						<span>🔱 2713</span>
 					</div>
 				<div class="stars-today">⭐ 1802 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/volcengine/OpenViking" target="_blank">
+    
+
+
+      
+        volcengine /
+
+      OpenViking</a></p>
+				<p>
+      Self-evolving Context Database for AI Agents. Unify Agent Memory, Knowledge RAG and Skills.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 29879</span>
+						<span>🔱 2321</span>
+					</div>
+				<div class="stars-today">⭐ 985 stars this week</div>
 				</div>
 			</div>
 	
@@ -140,8 +162,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Rust</span>
-						<span>⭐ 3727</span>
-						<span>🔱 363</span>
+						<span>⭐ 3740</span>
+						<span>🔱 365</span>
 					</div>
 				<div class="stars-today">⭐ 2627 stars this week</div>
 				</div>
@@ -162,10 +184,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 73723</span>
-						<span>🔱 6660</span>
+						<span>⭐ 73754</span>
+						<span>🔱 6663</span>
 					</div>
 				<div class="stars-today">⭐ 3636 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/harry0703/MoneyPrinterTurbo" target="_blank">
+    
+
+
+      
+        harry0703 /
+
+      MoneyPrinterTurbo</a></p>
+				<p>
+      利用 AI 大模型和自动化工作流，根据主题或关键词一键生成高清短视频。Generate HD short videos from a topic or keyword with an automated AI workflow.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 109847</span>
+						<span>🔱 16680</span>
+					</div>
+				<div class="stars-today">⭐ 7294 stars this week</div>
 				</div>
 			</div>
 	
@@ -184,32 +228,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 6809</span>
+						<span>⭐ 6831</span>
 						<span>🔱 661</span>
 					</div>
 				<div class="stars-today">⭐ 1600 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/AlexsJones/llmfit" target="_blank">
-    
-
-
-      
-        AlexsJones /
-
-      llmfit</a></p>
-				<p>
-      Hundreds of models & providers. One command to find what runs on your hardware.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Rust</span>
-						<span>⭐ 32854</span>
-						<span>🔱 2031</span>
-					</div>
-				<div class="stars-today">⭐ 1316 stars this week</div>
 				</div>
 			</div>
 	
@@ -228,98 +250,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 465365</span>
-						<span>🔱 51381</span>
+						<span>⭐ 465500</span>
+						<span>🔱 51390</span>
 					</div>
 				<div class="stars-today">⭐ 8646 stars this week</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/PrimeIntellect-ai/prime-agent" target="_blank">
+				<p><a href="https://github.com/AlexsJones/llmfit" target="_blank">
     
 
 
       
-        PrimeIntellect-ai /
+        AlexsJones /
 
-      prime-agent</a></p>
+      llmfit</a></p>
 				<p>
-      A self-improving RLM agent for coding workflows and long-running autonomous tasks.
+      Hundreds of models & providers. One command to find what runs on your hardware.
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 17306</span>
-						<span>🔱 1862</span>
+						<span>🔠 Rust</span>
+						<span>⭐ 32887</span>
+						<span>🔱 2033</span>
 					</div>
-				<div class="stars-today">⭐ 3475 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/3b1b/manim" target="_blank">
-    
-
-
-      
-        3b1b /
-
-      manim</a></p>
-				<p>
-      Animation engine for explanatory math videos
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 91691</span>
-						<span>🔱 7568</span>
-					</div>
-				<div class="stars-today">⭐ 1646 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/Lightricks/LTX-2" target="_blank">
-    
-
-
-      
-        Lightricks /
-
-      LTX-2</a></p>
-				<p>
-      Official Python inference and LoRA trainer package for the LTX-2 audio–video generative model.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 9155</span>
-						<span>🔱 1437</span>
-					</div>
-				<div class="stars-today">⭐ 556 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/vitali87/code-graph-rag" target="_blank">
-    
-
-
-      
-        vitali87 /
-
-      code-graph-rag</a></p>
-				<p>
-      The ultimate RAG for your monorepo. Query, understand, and edit multi-language codebases with the power of AI and knowledge graphs
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 4659</span>
-						<span>🔱 617</span>
-					</div>
-				<div class="stars-today">⭐ 910 stars this week</div>
+				<div class="stars-today">⭐ 1316 stars this week</div>
 				</div>
 			</div>
 	
@@ -338,10 +294,54 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Rust</span>
-						<span>⭐ 7742</span>
+						<span>⭐ 7750</span>
 						<span>🔱 410</span>
 					</div>
 				<div class="stars-today">⭐ 350 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/jundot/omlx" target="_blank">
+    
+
+
+      
+        jundot /
+
+      omlx</a></p>
+				<p>
+      LLM inference server with continuous batching & SSD caching for Apple Silicon — managed from the macOS menu bar
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 19692</span>
+						<span>🔱 1683</span>
+					</div>
+				<div class="stars-today">⭐ 720 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/CodebuffAI/freebuff" target="_blank">
+    
+
+
+      
+        CodebuffAI /
+
+      freebuff</a></p>
+				<p>
+      The free coding agent
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 10012</span>
+						<span>🔱 1117</span>
+					</div>
+				<div class="stars-today">⭐ 1010 stars this week</div>
 				</div>
 			</div>
 	

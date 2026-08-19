@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2026年8月
-date: 2026-08-19T12:15:03Z
+date: 2026-08-19T14:18:47Z
 categories:
 - monthly
 keywords:
@@ -16,24 +16,24 @@ keywords:
 
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/ayghri/i-have-adhd" target="_blank">
+				<p><a href="https://github.com/block/buzz" target="_blank">
     
 
 
       
-        ayghri /
+        block /
 
-      i-have-adhd</a></p>
+      buzz</a></p>
 				<p>
-      A skill to stop your coding agent from burying the answer. ADHD-friendly output.
+      A hive mind communication platform
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 22169</span>
-						<span>🔱 1403</span>
+						<span>🔠 Rust</span>
+						<span>⭐ 28544</span>
+						<span>🔱 3568</span>
 					</div>
-				<div class="stars-today">⭐ 21447 stars this month</div>
+				<div class="stars-today">⭐ 28442 stars this month</div>
 				</div>
 			</div>
 	
@@ -52,10 +52,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Swift</span>
-						<span>⭐ 35603</span>
+						<span>⭐ 35615</span>
 						<span>🔱 5665</span>
 					</div>
 				<div class="stars-today">⭐ 9555 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/ayghri/i-have-adhd" target="_blank">
+    
+
+
+      
+        ayghri /
+
+      i-have-adhd</a></p>
+				<p>
+      A skill to stop your coding agent from burying the answer. ADHD-friendly output.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 22208</span>
+						<span>🔱 1404</span>
+					</div>
+				<div class="stars-today">⭐ 21447 stars this month</div>
 				</div>
 			</div>
 	
@@ -74,32 +96,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 50830</span>
-						<span>🔱 6929</span>
+						<span>⭐ 50947</span>
+						<span>🔱 6938</span>
 					</div>
 				<div class="stars-today">⭐ 32029 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/koala73/worldmonitor" target="_blank">
-    
-
-
-      
-        koala73 /
-
-      worldmonitor</a></p>
-				<p>
-      Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 83112</span>
-						<span>🔱 12392</span>
-					</div>
-				<div class="stars-today">⭐ 21286 stars this month</div>
 				</div>
 			</div>
 	
@@ -118,8 +118,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 23145</span>
-						<span>🔱 2116</span>
+						<span>⭐ 23175</span>
+						<span>🔱 2119</span>
 					</div>
 				<div class="stars-today">⭐ 13944 stars this month</div>
 				</div>
@@ -140,10 +140,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 PowerShell</span>
-						<span>⭐ 26586</span>
-						<span>🔱 3614</span>
+						<span>⭐ 26618</span>
+						<span>🔱 3619</span>
 					</div>
 				<div class="stars-today">⭐ 18059 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/koala73/worldmonitor" target="_blank">
+    
+
+
+      
+        koala73 /
+
+      worldmonitor</a></p>
+				<p>
+      Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 83130</span>
+						<span>🔱 12399</span>
+					</div>
+				<div class="stars-today">⭐ 21286 stars this month</div>
 				</div>
 			</div>
 	
@@ -160,8 +182,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 19457</span>
-						<span>🔱 4531</span>
+						<span>⭐ 19482</span>
+						<span>🔱 4543</span>
 					</div>
 				<div class="stars-today">⭐ 5265 stars this month</div>
 				</div>
@@ -182,32 +204,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Jupyter Notebook</span>
-						<span>⭐ 65591</span>
-						<span>🔱 12717</span>
+						<span>⭐ 65610</span>
+						<span>🔱 12720</span>
 					</div>
 				<div class="stars-today">⭐ 13156 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/1jehuang/jcode" target="_blank">
-    
-
-
-      
-        1jehuang /
-
-      jcode</a></p>
-				<p>
-      The most RAM efficient harness
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Rust</span>
-						<span>⭐ 17976</span>
-						<span>🔱 2019</span>
-					</div>
-				<div class="stars-today">⭐ 9593 stars this month</div>
 				</div>
 			</div>
 	
@@ -226,32 +226,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 23009</span>
-						<span>🔱 2440</span>
+						<span>⭐ 23035</span>
+						<span>🔱 2443</span>
 					</div>
 				<div class="stars-today">⭐ 14079 stars this month</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/earendil-works/pi" target="_blank">
+				<p><a href="https://github.com/1jehuang/jcode" target="_blank">
     
 
 
       
-        earendil-works /
+        1jehuang /
 
-      pi</a></p>
+      jcode</a></p>
 				<p>
-      AI agent toolkit: unified LLM API, agent loop, TUI, coding agent CLI
+      The most RAM efficient harness
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 93600</span>
-						<span>🔱 11583</span>
+						<span>🔠 Rust</span>
+						<span>⭐ 17986</span>
+						<span>🔱 2020</span>
 					</div>
-				<div class="stars-today">⭐ 20985 stars this month</div>
+				<div class="stars-today">⭐ 9593 stars this month</div>
 				</div>
 			</div>
 	
@@ -270,32 +270,54 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Shell</span>
-						<span>⭐ 222706</span>
-						<span>🔱 19183</span>
+						<span>⭐ 222966</span>
+						<span>🔱 19200</span>
 					</div>
 				<div class="stars-today">⭐ 46007 stars this month</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/every-app/open-seo" target="_blank">
+				<p><a href="https://github.com/earendil-works/pi" target="_blank">
     
 
 
       
-        every-app /
+        earendil-works /
 
-      open-seo</a></p>
+      pi</a></p>
 				<p>
-      Open source alternative to Semrush and Ahrefs
+      AI agent toolkit: unified LLM API, agent loop, TUI, coding agent CLI
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 12610</span>
-						<span>🔱 1444</span>
+						<span>⭐ 93651</span>
+						<span>🔱 11592</span>
 					</div>
-				<div class="stars-today">⭐ 8133 stars this month</div>
+				<div class="stars-today">⭐ 20985 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/basecamp/omarchy" target="_blank">
+    
+
+
+      
+        basecamp /
+
+      omarchy</a></p>
+				<p>
+      Beautiful, Modern & Opinionated Linux
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Shell</span>
+						<span>⭐ 26686</span>
+						<span>🔱 2713</span>
+					</div>
+				<div class="stars-today">⭐ 2364 stars this month</div>
 				</div>
 			</div>
 	
@@ -314,8 +336,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 48760</span>
-						<span>🔱 3374</span>
+						<span>⭐ 48833</span>
+						<span>🔱 3378</span>
 					</div>
 				<div class="stars-today">⭐ 26771 stars this month</div>
 				</div>
@@ -336,76 +358,54 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 36416</span>
-						<span>🔱 4583</span>
+						<span>⭐ 36432</span>
+						<span>🔱 4585</span>
 					</div>
 				<div class="stars-today">⭐ 8910 stars this month</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/basecamp/omarchy" target="_blank">
+				<p><a href="https://github.com/every-app/open-seo" target="_blank">
     
 
 
       
-        basecamp /
+        every-app /
 
-      omarchy</a></p>
+      open-seo</a></p>
 				<p>
-      Beautiful, Modern & Opinionated Linux
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Shell</span>
-						<span>⭐ 26648</span>
-						<span>🔱 2709</span>
-					</div>
-				<div class="stars-today">⭐ 2364 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/oblien/openship" target="_blank">
-    
-
-
-      
-        oblien /
-
-      openship</a></p>
-				<p>
-      Self-hosted deployment platform
+      Open source alternative to Semrush and Ahrefs
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 11100</span>
-						<span>🔱 944</span>
+						<span>⭐ 12620</span>
+						<span>🔱 1446</span>
 					</div>
-				<div class="stars-today">⭐ 10646 stars this month</div>
+				<div class="stars-today">⭐ 8133 stars this month</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/UditAkhourii/adhd" target="_blank">
+				<p><a href="https://github.com/cactus-compute/needle" target="_blank">
     
 
 
       
-        UditAkhourii /
+        cactus-compute /
 
-      adhd</a></p>
+      needle</a></p>
 				<p>
-      ADHD — a skill for coding agents. Tree-of-thought with pruning, built on the Claude & Codex Agent SDK. Fans out parallel divergent thoughts under different cognitive frames, scores, prunes traps, deepens the survivors. The no-brainer skill for creative and interdisciplinary work.
+      14MB foundation model for tiny devices; phones, wearables, smart home, and robots.
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 3763</span>
-						<span>🔱 262</span>
+						<span>🔠 Python</span>
+						<span>⭐ 7718</span>
+						<span>🔱 493</span>
 					</div>
-				<div class="stars-today">⭐ 2705 stars this month</div>
+				<div class="stars-today">⭐ 4174 stars this month</div>
 				</div>
 			</div>
 	
@@ -424,8 +424,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 13671</span>
-						<span>🔱 1794</span>
+						<span>⭐ 13682</span>
+						<span>🔱 1795</span>
 					</div>
 				<div class="stars-today">⭐ 1869 stars this month</div>
 				</div>
@@ -446,32 +446,54 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Jupyter Notebook</span>
-						<span>⭐ 31640</span>
-						<span>🔱 3356</span>
+						<span>⭐ 31646</span>
+						<span>🔱 3357</span>
 					</div>
 				<div class="stars-today">⭐ 8531 stars this month</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/cactus-compute/needle" target="_blank">
+				<p><a href="https://github.com/UditAkhourii/adhd" target="_blank">
     
 
 
       
-        cactus-compute /
+        UditAkhourii /
 
-      needle</a></p>
+      adhd</a></p>
 				<p>
-      14MB foundation model for tiny devices; phones, wearables, smart home, and robots.
+      ADHD — a skill for coding agents. Tree-of-thought with pruning, built on the Claude & Codex Agent SDK. Fans out parallel divergent thoughts under different cognitive frames, scores, prunes traps, deepens the survivors. The no-brainer skill for creative and interdisciplinary work.
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 7687</span>
-						<span>🔱 492</span>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 3771</span>
+						<span>🔱 262</span>
 					</div>
-				<div class="stars-today">⭐ 4174 stars this month</div>
+				<div class="stars-today">⭐ 2705 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/different-ai/openwork" target="_blank">
+    
+
+
+      
+        different-ai /
+
+      openwork</a></p>
+				<p>
+      The open-source alternative to Claude Cowork (powered by opencode)
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 22654</span>
+						<span>🔱 2242</span>
+					</div>
+				<div class="stars-today">⭐ 5880 stars this month</div>
 				</div>
 			</div>
 	
