@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2026年8月
-date: 2026-08-20T10:14:57Z
+date: 2026-08-20T12:16:24Z
 categories:
 - monthly
 keywords:
@@ -30,8 +30,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Rust</span>
-						<span>⭐ 28770</span>
-						<span>🔱 3606</span>
+						<span>⭐ 28794</span>
+						<span>🔱 3610</span>
 					</div>
 				<div class="stars-today">⭐ 28450 stars this month</div>
 				</div>
@@ -52,7 +52,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Swift</span>
-						<span>⭐ 35674</span>
+						<span>⭐ 35678</span>
 						<span>🔱 5669</span>
 					</div>
 				<div class="stars-today">⭐ 9639 stars this month</div>
@@ -74,32 +74,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 22442</span>
-						<span>🔱 1427</span>
+						<span>⭐ 22464</span>
+						<span>🔱 1433</span>
 					</div>
 				<div class="stars-today">⭐ 20624 stars this month</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/diegosouzapw/OmniRoute" target="_blank">
+				<p><a href="https://github.com/citrolabs/ego-lite" target="_blank">
     
 
 
       
-        diegosouzapw /
+        citrolabs /
 
-      OmniRoute</a></p>
+      ego-lite</a></p>
 				<p>
-      Never stop coding. Free MIT AI gateway: one endpoint, 340 providers (90+ free), 1200+ models — Kimi, Claude, GPT, Gemini, GLM, DeepSeek, MiniMax. Works with Claude Code, Codex, Cursor, OpenCode, Cline & Copilot. Quota-aware auto-fallback, RTK+Caveman compression saves 15-95% tokens, MCP/A2A, Desktop/PWA. Built by 450+ contributors
+      The fastest browser for AI agents to run browser automation, built for sharing your logged-in browser state with your AI agents, like Codex or Claude Code, without disturbing you. Zero cost, zero config.
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 51546</span>
-						<span>🔱 7014</span>
+						<span>🔠 JavaScript</span>
+						<span>⭐ 12140</span>
+						<span>🔱 638</span>
 					</div>
-				<div class="stars-today">⭐ 31584 stars this month</div>
+				<div class="stars-today">⭐ 11504 stars this month</div>
 				</div>
 			</div>
 	
@@ -118,10 +118,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 23374</span>
-						<span>🔱 2153</span>
+						<span>⭐ 23394</span>
+						<span>🔱 2155</span>
 					</div>
 				<div class="stars-today">⭐ 14200 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/diegosouzapw/OmniRoute" target="_blank">
+    
+
+
+      
+        diegosouzapw /
+
+      OmniRoute</a></p>
+				<p>
+      Never stop coding. Free MIT AI gateway: one endpoint, 340 providers (90+ free), 1200+ models — Kimi, Claude, GPT, Gemini, GLM, DeepSeek, MiniMax. Works with Claude Code, Codex, Cursor, OpenCode, Cline & Copilot. Quota-aware auto-fallback, RTK+Caveman compression saves 15-95% tokens, MCP/A2A, Desktop/PWA. Built by 450+ contributors
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 51606</span>
+						<span>🔱 7027</span>
+					</div>
+				<div class="stars-today">⭐ 31584 stars this month</div>
 				</div>
 			</div>
 	
@@ -140,32 +162,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 PowerShell</span>
-						<span>⭐ 26900</span>
-						<span>🔱 3666</span>
+						<span>⭐ 26920</span>
+						<span>🔱 3667</span>
 					</div>
 				<div class="stars-today">⭐ 18446 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/koala73/worldmonitor" target="_blank">
-    
-
-
-      
-        koala73 /
-
-      worldmonitor</a></p>
-				<p>
-      Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 83355</span>
-						<span>🔱 12438</span>
-					</div>
-				<div class="stars-today">⭐ 21531 stars this month</div>
 				</div>
 			</div>
 	
@@ -182,8 +182,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 19665</span>
-						<span>🔱 4595</span>
+						<span>⭐ 19675</span>
+						<span>🔱 4598</span>
 					</div>
 				<div class="stars-today">⭐ 5456 stars this month</div>
 				</div>
@@ -204,8 +204,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Jupyter Notebook</span>
-						<span>⭐ 65789</span>
-						<span>🔱 12749</span>
+						<span>⭐ 65809</span>
+						<span>🔱 12752</span>
 					</div>
 				<div class="stars-today">⭐ 13404 stars this month</div>
 				</div>
@@ -226,32 +226,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 23266</span>
-						<span>🔱 2461</span>
+						<span>⭐ 23285</span>
+						<span>🔱 2462</span>
 					</div>
 				<div class="stars-today">⭐ 14356 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/1jehuang/jcode" target="_blank">
-    
-
-
-      
-        1jehuang /
-
-      jcode</a></p>
-				<p>
-      The most RAM efficient harness
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Rust</span>
-						<span>⭐ 18052</span>
-						<span>🔱 2030</span>
-					</div>
-				<div class="stars-today">⭐ 9437 stars this month</div>
 				</div>
 			</div>
 	
@@ -270,32 +248,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Shell</span>
-						<span>⭐ 224609</span>
-						<span>🔱 19305</span>
+						<span>⭐ 224874</span>
+						<span>🔱 19320</span>
 					</div>
 				<div class="stars-today">⭐ 46905 stars this month</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/earendil-works/pi" target="_blank">
+				<p><a href="https://github.com/1jehuang/jcode" target="_blank">
     
 
 
       
-        earendil-works /
+        1jehuang /
 
-      pi</a></p>
+      jcode</a></p>
 				<p>
-      AI agent toolkit: unified LLM API, agent loop, TUI, coding agent CLI
+      The most RAM efficient harness
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 94159</span>
-						<span>🔱 11654</span>
+						<span>🔠 Rust</span>
+						<span>⭐ 18061</span>
+						<span>🔱 2028</span>
 					</div>
-				<div class="stars-today">⭐ 21424 stars this month</div>
+				<div class="stars-today">⭐ 9437 stars this month</div>
 				</div>
 			</div>
 	
@@ -314,76 +292,54 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Shell</span>
-						<span>⭐ 26901</span>
-						<span>🔱 2749</span>
+						<span>⭐ 26922</span>
+						<span>🔱 2751</span>
 					</div>
 				<div class="stars-today">⭐ 2837 stars this month</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/stablyai/orca" target="_blank">
+				<p><a href="https://github.com/earendil-works/pi" target="_blank">
     
 
 
       
-        stablyai /
+        earendil-works /
 
-      orca</a></p>
+      pi</a></p>
 				<p>
-      Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop, mobile and VPS.
+      AI agent toolkit: unified LLM API, agent loop, TUI, coding agent CLI
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 49596</span>
-						<span>🔱 3435</span>
+						<span>⭐ 94212</span>
+						<span>🔱 11659</span>
 					</div>
-				<div class="stars-today">⭐ 27071 stars this month</div>
+				<div class="stars-today">⭐ 21424 stars this month</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/HKUDS/DeepTutor" target="_blank">
+				<p><a href="https://github.com/koala73/worldmonitor" target="_blank">
     
 
 
       
-        HKUDS /
+        koala73 /
 
-      DeepTutor</a></p>
+      worldmonitor</a></p>
 				<p>
-      DeepTutor: Lifelong Personalized Tutoring. https://deeptutor.info/.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 36592</span>
-						<span>🔱 4600</span>
-					</div>
-				<div class="stars-today">⭐ 8834 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/every-app/open-seo" target="_blank">
-    
-
-
-      
-        every-app /
-
-      open-seo</a></p>
-				<p>
-      Open source alternative to Semrush and Ahrefs
+      Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 12731</span>
-						<span>🔱 1459</span>
+						<span>⭐ 83373</span>
+						<span>🔱 12438</span>
 					</div>
-				<div class="stars-today">⭐ 8208 stars this month</div>
+				<div class="stars-today">⭐ 21531 stars this month</div>
 				</div>
 			</div>
 	
@@ -402,8 +358,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 7974</span>
-						<span>🔱 515</span>
+						<span>⭐ 8007</span>
+						<span>🔱 516</span>
 					</div>
 				<div class="stars-today">⭐ 4522 stars this month</div>
 				</div>
@@ -424,54 +380,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 13780</span>
-						<span>🔱 1799</span>
+						<span>⭐ 13783</span>
+						<span>🔱 1798</span>
 					</div>
 				<div class="stars-today">⭐ 2001 stars this month</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/lyogavin/airllm" target="_blank">
+				<p><a href="https://github.com/HKUDS/DeepTutor" target="_blank">
     
 
 
       
-        lyogavin /
+        HKUDS /
 
-      airllm</a></p>
+      DeepTutor</a></p>
 				<p>
-      AirLLM 70B inference with single 4GB GPU
+      DeepTutor: Lifelong Personalized Tutoring. https://deeptutor.info/.
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Jupyter Notebook</span>
-						<span>⭐ 31774</span>
-						<span>🔱 3371</span>
+						<span>🔠 Python</span>
+						<span>⭐ 36597</span>
+						<span>🔱 4605</span>
 					</div>
-				<div class="stars-today">⭐ 8268 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/UditAkhourii/adhd" target="_blank">
-    
-
-
-      
-        UditAkhourii /
-
-      adhd</a></p>
-				<p>
-      ADHD — a skill for coding agents. Tree-of-thought with pruning, built on the Claude & Codex Agent SDK. Fans out parallel divergent thoughts under different cognitive frames, scores, prunes traps, deepens the survivors. The no-brainer skill for creative and interdisciplinary work.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 3861</span>
-						<span>🔱 268</span>
-					</div>
-				<div class="stars-today">⭐ 2824 stars this month</div>
+				<div class="stars-today">⭐ 8834 stars this month</div>
 				</div>
 			</div>
 	
@@ -490,10 +424,54 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 22764</span>
-						<span>🔱 2250</span>
+						<span>⭐ 22767</span>
+						<span>🔱 2252</span>
 					</div>
 				<div class="stars-today">⭐ 5910 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/lyogavin/airllm" target="_blank">
+    
+
+
+      
+        lyogavin /
+
+      airllm</a></p>
+				<p>
+      AirLLM 70B inference with single 4GB GPU
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Jupyter Notebook</span>
+						<span>⭐ 31802</span>
+						<span>🔱 3371</span>
+					</div>
+				<div class="stars-today">⭐ 8268 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/every-app/open-seo" target="_blank">
+    
+
+
+      
+        every-app /
+
+      open-seo</a></p>
+				<p>
+      Open source alternative to Semrush and Ahrefs
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 12748</span>
+						<span>🔱 1460</span>
+					</div>
+				<div class="stars-today">⭐ 8208 stars this month</div>
 				</div>
 			</div>
 	

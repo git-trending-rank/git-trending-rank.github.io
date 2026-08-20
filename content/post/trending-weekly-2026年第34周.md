@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2026年第34周
-date: 2026-08-20T10:14:57Z
+date: 2026-08-20T12:16:23Z
 categories:
 - weekly
 keywords:
@@ -30,10 +30,54 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 HTML</span>
-						<span>⭐ 23856</span>
-						<span>🔱 1459</span>
+						<span>⭐ 23941</span>
+						<span>🔱 1463</span>
 					</div>
 				<div class="stars-today">⭐ 14397 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/volcengine/OpenViking" target="_blank">
+    
+
+
+      
+        volcengine /
+
+      OpenViking</a></p>
+				<p>
+      Self-evolving Context Database for AI Agents. Unify Agent Memory, Knowledge RAG and Skills.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 30761</span>
+						<span>🔱 2375</span>
+					</div>
+				<div class="stars-today">⭐ 1659 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/basecamp/omarchy" target="_blank">
+    
+
+
+      
+        basecamp /
+
+      omarchy</a></p>
+				<p>
+      Beautiful, Modern & Opinionated Linux
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Shell</span>
+						<span>⭐ 26922</span>
+						<span>🔱 2751</span>
+					</div>
+				<div class="stars-today">⭐ 2208 stars this week</div>
 				</div>
 			</div>
 	
@@ -52,8 +96,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 7974</span>
-						<span>🔱 515</span>
+						<span>⭐ 8007</span>
+						<span>🔱 516</span>
 					</div>
 				<div class="stars-today">⭐ 3838 stars this week</div>
 				</div>
@@ -74,10 +118,98 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 9692</span>
-						<span>🔱 1026</span>
+						<span>⭐ 9724</span>
+						<span>🔱 1029</span>
 					</div>
 				<div class="stars-today">⭐ 4005 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/NVIDIA-NeMo/Switchyard" target="_blank">
+    
+
+
+      
+        NVIDIA-NeMo /
+
+      Switchyard</a></p>
+				<p>
+      Switchyard lets LLM applications route traffic across models and providers while preserving native OpenAI and Anthropic API compatibility - enabling flexible model selection, benchmarking, and cost/performance optimization.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Rust</span>
+						<span>⭐ 1933</span>
+						<span>🔱 177</span>
+					</div>
+				<div class="stars-today">⭐ 1220 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/modular/modular" target="_blank">
+    
+
+
+      
+        modular /
+
+      modular</a></p>
+				<p>
+      The Modular Platform (includes MAX & Mojo)
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Mojo</span>
+						<span>⭐ 27510</span>
+						<span>🔱 2978</span>
+					</div>
+				<div class="stars-today">⭐ 641 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/harry0703/MoneyPrinterTurbo" target="_blank">
+    
+
+
+      
+        harry0703 /
+
+      MoneyPrinterTurbo</a></p>
+				<p>
+      利用 AI 大模型和自动化工作流，根据主题或关键词一键生成高清短视频。Generate HD short videos from a topic or keyword with an automated AI workflow.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 112352</span>
+						<span>🔱 17019</span>
+					</div>
+				<div class="stars-today">⭐ 7380 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/public-apis/public-apis" target="_blank">
+    
+
+
+      
+        public-apis /
+
+      public-apis</a></p>
+				<p>
+      A collective list of free APIs
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 466715</span>
+						<span>🔱 51480</span>
+					</div>
+				<div class="stars-today">⭐ 10183 stars this week</div>
 				</div>
 			</div>
 	
@@ -96,54 +228,54 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 13780</span>
-						<span>🔱 1799</span>
+						<span>⭐ 13783</span>
+						<span>🔱 1798</span>
 					</div>
 				<div class="stars-today">⭐ 1704 stars this week</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/basecamp/omarchy" target="_blank">
+				<p><a href="https://github.com/AprilNEA/OpenLogi" target="_blank">
     
 
 
       
-        basecamp /
+        AprilNEA /
 
-      omarchy</a></p>
+      OpenLogi</a></p>
 				<p>
-      Beautiful, Modern & Opinionated Linux
+      ⚡️A native, local-first alternative to Logitech Options+, written in Rust 🦀 — remap buttons, DPI, and SmartShift over HID++. No account, no telemetry.
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Shell</span>
-						<span>⭐ 26901</span>
-						<span>🔱 2749</span>
+						<span>🔠 Rust</span>
+						<span>⭐ 11091</span>
+						<span>🔱 305</span>
 					</div>
-				<div class="stars-today">⭐ 2208 stars this week</div>
+				<div class="stars-today">⭐ 1492 stars this week</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/volcengine/OpenViking" target="_blank">
+				<p><a href="https://github.com/lightningpixel/modly" target="_blank">
     
 
 
       
-        volcengine /
+        lightningpixel /
 
-      OpenViking</a></p>
+      modly</a></p>
 				<p>
-      Self-evolving Context Database for AI Agents. Unify Agent Memory, Knowledge RAG and Skills.
+      Desktop app to generate 3D models from images or prompt using local AI — runs entirely on your GPU
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 30706</span>
-						<span>🔱 2371</span>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 6980</span>
+						<span>🔱 670</span>
 					</div>
-				<div class="stars-today">⭐ 1659 stars this week</div>
+				<div class="stars-today">⭐ 1797 stars this week</div>
 				</div>
 			</div>
 	
@@ -162,7 +294,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Rust</span>
-						<span>⭐ 3819</span>
+						<span>⭐ 3829</span>
 						<span>🔱 368</span>
 					</div>
 				<div class="stars-today">⭐ 2557 stars this week</div>
@@ -184,120 +316,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 73986</span>
-						<span>🔱 6683</span>
+						<span>⭐ 74000</span>
+						<span>🔱 6686</span>
 					</div>
 				<div class="stars-today">⭐ 3338 stars this week</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/harry0703/MoneyPrinterTurbo" target="_blank">
+				<p><a href="https://github.com/akitaonrails/ai-memory" target="_blank">
     
 
 
       
-        harry0703 /
+        akitaonrails /
 
-      MoneyPrinterTurbo</a></p>
+      ai-memory</a></p>
 				<p>
-      利用 AI 大模型和自动化工作流，根据主题或关键词一键生成高清短视频。Generate HD short videos from a topic or keyword with an automated AI workflow.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 112229</span>
-						<span>🔱 17001</span>
-					</div>
-				<div class="stars-today">⭐ 7380 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/lightningpixel/modly" target="_blank">
-    
-
-
-      
-        lightningpixel /
-
-      modly</a></p>
-				<p>
-      Desktop app to generate 3D models from images or prompt using local AI — runs entirely on your GPU
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 6969</span>
-						<span>🔱 670</span>
-					</div>
-				<div class="stars-today">⭐ 1797 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/public-apis/public-apis" target="_blank">
-    
-
-
-      
-        public-apis /
-
-      public-apis</a></p>
-				<p>
-      A collective list of free APIs
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 466600</span>
-						<span>🔱 51472</span>
-					</div>
-				<div class="stars-today">⭐ 10183 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/AlexsJones/llmfit" target="_blank">
-    
-
-
-      
-        AlexsJones /
-
-      llmfit</a></p>
-				<p>
-      Hundreds of models & providers. One command to find what runs on your hardware.
+      Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Rust</span>
-						<span>⭐ 33168</span>
-						<span>🔱 2054</span>
+						<span>⭐ 3379</span>
+						<span>🔱 272</span>
 					</div>
-				<div class="stars-today">⭐ 1545 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/superradcompany/microsandbox" target="_blank">
-    
-
-
-      
-        superradcompany /
-
-      microsandbox</a></p>
-				<p>
-      🧱 easy fast local-first microVM runtime and library
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Rust</span>
-						<span>⭐ 7815</span>
-						<span>🔱 410</span>
-					</div>
-				<div class="stars-today">⭐ 460 stars this week</div>
+				<div class="stars-today">⭐ 1717 stars this week</div>
 				</div>
 			</div>
 	
@@ -316,10 +360,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 19978</span>
-						<span>🔱 1701</span>
+						<span>⭐ 19999</span>
+						<span>🔱 1704</span>
 					</div>
 				<div class="stars-today">⭐ 1102 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/AlexsJones/llmfit" target="_blank">
+    
+
+
+      
+        AlexsJones /
+
+      llmfit</a></p>
+				<p>
+      Hundreds of models & providers. One command to find what runs on your hardware.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Rust</span>
+						<span>⭐ 33181</span>
+						<span>🔱 2055</span>
+					</div>
+				<div class="stars-today">⭐ 1545 stars this week</div>
 				</div>
 			</div>
 	
@@ -338,7 +404,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 10175</span>
+						<span>⭐ 10189</span>
 						<span>🔱 1124</span>
 					</div>
 				<div class="stars-today">⭐ 1037 stars this week</div>

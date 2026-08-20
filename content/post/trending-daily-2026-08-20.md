@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2026-08-20
-date: 2026-08-20T10:14:57Z
+date: 2026-08-20T12:16:23Z
 categories:
 - daily
 keywords:
@@ -16,134 +16,24 @@ keywords:
 
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/harry0703/MoneyPrinterTurbo" target="_blank">
+				<p><a href="https://github.com/modular/modular" target="_blank">
     
 
 
       
-        harry0703 /
+        modular /
 
-      MoneyPrinterTurbo</a></p>
+      modular</a></p>
 				<p>
-      利用 AI 大模型和自动化工作流，根据主题或关键词一键生成高清短视频。Generate HD short videos from a topic or keyword with an automated AI workflow.
+      The Modular Platform (includes MAX & Mojo)
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 112229</span>
-						<span>🔱 17001</span>
+						<span>🔠 Mojo</span>
+						<span>⭐ 27510</span>
+						<span>🔱 2978</span>
 					</div>
-				<div class="stars-today">⭐ 2221 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/volcengine/OpenViking" target="_blank">
-    
-
-
-      
-        volcengine /
-
-      OpenViking</a></p>
-				<p>
-      Self-evolving Context Database for AI Agents. Unify Agent Memory, Knowledge RAG and Skills.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 30706</span>
-						<span>🔱 2371</span>
-					</div>
-				<div class="stars-today">⭐ 804 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/chaitanyagiri/munder-difflin" target="_blank">
-    
-
-
-      
-        chaitanyagiri /
-
-      munder-difflin</a></p>
-				<p>
-      local multi-agent harness
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 2924</span>
-						<span>🔱 337</span>
-					</div>
-				<div class="stars-today">⭐ 795 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/mukul975/Anthropic-Cybersecurity-Skills" target="_blank">
-    
-
-
-      
-        mukul975 /
-
-      Anthropic-Cybersecurity-Skills</a></p>
-				<p>
-      817 structured cybersecurity skills for AI agents · Mapped to 6 frameworks: MITRE ATT&CK, NIST CSF 2.0, MITRE ATLAS, D3FEND, NIST AI RMF & MITRE F3 (Fight Fraud) · agentskills.io standard · Works with Claude Code, GitHub Copilot, Codex CLI, Cursor, Gemini CLI & 20+ platforms · 29 security domains · Apache 2.0
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 30168</span>
-						<span>🔱 3579</span>
-					</div>
-				<div class="stars-today">⭐ 766 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/akitaonrails/ai-memory" target="_blank">
-    
-
-
-      
-        akitaonrails /
-
-      ai-memory</a></p>
-				<p>
-      Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Rust</span>
-						<span>⭐ 3346</span>
-						<span>🔱 272</span>
-					</div>
-				<div class="stars-today">⭐ 606 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/nautechsystems/nautilus_trader" target="_blank">
-    
-
-
-      
-        nautechsystems /
-
-      nautilus_trader</a></p>
-				<p>
-      Production-grade Rust-native trading engine with deterministic event-driven architecture
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Rust</span>
-						<span>⭐ 26621</span>
-						<span>🔱 3431</span>
-					</div>
-				<div class="stars-today">⭐ 80 stars today</div>
+				<div class="stars-today">⭐ 340 stars today</div>
 				</div>
 			</div>
 	
@@ -162,10 +52,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Shell</span>
-						<span>⭐ 224609</span>
-						<span>🔱 19305</span>
+						<span>⭐ 224874</span>
+						<span>🔱 19320</span>
 					</div>
 				<div class="stars-today">⭐ 1894 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/AprilNEA/OpenLogi" target="_blank">
+    
+
+
+      
+        AprilNEA /
+
+      OpenLogi</a></p>
+				<p>
+      ⚡️A native, local-first alternative to Logitech Options+, written in Rust 🦀 — remap buttons, DPI, and SmartShift over HID++. No account, no telemetry.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Rust</span>
+						<span>⭐ 11091</span>
+						<span>🔱 305</span>
+					</div>
+				<div class="stars-today">⭐ 1225 stars today</div>
 				</div>
 			</div>
 	
@@ -184,32 +96,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Shell</span>
-						<span>⭐ 274597</span>
-						<span>🔱 24577</span>
+						<span>⭐ 274645</span>
+						<span>🔱 24580</span>
 					</div>
 				<div class="stars-today">⭐ 557 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/jundot/omlx" target="_blank">
+				<p><a href="https://github.com/cursor/plugins" target="_blank">
     
 
 
       
-        jundot /
+        cursor /
 
-      omlx</a></p>
+      plugins</a></p>
 				<p>
-      LLM inference server with continuous batching & SSD caching for Apple Silicon — managed from the macOS menu bar
+      Cursor plugin specification and official plugins
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 19978</span>
-						<span>🔱 1701</span>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 3869</span>
+						<span>🔱 316</span>
 					</div>
-				<div class="stars-today">⭐ 472 stars today</div>
+				<div class="stars-today">⭐ 473 stars today</div>
 				</div>
 			</div>
 	
@@ -228,94 +140,252 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 JavaScript</span>
-						<span>⭐ 66154</span>
-						<span>🔱 12776</span>
+						<span>⭐ 66221</span>
+						<span>🔱 12779</span>
 					</div>
 				<div class="stars-today">⭐ 198 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/immich-app/immich" target="_blank">
+				<p><a href="https://github.com/akitaonrails/ai-memory" target="_blank">
     
 
 
       
-        immich-app /
+        akitaonrails /
 
-      immich</a></p>
+      ai-memory</a></p>
 				<p>
-      High performance self-hosted photo and video management solution.
+      Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 112104</span>
-						<span>🔱 6645</span>
-					</div>
-				<div class="stars-today">⭐ 128 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/amadeusprotocol/node" target="_blank">
-    
-
-
-      
-        amadeusprotocol /
-
-      node</a></p>
-				<p></p>
-				<div class="repo-stats">
-					<div>
 						<span>🔠 Rust</span>
-						<span>⭐ 4926</span>
-						<span>🔱 89</span>
+						<span>⭐ 3379</span>
+						<span>🔱 272</span>
 					</div>
-				<div class="stars-today">⭐ 1397 stars today</div>
+				<div class="stars-today">⭐ 335 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/marceloprates/prettymaps" target="_blank">
+				<p><a href="https://github.com/harry0703/MoneyPrinterTurbo" target="_blank">
     
 
 
       
-        marceloprates /
+        harry0703 /
 
-      prettymaps</a></p>
+      MoneyPrinterTurbo</a></p>
 				<p>
-      Draw pretty maps from OpenStreetMap data! Built with osmnx +matplotlib + shapely
+      利用 AI 大模型和自动化工作流，根据主题或关键词一键生成高清短视频。Generate HD short videos from a topic or keyword with an automated AI workflow.
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 13419</span>
-						<span>🔱 666</span>
+						<span>⭐ 112352</span>
+						<span>🔱 17019</span>
 					</div>
-				<div class="stars-today">⭐ 63 stars today</div>
+				<div class="stars-today">⭐ 2774 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/genlayerlabs/genlayer-project-boilerplate" target="_blank">
+				<p><a href="https://github.com/agent-substrate/substrate" target="_blank">
     
 
 
       
-        genlayerlabs /
+        agent-substrate /
 
-      genlayer-project-boilerplate</a></p>
-				<p></p>
+      substrate</a></p>
+				<p>
+      Agent Substrate: the core system
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Go</span>
+						<span>⭐ 1284</span>
+						<span>🔱 246</span>
+					</div>
+				<div class="stars-today">⭐ 26 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/chaitanyagiri/munder-difflin" target="_blank">
+    
+
+
+      
+        chaitanyagiri /
+
+      munder-difflin</a></p>
+				<p>
+      local multi-agent harness
+    </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 16282</span>
-						<span>🔱 813</span>
+						<span>⭐ 2951</span>
+						<span>🔱 341</span>
 					</div>
-				<div class="stars-today">⭐ 430 stars today</div>
+				<div class="stars-today">⭐ 517 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/PostHog/posthog" target="_blank">
+    
+
+
+      
+        PostHog /
+
+      posthog</a></p>
+				<p>
+      🦔 PostHog is the leading platform for building self-driving products. Our developer tools – AI observability, analytics, session replay, flags, experiments, error tracking, logs, and more – capture all the context agents need to diagnose problems, uncover opportunities, and ship fixes. Steer it all from Slack, web, desktop, or the MCP.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 37821</span>
+						<span>🔱 3207</span>
+					</div>
+				<div class="stars-today">⭐ 41 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/mahlernim/google-timeline-visualizer" target="_blank">
+    
+
+
+      
+        mahlernim /
+
+      google-timeline-visualizer</a></p>
+				<p>
+      Visualize your year in travel using your Google Location History (Timeline) data
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Kotlin</span>
+						<span>⭐ 954</span>
+						<span>🔱 107</span>
+					</div>
+				<div class="stars-today">⭐ 575 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/volcengine/OpenViking" target="_blank">
+    
+
+
+      
+        volcengine /
+
+      OpenViking</a></p>
+				<p>
+      Self-evolving Context Database for AI Agents. Unify Agent Memory, Knowledge RAG and Skills.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 30761</span>
+						<span>🔱 2375</span>
+					</div>
+				<div class="stars-today">⭐ 955 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/JuliusBrussee/caveman" target="_blank">
+    
+
+
+      
+        JuliusBrussee /
+
+      caveman</a></p>
+				<p>
+      🪨 why use many token when few token do trick — Claude Code skill that cuts 65% of tokens by talking like caveman
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Go</span>
+						<span>⭐ 99364</span>
+						<span>🔱 5760</span>
+					</div>
+				<div class="stars-today">⭐ 286 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/makeplane/plane" target="_blank">
+    
+
+
+      
+        makeplane /
+
+      plane</a></p>
+				<p>
+      🔥🔥🔥 Open-source Jira, Linear, Monday, and ClickUp alternative. Plane is a modern project management platform to manage tasks, sprints, docs, and triage.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 56212</span>
+						<span>🔱 5380</span>
+					</div>
+				<div class="stars-today">⭐ 54 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/Tencent/AI-Infra-Guard" target="_blank">
+    
+
+
+      
+        Tencent /
+
+      AI-Infra-Guard</a></p>
+				<p>
+      A full-stack AI Red Teaming platform securing AI ecosystems via Agent Scan, Skills Scan, MCP scan, AI Infra scan and LLM jailbreak evaluation.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 4760</span>
+						<span>🔱 471</span>
+					</div>
+				<div class="stars-today">⭐ 28 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/RyanCodrai/turbovec" target="_blank">
+    
+
+
+      
+        RyanCodrai /
+
+      turbovec</a></p>
+				<p>
+      A vector index built on TurboQuant, written in Rust with Python bindings
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Rust</span>
+						<span>⭐ 15764</span>
+						<span>🔱 1376</span>
+					</div>
+				<div class="stars-today">⭐ 736 stars today</div>
 				</div>
 			</div>
 	
