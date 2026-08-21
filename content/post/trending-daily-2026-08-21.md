@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2026-08-21
-date: 2026-08-21T20:08:26Z
+date: 2026-08-21T22:08:17Z
 categories:
 - daily
 keywords:
@@ -14,28 +14,6 @@ keywords:
 	<main class="container">
         <div class="repo-list" id="repoList">
 
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/modular/modular" target="_blank">
-    
-
-
-      
-        modular /
-
-      modular</a></p>
-				<p>
-      The Modular Platform (includes MAX & Mojo)
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Mojo</span>
-						<span>⭐ 28633</span>
-						<span>🔱 3048</span>
-					</div>
-				<div class="stars-today">⭐ 905 stars today</div>
-				</div>
-			</div>
 	
 			<div class="repo-card">
 				<p><a href="https://github.com/mattpocock/skills" target="_blank">
@@ -52,186 +30,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Shell</span>
-						<span>⭐ 229133</span>
-						<span>🔱 19590</span>
+						<span>⭐ 229300</span>
+						<span>🔱 19603</span>
 					</div>
 				<div class="stars-today">⭐ 3368 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/AprilNEA/OpenLogi" target="_blank">
-    
-
-
-      
-        AprilNEA /
-
-      OpenLogi</a></p>
-				<p>
-      ⚡️A native, local-first alternative to Logitech Options+, written in Rust 🦀 — remap buttons, DPI, and SmartShift over HID++. No account, no telemetry.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Rust</span>
-						<span>⭐ 12748</span>
-						<span>🔱 347</span>
-					</div>
-				<div class="stars-today">⭐ 1372 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/obra/superpowers" target="_blank">
-    
-
-
-      
-        obra /
-
-      superpowers</a></p>
-				<p>
-      An agentic skills framework & software development methodology that works.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Shell</span>
-						<span>⭐ 275570</span>
-						<span>🔱 24641</span>
-					</div>
-				<div class="stars-today">⭐ 789 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/cursor/plugins" target="_blank">
-    
-
-
-      
-        cursor /
-
-      plugins</a></p>
-				<p>
-      Cursor plugin specification and official plugins
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 4351</span>
-						<span>🔱 365</span>
-					</div>
-				<div class="stars-today">⭐ 391 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/santifer/career-ops" target="_blank">
-    
-
-
-      
-        santifer /
-
-      career-ops</a></p>
-				<p>
-      Open-source AI job search: scan job portals, evaluate listings with a structured A-F rubric into a 1.0-5.0 score, tailor your CV, track applications — runs locally in your AI coding CLI (Claude Code, Codex, OpenCode, Antigravity…)
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 JavaScript</span>
-						<span>⭐ 67354</span>
-						<span>🔱 12864</span>
-					</div>
-				<div class="stars-today">⭐ 918 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/harry0703/MoneyPrinterTurbo" target="_blank">
-    
-
-
-      
-        harry0703 /
-
-      MoneyPrinterTurbo</a></p>
-				<p>
-      利用 AI 大模型和自动化工作流，根据主题或关键词一键生成高清短视频。Generate HD short videos from a topic or keyword with an automated AI workflow.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 113770</span>
-						<span>🔱 17263</span>
-					</div>
-				<div class="stars-today">⭐ 1187 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/agent-substrate/substrate" target="_blank">
-    
-
-
-      
-        agent-substrate /
-
-      substrate</a></p>
-				<p>
-      Agent Substrate: the core system
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Go</span>
-						<span>⭐ 1574</span>
-						<span>🔱 261</span>
-					</div>
-				<div class="stars-today">⭐ 245 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/chaitanyagiri/munder-difflin" target="_blank">
-    
-
-
-      
-        chaitanyagiri /
-
-      munder-difflin</a></p>
-				<p>
-      local multi-agent harness
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 3366</span>
-						<span>🔱 369</span>
-					</div>
-				<div class="stars-today">⭐ 344 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/PostHog/posthog" target="_blank">
-    
-
-
-      
-        PostHog /
-
-      posthog</a></p>
-				<p>
-      🦔 PostHog is the leading platform for building self-driving products. Our developer tools – AI observability, analytics, session replay, flags, experiments, error tracking, logs, and more – capture all the context agents need to diagnose problems, uncover opportunities, and ship fixes. Steer it all from Slack, web, desktop, or the MCP.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 38235</span>
-						<span>🔱 3230</span>
-					</div>
-				<div class="stars-today">⭐ 334 stars today</div>
 				</div>
 			</div>
 	
@@ -250,120 +52,340 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Kotlin</span>
-						<span>⭐ 2163</span>
-						<span>🔱 242</span>
+						<span>⭐ 2185</span>
+						<span>🔱 250</span>
 					</div>
 				<div class="stars-today">⭐ 1040 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/volcengine/OpenViking" target="_blank">
+				<p><a href="https://github.com/harry0703/MoneyPrinterTurbo" target="_blank">
     
 
 
       
-        volcengine /
+        harry0703 /
 
-      OpenViking</a></p>
+      MoneyPrinterTurbo</a></p>
 				<p>
-      Self-evolving Context Database for AI Agents. Unify Agent Memory, Knowledge RAG and Skills.
+      利用 AI 大模型和自动化工作流，根据主题或关键词一键生成高清短视频。Generate HD short videos from a topic or keyword with an automated AI workflow.
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 31592</span>
-						<span>🔱 2423</span>
+						<span>⭐ 113827</span>
+						<span>🔱 17270</span>
 					</div>
-				<div class="stars-today">⭐ 659 stars today</div>
+				<div class="stars-today">⭐ 1187 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/JuliusBrussee/caveman" target="_blank">
+				<p><a href="https://github.com/AprilNEA/OpenLogi" target="_blank">
     
 
 
       
-        JuliusBrussee /
+        AprilNEA /
 
-      caveman</a></p>
+      OpenLogi</a></p>
 				<p>
-      🪨 why use many token when few token do trick — Claude Code skill that cuts 65% of tokens by talking like caveman
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Go</span>
-						<span>⭐ 100101</span>
-						<span>🔱 5802</span>
-					</div>
-				<div class="stars-today">⭐ 594 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/makeplane/plane" target="_blank">
-    
-
-
-      
-        makeplane /
-
-      plane</a></p>
-				<p>
-      🔥🔥🔥 Open-source Jira, Linear, Monday, and ClickUp alternative. Plane is a modern project management platform to manage tasks, sprints, docs, and triage.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 56936</span>
-						<span>🔱 5423</span>
-					</div>
-				<div class="stars-today">⭐ 577 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/Tencent/AI-Infra-Guard" target="_blank">
-    
-
-
-      
-        Tencent /
-
-      AI-Infra-Guard</a></p>
-				<p>
-      A full-stack AI Red Teaming platform securing AI ecosystems via Agent Scan, Skills Scan, MCP scan, AI Infra scan and LLM jailbreak evaluation.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 5308</span>
-						<span>🔱 509</span>
-					</div>
-				<div class="stars-today">⭐ 435 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/RyanCodrai/turbovec" target="_blank">
-    
-
-
-      
-        RyanCodrai /
-
-      turbovec</a></p>
-				<p>
-      A vector index built on TurboQuant, written in Rust with Python bindings
+      ⚡️A native, local-first alternative to Logitech Options+, written in Rust 🦀 — remap buttons, DPI, and SmartShift over HID++. No account, no telemetry.
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Rust</span>
-						<span>⭐ 16183</span>
-						<span>🔱 1399</span>
+						<span>⭐ 12819</span>
+						<span>🔱 349</span>
+					</div>
+				<div class="stars-today">⭐ 1372 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/PostHog/posthog" target="_blank">
+    
+
+
+      
+        PostHog /
+
+      posthog</a></p>
+				<p>
+      🦔 PostHog is the leading platform for building self-driving products. Our developer tools – AI observability, analytics, session replay, flags, experiments, error tracking, logs, and more – capture all the context agents need to diagnose problems, uncover opportunities, and ship fixes. Steer it all from Slack, web, desktop, or the MCP.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 38264</span>
+						<span>🔱 3232</span>
+					</div>
+				<div class="stars-today">⭐ 334 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/microsoft/TypeScript" target="_blank">
+    
+
+
+      
+        microsoft /
+
+      TypeScript</a></p>
+				<p>
+      TypeScript is a superset of JavaScript that compiles to clean JavaScript output.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Go</span>
+						<span>⭐ 110367</span>
+						<span>🔱 13740</span>
+					</div>
+				<div class="stars-today">⭐ 65 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/obra/superpowers" target="_blank">
+    
+
+
+      
+        obra /
+
+      superpowers</a></p>
+				<p>
+      An agentic skills framework & software development methodology that works.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Shell</span>
+						<span>⭐ 275614</span>
+						<span>🔱 24642</span>
+					</div>
+				<div class="stars-today">⭐ 789 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/santifer/career-ops" target="_blank">
+    
+
+
+      
+        santifer /
+
+      career-ops</a></p>
+				<p>
+      Open-source AI job search: scan job portals, evaluate listings with a structured A-F rubric into a 1.0-5.0 score, tailor your CV, track applications — runs locally in your AI coding CLI (Claude Code, Codex, OpenCode, Antigravity…)
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 JavaScript</span>
+						<span>⭐ 67402</span>
+						<span>🔱 12866</span>
+					</div>
+				<div class="stars-today">⭐ 918 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/cursor/plugins" target="_blank">
+    
+
+
+      
+        cursor /
+
+      plugins</a></p>
+				<p>
+      Cursor plugin specification and official plugins
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 4371</span>
+						<span>🔱 366</span>
+					</div>
+				<div class="stars-today">⭐ 391 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/modular/modular" target="_blank">
+    
+
+
+      
+        modular /
+
+      modular</a></p>
+				<p>
+      The Modular Platform (includes MAX & Mojo)
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Mojo</span>
+						<span>⭐ 28667</span>
+						<span>🔱 3053</span>
+					</div>
+				<div class="stars-today">⭐ 905 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/affaan-m/ECC" target="_blank">
+    
+
+
+      
+        affaan-m /
+
+      ECC</a></p>
+				<p>
+      The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 JavaScript</span>
+						<span>⭐ 241756</span>
+						<span>🔱 36652</span>
 					</div>
 				<div class="stars-today">⭐ 348 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/TryGhost/Ghost" target="_blank">
+    
+
+
+      
+        TryGhost /
+
+      Ghost</a></p>
+				<p>
+      Independent technology for modern publishing, memberships, subscriptions and newsletters.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 JavaScript</span>
+						<span>⭐ 54860</span>
+						<span>🔱 11902</span>
+					</div>
+				<div class="stars-today">⭐ 32 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/ruvnet/ruflo" target="_blank">
+    
+
+
+      
+        ruvnet /
+
+      ruflo</a></p>
+				<p>
+      🌊 The original agent meta-harness. Deploy intelligent multi-player swarms, coordinate autonomous workflows, and build conversational AI systems. Features adaptive memory, self-learning intelligence, RAG integration, and native Claude Code / Codex / Hermes and many more Integrated
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 68618</span>
+						<span>🔱 8240</span>
+					</div>
+				<div class="stars-today">⭐ 140 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/apache/maka" target="_blank">
+    
+
+
+      
+        apache /
+
+      maka</a></p>
+				<p>
+      Apache Maka (Incubating) is a local-first AI agent workspace. Model messages, tool calls, tool results, permission decisions, and termination events are recorded as an append-only log.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 1993</span>
+						<span>🔱 240</span>
+					</div>
+				<div class="stars-today">⭐ 141 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/protocolbuffers/protobuf" target="_blank">
+    
+
+
+      
+        protocolbuffers /
+
+      protobuf</a></p>
+				<p>
+      Protocol Buffers - Google's data interchange format
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 C++</span>
+						<span>⭐ 71757</span>
+						<span>🔱 16236</span>
+					</div>
+				<div class="stars-today">⭐ 4 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/elder-plinius/OBLITERATUS" target="_blank">
+    
+
+
+      
+        elder-plinius /
+
+      OBLITERATUS</a></p>
+				<p>
+      OBLITERATE THE CHAINS THAT BIND YOU
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 7754</span>
+						<span>🔱 1431</span>
+					</div>
+				<div class="stars-today">⭐ 63 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/microsoft/onnxruntime" target="_blank">
+    
+
+
+      
+        microsoft /
+
+      onnxruntime</a></p>
+				<p>
+      ONNX Runtime: cross-platform, high performance ML inferencing and training accelerator
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 C++</span>
+						<span>⭐ 21420</span>
+						<span>🔱 4148</span>
+					</div>
+				<div class="stars-today">⭐ 5 stars today</div>
 				</div>
 			</div>
 	

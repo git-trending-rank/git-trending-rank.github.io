@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2026年8月
-date: 2026-08-21T20:08:26Z
+date: 2026-08-21T22:08:17Z
 categories:
 - monthly
 keywords:
@@ -30,8 +30,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Rust</span>
-						<span>⭐ 29154</span>
-						<span>🔱 3677</span>
+						<span>⭐ 29198</span>
+						<span>🔱 3687</span>
 					</div>
 				<div class="stars-today">⭐ 28701 stars this month</div>
 				</div>
@@ -52,8 +52,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Swift</span>
-						<span>⭐ 35757</span>
-						<span>🔱 5678</span>
+						<span>⭐ 35760</span>
+						<span>🔱 5679</span>
 					</div>
 				<div class="stars-today">⭐ 9710 stars this month</div>
 				</div>
@@ -74,8 +74,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 22943</span>
-						<span>🔱 1469</span>
+						<span>⭐ 22964</span>
+						<span>🔱 1471</span>
 					</div>
 				<div class="stars-today">⭐ 18443 stars this month</div>
 				</div>
@@ -96,7 +96,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 JavaScript</span>
-						<span>⭐ 12497</span>
+						<span>⭐ 12507</span>
 						<span>🔱 653</span>
 					</div>
 				<div class="stars-today">⭐ 11627 stars this month</div>
@@ -118,32 +118,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 23654</span>
-						<span>🔱 2185</span>
+						<span>⭐ 23661</span>
+						<span>🔱 2186</span>
 					</div>
 				<div class="stars-today">⭐ 14407 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/diegosouzapw/OmniRoute" target="_blank">
-    
-
-
-      
-        diegosouzapw /
-
-      OmniRoute</a></p>
-				<p>
-      Never stop coding. Free MIT AI gateway: one endpoint, 340 providers (90+ free), 1200+ models — Kimi, Claude, GPT, Gemini, GLM, DeepSeek, MiniMax. Works with Claude Code, Codex, Cursor, OpenCode, Cline & Copilot. Quota-aware auto-fallback, RTK+Caveman compression saves 15-95% tokens, MCP/A2A, Desktop/PWA. Built by 450+ contributors
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 52618</span>
-						<span>🔱 7167</span>
-					</div>
-				<div class="stars-today">⭐ 31270 stars this month</div>
 				</div>
 			</div>
 	
@@ -162,7 +140,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 PowerShell</span>
-						<span>⭐ 27202</span>
+						<span>⭐ 27210</span>
 						<span>🔱 3710</span>
 					</div>
 				<div class="stars-today">⭐ 18662 stars this month</div>
@@ -170,22 +148,24 @@ keywords:
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/pingdotgg/t3code" target="_blank">
+				<p><a href="https://github.com/diegosouzapw/OmniRoute" target="_blank">
     
 
 
       
-        pingdotgg /
+        diegosouzapw /
 
-      t3code</a></p>
-				<p></p>
+      OmniRoute</a></p>
+				<p>
+      Never stop coding. Free MIT AI gateway: one endpoint, 340 providers (90+ free), 1200+ models — Kimi, Claude, GPT, Gemini, GLM, DeepSeek, MiniMax. Works with Claude Code, Codex, Cursor, OpenCode, Cline & Copilot. Quota-aware auto-fallback, RTK+Caveman compression saves 15-95% tokens, MCP/A2A, Desktop/PWA. Built by 450+ contributors
+    </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 19936</span>
-						<span>🔱 4682</span>
+						<span>⭐ 52668</span>
+						<span>🔱 7174</span>
 					</div>
-				<div class="stars-today">⭐ 5646 stars this month</div>
+				<div class="stars-today">⭐ 31270 stars this month</div>
 				</div>
 			</div>
 	
@@ -204,10 +184,30 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Jupyter Notebook</span>
-						<span>⭐ 66118</span>
+						<span>⭐ 66124</span>
 						<span>🔱 12809</span>
 					</div>
 				<div class="stars-today">⭐ 13592 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/pingdotgg/t3code" target="_blank">
+    
+
+
+      
+        pingdotgg /
+
+      t3code</a></p>
+				<p></p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 19948</span>
+						<span>🔱 4686</span>
+					</div>
+				<div class="stars-today">⭐ 5646 stars this month</div>
 				</div>
 			</div>
 	
@@ -226,54 +226,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 23636</span>
-						<span>🔱 2497</span>
+						<span>⭐ 23655</span>
+						<span>🔱 2499</span>
 					</div>
 				<div class="stars-today">⭐ 14598 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/mattpocock/skills" target="_blank">
-    
-
-
-      
-        mattpocock /
-
-      skills</a></p>
-				<p>
-      Skills for Real Engineers. Straight from my .agents directory.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Shell</span>
-						<span>⭐ 229133</span>
-						<span>🔱 19590</span>
-					</div>
-				<div class="stars-today">⭐ 47717 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/1jehuang/jcode" target="_blank">
-    
-
-
-      
-        1jehuang /
-
-      jcode</a></p>
-				<p>
-      The most RAM efficient harness
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Rust</span>
-						<span>⭐ 18169</span>
-						<span>🔱 2038</span>
-					</div>
-				<div class="stars-today">⭐ 8972 stars this month</div>
 				</div>
 			</div>
 	
@@ -292,10 +248,54 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Shell</span>
-						<span>⭐ 27387</span>
-						<span>🔱 2804</span>
+						<span>⭐ 27458</span>
+						<span>🔱 2813</span>
 					</div>
 				<div class="stars-today">⭐ 3095 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/1jehuang/jcode" target="_blank">
+    
+
+
+      
+        1jehuang /
+
+      jcode</a></p>
+				<p>
+      The most RAM efficient harness
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Rust</span>
+						<span>⭐ 18173</span>
+						<span>🔱 2038</span>
+					</div>
+				<div class="stars-today">⭐ 8972 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/mattpocock/skills" target="_blank">
+    
+
+
+      
+        mattpocock /
+
+      skills</a></p>
+				<p>
+      Skills for Real Engineers. Straight from my .agents directory.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Shell</span>
+						<span>⭐ 229300</span>
+						<span>🔱 19603</span>
+					</div>
+				<div class="stars-today">⭐ 47717 stars this month</div>
 				</div>
 			</div>
 	
@@ -314,32 +314,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 95010</span>
-						<span>🔱 11754</span>
+						<span>⭐ 95027</span>
+						<span>🔱 11760</span>
 					</div>
 				<div class="stars-today">⭐ 21507 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/koala73/worldmonitor" target="_blank">
-    
-
-
-      
-        koala73 /
-
-      worldmonitor</a></p>
-				<p>
-      Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 83666</span>
-						<span>🔱 12465</span>
-					</div>
-				<div class="stars-today">⭐ 21742 stars this month</div>
 				</div>
 			</div>
 	
@@ -358,10 +336,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 8302</span>
-						<span>🔱 534</span>
+						<span>⭐ 8319</span>
+						<span>🔱 535</span>
 					</div>
 				<div class="stars-today">⭐ 4829 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/volcengine/OpenViking" target="_blank">
+    
+
+
+      
+        volcengine /
+
+      OpenViking</a></p>
+				<p>
+      Self-evolving Context Database for AI Agents. Unify Agent Memory, Knowledge RAG and Skills.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 31629</span>
+						<span>🔱 2424</span>
+					</div>
+				<div class="stars-today">⭐ 3975 stars this month</div>
 				</div>
 			</div>
 	
@@ -380,54 +380,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 13911</span>
+						<span>⭐ 13917</span>
 						<span>🔱 1809</span>
 					</div>
 				<div class="stars-today">⭐ 2109 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/HKUDS/DeepTutor" target="_blank">
-    
-
-
-      
-        HKUDS /
-
-      DeepTutor</a></p>
-				<p>
-      DeepTutor: Lifelong Personalized Tutoring. https://deeptutor.info/.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 36909</span>
-						<span>🔱 4631</span>
-					</div>
-				<div class="stars-today">⭐ 8578 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/different-ai/openwork" target="_blank">
-    
-
-
-      
-        different-ai /
-
-      openwork</a></p>
-				<p>
-      The open-source alternative to Claude Cowork (powered by opencode)
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 22881</span>
-						<span>🔱 2261</span>
-					</div>
-				<div class="stars-today">⭐ 6006 stars this month</div>
 				</div>
 			</div>
 	
@@ -446,7 +402,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Jupyter Notebook</span>
-						<span>⭐ 32094</span>
+						<span>⭐ 32099</span>
 						<span>🔱 3396</span>
 					</div>
 				<div class="stars-today">⭐ 8160 stars this month</div>
@@ -454,24 +410,46 @@ keywords:
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/every-app/open-seo" target="_blank">
+				<p><a href="https://github.com/different-ai/openwork" target="_blank">
     
 
 
       
-        every-app /
+        different-ai /
 
-      open-seo</a></p>
+      openwork</a></p>
 				<p>
-      Open source alternative to Semrush and Ahrefs
+      The open-source alternative to Claude Cowork (powered by opencode)
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 12999</span>
-						<span>🔱 1480</span>
+						<span>⭐ 22895</span>
+						<span>🔱 2261</span>
 					</div>
-				<div class="stars-today">⭐ 7395 stars this month</div>
+				<div class="stars-today">⭐ 6006 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/opengeos/GeoLibre" target="_blank">
+    
+
+
+      
+        opengeos /
+
+      GeoLibre</a></p>
+				<p>
+      A lightweight, cloud-native GIS platform for visualizing, exploring, and analyzing geospatial data. It runs in the web browser, on the desktop, on mobile, and inside Jupyter notebooks.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 6538</span>
+						<span>🔱 652</span>
+					</div>
+				<div class="stars-today">⭐ 4733 stars this month</div>
 				</div>
 			</div>
 	

@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2026年第34周
-date: 2026-08-21T20:08:26Z
+date: 2026-08-21T22:08:18Z
 categories:
 - weekly
 keywords:
@@ -14,6 +14,28 @@ keywords:
 	<main class="container">
         <div class="repo-list" id="repoList">
 
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/cordiverse/cordis" target="_blank">
+    
+
+
+      
+        cordiverse /
+
+      cordis</a></p>
+				<p>
+      Meta-Framework of Spatiotemporal Composability
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 6938</span>
+						<span>🔱 400</span>
+					</div>
+				<div class="stars-today">⭐ 3614 stars this week</div>
+				</div>
+			</div>
 	
 			<div class="repo-card">
 				<p><a href="https://github.com/cathrynlavery/diagram-design" target="_blank">
@@ -30,10 +52,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 HTML</span>
-						<span>⭐ 24920</span>
-						<span>🔱 1515</span>
+						<span>⭐ 24953</span>
+						<span>🔱 1521</span>
 					</div>
 				<div class="stars-today">⭐ 11325 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/cursor/plugins" target="_blank">
+    
+
+
+      
+        cursor /
+
+      plugins</a></p>
+				<p>
+      Cursor plugin specification and official plugins
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 4371</span>
+						<span>🔱 366</span>
+					</div>
+				<div class="stars-today">⭐ 1273 stars this week</div>
 				</div>
 			</div>
 	
@@ -52,8 +96,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 31592</span>
-						<span>🔱 2423</span>
+						<span>⭐ 31629</span>
+						<span>🔱 2424</span>
 					</div>
 				<div class="stars-today">⭐ 2444 stars this week</div>
 				</div>
@@ -74,76 +118,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Shell</span>
-						<span>⭐ 27387</span>
-						<span>🔱 2804</span>
+						<span>⭐ 27458</span>
+						<span>🔱 2813</span>
 					</div>
 				<div class="stars-today">⭐ 2395 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/cactus-compute/needle" target="_blank">
-    
-
-
-      
-        cactus-compute /
-
-      needle</a></p>
-				<p>
-      14MB foundation model for tiny devices; phones, wearables, smart home, and robots.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 8302</span>
-						<span>🔱 534</span>
-					</div>
-				<div class="stars-today">⭐ 3409 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/semantica-agi/semantica" target="_blank">
-    
-
-
-      
-        semantica-agi /
-
-      semantica</a></p>
-				<p>
-      Graph-Native Infrastructure for Context and Accountable AI Systems
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 10039</span>
-						<span>🔱 1072</span>
-					</div>
-				<div class="stars-today">⭐ 3674 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/NVIDIA-NeMo/Switchyard" target="_blank">
-    
-
-
-      
-        NVIDIA-NeMo /
-
-      Switchyard</a></p>
-				<p>
-      Switchyard lets LLM applications route traffic across models and providers while preserving native OpenAI and Anthropic API compatibility - enabling flexible model selection, benchmarking, and cost/performance optimization.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Rust</span>
-						<span>⭐ 2038</span>
-						<span>🔱 183</span>
-					</div>
-				<div class="stars-today">⭐ 932 stars this week</div>
 				</div>
 			</div>
 	
@@ -162,8 +140,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Mojo</span>
-						<span>⭐ 28633</span>
-						<span>🔱 3048</span>
+						<span>⭐ 28667</span>
+						<span>🔱 3053</span>
 					</div>
 				<div class="stars-today">⭐ 744 stars this week</div>
 				</div>
@@ -184,8 +162,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 113770</span>
-						<span>🔱 17263</span>
+						<span>⭐ 113827</span>
+						<span>🔱 17270</span>
 					</div>
 				<div class="stars-today">⭐ 9712 stars this week</div>
 				</div>
@@ -206,32 +184,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 467907</span>
-						<span>🔱 51621</span>
+						<span>⭐ 467941</span>
+						<span>🔱 51628</span>
 					</div>
 				<div class="stars-today">⭐ 11259 stars this week</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/megadose/holehe" target="_blank">
+				<p><a href="https://github.com/semantica-agi/semantica" target="_blank">
     
 
 
       
-        megadose /
+        semantica-agi /
 
-      holehe</a></p>
+      semantica</a></p>
 				<p>
-      holehe allows you to check if the mail is used on different sites like twitter, instagram and will retrieve information on sites with the forgotten password function.
+      Graph-Native Infrastructure for Context and Accountable AI Systems
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 13911</span>
-						<span>🔱 1809</span>
+						<span>⭐ 10057</span>
+						<span>🔱 1074</span>
 					</div>
-				<div class="stars-today">⭐ 1632 stars this week</div>
+				<div class="stars-today">⭐ 3674 stars this week</div>
 				</div>
 			</div>
 	
@@ -250,54 +228,98 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Rust</span>
-						<span>⭐ 12748</span>
-						<span>🔱 347</span>
+						<span>⭐ 12819</span>
+						<span>🔱 349</span>
 					</div>
 				<div class="stars-today">⭐ 2674 stars this week</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/lightningpixel/modly" target="_blank">
+				<p><a href="https://github.com/cactus-compute/needle" target="_blank">
     
 
 
       
-        lightningpixel /
+        cactus-compute /
 
-      modly</a></p>
+      needle</a></p>
 				<p>
-      Desktop app to generate 3D models from images or prompt using local AI — runs entirely on your GPU
+      14MB foundation model for tiny devices; phones, wearables, smart home, and robots.
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 7118</span>
-						<span>🔱 678</span>
+						<span>🔠 Python</span>
+						<span>⭐ 8319</span>
+						<span>🔱 535</span>
 					</div>
-				<div class="stars-today">⭐ 1855 stars this week</div>
+				<div class="stars-today">⭐ 3409 stars this week</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/macro-inc/macro" target="_blank">
+				<p><a href="https://github.com/NVIDIA-NeMo/Switchyard" target="_blank">
     
 
 
       
-        macro-inc /
+        NVIDIA-NeMo /
 
-      macro</a></p>
+      Switchyard</a></p>
 				<p>
-      Macro is a unified workspace for teams: email, chat, docs, tasks, agents, calls, and CRM — @-linked together with shared AI memory.
+      Switchyard lets LLM applications route traffic across models and providers while preserving native OpenAI and Anthropic API compatibility - enabling flexible model selection, benchmarking, and cost/performance optimization.
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Rust</span>
-						<span>⭐ 3930</span>
-						<span>🔱 374</span>
+						<span>⭐ 2048</span>
+						<span>🔱 183</span>
 					</div>
-				<div class="stars-today">⭐ 1456 stars this week</div>
+				<div class="stars-today">⭐ 932 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/akitaonrails/ai-memory" target="_blank">
+    
+
+
+      
+        akitaonrails /
+
+      ai-memory</a></p>
+				<p>
+      Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Rust</span>
+						<span>⭐ 3934</span>
+						<span>🔱 297</span>
+					</div>
+				<div class="stars-today">⭐ 1952 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/AlexsJones/llmfit" target="_blank">
+    
+
+
+      
+        AlexsJones /
+
+      llmfit</a></p>
+				<p>
+      Hundreds of models & providers. One command to find what runs on your hardware.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Rust</span>
+						<span>⭐ 33439</span>
+						<span>🔱 2078</span>
+					</div>
+				<div class="stars-today">⭐ 1842 stars this week</div>
 				</div>
 			</div>
 	
@@ -316,7 +338,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 74243</span>
+						<span>⭐ 74252</span>
 						<span>🔱 6712</span>
 					</div>
 				<div class="stars-today">⭐ 3300 stars this week</div>
@@ -338,54 +360,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 20209</span>
+						<span>⭐ 20216</span>
 						<span>🔱 1716</span>
 					</div>
 				<div class="stars-today">⭐ 1388 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/AlexsJones/llmfit" target="_blank">
-    
-
-
-      
-        AlexsJones /
-
-      llmfit</a></p>
-				<p>
-      Hundreds of models & providers. One command to find what runs on your hardware.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Rust</span>
-						<span>⭐ 33430</span>
-						<span>🔱 2077</span>
-					</div>
-				<div class="stars-today">⭐ 1842 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/CodebuffAI/freebuff" target="_blank">
-    
-
-
-      
-        CodebuffAI /
-
-      freebuff</a></p>
-				<p>
-      The free coding agent
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 10432</span>
-						<span>🔱 1139</span>
-					</div>
-				<div class="stars-today">⭐ 1133 stars this week</div>
 				</div>
 			</div>
 	
