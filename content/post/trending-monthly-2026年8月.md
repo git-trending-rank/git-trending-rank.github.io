@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2026年8月
-date: 2026-08-22T12:01:36Z
+date: 2026-08-22T14:05:25Z
 categories:
 - monthly
 keywords:
@@ -30,32 +30,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Rust</span>
-						<span>⭐ 29481</span>
-						<span>🔱 3742</span>
+						<span>⭐ 29567</span>
+						<span>🔱 3755</span>
 					</div>
 				<div class="stars-today">⭐ 28941 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/permissionlesstech/bitchat" target="_blank">
-    
-
-
-      
-        permissionlesstech /
-
-      bitchat</a></p>
-				<p>
-      bluetooth mesh chat, IRC vibes
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Swift</span>
-						<span>⭐ 35777</span>
-						<span>🔱 5682</span>
-					</div>
-				<div class="stars-today">⭐ 9730 stars this month</div>
 				</div>
 			</div>
 	
@@ -74,32 +52,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 23095</span>
-						<span>🔱 1478</span>
+						<span>⭐ 23117</span>
+						<span>🔱 1479</span>
 					</div>
 				<div class="stars-today">⭐ 16937 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/citrolabs/ego-lite" target="_blank">
-    
-
-
-      
-        citrolabs /
-
-      ego-lite</a></p>
-				<p>
-      The fastest browser for AI agents to run browser automation, built for sharing your logged-in browser state with your AI agents, like Codex or Claude Code, without disturbing you. Zero cost, zero config.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 JavaScript</span>
-						<span>⭐ 12651</span>
-						<span>🔱 659</span>
-					</div>
-				<div class="stars-today">⭐ 11791 stars this month</div>
 				</div>
 			</div>
 	
@@ -118,10 +74,54 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 23754</span>
-						<span>🔱 2197</span>
+						<span>⭐ 23764</span>
+						<span>🔱 2199</span>
 					</div>
 				<div class="stars-today">⭐ 14568 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/citrolabs/ego-lite" target="_blank">
+    
+
+
+      
+        citrolabs /
+
+      ego-lite</a></p>
+				<p>
+      The fastest browser for AI agents to run browser automation, built for sharing your logged-in browser state with your AI agents, like Codex or Claude Code, without disturbing you. Zero cost, zero config.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 JavaScript</span>
+						<span>⭐ 12663</span>
+						<span>🔱 659</span>
+					</div>
+				<div class="stars-today">⭐ 11791 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/permissionlesstech/bitchat" target="_blank">
+    
+
+
+      
+        permissionlesstech /
+
+      bitchat</a></p>
+				<p>
+      bluetooth mesh chat, IRC vibes
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Swift</span>
+						<span>⭐ 35779</span>
+						<span>🔱 5684</span>
+					</div>
+				<div class="stars-today">⭐ 9730 stars this month</div>
 				</div>
 			</div>
 	
@@ -140,8 +140,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 PowerShell</span>
-						<span>⭐ 27318</span>
-						<span>🔱 3724</span>
+						<span>⭐ 27341</span>
+						<span>🔱 3727</span>
 					</div>
 				<div class="stars-today">⭐ 18751 stars this month</div>
 				</div>
@@ -162,8 +162,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 52946</span>
-						<span>🔱 7222</span>
+						<span>⭐ 53001</span>
+						<span>🔱 7228</span>
 					</div>
 				<div class="stars-today">⭐ 29957 stars this month</div>
 				</div>
@@ -184,8 +184,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Jupyter Notebook</span>
-						<span>⭐ 66226</span>
-						<span>🔱 12826</span>
+						<span>⭐ 66243</span>
+						<span>🔱 12829</span>
 					</div>
 				<div class="stars-today">⭐ 13793 stars this month</div>
 				</div>
@@ -204,10 +204,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 19990</span>
-						<span>🔱 4700</span>
+						<span>⭐ 20002</span>
+						<span>🔱 4703</span>
 					</div>
 				<div class="stars-today">⭐ 5814 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/basecamp/omarchy" target="_blank">
+    
+
+
+      
+        basecamp /
+
+      omarchy</a></p>
+				<p>
+      Beautiful, Modern & Opinionated Linux
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Shell</span>
+						<span>⭐ 27966</span>
+						<span>🔱 2851</span>
+					</div>
+				<div class="stars-today">⭐ 3310 stars this month</div>
 				</div>
 			</div>
 	
@@ -226,8 +248,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 40837</span>
-						<span>🔱 4496</span>
+						<span>⭐ 40865</span>
+						<span>🔱 4501</span>
 					</div>
 				<div class="stars-today">⭐ 27568 stars this month</div>
 				</div>
@@ -248,54 +270,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 23908</span>
-						<span>🔱 2520</span>
+						<span>⭐ 23969</span>
+						<span>🔱 2527</span>
 					</div>
 				<div class="stars-today">⭐ 14523 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/basecamp/omarchy" target="_blank">
-    
-
-
-      
-        basecamp /
-
-      omarchy</a></p>
-				<p>
-      Beautiful, Modern & Opinionated Linux
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Shell</span>
-						<span>⭐ 27879</span>
-						<span>🔱 2848</span>
-					</div>
-				<div class="stars-today">⭐ 3310 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/1jehuang/jcode" target="_blank">
-    
-
-
-      
-        1jehuang /
-
-      jcode</a></p>
-				<p>
-      The most RAM efficient harness
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Rust</span>
-						<span>⭐ 18204</span>
-						<span>🔱 2044</span>
-					</div>
-				<div class="stars-today">⭐ 8256 stars this month</div>
 				</div>
 			</div>
 	
@@ -314,32 +292,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Shell</span>
-						<span>⭐ 230754</span>
-						<span>🔱 19709</span>
+						<span>⭐ 231011</span>
+						<span>🔱 19733</span>
 					</div>
 				<div class="stars-today">⭐ 49607 stars this month</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/earendil-works/pi" target="_blank">
+				<p><a href="https://github.com/1jehuang/jcode" target="_blank">
     
 
 
       
-        earendil-works /
+        1jehuang /
 
-      pi</a></p>
+      jcode</a></p>
 				<p>
-      AI agent toolkit: unified LLM API, agent loop, TUI, coding agent CLI
+      The most RAM efficient harness
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 95283</span>
-						<span>🔱 11787</span>
+						<span>🔠 Rust</span>
+						<span>⭐ 18215</span>
+						<span>🔱 2047</span>
 					</div>
-				<div class="stars-today">⭐ 20935 stars this month</div>
+				<div class="stars-today">⭐ 8256 stars this month</div>
 				</div>
 			</div>
 	
@@ -358,10 +336,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 8468</span>
-						<span>🔱 552</span>
+						<span>⭐ 8498</span>
+						<span>🔱 554</span>
 					</div>
 				<div class="stars-today">⭐ 5043 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/cursor/plugins" target="_blank">
+    
+
+
+      
+        cursor /
+
+      plugins</a></p>
+				<p>
+      Cursor plugin specification and official plugins
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 4547</span>
+						<span>🔱 373</span>
+					</div>
+				<div class="stars-today">⭐ 1938 stars this month</div>
 				</div>
 			</div>
 	
@@ -380,10 +380,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 31849</span>
-						<span>🔱 2431</span>
+						<span>⭐ 31888</span>
+						<span>🔱 2434</span>
 					</div>
 				<div class="stars-today">⭐ 4607 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/earendil-works/pi" target="_blank">
+    
+
+
+      
+        earendil-works /
+
+      pi</a></p>
+				<p>
+      AI agent toolkit: unified LLM API, agent loop, TUI, coding agent CLI
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 95339</span>
+						<span>🔱 11791</span>
+					</div>
+				<div class="stars-today">⭐ 20935 stars this month</div>
 				</div>
 			</div>
 	
@@ -402,76 +424,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 13960</span>
+						<span>⭐ 13966</span>
 						<span>🔱 1815</span>
 					</div>
 				<div class="stars-today">⭐ 2186 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/lyogavin/airllm" target="_blank">
-    
-
-
-      
-        lyogavin /
-
-      airllm</a></p>
-				<p>
-      AirLLM 70B inference with single 4GB GPU
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Jupyter Notebook</span>
-						<span>⭐ 32146</span>
-						<span>🔱 3400</span>
-					</div>
-				<div class="stars-today">⭐ 8352 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/different-ai/openwork" target="_blank">
-    
-
-
-      
-        different-ai /
-
-      openwork</a></p>
-				<p>
-      The open-source alternative to Claude Cowork (powered by opencode)
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 22935</span>
-						<span>🔱 2267</span>
-					</div>
-				<div class="stars-today">⭐ 6084 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/opengeos/GeoLibre" target="_blank">
-    
-
-
-      
-        opengeos /
-
-      GeoLibre</a></p>
-				<p>
-      A lightweight, cloud-native GIS platform for visualizing, exploring, and analyzing geospatial data. It runs in the web browser, on the desktop, on mobile, and inside Jupyter notebooks.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 6592</span>
-						<span>🔱 657</span>
-					</div>
-				<div class="stars-today">⭐ 4746 stars this month</div>
 				</div>
 			</div>
 	

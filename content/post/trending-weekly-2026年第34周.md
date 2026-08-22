@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2026年第34周
-date: 2026-08-22T12:01:36Z
+date: 2026-08-22T14:05:25Z
 categories:
 - weekly
 keywords:
@@ -14,50 +14,6 @@ keywords:
 	<main class="container">
         <div class="repo-list" id="repoList">
 
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/cordiverse/cordis" target="_blank">
-    
-
-
-      
-        cordiverse /
-
-      cordis</a></p>
-				<p>
-      Meta-Framework of Spatiotemporal Composability
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 7039</span>
-						<span>🔱 410</span>
-					</div>
-				<div class="stars-today">⭐ 3614 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/cathrynlavery/diagram-design" target="_blank">
-    
-
-
-      
-        cathrynlavery /
-
-      diagram-design</a></p>
-				<p>
-      38 editorial diagram types for Claude Code, Codex, and Pi. Self-contained HTML + SVG. No shadows. No Mermaid slop.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 HTML</span>
-						<span>⭐ 25242</span>
-						<span>🔱 1547</span>
-					</div>
-				<div class="stars-today">⭐ 8457 stars this week</div>
-				</div>
-			</div>
 	
 			<div class="repo-card">
 				<p><a href="https://github.com/cursor/plugins" target="_blank">
@@ -74,10 +30,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 4528</span>
-						<span>🔱 372</span>
+						<span>⭐ 4547</span>
+						<span>🔱 373</span>
 					</div>
 				<div class="stars-today">⭐ 1582 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/cordiverse/cordis" target="_blank">
+    
+
+
+      
+        cordiverse /
+
+      cordis</a></p>
+				<p>
+      Meta-Framework of Spatiotemporal Composability
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 7055</span>
+						<span>🔱 408</span>
+					</div>
+				<div class="stars-today">⭐ 3614 stars this week</div>
 				</div>
 			</div>
 	
@@ -96,8 +74,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 31849</span>
-						<span>🔱 2431</span>
+						<span>⭐ 31888</span>
+						<span>🔱 2434</span>
 					</div>
 				<div class="stars-today">⭐ 3033 stars this week</div>
 				</div>
@@ -118,8 +96,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Shell</span>
-						<span>⭐ 27879</span>
-						<span>🔱 2848</span>
+						<span>⭐ 27966</span>
+						<span>🔱 2851</span>
 					</div>
 				<div class="stars-today">⭐ 2565 stars this week</div>
 				</div>
@@ -140,8 +118,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Mojo</span>
-						<span>⭐ 28768</span>
-						<span>🔱 3060</span>
+						<span>⭐ 28777</span>
+						<span>🔱 3062</span>
 					</div>
 				<div class="stars-today">⭐ 1643 stars this week</div>
 				</div>
@@ -162,54 +140,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 114371</span>
-						<span>🔱 17360</span>
+						<span>⭐ 114445</span>
+						<span>🔱 17372</span>
 					</div>
 				<div class="stars-today">⭐ 10470 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/public-apis/public-apis" target="_blank">
-    
-
-
-      
-        public-apis /
-
-      public-apis</a></p>
-				<p>
-      A collective list of free APIs
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 468290</span>
-						<span>🔱 51658</span>
-					</div>
-				<div class="stars-today">⭐ 10990 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/semantica-agi/semantica" target="_blank">
-    
-
-
-      
-        semantica-agi /
-
-      semantica</a></p>
-				<p>
-      Graph-Native Infrastructure for Context and Accountable AI Systems
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 10180</span>
-						<span>🔱 1088</span>
-					</div>
-				<div class="stars-today">⭐ 2755 stars this week</div>
 				</div>
 			</div>
 	
@@ -228,54 +162,54 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Rust</span>
-						<span>⭐ 13388</span>
-						<span>🔱 361</span>
+						<span>⭐ 13481</span>
+						<span>🔱 363</span>
 					</div>
 				<div class="stars-today">⭐ 4054 stars this week</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/cactus-compute/needle" target="_blank">
+				<p><a href="https://github.com/public-apis/public-apis" target="_blank">
     
 
 
       
-        cactus-compute /
+        public-apis /
 
-      needle</a></p>
+      public-apis</a></p>
 				<p>
-      14MB foundation model for tiny devices; phones, wearables, smart home, and robots.
+      A collective list of free APIs
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 8468</span>
-						<span>🔱 552</span>
+						<span>⭐ 468356</span>
+						<span>🔱 51667</span>
 					</div>
-				<div class="stars-today">⭐ 2985 stars this week</div>
+				<div class="stars-today">⭐ 10990 stars this week</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/NVIDIA-NeMo/Switchyard" target="_blank">
+				<p><a href="https://github.com/cathrynlavery/diagram-design" target="_blank">
     
 
 
       
-        NVIDIA-NeMo /
+        cathrynlavery /
 
-      Switchyard</a></p>
+      diagram-design</a></p>
 				<p>
-      Switchyard lets LLM applications route traffic across models and providers while preserving native OpenAI and Anthropic API compatibility - enabling flexible model selection, benchmarking, and cost/performance optimization.
+      38 editorial diagram types for Claude Code, Codex, and Pi. Self-contained HTML + SVG. No shadows. No Mermaid slop.
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Rust</span>
-						<span>⭐ 2141</span>
-						<span>🔱 186</span>
+						<span>🔠 HTML</span>
+						<span>⭐ 25296</span>
+						<span>🔱 1550</span>
 					</div>
-				<div class="stars-today">⭐ 642 stars this week</div>
+				<div class="stars-today">⭐ 8457 stars this week</div>
 				</div>
 			</div>
 	
@@ -294,54 +228,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Rust</span>
-						<span>⭐ 4011</span>
+						<span>⭐ 4024</span>
 						<span>🔱 298</span>
 					</div>
 				<div class="stars-today">⭐ 2404 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/AlexsJones/llmfit" target="_blank">
-    
-
-
-      
-        AlexsJones /
-
-      llmfit</a></p>
-				<p>
-      Hundreds of models & providers. One command to find what runs on your hardware.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Rust</span>
-						<span>⭐ 33500</span>
-						<span>🔱 2089</span>
-					</div>
-				<div class="stars-today">⭐ 1991 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/unslothai/unsloth" target="_blank">
-    
-
-
-      
-        unslothai /
-
-      unsloth</a></p>
-				<p>
-      Local UI to run and train LLMs and diffusion models, including Qwen3.8, Kimi K3, MiniMax-H3, Gemma 4, DeepSeek-V4, FLUX and more.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 74349</span>
-						<span>🔱 6723</span>
-					</div>
-				<div class="stars-today">⭐ 2987 stars this week</div>
 				</div>
 			</div>
 	
@@ -360,10 +250,98 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 20272</span>
-						<span>🔱 1720</span>
+						<span>⭐ 20292</span>
+						<span>🔱 1719</span>
 					</div>
 				<div class="stars-today">⭐ 1536 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/semantica-agi/semantica" target="_blank">
+    
+
+
+      
+        semantica-agi /
+
+      semantica</a></p>
+				<p>
+      Graph-Native Infrastructure for Context and Accountable AI Systems
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 10200</span>
+						<span>🔱 1093</span>
+					</div>
+				<div class="stars-today">⭐ 2755 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/AlexsJones/llmfit" target="_blank">
+    
+
+
+      
+        AlexsJones /
+
+      llmfit</a></p>
+				<p>
+      Hundreds of models & providers. One command to find what runs on your hardware.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Rust</span>
+						<span>⭐ 33511</span>
+						<span>🔱 2092</span>
+					</div>
+				<div class="stars-today">⭐ 1991 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/NVIDIA-NeMo/Switchyard" target="_blank">
+    
+
+
+      
+        NVIDIA-NeMo /
+
+      Switchyard</a></p>
+				<p>
+      Switchyard lets LLM applications route traffic across models and providers while preserving native OpenAI and Anthropic API compatibility - enabling flexible model selection, benchmarking, and cost/performance optimization.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Rust</span>
+						<span>⭐ 2164</span>
+						<span>🔱 188</span>
+					</div>
+				<div class="stars-today">⭐ 642 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/eneskirca/nodeterm" target="_blank">
+    
+
+
+      
+        eneskirca /
+
+      nodeterm</a></p>
+				<p>
+      Node-based terminal manager for AI coding agents — tmux-backed terminals and parallel agent sessions as draggable nodes on an infinite pan/zoom canvas. macOS, Linux, and a browser Server Edition.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 1016</span>
+						<span>🔱 113</span>
+					</div>
+				<div class="stars-today">⭐ 427 stars this week</div>
 				</div>
 			</div>
 	
