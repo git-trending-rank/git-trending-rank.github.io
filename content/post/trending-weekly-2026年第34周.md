@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2026年第34周
-date: 2026-08-23T10:08:24Z
+date: 2026-08-23T12:10:28Z
 categories:
 - weekly
 keywords:
@@ -16,24 +16,90 @@ keywords:
 
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/cursor/plugins" target="_blank">
+				<p><a href="https://github.com/modular/modular" target="_blank">
     
 
 
       
-        cursor /
+        modular /
 
-      plugins</a></p>
+      modular</a></p>
 				<p>
-      Cursor plugin specification and official plugins
+      The Modular Platform (includes MAX & Mojo)
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 4738</span>
-						<span>🔱 385</span>
+						<span>🔠 Mojo</span>
+						<span>⭐ 28917</span>
+						<span>🔱 3069</span>
 					</div>
-				<div class="stars-today">⭐ 1693 stars this week</div>
+				<div class="stars-today">⭐ 2017 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/harry0703/MoneyPrinterTurbo" target="_blank">
+    
+
+
+      
+        harry0703 /
+
+      MoneyPrinterTurbo</a></p>
+				<p>
+      利用 AI 大模型和自动化工作流，根据主题或关键词一键生成高清短视频。Generate HD short videos from a topic or keyword with an automated AI workflow.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 115006</span>
+						<span>🔱 17460</span>
+					</div>
+				<div class="stars-today">⭐ 10953 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/basecamp/omarchy" target="_blank">
+    
+
+
+      
+        basecamp /
+
+      omarchy</a></p>
+				<p>
+      Beautiful, Modern & Opinionated Linux
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Shell</span>
+						<span>⭐ 28622</span>
+						<span>🔱 2914</span>
+					</div>
+				<div class="stars-today">⭐ 3151 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/AprilNEA/OpenLogi" target="_blank">
+    
+
+
+      
+        AprilNEA /
+
+      OpenLogi</a></p>
+				<p>
+      ⚡️A native, local-first alternative to Logitech Options+, written in Rust 🦀 — remap buttons, DPI, and SmartShift over HID++. No account, no telemetry.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Rust</span>
+						<span>⭐ 14397</span>
+						<span>🔱 384</span>
+					</div>
+				<div class="stars-today">⭐ 4993 stars this week</div>
 				</div>
 			</div>
 	
@@ -52,7 +118,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 7169</span>
+						<span>⭐ 7182</span>
 						<span>🔱 418</span>
 					</div>
 				<div class="stars-today">⭐ 3364 stars this week</div>
@@ -74,98 +140,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 32247</span>
-						<span>🔱 2462</span>
+						<span>⭐ 32286</span>
+						<span>🔱 2463</span>
 					</div>
 				<div class="stars-today">⭐ 3447 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/basecamp/omarchy" target="_blank">
-    
-
-
-      
-        basecamp /
-
-      omarchy</a></p>
-				<p>
-      Beautiful, Modern & Opinionated Linux
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Shell</span>
-						<span>⭐ 28555</span>
-						<span>🔱 2907</span>
-					</div>
-				<div class="stars-today">⭐ 3151 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/modular/modular" target="_blank">
-    
-
-
-      
-        modular /
-
-      modular</a></p>
-				<p>
-      The Modular Platform (includes MAX & Mojo)
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Mojo</span>
-						<span>⭐ 28911</span>
-						<span>🔱 3068</span>
-					</div>
-				<div class="stars-today">⭐ 2017 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/harry0703/MoneyPrinterTurbo" target="_blank">
-    
-
-
-      
-        harry0703 /
-
-      MoneyPrinterTurbo</a></p>
-				<p>
-      利用 AI 大模型和自动化工作流，根据主题或关键词一键生成高清短视频。Generate HD short videos from a topic or keyword with an automated AI workflow.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 114942</span>
-						<span>🔱 17450</span>
-					</div>
-				<div class="stars-today">⭐ 10953 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/AprilNEA/OpenLogi" target="_blank">
-    
-
-
-      
-        AprilNEA /
-
-      OpenLogi</a></p>
-				<p>
-      ⚡️A native, local-first alternative to Logitech Options+, written in Rust 🦀 — remap buttons, DPI, and SmartShift over HID++. No account, no telemetry.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Rust</span>
-						<span>⭐ 14309</span>
-						<span>🔱 381</span>
-					</div>
-				<div class="stars-today">⭐ 4993 stars this week</div>
 				</div>
 			</div>
 	
@@ -184,54 +162,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 468837</span>
-						<span>🔱 51725</span>
+						<span>⭐ 468892</span>
+						<span>🔱 51729</span>
 					</div>
 				<div class="stars-today">⭐ 9381 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/cathrynlavery/diagram-design" target="_blank">
-    
-
-
-      
-        cathrynlavery /
-
-      diagram-design</a></p>
-				<p>
-      38 editorial diagram types for Claude Code, Codex, and Pi. Self-contained HTML + SVG. No shadows. No Mermaid slop.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 HTML</span>
-						<span>⭐ 25624</span>
-						<span>🔱 1574</span>
-					</div>
-				<div class="stars-today">⭐ 7368 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/akitaonrails/ai-memory" target="_blank">
-    
-
-
-      
-        akitaonrails /
-
-      ai-memory</a></p>
-				<p>
-      Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Rust</span>
-						<span>⭐ 4161</span>
-						<span>🔱 304</span>
-					</div>
-				<div class="stars-today">⭐ 2575 stars this week</div>
 				</div>
 			</div>
 	
@@ -250,98 +184,98 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 20388</span>
-						<span>🔱 1726</span>
+						<span>⭐ 20392</span>
+						<span>🔱 1727</span>
 					</div>
 				<div class="stars-today">⭐ 1597 stars this week</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/semantica-agi/semantica" target="_blank">
+				<p><a href="https://github.com/akitaonrails/ai-memory" target="_blank">
     
 
 
       
-        semantica-agi /
+        akitaonrails /
 
-      semantica</a></p>
+      ai-memory</a></p>
 				<p>
-      Graph-Native Infrastructure for Context and Accountable AI Systems
+      Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Rust</span>
+						<span>⭐ 4169</span>
+						<span>🔱 305</span>
+					</div>
+				<div class="stars-today">⭐ 2575 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/anthropics/claude-plugins-community" target="_blank">
+    
+
+
+      
+        anthropics /
+
+      claude-plugins-community</a></p>
+				<p>
+      Community plugin marketplace for Claude Cowork and Claude Code. Read-only mirror — submit plugins at clau.de/plugin-directory-submission.
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 10355</span>
-						<span>🔱 1117</span>
+						<span>⭐ 709</span>
+						<span>🔱 117</span>
 					</div>
-				<div class="stars-today">⭐ 2450 stars this week</div>
+				<div class="stars-today">⭐ 341 stars this week</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/AlexsJones/llmfit" target="_blank">
+				<p><a href="https://github.com/cursor/plugins" target="_blank">
     
 
 
       
-        AlexsJones /
+        cursor /
 
-      llmfit</a></p>
+      plugins</a></p>
 				<p>
-      Hundreds of models & providers. One command to find what runs on your hardware.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Rust</span>
-						<span>⭐ 33646</span>
-						<span>🔱 2103</span>
-					</div>
-				<div class="stars-today">⭐ 1949 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/NVIDIA-NeMo/Switchyard" target="_blank">
-    
-
-
-      
-        NVIDIA-NeMo /
-
-      Switchyard</a></p>
-				<p>
-      Switchyard lets LLM applications route traffic across models and providers while preserving native OpenAI and Anthropic API compatibility - enabling flexible model selection, benchmarking, and cost/performance optimization.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Rust</span>
-						<span>⭐ 2272</span>
-						<span>🔱 194</span>
-					</div>
-				<div class="stars-today">⭐ 635 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/eneskirca/nodeterm" target="_blank">
-    
-
-
-      
-        eneskirca /
-
-      nodeterm</a></p>
-				<p>
-      Node-based terminal manager for AI coding agents — tmux-backed terminals and parallel agent sessions as draggable nodes on an infinite pan/zoom canvas. macOS, Linux, and a browser Server Edition.
+      Cursor plugin specification and official plugins
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 1085</span>
-						<span>🔱 113</span>
+						<span>⭐ 4753</span>
+						<span>🔱 387</span>
 					</div>
-				<div class="stars-today">⭐ 424 stars this week</div>
+				<div class="stars-today">⭐ 1693 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/apache/maka" target="_blank">
+    
+
+
+      
+        apache /
+
+      maka</a></p>
+				<p>
+      Apache Maka (Incubating) is a local-first AI agent workspace. Model messages, tool calls, tool results, permission decisions, and termination events are recorded as an append-only log.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 2192</span>
+						<span>🔱 259</span>
+					</div>
+				<div class="stars-today">⭐ 810 stars this week</div>
 				</div>
 			</div>
 	

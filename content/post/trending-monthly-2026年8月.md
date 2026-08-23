@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2026年8月
-date: 2026-08-23T10:08:24Z
+date: 2026-08-23T12:10:29Z
 categories:
 - monthly
 keywords:
@@ -30,32 +30,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Rust</span>
-						<span>⭐ 29855</span>
-						<span>🔱 3798</span>
+						<span>⭐ 29889</span>
+						<span>🔱 3802</span>
 					</div>
 				<div class="stars-today">⭐ 26583 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/ayghri/i-have-adhd" target="_blank">
-    
-
-
-      
-        ayghri /
-
-      i-have-adhd</a></p>
-				<p>
-      A skill to stop your coding agent from burying the answer. ADHD-friendly output.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 23330</span>
-						<span>🔱 1493</span>
-					</div>
-				<div class="stars-today">⭐ 15557 stars this month</div>
 				</div>
 			</div>
 	
@@ -74,54 +52,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 23922</span>
-						<span>🔱 2208</span>
+						<span>⭐ 23940</span>
+						<span>🔱 2210</span>
 					</div>
 				<div class="stars-today">⭐ 14702 stars this month</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/citrolabs/ego-lite" target="_blank">
+				<p><a href="https://github.com/ayghri/i-have-adhd" target="_blank">
     
 
 
       
-        citrolabs /
+        ayghri /
 
-      ego-lite</a></p>
+      i-have-adhd</a></p>
 				<p>
-      The fastest browser for AI agents to run browser automation, built for sharing your logged-in browser state with your AI agents, like Codex or Claude Code, without disturbing you. Zero cost, zero config.
+      A skill to stop your coding agent from burying the answer. ADHD-friendly output.
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 JavaScript</span>
-						<span>⭐ 12828</span>
-						<span>🔱 672</span>
+						<span>🔠 Python</span>
+						<span>⭐ 23349</span>
+						<span>🔱 1494</span>
 					</div>
-				<div class="stars-today">⭐ 11724 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/permissionlesstech/bitchat" target="_blank">
-    
-
-
-      
-        permissionlesstech /
-
-      bitchat</a></p>
-				<p>
-      bluetooth mesh chat, IRC vibes
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Swift</span>
-						<span>⭐ 35819</span>
-						<span>🔱 5687</span>
-					</div>
-				<div class="stars-today">⭐ 9757 stars this month</div>
+				<div class="stars-today">⭐ 15557 stars this month</div>
 				</div>
 			</div>
 	
@@ -140,74 +96,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 PowerShell</span>
-						<span>⭐ 27503</span>
-						<span>🔱 3747</span>
+						<span>⭐ 27530</span>
+						<span>🔱 3749</span>
 					</div>
 				<div class="stars-today">⭐ 18829 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/diegosouzapw/OmniRoute" target="_blank">
-    
-
-
-      
-        diegosouzapw /
-
-      OmniRoute</a></p>
-				<p>
-      Never stop coding. Free MIT AI gateway: one endpoint, 340 providers (90+ free), 1200+ models — Kimi, Claude, GPT, Gemini, GLM, DeepSeek, MiniMax. Works with Claude Code, Codex, Cursor, OpenCode, Cline & Copilot. Quota-aware auto-fallback, RTK+Caveman compression saves 15-95% tokens, MCP/A2A, Desktop/PWA. Built by 450+ contributors
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 53470</span>
-						<span>🔱 7295</span>
-					</div>
-				<div class="stars-today">⭐ 29023 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/microsoft/AI-For-Beginners" target="_blank">
-    
-
-
-      
-        microsoft /
-
-      AI-For-Beginners</a></p>
-				<p>
-      12 Weeks, 24 Lessons, AI for All!
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Jupyter Notebook</span>
-						<span>⭐ 66417</span>
-						<span>🔱 12845</span>
-					</div>
-				<div class="stars-today">⭐ 13881 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/pingdotgg/t3code" target="_blank">
-    
-
-
-      
-        pingdotgg /
-
-      t3code</a></p>
-				<p></p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 20110</span>
-						<span>🔱 4745</span>
-					</div>
-				<div class="stars-today">⭐ 5879 stars this month</div>
 				</div>
 			</div>
 	
@@ -226,32 +118,54 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Shell</span>
-						<span>⭐ 28555</span>
-						<span>🔱 2907</span>
+						<span>⭐ 28622</span>
+						<span>🔱 2914</span>
 					</div>
 				<div class="stars-today">⭐ 4036 stars this month</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/bojieli/ai-agent-book" target="_blank">
+				<p><a href="https://github.com/microsoft/AI-For-Beginners" target="_blank">
     
 
 
       
-        bojieli /
+        microsoft /
 
-      ai-agent-book</a></p>
+      AI-For-Beginners</a></p>
 				<p>
-      《深入理解 AI Agent：设计原理与工程实践》（李博杰 著）开源主仓库：全书正文、编译版 PDF 与按章配套代码
+      12 Weeks, 24 Lessons, AI for All!
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 41057</span>
-						<span>🔱 4533</span>
+						<span>🔠 Jupyter Notebook</span>
+						<span>⭐ 66434</span>
+						<span>🔱 12849</span>
 					</div>
-				<div class="stars-today">⭐ 24229 stars this month</div>
+				<div class="stars-today">⭐ 13881 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/diegosouzapw/OmniRoute" target="_blank">
+    
+
+
+      
+        diegosouzapw /
+
+      OmniRoute</a></p>
+				<p>
+      Never stop coding. Free MIT AI gateway: one endpoint, 340 providers (90+ free), 1200+ models — Kimi, Claude, GPT, Gemini, GLM, DeepSeek, MiniMax. Works with Claude Code, Codex, Cursor, OpenCode, Cline & Copilot. Quota-aware auto-fallback, RTK+Caveman compression saves 15-95% tokens, MCP/A2A, Desktop/PWA. Built by 450+ contributors
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 53526</span>
+						<span>🔱 7302</span>
+					</div>
+				<div class="stars-today">⭐ 29023 stars this month</div>
 				</div>
 			</div>
 	
@@ -270,10 +184,118 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 24292</span>
-						<span>🔱 2564</span>
+						<span>⭐ 24328</span>
+						<span>🔱 2565</span>
 					</div>
 				<div class="stars-today">⭐ 14737 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/pingdotgg/t3code" target="_blank">
+    
+
+
+      
+        pingdotgg /
+
+      t3code</a></p>
+				<p></p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 20120</span>
+						<span>🔱 4747</span>
+					</div>
+				<div class="stars-today">⭐ 5879 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/citrolabs/ego-lite" target="_blank">
+    
+
+
+      
+        citrolabs /
+
+      ego-lite</a></p>
+				<p>
+      The fastest browser for AI agents to run browser automation, built for sharing your logged-in browser state with your AI agents, like Codex or Claude Code, without disturbing you. Zero cost, zero config.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 JavaScript</span>
+						<span>⭐ 12841</span>
+						<span>🔱 672</span>
+					</div>
+				<div class="stars-today">⭐ 11724 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/bojieli/ai-agent-book" target="_blank">
+    
+
+
+      
+        bojieli /
+
+      ai-agent-book</a></p>
+				<p>
+      《深入理解 AI Agent：设计原理与工程实践》（李博杰 著）开源主仓库：全书正文、编译版 PDF 与按章配套代码
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 41090</span>
+						<span>🔱 4535</span>
+					</div>
+				<div class="stars-today">⭐ 24229 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/cactus-compute/needle" target="_blank">
+    
+
+
+      
+        cactus-compute /
+
+      needle</a></p>
+				<p>
+      14MB foundation model for tiny devices; phones, wearables, smart home, and robots.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 8670</span>
+						<span>🔱 559</span>
+					</div>
+				<div class="stars-today">⭐ 5263 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/volcengine/OpenViking" target="_blank">
+    
+
+
+      
+        volcengine /
+
+      OpenViking</a></p>
+				<p>
+      Self-evolving Context Database for AI Agents. Unify Agent Memory, Knowledge RAG and Skills.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 32286</span>
+						<span>🔱 2463</span>
+					</div>
+				<div class="stars-today">⭐ 4899 stars this month</div>
 				</div>
 			</div>
 	
@@ -292,8 +314,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Shell</span>
-						<span>⭐ 232977</span>
-						<span>🔱 19874</span>
+						<span>⭐ 233163</span>
+						<span>🔱 19891</span>
 					</div>
 				<div class="stars-today">⭐ 50486 stars this month</div>
 				</div>
@@ -314,76 +336,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Rust</span>
-						<span>⭐ 18293</span>
+						<span>⭐ 18301</span>
 						<span>🔱 2057</span>
 					</div>
 				<div class="stars-today">⭐ 7782 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/cactus-compute/needle" target="_blank">
-    
-
-
-      
-        cactus-compute /
-
-      needle</a></p>
-				<p>
-      14MB foundation model for tiny devices; phones, wearables, smart home, and robots.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 8654</span>
-						<span>🔱 558</span>
-					</div>
-				<div class="stars-today">⭐ 5263 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/cursor/plugins" target="_blank">
-    
-
-
-      
-        cursor /
-
-      plugins</a></p>
-				<p>
-      Cursor plugin specification and official plugins
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 4738</span>
-						<span>🔱 385</span>
-					</div>
-				<div class="stars-today">⭐ 2159 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/volcengine/OpenViking" target="_blank">
-    
-
-
-      
-        volcengine /
-
-      OpenViking</a></p>
-				<p>
-      Self-evolving Context Database for AI Agents. Unify Agent Memory, Knowledge RAG and Skills.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 32247</span>
-						<span>🔱 2462</span>
-					</div>
-				<div class="stars-today">⭐ 4899 stars this month</div>
 				</div>
 			</div>
 	
@@ -402,8 +358,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 95676</span>
-						<span>🔱 11832</span>
+						<span>⭐ 95709</span>
+						<span>🔱 11840</span>
 					</div>
 				<div class="stars-today">⭐ 20460 stars this month</div>
 				</div>
@@ -424,10 +380,54 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 14035</span>
-						<span>🔱 1821</span>
+						<span>⭐ 14037</span>
+						<span>🔱 1820</span>
 					</div>
 				<div class="stars-today">⭐ 2252 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/modular/modular" target="_blank">
+    
+
+
+      
+        modular /
+
+      modular</a></p>
+				<p>
+      The Modular Platform (includes MAX & Mojo)
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Mojo</span>
+						<span>⭐ 28917</span>
+						<span>🔱 3069</span>
+					</div>
+				<div class="stars-today">⭐ 2336 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/lyogavin/airllm" target="_blank">
+    
+
+
+      
+        lyogavin /
+
+      airllm</a></p>
+				<p>
+      AirLLM 70B inference with single 4GB GPU
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Jupyter Notebook</span>
+						<span>⭐ 32203</span>
+						<span>🔱 3409</span>
+					</div>
+				<div class="stars-today">⭐ 8401 stars this month</div>
 				</div>
 			</div>
 	
