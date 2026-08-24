@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2026年第35周
-date: 2026-08-24T10:23:29Z
+date: 2026-08-24T12:17:01Z
 categories:
 - weekly
 keywords:
@@ -30,7 +30,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Mojo</span>
-						<span>⭐ 29023</span>
+						<span>⭐ 29028</span>
 						<span>🔱 3085</span>
 					</div>
 				<div class="stars-today">⭐ 2176 stars this week</div>
@@ -52,32 +52,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 115641</span>
-						<span>🔱 17565</span>
+						<span>⭐ 115690</span>
+						<span>🔱 17573</span>
 					</div>
 				<div class="stars-today">⭐ 11167 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/basecamp/omarchy" target="_blank">
-    
-
-
-      
-        basecamp /
-
-      omarchy</a></p>
-				<p>
-      Beautiful, Modern & Opinionated Linux
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Shell</span>
-						<span>⭐ 29587</span>
-						<span>🔱 2994</span>
-					</div>
-				<div class="stars-today">⭐ 3660 stars this week</div>
 				</div>
 			</div>
 	
@@ -96,32 +74,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Rust</span>
-						<span>⭐ 15404</span>
-						<span>🔱 415</span>
+						<span>⭐ 15485</span>
+						<span>🔱 417</span>
 					</div>
 				<div class="stars-today">⭐ 6078 stars this week</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/cordiverse/cordis" target="_blank">
+				<p><a href="https://github.com/basecamp/omarchy" target="_blank">
     
 
 
       
-        cordiverse /
+        basecamp /
 
-      cordis</a></p>
+      omarchy</a></p>
 				<p>
-      Meta-Framework of Spatiotemporal Composability
+      Beautiful, Modern & Opinionated Linux
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 7337</span>
-						<span>🔱 428</span>
+						<span>🔠 Shell</span>
+						<span>⭐ 29664</span>
+						<span>🔱 3002</span>
 					</div>
-				<div class="stars-today">⭐ 2725 stars this week</div>
+				<div class="stars-today">⭐ 3660 stars this week</div>
 				</div>
 			</div>
 	
@@ -140,54 +118,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 32765</span>
-						<span>🔱 2500</span>
+						<span>⭐ 32798</span>
+						<span>🔱 2504</span>
 					</div>
 				<div class="stars-today">⭐ 3799 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/public-apis/public-apis" target="_blank">
-    
-
-
-      
-        public-apis /
-
-      public-apis</a></p>
-				<p>
-      A collective list of free APIs
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 469523</span>
-						<span>🔱 51780</span>
-					</div>
-				<div class="stars-today">⭐ 8295 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/jundot/omlx" target="_blank">
-    
-
-
-      
-        jundot /
-
-      omlx</a></p>
-				<p>
-      LLM inference server with continuous batching & SSD caching for Apple Silicon — managed from the macOS menu bar
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 20498</span>
-						<span>🔱 1736</span>
-					</div>
-				<div class="stars-today">⭐ 1671 stars this week</div>
 				</div>
 			</div>
 	
@@ -206,32 +140,98 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 1155</span>
-						<span>🔱 140</span>
+						<span>⭐ 1198</span>
+						<span>🔱 143</span>
 					</div>
 				<div class="stars-today">⭐ 406 stars this week</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/cursor/plugins" target="_blank">
+				<p><a href="https://github.com/cordiverse/cordis" target="_blank">
     
 
 
       
-        cursor /
+        cordiverse /
 
-      plugins</a></p>
+      cordis</a></p>
 				<p>
-      Cursor plugin specification and official plugins
+      Meta-Framework of Spatiotemporal Composability
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 4869</span>
-						<span>🔱 397</span>
+						<span>⭐ 7348</span>
+						<span>🔱 429</span>
 					</div>
-				<div class="stars-today">⭐ 1761 stars this week</div>
+				<div class="stars-today">⭐ 2725 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/public-apis/public-apis" target="_blank">
+    
+
+
+      
+        public-apis /
+
+      public-apis</a></p>
+				<p>
+      A collective list of free APIs
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 469571</span>
+						<span>🔱 51786</span>
+					</div>
+				<div class="stars-today">⭐ 8295 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/akitaonrails/ai-memory" target="_blank">
+    
+
+
+      
+        akitaonrails /
+
+      ai-memory</a></p>
+				<p>
+      Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Rust</span>
+						<span>⭐ 4298</span>
+						<span>🔱 314</span>
+					</div>
+				<div class="stars-today">⭐ 2614 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/jundot/omlx" target="_blank">
+    
+
+
+      
+        jundot /
+
+      omlx</a></p>
+				<p>
+      LLM inference server with continuous batching & SSD caching for Apple Silicon — managed from the macOS menu bar
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 20502</span>
+						<span>🔱 1736</span>
+					</div>
+				<div class="stars-today">⭐ 1671 stars this week</div>
 				</div>
 			</div>
 	
@@ -250,10 +250,98 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 2520</span>
-						<span>🔱 283</span>
+						<span>⭐ 2594</span>
+						<span>🔱 286</span>
 					</div>
 				<div class="stars-today">⭐ 859 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/vorssaint/vorssaint-utils" target="_blank">
+    
+
+
+      
+        vorssaint /
+
+      vorssaint-utils</a></p>
+				<p>
+      Free and open-source macOS menu bar toolkit.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Swift</span>
+						<span>⭐ 9940</span>
+						<span>🔱 324</span>
+					</div>
+				<div class="stars-today">⭐ 2883 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/eneskirca/nodeterm" target="_blank">
+    
+
+
+      
+        eneskirca /
+
+      nodeterm</a></p>
+				<p>
+      Node-based terminal manager for AI coding agents — tmux-backed terminals and parallel agent sessions as draggable nodes on an infinite pan/zoom canvas. macOS, Linux, and a browser Server Edition.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 1145</span>
+						<span>🔱 118</span>
+					</div>
+				<div class="stars-today">⭐ 496 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/Tencent/AI-Infra-Guard" target="_blank">
+    
+
+
+      
+        Tencent /
+
+      AI-Infra-Guard</a></p>
+				<p>
+      A full-stack AI Red Teaming platform securing AI ecosystems via Agent Scan, Skills Scan, MCP scan, AI Infra scan and LLM jailbreak evaluation.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 5701</span>
+						<span>🔱 536</span>
+					</div>
+				<div class="stars-today">⭐ 1149 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/cursor/plugins" target="_blank">
+    
+
+
+      
+        cursor /
+
+      plugins</a></p>
+				<p>
+      Cursor plugin specification and official plugins
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 4876</span>
+						<span>🔱 398</span>
+					</div>
+				<div class="stars-today">⭐ 1761 stars this week</div>
 				</div>
 			</div>
 	

@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2026年8月
-date: 2026-08-24T10:23:29Z
+date: 2026-08-24T12:17:01Z
 categories:
 - monthly
 keywords:
@@ -30,8 +30,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Rust</span>
-						<span>⭐ 30340</span>
-						<span>🔱 3849</span>
+						<span>⭐ 30365</span>
+						<span>🔱 3852</span>
 					</div>
 				<div class="stars-today">⭐ 24429 stars this month</div>
 				</div>
@@ -52,8 +52,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 24178</span>
-						<span>🔱 2223</span>
+						<span>⭐ 24186</span>
+						<span>🔱 2226</span>
 					</div>
 				<div class="stars-today">⭐ 14878 stars this month</div>
 				</div>
@@ -74,32 +74,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 23602</span>
-						<span>🔱 1510</span>
+						<span>⭐ 23653</span>
+						<span>🔱 1515</span>
 					</div>
 				<div class="stars-today">⭐ 14450 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/zhaoxuya520/reverse-skill" target="_blank">
-    
-
-
-      
-        zhaoxuya520 /
-
-      reverse-skill</a></p>
-				<p>
-      Reverse Engineering / Authorized Penetration Testing / Security Research Skill Router Pack AI-powered routing + On-demand toolchain bootstrapping + Self-evolving knowledge base Supports Claude Code, Kiro, Cursor, Cline, and other AI coding clients 逆向/渗透/安全技能路由包 - AI 自动路由 + 按需自举工具链 + 自动进化经验库 | 支持 Claude Code / Kiro / Cursor / Cline 等代码 AI 客户端
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 PowerShell</span>
-						<span>⭐ 28329</span>
-						<span>🔱 3855</span>
-					</div>
-				<div class="stars-today">⭐ 19063 stars this month</div>
 				</div>
 			</div>
 	
@@ -118,10 +96,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Shell</span>
-						<span>⭐ 29587</span>
-						<span>🔱 2994</span>
+						<span>⭐ 29664</span>
+						<span>🔱 3002</span>
 					</div>
 				<div class="stars-today">⭐ 4850 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/zhaoxuya520/reverse-skill" target="_blank">
+    
+
+
+      
+        zhaoxuya520 /
+
+      reverse-skill</a></p>
+				<p>
+      Reverse Engineering / Authorized Penetration Testing / Security Research Skill Router Pack AI-powered routing + On-demand toolchain bootstrapping + Self-evolving knowledge base Supports Claude Code, Kiro, Cursor, Cline, and other AI coding clients 逆向/渗透/安全技能路由包 - AI 自动路由 + 按需自举工具链 + 自动进化经验库 | 支持 Claude Code / Kiro / Cursor / Cline 等代码 AI 客户端
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 PowerShell</span>
+						<span>⭐ 28394</span>
+						<span>🔱 3866</span>
+					</div>
+				<div class="stars-today">⭐ 19063 stars this month</div>
 				</div>
 			</div>
 	
@@ -140,32 +140,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Jupyter Notebook</span>
-						<span>⭐ 66656</span>
-						<span>🔱 12871</span>
+						<span>⭐ 66673</span>
+						<span>🔱 12878</span>
 					</div>
 				<div class="stars-today">⭐ 13993 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/diegosouzapw/OmniRoute" target="_blank">
-    
-
-
-      
-        diegosouzapw /
-
-      OmniRoute</a></p>
-				<p>
-      Never stop coding. Free MIT AI gateway: one endpoint, 350 providers (90+ free), 1200+ models Kimi, Claude, GPT, Gemini, GLM, DeepSeek, MiniMax. Works with Claude Code, Codex, Cursor, OpenCode, Cline & Copilot. Quota-aware auto-fallback, RTK+Caveman compression saves 15-95% tokens, MCP/A2A, Desktop/PWA. Built by 450+ contributors
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 54105</span>
-						<span>🔱 7403</span>
-					</div>
-				<div class="stars-today">⭐ 27573 stars this month</div>
 				</div>
 			</div>
 	
@@ -184,10 +162,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 25016</span>
-						<span>🔱 2605</span>
+						<span>⭐ 25052</span>
+						<span>🔱 2606</span>
 					</div>
 				<div class="stars-today">⭐ 15086 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/diegosouzapw/OmniRoute" target="_blank">
+    
+
+
+      
+        diegosouzapw /
+
+      OmniRoute</a></p>
+				<p>
+      Never stop coding. Free MIT AI gateway: one endpoint, 350 providers (90+ free), 1200+ models Kimi, Claude, GPT, Gemini, GLM, DeepSeek, MiniMax. Works with Claude Code, Codex, Cursor, OpenCode, Cline & Copilot. Quota-aware auto-fallback, RTK+Caveman compression saves 15-95% tokens, MCP/A2A, Desktop/PWA. Built by 450+ contributors
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 54160</span>
+						<span>🔱 7409</span>
+					</div>
+				<div class="stars-today">⭐ 27573 stars this month</div>
 				</div>
 			</div>
 	
@@ -204,32 +204,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 20249</span>
-						<span>🔱 4783</span>
+						<span>⭐ 20263</span>
+						<span>🔱 4787</span>
 					</div>
 				<div class="stars-today">⭐ 5876 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/citrolabs/ego-lite" target="_blank">
-    
-
-
-      
-        citrolabs /
-
-      ego-lite</a></p>
-				<p>
-      The fastest browser for AI agents to run browser automation, built for sharing your logged-in browser state with your AI agents, like Codex or Claude Code, without disturbing you. Zero cost, zero config.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 JavaScript</span>
-						<span>⭐ 13108</span>
-						<span>🔱 682</span>
-					</div>
-				<div class="stars-today">⭐ 11598 stars this month</div>
 				</div>
 			</div>
 	
@@ -248,8 +226,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 41568</span>
-						<span>🔱 4592</span>
+						<span>⭐ 41599</span>
+						<span>🔱 4595</span>
 					</div>
 				<div class="stars-today">⭐ 23452 stars this month</div>
 				</div>
@@ -270,10 +248,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 8845</span>
+						<span>⭐ 8862</span>
 						<span>🔱 574</span>
 					</div>
 				<div class="stars-today">⭐ 5464 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/citrolabs/ego-lite" target="_blank">
+    
+
+
+      
+        citrolabs /
+
+      ego-lite</a></p>
+				<p>
+      The fastest browser for AI agents to run browser automation, built for sharing your logged-in browser state with your AI agents, like Codex or Claude Code, without disturbing you. Zero cost, zero config.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 JavaScript</span>
+						<span>⭐ 13129</span>
+						<span>🔱 684</span>
+					</div>
+				<div class="stars-today">⭐ 11598 stars this month</div>
 				</div>
 			</div>
 	
@@ -292,8 +292,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 32765</span>
-						<span>🔱 2500</span>
+						<span>⭐ 32798</span>
+						<span>🔱 2504</span>
 					</div>
 				<div class="stars-today">⭐ 5332 stars this month</div>
 				</div>
@@ -314,8 +314,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Shell</span>
-						<span>⭐ 234667</span>
-						<span>🔱 20009</span>
+						<span>⭐ 234792</span>
+						<span>🔱 20016</span>
 					</div>
 				<div class="stars-today">⭐ 50629 stars this month</div>
 				</div>
@@ -336,8 +336,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Rust</span>
-						<span>⭐ 18398</span>
-						<span>🔱 2073</span>
+						<span>⭐ 18408</span>
+						<span>🔱 2075</span>
 					</div>
 				<div class="stars-today">⭐ 7570 stars this month</div>
 				</div>
@@ -358,8 +358,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 96307</span>
-						<span>🔱 11909</span>
+						<span>⭐ 96350</span>
+						<span>🔱 11911</span>
 					</div>
 				<div class="stars-today">⭐ 20046 stars this month</div>
 				</div>
@@ -380,7 +380,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 14103</span>
+						<span>⭐ 14109</span>
 						<span>🔱 1823</span>
 					</div>
 				<div class="stars-today">⭐ 2328 stars this month</div>
@@ -402,7 +402,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Mojo</span>
-						<span>⭐ 29023</span>
+						<span>⭐ 29028</span>
 						<span>🔱 3085</span>
 					</div>
 				<div class="stars-today">⭐ 2426 stars this month</div>
@@ -410,24 +410,24 @@ keywords:
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/lyogavin/airllm" target="_blank">
+				<p><a href="https://github.com/akitaonrails/ai-memory" target="_blank">
     
 
 
       
-        lyogavin /
+        akitaonrails /
 
-      airllm</a></p>
+      ai-memory</a></p>
 				<p>
-      AirLLM 70B inference with single 4GB GPU
+      Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Jupyter Notebook</span>
-						<span>⭐ 32363</span>
-						<span>🔱 3422</span>
+						<span>🔠 Rust</span>
+						<span>⭐ 4298</span>
+						<span>🔱 314</span>
 					</div>
-				<div class="stars-today">⭐ 8428 stars this month</div>
+				<div class="stars-today">⭐ 3045 stars this month</div>
 				</div>
 			</div>
 	
