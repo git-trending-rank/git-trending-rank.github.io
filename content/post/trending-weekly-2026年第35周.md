@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2026年第35周
-date: 2026-08-25T08:24:07Z
+date: 2026-08-25T10:16:14Z
 categories:
 - weekly
 keywords:
@@ -30,8 +30,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Mojo</span>
-						<span>⭐ 29097</span>
-						<span>🔱 3103</span>
+						<span>⭐ 29108</span>
+						<span>🔱 3106</span>
 					</div>
 				<div class="stars-today">⭐ 2285 stars this week</div>
 				</div>
@@ -52,8 +52,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 116162</span>
-						<span>🔱 17654</span>
+						<span>⭐ 116205</span>
+						<span>🔱 17665</span>
 					</div>
 				<div class="stars-today">⭐ 10647 stars this week</div>
 				</div>
@@ -74,7 +74,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Rust</span>
-						<span>⭐ 16113</span>
+						<span>⭐ 16189</span>
 						<span>🔱 440</span>
 					</div>
 				<div class="stars-today">⭐ 7019 stars this week</div>
@@ -96,8 +96,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Shell</span>
-						<span>⭐ 30523</span>
-						<span>🔱 3098</span>
+						<span>⭐ 30623</span>
+						<span>🔱 3109</span>
 					</div>
 				<div class="stars-today">⭐ 3934 stars this week</div>
 				</div>
@@ -118,8 +118,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 33106</span>
-						<span>🔱 2522</span>
+						<span>⭐ 33142</span>
+						<span>🔱 2526</span>
 					</div>
 				<div class="stars-today">⭐ 4048 stars this week</div>
 				</div>
@@ -140,8 +140,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 1488</span>
-						<span>🔱 162</span>
+						<span>⭐ 1513</span>
+						<span>🔱 164</span>
 					</div>
 				<div class="stars-today">⭐ 877 stars this week</div>
 				</div>
@@ -162,8 +162,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 7472</span>
-						<span>🔱 434</span>
+						<span>⭐ 7487</span>
+						<span>🔱 437</span>
 					</div>
 				<div class="stars-today">⭐ 1972 stars this week</div>
 				</div>
@@ -184,8 +184,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 470071</span>
-						<span>🔱 51832</span>
+						<span>⭐ 470131</span>
+						<span>🔱 51836</span>
 					</div>
 				<div class="stars-today">⭐ 7069 stars this week</div>
 				</div>
@@ -206,7 +206,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Rust</span>
-						<span>⭐ 4461</span>
+						<span>⭐ 4478</span>
 						<span>🔱 323</span>
 					</div>
 				<div class="stars-today">⭐ 2520 stars this week</div>
@@ -228,8 +228,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 20579</span>
-						<span>🔱 1738</span>
+						<span>⭐ 20588</span>
+						<span>🔱 1739</span>
 					</div>
 				<div class="stars-today">⭐ 1689 stars this week</div>
 				</div>
@@ -250,32 +250,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 3059</span>
-						<span>🔱 312</span>
+						<span>⭐ 3096</span>
+						<span>🔱 313</span>
 					</div>
 				<div class="stars-today">⭐ 1313 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/liustack/modlens" target="_blank">
-    
-
-
-      
-        liustack /
-
-      modlens</a></p>
-				<p>
-      The first vision plugin for DeepSeek Harness, and the vision bridge for every text-only coding agent. Paste an image, get structured JSON evidence (OCR, layout, semantics). | 全网最强 DeepSeek Harness 外挂视觉插件，为 DeepSeek、GLM 等纯文本模型外挂视觉能力，粘贴图片即得结构化 JSON 证据（OCR、版面、语义）。
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 3643</span>
-						<span>🔱 105</span>
-					</div>
-				<div class="stars-today">⭐ 809 stars this week</div>
 				</div>
 			</div>
 	
@@ -294,7 +272,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 1205</span>
+						<span>⭐ 1210</span>
 						<span>🔱 124</span>
 					</div>
 				<div class="stars-today">⭐ 529 stars this week</div>
@@ -316,7 +294,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 5810</span>
+						<span>⭐ 5822</span>
 						<span>🔱 539</span>
 					</div>
 				<div class="stars-today">⭐ 1212 stars this week</div>
@@ -338,8 +316,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 5061</span>
-						<span>🔱 412</span>
+						<span>⭐ 5074</span>
+						<span>🔱 414</span>
 					</div>
 				<div class="stars-today">⭐ 1832 stars this week</div>
 				</div>
