@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2026年第35周
-date: 2026-08-25T10:16:14Z
+date: 2026-08-25T12:17:20Z
 categories:
 - weekly
 keywords:
@@ -30,32 +30,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Mojo</span>
-						<span>⭐ 29108</span>
+						<span>⭐ 29116</span>
 						<span>🔱 3106</span>
 					</div>
 				<div class="stars-today">⭐ 2285 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/harry0703/MoneyPrinterTurbo" target="_blank">
-    
-
-
-      
-        harry0703 /
-
-      MoneyPrinterTurbo</a></p>
-				<p>
-      利用 AI 大模型和自动化工作流，根据主题或关键词一键生成高清短视频。Generate HD short videos from a topic or keyword with an automated AI workflow.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 116205</span>
-						<span>🔱 17665</span>
-					</div>
-				<div class="stars-today">⭐ 10647 stars this week</div>
 				</div>
 			</div>
 	
@@ -74,10 +52,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Rust</span>
-						<span>⭐ 16189</span>
-						<span>🔱 440</span>
+						<span>⭐ 16244</span>
+						<span>🔱 441</span>
 					</div>
 				<div class="stars-today">⭐ 7019 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/harry0703/MoneyPrinterTurbo" target="_blank">
+    
+
+
+      
+        harry0703 /
+
+      MoneyPrinterTurbo</a></p>
+				<p>
+      利用 AI 大模型和自动化工作流，根据主题或关键词一键生成高清短视频。Generate HD short videos from a topic or keyword with an automated AI workflow.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 116238</span>
+						<span>🔱 17677</span>
+					</div>
+				<div class="stars-today">⭐ 10647 stars this week</div>
 				</div>
 			</div>
 	
@@ -96,32 +96,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Shell</span>
-						<span>⭐ 30623</span>
-						<span>🔱 3109</span>
+						<span>⭐ 30723</span>
+						<span>🔱 3121</span>
 					</div>
 				<div class="stars-today">⭐ 3934 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/volcengine/OpenViking" target="_blank">
-    
-
-
-      
-        volcengine /
-
-      OpenViking</a></p>
-				<p>
-      Self-evolving Context Database for AI Agents. Unify Agent Memory, Knowledge RAG and Skills.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 33142</span>
-						<span>🔱 2526</span>
-					</div>
-				<div class="stars-today">⭐ 4048 stars this week</div>
 				</div>
 			</div>
 	
@@ -140,54 +118,98 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 1513</span>
-						<span>🔱 164</span>
+						<span>⭐ 1539</span>
+						<span>🔱 165</span>
 					</div>
 				<div class="stars-today">⭐ 877 stars this week</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/cordiverse/cordis" target="_blank">
+				<p><a href="https://github.com/apache/maka" target="_blank">
     
 
 
       
-        cordiverse /
+        apache /
 
-      cordis</a></p>
+      maka</a></p>
 				<p>
-      Meta-Framework of Spatiotemporal Composability
+      Apache Maka (Incubating) is a local-first AI agent workspace. Model messages, tool calls, tool results, permission decisions, and termination events are recorded as an append-only log.
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 7487</span>
-						<span>🔱 437</span>
+						<span>⭐ 3125</span>
+						<span>🔱 314</span>
 					</div>
-				<div class="stars-today">⭐ 1972 stars this week</div>
+				<div class="stars-today">⭐ 1313 stars this week</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/public-apis/public-apis" target="_blank">
+				<p><a href="https://github.com/volcengine/OpenViking" target="_blank">
     
 
 
       
-        public-apis /
+        volcengine /
 
-      public-apis</a></p>
+      OpenViking</a></p>
 				<p>
-      A collective list of free APIs
+      Self-evolving Context Database for AI Agents. Unify Agent Memory, Knowledge RAG and Skills.
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 470131</span>
-						<span>🔱 51836</span>
+						<span>⭐ 33167</span>
+						<span>🔱 2527</span>
 					</div>
-				<div class="stars-today">⭐ 7069 stars this week</div>
+				<div class="stars-today">⭐ 4048 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/freestylefly/awesome-gpt-image-2" target="_blank">
+    
+
+
+      
+        freestylefly /
+
+      awesome-gpt-image-2</a></p>
+				<p>
+      Prompt as Code | GPT-Image2 工业级提示词引擎与模板库，530+ 个案例逆向工程，20+ 套工业级模板，并提炼出Skills，持续更新中
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 JavaScript</span>
+						<span>⭐ 16492</span>
+						<span>🔱 1719</span>
+					</div>
+				<div class="stars-today">⭐ 4341 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/openai/codex" target="_blank">
+    
+
+
+      
+        openai /
+
+      codex</a></p>
+				<p>
+      Lightweight coding agent that runs in your terminal
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Rust</span>
+						<span>⭐ 117802</span>
+						<span>🔱 17967</span>
+					</div>
+				<div class="stars-today">⭐ 10571 stars this week</div>
 				</div>
 			</div>
 	
@@ -206,8 +228,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Rust</span>
-						<span>⭐ 4478</span>
-						<span>🔱 323</span>
+						<span>⭐ 4502</span>
+						<span>🔱 324</span>
 					</div>
 				<div class="stars-today">⭐ 2520 stars this week</div>
 				</div>
@@ -228,54 +250,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 20588</span>
-						<span>🔱 1739</span>
+						<span>⭐ 20594</span>
+						<span>🔱 1741</span>
 					</div>
 				<div class="stars-today">⭐ 1689 stars this week</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/apache/maka" target="_blank">
+				<p><a href="https://github.com/public-apis/public-apis" target="_blank">
     
 
 
       
-        apache /
+        public-apis /
 
-      maka</a></p>
+      public-apis</a></p>
 				<p>
-      Apache Maka (Incubating) is a local-first AI agent workspace. Model messages, tool calls, tool results, permission decisions, and termination events are recorded as an append-only log.
+      A collective list of free APIs
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 3096</span>
-						<span>🔱 313</span>
+						<span>🔠 Python</span>
+						<span>⭐ 470179</span>
+						<span>🔱 51846</span>
 					</div>
-				<div class="stars-today">⭐ 1313 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/eneskirca/nodeterm" target="_blank">
-    
-
-
-      
-        eneskirca /
-
-      nodeterm</a></p>
-				<p>
-      Node-based terminal manager for AI coding agents — tmux-backed terminals and parallel agent sessions as draggable nodes on an infinite pan/zoom canvas. macOS, Linux, and a browser Server Edition.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 1210</span>
-						<span>🔱 124</span>
-					</div>
-				<div class="stars-today">⭐ 529 stars this week</div>
+				<div class="stars-today">⭐ 7069 stars this week</div>
 				</div>
 			</div>
 	
@@ -294,32 +294,54 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 5822</span>
-						<span>🔱 539</span>
+						<span>⭐ 5828</span>
+						<span>🔱 540</span>
 					</div>
 				<div class="stars-today">⭐ 1212 stars this week</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/cursor/plugins" target="_blank">
+				<p><a href="https://github.com/PostHog/posthog" target="_blank">
     
 
 
       
-        cursor /
+        PostHog /
 
-      plugins</a></p>
+      posthog</a></p>
 				<p>
-      Cursor plugin specification and official plugins
+      🦔 PostHog is the leading platform for building self-driving products. Our developer tools – AI observability, analytics, session replay, flags, experiments, error tracking, logs, and more – capture all the context agents need to diagnose problems, uncover opportunities, and ship fixes. Steer it all from Slack, web, desktop, or the MCP.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 39121</span>
+						<span>🔱 3281</span>
+					</div>
+				<div class="stars-today">⭐ 1186 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/eneskirca/nodeterm" target="_blank">
+    
+
+
+      
+        eneskirca /
+
+      nodeterm</a></p>
+				<p>
+      Node-based terminal manager for AI coding agents — tmux-backed terminals and parallel agent sessions as draggable nodes on an infinite pan/zoom canvas. macOS, Linux, and a browser Server Edition.
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 5074</span>
-						<span>🔱 414</span>
+						<span>⭐ 1214</span>
+						<span>🔱 125</span>
 					</div>
-				<div class="stars-today">⭐ 1832 stars this week</div>
+				<div class="stars-today">⭐ 529 stars this week</div>
 				</div>
 			</div>
 	
