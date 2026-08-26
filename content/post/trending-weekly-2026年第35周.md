@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2026年第35周
-date: 2026-08-26T10:19:46Z
+date: 2026-08-26T12:19:19Z
 categories:
 - weekly
 keywords:
@@ -16,24 +16,24 @@ keywords:
 
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/modular/modular" target="_blank">
+				<p><a href="https://github.com/anthropics/claude-plugins-community" target="_blank">
     
 
 
       
-        modular /
+        anthropics /
 
-      modular</a></p>
+      claude-plugins-community</a></p>
 				<p>
-      The Modular Platform (includes MAX & Mojo)
+      Community plugin marketplace for Claude Cowork and Claude Code. Read-only mirror — submit plugins at clau.de/plugin-directory-submission.
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Mojo</span>
-						<span>⭐ 29197</span>
-						<span>🔱 3106</span>
+						<span>🔠 Python</span>
+						<span>⭐ 2032</span>
+						<span>🔱 186</span>
 					</div>
-				<div class="stars-today">⭐ 2354 stars this week</div>
+				<div class="stars-today">⭐ 1199 stars this week</div>
 				</div>
 			</div>
 	
@@ -52,32 +52,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Rust</span>
-						<span>⭐ 16659</span>
-						<span>🔱 462</span>
+						<span>⭐ 16691</span>
+						<span>🔱 463</span>
 					</div>
 				<div class="stars-today">⭐ 7648 stars this week</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/harry0703/MoneyPrinterTurbo" target="_blank">
+				<p><a href="https://github.com/modular/modular" target="_blank">
     
 
 
       
-        harry0703 /
+        modular /
 
-      MoneyPrinterTurbo</a></p>
+      modular</a></p>
 				<p>
-      利用 AI 大模型和自动化工作流，根据主题或关键词一键生成高清短视频。Generate HD short videos from a topic or keyword with an automated AI workflow.
+      The Modular Platform (includes MAX & Mojo)
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 116712</span>
-						<span>🔱 17743</span>
+						<span>🔠 Mojo</span>
+						<span>⭐ 29198</span>
+						<span>🔱 3106</span>
 					</div>
-				<div class="stars-today">⭐ 9019 stars this week</div>
+				<div class="stars-today">⭐ 2354 stars this week</div>
 				</div>
 			</div>
 	
@@ -96,76 +96,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Shell</span>
-						<span>⭐ 31621</span>
-						<span>🔱 3212</span>
+						<span>⭐ 31684</span>
+						<span>🔱 3217</span>
 					</div>
 				<div class="stars-today">⭐ 4601 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/anthropics/claude-plugins-community" target="_blank">
-    
-
-
-      
-        anthropics /
-
-      claude-plugins-community</a></p>
-				<p>
-      Community plugin marketplace for Claude Cowork and Claude Code. Read-only mirror — submit plugins at clau.de/plugin-directory-submission.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 1998</span>
-						<span>🔱 185</span>
-					</div>
-				<div class="stars-today">⭐ 1199 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/apache/maka" target="_blank">
-    
-
-
-      
-        apache /
-
-      maka</a></p>
-				<p>
-      Apache Maka (Incubating) is a local-first AI agent workspace. Model messages, tool calls, tool results, permission decisions, and termination events are recorded as an append-only log.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 3529</span>
-						<span>🔱 346</span>
-					</div>
-				<div class="stars-today">⭐ 1769 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/volcengine/OpenViking" target="_blank">
-    
-
-
-      
-        volcengine /
-
-      OpenViking</a></p>
-				<p>
-      Self-evolving Context Database for AI Agents. Unify Agent Memory, Knowledge RAG and Skills.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 33449</span>
-						<span>🔱 2547</span>
-					</div>
-				<div class="stars-today">⭐ 4211 stars this week</div>
 				</div>
 			</div>
 	
@@ -184,10 +118,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 JavaScript</span>
-						<span>⭐ 20232</span>
-						<span>🔱 2038</span>
+						<span>⭐ 20471</span>
+						<span>🔱 2059</span>
 					</div>
 				<div class="stars-today">⭐ 5329 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/apache/maka" target="_blank">
+    
+
+
+      
+        apache /
+
+      maka</a></p>
+				<p>
+      Apache Maka (Incubating) is a local-first AI agent workspace. Model messages, tool calls, tool results, permission decisions, and termination events are recorded as an append-only log.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 3540</span>
+						<span>🔱 346</span>
+					</div>
+				<div class="stars-today">⭐ 1769 stars this week</div>
 				</div>
 			</div>
 	
@@ -206,10 +162,98 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Rust</span>
-						<span>⭐ 118564</span>
-						<span>🔱 18073</span>
+						<span>⭐ 118608</span>
+						<span>🔱 18080</span>
 					</div>
 				<div class="stars-today">⭐ 11424 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/harry0703/MoneyPrinterTurbo" target="_blank">
+    
+
+
+      
+        harry0703 /
+
+      MoneyPrinterTurbo</a></p>
+				<p>
+      利用 AI 大模型和自动化工作流，根据主题或关键词一键生成高清短视频。Generate HD short videos from a topic or keyword with an automated AI workflow.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 116743</span>
+						<span>🔱 17750</span>
+					</div>
+				<div class="stars-today">⭐ 9019 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/chaitanyagiri/munder-difflin" target="_blank">
+    
+
+
+      
+        chaitanyagiri /
+
+      munder-difflin</a></p>
+				<p>
+      local multi-agent harness
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 JavaScript</span>
+						<span>⭐ 4636</span>
+						<span>🔱 570</span>
+					</div>
+				<div class="stars-today">⭐ 2487 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/cursor/plugins" target="_blank">
+    
+
+
+      
+        cursor /
+
+      plugins</a></p>
+				<p>
+      Cursor plugin specification and official plugins
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 5290</span>
+						<span>🔱 433</span>
+					</div>
+				<div class="stars-today">⭐ 2045 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/volcengine/OpenViking" target="_blank">
+    
+
+
+      
+        volcengine /
+
+      OpenViking</a></p>
+				<p>
+      Self-evolving Context Database for AI Agents. Unify Agent Memory, Knowledge RAG and Skills.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 33470</span>
+						<span>🔱 2547</span>
+					</div>
+				<div class="stars-today">⭐ 4211 stars this week</div>
 				</div>
 			</div>
 	
@@ -228,32 +272,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Rust</span>
-						<span>⭐ 4731</span>
+						<span>⭐ 4743</span>
 						<span>🔱 339</span>
 					</div>
 				<div class="stars-today">⭐ 2073 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/jundot/omlx" target="_blank">
-    
-
-
-      
-        jundot /
-
-      omlx</a></p>
-				<p>
-      LLM inference server with continuous batching & SSD caching for Apple Silicon — managed from the macOS menu bar
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 20708</span>
-						<span>🔱 1742</span>
-					</div>
-				<div class="stars-today">⭐ 1432 stars this week</div>
 				</div>
 			</div>
 	
@@ -272,32 +294,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 470708</span>
-						<span>🔱 51905</span>
+						<span>⭐ 470764</span>
+						<span>🔱 51911</span>
 					</div>
 				<div class="stars-today">⭐ 6747 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/Tencent/AI-Infra-Guard" target="_blank">
-    
-
-
-      
-        Tencent /
-
-      AI-Infra-Guard</a></p>
-				<p>
-      A full-stack AI Red Teaming platform securing AI ecosystems via Agent Scan, Skills Scan, MCP scan, AI Infra scan and LLM jailbreak evaluation.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 5959</span>
-						<span>🔱 545</span>
-					</div>
-				<div class="stars-today">⭐ 1247 stars this week</div>
 				</div>
 			</div>
 	
@@ -316,32 +316,54 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 39198</span>
-						<span>🔱 3287</span>
+						<span>⭐ 39206</span>
+						<span>🔱 3288</span>
 					</div>
 				<div class="stars-today">⭐ 1426 stars this week</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/eneskirca/nodeterm" target="_blank">
+				<p><a href="https://github.com/tashfeenahmed/freellmapi" target="_blank">
     
 
 
       
-        eneskirca /
+        tashfeenahmed /
 
-      nodeterm</a></p>
+      freellmapi</a></p>
 				<p>
-      Node-based terminal manager for AI coding agents — tmux-backed terminals and parallel agent sessions as draggable nodes on an infinite pan/zoom canvas. macOS, Linux, and a browser Server Edition.
+      7.4 billion tokens per month. 34 free LLM providers. 635 free model endpoints. All behind one /v1 endpoint, plus any custom OpenAI-compatible endpoint. Smart routing, automatic failover, encrypted keys. Personal experimentation only.
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 1308</span>
-						<span>🔱 129</span>
+						<span>⭐ 20462</span>
+						<span>🔱 2949</span>
 					</div>
-				<div class="stars-today">⭐ 375 stars this week</div>
+				<div class="stars-today">⭐ 1441 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/bookorbit/bookorbit" target="_blank">
+    
+
+
+      
+        bookorbit /
+
+      bookorbit</a></p>
+				<p>
+      BookOrbit: Your Reading Space
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 3209</span>
+						<span>🔱 202</span>
+					</div>
+				<div class="stars-today">⭐ 869 stars this week</div>
 				</div>
 			</div>
 	

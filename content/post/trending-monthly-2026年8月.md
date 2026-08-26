@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2026年8月
-date: 2026-08-26T10:19:46Z
+date: 2026-08-26T12:19:19Z
 categories:
 - monthly
 keywords:
@@ -14,28 +14,6 @@ keywords:
 	<main class="container">
         <div class="repo-list" id="repoList">
 
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/TencentCloud/TencentDB-Agent-Memory" target="_blank">
-    
-
-
-      
-        TencentCloud /
-
-      TencentDB-Agent-Memory</a></p>
-				<p>
-      TencentDB Agent Memory is a team-level memory hub for AI Agents — turning conversations, docs, and code into four reusable memory assets (Chat Memory, Skill, LLM-Wiki, Code-Graph) that are governed, shared, and equipped across agents and frameworks.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 24569</span>
-						<span>🔱 2261</span>
-					</div>
-				<div class="stars-today">⭐ 15253 stars this month</div>
-				</div>
-			</div>
 	
 			<div class="repo-card">
 				<p><a href="https://github.com/basecamp/omarchy" target="_blank">
@@ -52,32 +30,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Shell</span>
-						<span>⭐ 31621</span>
-						<span>🔱 3212</span>
+						<span>⭐ 31684</span>
+						<span>🔱 3217</span>
 					</div>
 				<div class="stars-today">⭐ 6841 stars this month</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/block/buzz" target="_blank">
+				<p><a href="https://github.com/TencentCloud/TencentDB-Agent-Memory" target="_blank">
     
 
 
       
-        block /
+        TencentCloud /
 
-      buzz</a></p>
+      TencentDB-Agent-Memory</a></p>
 				<p>
-      A hive mind communication platform
+      TencentDB Agent Memory is a team-level memory hub for AI Agents — turning conversations, docs, and code into four reusable memory assets (Chat Memory, Skill, LLM-Wiki, Code-Graph) that are governed, shared, and equipped across agents and frameworks.
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Rust</span>
-						<span>⭐ 30763</span>
-						<span>🔱 3906</span>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 24587</span>
+						<span>🔱 2261</span>
 					</div>
-				<div class="stars-today">⭐ 19846 stars this month</div>
+				<div class="stars-today">⭐ 15253 stars this month</div>
 				</div>
 			</div>
 	
@@ -96,54 +74,54 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 PowerShell</span>
-						<span>⭐ 29454</span>
-						<span>🔱 4021</span>
+						<span>⭐ 29484</span>
+						<span>🔱 4024</span>
 					</div>
 				<div class="stars-today">⭐ 20443 stars this month</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/ayghri/i-have-adhd" target="_blank">
+				<p><a href="https://github.com/cursor/plugins" target="_blank">
     
 
 
       
-        ayghri /
+        cursor /
 
-      i-have-adhd</a></p>
+      plugins</a></p>
 				<p>
-      A skill to stop your coding agent from burying the answer. ADHD-friendly output.
+      Cursor plugin specification and official plugins
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 24454</span>
-						<span>🔱 1556</span>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 5290</span>
+						<span>🔱 433</span>
 					</div>
-				<div class="stars-today">⭐ 14431 stars this month</div>
+				<div class="stars-today">⭐ 2891 stars this month</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/virgiliojr94/book-to-skill" target="_blank">
+				<p><a href="https://github.com/block/buzz" target="_blank">
     
 
 
       
-        virgiliojr94 /
+        block /
 
-      book-to-skill</a></p>
+      buzz</a></p>
 				<p>
-      Turn any technical book PDF into a Claude Code skill — ready to study, reference, and use while you work.
+      A hive mind communication platform
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 25698</span>
-						<span>🔱 2656</span>
+						<span>🔠 Rust</span>
+						<span>⭐ 30788</span>
+						<span>🔱 3912</span>
 					</div>
-				<div class="stars-today">⭐ 15982 stars this month</div>
+				<div class="stars-today">⭐ 19846 stars this month</div>
 				</div>
 			</div>
 	
@@ -162,30 +140,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Jupyter Notebook</span>
-						<span>⭐ 67055</span>
-						<span>🔱 12944</span>
+						<span>⭐ 67077</span>
+						<span>🔱 12946</span>
 					</div>
 				<div class="stars-today">⭐ 14291 stars this month</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/pingdotgg/t3code" target="_blank">
+				<p><a href="https://github.com/ayghri/i-have-adhd" target="_blank">
     
 
 
       
-        pingdotgg /
+        ayghri /
 
-      t3code</a></p>
-				<p></p>
+      i-have-adhd</a></p>
+				<p>
+      A skill to stop your coding agent from burying the answer. ADHD-friendly output.
+    </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 20552</span>
-						<span>🔱 4863</span>
+						<span>🔠 Python</span>
+						<span>⭐ 24487</span>
+						<span>🔱 1557</span>
 					</div>
-				<div class="stars-today">⭐ 5821 stars this month</div>
+				<div class="stars-today">⭐ 14431 stars this month</div>
 				</div>
 			</div>
 	
@@ -204,10 +184,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 9227</span>
-						<span>🔱 594</span>
+						<span>⭐ 9245</span>
+						<span>🔱 596</span>
 					</div>
 				<div class="stars-today">⭐ 5861 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/virgiliojr94/book-to-skill" target="_blank">
+    
+
+
+      
+        virgiliojr94 /
+
+      book-to-skill</a></p>
+				<p>
+      Turn any technical book PDF into a Claude Code skill — ready to study, reference, and use while you work.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 25740</span>
+						<span>🔱 2661</span>
+					</div>
+				<div class="stars-today">⭐ 15982 stars this month</div>
 				</div>
 			</div>
 	
@@ -226,10 +228,74 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 33449</span>
+						<span>⭐ 33470</span>
 						<span>🔱 2547</span>
 					</div>
 				<div class="stars-today">⭐ 6107 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/freestylefly/awesome-gpt-image-2" target="_blank">
+    
+
+
+      
+        freestylefly /
+
+      awesome-gpt-image-2</a></p>
+				<p>
+      Prompt as Code | GPT-Image2 工业级提示词引擎与模板库，530+ 个案例逆向工程，20+ 套工业级模板，并提炼出Skills，持续更新中
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 JavaScript</span>
+						<span>⭐ 20471</span>
+						<span>🔱 2059</span>
+					</div>
+				<div class="stars-today">⭐ 8814 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/anthropics/claude-plugins-community" target="_blank">
+    
+
+
+      
+        anthropics /
+
+      claude-plugins-community</a></p>
+				<p>
+      Community plugin marketplace for Claude Cowork and Claude Code. Read-only mirror — submit plugins at clau.de/plugin-directory-submission.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 2032</span>
+						<span>🔱 186</span>
+					</div>
+				<div class="stars-today">⭐ 1771 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/pingdotgg/t3code" target="_blank">
+    
+
+
+      
+        pingdotgg /
+
+      t3code</a></p>
+				<p></p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 20561</span>
+						<span>🔱 4868</span>
+					</div>
+				<div class="stars-today">⭐ 5821 stars this month</div>
 				</div>
 			</div>
 	
@@ -248,120 +314,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 55643</span>
-						<span>🔱 7644</span>
+						<span>⭐ 55732</span>
+						<span>🔱 7657</span>
 					</div>
 				<div class="stars-today">⭐ 25758 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/citrolabs/ego-lite" target="_blank">
-    
-
-
-      
-        citrolabs /
-
-      ego-lite</a></p>
-				<p>
-      The fastest browser for AI agents to run browser automation, built for sharing your logged-in browser state with your AI agents, like Codex or Claude Code, without disturbing you. Zero cost, zero config.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 JavaScript</span>
-						<span>⭐ 13623</span>
-						<span>🔱 705</span>
-					</div>
-				<div class="stars-today">⭐ 10370 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/bojieli/ai-agent-book" target="_blank">
-    
-
-
-      
-        bojieli /
-
-      ai-agent-book</a></p>
-				<p>
-      《深入理解 AI Agent：设计原理与工程实践》（李博杰 著）开源主仓库：全书正文、编译版 PDF 与按章配套代码
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 42411</span>
-						<span>🔱 4690</span>
-					</div>
-				<div class="stars-today">⭐ 22917 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/modular/modular" target="_blank">
-    
-
-
-      
-        modular /
-
-      modular</a></p>
-				<p>
-      The Modular Platform (includes MAX & Mojo)
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Mojo</span>
-						<span>⭐ 29197</span>
-						<span>🔱 3106</span>
-					</div>
-				<div class="stars-today">⭐ 2617 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/earendil-works/pi" target="_blank">
-    
-
-
-      
-        earendil-works /
-
-      pi</a></p>
-				<p>
-      AI agent toolkit: unified LLM API, agent loop, TUI, coding agent CLI
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 97551</span>
-						<span>🔱 12062</span>
-					</div>
-				<div class="stars-today">⭐ 20131 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/megadose/holehe" target="_blank">
-    
-
-
-      
-        megadose /
-
-      holehe</a></p>
-				<p>
-      holehe allows you to check if the mail is used on different sites like twitter, instagram and will retrieve information on sites with the forgotten password function.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 14242</span>
-						<span>🔱 1828</span>
-					</div>
-				<div class="stars-today">⭐ 2448 stars this month</div>
 				</div>
 			</div>
 	
@@ -380,7 +336,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 3529</span>
+						<span>⭐ 3540</span>
 						<span>🔱 346</span>
 					</div>
 				<div class="stars-today">⭐ 2267 stars this month</div>
@@ -388,46 +344,24 @@ keywords:
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/1jehuang/jcode" target="_blank">
+				<p><a href="https://github.com/modular/modular" target="_blank">
     
 
 
       
-        1jehuang /
+        modular /
 
-      jcode</a></p>
+      modular</a></p>
 				<p>
-      The most RAM efficient harness
+      The Modular Platform (includes MAX & Mojo)
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Rust</span>
-						<span>⭐ 18597</span>
-						<span>🔱 2100</span>
+						<span>🔠 Mojo</span>
+						<span>⭐ 29198</span>
+						<span>🔱 3106</span>
 					</div>
-				<div class="stars-today">⭐ 7363 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/akitaonrails/ai-memory" target="_blank">
-    
-
-
-      
-        akitaonrails /
-
-      ai-memory</a></p>
-				<p>
-      Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Rust</span>
-						<span>⭐ 4731</span>
-						<span>🔱 339</span>
-					</div>
-				<div class="stars-today">⭐ 3321 stars this month</div>
+				<div class="stars-today">⭐ 2617 stars this month</div>
 				</div>
 			</div>
 	
@@ -446,32 +380,98 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Rust</span>
-						<span>⭐ 16659</span>
-						<span>🔱 462</span>
+						<span>⭐ 16691</span>
+						<span>🔱 463</span>
 					</div>
 				<div class="stars-today">⭐ 8866 stars this month</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/mattpocock/skills" target="_blank">
+				<p><a href="https://github.com/citrolabs/ego-lite" target="_blank">
     
 
 
       
-        mattpocock /
+        citrolabs /
 
-      skills</a></p>
+      ego-lite</a></p>
 				<p>
-      Skills for Real Engineers. Straight from my .agents directory.
+      The fastest browser for AI agents to run browser automation, built for sharing your logged-in browser state with your AI agents, like Codex or Claude Code, without disturbing you. Zero cost, zero config.
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Shell</span>
-						<span>⭐ 237337</span>
-						<span>🔱 20195</span>
+						<span>🔠 JavaScript</span>
+						<span>⭐ 13652</span>
+						<span>🔱 704</span>
 					</div>
-				<div class="stars-today">⭐ 49777 stars this month</div>
+				<div class="stars-today">⭐ 10370 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/megadose/holehe" target="_blank">
+    
+
+
+      
+        megadose /
+
+      holehe</a></p>
+				<p>
+      holehe allows you to check if the mail is used on different sites like twitter, instagram and will retrieve information on sites with the forgotten password function.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 14245</span>
+						<span>🔱 1827</span>
+					</div>
+				<div class="stars-today">⭐ 2448 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/earendil-works/pi" target="_blank">
+    
+
+
+      
+        earendil-works /
+
+      pi</a></p>
+				<p>
+      AI agent toolkit: unified LLM API, agent loop, TUI, coding agent CLI
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 97590</span>
+						<span>🔱 12067</span>
+					</div>
+				<div class="stars-today">⭐ 20131 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/akitaonrails/ai-memory" target="_blank">
+    
+
+
+      
+        akitaonrails /
+
+      ai-memory</a></p>
+				<p>
+      Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Rust</span>
+						<span>⭐ 4743</span>
+						<span>🔱 339</span>
+					</div>
+				<div class="stars-today">⭐ 3321 stars this month</div>
 				</div>
 			</div>
 	
