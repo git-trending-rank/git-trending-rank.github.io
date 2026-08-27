@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2026年8月
-date: 2026-08-27T05:08:45Z
+date: 2026-08-27T16:51:29Z
 categories:
 - monthly
 keywords:
@@ -30,8 +30,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Shell</span>
-						<span>⭐ 32143</span>
-						<span>🔱 3281</span>
+						<span>⭐ 32475</span>
+						<span>🔱 3339</span>
 					</div>
 				<div class="stars-today">⭐ 7890 stars this month</div>
 				</div>
@@ -52,8 +52,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 24737</span>
-						<span>🔱 2272</span>
+						<span>⭐ 24843</span>
+						<span>🔱 2289</span>
 					</div>
 				<div class="stars-today">⭐ 15471 stars this month</div>
 				</div>
@@ -74,164 +74,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 PowerShell</span>
-						<span>⭐ 29651</span>
-						<span>🔱 4044</span>
+						<span>⭐ 29815</span>
+						<span>🔱 4078</span>
 					</div>
 				<div class="stars-today">⭐ 20811 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/cursor/plugins" target="_blank">
-    
-
-
-      
-        cursor /
-
-      plugins</a></p>
-				<p>
-      Cursor plugin specification and official plugins
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 5456</span>
-						<span>🔱 444</span>
-					</div>
-				<div class="stars-today">⭐ 2916 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/block/buzz" target="_blank">
-    
-
-
-      
-        block /
-
-      buzz</a></p>
-				<p>
-      A hive mind communication platform
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Rust</span>
-						<span>⭐ 30966</span>
-						<span>🔱 3944</span>
-					</div>
-				<div class="stars-today">⭐ 18291 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/microsoft/AI-For-Beginners" target="_blank">
-    
-
-
-      
-        microsoft /
-
-      AI-For-Beginners</a></p>
-				<p>
-      12 Weeks, 24 Lessons, AI for All!
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Jupyter Notebook</span>
-						<span>⭐ 67204</span>
-						<span>🔱 12953</span>
-					</div>
-				<div class="stars-today">⭐ 14458 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/ayghri/i-have-adhd" target="_blank">
-    
-
-
-      
-        ayghri /
-
-      i-have-adhd</a></p>
-				<p>
-      A skill to stop your coding agent from burying the answer. ADHD-friendly output.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 24719</span>
-						<span>🔱 1566</span>
-					</div>
-				<div class="stars-today">⭐ 14348 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/cactus-compute/needle" target="_blank">
-    
-
-
-      
-        cactus-compute /
-
-      needle</a></p>
-				<p>
-      14MB foundation model for tiny devices; phones, wearables, smart home, and robots.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 9339</span>
-						<span>🔱 603</span>
-					</div>
-				<div class="stars-today">⭐ 6029 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/virgiliojr94/book-to-skill" target="_blank">
-    
-
-
-      
-        virgiliojr94 /
-
-      book-to-skill</a></p>
-				<p>
-      Turn any technical book PDF into a Claude Code skill — ready to study, reference, and use while you work.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 25945</span>
-						<span>🔱 2690</span>
-					</div>
-				<div class="stars-today">⭐ 15929 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/volcengine/OpenViking" target="_blank">
-    
-
-
-      
-        volcengine /
-
-      OpenViking</a></p>
-				<p>
-      Self-evolving Context Database for AI Agents. Unify Agent Memory, Knowledge RAG and Skills.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 33641</span>
-						<span>🔱 2562</span>
-					</div>
-				<div class="stars-today">⭐ 6387 stars this month</div>
 				</div>
 			</div>
 	
@@ -250,8 +96,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 JavaScript</span>
-						<span>⭐ 21853</span>
-						<span>🔱 2178</span>
+						<span>⭐ 22824</span>
+						<span>🔱 2277</span>
 					</div>
 				<div class="stars-today">⭐ 12123 stars this month</div>
 				</div>
@@ -272,52 +118,120 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 2257</span>
-						<span>🔱 194</span>
+						<span>⭐ 2377</span>
+						<span>🔱 203</span>
 					</div>
 				<div class="stars-today">⭐ 1801 stars this month</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/pingdotgg/t3code" target="_blank">
+				<p><a href="https://github.com/cactus-compute/needle" target="_blank">
     
 
 
       
-        pingdotgg /
+        cactus-compute /
 
-      t3code</a></p>
-				<p></p>
+      needle</a></p>
+				<p>
+      14MB foundation model for tiny devices; phones, wearables, smart home, and robots.
+    </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 20642</span>
-						<span>🔱 4897</span>
+						<span>🔠 Python</span>
+						<span>⭐ 9415</span>
+						<span>🔱 604</span>
 					</div>
-				<div class="stars-today">⭐ 5829 stars this month</div>
+				<div class="stars-today">⭐ 6029 stars this month</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/diegosouzapw/OmniRoute" target="_blank">
+				<p><a href="https://github.com/block/buzz" target="_blank">
     
 
 
       
-        diegosouzapw /
+        block /
 
-      OmniRoute</a></p>
+      buzz</a></p>
 				<p>
-      Never stop coding. Free MIT AI gateway: one endpoint, 350 providers (90+ free), 1200+ models Kimi, Claude, GPT, Gemini, GLM, DeepSeek, MiniMax. Works with Claude Code, Codex, Cursor, OpenCode, Cline & Copilot. Quota-aware auto-fallback, RTK+Caveman compression saves 15-95% tokens, MCP/A2A, Desktop/PWA. Built by 450+ contributors
+      A hive mind communication platform
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 56351</span>
-						<span>🔱 7749</span>
+						<span>🔠 Rust</span>
+						<span>⭐ 31078</span>
+						<span>🔱 3966</span>
 					</div>
-				<div class="stars-today">⭐ 25766 stars this month</div>
+				<div class="stars-today">⭐ 18291 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/volcengine/OpenViking" target="_blank">
+    
+
+
+      
+        volcengine /
+
+      OpenViking</a></p>
+				<p>
+      Self-evolving Context Database for AI Agents. Unify Agent Memory, Knowledge RAG and Skills.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 33819</span>
+						<span>🔱 2566</span>
+					</div>
+				<div class="stars-today">⭐ 6387 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/microsoft/AI-For-Beginners" target="_blank">
+    
+
+
+      
+        microsoft /
+
+      AI-For-Beginners</a></p>
+				<p>
+      12 Weeks, 24 Lessons, AI for All!
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Jupyter Notebook</span>
+						<span>⭐ 67330</span>
+						<span>🔱 12981</span>
+					</div>
+				<div class="stars-today">⭐ 14458 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/ayghri/i-have-adhd" target="_blank">
+    
+
+
+      
+        ayghri /
+
+      i-have-adhd</a></p>
+				<p>
+      A skill to stop your coding agent from burying the answer. ADHD-friendly output.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 24896</span>
+						<span>🔱 1573</span>
+					</div>
+				<div class="stars-today">⭐ 14348 stars this month</div>
 				</div>
 			</div>
 	
@@ -336,32 +250,52 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 3634</span>
-						<span>🔱 352</span>
+						<span>⭐ 3738</span>
+						<span>🔱 355</span>
 					</div>
 				<div class="stars-today">⭐ 2710 stars this month</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/modular/modular" target="_blank">
+				<p><a href="https://github.com/virgiliojr94/book-to-skill" target="_blank">
     
 
 
       
-        modular /
+        virgiliojr94 /
 
-      modular</a></p>
+      book-to-skill</a></p>
 				<p>
-      The Modular Platform (includes MAX & Mojo)
+      Turn any technical book PDF into a Claude Code skill — ready to study, reference, and use while you work.
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Mojo</span>
-						<span>⭐ 29230</span>
-						<span>🔱 3109</span>
+						<span>🔠 Python</span>
+						<span>⭐ 26125</span>
+						<span>🔱 2707</span>
 					</div>
-				<div class="stars-today">⭐ 2693 stars this month</div>
+				<div class="stars-today">⭐ 15929 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/pingdotgg/t3code" target="_blank">
+    
+
+
+      
+        pingdotgg /
+
+      t3code</a></p>
+				<p></p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 20716</span>
+						<span>🔱 4936</span>
+					</div>
+				<div class="stars-today">⭐ 5829 stars this month</div>
 				</div>
 			</div>
 	
@@ -380,32 +314,54 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Rust</span>
-						<span>⭐ 16919</span>
-						<span>🔱 478</span>
+						<span>⭐ 17077</span>
+						<span>🔱 486</span>
 					</div>
 				<div class="stars-today">⭐ 9221 stars this month</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/citrolabs/ego-lite" target="_blank">
+				<p><a href="https://github.com/diegosouzapw/OmniRoute" target="_blank">
     
 
 
       
-        citrolabs /
+        diegosouzapw /
 
-      ego-lite</a></p>
+      OmniRoute</a></p>
 				<p>
-      The fastest browser for AI agents to run browser automation, built for sharing your logged-in browser state with your AI agents, like Codex or Claude Code, without disturbing you. Zero cost, zero config.
+      Never stop coding. Free MIT AI gateway: one endpoint, 350 providers (90+ free), 1200+ models Kimi, Claude, GPT, Gemini, GLM, DeepSeek, MiniMax. Works with Claude Code, Codex, Cursor, OpenCode, Cline & Copilot. Quota-aware auto-fallback, RTK+Caveman compression saves 15-95% tokens, MCP/A2A, Desktop/PWA. Built by 450+ contributors
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 JavaScript</span>
-						<span>⭐ 13835</span>
-						<span>🔱 707</span>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 56772</span>
+						<span>🔱 7798</span>
 					</div>
-				<div class="stars-today">⭐ 9706 stars this month</div>
+				<div class="stars-today">⭐ 25766 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/modular/modular" target="_blank">
+    
+
+
+      
+        modular /
+
+      modular</a></p>
+				<p>
+      The Modular Platform (includes MAX & Mojo)
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Mojo</span>
+						<span>⭐ 29245</span>
+						<span>🔱 3111</span>
+					</div>
+				<div class="stars-today">⭐ 2693 stars this month</div>
 				</div>
 			</div>
 	
@@ -424,7 +380,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 14289</span>
+						<span>⭐ 14320</span>
 						<span>🔱 1834</span>
 					</div>
 				<div class="stars-today">⭐ 2500 stars this month</div>
@@ -432,24 +388,24 @@ keywords:
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/earendil-works/pi" target="_blank">
+				<p><a href="https://github.com/citrolabs/ego-lite" target="_blank">
     
 
 
       
-        earendil-works /
+        citrolabs /
 
-      pi</a></p>
+      ego-lite</a></p>
 				<p>
-      AI agent toolkit: unified LLM API, agent loop, TUI, coding agent CLI
+      The fastest browser for AI agents to run browser automation, built for sharing your logged-in browser state with your AI agents, like Codex or Claude Code, without disturbing you. Zero cost, zero config.
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 97937</span>
-						<span>🔱 12108</span>
+						<span>🔠 JavaScript</span>
+						<span>⭐ 13953</span>
+						<span>🔱 713</span>
 					</div>
-				<div class="stars-today">⭐ 20153 stars this month</div>
+				<div class="stars-today">⭐ 9706 stars this month</div>
 				</div>
 			</div>
 	
@@ -468,10 +424,76 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Rust</span>
-						<span>⭐ 4870</span>
-						<span>🔱 345</span>
+						<span>⭐ 4941</span>
+						<span>🔱 349</span>
 					</div>
 				<div class="stars-today">⭐ 3583 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/lyogavin/airllm" target="_blank">
+    
+
+
+      
+        lyogavin /
+
+      airllm</a></p>
+				<p>
+      AirLLM 70B inference with single 4GB GPU
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Jupyter Notebook</span>
+						<span>⭐ 32632</span>
+						<span>🔱 3454</span>
+					</div>
+				<div class="stars-today">⭐ 8651 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/public-apis/public-apis" target="_blank">
+    
+
+
+      
+        public-apis /
+
+      public-apis</a></p>
+				<p>
+      A collective list of free APIs
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 471562</span>
+						<span>🔱 52003</span>
+					</div>
+				<div class="stars-today">⭐ 19469 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/unclebob/swarm-forge" target="_blank">
+    
+
+
+      
+        unclebob /
+
+      swarm-forge</a></p>
+				<p>
+      A simple tool for coordinating several AI agents.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Clojure</span>
+						<span>⭐ 2909</span>
+						<span>🔱 299</span>
+					</div>
+				<div class="stars-today">⭐ 1579 stars this month</div>
 				</div>
 			</div>
 	
