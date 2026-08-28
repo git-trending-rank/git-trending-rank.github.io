@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2026年第35周
-date: 2026-08-28T01:47:28Z
+date: 2026-08-28T13:24:21Z
 categories:
 - weekly
 keywords:
@@ -30,8 +30,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 2416</span>
-						<span>🔱 205</span>
+						<span>⭐ 2491</span>
+						<span>🔱 210</span>
 					</div>
 				<div class="stars-today">⭐ 2069 stars this week</div>
 				</div>
@@ -52,8 +52,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 JavaScript</span>
-						<span>⭐ 23078</span>
-						<span>🔱 2293</span>
+						<span>⭐ 23993</span>
+						<span>🔱 2375</span>
 					</div>
 				<div class="stars-today">⭐ 11300 stars this week</div>
 				</div>
@@ -74,32 +74,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Shell</span>
-						<span>⭐ 32662</span>
-						<span>🔱 3371</span>
+						<span>⭐ 32939</span>
+						<span>🔱 3407</span>
 					</div>
 				<div class="stars-today">⭐ 5593 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/AprilNEA/OpenLogi" target="_blank">
-    
-
-
-      
-        AprilNEA /
-
-      OpenLogi</a></p>
-				<p>
-      ⚡️A native, local-first alternative to Logitech Options+, written in Rust 🦀 — remap buttons, DPI, and SmartShift over HID++. No account, no telemetry.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Rust</span>
-						<span>⭐ 17153</span>
-						<span>🔱 491</span>
-					</div>
-				<div class="stars-today">⭐ 5946 stars this week</div>
 				</div>
 			</div>
 	
@@ -118,10 +96,54 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Rust</span>
-						<span>⭐ 119219</span>
-						<span>🔱 18193</span>
+						<span>⭐ 119469</span>
+						<span>🔱 18224</span>
 					</div>
 				<div class="stars-today">⭐ 12358 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/tt-a1i/archify" target="_blank">
+    
+
+
+      
+        tt-a1i /
+
+      archify</a></p>
+				<p>
+      Agent skill for beautiful, verifiable architecture, workflow, sequence, data-flow, and lifecycle diagrams—self-contained HTML with motion and crisp export.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 JavaScript</span>
+						<span>⭐ 25671</span>
+						<span>🔱 1647</span>
+					</div>
+				<div class="stars-today">⭐ 8530 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/AprilNEA/OpenLogi" target="_blank">
+    
+
+
+      
+        AprilNEA /
+
+      OpenLogi</a></p>
+				<p>
+      ⚡️A native, local-first alternative to Logitech Options+, written in Rust 🦀 — remap buttons, DPI, and SmartShift over HID++. No account, no telemetry.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Rust</span>
+						<span>⭐ 17289</span>
+						<span>🔱 493</span>
+					</div>
+				<div class="stars-today">⭐ 5946 stars this week</div>
 				</div>
 			</div>
 	
@@ -140,54 +162,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 3776</span>
-						<span>🔱 358</span>
+						<span>⭐ 3843</span>
+						<span>🔱 360</span>
 					</div>
 				<div class="stars-today">⭐ 1978 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/modular/modular" target="_blank">
-    
-
-
-      
-        modular /
-
-      modular</a></p>
-				<p>
-      The Modular Platform (includes MAX & Mojo)
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Mojo</span>
-						<span>⭐ 29259</span>
-						<span>🔱 3115</span>
-					</div>
-				<div class="stars-today">⭐ 1770 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/harry0703/MoneyPrinterTurbo" target="_blank">
-    
-
-
-      
-        harry0703 /
-
-      MoneyPrinterTurbo</a></p>
-				<p>
-      利用 AI 大模型和自动化工作流，根据主题或关键词一键生成高清短视频。Generate HD short videos from a topic or keyword with an automated AI workflow.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 117464</span>
-						<span>🔱 17878</span>
-					</div>
-				<div class="stars-today">⭐ 4951 stars this week</div>
 				</div>
 			</div>
 	
@@ -206,98 +184,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 21090</span>
-						<span>🔱 3019</span>
+						<span>⭐ 21337</span>
+						<span>🔱 3037</span>
 					</div>
 				<div class="stars-today">⭐ 2014 stars this week</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/securo-finance/securo" target="_blank">
+				<p><a href="https://github.com/modular/modular" target="_blank">
     
 
 
       
-        securo-finance /
+        modular /
 
-      securo</a></p>
+      modular</a></p>
 				<p>
-      Open-source personal finance manager. Self-hosted, privacy-first.
+      The Modular Platform (includes MAX & Mojo)
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 2418</span>
-						<span>🔱 307</span>
+						<span>🔠 Mojo</span>
+						<span>⭐ 29281</span>
+						<span>🔱 3117</span>
 					</div>
-				<div class="stars-today">⭐ 432 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/volcengine/OpenViking" target="_blank">
-    
-
-
-      
-        volcengine /
-
-      OpenViking</a></p>
-				<p>
-      Self-evolving Context Database for AI Agents. Unify Agent Memory, Knowledge RAG and Skills.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 33917</span>
-						<span>🔱 2573</span>
-					</div>
-				<div class="stars-today">⭐ 3078 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/chaitanyagiri/munder-difflin" target="_blank">
-    
-
-
-      
-        chaitanyagiri /
-
-      munder-difflin</a></p>
-				<p>
-      local multi-agent harness
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 JavaScript</span>
-						<span>⭐ 5058</span>
-						<span>🔱 605</span>
-					</div>
-				<div class="stars-today">⭐ 2017 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/santifer/career-ops" target="_blank">
-    
-
-
-      
-        santifer /
-
-      career-ops</a></p>
-				<p>
-      Open-source AI job search: scan job portals, evaluate listings into a structured A-H report with a global 1-5 score, tailor your CV, track applications — runs locally in your AI coding CLI (Claude Code, Codex, OpenCode, Antigravity…)
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 JavaScript</span>
-						<span>⭐ 68904</span>
-						<span>🔱 13026</span>
-					</div>
-				<div class="stars-today">⭐ 2611 stars this week</div>
+				<div class="stars-today">⭐ 1770 stars this week</div>
 				</div>
 			</div>
 	
@@ -316,54 +228,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 5727</span>
-						<span>🔱 458</span>
+						<span>⭐ 5839</span>
+						<span>🔱 473</span>
 					</div>
 				<div class="stars-today">⭐ 1732 stars this week</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/PostHog/posthog" target="_blank">
+				<p><a href="https://github.com/MadsLorentzen/ai-job-search" target="_blank">
     
 
 
       
-        PostHog /
+        MadsLorentzen /
 
-      posthog</a></p>
+      ai-job-search</a></p>
 				<p>
-      🦔 PostHog is the leading platform for building self-driving products. Our developer tools – AI observability, analytics, session replay, flags, experiments, error tracking, logs, and more – capture all the context agents need to diagnose problems, uncover opportunities, and ship fixes. Steer it all from Slack, web, desktop, or the MCP.
+      The job search that runs on your machine. AI job application framework built on Claude Code: evaluate postings, tailor CVs, write cover letters, prep interviews. Fork it and own it.
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 39349</span>
-						<span>🔱 3301</span>
+						<span>⭐ 37461</span>
+						<span>🔱 12684</span>
 					</div>
-				<div class="stars-today">⭐ 1511 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/bookorbit/bookorbit" target="_blank">
-    
-
-
-      
-        bookorbit /
-
-      bookorbit</a></p>
-				<p>
-      BookOrbit: Your Reading Space
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 3396</span>
-						<span>🔱 207</span>
-					</div>
-				<div class="stars-today">⭐ 803 stars this week</div>
+				<div class="stars-today">⭐ 4706 stars this week</div>
 				</div>
 			</div>
 	
@@ -382,10 +272,98 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Rust</span>
-						<span>⭐ 38551</span>
-						<span>🔱 3791</span>
+						<span>⭐ 38659</span>
+						<span>🔱 3795</span>
 					</div>
 				<div class="stars-today">⭐ 2178 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/anthropics/claude-plugins-official" target="_blank">
+    
+
+
+      
+        anthropics /
+
+      claude-plugins-official</a></p>
+				<p>
+      Official, Anthropic-managed directory of high quality Claude Code Plugins.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 34868</span>
+						<span>🔱 3926</span>
+					</div>
+				<div class="stars-today">⭐ 928 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/VoltAgent/awesome-agent-skills" target="_blank">
+    
+
+
+      
+        VoltAgent /
+
+      awesome-agent-skills</a></p>
+				<p>
+      A curated collection of 1000+ agent skills from official dev teams and the community, compatible with Claude Code, Codex, Gemini CLI, Cursor, and more.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 </span>
+						<span>⭐ 32980</span>
+						<span>🔱 3481</span>
+					</div>
+				<div class="stars-today">⭐ 2324 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/PostHog/posthog" target="_blank">
+    
+
+
+      
+        PostHog /
+
+      posthog</a></p>
+				<p>
+      🦔 PostHog is the leading platform for building self-driving products. Our developer tools – AI observability, analytics, session replay, flags, experiments, error tracking, logs, and more – capture all the context agents need to diagnose problems, uncover opportunities, and ship fixes. Steer it all from Slack, web, desktop, or the MCP.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 39396</span>
+						<span>🔱 3304</span>
+					</div>
+				<div class="stars-today">⭐ 1511 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/rohitg00/ai-engineering-from-scratch" target="_blank">
+    
+
+
+      
+        rohitg00 /
+
+      ai-engineering-from-scratch</a></p>
+				<p>
+      Learn it. Build it. Ship it for others.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 50471</span>
+						<span>🔱 8763</span>
+					</div>
+				<div class="stars-today">⭐ 2853 stars this week</div>
 				</div>
 			</div>
 	
@@ -404,10 +382,54 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 50864</span>
-						<span>🔱 8213</span>
+						<span>⭐ 51028</span>
+						<span>🔱 8232</span>
 					</div>
 				<div class="stars-today">⭐ 4657 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/chaitanyagiri/munder-difflin" target="_blank">
+    
+
+
+      
+        chaitanyagiri /
+
+      munder-difflin</a></p>
+				<p>
+      local multi-agent harness
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 JavaScript</span>
+						<span>⭐ 5146</span>
+						<span>🔱 616</span>
+					</div>
+				<div class="stars-today">⭐ 2017 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/bookorbit/bookorbit" target="_blank">
+    
+
+
+      
+        bookorbit /
+
+      bookorbit</a></p>
+				<p>
+      BookOrbit: Your Reading Space
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 3446</span>
+						<span>🔱 210</span>
+					</div>
+				<div class="stars-today">⭐ 803 stars this week</div>
 				</div>
 			</div>
 	
