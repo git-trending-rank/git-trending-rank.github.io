@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2026年8月
-date: 2026-08-29T18:55:59Z
+date: 2026-08-29T22:01:35Z
 categories:
 - monthly
 keywords:
@@ -30,10 +30,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Shell</span>
-						<span>⭐ 34591</span>
-						<span>🔱 3555</span>
+						<span>⭐ 34725</span>
+						<span>🔱 3565</span>
 					</div>
 				<div class="stars-today">⭐ 9083 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/cursor/plugins" target="_blank">
+    
+
+
+      
+        cursor /
+
+      plugins</a></p>
+				<p>
+      Cursor plugin specification and official plugins
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 6155</span>
+						<span>🔱 486</span>
+					</div>
+				<div class="stars-today">⭐ 3744 stars this month</div>
 				</div>
 			</div>
 	
@@ -52,8 +74,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 25142</span>
-						<span>🔱 2342</span>
+						<span>⭐ 25155</span>
+						<span>🔱 2344</span>
 					</div>
 				<div class="stars-today">⭐ 15798 stars this month</div>
 				</div>
@@ -74,32 +96,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 JavaScript</span>
-						<span>⭐ 25001</span>
-						<span>🔱 2452</span>
+						<span>⭐ 25040</span>
+						<span>🔱 2458</span>
 					</div>
 				<div class="stars-today">⭐ 15580 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/zhaoxuya520/reverse-skill" target="_blank">
-    
-
-
-      
-        zhaoxuya520 /
-
-      reverse-skill</a></p>
-				<p>
-      Reverse Engineering / Authorized Penetration Testing / Security Research Skill Router Pack AI-powered routing + On-demand toolchain bootstrapping + Self-evolving knowledge base Supports Claude Code, Kiro, Cursor, Cline, and other AI coding clients 逆向/渗透/安全技能路由包 - AI 自动路由 + 按需自举工具链 + 自动进化经验库 | 支持 Claude Code / Kiro / Cursor / Cline 等代码 AI 客户端
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 PowerShell</span>
-						<span>⭐ 30368</span>
-						<span>🔱 4154</span>
-					</div>
-				<div class="stars-today">⭐ 21291 stars this month</div>
 				</div>
 			</div>
 	
@@ -118,10 +118,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 2701</span>
-						<span>🔱 225</span>
+						<span>⭐ 2714</span>
+						<span>🔱 226</span>
 					</div>
 				<div class="stars-today">⭐ 2246 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/zhaoxuya520/reverse-skill" target="_blank">
+    
+
+
+      
+        zhaoxuya520 /
+
+      reverse-skill</a></p>
+				<p>
+      Reverse Engineering / Authorized Penetration Testing / Security Research Skill Router Pack AI-powered routing + On-demand toolchain bootstrapping + Self-evolving knowledge base Supports Claude Code, Kiro, Cursor, Cline, and other AI coding clients 逆向/渗透/安全技能路由包 - AI 自动路由 + 按需自举工具链 + 自动进化经验库 | 支持 Claude Code / Kiro / Cursor / Cline 等代码 AI 客户端
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 PowerShell</span>
+						<span>⭐ 30396</span>
+						<span>🔱 4155</span>
+					</div>
+				<div class="stars-today">⭐ 21291 stars this month</div>
 				</div>
 			</div>
 	
@@ -140,7 +162,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 9657</span>
+						<span>⭐ 9662</span>
 						<span>🔱 622</span>
 					</div>
 				<div class="stars-today">⭐ 6279 stars this month</div>
@@ -162,54 +184,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 34266</span>
-						<span>🔱 2605</span>
+						<span>⭐ 34288</span>
+						<span>🔱 2608</span>
 					</div>
 				<div class="stars-today">⭐ 6661 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/apache/maka" target="_blank">
-    
-
-
-      
-        apache /
-
-      maka</a></p>
-				<p>
-      Apache Maka (Incubating) is a local-first AI agent workspace. Model messages, tool calls, tool results, permission decisions, and termination events are recorded as an append-only log.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 4024</span>
-						<span>🔱 373</span>
-					</div>
-				<div class="stars-today">⭐ 2992 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/usekaneo/kaneo" target="_blank">
-    
-
-
-      
-        usekaneo /
-
-      kaneo</a></p>
-				<p>
-      🎯 All you need. Nothing you don't. Open source project management that works for you, not against you.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 8703</span>
-						<span>🔱 726</span>
-					</div>
-				<div class="stars-today">⭐ 4703 stars this month</div>
 				</div>
 			</div>
 	
@@ -228,32 +206,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Rust</span>
-						<span>⭐ 17595</span>
-						<span>🔱 510</span>
+						<span>⭐ 17629</span>
+						<span>🔱 511</span>
 					</div>
 				<div class="stars-today">⭐ 9621 stars this month</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/microsoft/AI-For-Beginners" target="_blank">
+				<p><a href="https://github.com/apache/maka" target="_blank">
     
 
 
       
-        microsoft /
+        apache /
 
-      AI-For-Beginners</a></p>
+      maka</a></p>
 				<p>
-      12 Weeks, 24 Lessons, AI for All!
+      Apache Maka (Incubating) is a local-first AI agent workspace. Model messages, tool calls, tool results, permission decisions, and termination events are recorded as an append-only log.
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Jupyter Notebook</span>
-						<span>⭐ 67673</span>
-						<span>🔱 13038</span>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 4033</span>
+						<span>🔱 373</span>
 					</div>
-				<div class="stars-today">⭐ 14701 stars this month</div>
+				<div class="stars-today">⭐ 2992 stars this month</div>
 				</div>
 			</div>
 	
@@ -272,10 +250,54 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Mojo</span>
-						<span>⭐ 29332</span>
-						<span>🔱 3125</span>
+						<span>⭐ 29334</span>
+						<span>🔱 3124</span>
 					</div>
 				<div class="stars-today">⭐ 2765 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/tt-a1i/archify" target="_blank">
+    
+
+
+      
+        tt-a1i /
+
+      archify</a></p>
+				<p>
+      Agent skill for beautiful, verifiable architecture, workflow, sequence, data-flow, and lifecycle diagrams—self-contained HTML with motion and crisp export.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 JavaScript</span>
+						<span>⭐ 30833</span>
+						<span>🔱 1922</span>
+					</div>
+				<div class="stars-today">⭐ 18330 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/usekaneo/kaneo" target="_blank">
+    
+
+
+      
+        usekaneo /
+
+      kaneo</a></p>
+				<p>
+      🎯 All you need. Nothing you don't. Open source project management that works for you, not against you.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 8721</span>
+						<span>🔱 726</span>
+					</div>
+				<div class="stars-today">⭐ 4703 stars this month</div>
 				</div>
 			</div>
 	
@@ -292,10 +314,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 20955</span>
-						<span>🔱 5025</span>
+						<span>⭐ 20972</span>
+						<span>🔱 5026</span>
 					</div>
 				<div class="stars-today">⭐ 5636 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/ayghri/i-have-adhd" target="_blank">
+    
+
+
+      
+        ayghri /
+
+      i-have-adhd</a></p>
+				<p>
+      A skill to stop your coding agent from burying the answer. ADHD-friendly output.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 25561</span>
+						<span>🔱 1608</span>
+					</div>
+				<div class="stars-today">⭐ 13080 stars this month</div>
 				</div>
 			</div>
 	
@@ -314,8 +358,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 26990</span>
-						<span>🔱 2795</span>
+						<span>⭐ 27016</span>
+						<span>🔱 2799</span>
 					</div>
 				<div class="stars-today">⭐ 15782 stars this month</div>
 				</div>
@@ -336,54 +380,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 57992</span>
-						<span>🔱 8000</span>
+						<span>⭐ 58055</span>
+						<span>🔱 8012</span>
 					</div>
 				<div class="stars-today">⭐ 25061 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/ayghri/i-have-adhd" target="_blank">
-    
-
-
-      
-        ayghri /
-
-      i-have-adhd</a></p>
-				<p>
-      A skill to stop your coding agent from burying the answer. ADHD-friendly output.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 25536</span>
-						<span>🔱 1607</span>
-					</div>
-				<div class="stars-today">⭐ 13080 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/block/buzz" target="_blank">
-    
-
-
-      
-        block /
-
-      buzz</a></p>
-				<p>
-      A hive mind communication platform
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Rust</span>
-						<span>⭐ 31411</span>
-						<span>🔱 4011</span>
-					</div>
-				<div class="stars-today">⭐ 16342 stars this month</div>
 				</div>
 			</div>
 	
@@ -402,10 +402,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Jupyter Notebook</span>
-						<span>⭐ 33046</span>
+						<span>⭐ 33058</span>
 						<span>🔱 3476</span>
 					</div>
 				<div class="stars-today">⭐ 8902 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/public-apis/public-apis" target="_blank">
+    
+
+
+      
+        public-apis /
+
+      public-apis</a></p>
+				<p>
+      A collective list of free APIs
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 472775</span>
+						<span>🔱 52184</span>
+					</div>
+				<div class="stars-today">⭐ 20207 stars this month</div>
 				</div>
 			</div>
 	
@@ -425,53 +447,31 @@ keywords:
 					<div>
 						<span>🔠 Python</span>
 						<span>⭐ 14422</span>
-						<span>🔱 1845</span>
+						<span>🔱 1846</span>
 					</div>
 				<div class="stars-today">⭐ 2604 stars this month</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/marin-community/marin" target="_blank">
+				<p><a href="https://github.com/akitaonrails/ai-memory" target="_blank">
     
 
 
       
-        marin-community /
+        akitaonrails /
 
-      marin</a></p>
+      ai-memory</a></p>
 				<p>
-      Open-source framework for the research and development of foundation models.
+      Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 3009</span>
-						<span>🔱 244</span>
+						<span>🔠 Rust</span>
+						<span>⭐ 5125</span>
+						<span>🔱 354</span>
 					</div>
-				<div class="stars-today">⭐ 1650 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/unclebob/swarm-forge" target="_blank">
-    
-
-
-      
-        unclebob /
-
-      swarm-forge</a></p>
-				<p>
-      A simple tool for coordinating several AI agents.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Clojure</span>
-						<span>⭐ 3056</span>
-						<span>🔱 313</span>
-					</div>
-				<div class="stars-today">⭐ 1587 stars this month</div>
+				<div class="stars-today">⭐ 3826 stars this month</div>
 				</div>
 			</div>
 	
@@ -490,32 +490,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 99047</span>
-						<span>🔱 12281</span>
+						<span>⭐ 99069</span>
+						<span>🔱 12282</span>
 					</div>
 				<div class="stars-today">⭐ 19558 stars this month</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/citrolabs/ego-lite" target="_blank">
+				<p><a href="https://github.com/unclebob/swarm-forge" target="_blank">
     
 
 
       
-        citrolabs /
+        unclebob /
 
-      ego-lite</a></p>
+      swarm-forge</a></p>
 				<p>
-      The fastest browser for AI agents to run browser automation, built for sharing your logged-in browser state with your AI agents, like Codex or Claude Code, without disturbing you. Zero cost, zero config.
+      A simple tool for coordinating several AI agents.
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 JavaScript</span>
-						<span>⭐ 14307</span>
-						<span>🔱 733</span>
+						<span>🔠 Clojure</span>
+						<span>⭐ 3085</span>
+						<span>🔱 314</span>
 					</div>
-				<div class="stars-today">⭐ 8592 stars this month</div>
+				<div class="stars-today">⭐ 1587 stars this month</div>
 				</div>
 			</div>
 	

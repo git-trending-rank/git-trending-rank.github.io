@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2026年第35周
-date: 2026-08-29T18:55:59Z
+date: 2026-08-29T22:01:34Z
 categories:
 - weekly
 keywords:
@@ -14,28 +14,6 @@ keywords:
 	<main class="container">
         <div class="repo-list" id="repoList">
 
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/anthropics/claude-plugins-community" target="_blank">
-    
-
-
-      
-        anthropics /
-
-      claude-plugins-community</a></p>
-				<p>
-      Community plugin marketplace for Claude Cowork and Claude Code. Read-only mirror — submit plugins at clau.de/plugin-directory-submission.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 2701</span>
-						<span>🔱 225</span>
-					</div>
-				<div class="stars-today">⭐ 2207 stars this week</div>
-				</div>
-			</div>
 	
 			<div class="repo-card">
 				<p><a href="https://github.com/freestylefly/awesome-gpt-image-2" target="_blank">
@@ -52,10 +30,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 JavaScript</span>
-						<span>⭐ 25001</span>
-						<span>🔱 2452</span>
+						<span>⭐ 25040</span>
+						<span>🔱 2458</span>
 					</div>
 				<div class="stars-today">⭐ 12877 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/anthropics/claude-plugins-community" target="_blank">
+    
+
+
+      
+        anthropics /
+
+      claude-plugins-community</a></p>
+				<p>
+      Community plugin marketplace for Claude Cowork and Claude Code. Read-only mirror — submit plugins at clau.de/plugin-directory-submission.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 2714</span>
+						<span>🔱 226</span>
+					</div>
+				<div class="stars-today">⭐ 2207 stars this week</div>
 				</div>
 			</div>
 	
@@ -74,32 +74,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Shell</span>
-						<span>⭐ 34591</span>
-						<span>🔱 3555</span>
+						<span>⭐ 34725</span>
+						<span>🔱 3565</span>
 					</div>
 				<div class="stars-today">⭐ 5942 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/openai/codex" target="_blank">
-    
-
-
-      
-        openai /
-
-      codex</a></p>
-				<p>
-      Lightweight coding agent that runs in your terminal
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Rust</span>
-						<span>⭐ 119780</span>
-						<span>🔱 18301</span>
-					</div>
-				<div class="stars-today">⭐ 9109 stars this week</div>
 				</div>
 			</div>
 	
@@ -118,32 +96,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 JavaScript</span>
-						<span>⭐ 30513</span>
-						<span>🔱 1901</span>
+						<span>⭐ 30833</span>
+						<span>🔱 1922</span>
 					</div>
 				<div class="stars-today">⭐ 11099 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/AprilNEA/OpenLogi" target="_blank">
-    
-
-
-      
-        AprilNEA /
-
-      OpenLogi</a></p>
-				<p>
-      ⚡️A native, local-first alternative to Logitech Options+, written in Rust 🦀 — remap buttons, DPI, and SmartShift over HID++. No account, no telemetry.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Rust</span>
-						<span>⭐ 17595</span>
-						<span>🔱 510</span>
-					</div>
-				<div class="stars-today">⭐ 4825 stars this week</div>
 				</div>
 			</div>
 	
@@ -162,7 +118,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 4024</span>
+						<span>⭐ 4033</span>
 						<span>🔱 373</span>
 					</div>
 				<div class="stars-today">⭐ 1918 stars this week</div>
@@ -170,68 +126,24 @@ keywords:
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/tashfeenahmed/freellmapi" target="_blank">
+				<p><a href="https://github.com/AprilNEA/OpenLogi" target="_blank">
     
 
 
       
-        tashfeenahmed /
+        AprilNEA /
 
-      freellmapi</a></p>
+      OpenLogi</a></p>
 				<p>
-      7.4 billion tokens per month. 34 free LLM providers. 635 free model endpoints. All behind one /v1 endpoint, plus any custom OpenAI-compatible endpoint. Smart routing, automatic failover, encrypted keys. Personal experimentation only.
+      ⚡️A native, local-first alternative to Logitech Options+, written in Rust 🦀 — remap buttons, DPI, and SmartShift over HID++. No account, no telemetry.
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 22152</span>
-						<span>🔱 3102</span>
+						<span>🔠 Rust</span>
+						<span>⭐ 17629</span>
+						<span>🔱 511</span>
 					</div>
-				<div class="stars-today">⭐ 2162 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/modular/modular" target="_blank">
-    
-
-
-      
-        modular /
-
-      modular</a></p>
-				<p>
-      The Modular Platform (includes MAX & Mojo)
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Mojo</span>
-						<span>⭐ 29332</span>
-						<span>🔱 3125</span>
-					</div>
-				<div class="stars-today">⭐ 875 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/cursor/plugins" target="_blank">
-    
-
-
-      
-        cursor /
-
-      plugins</a></p>
-				<p>
-      Cursor plugin specification and official plugins
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 6132</span>
-						<span>🔱 485</span>
-					</div>
-				<div class="stars-today">⭐ 1594 stars this week</div>
+				<div class="stars-today">⭐ 4825 stars this week</div>
 				</div>
 			</div>
 	
@@ -250,32 +162,54 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 38009</span>
-						<span>🔱 12884</span>
+						<span>⭐ 38068</span>
+						<span>🔱 12909</span>
 					</div>
 				<div class="stars-today">⭐ 4828 stars this week</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/tinyhumansai/openhuman" target="_blank">
+				<p><a href="https://github.com/tashfeenahmed/freellmapi" target="_blank">
     
 
 
       
-        tinyhumansai /
+        tashfeenahmed /
 
-      openhuman</a></p>
+      freellmapi</a></p>
 				<p>
-      Your Personal AI super intelligence. A brain that builds a local-first memory of your life, a fantastic orchestrator of agent fleets and workflows, and a deep researcher.
+      7.4 billion tokens per month. 34 free LLM providers. 635 free model endpoints. All behind one /v1 endpoint, plus any custom OpenAI-compatible endpoint. Smart routing, automatic failover, encrypted keys. Personal experimentation only.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 22185</span>
+						<span>🔱 3104</span>
+					</div>
+				<div class="stars-today">⭐ 2162 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/openai/codex" target="_blank">
+    
+
+
+      
+        openai /
+
+      codex</a></p>
+				<p>
+      Lightweight coding agent that runs in your terminal
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Rust</span>
-						<span>⭐ 38828</span>
-						<span>🔱 3814</span>
+						<span>⭐ 119798</span>
+						<span>🔱 18303</span>
 					</div>
-				<div class="stars-today">⭐ 2353 stars this week</div>
+				<div class="stars-today">⭐ 9109 stars this week</div>
 				</div>
 			</div>
 	
@@ -294,54 +228,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 35314</span>
+						<span>⭐ 35368</span>
 						<span>🔱 3957</span>
 					</div>
 				<div class="stars-today">⭐ 1281 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/VoltAgent/awesome-agent-skills" target="_blank">
-    
-
-
-      
-        VoltAgent /
-
-      awesome-agent-skills</a></p>
-				<p>
-      A curated collection of 1000+ agent skills from official dev teams and the community, compatible with Claude Code, Codex, Gemini CLI, Cursor, and more.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 </span>
-						<span>⭐ 33217</span>
-						<span>🔱 3507</span>
-					</div>
-				<div class="stars-today">⭐ 2372 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/PostHog/posthog" target="_blank">
-    
-
-
-      
-        PostHog /
-
-      posthog</a></p>
-				<p>
-      🦔 PostHog is the leading platform for building self-driving products. Our developer tools – AI observability, analytics, session replay, flags, experiments, error tracking, logs, and more – capture all the context agents need to diagnose problems, uncover opportunities, and ship fixes. Steer it all from Slack, web, desktop, or the MCP.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 39465</span>
-						<span>🔱 3309</span>
-					</div>
-				<div class="stars-today">⭐ 1270 stars this week</div>
 				</div>
 			</div>
 	
@@ -360,10 +250,98 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 50927</span>
-						<span>🔱 8814</span>
+						<span>⭐ 50948</span>
+						<span>🔱 8819</span>
 					</div>
 				<div class="stars-today">⭐ 3263 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/cursor/plugins" target="_blank">
+    
+
+
+      
+        cursor /
+
+      plugins</a></p>
+				<p>
+      Cursor plugin specification and official plugins
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 6155</span>
+						<span>🔱 486</span>
+					</div>
+				<div class="stars-today">⭐ 1594 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/tinyhumansai/openhuman" target="_blank">
+    
+
+
+      
+        tinyhumansai /
+
+      openhuman</a></p>
+				<p>
+      Your Personal AI super intelligence. A brain that builds a local-first memory of your life, a fantastic orchestrator of agent fleets and workflows, and a deep researcher.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Rust</span>
+						<span>⭐ 38847</span>
+						<span>🔱 3815</span>
+					</div>
+				<div class="stars-today">⭐ 2353 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/ConardLi/garden-skills" target="_blank">
+    
+
+
+      
+        ConardLi /
+
+      garden-skills</a></p>
+				<p>
+      ConardLi's open-source Skills collection, featuring web design, knowledge retrieval, image generation, and more.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 CSS</span>
+						<span>⭐ 11651</span>
+						<span>🔱 1446</span>
+					</div>
+				<div class="stars-today">⭐ 1104 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/google/googletest" target="_blank">
+    
+
+
+      
+        google /
+
+      googletest</a></p>
+				<p>
+      GoogleTest - Google Testing and Mocking Framework
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 C++</span>
+						<span>⭐ 39305</span>
+						<span>🔱 10877</span>
+					</div>
+				<div class="stars-today">⭐ 233 stars this week</div>
 				</div>
 			</div>
 	
@@ -382,54 +360,54 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 51379</span>
-						<span>🔱 8277</span>
+						<span>⭐ 51406</span>
+						<span>🔱 8279</span>
 					</div>
 				<div class="stars-today">⭐ 4769 stars this week</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/chaitanyagiri/munder-difflin" target="_blank">
+				<p><a href="https://github.com/VoltAgent/awesome-agent-skills" target="_blank">
     
 
 
       
-        chaitanyagiri /
+        VoltAgent /
 
-      munder-difflin</a></p>
+      awesome-agent-skills</a></p>
 				<p>
-      local multi-agent harness
+      A curated collection of 1000+ agent skills from official dev teams and the community, compatible with Claude Code, Codex, Gemini CLI, Cursor, and more.
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 JavaScript</span>
-						<span>⭐ 5454</span>
-						<span>🔱 652</span>
+						<span>🔠 </span>
+						<span>⭐ 33244</span>
+						<span>🔱 3510</span>
 					</div>
-				<div class="stars-today">⭐ 1853 stars this week</div>
+				<div class="stars-today">⭐ 2372 stars this week</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/bookorbit/bookorbit" target="_blank">
+				<p><a href="https://github.com/K-Dense-AI/scientific-agent-skills" target="_blank">
     
 
 
       
-        bookorbit /
+        K-Dense-AI /
 
-      bookorbit</a></p>
+      scientific-agent-skills</a></p>
 				<p>
-      BookOrbit: Your Reading Space
+      Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 190,000+ scientists worldwide. 165 ready-to-use validated skills plus 100+ scientific databases covering biology, chemistry, medicine, and drug discovery. Compatible with Cursor, Claude Code, Codex, Pi, Antigravity, and the open Agent Skills standard.
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 3608</span>
-						<span>🔱 214</span>
+						<span>🔠 Python</span>
+						<span>⭐ 37883</span>
+						<span>🔱 3568</span>
 					</div>
-				<div class="stars-today">⭐ 806 stars this week</div>
+				<div class="stars-today">⭐ 2195 stars this week</div>
 				</div>
 			</div>
 	
