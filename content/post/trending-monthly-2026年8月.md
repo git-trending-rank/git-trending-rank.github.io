@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2026年8月
-date: 2026-08-30T07:32:08Z
+date: 2026-08-30T13:20:50Z
 categories:
 - monthly
 keywords:
@@ -30,54 +30,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Shell</span>
-						<span>⭐ 34997</span>
-						<span>🔱 3592</span>
+						<span>⭐ 35166</span>
+						<span>🔱 3610</span>
 					</div>
 				<div class="stars-today">⭐ 10384 stars this month</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/cursor/plugins" target="_blank">
+				<p><a href="https://github.com/firecrawl/pdf-inspector" target="_blank">
     
 
 
       
-        cursor /
+        firecrawl /
 
-      plugins</a></p>
+      pdf-inspector</a></p>
 				<p>
-      Cursor plugin specification and official plugins
+      Fast Rust library for PDF inspection, classification, and text extraction. Intelligently detects scanned vs text-based PDFs to enable smart routing decisions.
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 6205</span>
-						<span>🔱 490</span>
+						<span>🔠 Rust</span>
+						<span>⭐ 16923</span>
+						<span>🔱 1178</span>
 					</div>
-				<div class="stars-today">⭐ 3744 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/TencentCloud/TencentDB-Agent-Memory" target="_blank">
-    
-
-
-      
-        TencentCloud /
-
-      TencentDB-Agent-Memory</a></p>
-				<p>
-      TencentDB Agent Memory is a team-level memory hub for AI Agents — turning conversations, docs, and code into four reusable memory assets (Chat Memory, Skill, LLM-Wiki, Code-Graph) that are governed, shared, and equipped across agents and frameworks.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 25205</span>
-						<span>🔱 2350</span>
-					</div>
-				<div class="stars-today">⭐ 15923 stars this month</div>
+				<div class="stars-today">⭐ 15332 stars this month</div>
 				</div>
 			</div>
 	
@@ -96,10 +74,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 JavaScript</span>
-						<span>⭐ 25261</span>
-						<span>🔱 2480</span>
+						<span>⭐ 25422</span>
+						<span>🔱 2499</span>
 					</div>
 				<div class="stars-today">⭐ 16345 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/TencentCloud/TencentDB-Agent-Memory" target="_blank">
+    
+
+
+      
+        TencentCloud /
+
+      TencentDB-Agent-Memory</a></p>
+				<p>
+      TencentDB Agent Memory is a team-level memory hub for AI Agents — turning conversations, docs, and code into four reusable memory assets (Chat Memory, Skill, LLM-Wiki, Code-Graph) that are governed, shared, and equipped across agents and frameworks.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 25226</span>
+						<span>🔱 2354</span>
+					</div>
+				<div class="stars-today">⭐ 15923 stars this month</div>
 				</div>
 			</div>
 	
@@ -118,8 +118,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 2771</span>
-						<span>🔱 232</span>
+						<span>⭐ 2806</span>
+						<span>🔱 235</span>
 					</div>
 				<div class="stars-today">⭐ 2423 stars this month</div>
 				</div>
@@ -140,8 +140,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 PowerShell</span>
-						<span>⭐ 30982</span>
-						<span>🔱 4227</span>
+						<span>⭐ 31431</span>
+						<span>🔱 4260</span>
 					</div>
 				<div class="stars-today">⭐ 21491 stars this month</div>
 				</div>
@@ -162,7 +162,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 9695</span>
+						<span>⭐ 9721</span>
 						<span>🔱 626</span>
 					</div>
 				<div class="stars-today">⭐ 6376 stars this month</div>
@@ -184,8 +184,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 34354</span>
-						<span>🔱 2621</span>
+						<span>⭐ 34408</span>
+						<span>🔱 2625</span>
 					</div>
 				<div class="stars-today">⭐ 6764 stars this month</div>
 				</div>
@@ -206,8 +206,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Rust</span>
-						<span>⭐ 17713</span>
-						<span>🔱 514</span>
+						<span>⭐ 17756</span>
+						<span>🔱 517</span>
 					</div>
 				<div class="stars-today">⭐ 9787 stars this month</div>
 				</div>
@@ -228,32 +228,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 4086</span>
-						<span>🔱 374</span>
+						<span>⭐ 4117</span>
+						<span>🔱 377</span>
 					</div>
 				<div class="stars-today">⭐ 3126 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/modular/modular" target="_blank">
-    
-
-
-      
-        modular /
-
-      modular</a></p>
-				<p>
-      The Modular Platform (includes MAX & Mojo)
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Mojo</span>
-						<span>⭐ 29343</span>
-						<span>🔱 3125</span>
-					</div>
-				<div class="stars-today">⭐ 2805 stars this month</div>
 				</div>
 			</div>
 	
@@ -272,32 +250,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 JavaScript</span>
-						<span>⭐ 32051</span>
-						<span>🔱 2005</span>
+						<span>⭐ 33106</span>
+						<span>🔱 2084</span>
 					</div>
 				<div class="stars-today">⭐ 22882 stars this month</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/usekaneo/kaneo" target="_blank">
+				<p><a href="https://github.com/modular/modular" target="_blank">
     
 
 
       
-        usekaneo /
+        modular /
 
-      kaneo</a></p>
+      modular</a></p>
 				<p>
-      🎯 All you need. Nothing you don't. Open source project management that works for you, not against you.
+      The Modular Platform (includes MAX & Mojo)
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 8765</span>
-						<span>🔱 728</span>
+						<span>🔠 Mojo</span>
+						<span>⭐ 29352</span>
+						<span>🔱 3125</span>
 					</div>
-				<div class="stars-today">⭐ 4650 stars this month</div>
+				<div class="stars-today">⭐ 2805 stars this month</div>
 				</div>
 			</div>
 	
@@ -314,8 +292,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 20996</span>
-						<span>🔱 5030</span>
+						<span>⭐ 21025</span>
+						<span>🔱 5041</span>
 					</div>
 				<div class="stars-today">⭐ 5568 stars this month</div>
 				</div>
@@ -336,10 +314,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 25624</span>
-						<span>🔱 1613</span>
+						<span>⭐ 25675</span>
+						<span>🔱 1616</span>
 					</div>
 				<div class="stars-today">⭐ 12364 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/megadose/holehe" target="_blank">
+    
+
+
+      
+        megadose /
+
+      holehe</a></p>
+				<p>
+      holehe allows you to check if the mail is used on different sites like twitter, instagram and will retrieve information on sites with the forgotten password function.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 14439</span>
+						<span>🔱 1847</span>
+					</div>
+				<div class="stars-today">⭐ 2634 stars this month</div>
 				</div>
 			</div>
 	
@@ -358,10 +358,76 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 27125</span>
-						<span>🔱 2810</span>
+						<span>⭐ 27200</span>
+						<span>🔱 2817</span>
 					</div>
 				<div class="stars-today">⭐ 14775 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/public-apis/public-apis" target="_blank">
+    
+
+
+      
+        public-apis /
+
+      public-apis</a></p>
+				<p>
+      A collective list of free APIs
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 473070</span>
+						<span>🔱 52228</span>
+					</div>
+				<div class="stars-today">⭐ 20485 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/unclebob/swarm-forge" target="_blank">
+    
+
+
+      
+        unclebob /
+
+      swarm-forge</a></p>
+				<p>
+      A simple tool for coordinating several AI agents.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Clojure</span>
+						<span>⭐ 3309</span>
+						<span>🔱 328</span>
+					</div>
+				<div class="stars-today">⭐ 1613 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/akitaonrails/ai-memory" target="_blank">
+    
+
+
+      
+        akitaonrails /
+
+      ai-memory</a></p>
+				<p>
+      Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Rust</span>
+						<span>⭐ 5180</span>
+						<span>🔱 356</span>
+					</div>
+				<div class="stars-today">⭐ 3846 stars this month</div>
 				</div>
 			</div>
 	
@@ -380,8 +446,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 58227</span>
-						<span>🔱 8045</span>
+						<span>⭐ 58379</span>
+						<span>🔱 8079</span>
 					</div>
 				<div class="stars-today">⭐ 24598 stars this month</div>
 				</div>
@@ -402,76 +468,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Jupyter Notebook</span>
-						<span>⭐ 33091</span>
-						<span>🔱 3482</span>
+						<span>⭐ 33125</span>
+						<span>🔱 3483</span>
 					</div>
 				<div class="stars-today">⭐ 8930 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/public-apis/public-apis" target="_blank">
-    
-
-
-      
-        public-apis /
-
-      public-apis</a></p>
-				<p>
-      A collective list of free APIs
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 472936</span>
-						<span>🔱 52202</span>
-					</div>
-				<div class="stars-today">⭐ 20485 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/megadose/holehe" target="_blank">
-    
-
-
-      
-        megadose /
-
-      holehe</a></p>
-				<p>
-      holehe allows you to check if the mail is used on different sites like twitter, instagram and will retrieve information on sites with the forgotten password function.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 14432</span>
-						<span>🔱 1847</span>
-					</div>
-				<div class="stars-today">⭐ 2634 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/akitaonrails/ai-memory" target="_blank">
-    
-
-
-      
-        akitaonrails /
-
-      ai-memory</a></p>
-				<p>
-      Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Rust</span>
-						<span>⭐ 5159</span>
-						<span>🔱 355</span>
-					</div>
-				<div class="stars-today">⭐ 3846 stars this month</div>
 				</div>
 			</div>
 	
@@ -490,32 +490,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 99177</span>
-						<span>🔱 12305</span>
+						<span>⭐ 99278</span>
+						<span>🔱 12312</span>
 					</div>
 				<div class="stars-today">⭐ 19239 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/unclebob/swarm-forge" target="_blank">
-    
-
-
-      
-        unclebob /
-
-      swarm-forge</a></p>
-				<p>
-      A simple tool for coordinating several AI agents.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Clojure</span>
-						<span>⭐ 3250</span>
-						<span>🔱 326</span>
-					</div>
-				<div class="stars-today">⭐ 1613 stars this month</div>
 				</div>
 			</div>
 	
