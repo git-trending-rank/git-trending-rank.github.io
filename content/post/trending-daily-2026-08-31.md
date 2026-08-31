@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2026-08-31
-date: 2026-08-31T07:43:25Z
+date: 2026-08-31T15:31:49Z
 categories:
 - daily
 keywords:
@@ -30,52 +30,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 25095</span>
-						<span>🔱 4585</span>
+						<span>⭐ 26232</span>
+						<span>🔱 4687</span>
 					</div>
-				<div class="stars-today">⭐ 1370 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/K-Dense-AI/scientific-agent-skills" target="_blank">
-    
-
-
-      
-        K-Dense-AI /
-
-      scientific-agent-skills</a></p>
-				<p>
-      Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 190,000+ scientists worldwide. 165 ready-to-use validated skills plus 100+ scientific databases covering biology, chemistry, medicine, and drug discovery. Compatible with Cursor, Claude Code, Codex, Pi, Antigravity, and the open Agent Skills standard.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 39944</span>
-						<span>🔱 3712</span>
-					</div>
-				<div class="stars-today">⭐ 1114 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/Lakr233/vphone-cli" target="_blank">
-    
-
-
-      
-        Lakr233 /
-
-      vphone-cli</a></p>
-				<p></p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Swift</span>
-						<span>⭐ 9848</span>
-						<span>🔱 1296</span>
-					</div>
-				<div class="stars-today">⭐ 361 stars today</div>
+				<div class="stars-today">⭐ 2819 stars today</div>
 				</div>
 			</div>
 	
@@ -94,76 +52,54 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 JavaScript</span>
-						<span>⭐ 36104</span>
-						<span>🔱 2313</span>
+						<span>⭐ 37518</span>
+						<span>🔱 2418</span>
 					</div>
-				<div class="stars-today">⭐ 3722 stars today</div>
+				<div class="stars-today">⭐ 3993 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/p-e-w/heretic" target="_blank">
+				<p><a href="https://github.com/K-Dense-AI/scientific-agent-skills" target="_blank">
     
 
 
       
-        p-e-w /
+        K-Dense-AI /
 
-      heretic</a></p>
+      scientific-agent-skills</a></p>
 				<p>
-      Fully automatic censorship removal for language models
+      Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 190,000+ scientists worldwide. 165 ready-to-use validated skills plus 100+ scientific databases covering biology, chemistry, medicine, and drug discovery. Compatible with Cursor, Claude Code, Codex, Pi, Antigravity, and the open Agent Skills standard.
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 29337</span>
-						<span>🔱 3218</span>
+						<span>⭐ 40463</span>
+						<span>🔱 3748</span>
 					</div>
-				<div class="stars-today">⭐ 369 stars today</div>
+				<div class="stars-today">⭐ 1968 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/unclecode/crawl4ai" target="_blank">
+				<p><a href="https://github.com/k1tbyte/Wand-Enhancer" target="_blank">
     
 
 
       
-        unclecode /
+        k1tbyte /
 
-      crawl4ai</a></p>
+      Wand-Enhancer</a></p>
 				<p>
-      🚀🤖 Crawl4AI: Open-source LLM Friendly Web Crawler & Scraper. Don't be shy, join here: https://discord.gg/jP8KfhDhyN
+      Advanced UX and interoperability extension for Wand (WeMod) app
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 80436</span>
-						<span>🔱 8324</span>
+						<span>🔠 C#</span>
+						<span>⭐ 23204</span>
+						<span>🔱 59258</span>
 					</div>
-				<div class="stars-today">⭐ 221 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/mvanhorn/last30days-skill" target="_blank">
-    
-
-
-      
-        mvanhorn /
-
-      last30days-skill</a></p>
-				<p>
-      AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 60666</span>
-						<span>🔱 5305</span>
-					</div>
-				<div class="stars-today">⭐ 230 stars today</div>
+				<div class="stars-today">⭐ 718 stars today</div>
 				</div>
 			</div>
 	
@@ -182,32 +118,54 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Go</span>
-						<span>⭐ 10336</span>
-						<span>🔱 887</span>
+						<span>⭐ 10438</span>
+						<span>🔱 891</span>
 					</div>
-				<div class="stars-today">⭐ 58 stars today</div>
+				<div class="stars-today">⭐ 376 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/punkpeye/awesome-mcp-servers" target="_blank">
+				<p><a href="https://github.com/jingyaogong/minimind" target="_blank">
     
 
 
       
-        punkpeye /
+        jingyaogong /
 
-      awesome-mcp-servers</a></p>
+      minimind</a></p>
 				<p>
-      A collection of MCP servers.
+      🧠 Train a 64M-parameter LLM from scratch in just 2h!
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 </span>
-						<span>⭐ 93495</span>
-						<span>🔱 15330</span>
+						<span>🔠 Python</span>
+						<span>⭐ 55872</span>
+						<span>🔱 7300</span>
 					</div>
-				<div class="stars-today">⭐ 96 stars today</div>
+				<div class="stars-today">⭐ 472 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/Osmantic/ODS" target="_blank">
+    
+
+
+      
+        Osmantic /
+
+      ODS</a></p>
+				<p>
+      Turn your PC, Mac, or Linux box into an AI server. LLM inference, chat UI, voice, agents, workflows, RAG, and image generation.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 5291</span>
+						<span>🔱 766</span>
+					</div>
+				<div class="stars-today">⭐ 331 stars today</div>
 				</div>
 			</div>
 	
@@ -226,98 +184,76 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Java</span>
-						<span>⭐ 9261</span>
-						<span>🔱 4199</span>
+						<span>⭐ 9338</span>
+						<span>🔱 4201</span>
 					</div>
-				<div class="stars-today">⭐ 115 stars today</div>
+				<div class="stars-today">⭐ 199 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/NationalSecurityAgency/ghidra" target="_blank">
+				<p><a href="https://github.com/zhaoxuya520/reverse-skill" target="_blank">
     
 
 
       
-        NationalSecurityAgency /
+        zhaoxuya520 /
 
-      ghidra</a></p>
+      reverse-skill</a></p>
 				<p>
-      Ghidra is a software reverse engineering (SRE) framework
+      Reverse Engineering / Authorized Penetration Testing / Security Research Skill Router Pack AI-powered routing + On-demand toolchain bootstrapping + Self-evolving knowledge base Supports Claude Code, Kiro, Cursor, Cline, and other AI coding clients 逆向/渗透/安全技能路由包 - AI 自动路由 + 按需自举工具链 + 自动进化经验库 | 支持 Claude Code / Kiro / Cursor / Cline 等代码 AI 客户端
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Java</span>
-						<span>⭐ 74048</span>
-						<span>🔱 8074</span>
+						<span>🔠 PowerShell</span>
+						<span>⭐ 32860</span>
+						<span>🔱 4445</span>
 					</div>
-				<div class="stars-today">⭐ 198 stars today</div>
+				<div class="stars-today">⭐ 1439 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/pollen-robotics/microduck_rl" target="_blank">
+				<p><a href="https://github.com/affaan-m/ECC" target="_blank">
     
 
 
       
-        pollen-robotics /
+        affaan-m /
 
-      microduck_rl</a></p>
+      ECC</a></p>
 				<p>
-      RL training environments for Microduck (mjlab)
+      The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 JavaScript</span>
+						<span>⭐ 245040</span>
+						<span>🔱 37019</span>
+					</div>
+				<div class="stars-today">⭐ 490 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/kaifcodec/user-scanner" target="_blank">
+    
+
+
+      
+        kaifcodec /
+
+      user-scanner</a></p>
+				<p>
+      🕵️‍♂️ (2-in-1) Email & Username OSINT suite for deep data extraction just from a single Email/Username. Analyzes 465+ actively maintained scan vectors (175+ email / 290+ username) for security research, investigations, and digital footprinting.
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 928</span>
-						<span>🔱 158</span>
+						<span>⭐ 4037</span>
+						<span>🔱 439</span>
 					</div>
-				<div class="stars-today">⭐ 168 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/handsomestWei/patent-disclosure-skill" target="_blank">
-    
-
-
-      
-        handsomestWei /
-
-      patent-disclosure-skill</a></p>
-				<p>
-      中国专利.skill：专利点挖掘与交底书（发明/实用/外观）编写，通俗解读专利，嗅探政策动向，辅助审查答复。
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 5946</span>
-						<span>🔱 713</span>
-					</div>
-				<div class="stars-today">⭐ 62 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/corsairdev/corsair" target="_blank">
-    
-
-
-      
-        corsairdev /
-
-      corsair</a></p>
-				<p>
-      Connect your users to their apps
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 11066</span>
-						<span>🔱 529</span>
-					</div>
-				<div class="stars-today">⭐ 126 stars today</div>
+				<div class="stars-today">⭐ 462 stars today</div>
 				</div>
 			</div>
 	
@@ -336,98 +272,98 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 15373</span>
-						<span>🔱 1837</span>
+						<span>⭐ 15572</span>
+						<span>🔱 1873</span>
 					</div>
-				<div class="stars-today">⭐ 469 stars today</div>
+				<div class="stars-today">⭐ 608 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/colinhacks/zod" target="_blank">
+				<p><a href="https://github.com/p-e-w/heretic" target="_blank">
     
 
 
       
-        colinhacks /
+        p-e-w /
 
-      zod</a></p>
+      heretic</a></p>
 				<p>
-      TypeScript-first schema validation with static type inference
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 43695</span>
-						<span>🔱 2160</span>
-					</div>
-				<div class="stars-today">⭐ 31 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/tashfeenahmed/freellmapi" target="_blank">
-    
-
-
-      
-        tashfeenahmed /
-
-      freellmapi</a></p>
-				<p>
-      7.4 billion tokens per month. 34 free LLM providers. 635 free model endpoints. All behind one /v1 endpoint, plus any custom OpenAI-compatible endpoint. Smart routing, automatic failover, encrypted keys. Personal experimentation only.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 23056</span>
-						<span>🔱 3172</span>
-					</div>
-				<div class="stars-today">⭐ 504 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/livekit/agents" target="_blank">
-    
-
-
-      
-        livekit /
-
-      agents</a></p>
-				<p>
-      A framework for building realtime voice AI agents 🤖🎙️📹 
+      Fully automatic censorship removal for language models
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 13862</span>
-						<span>🔱 3662</span>
+						<span>⭐ 29494</span>
+						<span>🔱 3234</span>
 					</div>
-				<div class="stars-today">⭐ 132 stars today</div>
+				<div class="stars-today">⭐ 536 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/abhigyanpatwari/GitNexus" target="_blank">
+				<p><a href="https://github.com/handsomestWei/patent-disclosure-skill" target="_blank">
     
 
 
       
-        abhigyanpatwari /
+        handsomestWei /
 
-      GitNexus</a></p>
+      patent-disclosure-skill</a></p>
 				<p>
-      GitNexus: The Zero-Server Code Intelligence Engine - GitNexus is a client-side knowledge graph creator that runs entirely in your browser. Drop in a git repository (Github, Gitlab, Azure, Local) or ZIP file, and get an interactive knowledge graph with a built in Graph RAG Agent. Perfect for code exploration
+      中国专利.skill：专利点挖掘与交底书（发明/实用/外观）编写，通俗解读专利，嗅探政策动向，辅助审查答复。
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 46664</span>
-						<span>🔱 5129</span>
+						<span>🔠 Python</span>
+						<span>⭐ 6143</span>
+						<span>🔱 725</span>
 					</div>
-				<div class="stars-today">⭐ 182 stars today</div>
+				<div class="stars-today">⭐ 571 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/firecrawl/pdf-inspector" target="_blank">
+    
+
+
+      
+        firecrawl /
+
+      pdf-inspector</a></p>
+				<p>
+      Fast Rust library for PDF inspection, classification, and text extraction. Intelligently detects scanned vs text-based PDFs to enable smart routing decisions.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Rust</span>
+						<span>⭐ 17232</span>
+						<span>🔱 1191</span>
+					</div>
+				<div class="stars-today">⭐ 199 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/pollen-robotics/microduck_rl" target="_blank">
+    
+
+
+      
+        pollen-robotics /
+
+      microduck_rl</a></p>
+				<p>
+      RL training environments for Microduck (mjlab)
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 1071</span>
+						<span>🔱 186</span>
+					</div>
+				<div class="stars-today">⭐ 384 stars today</div>
 				</div>
 			</div>
 	

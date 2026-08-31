@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2026年第36周
-date: 2026-08-31T07:43:25Z
+date: 2026-08-31T15:31:49Z
 categories:
 - weekly
 keywords:
@@ -14,6 +14,28 @@ keywords:
 	<main class="container">
         <div class="repo-list" id="repoList">
 
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/tt-a1i/archify" target="_blank">
+    
+
+
+      
+        tt-a1i /
+
+      archify</a></p>
+				<p>
+      Agent skill for beautiful, verifiable architecture, workflow, sequence, data-flow, and lifecycle diagrams—self-contained HTML with motion and crisp export.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 JavaScript</span>
+						<span>⭐ 37518</span>
+						<span>🔱 2418</span>
+					</div>
+				<div class="stars-today">⭐ 18103 stars this week</div>
+				</div>
+			</div>
 	
 			<div class="repo-card">
 				<p><a href="https://github.com/freestylefly/awesome-gpt-image-2" target="_blank">
@@ -30,8 +52,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 JavaScript</span>
-						<span>⭐ 25974</span>
-						<span>🔱 2549</span>
+						<span>⭐ 26250</span>
+						<span>🔱 2565</span>
 					</div>
 				<div class="stars-today">⭐ 13413 stars this week</div>
 				</div>
@@ -52,32 +74,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 2954</span>
-						<span>🔱 237</span>
+						<span>⭐ 3013</span>
+						<span>🔱 240</span>
 					</div>
 				<div class="stars-today">⭐ 2162 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/tt-a1i/archify" target="_blank">
-    
-
-
-      
-        tt-a1i /
-
-      archify</a></p>
-				<p>
-      Agent skill for beautiful, verifiable architecture, workflow, sequence, data-flow, and lifecycle diagrams—self-contained HTML with motion and crisp export.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 JavaScript</span>
-						<span>⭐ 36104</span>
-						<span>🔱 2313</span>
-					</div>
-				<div class="stars-today">⭐ 18103 stars this week</div>
 				</div>
 			</div>
 	
@@ -96,54 +96,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Shell</span>
-						<span>⭐ 35723</span>
-						<span>🔱 3682</span>
+						<span>⭐ 35958</span>
+						<span>🔱 3718</span>
 					</div>
 				<div class="stars-today">⭐ 6692 stars this week</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/apache/maka" target="_blank">
+				<p><a href="https://github.com/THU-MAIC/OpenMAIC" target="_blank">
     
 
 
       
-        apache /
+        THU-MAIC /
 
-      maka</a></p>
+      OpenMAIC</a></p>
 				<p>
-      Apache Maka (Incubating) is a local-first AI agent workspace. Model messages, tool calls, tool results, permission decisions, and termination events are recorded as an append-only log.
+      Open Multi-Agent Interactive Classroom — Get an immersive, multi-agent learning experience in just one click
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 4250</span>
-						<span>🔱 392</span>
+						<span>⭐ 26232</span>
+						<span>🔱 4687</span>
 					</div>
-				<div class="stars-today">⭐ 1973 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/tashfeenahmed/freellmapi" target="_blank">
-    
-
-
-      
-        tashfeenahmed /
-
-      freellmapi</a></p>
-				<p>
-      7.4 billion tokens per month. 34 free LLM providers. 635 free model endpoints. All behind one /v1 endpoint, plus any custom OpenAI-compatible endpoint. Smart routing, automatic failover, encrypted keys. Personal experimentation only.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 23056</span>
-						<span>🔱 3172</span>
-					</div>
-				<div class="stars-today">⭐ 3037 stars this week</div>
+				<div class="stars-today">⭐ 2085 stars this week</div>
 				</div>
 			</div>
 	
@@ -162,98 +140,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 38705</span>
-						<span>🔱 13128</span>
+						<span>⭐ 38940</span>
+						<span>🔱 13192</span>
 					</div>
 				<div class="stars-today">⭐ 5348 stars this week</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/anthropics/claude-plugins-official" target="_blank">
+				<p><a href="https://github.com/apache/maka" target="_blank">
     
 
 
       
-        anthropics /
+        apache /
 
-      claude-plugins-official</a></p>
+      maka</a></p>
 				<p>
-      Official, Anthropic-managed directory of high quality Claude Code Plugins.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 35656</span>
-						<span>🔱 3977</span>
-					</div>
-				<div class="stars-today">⭐ 1940 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/AprilNEA/OpenLogi" target="_blank">
-    
-
-
-      
-        AprilNEA /
-
-      OpenLogi</a></p>
-				<p>
-      ⚡️A native, local-first alternative to Logitech Options+, written in Rust 🦀 — remap buttons, DPI, and SmartShift over HID++. No account, no telemetry.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Rust</span>
-						<span>⭐ 17973</span>
-						<span>🔱 524</span>
-					</div>
-				<div class="stars-today">⭐ 3406 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/rohitg00/ai-engineering-from-scratch" target="_blank">
-    
-
-
-      
-        rohitg00 /
-
-      ai-engineering-from-scratch</a></p>
-				<p>
-      Learn it. Build it. Ship it for others.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 51400</span>
-						<span>🔱 8900</span>
-					</div>
-				<div class="stars-today">⭐ 3720 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/cursor/plugins" target="_blank">
-    
-
-
-      
-        cursor /
-
-      plugins</a></p>
-				<p>
-      Cursor plugin specification and official plugins
+      Apache Maka (Incubating) is a local-first AI agent workspace. Model messages, tool calls, tool results, permission decisions, and termination events are recorded as an append-only log.
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 6305</span>
-						<span>🔱 509</span>
+						<span>⭐ 4296</span>
+						<span>🔱 402</span>
 					</div>
-				<div class="stars-today">⭐ 1503 stars this week</div>
+				<div class="stars-today">⭐ 1973 stars this week</div>
 				</div>
 			</div>
 	
@@ -272,10 +184,120 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 39944</span>
-						<span>🔱 3712</span>
+						<span>⭐ 40463</span>
+						<span>🔱 3748</span>
 					</div>
 				<div class="stars-today">⭐ 4309 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/tashfeenahmed/freellmapi" target="_blank">
+    
+
+
+      
+        tashfeenahmed /
+
+      freellmapi</a></p>
+				<p>
+      7.4 billion tokens per month. 34 free LLM providers. 635 free model endpoints. All behind one /v1 endpoint, plus any custom OpenAI-compatible endpoint. Smart routing, automatic failover, encrypted keys. Personal experimentation only.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 23245</span>
+						<span>🔱 3190</span>
+					</div>
+				<div class="stars-today">⭐ 3037 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/anthropics/claude-plugins-official" target="_blank">
+    
+
+
+      
+        anthropics /
+
+      claude-plugins-official</a></p>
+				<p>
+      Official, Anthropic-managed directory of high quality Claude Code Plugins.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 35709</span>
+						<span>🔱 3982</span>
+					</div>
+				<div class="stars-today">⭐ 1940 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/rohitg00/ai-engineering-from-scratch" target="_blank">
+    
+
+
+      
+        rohitg00 /
+
+      ai-engineering-from-scratch</a></p>
+				<p>
+      Learn it. Build it. Ship it for others.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 51521</span>
+						<span>🔱 8916</span>
+					</div>
+				<div class="stars-today">⭐ 3720 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/asciimoo/hister" target="_blank">
+    
+
+
+      
+        asciimoo /
+
+      hister</a></p>
+				<p>
+      Your own search engine
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Go</span>
+						<span>⭐ 3399</span>
+						<span>🔱 155</span>
+					</div>
+				<div class="stars-today">⭐ 1006 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/cursor/plugins" target="_blank">
+    
+
+
+      
+        cursor /
+
+      plugins</a></p>
+				<p>
+      Cursor plugin specification and official plugins
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 6350</span>
+						<span>🔱 515</span>
+					</div>
+				<div class="stars-today">⭐ 1503 stars this week</div>
 				</div>
 			</div>
 	
@@ -294,8 +316,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 CSS</span>
-						<span>⭐ 11825</span>
-						<span>🔱 1456</span>
+						<span>⭐ 11881</span>
+						<span>🔱 1459</span>
 					</div>
 				<div class="stars-today">⭐ 1222 stars this week</div>
 				</div>
@@ -316,54 +338,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 C++</span>
-						<span>⭐ 39395</span>
-						<span>🔱 10883</span>
+						<span>⭐ 39403</span>
+						<span>🔱 10884</span>
 					</div>
 				<div class="stars-today">⭐ 441 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/Alishahryar1/free-claude-code" target="_blank">
-    
-
-
-      
-        Alishahryar1 /
-
-      free-claude-code</a></p>
-				<p>
-      Use Claude Code, Codex, Pi, and OpenCode and more for free (1.3B+ free tokens) from your terminal, app, IDE, or phone like OpenClaw (voice supported + ToS friendly)
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 52044</span>
-						<span>🔱 8381</span>
-					</div>
-				<div class="stars-today">⭐ 4324 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/THU-MAIC/OpenMAIC" target="_blank">
-    
-
-
-      
-        THU-MAIC /
-
-      OpenMAIC</a></p>
-				<p>
-      Open Multi-Agent Interactive Classroom — Get an immersive, multi-agent learning experience in just one click
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 25095</span>
-						<span>🔱 4585</span>
-					</div>
-				<div class="stars-today">⭐ 2085 stars this week</div>
 				</div>
 			</div>
 	
@@ -382,32 +360,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 76516</span>
-						<span>🔱 9311</span>
+						<span>⭐ 76634</span>
+						<span>🔱 9323</span>
 					</div>
 				<div class="stars-today">⭐ 1909 stars this week</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/openai/codex" target="_blank">
+				<p><a href="https://github.com/every-app/open-seo" target="_blank">
     
 
 
       
-        openai /
+        every-app /
 
-      codex</a></p>
+      open-seo</a></p>
 				<p>
-      Lightweight coding agent that runs in your terminal
+      Open source alternative to Semrush and Ahrefs
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Rust</span>
-						<span>⭐ 120250</span>
-						<span>🔱 18374</span>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 15572</span>
+						<span>🔱 1873</span>
 					</div>
-				<div class="stars-today">⭐ 5510 stars this week</div>
+				<div class="stars-today">⭐ 1881 stars this week</div>
 				</div>
 			</div>
 	
@@ -426,10 +404,54 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Rust</span>
-						<span>⭐ 39073</span>
-						<span>🔱 3837</span>
+						<span>⭐ 39159</span>
+						<span>🔱 3848</span>
 					</div>
 				<div class="stars-today">⭐ 2526 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/p-e-w/heretic" target="_blank">
+    
+
+
+      
+        p-e-w /
+
+      heretic</a></p>
+				<p>
+      Fully automatic censorship removal for language models
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 29494</span>
+						<span>🔱 3234</span>
+					</div>
+				<div class="stars-today">⭐ 992 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/AprilNEA/OpenLogi" target="_blank">
+    
+
+
+      
+        AprilNEA /
+
+      OpenLogi</a></p>
+				<p>
+      ⚡️A native, local-first alternative to Logitech Options+, written in Rust 🦀 — remap buttons, DPI, and SmartShift over HID++. No account, no telemetry.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Rust</span>
+						<span>⭐ 18082</span>
+						<span>🔱 531</span>
+					</div>
+				<div class="stars-today">⭐ 3406 stars this week</div>
 				</div>
 			</div>
 	

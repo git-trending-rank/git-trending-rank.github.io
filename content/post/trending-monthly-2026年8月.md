@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2026年8月
-date: 2026-08-31T07:43:25Z
+date: 2026-08-31T15:31:50Z
 categories:
 - monthly
 keywords:
@@ -30,32 +30,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Shell</span>
-						<span>⭐ 35723</span>
-						<span>🔱 3682</span>
+						<span>⭐ 35958</span>
+						<span>🔱 3718</span>
 					</div>
 				<div class="stars-today">⭐ 11259 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/firecrawl/pdf-inspector" target="_blank">
-    
-
-
-      
-        firecrawl /
-
-      pdf-inspector</a></p>
-				<p>
-      Fast Rust library for PDF inspection, classification, and text extraction. Intelligently detects scanned vs text-based PDFs to enable smart routing decisions.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Rust</span>
-						<span>⭐ 17075</span>
-						<span>🔱 1184</span>
-					</div>
-				<div class="stars-today">⭐ 15341 stars this month</div>
 				</div>
 			</div>
 	
@@ -74,8 +52,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 JavaScript</span>
-						<span>⭐ 25974</span>
-						<span>🔱 2549</span>
+						<span>⭐ 26250</span>
+						<span>🔱 2565</span>
 					</div>
 				<div class="stars-today">⭐ 16908 stars this month</div>
 				</div>
@@ -96,8 +74,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 25326</span>
-						<span>🔱 2360</span>
+						<span>⭐ 25395</span>
+						<span>🔱 2368</span>
 					</div>
 				<div class="stars-today">⭐ 15913 stars this month</div>
 				</div>
@@ -118,32 +96,54 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 2954</span>
-						<span>🔱 237</span>
+						<span>⭐ 3013</span>
+						<span>🔱 240</span>
 					</div>
 				<div class="stars-today">⭐ 2543 stars this month</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/zhaoxuya520/reverse-skill" target="_blank">
+				<p><a href="https://github.com/firecrawl/pdf-inspector" target="_blank">
     
 
 
       
-        zhaoxuya520 /
+        firecrawl /
 
-      reverse-skill</a></p>
+      pdf-inspector</a></p>
 				<p>
-      Reverse Engineering / Authorized Penetration Testing / Security Research Skill Router Pack AI-powered routing + On-demand toolchain bootstrapping + Self-evolving knowledge base Supports Claude Code, Kiro, Cursor, Cline, and other AI coding clients 逆向/渗透/安全技能路由包 - AI 自动路由 + 按需自举工具链 + 自动进化经验库 | 支持 Claude Code / Kiro / Cursor / Cline 等代码 AI 客户端
+      Fast Rust library for PDF inspection, classification, and text extraction. Intelligently detects scanned vs text-based PDFs to enable smart routing decisions.
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 PowerShell</span>
-						<span>⭐ 32423</span>
-						<span>🔱 4367</span>
+						<span>🔠 Rust</span>
+						<span>⭐ 17232</span>
+						<span>🔱 1191</span>
 					</div>
-				<div class="stars-today">⭐ 21984 stars this month</div>
+				<div class="stars-today">⭐ 15341 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/tt-a1i/archify" target="_blank">
+    
+
+
+      
+        tt-a1i /
+
+      archify</a></p>
+				<p>
+      Agent skill for beautiful, verifiable architecture, workflow, sequence, data-flow, and lifecycle diagrams—self-contained HTML with motion and crisp export.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 JavaScript</span>
+						<span>⭐ 37518</span>
+						<span>🔱 2418</span>
+					</div>
+				<div class="stars-today">⭐ 25275 stars this month</div>
 				</div>
 			</div>
 	
@@ -162,8 +162,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 9817</span>
-						<span>🔱 631</span>
+						<span>⭐ 9853</span>
+						<span>🔱 638</span>
 					</div>
 				<div class="stars-today">⭐ 6450 stars this month</div>
 				</div>
@@ -184,8 +184,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 34562</span>
-						<span>🔱 2637</span>
+						<span>⭐ 34641</span>
+						<span>🔱 2647</span>
 					</div>
 				<div class="stars-today">⭐ 6903 stars this month</div>
 				</div>
@@ -206,10 +206,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Rust</span>
-						<span>⭐ 17973</span>
-						<span>🔱 524</span>
+						<span>⭐ 18082</span>
+						<span>🔱 531</span>
 					</div>
 				<div class="stars-today">⭐ 9946 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/zhaoxuya520/reverse-skill" target="_blank">
+    
+
+
+      
+        zhaoxuya520 /
+
+      reverse-skill</a></p>
+				<p>
+      Reverse Engineering / Authorized Penetration Testing / Security Research Skill Router Pack AI-powered routing + On-demand toolchain bootstrapping + Self-evolving knowledge base Supports Claude Code, Kiro, Cursor, Cline, and other AI coding clients 逆向/渗透/安全技能路由包 - AI 自动路由 + 按需自举工具链 + 自动进化经验库 | 支持 Claude Code / Kiro / Cursor / Cline 等代码 AI 客户端
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 PowerShell</span>
+						<span>⭐ 32860</span>
+						<span>🔱 4445</span>
+					</div>
+				<div class="stars-today">⭐ 21984 stars this month</div>
 				</div>
 			</div>
 	
@@ -228,32 +250,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 4250</span>
-						<span>🔱 392</span>
+						<span>⭐ 4296</span>
+						<span>🔱 402</span>
 					</div>
 				<div class="stars-today">⭐ 3257 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/tt-a1i/archify" target="_blank">
-    
-
-
-      
-        tt-a1i /
-
-      archify</a></p>
-				<p>
-      Agent skill for beautiful, verifiable architecture, workflow, sequence, data-flow, and lifecycle diagrams—self-contained HTML with motion and crisp export.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 JavaScript</span>
-						<span>⭐ 36104</span>
-						<span>🔱 2313</span>
-					</div>
-				<div class="stars-today">⭐ 25275 stars this month</div>
 				</div>
 			</div>
 	
@@ -272,52 +272,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Mojo</span>
-						<span>⭐ 29388</span>
-						<span>🔱 3125</span>
+						<span>⭐ 29398</span>
+						<span>🔱 3126</span>
 					</div>
 				<div class="stars-today">⭐ 2825 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/pingdotgg/t3code" target="_blank">
-    
-
-
-      
-        pingdotgg /
-
-      t3code</a></p>
-				<p></p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 21118</span>
-						<span>🔱 5077</span>
-					</div>
-				<div class="stars-today">⭐ 5445 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/ayghri/i-have-adhd" target="_blank">
-    
-
-
-      
-        ayghri /
-
-      i-have-adhd</a></p>
-				<p>
-      A skill to stop your coding agent from burying the answer. ADHD-friendly output.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 25865</span>
-						<span>🔱 1625</span>
-					</div>
-				<div class="stars-today">⭐ 11902 stars this month</div>
 				</div>
 			</div>
 	
@@ -336,7 +294,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 14479</span>
+						<span>⭐ 14492</span>
 						<span>🔱 1850</span>
 					</div>
 				<div class="stars-today">⭐ 2652 stars this month</div>
@@ -344,24 +302,22 @@ keywords:
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/virgiliojr94/book-to-skill" target="_blank">
+				<p><a href="https://github.com/pingdotgg/t3code" target="_blank">
     
 
 
       
-        virgiliojr94 /
+        pingdotgg /
 
-      book-to-skill</a></p>
-				<p>
-      Turn any technical book PDF into a Claude Code skill — ready to study, reference, and use while you work.
-    </p>
+      t3code</a></p>
+				<p></p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 27420</span>
-						<span>🔱 2838</span>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 21153</span>
+						<span>🔱 5093</span>
 					</div>
-				<div class="stars-today">⭐ 13879 stars this month</div>
+				<div class="stars-today">⭐ 5445 stars this month</div>
 				</div>
 			</div>
 	
@@ -380,8 +336,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 473437</span>
-						<span>🔱 52259</span>
+						<span>⭐ 473624</span>
+						<span>🔱 52289</span>
 					</div>
 				<div class="stars-today">⭐ 20630 stars this month</div>
 				</div>
@@ -402,8 +358,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Clojure</span>
-						<span>⭐ 3399</span>
-						<span>🔱 332</span>
+						<span>⭐ 3424</span>
+						<span>🔱 337</span>
 					</div>
 				<div class="stars-today">⭐ 1897 stars this month</div>
 				</div>
@@ -424,54 +380,54 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Rust</span>
-						<span>⭐ 5279</span>
-						<span>🔱 361</span>
+						<span>⭐ 5320</span>
+						<span>🔱 365</span>
 					</div>
 				<div class="stars-today">⭐ 3902 stars this month</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/diegosouzapw/OmniRoute" target="_blank">
+				<p><a href="https://github.com/virgiliojr94/book-to-skill" target="_blank">
     
 
 
       
-        diegosouzapw /
+        virgiliojr94 /
 
-      OmniRoute</a></p>
+      book-to-skill</a></p>
 				<p>
-      Never stop coding. Free MIT AI gateway: one endpoint, 350 providers (90+ free), 1200+ models Kimi, Claude, GPT, Gemini, GLM, DeepSeek, MiniMax. Works with Claude Code, Codex, Cursor, OpenCode, Cline & Copilot. Quota-aware auto-fallback, RTK+Caveman compression saves 15-95% tokens, MCP/A2A, Desktop/PWA. Built by 450+ contributors
+      Turn any technical book PDF into a Claude Code skill — ready to study, reference, and use while you work.
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 58857</span>
-						<span>🔱 8167</span>
+						<span>🔠 Python</span>
+						<span>⭐ 27516</span>
+						<span>🔱 2847</span>
 					</div>
-				<div class="stars-today">⭐ 24211 stars this month</div>
+				<div class="stars-today">⭐ 13879 stars this month</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/lyogavin/airllm" target="_blank">
+				<p><a href="https://github.com/ayghri/i-have-adhd" target="_blank">
     
 
 
       
-        lyogavin /
+        ayghri /
 
-      airllm</a></p>
+      i-have-adhd</a></p>
 				<p>
-      AirLLM 70B inference with single 4GB GPU
+      A skill to stop your coding agent from burying the answer. ADHD-friendly output.
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Jupyter Notebook</span>
-						<span>⭐ 33258</span>
-						<span>🔱 3489</span>
+						<span>🔠 Python</span>
+						<span>⭐ 25999</span>
+						<span>🔱 1631</span>
 					</div>
-				<div class="stars-today">⭐ 8974 stars this month</div>
+				<div class="stars-today">⭐ 11902 stars this month</div>
 				</div>
 			</div>
 	
@@ -490,10 +446,54 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 99664</span>
-						<span>🔱 12363</span>
+						<span>⭐ 99886</span>
+						<span>🔱 12394</span>
 					</div>
 				<div class="stars-today">⭐ 18925 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/diegosouzapw/OmniRoute" target="_blank">
+    
+
+
+      
+        diegosouzapw /
+
+      OmniRoute</a></p>
+				<p>
+      Never stop coding. Free MIT AI gateway: one endpoint, 350 providers (90+ free), 1200+ models Kimi, Claude, GPT, Gemini, GLM, DeepSeek, MiniMax. Works with Claude Code, Codex, Cursor, OpenCode, Cline & Copilot. Quota-aware auto-fallback, RTK+Caveman compression saves 15-95% tokens, MCP/A2A, Desktop/PWA. Built by 450+ contributors
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 59088</span>
+						<span>🔱 8210</span>
+					</div>
+				<div class="stars-today">⭐ 24211 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/CodebuffAI/freebuff" target="_blank">
+    
+
+
+      
+        CodebuffAI /
+
+      freebuff</a></p>
+				<p>
+      The free coding agent
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 11325</span>
+						<span>🔱 1220</span>
+					</div>
+				<div class="stars-today">⭐ 3236 stars this month</div>
 				</div>
 			</div>
 	
