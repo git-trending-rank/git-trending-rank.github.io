@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2026-09-01
-date: 2026-09-01T06:49:09Z
+date: 2026-09-01T12:48:31Z
 categories:
 - daily
 keywords:
@@ -14,6 +14,50 @@ keywords:
 	<main class="container">
         <div class="repo-list" id="repoList">
 
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/Gitlawb/openclaude" target="_blank">
+    
+
+
+      
+        Gitlawb /
+
+      openclaude</a></p>
+				<p>
+      runs anywhere. uses anything
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 30999</span>
+						<span>🔱 8928</span>
+					</div>
+				<div class="stars-today">⭐ 37 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/Imbad0202/academic-research-skills" target="_blank">
+    
+
+
+      
+        Imbad0202 /
+
+      academic-research-skills</a></p>
+				<p>
+      Academic Research Skills for Claude Code: research → write → review → revise → finalize
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 44586</span>
+						<span>🔱 3538</span>
+					</div>
+				<div class="stars-today">⭐ 161 stars today</div>
+				</div>
+			</div>
 	
 			<div class="repo-card">
 				<p><a href="https://github.com/THU-MAIC/OpenMAIC" target="_blank">
@@ -30,98 +74,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 28026</span>
-						<span>🔱 4845</span>
+						<span>⭐ 28853</span>
+						<span>🔱 4924</span>
 					</div>
-				<div class="stars-today">⭐ 2824 stars today</div>
+				<div class="stars-today">⭐ 3122 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/tt-a1i/archify" target="_blank">
+				<p><a href="https://github.com/iv-org/invidious" target="_blank">
     
 
 
       
-        tt-a1i /
+        iv-org /
 
-      archify</a></p>
+      invidious</a></p>
 				<p>
-      Agent skill for beautiful, verifiable architecture, workflow, sequence, data-flow, and lifecycle diagrams—self-contained HTML with motion and crisp export.
+      Invidious is an alternative front-end to YouTube
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 JavaScript</span>
-						<span>⭐ 39890</span>
-						<span>🔱 2533</span>
+						<span>🔠 Crystal</span>
+						<span>⭐ 23636</span>
+						<span>🔱 2669</span>
 					</div>
-				<div class="stars-today">⭐ 3991 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/K-Dense-AI/scientific-agent-skills" target="_blank">
-    
-
-
-      
-        K-Dense-AI /
-
-      scientific-agent-skills</a></p>
-				<p>
-      Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 190,000+ scientists worldwide. 165 ready-to-use validated skills plus 100+ scientific databases covering biology, chemistry, medicine, and drug discovery. Compatible with Cursor, Claude Code, Codex, Pi, Antigravity, and the open Agent Skills standard.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 41005</span>
-						<span>🔱 3787</span>
-					</div>
-				<div class="stars-today">⭐ 1980 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/k1tbyte/Wand-Enhancer" target="_blank">
-    
-
-
-      
-        k1tbyte /
-
-      Wand-Enhancer</a></p>
-				<p>
-      Advanced UX and interoperability extension for Wand (WeMod) app
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 C#</span>
-						<span>⭐ 23484</span>
-						<span>🔱 59719</span>
-					</div>
-				<div class="stars-today">⭐ 582 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/majd/ipatool" target="_blank">
-    
-
-
-      
-        majd /
-
-      ipatool</a></p>
-				<p>
-      Command-line tool that allows searching and downloading app packages (known as ipa files) for iOS, iPadOS, tvOS, and visionOS from the App Store.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Go</span>
-						<span>⭐ 10641</span>
-						<span>🔱 898</span>
-					</div>
-				<div class="stars-today">⭐ 373 stars today</div>
+				<div class="stars-today">⭐ 583 stars today</div>
 				</div>
 			</div>
 	
@@ -140,186 +118,54 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 56460</span>
-						<span>🔱 7358</span>
+						<span>⭐ 56762</span>
+						<span>🔱 7391</span>
 					</div>
-				<div class="stars-today">⭐ 495 stars today</div>
+				<div class="stars-today">⭐ 1005 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/Osmantic/ODS" target="_blank">
+				<p><a href="https://github.com/debpalash/VoiceStudio" target="_blank">
     
 
 
       
-        Osmantic /
+        debpalash /
 
-      ODS</a></p>
+      VoiceStudio</a></p>
 				<p>
-      Turn your PC, Mac, or Linux box into an AI server. LLM inference, chat UI, voice, agents, workflows, RAG, and image generation.
+      VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 5658</span>
-						<span>🔱 787</span>
+						<span>⭐ 13095</span>
+						<span>🔱 2010</span>
 					</div>
-				<div class="stars-today">⭐ 77 stars today</div>
+				<div class="stars-today">⭐ 509 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/checkstyle/checkstyle" target="_blank">
+				<p><a href="https://github.com/3b1b/manim" target="_blank">
     
 
 
       
-        checkstyle /
+        3b1b /
 
-      checkstyle</a></p>
+      manim</a></p>
 				<p>
-      Checkstyle is a development tool to help programmers write Java code that adheres to a coding standard. By default it supports the Google Java Style Guide and Sun Code Conventions, but is highly configurable. It can be invoked with an ANT task and a command line program.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Java</span>
-						<span>⭐ 9469</span>
-						<span>🔱 4211</span>
-					</div>
-				<div class="stars-today">⭐ 198 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/zhaoxuya520/reverse-skill" target="_blank">
-    
-
-
-      
-        zhaoxuya520 /
-
-      reverse-skill</a></p>
-				<p>
-      Reverse Engineering / Authorized Penetration Testing / Security Research Skill Router Pack AI-powered routing + On-demand toolchain bootstrapping + Self-evolving knowledge base Supports Claude Code, Kiro, Cursor, Cline, and other AI coding clients 逆向/渗透/安全技能路由包 - AI 自动路由 + 按需自举工具链 + 自动进化经验库 | 支持 Claude Code / Kiro / Cursor / Cline 等代码 AI 客户端
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 PowerShell</span>
-						<span>⭐ 33426</span>
-						<span>🔱 4527</span>
-					</div>
-				<div class="stars-today">⭐ 1401 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/affaan-m/ECC" target="_blank">
-    
-
-
-      
-        affaan-m /
-
-      ECC</a></p>
-				<p>
-      The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 JavaScript</span>
-						<span>⭐ 245388</span>
-						<span>🔱 37060</span>
-					</div>
-				<div class="stars-today">⭐ 512 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/kaifcodec/user-scanner" target="_blank">
-    
-
-
-      
-        kaifcodec /
-
-      user-scanner</a></p>
-				<p>
-      🕵️‍♂️ (2-in-1) Email & Username OSINT suite for deep data extraction just from a single Email/Username. Analyzes 465+ actively maintained scan vectors (175+ email / 290+ username) for security research, investigations, and digital footprinting.
+      Animation engine for explanatory math videos
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 4413</span>
-						<span>🔱 452</span>
+						<span>⭐ 92391</span>
+						<span>🔱 7611</span>
 					</div>
-				<div class="stars-today">⭐ 93 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/every-app/open-seo" target="_blank">
-    
-
-
-      
-        every-app /
-
-      open-seo</a></p>
-				<p>
-      Open source alternative to Semrush and Ahrefs
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 15881</span>
-						<span>🔱 1913</span>
-					</div>
-				<div class="stars-today">⭐ 610 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/p-e-w/heretic" target="_blank">
-    
-
-
-      
-        p-e-w /
-
-      heretic</a></p>
-				<p>
-      Fully automatic censorship removal for language models
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 29783</span>
-						<span>🔱 3259</span>
-					</div>
-				<div class="stars-today">⭐ 537 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/handsomestWei/patent-disclosure-skill" target="_blank">
-    
-
-
-      
-        handsomestWei /
-
-      patent-disclosure-skill</a></p>
-				<p>
-      中国专利.skill：专利点挖掘与交底书（发明/实用/外观）编写，通俗解读专利，嗅探政策动向，辅助审查答复。
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 6423</span>
-						<span>🔱 743</span>
-					</div>
-				<div class="stars-today">⭐ 571 stars today</div>
+				<div class="stars-today">⭐ 74 stars today</div>
 				</div>
 			</div>
 	
@@ -338,32 +184,164 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Rust</span>
-						<span>⭐ 17522</span>
-						<span>🔱 1208</span>
+						<span>⭐ 17689</span>
+						<span>🔱 1214</span>
 					</div>
-				<div class="stars-today">⭐ 228 stars today</div>
+				<div class="stars-today">⭐ 545 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/pollen-robotics/microduck_rl" target="_blank">
+				<p><a href="https://github.com/browser-use/video-use" target="_blank">
     
 
 
       
-        pollen-robotics /
+        browser-use /
 
-      microduck_rl</a></p>
+      video-use</a></p>
 				<p>
-      RL training environments for Microduck (mjlab)
+      Edit videos with coding agents
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 1269</span>
-						<span>🔱 215</span>
+						<span>⭐ 22591</span>
+						<span>🔱 2791</span>
 					</div>
-				<div class="stars-today">⭐ 385 stars today</div>
+				<div class="stars-today">⭐ 591 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/K-Dense-AI/scientific-agent-skills" target="_blank">
+    
+
+
+      
+        K-Dense-AI /
+
+      scientific-agent-skills</a></p>
+				<p>
+      Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 190,000+ scientists worldwide. 165 ready-to-use validated skills plus 100+ scientific databases covering biology, chemistry, medicine, and drug discovery. Compatible with Cursor, Claude Code, Codex, Pi, Antigravity, and the open Agent Skills standard.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 41263</span>
+						<span>🔱 3801</span>
+					</div>
+				<div class="stars-today">⭐ 914 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/handsomestWei/patent-disclosure-skill" target="_blank">
+    
+
+
+      
+        handsomestWei /
+
+      patent-disclosure-skill</a></p>
+				<p>
+      中国专利.skill：专利点挖掘与交底书（发明/实用/外观）编写，通俗解读专利，嗅探政策动向，辅助审查答复。
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 6591</span>
+						<span>🔱 753</span>
+					</div>
+				<div class="stars-today">⭐ 502 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/VoltAgent/awesome-design-md" target="_blank">
+    
+
+
+      
+        VoltAgent /
+
+      awesome-design-md</a></p>
+				<p>
+      A collection of DESIGN.md files analysis by popular brand design systems. Drop one into your project and let coding agents generate a matching UI.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 </span>
+						<span>⭐ 112278</span>
+						<span>🔱 12749</span>
+					</div>
+				<div class="stars-today">⭐ 487 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/averygan/reclip" target="_blank">
+    
+
+
+      
+        averygan /
+
+      reclip</a></p>
+				<p>
+      Download videos from almost any website. Lightweight, self-hosted media downloader with a clean web UI.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 HTML</span>
+						<span>⭐ 7383</span>
+						<span>🔱 1308</span>
+					</div>
+				<div class="stars-today">⭐ 21 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/affaan-m/ECC" target="_blank">
+    
+
+
+      
+        affaan-m /
+
+      ECC</a></p>
+				<p>
+      The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 JavaScript</span>
+						<span>⭐ 245524</span>
+						<span>🔱 37075</span>
+					</div>
+				<div class="stars-today">⭐ 621 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/unclecode/crawl4ai" target="_blank">
+    
+
+
+      
+        unclecode /
+
+      crawl4ai</a></p>
+				<p>
+      🚀🤖 Crawl4AI: Open-source LLM Friendly Web Crawler & Scraper. Don't be shy, join here: https://discord.gg/jP8KfhDhyN
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 80670</span>
+						<span>🔱 8344</span>
+					</div>
+				<div class="stars-today">⭐ 516 stars today</div>
 				</div>
 			</div>
 	
