@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2026-09-02
-date: 2026-09-02T12:17:44Z
+date: 2026-09-02T17:25:29Z
 categories:
 - daily
 keywords:
@@ -30,8 +30,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 C++</span>
-						<span>⭐ 23784</span>
-						<span>🔱 2967</span>
+						<span>⭐ 24040</span>
+						<span>🔱 2976</span>
 					</div>
 				<div class="stars-today">⭐ 3 stars today</div>
 				</div>
@@ -52,8 +52,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 28950</span>
-						<span>🔱 2821</span>
+						<span>⭐ 29370</span>
+						<span>🔱 2843</span>
 					</div>
 				<div class="stars-today">⭐ 326 stars today</div>
 				</div>
@@ -74,10 +74,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 JavaScript</span>
-						<span>⭐ 120657</span>
-						<span>🔱 6529</span>
+						<span>⭐ 121072</span>
+						<span>🔱 6550</span>
 					</div>
 				<div class="stars-today">⭐ 1364 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/debpalash/VoiceStudio" target="_blank">
+    
+
+
+      
+        debpalash /
+
+      VoiceStudio</a></p>
+				<p>
+      VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 14286</span>
+						<span>🔱 2085</span>
+					</div>
+				<div class="stars-today">⭐ 834 stars today</div>
 				</div>
 			</div>
 	
@@ -96,10 +118,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 5899</span>
-						<span>🔱 1236</span>
+						<span>⭐ 5996</span>
+						<span>🔱 1243</span>
 					</div>
-				<div class="stars-today">⭐ 195 stars today</div>
+				<div class="stars-today">⭐ 138 stars today</div>
 				</div>
 			</div>
 	
@@ -118,8 +140,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 50507</span>
-						<span>🔱 3551</span>
+						<span>⭐ 50561</span>
+						<span>🔱 3553</span>
 					</div>
 				<div class="stars-today">⭐ 140 stars today</div>
 				</div>
@@ -140,8 +162,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 239780</span>
-						<span>🔱 49029</span>
+						<span>⭐ 239964</span>
+						<span>🔱 49093</span>
 					</div>
 				<div class="stars-today">⭐ 529 stars today</div>
 				</div>
@@ -162,8 +184,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 2958</span>
-						<span>🔱 297</span>
+						<span>⭐ 3007</span>
+						<span>🔱 299</span>
 					</div>
 				<div class="stars-today">⭐ 61 stars today</div>
 				</div>
@@ -184,8 +206,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Rust</span>
-						<span>⭐ 2640</span>
-						<span>🔱 181</span>
+						<span>⭐ 2733</span>
+						<span>🔱 182</span>
 					</div>
 				<div class="stars-today">⭐ 895 stars today</div>
 				</div>
@@ -206,8 +228,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Vue</span>
-						<span>⭐ 9197</span>
-						<span>🔱 1119</span>
+						<span>⭐ 9263</span>
+						<span>🔱 1126</span>
 					</div>
 				<div class="stars-today">⭐ 68 stars today</div>
 				</div>
@@ -228,8 +250,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 45354</span>
-						<span>🔱 3573</span>
+						<span>⭐ 45458</span>
+						<span>🔱 3576</span>
 					</div>
 				<div class="stars-today">⭐ 801 stars today</div>
 				</div>
@@ -250,8 +272,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 JavaScript</span>
-						<span>⭐ 245996</span>
-						<span>🔱 37111</span>
+						<span>⭐ 246123</span>
+						<span>🔱 37123</span>
 					</div>
 				<div class="stars-today">⭐ 516 stars today</div>
 				</div>
@@ -272,7 +294,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 C++</span>
-						<span>⭐ 71880</span>
+						<span>⭐ 71901</span>
 						<span>🔱 16271</span>
 					</div>
 				<div class="stars-today">⭐ 16 stars today</div>
@@ -294,8 +316,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 11500</span>
-						<span>🔱 378</span>
+						<span>⭐ 11602</span>
+						<span>🔱 379</span>
 					</div>
 				<div class="stars-today">⭐ 69 stars today</div>
 				</div>
@@ -316,8 +338,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 39827</span>
-						<span>🔱 3477</span>
+						<span>⭐ 40119</span>
+						<span>🔱 3487</span>
 					</div>
 				<div class="stars-today">⭐ 366 stars today</div>
 				</div>
@@ -338,8 +360,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Go</span>
-						<span>⭐ 102378</span>
-						<span>🔱 5960</span>
+						<span>⭐ 102501</span>
+						<span>🔱 5967</span>
 					</div>
 				<div class="stars-today">⭐ 234 stars today</div>
 				</div>
@@ -360,8 +382,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Shell</span>
-						<span>⭐ 244615</span>
-						<span>🔱 20800</span>
+						<span>⭐ 244950</span>
+						<span>🔱 20829</span>
 					</div>
 				<div class="stars-today">⭐ 1103 stars today</div>
 				</div>
@@ -382,8 +404,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 31753</span>
-						<span>🔱 8985</span>
+						<span>⭐ 31851</span>
+						<span>🔱 8986</span>
 					</div>
 				<div class="stars-today">⭐ 776 stars today</div>
 				</div>
@@ -404,32 +426,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Rust</span>
-						<span>⭐ 18260</span>
-						<span>🔱 1237</span>
+						<span>⭐ 18379</span>
+						<span>🔱 1242</span>
 					</div>
 				<div class="stars-today">⭐ 589 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/hugohe3/ppt-master" target="_blank">
-    
-
-
-      
-        hugohe3 /
-
-      ppt-master</a></p>
-				<p>
-      AI turns documents or topics into real, native PowerPoint decks—with native shapes, transitions and animations, data-backed charts and tables on demand, audio narration from speaker notes, and support for your own .pptx templates. · by Hugo He
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 51379</span>
-						<span>🔱 4112</span>
-					</div>
-				<div class="stars-today">⭐ 349 stars today</div>
 				</div>
 			</div>
 	
