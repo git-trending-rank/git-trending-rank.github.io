@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2026年第36周
-date: 2026-09-02T06:27:40Z
+date: 2026-09-02T12:17:44Z
 categories:
 - weekly
 keywords:
@@ -14,6 +14,28 @@ keywords:
 	<main class="container">
         <div class="repo-list" id="repoList">
 
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/bilawalsidhu/gods-eye-view" target="_blank">
+    
+
+
+      
+        bilawalsidhu /
+
+      gods-eye-view</a></p>
+				<p>
+      A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 JavaScript</span>
+						<span>⭐ 15546</span>
+						<span>🔱 3127</span>
+					</div>
+				<div class="stars-today">⭐ 12042 stars this week</div>
+				</div>
+			</div>
 	
 			<div class="repo-card">
 				<p><a href="https://github.com/tt-a1i/archify" target="_blank">
@@ -30,54 +52,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 JavaScript</span>
-						<span>⭐ 42502</span>
-						<span>🔱 2715</span>
+						<span>⭐ 43125</span>
+						<span>🔱 2754</span>
 					</div>
 				<div class="stars-today">⭐ 25469 stars this week</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/anthropics/claude-plugins-community" target="_blank">
+				<p><a href="https://github.com/zedeus/nitter" target="_blank">
     
 
 
       
-        anthropics /
+        zedeus /
 
-      claude-plugins-community</a></p>
+      nitter</a></p>
 				<p>
-      Community plugin marketplace for Claude Cowork and Claude Code. Read-only mirror — submit plugins at clau.de/plugin-directory-submission.
+      Alternative Twitter front-end
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 3202</span>
-						<span>🔱 250</span>
+						<span>🔠 Nim</span>
+						<span>⭐ 14066</span>
+						<span>🔱 1284</span>
 					</div>
-				<div class="stars-today">⭐ 1634 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/cursor/plugins" target="_blank">
-    
-
-
-      
-        cursor /
-
-      plugins</a></p>
-				<p>
-      Cursor plugin specification and official plugins
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 6566</span>
-						<span>🔱 542</span>
-					</div>
-				<div class="stars-today">⭐ 1377 stars this week</div>
+				<div class="stars-today">⭐ 561 stars this week</div>
 				</div>
 			</div>
 	
@@ -96,8 +96,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 29852</span>
-						<span>🔱 5005</span>
+						<span>⭐ 30228</span>
+						<span>🔱 5052</span>
 					</div>
 				<div class="stars-today">⭐ 8014 stars this week</div>
 				</div>
@@ -118,8 +118,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 JavaScript</span>
-						<span>⭐ 27099</span>
-						<span>🔱 2633</span>
+						<span>⭐ 27251</span>
+						<span>🔱 2643</span>
 					</div>
 				<div class="stars-today">⭐ 10669 stars this week</div>
 				</div>
@@ -140,32 +140,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Shell</span>
-						<span>⭐ 36978</span>
-						<span>🔱 3855</span>
+						<span>⭐ 37117</span>
+						<span>🔱 3870</span>
 					</div>
 				<div class="stars-today">⭐ 6006 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/tashfeenahmed/freellmapi" target="_blank">
-    
-
-
-      
-        tashfeenahmed /
-
-      freellmapi</a></p>
-				<p>
-      7.4 billion tokens per month. 34 free LLM providers. 635 free model endpoints. All behind one /v1 endpoint, plus any custom OpenAI-compatible endpoint. Smart routing, automatic failover, encrypted keys. Personal experimentation only.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 23678</span>
-						<span>🔱 3239</span>
-					</div>
-				<div class="stars-today">⭐ 3452 stars this week</div>
 				</div>
 			</div>
 	
@@ -184,32 +162,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 41749</span>
-						<span>🔱 3838</span>
+						<span>⭐ 41980</span>
+						<span>🔱 3862</span>
 					</div>
 				<div class="stars-today">⭐ 6962 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/rohitg00/ai-engineering-from-scratch" target="_blank">
-    
-
-
-      
-        rohitg00 /
-
-      ai-engineering-from-scratch</a></p>
-				<p>
-      Learn it. Build it. Ship it for others.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 51898</span>
-						<span>🔱 8988</span>
-					</div>
-				<div class="stars-today">⭐ 3427 stars this week</div>
 				</div>
 			</div>
 	
@@ -228,10 +184,98 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 16200</span>
-						<span>🔱 1968</span>
+						<span>⭐ 16266</span>
+						<span>🔱 1984</span>
 					</div>
 				<div class="stars-today">⭐ 2625 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/jingyaogong/minimind" target="_blank">
+    
+
+
+      
+        jingyaogong /
+
+      minimind</a></p>
+				<p>
+      🧠 Train a 64M-parameter LLM from scratch in just 2h!
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 57606</span>
+						<span>🔱 7493</span>
+					</div>
+				<div class="stars-today">⭐ 1949 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/anthropics/claude-plugins-community" target="_blank">
+    
+
+
+      
+        anthropics /
+
+      claude-plugins-community</a></p>
+				<p>
+      Community plugin marketplace for Claude Cowork and Claude Code. Read-only mirror — submit plugins at clau.de/plugin-directory-submission.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 3233</span>
+						<span>🔱 249</span>
+					</div>
+				<div class="stars-today">⭐ 1634 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/tashfeenahmed/freellmapi" target="_blank">
+    
+
+
+      
+        tashfeenahmed /
+
+      freellmapi</a></p>
+				<p>
+      7.4 billion tokens per month. 34 free LLM providers. 635 free model endpoints. All behind one /v1 endpoint, plus any custom OpenAI-compatible endpoint. Smart routing, automatic failover, encrypted keys. Personal experimentation only.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 23768</span>
+						<span>🔱 3248</span>
+					</div>
+				<div class="stars-today">⭐ 3452 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/cursor/plugins" target="_blank">
+    
+
+
+      
+        cursor /
+
+      plugins</a></p>
+				<p>
+      Cursor plugin specification and official plugins
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 6603</span>
+						<span>🔱 546</span>
+					</div>
+				<div class="stars-today">⭐ 1377 stars this week</div>
 				</div>
 			</div>
 	
@@ -250,10 +294,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 30056</span>
-						<span>🔱 3307</span>
+						<span>⭐ 30104</span>
+						<span>🔱 3310</span>
 					</div>
 				<div class="stars-today">⭐ 1874 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/rohitg00/ai-engineering-from-scratch" target="_blank">
+    
+
+
+      
+        rohitg00 /
+
+      ai-engineering-from-scratch</a></p>
+				<p>
+      Learn it. Build it. Ship it for others.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 51978</span>
+						<span>🔱 9001</span>
+					</div>
+				<div class="stars-today">⭐ 3427 stars this week</div>
 				</div>
 			</div>
 	
@@ -272,98 +338,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 77045</span>
-						<span>🔱 9388</span>
+						<span>⭐ 77111</span>
+						<span>🔱 9394</span>
 					</div>
 				<div class="stars-today">⭐ 2485 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/OpenCut-app/OpenCut" target="_blank">
-    
-
-
-      
-        OpenCut-app /
-
-      OpenCut</a></p>
-				<p>
-      The open-source CapCut alternative
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 88399</span>
-						<span>🔱 8718</span>
-					</div>
-				<div class="stars-today">⭐ 2630 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/MadsLorentzen/ai-job-search" target="_blank">
-    
-
-
-      
-        MadsLorentzen /
-
-      ai-job-search</a></p>
-				<p>
-      The job search that runs on your machine. AI job application framework built on Claude Code: evaluate postings, tailor CVs, write cover letters, prep interviews. Fork it and own it.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 39940</span>
-						<span>🔱 13550</span>
-					</div>
-				<div class="stars-today">⭐ 4841 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/AprilNEA/OpenLogi" target="_blank">
-    
-
-
-      
-        AprilNEA /
-
-      OpenLogi</a></p>
-				<p>
-      ⚡️A native, local-first alternative to Logitech Options+, written in Rust 🦀 — remap buttons, DPI, and SmartShift over HID++. No account, no telemetry.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Rust</span>
-						<span>⭐ 18445</span>
-						<span>🔱 550</span>
-					</div>
-				<div class="stars-today">⭐ 2089 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/ConardLi/garden-skills" target="_blank">
-    
-
-
-      
-        ConardLi /
-
-      garden-skills</a></p>
-				<p>
-      ConardLi's open-source Skills collection, featuring web design, knowledge retrieval, image generation, and more.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 CSS</span>
-						<span>⭐ 12039</span>
-						<span>🔱 1470</span>
-					</div>
-				<div class="stars-today">⭐ 1340 stars this week</div>
 				</div>
 			</div>
 	
@@ -382,10 +360,54 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 C++</span>
-						<span>⭐ 39445</span>
-						<span>🔱 10885</span>
+						<span>⭐ 39455</span>
+						<span>🔱 10886</span>
 					</div>
 				<div class="stars-today">⭐ 492 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/calesthio/OpenMontage" target="_blank">
+    
+
+
+      
+        calesthio /
+
+      OpenMontage</a></p>
+				<p>
+      World's first open-source, agentic video production system. 12 production pipelines, 100+ tools, 700+ agent skill and production-knowledge files. Turn your AI coding assistant into a full video production studio.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 55515</span>
+						<span>🔱 6939</span>
+					</div>
+				<div class="stars-today">⭐ 5232 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/colinhacks/zod" target="_blank">
+    
+
+
+      
+        colinhacks /
+
+      zod</a></p>
+				<p>
+      TypeScript-first schema validation with static type inference
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 43759</span>
+						<span>🔱 2166</span>
+					</div>
+				<div class="stars-today">⭐ 238 stars this week</div>
 				</div>
 			</div>
 	
@@ -404,54 +426,54 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 </span>
-						<span>⭐ 93747</span>
-						<span>🔱 15451</span>
+						<span>⭐ 93789</span>
+						<span>🔱 15471</span>
 					</div>
 				<div class="stars-today">⭐ 919 stars this week</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/apache/maka" target="_blank">
+				<p><a href="https://github.com/MadsLorentzen/ai-job-search" target="_blank">
     
 
 
       
-        apache /
+        MadsLorentzen /
 
-      maka</a></p>
+      ai-job-search</a></p>
 				<p>
-      Apache Maka (Incubating) is a local-first AI agent workspace. Model messages, tool calls, tool results, permission decisions, and termination events are recorded as an append-only log.
+      The job search that runs on your machine. AI job application framework built on Claude Code: evaluate postings, tailor CVs, write cover letters, prep interviews. Fork it and own it.
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 4476</span>
-						<span>🔱 416</span>
+						<span>🔠 Python</span>
+						<span>⭐ 40083</span>
+						<span>🔱 13587</span>
 					</div>
-				<div class="stars-today">⭐ 1285 stars this week</div>
+				<div class="stars-today">⭐ 4841 stars this week</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/thedotmack/claude-mem" target="_blank">
+				<p><a href="https://github.com/google-research/timesfm" target="_blank">
     
 
 
       
-        thedotmack /
+        google-research /
 
-      claude-mem</a></p>
+      timesfm</a></p>
 				<p>
-      Persistent Context Across Sessions for Every Agent – Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More
+      TimesFM (Time Series Foundation Model) is a pretrained time-series foundation model developed by Google Research for time-series forecasting.
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 JavaScript</span>
-						<span>⭐ 92955</span>
-						<span>🔱 8177</span>
+						<span>🔠 Python</span>
+						<span>⭐ 28950</span>
+						<span>🔱 2821</span>
 					</div>
-				<div class="stars-today">⭐ 1164 stars this week</div>
+				<div class="stars-today">⭐ 681 stars this week</div>
 				</div>
 			</div>
 	

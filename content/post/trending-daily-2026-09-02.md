@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2026-09-02
-date: 2026-09-02T06:27:40Z
+date: 2026-09-02T12:17:44Z
 categories:
 - daily
 keywords:
@@ -16,24 +16,200 @@ keywords:
 
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/Gitlawb/openclaude" target="_blank">
+				<p><a href="https://github.com/fmtlib/fmt" target="_blank">
     
 
 
       
-        Gitlawb /
+        fmtlib /
 
-      openclaude</a></p>
+      fmt</a></p>
 				<p>
-      runs anywhere. uses anything
+      A modern formatting library
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 C++</span>
+						<span>⭐ 23784</span>
+						<span>🔱 2967</span>
+					</div>
+				<div class="stars-today">⭐ 3 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/google-research/timesfm" target="_blank">
+    
+
+
+      
+        google-research /
+
+      timesfm</a></p>
+				<p>
+      TimesFM (Time Series Foundation Model) is a pretrained time-series foundation model developed by Google Research for time-series forecasting.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 28950</span>
+						<span>🔱 2821</span>
+					</div>
+				<div class="stars-today">⭐ 326 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/DietrichGebert/ponytail" target="_blank">
+    
+
+
+      
+        DietrichGebert /
+
+      ponytail</a></p>
+				<p>
+      Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 JavaScript</span>
+						<span>⭐ 120657</span>
+						<span>🔱 6529</span>
+					</div>
+				<div class="stars-today">⭐ 1364 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/sngyai/Sequoia-X" target="_blank">
+    
+
+
+      
+        sngyai /
+
+      Sequoia-X</a></p>
+				<p>
+      A股自动选股系统 — 多种技术形态自动扫描，收盘后自动运行并推送飞书
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 5899</span>
+						<span>🔱 1236</span>
+					</div>
+				<div class="stars-today">⭐ 195 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/ChromeDevTools/chrome-devtools-mcp" target="_blank">
+    
+
+
+      
+        ChromeDevTools /
+
+      chrome-devtools-mcp</a></p>
+				<p>
+      Chrome DevTools for coding agents
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 31537</span>
-						<span>🔱 8968</span>
+						<span>⭐ 50507</span>
+						<span>🔱 3551</span>
 					</div>
-				<div class="stars-today">⭐ 80 stars today</div>
+				<div class="stars-today">⭐ 140 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/NousResearch/hermes-agent" target="_blank">
+    
+
+
+      
+        NousResearch /
+
+      hermes-agent</a></p>
+				<p>
+      The agent that grows with you
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 239780</span>
+						<span>🔱 49029</span>
+					</div>
+				<div class="stars-today">⭐ 529 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/superlinked/sie" target="_blank">
+    
+
+
+      
+        superlinked /
+
+      sie</a></p>
+				<p>
+      Open-source inference server and production cluster for all the models your agent needs.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 2958</span>
+						<span>🔱 297</span>
+					</div>
+				<div class="stars-today">⭐ 61 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/pacifio/atlas" target="_blank">
+    
+
+
+      
+        pacifio /
+
+      atlas</a></p>
+				<p>
+      Source control for agents. Use multiple coding agents, track their changes and query them in one place
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Rust</span>
+						<span>⭐ 2640</span>
+						<span>🔱 181</span>
+					</div>
+				<div class="stars-today">⭐ 895 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/zyronon/TypeWords" target="_blank">
+    
+
+
+      
+        zyronon /
+
+      TypeWords</a></p>
+				<p>
+      Practice English, one strike, one step forward; 练习英语，一次敲击，一点进步；
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Vue</span>
+						<span>⭐ 9197</span>
+						<span>🔱 1119</span>
+					</div>
+				<div class="stars-today">⭐ 68 stars today</div>
 				</div>
 			</div>
 	
@@ -52,230 +228,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 45139</span>
-						<span>🔱 3559</span>
+						<span>⭐ 45354</span>
+						<span>🔱 3573</span>
 					</div>
-				<div class="stars-today">⭐ 193 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/THU-MAIC/OpenMAIC" target="_blank">
-    
-
-
-      
-        THU-MAIC /
-
-      OpenMAIC</a></p>
-				<p>
-      Open Multi-Agent Interactive Classroom — Get an immersive, multi-agent learning experience in just one click
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 29852</span>
-						<span>🔱 5005</span>
-					</div>
-				<div class="stars-today">⭐ 3128 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/iv-org/invidious" target="_blank">
-    
-
-
-      
-        iv-org /
-
-      invidious</a></p>
-				<p>
-      Invidious is an alternative front-end to YouTube
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Crystal</span>
-						<span>⭐ 23856</span>
-						<span>🔱 2676</span>
-					</div>
-				<div class="stars-today">⭐ 577 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/jingyaogong/minimind" target="_blank">
-    
-
-
-      
-        jingyaogong /
-
-      minimind</a></p>
-				<p>
-      🧠 Train a 64M-parameter LLM from scratch in just 2h!
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 57341</span>
-						<span>🔱 7456</span>
-					</div>
-				<div class="stars-today">⭐ 1005 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/3b1b/manim" target="_blank">
-    
-
-
-      
-        3b1b /
-
-      manim</a></p>
-				<p>
-      Animation engine for explanatory math videos
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 92679</span>
-						<span>🔱 7625</span>
-					</div>
-				<div class="stars-today">⭐ 86 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/firecrawl/pdf-inspector" target="_blank">
-    
-
-
-      
-        firecrawl /
-
-      pdf-inspector</a></p>
-				<p>
-      Fast Rust library for PDF inspection, classification, and text extraction. Intelligently detects scanned vs text-based PDFs to enable smart routing decisions.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Rust</span>
-						<span>⭐ 18107</span>
-						<span>🔱 1232</span>
-					</div>
-				<div class="stars-today">⭐ 541 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/browser-use/video-use" target="_blank">
-    
-
-
-      
-        browser-use /
-
-      video-use</a></p>
-				<p>
-      Edit videos with coding agents
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 23156</span>
-						<span>🔱 2823</span>
-					</div>
-				<div class="stars-today">⭐ 472 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/K-Dense-AI/scientific-agent-skills" target="_blank">
-    
-
-
-      
-        K-Dense-AI /
-
-      scientific-agent-skills</a></p>
-				<p>
-      Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 190,000+ scientists worldwide. 165 ready-to-use validated skills plus 100+ scientific databases covering biology, chemistry, medicine, and drug discovery. Compatible with Cursor, Claude Code, Codex, Pi, Antigravity, and the open Agent Skills standard.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 41749</span>
-						<span>🔱 3838</span>
-					</div>
-				<div class="stars-today">⭐ 912 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/handsomestWei/patent-disclosure-skill" target="_blank">
-    
-
-
-      
-        handsomestWei /
-
-      patent-disclosure-skill</a></p>
-				<p>
-      中国专利.skill：专利点挖掘与交底书（发明/实用/外观）编写，通俗解读专利，嗅探政策动向，辅助审查答复。
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 6876</span>
-						<span>🔱 767</span>
-					</div>
-				<div class="stars-today">⭐ 501 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/VoltAgent/awesome-design-md" target="_blank">
-    
-
-
-      
-        VoltAgent /
-
-      awesome-design-md</a></p>
-				<p>
-      A collection of DESIGN.md files analysis by popular brand design systems. Drop one into your project and let coding agents generate a matching UI.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 </span>
-						<span>⭐ 113116</span>
-						<span>🔱 12803</span>
-					</div>
-				<div class="stars-today">⭐ 323 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/averygan/reclip" target="_blank">
-    
-
-
-      
-        averygan /
-
-      reclip</a></p>
-				<p>
-      Download videos from almost any website. Lightweight, self-hosted media downloader with a clean web UI.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 HTML</span>
-						<span>⭐ 7877</span>
-						<span>🔱 1331</span>
-					</div>
-				<div class="stars-today">⭐ 56 stars today</div>
+				<div class="stars-today">⭐ 801 stars today</div>
 				</div>
 			</div>
 	
@@ -294,32 +250,186 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 JavaScript</span>
-						<span>⭐ 245863</span>
-						<span>🔱 37103</span>
+						<span>⭐ 245996</span>
+						<span>🔱 37111</span>
 					</div>
-				<div class="stars-today">⭐ 623 stars today</div>
+				<div class="stars-today">⭐ 516 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/unclecode/crawl4ai" target="_blank">
+				<p><a href="https://github.com/protocolbuffers/protobuf" target="_blank">
     
 
 
       
-        unclecode /
+        protocolbuffers /
 
-      crawl4ai</a></p>
+      protobuf</a></p>
 				<p>
-      🚀🤖 Crawl4AI: Open-source LLM Friendly Web Crawler & Scraper. Don't be shy, join here: https://discord.gg/jP8KfhDhyN
+      Protocol Buffers - Google's data interchange format
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 C++</span>
+						<span>⭐ 71880</span>
+						<span>🔱 16271</span>
+					</div>
+				<div class="stars-today">⭐ 16 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/vercel-labs/portless" target="_blank">
+    
+
+
+      
+        vercel-labs /
+
+      portless</a></p>
+				<p>
+      Replace port numbers with stable, named local URLs. For humans and agents.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 11500</span>
+						<span>🔱 378</span>
+					</div>
+				<div class="stars-today">⭐ 69 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/blader/humanizer" target="_blank">
+    
+
+
+      
+        blader /
+
+      humanizer</a></p>
+				<p>
+      Agent skill that removes signs of AI-generated writing from text
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 80962</span>
-						<span>🔱 8364</span>
+						<span>⭐ 39827</span>
+						<span>🔱 3477</span>
 					</div>
-				<div class="stars-today">⭐ 145 stars today</div>
+				<div class="stars-today">⭐ 366 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/JuliusBrussee/caveman" target="_blank">
+    
+
+
+      
+        JuliusBrussee /
+
+      caveman</a></p>
+				<p>
+      🪨 why use many token when few token do trick — Claude Code skill that cuts 65% of tokens by talking like caveman
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Go</span>
+						<span>⭐ 102378</span>
+						<span>🔱 5960</span>
+					</div>
+				<div class="stars-today">⭐ 234 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/mattpocock/skills" target="_blank">
+    
+
+
+      
+        mattpocock /
+
+      skills</a></p>
+				<p>
+      Skills for Real Engineers. Straight from my .agents directory.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Shell</span>
+						<span>⭐ 244615</span>
+						<span>🔱 20800</span>
+					</div>
+				<div class="stars-today">⭐ 1103 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/Gitlawb/openclaude" target="_blank">
+    
+
+
+      
+        Gitlawb /
+
+      openclaude</a></p>
+				<p>
+      runs anywhere. uses anything
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 31753</span>
+						<span>🔱 8985</span>
+					</div>
+				<div class="stars-today">⭐ 776 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/firecrawl/pdf-inspector" target="_blank">
+    
+
+
+      
+        firecrawl /
+
+      pdf-inspector</a></p>
+				<p>
+      Fast Rust library for PDF inspection, classification, and text extraction. Intelligently detects scanned vs text-based PDFs to enable smart routing decisions.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Rust</span>
+						<span>⭐ 18260</span>
+						<span>🔱 1237</span>
+					</div>
+				<div class="stars-today">⭐ 589 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/hugohe3/ppt-master" target="_blank">
+    
+
+
+      
+        hugohe3 /
+
+      ppt-master</a></p>
+				<p>
+      AI turns documents or topics into real, native PowerPoint decks—with native shapes, transitions and animations, data-backed charts and tables on demand, audio narration from speaker notes, and support for your own .pptx templates. · by Hugo He
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 51379</span>
+						<span>🔱 4112</span>
+					</div>
+				<div class="stars-today">⭐ 349 stars today</div>
 				</div>
 			</div>
 	
