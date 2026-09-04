@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2026年第36周
-date: 2026-09-04T06:33:52Z
+date: 2026-09-04T12:16:34Z
 categories:
 - weekly
 keywords:
@@ -30,32 +30,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 JavaScript</span>
-						<span>⭐ 46491</span>
-						<span>🔱 2988</span>
+						<span>⭐ 47099</span>
+						<span>🔱 3040</span>
 					</div>
 				<div class="stars-today">⭐ 24227 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/bilawalsidhu/gods-eye-view" target="_blank">
-    
-
-
-      
-        bilawalsidhu /
-
-      gods-eye-view</a></p>
-				<p>
-      A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 JavaScript</span>
-						<span>⭐ 17078</span>
-						<span>🔱 3439</span>
-					</div>
-				<div class="stars-today">⭐ 10485 stars this week</div>
 				</div>
 			</div>
 	
@@ -74,32 +52,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 31185</span>
-						<span>🔱 5151</span>
+						<span>⭐ 31306</span>
+						<span>🔱 5164</span>
 					</div>
 				<div class="stars-today">⭐ 10023 stars this week</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/JetBrains/go-modern-guidelines" target="_blank">
+				<p><a href="https://github.com/bilawalsidhu/gods-eye-view" target="_blank">
     
 
 
       
-        JetBrains /
+        bilawalsidhu /
 
-      go-modern-guidelines</a></p>
+      gods-eye-view</a></p>
 				<p>
-      Help AI coding agents write modern Go
+      A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe.
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Go</span>
-						<span>⭐ 3126</span>
-						<span>🔱 87</span>
+						<span>🔠 JavaScript</span>
+						<span>⭐ 17234</span>
+						<span>🔱 3472</span>
 					</div>
-				<div class="stars-today">⭐ 1213 stars this week</div>
+				<div class="stars-today">⭐ 10485 stars this week</div>
 				</div>
 			</div>
 	
@@ -118,98 +96,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 32418</span>
-						<span>🔱 9025</span>
+						<span>⭐ 32495</span>
+						<span>🔱 9030</span>
 					</div>
 				<div class="stars-today">⭐ 1389 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/K-Dense-AI/scientific-agent-skills" target="_blank">
-    
-
-
-      
-        K-Dense-AI /
-
-      scientific-agent-skills</a></p>
-				<p>
-      Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 190,000+ scientists worldwide. 165 ready-to-use validated skills plus 100+ scientific databases covering biology, chemistry, medicine, and drug discovery. Compatible with Cursor, Claude Code, Codex, Pi, Antigravity, and the open Agent Skills standard.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 42457</span>
-						<span>🔱 3890</span>
-					</div>
-				<div class="stars-today">⭐ 7370 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/jingyaogong/minimind" target="_blank">
-    
-
-
-      
-        jingyaogong /
-
-      minimind</a></p>
-				<p>
-      🧠 Train a 64M-parameter LLM from scratch in just 2h!
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 58327</span>
-						<span>🔱 7578</span>
-					</div>
-				<div class="stars-today">⭐ 3122 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/every-app/open-seo" target="_blank">
-    
-
-
-      
-        every-app /
-
-      open-seo</a></p>
-				<p>
-      Open source alternative to Semrush and Ahrefs
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 16755</span>
-						<span>🔱 2071</span>
-					</div>
-				<div class="stars-today">⭐ 2941 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/omacom/omarchy" target="_blank">
-    
-
-
-      
-        omacom /
-
-      omarchy</a></p>
-				<p>
-      Beautiful, Modern & Opinionated Linux
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Shell</span>
-						<span>⭐ 37802</span>
-						<span>🔱 3987</span>
-					</div>
-				<div class="stars-today">⭐ 5296 stars this week</div>
 				</div>
 			</div>
 	
@@ -228,10 +118,118 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 30795</span>
-						<span>🔱 2940</span>
+						<span>⭐ 30887</span>
+						<span>🔱 2945</span>
 					</div>
 				<div class="stars-today">⭐ 2324 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/jingyaogong/minimind" target="_blank">
+    
+
+
+      
+        jingyaogong /
+
+      minimind</a></p>
+				<p>
+      🧠 Train a 64M-parameter LLM from scratch in just 2h!
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 58414</span>
+						<span>🔱 7592</span>
+					</div>
+				<div class="stars-today">⭐ 3122 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/K-Dense-AI/scientific-agent-skills" target="_blank">
+    
+
+
+      
+        K-Dense-AI /
+
+      scientific-agent-skills</a></p>
+				<p>
+      Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 190,000+ scientists worldwide. 165 ready-to-use validated skills plus 100+ scientific databases covering biology, chemistry, medicine, and drug discovery. Compatible with Cursor, Claude Code, Codex, Pi, Antigravity, and the open Agent Skills standard.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 42527</span>
+						<span>🔱 3892</span>
+					</div>
+				<div class="stars-today">⭐ 7370 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/Lakr233/vphone-cli" target="_blank">
+    
+
+
+      
+        Lakr233 /
+
+      vphone-cli</a></p>
+				<p></p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Swift</span>
+						<span>⭐ 10407</span>
+						<span>🔱 1346</span>
+					</div>
+				<div class="stars-today">⭐ 2137 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/fmtlib/fmt" target="_blank">
+    
+
+
+      
+        fmtlib /
+
+      fmt</a></p>
+				<p>
+      A modern formatting library
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 C++</span>
+						<span>⭐ 25402</span>
+						<span>🔱 3026</span>
+					</div>
+				<div class="stars-today">⭐ 993 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/every-app/open-seo" target="_blank">
+    
+
+
+      
+        every-app /
+
+      open-seo</a></p>
+				<p>
+      Open source alternative to Semrush and Ahrefs
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 16846</span>
+						<span>🔱 2086</span>
+					</div>
+				<div class="stars-today">⭐ 2941 stars this week</div>
 				</div>
 			</div>
 	
@@ -250,76 +248,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 30348</span>
-						<span>🔱 3357</span>
+						<span>⭐ 30385</span>
+						<span>🔱 3362</span>
 					</div>
 				<div class="stars-today">⭐ 2146 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/freestylefly/awesome-gpt-image-2" target="_blank">
-    
-
-
-      
-        freestylefly /
-
-      awesome-gpt-image-2</a></p>
-				<p>
-      Prompt as Code | GPT-Image2 工业级提示词引擎与模板库，530+ 个案例逆向工程，20+ 套工业级模板，并提炼出Skills，持续更新中
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 JavaScript</span>
-						<span>⭐ 27836</span>
-						<span>🔱 2685</span>
-					</div>
-				<div class="stars-today">⭐ 5425 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/cursor/plugins" target="_blank">
-    
-
-
-      
-        cursor /
-
-      plugins</a></p>
-				<p>
-      Cursor plugin specification and official plugins
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 6806</span>
-						<span>🔱 558</span>
-					</div>
-				<div class="stars-today">⭐ 1159 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/abi/screenshot-to-code" target="_blank">
-    
-
-
-      
-        abi /
-
-      screenshot-to-code</a></p>
-				<p>
-      Drop in a screenshot and convert it to clean code (HTML/Tailwind/React/Vue)
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 77503</span>
-						<span>🔱 9438</span>
-					</div>
-				<div class="stars-today">⭐ 2412 stars this week</div>
 				</div>
 			</div>
 	
@@ -338,54 +270,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 43822</span>
-						<span>🔱 2173</span>
+						<span>⭐ 43826</span>
+						<span>🔱 2172</span>
 					</div>
 				<div class="stars-today">⭐ 277 stars this week</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/zedeus/nitter" target="_blank">
+				<p><a href="https://github.com/handsomestWei/patent-disclosure-skill" target="_blank">
     
 
 
       
-        zedeus /
+        handsomestWei /
 
-      nitter</a></p>
+      patent-disclosure-skill</a></p>
 				<p>
-      Alternative Twitter front-end
+      中国专利.skill：专利点挖掘与交底书（发明/实用/外观）编写，通俗解读专利，嗅探政策动向，辅助审查答复。
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Nim</span>
-						<span>⭐ 14099</span>
-						<span>🔱 1296</span>
+						<span>🔠 Python</span>
+						<span>⭐ 7321</span>
+						<span>🔱 806</span>
 					</div>
-				<div class="stars-today">⭐ 467 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/tashfeenahmed/freellmapi" target="_blank">
-    
-
-
-      
-        tashfeenahmed /
-
-      freellmapi</a></p>
-				<p>
-      7.4 billion tokens per month. 34 free LLM providers. 635 free model endpoints. All behind one /v1 endpoint, plus any custom OpenAI-compatible endpoint. Smart routing, automatic failover, encrypted keys. Personal experimentation only.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 24170</span>
-						<span>🔱 3289</span>
-					</div>
-				<div class="stars-today">⭐ 3194 stars this week</div>
+				<div class="stars-today">⭐ 1846 stars this week</div>
 				</div>
 			</div>
 	
@@ -404,8 +314,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 16634</span>
-						<span>🔱 2233</span>
+						<span>⭐ 17000</span>
+						<span>🔱 2248</span>
 					</div>
 				<div class="stars-today">⭐ 3902 stars this week</div>
 				</div>
@@ -426,54 +336,54 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 </span>
-						<span>⭐ 94044</span>
-						<span>🔱 15594</span>
+						<span>⭐ 94079</span>
+						<span>🔱 15610</span>
 					</div>
 				<div class="stars-today">⭐ 1130 stars this week</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/handsomestWei/patent-disclosure-skill" target="_blank">
+				<p><a href="https://github.com/abi/screenshot-to-code" target="_blank">
     
 
 
       
-        handsomestWei /
+        abi /
 
-      patent-disclosure-skill</a></p>
+      screenshot-to-code</a></p>
 				<p>
-      中国专利.skill：专利点挖掘与交底书（发明/实用/外观）编写，通俗解读专利，嗅探政策动向，辅助审查答复。
+      Drop in a screenshot and convert it to clean code (HTML/Tailwind/React/Vue)
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 7269</span>
-						<span>🔱 799</span>
+						<span>⭐ 77570</span>
+						<span>🔱 9441</span>
 					</div>
-				<div class="stars-today">⭐ 1846 stars this week</div>
+				<div class="stars-today">⭐ 2412 stars this week</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/rohitg00/ai-engineering-from-scratch" target="_blank">
+				<p><a href="https://github.com/ChromeDevTools/chrome-devtools-mcp" target="_blank">
     
 
 
       
-        rohitg00 /
+        ChromeDevTools /
 
-      ai-engineering-from-scratch</a></p>
+      chrome-devtools-mcp</a></p>
 				<p>
-      Learn it. Build it. Ship it for others.
+      Chrome DevTools for coding agents
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 52334</span>
-						<span>🔱 9061</span>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 50885</span>
+						<span>🔱 3568</span>
 					</div>
-				<div class="stars-today">⭐ 2525 stars this week</div>
+				<div class="stars-today">⭐ 1058 stars this week</div>
 				</div>
 			</div>
 	
@@ -492,7 +402,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Go</span>
-						<span>⭐ 10820</span>
+						<span>⭐ 10835</span>
 						<span>🔱 908</span>
 					</div>
 				<div class="stars-today">⭐ 847 stars this week</div>
@@ -500,24 +410,46 @@ keywords:
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/fmtlib/fmt" target="_blank">
+				<p><a href="https://github.com/MakazhanAlpamys/Soup" target="_blank">
     
 
 
       
-        fmtlib /
+        MakazhanAlpamys /
 
-      fmt</a></p>
+      Soup</a></p>
 				<p>
-      A modern formatting library
+      Fine-tune LLMs from one YAML. Layer streaming trains an 8B model on a 4 GB laptop GPU.
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 C++</span>
-						<span>⭐ 25243</span>
-						<span>🔱 3023</span>
+						<span>🔠 Python</span>
+						<span>⭐ 5204</span>
+						<span>🔱 778</span>
 					</div>
-				<div class="stars-today">⭐ 993 stars this week</div>
+				<div class="stars-today">⭐ 1812 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/OpenWhispr/openwhispr" target="_blank">
+    
+
+
+      
+        OpenWhispr /
+
+      openwhispr</a></p>
+				<p>
+      Voice-to-text dictation app with local (Nvidia Parakeet/Whisper) and cloud models (BYOK). Privacy-first and available cross-platform.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 JavaScript</span>
+						<span>⭐ 6579</span>
+						<span>🔱 894</span>
+					</div>
+				<div class="stars-today">⭐ 642 stars this week</div>
 				</div>
 			</div>
 	

@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2026年9月
-date: 2026-09-04T06:33:52Z
+date: 2026-09-04T12:16:34Z
 categories:
 - monthly
 keywords:
@@ -14,6 +14,28 @@ keywords:
 	<main class="container">
         <div class="repo-list" id="repoList">
 
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/cathrynlavery/diagram-design" target="_blank">
+    
+
+
+      
+        cathrynlavery /
+
+      diagram-design</a></p>
+				<p>
+      38 editorial diagram types for Claude Code, Codex, and Pi. Self-contained HTML + SVG. No shadows. No Mermaid slop.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 HTML</span>
+						<span>⭐ 30528</span>
+						<span>🔱 1963</span>
+					</div>
+				<div class="stars-today">⭐ 27488 stars this month</div>
+				</div>
+			</div>
 	
 			<div class="repo-card">
 				<p><a href="https://github.com/omacom/omarchy" target="_blank">
@@ -30,10 +52,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Shell</span>
-						<span>⭐ 37802</span>
-						<span>🔱 3987</span>
+						<span>⭐ 37885</span>
+						<span>🔱 3998</span>
 					</div>
 				<div class="stars-today">⭐ 13597 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/PrimeIntellect-ai/prime-agent" target="_blank">
+    
+
+
+      
+        PrimeIntellect-ai /
+
+      prime-agent</a></p>
+				<p>
+      A self-improving RLM agent for coding workflows and long-running autonomous tasks.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 19803</span>
+						<span>🔱 2171</span>
+					</div>
+				<div class="stars-today">⭐ 19906 stars this month</div>
 				</div>
 			</div>
 	
@@ -52,54 +96,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 11904</span>
-						<span>🔱 1343</span>
+						<span>⭐ 11945</span>
+						<span>🔱 1348</span>
 					</div>
 				<div class="stars-today">⭐ 10058 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/cursor/plugins" target="_blank">
-    
-
-
-      
-        cursor /
-
-      plugins</a></p>
-				<p>
-      Cursor plugin specification and official plugins
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 6806</span>
-						<span>🔱 558</span>
-					</div>
-				<div class="stars-today">⭐ 4258 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/cloudflare/cloudflare-os" target="_blank">
-    
-
-
-      
-        cloudflare /
-
-      cloudflare-os</a></p>
-				<p>
-      Agent workspace built on Cloudflare Workers for creating documents, building apps, and running agents with your company’s context and systems.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 9588</span>
-						<span>🔱 1126</span>
-					</div>
-				<div class="stars-today">⭐ 9562 stars this month</div>
 				</div>
 			</div>
 	
@@ -118,8 +118,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 JavaScript</span>
-						<span>⭐ 46491</span>
-						<span>🔱 2988</span>
+						<span>⭐ 47099</span>
+						<span>🔱 3040</span>
 					</div>
 				<div class="stars-today">⭐ 36689 stars this month</div>
 				</div>
@@ -140,7 +140,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 3371</span>
+						<span>⭐ 3385</span>
 						<span>🔱 258</span>
 					</div>
 				<div class="stars-today">⭐ 3067 stars this month</div>
@@ -162,8 +162,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Rust</span>
-						<span>⭐ 18989</span>
-						<span>🔱 572</span>
+						<span>⭐ 19097</span>
+						<span>🔱 574</span>
 					</div>
 				<div class="stars-today">⭐ 10662 stars this month</div>
 				</div>
@@ -184,32 +184,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 35400</span>
-						<span>🔱 2708</span>
+						<span>⭐ 35442</span>
+						<span>🔱 2709</span>
 					</div>
 				<div class="stars-today">⭐ 7659 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/freestylefly/awesome-gpt-image-2" target="_blank">
-    
-
-
-      
-        freestylefly /
-
-      awesome-gpt-image-2</a></p>
-				<p>
-      Prompt as Code | GPT-Image2 工业级提示词引擎与模板库，530+ 个案例逆向工程，20+ 套工业级模板，并提炼出Skills，持续更新中
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 JavaScript</span>
-						<span>⭐ 27836</span>
-						<span>🔱 2685</span>
-					</div>
-				<div class="stars-today">⭐ 19065 stars this month</div>
 				</div>
 			</div>
 	
@@ -228,10 +206,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 4951</span>
+						<span>⭐ 4964</span>
 						<span>🔱 654</span>
 					</div>
 				<div class="stars-today">⭐ 2456 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/freestylefly/awesome-gpt-image-2" target="_blank">
+    
+
+
+      
+        freestylefly /
+
+      awesome-gpt-image-2</a></p>
+				<p>
+      Prompt as Code | GPT-Image2 工业级提示词引擎与模板库，530+ 个案例逆向工程，20+ 套工业级模板，并提炼出Skills，持续更新中
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 JavaScript</span>
+						<span>⭐ 27952</span>
+						<span>🔱 2692</span>
+					</div>
+				<div class="stars-today">⭐ 19065 stars this month</div>
 				</div>
 			</div>
 	
@@ -250,10 +250,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Rust</span>
-						<span>⭐ 32609</span>
-						<span>🔱 5359</span>
+						<span>⭐ 32626</span>
+						<span>🔱 5358</span>
 					</div>
 				<div class="stars-today">⭐ 5828 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/cloudflare/cloudflare-os" target="_blank">
+    
+
+
+      
+        cloudflare /
+
+      cloudflare-os</a></p>
+				<p>
+      Agent workspace built on Cloudflare Workers for creating documents, building apps, and running agents with your company’s context and systems.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 9601</span>
+						<span>🔱 1129</span>
+					</div>
+				<div class="stars-today">⭐ 9562 stars this month</div>
 				</div>
 			</div>
 	
@@ -272,8 +294,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 31185</span>
-						<span>🔱 5151</span>
+						<span>⭐ 31306</span>
+						<span>🔱 5164</span>
 					</div>
 				<div class="stars-today">⭐ 10599 stars this month</div>
 				</div>
@@ -294,54 +316,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 10209</span>
-						<span>🔱 655</span>
+						<span>⭐ 10234</span>
+						<span>🔱 658</span>
 					</div>
 				<div class="stars-today">⭐ 6855 stars this month</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/apache/maka" target="_blank">
+				<p><a href="https://github.com/denoland/celld" target="_blank">
     
 
 
       
-        apache /
+        denoland /
 
-      maka</a></p>
+      celld</a></p>
 				<p>
-      Apache Maka (Incubating) is a local-first AI agent workspace. Model messages, tool calls, tool results, permission decisions, and termination events are recorded as an append-only log.
+      self-hosted, distributed Durable Objects
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 4664</span>
-						<span>🔱 440</span>
+						<span>🔠 Rust</span>
+						<span>⭐ 4464</span>
+						<span>🔱 156</span>
 					</div>
-				<div class="stars-today">⭐ 3545 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/TencentCloud/TencentDB-Agent-Memory" target="_blank">
-    
-
-
-      
-        TencentCloud /
-
-      TencentDB-Agent-Memory</a></p>
-				<p>
-      TencentDB Agent Memory is a team-level memory hub for AI Agents — turning conversations, docs, and code into four reusable memory assets (Chat Memory, Skill, LLM-Wiki, Code-Graph) that are governed, shared, and equipped across agents and frameworks.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 25880</span>
-						<span>🔱 2415</span>
-					</div>
-				<div class="stars-today">⭐ 14291 stars this month</div>
+				<div class="stars-today">⭐ 4425 stars this month</div>
 				</div>
 			</div>
 	
@@ -360,54 +360,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 2019</span>
-						<span>🔱 148</span>
+						<span>⭐ 2032</span>
+						<span>🔱 149</span>
 					</div>
 				<div class="stars-today">⭐ 870 stars this month</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/cloudflare/computer" target="_blank">
+				<p><a href="https://github.com/apache/maka" target="_blank">
     
 
 
       
-        cloudflare /
+        apache /
 
-      computer</a></p>
+      maka</a></p>
 				<p>
-      Give your agent a computer 👾
+      Apache Maka (Incubating) is a high-performance agent workspace that keeps a complete record of everything it did.
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 8997</span>
-						<span>🔱 502</span>
+						<span>⭐ 4682</span>
+						<span>🔱 445</span>
 					</div>
-				<div class="stars-today">⭐ 8938 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/google/skills" target="_blank">
-    
-
-
-      
-        google /
-
-      skills</a></p>
-				<p>
-      Agent Skills for Google products and technologies
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 19427</span>
-						<span>🔱 1560</span>
-					</div>
-				<div class="stars-today">⭐ 4004 stars this month</div>
+				<div class="stars-today">⭐ 3545 stars this month</div>
 				</div>
 			</div>
 	
@@ -426,32 +404,76 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Mojo</span>
-						<span>⭐ 29527</span>
-						<span>🔱 3145</span>
+						<span>⭐ 29535</span>
+						<span>🔱 3146</span>
 					</div>
 				<div class="stars-today">⭐ 2953 stars this month</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/huangruiteng/loopx" target="_blank">
+				<p><a href="https://github.com/3b1b/manim" target="_blank">
     
 
 
       
-        huangruiteng /
+        3b1b /
 
-      loopx</a></p>
+      manim</a></p>
 				<p>
-      Long-horizon agent control plane for durable, governed work across Codex, Claude Code, and other harnesses.
+      Animation engine for explanatory math videos
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 5578</span>
-						<span>🔱 497</span>
+						<span>⭐ 93020</span>
+						<span>🔱 7641</span>
 					</div>
-				<div class="stars-today">⭐ 4713 stars this month</div>
+				<div class="stars-today">⭐ 3988 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/akitaonrails/ai-memory" target="_blank">
+    
+
+
+      
+        akitaonrails /
+
+      ai-memory</a></p>
+				<p>
+      Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Rust</span>
+						<span>⭐ 5681</span>
+						<span>🔱 401</span>
+					</div>
+				<div class="stars-today">⭐ 4278 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/google/skills" target="_blank">
+    
+
+
+      
+        google /
+
+      skills</a></p>
+				<p>
+      Agent Skills for Google products and technologies
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 19455</span>
+						<span>🔱 1561</span>
+					</div>
+				<div class="stars-today">⭐ 4004 stars this month</div>
 				</div>
 			</div>
 	
