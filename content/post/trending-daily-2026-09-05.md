@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2026-09-05
-date: 2026-09-05T06:20:30Z
+date: 2026-09-05T11:24:01Z
 categories:
 - daily
 keywords:
@@ -30,54 +30,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Shell</span>
-						<span>⭐ 250812</span>
-						<span>🔱 21194</span>
+						<span>⭐ 251373</span>
+						<span>🔱 21235</span>
 					</div>
 				<div class="stars-today">⭐ 2758 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/DietrichGebert/ponytail" target="_blank">
-    
-
-
-      
-        DietrichGebert /
-
-      ponytail</a></p>
-				<p>
-      Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 JavaScript</span>
-						<span>⭐ 126569</span>
-						<span>🔱 6777</span>
-					</div>
-				<div class="stars-today">⭐ 1679 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/fmtlib/fmt" target="_blank">
-    
-
-
-      
-        fmtlib /
-
-      fmt</a></p>
-				<p>
-      A modern formatting library
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 C++</span>
-						<span>⭐ 25497</span>
-						<span>🔱 3035</span>
-					</div>
-				<div class="stars-today">⭐ 688 stars today</div>
 				</div>
 			</div>
 	
@@ -96,54 +52,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 JavaScript</span>
-						<span>⭐ 248737</span>
-						<span>🔱 37487</span>
+						<span>⭐ 249002</span>
+						<span>🔱 37528</span>
 					</div>
 				<div class="stars-today">⭐ 1135 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/anthropics/skills" target="_blank">
+				<p><a href="https://github.com/DietrichGebert/ponytail" target="_blank">
     
 
 
       
-        anthropics /
+        DietrichGebert /
 
-      skills</a></p>
+      ponytail</a></p>
 				<p>
-      Public repository for Agent Skills
+      Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 174233</span>
-						<span>🔱 20649</span>
+						<span>🔠 JavaScript</span>
+						<span>⭐ 127092</span>
+						<span>🔱 6808</span>
 					</div>
-				<div class="stars-today">⭐ 511 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/blader/humanizer" target="_blank">
-    
-
-
-      
-        blader /
-
-      humanizer</a></p>
-				<p>
-      Agent skill that removes signs of AI-generated writing from text
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 42908</span>
-						<span>🔱 3617</span>
-					</div>
-				<div class="stars-today">⭐ 1130 stars today</div>
+				<div class="stars-today">⭐ 1679 stars today</div>
 				</div>
 			</div>
 	
@@ -162,32 +96,206 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 241622</span>
-						<span>🔱 49597</span>
+						<span>⭐ 241722</span>
+						<span>🔱 49620</span>
 					</div>
 				<div class="stars-today">⭐ 720 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/JuliusBrussee/caveman" target="_blank">
+				<p><a href="https://github.com/fmtlib/fmt" target="_blank">
     
 
 
       
-        JuliusBrussee /
+        fmtlib /
 
-      caveman</a></p>
+      fmt</a></p>
 				<p>
-      🪨 why use many token when few token do trick — Claude Code skill that cuts 65% of tokens by talking like caveman
+      A modern formatting library
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Go</span>
-						<span>⭐ 103656</span>
-						<span>🔱 6008</span>
+						<span>🔠 C++</span>
+						<span>⭐ 25523</span>
+						<span>🔱 3037</span>
 					</div>
-				<div class="stars-today">⭐ 501 stars today</div>
+				<div class="stars-today">⭐ 688 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/anthropics/skills" target="_blank">
+    
+
+
+      
+        anthropics /
+
+      skills</a></p>
+				<p>
+      Public repository for Agent Skills
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 174340</span>
+						<span>🔱 20648</span>
+					</div>
+				<div class="stars-today">⭐ 511 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/cathrynlavery/diagram-design" target="_blank">
+    
+
+
+      
+        cathrynlavery /
+
+      diagram-design</a></p>
+				<p>
+      38 editorial diagram types for Claude Code, Codex, and Pi. Self-contained HTML + SVG. No shadows. No Mermaid slop.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 HTML</span>
+						<span>⭐ 31327</span>
+						<span>🔱 2020</span>
+					</div>
+				<div class="stars-today">⭐ 437 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/anomalyco/opencode" target="_blank">
+    
+
+
+      
+        anomalyco /
+
+      opencode</a></p>
+				<p>
+      The open source coding agent.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 204394</span>
+						<span>🔱 26660</span>
+					</div>
+				<div class="stars-today">⭐ 345 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/ruvnet/ruflo" target="_blank">
+    
+
+
+      
+        ruvnet /
+
+      ruflo</a></p>
+				<p>
+      🌊 The original agent meta-harness. Deploy intelligent multi-player swarms, coordinate autonomous workflows, and build conversational AI systems. Features adaptive memory, self-learning intelligence, RAG integration, and native Claude Code / Codex / Hermes and many more Integrated
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 70543</span>
+						<span>🔱 8404</span>
+					</div>
+				<div class="stars-today">⭐ 127 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/humanlayer/skills" target="_blank">
+    
+
+
+      
+        humanlayer /
+
+      skills</a></p>
+				<p></p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 2449</span>
+						<span>🔱 70</span>
+					</div>
+				<div class="stars-today">⭐ 1141 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/blader/humanizer" target="_blank">
+    
+
+
+      
+        blader /
+
+      humanizer</a></p>
+				<p>
+      Agent skill that removes signs of AI-generated writing from text
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 43086</span>
+						<span>🔱 3624</span>
+					</div>
+				<div class="stars-today">⭐ 1130 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/BraveOPotato/FckSignups" target="_blank">
+    
+
+
+      
+        BraveOPotato /
+
+      FckSignups</a></p>
+				<p>
+      A list of tools that are open-source, in-browser, and require no-signups!
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 2638</span>
+						<span>🔱 190</span>
+					</div>
+				<div class="stars-today">⭐ 50 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/WorldFlowAI/everything-claude-code" target="_blank">
+    
+
+
+      
+        WorldFlowAI /
+
+      everything-claude-code</a></p>
+				<p>
+      Claude Code toolkit - agents, commands, skills, rules, and hooks for productive AI-assisted development
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 JavaScript</span>
+						<span>⭐ 2152</span>
+						<span>🔱 352</span>
+					</div>
+				<div class="stars-today">⭐ 87 stars today</div>
 				</div>
 			</div>
 	
@@ -206,8 +314,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 2646</span>
-						<span>🔱 191</span>
+						<span>⭐ 2805</span>
+						<span>🔱 200</span>
 					</div>
 				<div class="stars-today">⭐ 391 stars today</div>
 				</div>
@@ -228,164 +336,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 4560</span>
-						<span>🔱 1245</span>
+						<span>⭐ 4604</span>
+						<span>🔱 1249</span>
 					</div>
 				<div class="stars-today">⭐ 74 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/bannedbook/fanqiang" target="_blank">
+				<p><a href="https://github.com/nvm-sh/nvm" target="_blank">
     
 
 
       
-        bannedbook /
+        nvm-sh /
 
-      fanqiang</a></p>
+      nvm</a></p>
 				<p>
-      翻墙-科学上网
+      Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions. $nvm: 3ArcxqLtXMmBnWbbtfwQgVL3MNnDsggzgGDtXMnjpump
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Kotlin</span>
-						<span>⭐ 52881</span>
-						<span>🔱 8532</span>
+						<span>🔠 Shell</span>
+						<span>⭐ 94840</span>
+						<span>🔱 10420</span>
 					</div>
-				<div class="stars-today">⭐ 730 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/debpalash/VoiceStudio" target="_blank">
-    
-
-
-      
-        debpalash /
-
-      VoiceStudio</a></p>
-				<p>
-      VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 18281</span>
-						<span>🔱 2380</span>
-					</div>
-				<div class="stars-today">⭐ 1345 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/google-research/timesfm" target="_blank">
-    
-
-
-      
-        google-research /
-
-      timesfm</a></p>
-				<p>
-      TimesFM (Time Series Foundation Model) is a pretrained time-series foundation model developed by Google Research for time-series forecasting.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 31125</span>
-						<span>🔱 2975</span>
-					</div>
-				<div class="stars-today">⭐ 342 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/radixark/miles" target="_blank">
-    
-
-
-      
-        radixark /
-
-      miles</a></p>
-				<p>
-      Miles is an enterprise-facing reinforcement learning framework for LLM and VLM post-training, forked from and co-evolving with slime.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 2591</span>
-						<span>🔱 446</span>
-					</div>
-				<div class="stars-today">⭐ 64 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/anomalyco/opencode" target="_blank">
-    
-
-
-      
-        anomalyco /
-
-      opencode</a></p>
-				<p>
-      The open source coding agent.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 204263</span>
-						<span>🔱 26649</span>
-					</div>
-				<div class="stars-today">⭐ 345 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/clshortfuse/renodx" target="_blank">
-    
-
-
-      
-        clshortfuse /
-
-      renodx</a></p>
-				<p>
-      Renovation Engine for DirectX Games
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 HLSL</span>
-						<span>⭐ 3570</span>
-						<span>🔱 140</span>
-					</div>
-				<div class="stars-today">⭐ 261 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/cathrynlavery/diagram-design" target="_blank">
-    
-
-
-      
-        cathrynlavery /
-
-      diagram-design</a></p>
-				<p>
-      38 editorial diagram types for Claude Code, Codex, and Pi. Self-contained HTML + SVG. No shadows. No Mermaid slop.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 HTML</span>
-						<span>⭐ 31140</span>
-						<span>🔱 2002</span>
-					</div>
-				<div class="stars-today">⭐ 437 stars today</div>
+				<div class="stars-today">⭐ 17 stars today</div>
 				</div>
 			</div>
 	
