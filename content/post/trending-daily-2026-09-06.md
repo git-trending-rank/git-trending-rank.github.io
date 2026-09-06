@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2026-09-06
-date: 2026-09-06T11:45:31Z
+date: 2026-09-06T14:25:59Z
 categories:
 - daily
 keywords:
@@ -14,28 +14,6 @@ keywords:
 	<main class="container">
         <div class="repo-list" id="repoList">
 
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/mattpocock/skills" target="_blank">
-    
-
-
-      
-        mattpocock /
-
-      skills</a></p>
-				<p>
-      Skills for Real Engineers. Straight from my .agents directory.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Shell</span>
-						<span>⭐ 253573</span>
-						<span>🔱 21395</span>
-					</div>
-				<div class="stars-today">⭐ 2692 stars today</div>
-				</div>
-			</div>
 	
 			<div class="repo-card">
 				<p><a href="https://github.com/affaan-m/ECC" target="_blank">
@@ -52,98 +30,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 JavaScript</span>
-						<span>⭐ 250456</span>
-						<span>🔱 37676</span>
+						<span>⭐ 250621</span>
+						<span>🔱 37700</span>
 					</div>
-				<div class="stars-today">⭐ 1314 stars today</div>
+				<div class="stars-today">⭐ 1486 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/DietrichGebert/ponytail" target="_blank">
+				<p><a href="https://github.com/mattpocock/skills" target="_blank">
     
 
 
       
-        DietrichGebert /
-
-      ponytail</a></p>
-				<p>
-      Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 JavaScript</span>
-						<span>⭐ 128618</span>
-						<span>🔱 6889</span>
-					</div>
-				<div class="stars-today">⭐ 2845 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/NousResearch/hermes-agent" target="_blank">
-    
-
-
-      
-        NousResearch /
-
-      hermes-agent</a></p>
-				<p>
-      The agent that grows with you
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 242227</span>
-						<span>🔱 49783</span>
-					</div>
-				<div class="stars-today">⭐ 575 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/fmtlib/fmt" target="_blank">
-    
-
-
-      
-        fmtlib /
-
-      fmt</a></p>
-				<p>
-      A modern formatting library
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 C++</span>
-						<span>⭐ 25603</span>
-						<span>🔱 3043</span>
-					</div>
-				<div class="stars-today">⭐ 134 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/anthropics/skills" target="_blank">
-    
-
-
-      
-        anthropics /
+        mattpocock /
 
       skills</a></p>
 				<p>
-      Public repository for Agent Skills
+      Skills for Real Engineers. Straight from my .agents directory.
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 174742</span>
-						<span>🔱 20684</span>
+						<span>🔠 Shell</span>
+						<span>⭐ 253864</span>
+						<span>🔱 21426</span>
 					</div>
-				<div class="stars-today">⭐ 475 stars today</div>
+				<div class="stars-today">⭐ 2206 stars today</div>
 				</div>
 			</div>
 	
@@ -162,10 +74,54 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 HTML</span>
-						<span>⭐ 31958</span>
-						<span>🔱 2058</span>
+						<span>⭐ 32057</span>
+						<span>🔱 2063</span>
 					</div>
-				<div class="stars-today">⭐ 855 stars today</div>
+				<div class="stars-today">⭐ 621 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/NousResearch/hermes-agent" target="_blank">
+    
+
+
+      
+        NousResearch /
+
+      hermes-agent</a></p>
+				<p>
+      The agent that grows with you
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 242305</span>
+						<span>🔱 49806</span>
+					</div>
+				<div class="stars-today">⭐ 520 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/openai/skills" target="_blank">
+    
+
+
+      
+        openai /
+
+      skills</a></p>
+				<p>
+      Skills Catalog for Codex
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 25479</span>
+						<span>🔱 1726</span>
+					</div>
+				<div class="stars-today">⭐ 44 stars today</div>
 				</div>
 			</div>
 	
@@ -184,52 +140,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 204922</span>
-						<span>🔱 26726</span>
+						<span>⭐ 204997</span>
+						<span>🔱 26737</span>
 					</div>
-				<div class="stars-today">⭐ 725 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/ruvnet/ruflo" target="_blank">
-    
-
-
-      
-        ruvnet /
-
-      ruflo</a></p>
-				<p>
-      🌊 The original agent meta-harness. Deploy intelligent multi-player swarms, coordinate autonomous workflows, and build conversational AI systems. Features adaptive memory, self-learning intelligence, RAG integration, and native Claude Code / Codex / Hermes and many more Integrated
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 70814</span>
-						<span>🔱 8425</span>
-					</div>
-				<div class="stars-today">⭐ 136 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/humanlayer/skills" target="_blank">
-    
-
-
-      
-        humanlayer /
-
-      skills</a></p>
-				<p></p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 2913</span>
-						<span>🔱 83</span>
-					</div>
-				<div class="stars-today">⭐ 442 stars today</div>
+				<div class="stars-today">⭐ 552 stars today</div>
 				</div>
 			</div>
 	
@@ -248,54 +162,76 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 43840</span>
-						<span>🔱 3667</span>
+						<span>⭐ 43927</span>
+						<span>🔱 3670</span>
 					</div>
-				<div class="stars-today">⭐ 990 stars today</div>
+				<div class="stars-today">⭐ 748 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/BraveOPotato/FckSignups" target="_blank">
+				<p><a href="https://github.com/llvm/llvm-project" target="_blank">
     
 
 
       
-        BraveOPotato /
+        llvm /
 
-      FckSignups</a></p>
+      llvm-project</a></p>
 				<p>
-      A list of tools that are open-source, in-browser, and require no-signups!
+      The LLVM Project is a collection of modular and reusable compiler and toolchain technologies.
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 3081</span>
-						<span>🔱 204</span>
+						<span>🔠 LLVM</span>
+						<span>⭐ 40145</span>
+						<span>🔱 18554</span>
 					</div>
-				<div class="stars-today">⭐ 68 stars today</div>
+				<div class="stars-today">⭐ 35 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/WorldFlowAI/everything-claude-code" target="_blank">
+				<p><a href="https://github.com/DietrichGebert/ponytail" target="_blank">
     
 
 
       
-        WorldFlowAI /
+        DietrichGebert /
 
-      everything-claude-code</a></p>
+      ponytail</a></p>
 				<p>
-      Claude Code toolkit - agents, commands, skills, rules, and hooks for productive AI-assisted development
+      Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 JavaScript</span>
-						<span>⭐ 2491</span>
-						<span>🔱 374</span>
+						<span>⭐ 128804</span>
+						<span>🔱 6898</span>
 					</div>
-				<div class="stars-today">⭐ 95 stars today</div>
+				<div class="stars-today">⭐ 1539 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/ruvnet/ruflo" target="_blank">
+    
+
+
+      
+        ruvnet /
+
+      ruflo</a></p>
+				<p>
+      🌊 The original agent meta-harness. Deploy intelligent multi-player swarms, coordinate autonomous workflows, and build conversational AI systems. Features adaptive memory, self-learning intelligence, RAG integration, and native Claude Code / Codex / Hermes and many more Integrated
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 70845</span>
+						<span>🔱 8426</span>
+					</div>
+				<div class="stars-today">⭐ 276 stars today</div>
 				</div>
 			</div>
 	
@@ -314,54 +250,162 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 3410</span>
-						<span>🔱 246</span>
+						<span>⭐ 3488</span>
+						<span>🔱 252</span>
 					</div>
-				<div class="stars-today">⭐ 674 stars today</div>
+				<div class="stars-today">⭐ 604 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/bikini/exploitarium" target="_blank">
+				<p><a href="https://github.com/BraveOPotato/FckSignups" target="_blank">
     
 
 
       
-        bikini /
+        BraveOPotato /
 
-      exploitarium</a></p>
+      FckSignups</a></p>
 				<p>
-      A single archive of public exploit PoCs and vulnerability research writeups. At the time I post these, none have been reported. Feel free to report them yourself and take credit for the CVE if handed out lulz. Please do not abuse these. I do this so to allure people into the field, and I've always found this is the most efficient way.
+      A list of tools that are open-source, in-browser, and require no-signups!
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 3127</span>
+						<span>🔱 206</span>
+					</div>
+				<div class="stars-today">⭐ 436 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/coreyhaines31/marketingskills" target="_blank">
+    
+
+
+      
+        coreyhaines31 /
+
+      marketingskills</a></p>
+				<p>
+      Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics, and growth engineering.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 JavaScript</span>
+						<span>⭐ 47300</span>
+						<span>🔱 7373</span>
+					</div>
+				<div class="stars-today">⭐ 172 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/aipoch/open-science" target="_blank">
+    
+
+
+      
+        aipoch /
+
+      open-science</a></p>
+				<p>
+      Open Science by AIPOCH is an open-source, local-first, model-agnostic AI research workbench for macOS, Windows, and Linux, with scientific agents, Python/R notebooks, data connectors, and reproducible provenance.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 3704</span>
+						<span>🔱 235</span>
+					</div>
+				<div class="stars-today">⭐ 145 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/OpenWhispr/openwhispr" target="_blank">
+    
+
+
+      
+        OpenWhispr /
+
+      openwhispr</a></p>
+				<p>
+      Voice-to-text dictation app with local (Nvidia Parakeet/Whisper) and cloud models (BYOK). Privacy-first and available cross-platform.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 JavaScript</span>
+						<span>⭐ 7046</span>
+						<span>🔱 923</span>
+					</div>
+				<div class="stars-today">⭐ 274 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/humanlayer/skills" target="_blank">
+    
+
+
+      
+        humanlayer /
+
+      skills</a></p>
+				<p></p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 2971</span>
+						<span>🔱 88</span>
+					</div>
+				<div class="stars-today">⭐ 451 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/The-Swarm-Corporation/AutoHedge" target="_blank">
+    
+
+
+      
+        The-Swarm-Corporation /
+
+      AutoHedge</a></p>
+				<p>
+      Build your autonomous hedge fund in minutes. AutoHedge harnesses the power of swarm intelligence and AI agents to automate market analysis, risk management, and trade execution.
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 4781</span>
-						<span>🔱 1257</span>
+						<span>⭐ 4507</span>
+						<span>🔱 765</span>
 					</div>
-				<div class="stars-today">⭐ 230 stars today</div>
+				<div class="stars-today">⭐ 137 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/nvm-sh/nvm" target="_blank">
+				<p><a href="https://github.com/Stremio/stremio-web" target="_blank">
     
 
 
       
-        nvm-sh /
+        Stremio /
 
-      nvm</a></p>
+      stremio-web</a></p>
 				<p>
-      Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions. $nvm: 3ArcxqLtXMmBnWbbtfwQgVL3MNnDsggzgGDtXMnjpump
+      Stremio - Freedom to Stream
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Shell</span>
-						<span>⭐ 94985</span>
-						<span>🔱 10431</span>
+						<span>🔠 JavaScript</span>
+						<span>⭐ 13342</span>
+						<span>🔱 1539</span>
 					</div>
-				<div class="stars-today">⭐ 22 stars today</div>
+				<div class="stars-today">⭐ 121 stars today</div>
 				</div>
 			</div>
 	

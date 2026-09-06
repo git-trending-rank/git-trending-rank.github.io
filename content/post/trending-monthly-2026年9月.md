@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2026年9月
-date: 2026-09-06T11:45:31Z
+date: 2026-09-06T14:25:59Z
 categories:
 - monthly
 keywords:
@@ -30,8 +30,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 HTML</span>
-						<span>⭐ 31958</span>
-						<span>🔱 2058</span>
+						<span>⭐ 32057</span>
+						<span>🔱 2063</span>
 					</div>
 				<div class="stars-today">⭐ 28654 stars this month</div>
 				</div>
@@ -52,8 +52,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Shell</span>
-						<span>⭐ 38451</span>
-						<span>🔱 4115</span>
+						<span>⭐ 38473</span>
+						<span>🔱 4125</span>
 					</div>
 				<div class="stars-today">⭐ 14222 stars this month</div>
 				</div>
@@ -74,32 +74,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 12133</span>
-						<span>🔱 1368</span>
+						<span>⭐ 12147</span>
+						<span>🔱 1370</span>
 					</div>
 				<div class="stars-today">⭐ 10251 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/cursor/plugins" target="_blank">
-    
-
-
-      
-        cursor /
-
-      plugins</a></p>
-				<p>
-      Cursor plugin specification and official plugins
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 6960</span>
-						<span>🔱 582</span>
-					</div>
-				<div class="stars-today">⭐ 4411 stars this month</div>
 				</div>
 			</div>
 	
@@ -118,8 +96,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 JavaScript</span>
-						<span>⭐ 50126</span>
-						<span>🔱 3252</span>
+						<span>⭐ 50316</span>
+						<span>🔱 3266</span>
 					</div>
 				<div class="stars-today">⭐ 40038 stars this month</div>
 				</div>
@@ -140,32 +118,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 3501</span>
-						<span>🔱 268</span>
+						<span>⭐ 3510</span>
+						<span>🔱 270</span>
 					</div>
 				<div class="stars-today">⭐ 3187 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/PrimeIntellect-ai/prime-agent" target="_blank">
-    
-
-
-      
-        PrimeIntellect-ai /
-
-      prime-agent</a></p>
-				<p>
-      A self-improving RLM agent for coding workflows and long-running autonomous tasks.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 20004</span>
-						<span>🔱 2187</span>
-					</div>
-				<div class="stars-today">⭐ 20036 stars this month</div>
 				</div>
 			</div>
 	
@@ -184,8 +140,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Rust</span>
-						<span>⭐ 19614</span>
-						<span>🔱 596</span>
+						<span>⭐ 19632</span>
+						<span>🔱 597</span>
 					</div>
 				<div class="stars-today">⭐ 11323 stars this month</div>
 				</div>
@@ -206,32 +162,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 35723</span>
-						<span>🔱 2723</span>
+						<span>⭐ 35747</span>
+						<span>🔱 2724</span>
 					</div>
 				<div class="stars-today">⭐ 7811 stars this month</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/freestylefly/awesome-gpt-image-2" target="_blank">
+				<p><a href="https://github.com/PrimeIntellect-ai/prime-agent" target="_blank">
     
 
 
       
-        freestylefly /
+        PrimeIntellect-ai /
 
-      awesome-gpt-image-2</a></p>
+      prime-agent</a></p>
 				<p>
-      Prompt as Code | GPT-Image2 工业级提示词引擎与模板库，530+ 个案例逆向工程，20+ 套工业级模板，并提炼出Skills，持续更新中
+      A self-improving RLM agent for coding workflows and long-running autonomous tasks.
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 JavaScript</span>
-						<span>⭐ 28240</span>
-						<span>🔱 2712</span>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 20011</span>
+						<span>🔱 2189</span>
 					</div>
-				<div class="stars-today">⭐ 19395 stars this month</div>
+				<div class="stars-today">⭐ 20036 stars this month</div>
 				</div>
 			</div>
 	
@@ -250,7 +206,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Rust</span>
-						<span>⭐ 32747</span>
+						<span>⭐ 32756</span>
 						<span>🔱 5364</span>
 					</div>
 				<div class="stars-today">⭐ 5935 stars this month</div>
@@ -258,24 +214,24 @@ keywords:
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/vitali87/code-graph-rag" target="_blank">
+				<p><a href="https://github.com/freestylefly/awesome-gpt-image-2" target="_blank">
     
 
 
       
-        vitali87 /
+        freestylefly /
 
-      code-graph-rag</a></p>
+      awesome-gpt-image-2</a></p>
 				<p>
-      The ultimate RAG for your monorepo. Query, understand, and edit multi-language codebases with the power of AI and knowledge graphs
+      Prompt as Code | GPT-Image2 工业级提示词引擎与模板库，530+ 个案例逆向工程，20+ 套工业级模板，并提炼出Skills，持续更新中
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 5015</span>
-						<span>🔱 659</span>
+						<span>🔠 JavaScript</span>
+						<span>⭐ 28258</span>
+						<span>🔱 2713</span>
 					</div>
-				<div class="stars-today">⭐ 2486 stars this month</div>
+				<div class="stars-today">⭐ 19395 stars this month</div>
 				</div>
 			</div>
 	
@@ -294,32 +250,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 32195</span>
-						<span>🔱 5268</span>
+						<span>⭐ 32262</span>
+						<span>🔱 5274</span>
 					</div>
 				<div class="stars-today">⭐ 11420 stars this month</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/youssofal/MTPLX" target="_blank">
+				<p><a href="https://github.com/vitali87/code-graph-rag" target="_blank">
     
 
 
       
-        youssofal /
+        vitali87 /
 
-      MTPLX</a></p>
+      code-graph-rag</a></p>
 				<p>
-      3x faster speeds on MLX | Qwen 3.8 27B | Native MTP Speculative Decoding On Apple Silicon With No External Drafter.
+      The ultimate RAG for your monorepo. Query, understand, and edit multi-language codebases with the power of AI and knowledge graphs
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 2106</span>
-						<span>🔱 157</span>
+						<span>⭐ 5019</span>
+						<span>🔱 659</span>
 					</div>
-				<div class="stars-today">⭐ 953 stars this month</div>
+				<div class="stars-today">⭐ 2486 stars this month</div>
 				</div>
 			</div>
 	
@@ -338,8 +294,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 10376</span>
-						<span>🔱 667</span>
+						<span>⭐ 10386</span>
+						<span>🔱 670</span>
 					</div>
 				<div class="stars-today">⭐ 7001 stars this month</div>
 				</div>
@@ -360,8 +316,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Swift</span>
-						<span>⭐ 15590</span>
-						<span>🔱 559</span>
+						<span>⭐ 15619</span>
+						<span>🔱 560</span>
 					</div>
 				<div class="stars-today">⭐ 11072 stars this month</div>
 				</div>
@@ -382,8 +338,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Mojo</span>
-						<span>⭐ 29570</span>
-						<span>🔱 3154</span>
+						<span>⭐ 29573</span>
+						<span>🔱 3155</span>
 					</div>
 				<div class="stars-today">⭐ 2995 stars this month</div>
 				</div>
@@ -404,32 +360,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 4806</span>
-						<span>🔱 458</span>
+						<span>⭐ 4812</span>
+						<span>🔱 459</span>
 					</div>
 				<div class="stars-today">⭐ 3614 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/akitaonrails/ai-memory" target="_blank">
-    
-
-
-      
-        akitaonrails /
-
-      ai-memory</a></p>
-				<p>
-      Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Rust</span>
-						<span>⭐ 5841</span>
-						<span>🔱 410</span>
-					</div>
-				<div class="stars-today">⭐ 4430 stars this month</div>
 				</div>
 			</div>
 	
@@ -448,10 +382,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 93233</span>
+						<span>⭐ 93254</span>
 						<span>🔱 7660</span>
 					</div>
 				<div class="stars-today">⭐ 4108 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/akitaonrails/ai-memory" target="_blank">
+    
+
+
+      
+        akitaonrails /
+
+      ai-memory</a></p>
+				<p>
+      Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Rust</span>
+						<span>⭐ 5851</span>
+						<span>🔱 411</span>
+					</div>
+				<div class="stars-today">⭐ 4430 stars this month</div>
 				</div>
 			</div>
 	
@@ -470,8 +426,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 19357</span>
-						<span>🔱 2471</span>
+						<span>⭐ 19486</span>
+						<span>🔱 2480</span>
 					</div>
 				<div class="stars-today">⭐ 9208 stars this month</div>
 				</div>
@@ -492,32 +448,52 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 476190</span>
-						<span>🔱 52588</span>
+						<span>⭐ 476270</span>
+						<span>🔱 52592</span>
 					</div>
 				<div class="stars-today">⭐ 22282 stars this month</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/abi/screenshot-to-code" target="_blank">
+				<p><a href="https://github.com/Lakr233/vphone-cli" target="_blank">
     
 
 
       
-        abi /
+        Lakr233 /
 
-      screenshot-to-code</a></p>
+      vphone-cli</a></p>
+				<p></p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Swift</span>
+						<span>⭐ 10872</span>
+						<span>🔱 1387</span>
+					</div>
+				<div class="stars-today">⭐ 3201 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/megadose/holehe" target="_blank">
+    
+
+
+      
+        megadose /
+
+      holehe</a></p>
 				<p>
-      Drop in a screenshot and convert it to clean code (HTML/Tailwind/React/Vue)
+      holehe allows you to check if the mail is used on different sites like twitter, instagram and will retrieve information on sites with the forgotten password function.
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 77987</span>
-						<span>🔱 9485</span>
+						<span>⭐ 14636</span>
+						<span>🔱 1867</span>
 					</div>
-				<div class="stars-today">⭐ 4131 stars this month</div>
+				<div class="stars-today">⭐ 2755 stars this month</div>
 				</div>
 			</div>
 	
