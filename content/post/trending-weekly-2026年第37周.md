@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2026年第37周
-date: 2026-09-07T06:39:33Z
+date: 2026-09-07T13:42:03Z
 categories:
 - weekly
 keywords:
@@ -14,28 +14,6 @@ keywords:
 	<main class="container">
         <div class="repo-list" id="repoList">
 
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/tt-a1i/archify" target="_blank">
-    
-
-
-      
-        tt-a1i /
-
-      archify</a></p>
-				<p>
-      Agent skill for beautiful, verifiable architecture, workflow, sequence, data-flow, and lifecycle diagrams—self-contained HTML with motion and crisp export.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 JavaScript</span>
-						<span>⭐ 51343</span>
-						<span>🔱 3349</span>
-					</div>
-				<div class="stars-today">⭐ 17190 stars this week</div>
-				</div>
-			</div>
 	
 			<div class="repo-card">
 				<p><a href="https://github.com/magnitudedev/magnitude" target="_blank">
@@ -52,32 +30,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 3804</span>
-						<span>🔱 275</span>
+						<span>⭐ 3937</span>
+						<span>🔱 284</span>
 					</div>
 				<div class="stars-today">⭐ 1961 stars this week</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/THU-MAIC/OpenMAIC" target="_blank">
+				<p><a href="https://github.com/tt-a1i/archify" target="_blank">
     
 
 
       
-        THU-MAIC /
+        tt-a1i /
 
-      OpenMAIC</a></p>
+      archify</a></p>
 				<p>
-      Open Multi-Agent Interactive Classroom — Get an immersive, multi-agent learning experience in just one click
+      Agent skill for beautiful, verifiable architecture, workflow, sequence, data-flow, and lifecycle diagrams—self-contained HTML with motion and crisp export.
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 32599</span>
-						<span>🔱 5318</span>
+						<span>🔠 JavaScript</span>
+						<span>⭐ 51995</span>
+						<span>🔱 3397</span>
 					</div>
-				<div class="stars-today">⭐ 9193 stars this week</div>
+				<div class="stars-today">⭐ 17190 stars this week</div>
 				</div>
 			</div>
 	
@@ -96,32 +74,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 32865</span>
-						<span>🔱 9061</span>
+						<span>⭐ 32891</span>
+						<span>🔱 9062</span>
 					</div>
 				<div class="stars-today">⭐ 1944 stars this week</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/pollen-robotics/microduck_rl" target="_blank">
+				<p><a href="https://github.com/THU-MAIC/OpenMAIC" target="_blank">
     
 
 
       
-        pollen-robotics /
+        THU-MAIC /
 
-      microduck_rl</a></p>
+      OpenMAIC</a></p>
 				<p>
-      RL training environments for Microduck (mjlab)
+      Open Multi-Agent Interactive Classroom — Get an immersive, multi-agent learning experience in just one click
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 1843</span>
-						<span>🔱 364</span>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 32846</span>
+						<span>🔱 5349</span>
 					</div>
-				<div class="stars-today">⭐ 1122 stars this week</div>
+				<div class="stars-today">⭐ 9193 stars this week</div>
 				</div>
 			</div>
 	
@@ -140,8 +118,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 31695</span>
-						<span>🔱 3034</span>
+						<span>⭐ 31769</span>
+						<span>🔱 3037</span>
 					</div>
 				<div class="stars-today">⭐ 3203 stars this week</div>
 				</div>
@@ -162,32 +140,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 59260</span>
-						<span>🔱 7694</span>
+						<span>⭐ 59364</span>
+						<span>🔱 7704</span>
 					</div>
 				<div class="stars-today">⭐ 3816 stars this week</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/fmtlib/fmt" target="_blank">
+				<p><a href="https://github.com/pollen-robotics/microduck_rl" target="_blank">
     
 
 
       
-        fmtlib /
+        pollen-robotics /
 
-      fmt</a></p>
+      microduck_rl</a></p>
 				<p>
-      A modern formatting library
+      RL training environments for Microduck (mjlab)
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 C++</span>
-						<span>⭐ 25630</span>
-						<span>🔱 3047</span>
+						<span>🔠 Python</span>
+						<span>⭐ 1876</span>
+						<span>🔱 371</span>
 					</div>
-				<div class="stars-today">⭐ 1885 stars this week</div>
+				<div class="stars-today">⭐ 1122 stars this week</div>
 				</div>
 			</div>
 	
@@ -206,120 +184,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 20069</span>
-						<span>🔱 2532</span>
+						<span>⭐ 20336</span>
+						<span>🔱 2562</span>
 					</div>
 				<div class="stars-today">⭐ 7513 stars this week</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/handsomestWei/patent-disclosure-skill" target="_blank">
+				<p><a href="https://github.com/fmtlib/fmt" target="_blank">
     
 
 
       
-        handsomestWei /
+        fmtlib /
 
-      patent-disclosure-skill</a></p>
+      fmt</a></p>
 				<p>
-      中国专利.skill：专利点挖掘与交底书（发明/实用/外观）编写，通俗解读专利，嗅探政策动向，辅助审查答复。
+      A modern formatting library
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 8072</span>
-						<span>🔱 861</span>
+						<span>🔠 C++</span>
+						<span>⭐ 25640</span>
+						<span>🔱 3046</span>
 					</div>
-				<div class="stars-today">⭐ 2093 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/K-Dense-AI/scientific-agent-skills" target="_blank">
-    
-
-
-      
-        K-Dense-AI /
-
-      scientific-agent-skills</a></p>
-				<p>
-      Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 190,000+ scientists worldwide. 165 ready-to-use validated skills plus 100+ scientific databases covering biology, chemistry, medicine, and drug discovery. Compatible with Cursor, Claude Code, Codex, Pi, Antigravity, and the open Agent Skills standard.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 43409</span>
-						<span>🔱 3952</span>
-					</div>
-				<div class="stars-today">⭐ 4718 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/tailscale/tailcat" target="_blank">
-    
-
-
-      
-        tailscale /
-
-      tailcat</a></p>
-				<p>
-      like netcat, but over Tailscale's data plane, without Tailscale's control plane
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Go</span>
-						<span>⭐ 6599</span>
-						<span>🔱 256</span>
-					</div>
-				<div class="stars-today">⭐ 2467 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/colinhacks/zod" target="_blank">
-    
-
-
-      
-        colinhacks /
-
-      zod</a></p>
-				<p>
-      TypeScript-first schema validation with static type inference
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 43869</span>
-						<span>🔱 2178</span>
-					</div>
-				<div class="stars-today">⭐ 277 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/ChromeDevTools/chrome-devtools-mcp" target="_blank">
-    
-
-
-      
-        ChromeDevTools /
-
-      chrome-devtools-mcp</a></p>
-				<p>
-      Chrome DevTools for coding agents
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 51215</span>
-						<span>🔱 3596</span>
-					</div>
-				<div class="stars-today">⭐ 965 stars this week</div>
+				<div class="stars-today">⭐ 1885 stars this week</div>
 				</div>
 			</div>
 	
@@ -338,52 +228,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 JavaScript</span>
-						<span>⭐ 251835</span>
-						<span>🔱 37834</span>
+						<span>⭐ 252369</span>
+						<span>🔱 37874</span>
 					</div>
 				<div class="stars-today">⭐ 6394 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/Lakr233/vphone-cli" target="_blank">
-    
-
-
-      
-        Lakr233 /
-
-      vphone-cli</a></p>
-				<p></p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Swift</span>
-						<span>⭐ 11018</span>
-						<span>🔱 1407</span>
-					</div>
-				<div class="stars-today">⭐ 1478 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/every-app/open-seo" target="_blank">
-    
-
-
-      
-        every-app /
-
-      open-seo</a></p>
-				<p>
-      Open source alternative to Semrush and Ahrefs
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 17567</span>
-						<span>🔱 2218</span>
-					</div>
-				<div class="stars-today">⭐ 2503 stars this week</div>
 				</div>
 			</div>
 	
@@ -402,54 +250,76 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 JavaScript</span>
-						<span>⭐ 129870</span>
-						<span>🔱 6958</span>
+						<span>⭐ 130465</span>
+						<span>🔱 6992</span>
 					</div>
 				<div class="stars-today">⭐ 12186 stars this week</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/majd/ipatool" target="_blank">
+				<p><a href="https://github.com/handsomestWei/patent-disclosure-skill" target="_blank">
     
 
 
       
-        majd /
+        handsomestWei /
 
-      ipatool</a></p>
+      patent-disclosure-skill</a></p>
 				<p>
-      Command-line tool that allows searching and downloading app packages (known as ipa files) for iOS, iPadOS, tvOS, and visionOS from the App Store.
+      中国专利.skill：专利点挖掘与交底书（发明/实用/外观）编写，通俗解读专利，嗅探政策动向，辅助审查答复。
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Go</span>
-						<span>⭐ 10987</span>
-						<span>🔱 915</span>
+						<span>🔠 Python</span>
+						<span>⭐ 8311</span>
+						<span>🔱 875</span>
 					</div>
-				<div class="stars-today">⭐ 893 stars this week</div>
+				<div class="stars-today">⭐ 2093 stars this week</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/punkpeye/awesome-mcp-servers" target="_blank">
+				<p><a href="https://github.com/zubair-trabzada/geo-seo-claude" target="_blank">
     
 
 
       
-        punkpeye /
+        zubair-trabzada /
 
-      awesome-mcp-servers</a></p>
+      geo-seo-claude</a></p>
 				<p>
-      A collection of MCP servers.
+      GEO-first SEO skill for Claude Code. Comprehensive AI search optimization for any website — citability scoring, AI crawler analysis, brand authority, schema markup, platform-specific optimization, and PDF reports. If you want learn how to sell this to real businesses, check out the skool community
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 </span>
-						<span>⭐ 94515</span>
-						<span>🔱 15781</span>
+						<span>🔠 Python</span>
+						<span>⭐ 10340</span>
+						<span>🔱 1582</span>
 					</div>
-				<div class="stars-today">⭐ 1326 stars this week</div>
+				<div class="stars-today">⭐ 434 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/advaitpaliwal/feynman" target="_blank">
+    
+
+
+      
+        advaitpaliwal /
+
+      feynman</a></p>
+				<p>
+      The open source AI research agent.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 8907</span>
+						<span>🔱 1034</span>
+					</div>
+				<div class="stars-today">⭐ 262 stars this week</div>
 				</div>
 			</div>
 	
@@ -468,10 +338,98 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 46653</span>
-						<span>🔱 3651</span>
+						<span>⭐ 46737</span>
+						<span>🔱 3657</span>
 					</div>
 				<div class="stars-today">⭐ 2334 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/colinhacks/zod" target="_blank">
+    
+
+
+      
+        colinhacks /
+
+      zod</a></p>
+				<p>
+      TypeScript-first schema validation with static type inference
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 43878</span>
+						<span>🔱 2180</span>
+					</div>
+				<div class="stars-today">⭐ 277 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/roboflow/rf-detr" target="_blank">
+    
+
+
+      
+        roboflow /
+
+      rf-detr</a></p>
+				<p>
+      RF-DETR is a real-time object detection and segmentation model architecture developed by Roboflow, SOTA on COCO, designed for fine-tuning. [ICLR 2026] 
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 9341</span>
+						<span>🔱 1184</span>
+					</div>
+				<div class="stars-today">⭐ 224 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/every-app/open-seo" target="_blank">
+    
+
+
+      
+        every-app /
+
+      open-seo</a></p>
+				<p>
+      Open source alternative to Semrush and Ahrefs
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 17636</span>
+						<span>🔱 2226</span>
+					</div>
+				<div class="stars-today">⭐ 2503 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/tailscale/tailcat" target="_blank">
+    
+
+
+      
+        tailscale /
+
+      tailcat</a></p>
+				<p>
+      like netcat, but over Tailscale's data plane, without Tailscale's control plane
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Go</span>
+						<span>⭐ 6655</span>
+						<span>🔱 261</span>
+					</div>
+				<div class="stars-today">⭐ 2467 stars this week</div>
 				</div>
 			</div>
 	

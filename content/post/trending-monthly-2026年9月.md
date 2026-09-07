@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2026年9月
-date: 2026-09-07T06:39:33Z
+date: 2026-09-07T13:42:03Z
 categories:
 - monthly
 keywords:
@@ -30,8 +30,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 HTML</span>
-						<span>⭐ 32725</span>
-						<span>🔱 2093</span>
+						<span>⭐ 33103</span>
+						<span>🔱 2111</span>
 					</div>
 				<div class="stars-today">⭐ 29194 stars this month</div>
 				</div>
@@ -52,8 +52,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Shell</span>
-						<span>⭐ 38684</span>
-						<span>🔱 4163</span>
+						<span>⭐ 38798</span>
+						<span>🔱 4178</span>
 					</div>
 				<div class="stars-today">⭐ 14497 stars this month</div>
 				</div>
@@ -74,32 +74,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 12213</span>
-						<span>🔱 1377</span>
+						<span>⭐ 12252</span>
+						<span>🔱 1380</span>
 					</div>
 				<div class="stars-today">⭐ 10145 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/tt-a1i/archify" target="_blank">
-    
-
-
-      
-        tt-a1i /
-
-      archify</a></p>
-				<p>
-      Agent skill for beautiful, verifiable architecture, workflow, sequence, data-flow, and lifecycle diagrams—self-contained HTML with motion and crisp export.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 JavaScript</span>
-						<span>⭐ 51343</span>
-						<span>🔱 3349</span>
-					</div>
-				<div class="stars-today">⭐ 41018 stars this month</div>
 				</div>
 			</div>
 	
@@ -118,10 +96,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 3542</span>
-						<span>🔱 272</span>
+						<span>⭐ 3552</span>
+						<span>🔱 273</span>
 					</div>
 				<div class="stars-today">⭐ 3243 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/tt-a1i/archify" target="_blank">
+    
+
+
+      
+        tt-a1i /
+
+      archify</a></p>
+				<p>
+      Agent skill for beautiful, verifiable architecture, workflow, sequence, data-flow, and lifecycle diagrams—self-contained HTML with motion and crisp export.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 JavaScript</span>
+						<span>⭐ 51995</span>
+						<span>🔱 3397</span>
+					</div>
+				<div class="stars-today">⭐ 41018 stars this month</div>
 				</div>
 			</div>
 	
@@ -140,8 +140,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Rust</span>
-						<span>⭐ 19787</span>
-						<span>🔱 607</span>
+						<span>⭐ 19838</span>
+						<span>🔱 611</span>
 					</div>
 				<div class="stars-today">⭐ 11494 stars this month</div>
 				</div>
@@ -162,32 +162,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 35838</span>
-						<span>🔱 2731</span>
+						<span>⭐ 35894</span>
+						<span>🔱 2739</span>
 					</div>
 				<div class="stars-today">⭐ 7895 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/PrimeIntellect-ai/prime-agent" target="_blank">
-    
-
-
-      
-        PrimeIntellect-ai /
-
-      prime-agent</a></p>
-				<p>
-      A self-improving RLM agent for coding workflows and long-running autonomous tasks.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 20076</span>
-						<span>🔱 2196</span>
-					</div>
-				<div class="stars-today">⭐ 17024 stars this month</div>
 				</div>
 			</div>
 	
@@ -206,8 +184,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Rust</span>
-						<span>⭐ 32812</span>
-						<span>🔱 5366</span>
+						<span>⭐ 32836</span>
+						<span>🔱 5368</span>
 					</div>
 				<div class="stars-today">⭐ 5983 stars this month</div>
 				</div>
@@ -228,8 +206,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 JavaScript</span>
-						<span>⭐ 28375</span>
-						<span>🔱 2719</span>
+						<span>⭐ 28438</span>
+						<span>🔱 2725</span>
 					</div>
 				<div class="stars-today">⭐ 19087 stars this month</div>
 				</div>
@@ -250,32 +228,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 32599</span>
-						<span>🔱 5318</span>
+						<span>⭐ 32846</span>
+						<span>🔱 5349</span>
 					</div>
 				<div class="stars-today">⭐ 11874 stars this month</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/vitali87/code-graph-rag" target="_blank">
+				<p><a href="https://github.com/youssofal/MTPLX" target="_blank">
     
 
 
       
-        vitali87 /
+        youssofal /
 
-      code-graph-rag</a></p>
+      MTPLX</a></p>
 				<p>
-      The ultimate RAG for your monorepo. Query, understand, and edit multi-language codebases with the power of AI and knowledge graphs
+      3x faster speeds on MLX | Qwen 3.8 27B | Native MTP Speculative Decoding On Apple Silicon With No External Drafter.
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 5046</span>
-						<span>🔱 661</span>
+						<span>⭐ 2128</span>
+						<span>🔱 158</span>
 					</div>
-				<div class="stars-today">⭐ 2504 stars this month</div>
+				<div class="stars-today">⭐ 1000 stars this month</div>
 				</div>
 			</div>
 	
@@ -294,8 +272,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 10432</span>
-						<span>🔱 672</span>
+						<span>⭐ 10455</span>
+						<span>🔱 673</span>
 					</div>
 				<div class="stars-today">⭐ 7069 stars this month</div>
 				</div>
@@ -316,8 +294,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Swift</span>
-						<span>⭐ 16269</span>
-						<span>🔱 569</span>
+						<span>⭐ 16526</span>
+						<span>🔱 577</span>
 					</div>
 				<div class="stars-today">⭐ 11159 stars this month</div>
 				</div>
@@ -338,10 +316,54 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Mojo</span>
-						<span>⭐ 29583</span>
-						<span>🔱 3156</span>
+						<span>⭐ 29593</span>
+						<span>🔱 3158</span>
 					</div>
 				<div class="stars-today">⭐ 3000 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/PrimeIntellect-ai/prime-agent" target="_blank">
+    
+
+
+      
+        PrimeIntellect-ai /
+
+      prime-agent</a></p>
+				<p>
+      A self-improving RLM agent for coding workflows and long-running autonomous tasks.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 20104</span>
+						<span>🔱 2197</span>
+					</div>
+				<div class="stars-today">⭐ 17024 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/akitaonrails/ai-memory" target="_blank">
+    
+
+
+      
+        akitaonrails /
+
+      ai-memory</a></p>
+				<p>
+      Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Rust</span>
+						<span>⭐ 5945</span>
+						<span>🔱 418</span>
+					</div>
+				<div class="stars-today">⭐ 4490 stars this month</div>
 				</div>
 			</div>
 	
@@ -360,7 +382,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 4850</span>
+						<span>⭐ 4890</span>
 						<span>🔱 461</span>
 					</div>
 				<div class="stars-today">⭐ 3647 stars this month</div>
@@ -382,32 +404,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 93324</span>
-						<span>🔱 7663</span>
+						<span>⭐ 93355</span>
+						<span>🔱 7668</span>
 					</div>
 				<div class="stars-today">⭐ 4206 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/akitaonrails/ai-memory" target="_blank">
-    
-
-
-      
-        akitaonrails /
-
-      ai-memory</a></p>
-				<p>
-      Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Rust</span>
-						<span>⭐ 5916</span>
-						<span>🔱 418</span>
-					</div>
-				<div class="stars-today">⭐ 4490 stars this month</div>
 				</div>
 			</div>
 	
@@ -426,8 +426,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 20069</span>
-						<span>🔱 2532</span>
+						<span>⭐ 20336</span>
+						<span>🔱 2562</span>
 					</div>
 				<div class="stars-today">⭐ 9973 stars this month</div>
 				</div>
@@ -448,8 +448,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 476636</span>
-						<span>🔱 52624</span>
+						<span>⭐ 476801</span>
+						<span>🔱 52641</span>
 					</div>
 				<div class="stars-today">⭐ 22696 stars this month</div>
 				</div>
@@ -468,10 +468,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Swift</span>
-						<span>⭐ 11018</span>
-						<span>🔱 1407</span>
+						<span>⭐ 11084</span>
+						<span>🔱 1413</span>
 					</div>
 				<div class="stars-today">⭐ 3335 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/vitali87/code-graph-rag" target="_blank">
+    
+
+
+      
+        vitali87 /
+
+      code-graph-rag</a></p>
+				<p>
+      The ultimate RAG for your monorepo. Query, understand, and edit multi-language codebases with the power of AI and knowledge graphs
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 5059</span>
+						<span>🔱 661</span>
+					</div>
+				<div class="stars-today">⭐ 2504 stars this month</div>
 				</div>
 			</div>
 	
@@ -490,8 +512,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 14682</span>
-						<span>🔱 1873</span>
+						<span>⭐ 14695</span>
+						<span>🔱 1874</span>
 					</div>
 				<div class="stars-today">⭐ 2754 stars this month</div>
 				</div>
