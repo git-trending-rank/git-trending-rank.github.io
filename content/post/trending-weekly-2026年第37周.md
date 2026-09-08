@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2026年第37周
-date: 2026-09-08T06:33:58Z
+date: 2026-09-08T12:17:51Z
 categories:
 - weekly
 keywords:
@@ -14,182 +14,6 @@ keywords:
 	<main class="container">
         <div class="repo-list" id="repoList">
 
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/magnitudedev/magnitude" target="_blank">
-    
-
-
-      
-        magnitudedev /
-
-      magnitude</a></p>
-				<p>
-      Open source inference server that runs the best local models for your hardware, plugged into the agent you already use. Works with Pi, OpenCode, Hermes, OpenClaw, Codex, Claude Code, Oh My Pi, and Cline.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 4097</span>
-						<span>🔱 293</span>
-					</div>
-				<div class="stars-today">⭐ 2430 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/tt-a1i/archify" target="_blank">
-    
-
-
-      
-        tt-a1i /
-
-      archify</a></p>
-				<p>
-      Agent skill for beautiful, verifiable architecture, workflow, sequence, data-flow, and lifecycle diagrams—self-contained HTML with motion and crisp export.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 JavaScript</span>
-						<span>⭐ 53555</span>
-						<span>🔱 3517</span>
-					</div>
-				<div class="stars-today">⭐ 14946 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/Gitlawb/openclaude" target="_blank">
-    
-
-
-      
-        Gitlawb /
-
-      openclaude</a></p>
-				<p>
-      runs anywhere. uses anything
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 32970</span>
-						<span>🔱 9068</span>
-					</div>
-				<div class="stars-today">⭐ 2040 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/THU-MAIC/OpenMAIC" target="_blank">
-    
-
-
-      
-        THU-MAIC /
-
-      OpenMAIC</a></p>
-				<p>
-      Open Multi-Agent Interactive Classroom — Get an immersive, multi-agent learning experience in just one click
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 33243</span>
-						<span>🔱 5392</span>
-					</div>
-				<div class="stars-today">⭐ 6934 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/google-research/timesfm" target="_blank">
-    
-
-
-      
-        google-research /
-
-      timesfm</a></p>
-				<p>
-      TimesFM (Time Series Foundation Model) is a pretrained time-series foundation model developed by Google Research for time-series forecasting.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 31882</span>
-						<span>🔱 3048</span>
-					</div>
-				<div class="stars-today">⭐ 3506 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/jingyaogong/minimind" target="_blank">
-    
-
-
-      
-        jingyaogong /
-
-      minimind</a></p>
-				<p>
-      🧠 Train a 64M-parameter LLM from scratch in just 2h!
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 59646</span>
-						<span>🔱 7728</span>
-					</div>
-				<div class="stars-today">⭐ 3633 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/pollen-robotics/microduck_rl" target="_blank">
-    
-
-
-      
-        pollen-robotics /
-
-      microduck_rl</a></p>
-				<p>
-      RL training environments for Microduck (mjlab)
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 1919</span>
-						<span>🔱 383</span>
-					</div>
-				<div class="stars-today">⭐ 828 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/debpalash/VoiceStudio" target="_blank">
-    
-
-
-      
-        debpalash /
-
-      VoiceStudio</a></p>
-				<p>
-      VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 20868</span>
-						<span>🔱 2599</span>
-					</div>
-				<div class="stars-today">⭐ 7916 stars this week</div>
-				</div>
-			</div>
 	
 			<div class="repo-card">
 				<p><a href="https://github.com/fmtlib/fmt" target="_blank">
@@ -206,7 +30,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 C++</span>
-						<span>⭐ 25657</span>
+						<span>⭐ 25669</span>
 						<span>🔱 3046</span>
 					</div>
 				<div class="stars-today">⭐ 1909 stars this week</div>
@@ -228,8 +52,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 JavaScript</span>
-						<span>⭐ 253200</span>
-						<span>🔱 37977</span>
+						<span>⭐ 253653</span>
+						<span>🔱 38047</span>
 					</div>
 				<div class="stars-today">⭐ 7735 stars this week</div>
 				</div>
@@ -250,76 +74,54 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 JavaScript</span>
-						<span>⭐ 131302</span>
-						<span>🔱 7028</span>
+						<span>⭐ 131691</span>
+						<span>🔱 7053</span>
 					</div>
 				<div class="stars-today">⭐ 12834 stars this week</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/handsomestWei/patent-disclosure-skill" target="_blank">
+				<p><a href="https://github.com/tt-a1i/archify" target="_blank">
     
 
 
       
-        handsomestWei /
+        tt-a1i /
 
-      patent-disclosure-skill</a></p>
+      archify</a></p>
 				<p>
-      中国专利.skill：专利点挖掘与交底书（发明/实用/外观）编写，通俗解读专利，嗅探政策动向，辅助审查答复。
+      Agent skill for beautiful, verifiable architecture, workflow, sequence, data-flow, and lifecycle diagrams—self-contained HTML with motion and crisp export.
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 8590</span>
-						<span>🔱 903</span>
+						<span>🔠 JavaScript</span>
+						<span>⭐ 54067</span>
+						<span>🔱 3540</span>
 					</div>
-				<div class="stars-today">⭐ 2227 stars this week</div>
+				<div class="stars-today">⭐ 14946 stars this week</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/zubair-trabzada/geo-seo-claude" target="_blank">
+				<p><a href="https://github.com/blader/humanizer" target="_blank">
     
 
 
       
-        zubair-trabzada /
+        blader /
 
-      geo-seo-claude</a></p>
+      humanizer</a></p>
 				<p>
-      GEO-first SEO skill for Claude Code. Comprehensive AI search optimization for any website — citability scoring, AI crawler analysis, brand authority, schema markup, platform-specific optimization, and PDF reports. If you want learn how to sell this to real businesses, check out the skool community
+      Agent skill that removes signs of AI-generated writing from text
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 10441</span>
-						<span>🔱 1582</span>
+						<span>⭐ 45177</span>
+						<span>🔱 3720</span>
 					</div>
-				<div class="stars-today">⭐ 428 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/advaitpaliwal/feynman" target="_blank">
-    
-
-
-      
-        advaitpaliwal /
-
-      feynman</a></p>
-				<p>
-      The open source AI research agent.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 9112</span>
-						<span>🔱 1046</span>
-					</div>
-				<div class="stars-today">⭐ 292 stars this week</div>
+				<div class="stars-today">⭐ 5771 stars this week</div>
 				</div>
 			</div>
 	
@@ -338,54 +140,252 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 46881</span>
-						<span>🔱 3666</span>
+						<span>⭐ 46959</span>
+						<span>🔱 3672</span>
 					</div>
 				<div class="stars-today">⭐ 2406 stars this week</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/colinhacks/zod" target="_blank">
+				<p><a href="https://github.com/mattpocock/skills" target="_blank">
     
 
 
       
-        colinhacks /
+        mattpocock /
 
-      zod</a></p>
+      skills</a></p>
 				<p>
-      TypeScript-first schema validation with static type inference
+      Skills for Real Engineers. Straight from my .agents directory.
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 43898</span>
-						<span>🔱 2181</span>
+						<span>🔠 Shell</span>
+						<span>⭐ 256590</span>
+						<span>🔱 21617</span>
 					</div>
-				<div class="stars-today">⭐ 175 stars this week</div>
+				<div class="stars-today">⭐ 13575 stars this week</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/roboflow/rf-detr" target="_blank">
+				<p><a href="https://github.com/coreyhaines31/marketingskills" target="_blank">
     
 
 
       
-        roboflow /
+        coreyhaines31 /
 
-      rf-detr</a></p>
+      marketingskills</a></p>
 				<p>
-      RF-DETR is a real-time object detection and segmentation model architecture developed by Roboflow, SOTA on COCO, designed for fine-tuning. [ICLR 2026] 
+      Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics, and growth engineering.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 JavaScript</span>
+						<span>⭐ 48483</span>
+						<span>🔱 7469</span>
+					</div>
+				<div class="stars-today">⭐ 1722 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/ChromeDevTools/chrome-devtools-mcp" target="_blank">
+    
+
+
+      
+        ChromeDevTools /
+
+      chrome-devtools-mcp</a></p>
+				<p>
+      Chrome DevTools for coding agents
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 51332</span>
+						<span>🔱 3615</span>
+					</div>
+				<div class="stars-today">⭐ 1042 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/llvm/llvm-project" target="_blank">
+    
+
+
+      
+        llvm /
+
+      llvm-project</a></p>
+				<p>
+      The LLVM Project is a collection of modular and reusable compiler and toolchain technologies.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 LLVM</span>
+						<span>⭐ 40324</span>
+						<span>🔱 18586</span>
+					</div>
+				<div class="stars-today">⭐ 304 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/mksglu/context-mode" target="_blank">
+    
+
+
+      
+        mksglu /
+
+      context-mode</a></p>
+				<p>
+      Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 21194</span>
+						<span>🔱 1536</span>
+					</div>
+				<div class="stars-today">⭐ 399 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/NousResearch/hermes-agent" target="_blank">
+    
+
+
+      
+        NousResearch /
+
+      hermes-agent</a></p>
+				<p>
+      The agent that grows with you
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 9385</span>
-						<span>🔱 1186</span>
+						<span>⭐ 243245</span>
+						<span>🔱 50119</span>
 					</div>
-				<div class="stars-today">⭐ 235 stars this week</div>
+				<div class="stars-today">⭐ 4229 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/heygen-com/hyperframes" target="_blank">
+    
+
+
+      
+        heygen-com /
+
+      hyperframes</a></p>
+				<p>
+      Write HTML. Render video. Built for agents.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 47340</span>
+						<span>🔱 4371</span>
+					</div>
+				<div class="stars-today">⭐ 3811 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/facebook/zstd" target="_blank">
+    
+
+
+      
+        facebook /
+
+      zstd</a></p>
+				<p>
+      Zstandard - Fast real-time compression algorithm
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 C</span>
+						<span>⭐ 27734</span>
+						<span>🔱 2587</span>
+					</div>
+				<div class="stars-today">⭐ 79 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/openai/skills" target="_blank">
+    
+
+
+      
+        openai /
+
+      skills</a></p>
+				<p>
+      Skills Catalog for Codex
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 26297</span>
+						<span>🔱 1764</span>
+					</div>
+				<div class="stars-today">⭐ 969 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/nvm-sh/nvm" target="_blank">
+    
+
+
+      
+        nvm-sh /
+
+      nvm</a></p>
+				<p>
+      Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions. $nvm: 3ArcxqLtXMmBnWbbtfwQgVL3MNnDsggzgGDtXMnjpump
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Shell</span>
+						<span>⭐ 95023</span>
+						<span>🔱 10435</span>
+					</div>
+				<div class="stars-today">⭐ 257 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/bilawalsidhu/gods-eye-view" target="_blank">
+    
+
+
+      
+        bilawalsidhu /
+
+      gods-eye-view</a></p>
+				<p>
+      A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 JavaScript</span>
+						<span>⭐ 19118</span>
+						<span>🔱 3857</span>
+					</div>
+				<div class="stars-today">⭐ 4497 stars this week</div>
 				</div>
 			</div>
 	
@@ -404,32 +404,54 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 17762</span>
-						<span>🔱 2246</span>
+						<span>⭐ 17811</span>
+						<span>🔱 2256</span>
 					</div>
 				<div class="stars-today">⭐ 2137 stars this week</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/tailscale/tailcat" target="_blank">
+				<p><a href="https://github.com/ruvnet/ruflo" target="_blank">
     
 
 
       
-        tailscale /
+        ruvnet /
 
-      tailcat</a></p>
+      ruflo</a></p>
 				<p>
-      like netcat, but over Tailscale's data plane, without Tailscale's control plane
+      🌊 The original agent meta-harness. Deploy intelligent multi-player swarms, coordinate autonomous workflows, and build conversational AI systems. Features adaptive memory, self-learning intelligence, RAG integration, and native Claude Code / Codex / Hermes and many more Integrated
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Go</span>
-						<span>⭐ 6748</span>
-						<span>🔱 264</span>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 71588</span>
+						<span>🔱 8467</span>
 					</div>
-				<div class="stars-today">⭐ 2091 stars this week</div>
+				<div class="stars-today">⭐ 1578 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/google-research/timesfm" target="_blank">
+    
+
+
+      
+        google-research /
+
+      timesfm</a></p>
+				<p>
+      TimesFM (Time Series Foundation Model) is a pretrained time-series foundation model developed by Google Research for time-series forecasting.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 31931</span>
+						<span>🔱 3053</span>
+					</div>
+				<div class="stars-today">⭐ 3506 stars this week</div>
 				</div>
 			</div>
 	

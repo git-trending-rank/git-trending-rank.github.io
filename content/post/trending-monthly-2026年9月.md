@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2026年9月
-date: 2026-09-08T06:33:58Z
+date: 2026-09-08T12:17:50Z
 categories:
 - monthly
 keywords:
@@ -30,8 +30,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 HTML</span>
-						<span>⭐ 33451</span>
-						<span>🔱 2141</span>
+						<span>⭐ 33737</span>
+						<span>🔱 2152</span>
 					</div>
 				<div class="stars-today">⭐ 29958 stars this month</div>
 				</div>
@@ -52,54 +52,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Shell</span>
-						<span>⭐ 39125</span>
-						<span>🔱 4222</span>
+						<span>⭐ 39226</span>
+						<span>🔱 4235</span>
 					</div>
 				<div class="stars-today">⭐ 14766 stars this month</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/semantica-agi/semantica" target="_blank">
+				<p><a href="https://github.com/cursor/plugins" target="_blank">
     
 
 
       
-        semantica-agi /
+        cursor /
 
-      semantica</a></p>
+      plugins</a></p>
 				<p>
-      Graph-Native Infrastructure for Context and Accountable AI Systems
+      Cursor plugin specification and official plugins
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 12325</span>
-						<span>🔱 1390</span>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 7081</span>
+						<span>🔱 609</span>
 					</div>
-				<div class="stars-today">⭐ 10142 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/anthropics/claude-plugins-community" target="_blank">
-    
-
-
-      
-        anthropics /
-
-      claude-plugins-community</a></p>
-				<p>
-      Community plugin marketplace for Claude Cowork and Claude Code. Read-only mirror — submit plugins at clau.de/plugin-directory-submission.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 3597</span>
-						<span>🔱 278</span>
-					</div>
-				<div class="stars-today">⭐ 3285 stars this month</div>
+				<div class="stars-today">⭐ 4562 stars this month</div>
 				</div>
 			</div>
 	
@@ -118,10 +96,54 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 JavaScript</span>
-						<span>⭐ 53555</span>
-						<span>🔱 3517</span>
+						<span>⭐ 54067</span>
+						<span>🔱 3540</span>
 					</div>
 				<div class="stars-today">⭐ 42314 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/anthropics/claude-plugins-community" target="_blank">
+    
+
+
+      
+        anthropics /
+
+      claude-plugins-community</a></p>
+				<p>
+      Community plugin marketplace for Claude Cowork and Claude Code. Read-only mirror — submit plugins at clau.de/plugin-directory-submission.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 3612</span>
+						<span>🔱 280</span>
+					</div>
+				<div class="stars-today">⭐ 3285 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/semantica-agi/semantica" target="_blank">
+    
+
+
+      
+        semantica-agi /
+
+      semantica</a></p>
+				<p>
+      Graph-Native Infrastructure for Context and Accountable AI Systems
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 12362</span>
+						<span>🔱 1393</span>
+					</div>
+				<div class="stars-today">⭐ 10142 stars this month</div>
 				</div>
 			</div>
 	
@@ -140,8 +162,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Rust</span>
-						<span>⭐ 20002</span>
-						<span>🔱 617</span>
+						<span>⭐ 20056</span>
+						<span>🔱 618</span>
 					</div>
 				<div class="stars-today">⭐ 11676 stars this month</div>
 				</div>
@@ -162,8 +184,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 35979</span>
-						<span>🔱 2745</span>
+						<span>⭐ 36028</span>
+						<span>🔱 2747</span>
 					</div>
 				<div class="stars-today">⭐ 7993 stars this month</div>
 				</div>
@@ -184,8 +206,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Rust</span>
-						<span>⭐ 32885</span>
-						<span>🔱 5370</span>
+						<span>⭐ 32902</span>
+						<span>🔱 5371</span>
 					</div>
 				<div class="stars-today">⭐ 6041 stars this month</div>
 				</div>
@@ -206,8 +228,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 JavaScript</span>
-						<span>⭐ 28754</span>
-						<span>🔱 2758</span>
+						<span>⭐ 28979</span>
+						<span>🔱 2773</span>
 					</div>
 				<div class="stars-today">⭐ 19058 stars this month</div>
 				</div>
@@ -228,32 +250,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 33243</span>
-						<span>🔱 5392</span>
+						<span>⭐ 33395</span>
+						<span>🔱 5405</span>
 					</div>
 				<div class="stars-today">⭐ 12423 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/youssofal/MTPLX" target="_blank">
-    
-
-
-      
-        youssofal /
-
-      MTPLX</a></p>
-				<p>
-      3x faster speeds on MLX | Qwen 3.8 27B | Native MTP Speculative Decoding On Apple Silicon With No External Drafter.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 2162</span>
-						<span>🔱 159</span>
-					</div>
-				<div class="stars-today">⭐ 1000 stars this month</div>
 				</div>
 			</div>
 	
@@ -272,8 +272,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 10522</span>
-						<span>🔱 674</span>
+						<span>⭐ 10548</span>
+						<span>🔱 675</span>
 					</div>
 				<div class="stars-today">⭐ 7126 stars this month</div>
 				</div>
@@ -294,7 +294,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Swift</span>
-						<span>⭐ 16805</span>
+						<span>⭐ 16915</span>
 						<span>🔱 586</span>
 					</div>
 				<div class="stars-today">⭐ 11945 stars this month</div>
@@ -316,7 +316,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Mojo</span>
-						<span>⭐ 29614</span>
+						<span>⭐ 29619</span>
 						<span>🔱 3158</span>
 					</div>
 				<div class="stars-today">⭐ 3016 stars this month</div>
@@ -324,68 +324,24 @@ keywords:
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/PrimeIntellect-ai/prime-agent" target="_blank">
+				<p><a href="https://github.com/akitaonrails/ai-memory" target="_blank">
     
 
 
       
-        PrimeIntellect-ai /
+        akitaonrails /
 
-      prime-agent</a></p>
+      ai-memory</a></p>
 				<p>
-      A self-improving RLM agent for coding workflows and long-running autonomous tasks.
+      Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 20216</span>
-						<span>🔱 2208</span>
+						<span>🔠 Rust</span>
+						<span>⭐ 6072</span>
+						<span>🔱 422</span>
 					</div>
-				<div class="stars-today">⭐ 15094 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/apache/maka" target="_blank">
-    
-
-
-      
-        apache /
-
-      maka</a></p>
-				<p>
-      Apache Maka (Incubating) is a high-performance agent workspace that keeps a complete record of everything it did.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 4985</span>
-						<span>🔱 467</span>
-					</div>
-				<div class="stars-today">⭐ 3715 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/3b1b/manim" target="_blank">
-    
-
-
-      
-        3b1b /
-
-      manim</a></p>
-				<p>
-      Animation engine for explanatory math videos
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 93439</span>
-						<span>🔱 7675</span>
-					</div>
-				<div class="stars-today">⭐ 4285 stars this month</div>
+				<div class="stars-today">⭐ 4570 stars this month</div>
 				</div>
 			</div>
 	
@@ -404,10 +360,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 20868</span>
-						<span>🔱 2599</span>
+						<span>⭐ 21071</span>
+						<span>🔱 2619</span>
 					</div>
 				<div class="stars-today">⭐ 10716 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/apache/maka" target="_blank">
+    
+
+
+      
+        apache /
+
+      maka</a></p>
+				<p>
+      Apache Maka (Incubating) is a high-performance agent workspace that keeps a complete record of everything it did.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 5013</span>
+						<span>🔱 469</span>
+					</div>
+				<div class="stars-today">⭐ 3715 stars this month</div>
 				</div>
 			</div>
 	
@@ -426,10 +404,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 477208</span>
-						<span>🔱 52669</span>
+						<span>⭐ 477333</span>
+						<span>🔱 52684</span>
 					</div>
 				<div class="stars-today">⭐ 22977 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/3b1b/manim" target="_blank">
+    
+
+
+      
+        3b1b /
+
+      manim</a></p>
+				<p>
+      Animation engine for explanatory math videos
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 93470</span>
+						<span>🔱 7676</span>
+					</div>
+				<div class="stars-today">⭐ 4285 stars this month</div>
 				</div>
 			</div>
 	
@@ -446,32 +446,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Swift</span>
-						<span>⭐ 11184</span>
-						<span>🔱 1423</span>
+						<span>⭐ 11230</span>
+						<span>🔱 1427</span>
 					</div>
 				<div class="stars-today">⭐ 3540 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/vitali87/code-graph-rag" target="_blank">
-    
-
-
-      
-        vitali87 /
-
-      code-graph-rag</a></p>
-				<p>
-      The ultimate RAG for your monorepo. Query, understand, and edit multi-language codebases with the power of AI and knowledge graphs
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 5088</span>
-						<span>🔱 665</span>
-					</div>
-				<div class="stars-today">⭐ 2529 stars this month</div>
 				</div>
 			</div>
 	
@@ -490,10 +468,54 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 14736</span>
+						<span>⭐ 14753</span>
 						<span>🔱 1880</span>
 					</div>
 				<div class="stars-today">⭐ 2795 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/MiaAI-Lab/DeepSeek-v4-Flash-DSpark-2x-DGX-Spark" target="_blank">
+    
+
+
+      
+        MiaAI-Lab /
+
+      DeepSeek-v4-Flash-DSpark-2x-DGX-Spark</a></p>
+				<p>
+      DeepSeek-v4-Flash 0731 recipe for 2x DGX Sparks
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 1278</span>
+						<span>🔱 178</span>
+					</div>
+				<div class="stars-today">⭐ 809 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/unslothai/unsloth" target="_blank">
+    
+
+
+      
+        unslothai /
+
+      unsloth</a></p>
+				<p>
+      Local UI to run and train LLMs and diffusion models. Supports GGUF, MLX, Qwen3.8, DeepSeek-V4, MiniMax-H3, Gemma 4, FLUX and more.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 75810</span>
+						<span>🔱 6900</span>
+					</div>
+				<div class="stars-today">⭐ 6317 stars this month</div>
 				</div>
 			</div>
 	
