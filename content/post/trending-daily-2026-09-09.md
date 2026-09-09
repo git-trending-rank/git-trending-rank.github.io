@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2026-09-09
-date: 2026-09-09T06:45:58Z
+date: 2026-09-09T12:29:42Z
 categories:
 - daily
 keywords:
@@ -30,120 +30,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 31566</span>
-						<span>🔱 1898</span>
+						<span>⭐ 32792</span>
+						<span>🔱 1949</span>
 					</div>
 				<div class="stars-today">⭐ 656 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/cathrynlavery/diagram-design" target="_blank">
+				<p><a href="https://github.com/Tencent/teamai-cli" target="_blank">
     
 
 
       
-        cathrynlavery /
+        Tencent /
 
-      diagram-design</a></p>
+      teamai-cli</a></p>
 				<p>
-      38 editorial diagram types for Claude Code, Codex, and Pi. Self-contained HTML + SVG. No shadows. No Mermaid slop.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 HTML</span>
-						<span>⭐ 35454</span>
-						<span>🔱 2227</span>
-					</div>
-				<div class="stars-today">⭐ 710 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/openai/skills" target="_blank">
-    
-
-
-      
-        openai /
-
-      skills</a></p>
-				<p>
-      Skills Catalog for Codex
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 26648</span>
-						<span>🔱 1787</span>
-					</div>
-				<div class="stars-today">⭐ 490 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/affaan-m/ECC" target="_blank">
-    
-
-
-      
-        affaan-m /
-
-      ECC</a></p>
-				<p>
-      The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 JavaScript</span>
-						<span>⭐ 254558</span>
-						<span>🔱 38135</span>
-					</div>
-				<div class="stars-today">⭐ 1427 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/heygen-com/hyperframes" target="_blank">
-    
-
-
-      
-        heygen-com /
-
-      hyperframes</a></p>
-				<p>
-      Write HTML. Render video. Built for agents.
+      Make Every Team AI Native
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 48014</span>
-						<span>🔱 4408</span>
+						<span>⭐ 2666</span>
+						<span>🔱 169</span>
 					</div>
-				<div class="stars-today">⭐ 2627 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/coreyhaines31/marketingskills" target="_blank">
-    
-
-
-      
-        coreyhaines31 /
-
-      marketingskills</a></p>
-				<p>
-      Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics, and growth engineering.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 JavaScript</span>
-						<span>⭐ 48991</span>
-						<span>🔱 7503</span>
-					</div>
-				<div class="stars-today">⭐ 666 stars today</div>
+				<div class="stars-today">⭐ 1083 stars today</div>
 				</div>
 			</div>
 	
@@ -162,164 +74,98 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Shell</span>
-						<span>⭐ 283535</span>
-						<span>🔱 25383</span>
+						<span>⭐ 283713</span>
+						<span>🔱 25392</span>
 					</div>
 				<div class="stars-today">⭐ 452 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/multica-ai/andrej-karpathy-skills" target="_blank">
+				<p><a href="https://github.com/pascalorg/editor" target="_blank">
     
 
 
       
-        multica-ai /
+        pascalorg /
 
-      andrej-karpathy-skills</a></p>
+      editor</a></p>
 				<p>
-      A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 </span>
-						<span>⭐ 211630</span>
-						<span>🔱 21478</span>
-					</div>
-				<div class="stars-today">⭐ 333 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/microsoft/markitdown" target="_blank">
-    
-
-
-      
-        microsoft /
-
-      markitdown</a></p>
-				<p>
-      Python tool for converting files and office documents to Markdown.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 181921</span>
-						<span>🔱 13360</span>
-					</div>
-				<div class="stars-today">⭐ 2047 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/jo-inc/camofox-browser" target="_blank">
-    
-
-
-      
-        jo-inc /
-
-      camofox-browser</a></p>
-				<p>
-      Stealth headless browser for AI agents — bypass Cloudflare, bot detection, and anti-scraping. Drop-in Puppeteer/Playwright replacement.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 JavaScript</span>
-						<span>⭐ 10680</span>
-						<span>🔱 1061</span>
-					</div>
-				<div class="stars-today">⭐ 871 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/MoonTechLab/LunaTV" target="_blank">
-    
-
-
-      
-        MoonTechLab /
-
-      LunaTV</a></p>
-				<p>
-      本项目采用 CC BY-NC-SA 协议，禁止任何商业化行为，任何衍生项目必须保留本项目地址并以相同协议开源
+      Create and share 3D architectural projects.
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 10290</span>
-						<span>🔱 9060</span>
+						<span>⭐ 22686</span>
+						<span>🔱 2885</span>
 					</div>
-				<div class="stars-today">⭐ 505 stars today</div>
+				<div class="stars-today">⭐ 442 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/browser-use/browser-use" target="_blank">
+				<p><a href="https://github.com/earthtojake/text-to-cad" target="_blank">
     
 
 
       
-        browser-use /
+        earthtojake /
 
-      browser-use</a></p>
+      text-to-cad</a></p>
 				<p>
-      Agents that use the browser.
+      A library of agent skills for CAD, CAE and CAM
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 113743</span>
-						<span>🔱 12500</span>
+						<span>⭐ 14843</span>
+						<span>🔱 1556</span>
 					</div>
-				<div class="stars-today">⭐ 228 stars today</div>
+				<div class="stars-today">⭐ 97 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/mksglu/context-mode" target="_blank">
+				<p><a href="https://github.com/cathrynlavery/diagram-design" target="_blank">
     
 
 
       
-        mksglu /
+        cathrynlavery /
 
-      context-mode</a></p>
+      diagram-design</a></p>
 				<p>
-      Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks.
+      38 editorial diagram types for Claude Code, Codex, and Pi. Self-contained HTML + SVG. No shadows. No Mermaid slop.
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 21503</span>
-						<span>🔱 1548</span>
+						<span>🔠 HTML</span>
+						<span>⭐ 36018</span>
+						<span>🔱 2264</span>
 					</div>
-				<div class="stars-today">⭐ 651 stars today</div>
+				<div class="stars-today">⭐ 710 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/The-Swarm-Corporation/AutoHedge" target="_blank">
+				<p><a href="https://github.com/TauricResearch/TradingAgents" target="_blank">
     
 
 
       
-        The-Swarm-Corporation /
+        TauricResearch /
 
-      AutoHedge</a></p>
+      TradingAgents</a></p>
 				<p>
-      Build your autonomous hedge fund in minutes. AutoHedge harnesses the power of swarm intelligence and AI agents to automate market analysis, risk management, and trade execution.
+      TradingAgents: Multi-Agents LLM Financial Trading Framework
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 5826</span>
-						<span>🔱 846</span>
+						<span>⭐ 103579</span>
+						<span>🔱 19924</span>
 					</div>
-				<div class="stars-today">⭐ 494 stars today</div>
+				<div class="stars-today">⭐ 506 stars today</div>
 				</div>
 			</div>
 	
@@ -338,32 +184,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 </span>
-						<span>⭐ 17112</span>
-						<span>🔱 3264</span>
+						<span>⭐ 17535</span>
+						<span>🔱 3339</span>
 					</div>
 				<div class="stars-today">⭐ 910 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/viarotel-org/escrcpy" target="_blank">
-    
-
-
-      
-        viarotel-org /
-
-      escrcpy</a></p>
-				<p>
-      📱 Display and control your Android device graphically with scrcpy.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 JavaScript</span>
-						<span>⭐ 11511</span>
-						<span>🔱 801</span>
-					</div>
-				<div class="stars-today">⭐ 178 stars today</div>
 				</div>
 			</div>
 	
@@ -382,10 +206,98 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 JavaScript</span>
-						<span>⭐ 5942</span>
-						<span>🔱 806</span>
+						<span>⭐ 6062</span>
+						<span>🔱 812</span>
 					</div>
 				<div class="stars-today">⭐ 105 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/freestylefly/awesome-gpt-image-2" target="_blank">
+    
+
+
+      
+        freestylefly /
+
+      awesome-gpt-image-2</a></p>
+				<p>
+      Prompt as Code | GPT-Image2 工业级提示词引擎与模板库，530+ 个案例逆向工程，20+ 套工业级模板，并提炼出Skills，持续更新中
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 JavaScript</span>
+						<span>⭐ 29647</span>
+						<span>🔱 2848</span>
+					</div>
+				<div class="stars-today">⭐ 612 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/rohitg00/ai-engineering-from-scratch" target="_blank">
+    
+
+
+      
+        rohitg00 /
+
+      ai-engineering-from-scratch</a></p>
+				<p>
+      Learn it. Build it. Ship it for others.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 53364</span>
+						<span>🔱 9346</span>
+					</div>
+				<div class="stars-today">⭐ 356 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/vastsa/PI-Desktop" target="_blank">
+    
+
+
+      
+        vastsa /
+
+      PI-Desktop</a></p>
+				<p>
+      Local-first AI coding agent desktop: Electron + Rust host core + pi Agent Harness + user-installable plugins
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 1453</span>
+						<span>🔱 144</span>
+					</div>
+				<div class="stars-today">⭐ 393 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/affaan-m/ECC" target="_blank">
+    
+
+
+      
+        affaan-m /
+
+      ECC</a></p>
+				<p>
+      The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 JavaScript</span>
+						<span>⭐ 254755</span>
+						<span>🔱 38161</span>
+					</div>
+				<div class="stars-today">⭐ 1427 stars today</div>
 				</div>
 			</div>
 	

@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2026年第37周
-date: 2026-09-09T06:45:58Z
+date: 2026-09-09T12:29:43Z
 categories:
 - weekly
 keywords:
@@ -16,24 +16,24 @@ keywords:
 
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/fmtlib/fmt" target="_blank">
+				<p><a href="https://github.com/DietrichGebert/ponytail" target="_blank">
     
 
 
       
-        fmtlib /
+        DietrichGebert /
 
-      fmt</a></p>
+      ponytail</a></p>
 				<p>
-      A modern formatting library
+      Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 C++</span>
-						<span>⭐ 25687</span>
-						<span>🔱 3050</span>
+						<span>🔠 JavaScript</span>
+						<span>⭐ 132918</span>
+						<span>🔱 7111</span>
 					</div>
-				<div class="stars-today">⭐ 1935 stars this week</div>
+				<div class="stars-today">⭐ 12598 stars this week</div>
 				</div>
 			</div>
 	
@@ -52,32 +52,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 JavaScript</span>
-						<span>⭐ 254558</span>
-						<span>🔱 38135</span>
+						<span>⭐ 254755</span>
+						<span>🔱 38161</span>
 					</div>
 				<div class="stars-today">⭐ 8527 stars this week</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/DietrichGebert/ponytail" target="_blank">
+				<p><a href="https://github.com/fmtlib/fmt" target="_blank">
     
 
 
       
-        DietrichGebert /
+        fmtlib /
 
-      ponytail</a></p>
+      fmt</a></p>
 				<p>
-      Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.
+      A modern formatting library
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 JavaScript</span>
-						<span>⭐ 132534</span>
-						<span>🔱 7090</span>
+						<span>🔠 C++</span>
+						<span>⭐ 25693</span>
+						<span>🔱 3053</span>
 					</div>
-				<div class="stars-today">⭐ 12598 stars this week</div>
+				<div class="stars-today">⭐ 1935 stars this week</div>
 				</div>
 			</div>
 	
@@ -96,54 +96,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 JavaScript</span>
-						<span>⭐ 55167</span>
-						<span>🔱 3619</span>
+						<span>⭐ 55569</span>
+						<span>🔱 3641</span>
 					</div>
 				<div class="stars-today">⭐ 13318 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/blader/humanizer" target="_blank">
-    
-
-
-      
-        blader /
-
-      humanizer</a></p>
-				<p>
-      Agent skill that removes signs of AI-generated writing from text
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 45573</span>
-						<span>🔱 3749</span>
-					</div>
-				<div class="stars-today">⭐ 5790 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/Imbad0202/academic-research-skills" target="_blank">
-    
-
-
-      
-        Imbad0202 /
-
-      academic-research-skills</a></p>
-				<p>
-      Academic Research Skills for Claude Code: research → write → review → revise → finalize
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 47125</span>
-						<span>🔱 3688</span>
-					</div>
-				<div class="stars-today">⭐ 2430 stars this week</div>
 				</div>
 			</div>
 	
@@ -162,98 +118,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Shell</span>
-						<span>⭐ 257189</span>
-						<span>🔱 21666</span>
+						<span>⭐ 257468</span>
+						<span>🔱 21698</span>
 					</div>
 				<div class="stars-today">⭐ 13419 stars this week</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/coreyhaines31/marketingskills" target="_blank">
+				<p><a href="https://github.com/blader/humanizer" target="_blank">
     
 
 
       
-        coreyhaines31 /
+        blader /
 
-      marketingskills</a></p>
+      humanizer</a></p>
 				<p>
-      Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics, and growth engineering.
+      Agent skill that removes signs of AI-generated writing from text
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 JavaScript</span>
-						<span>⭐ 48991</span>
-						<span>🔱 7503</span>
+						<span>🔠 Python</span>
+						<span>⭐ 45744</span>
+						<span>🔱 3757</span>
 					</div>
-				<div class="stars-today">⭐ 2141 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/ChromeDevTools/chrome-devtools-mcp" target="_blank">
-    
-
-
-      
-        ChromeDevTools /
-
-      chrome-devtools-mcp</a></p>
-				<p>
-      Chrome DevTools for coding agents
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 51401</span>
-						<span>🔱 3609</span>
-					</div>
-				<div class="stars-today">⭐ 1014 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/llvm/llvm-project" target="_blank">
-    
-
-
-      
-        llvm /
-
-      llvm-project</a></p>
-				<p>
-      The LLVM Project is a collection of modular and reusable compiler and toolchain technologies.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 LLVM</span>
-						<span>⭐ 40351</span>
-						<span>🔱 18595</span>
-					</div>
-				<div class="stars-today">⭐ 304 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/mksglu/context-mode" target="_blank">
-    
-
-
-      
-        mksglu /
-
-      context-mode</a></p>
-				<p>
-      Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 21503</span>
-						<span>🔱 1548</span>
-					</div>
-				<div class="stars-today">⭐ 935 stars this week</div>
+				<div class="stars-today">⭐ 5790 stars this week</div>
 				</div>
 			</div>
 	
@@ -272,10 +162,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 243566</span>
-						<span>🔱 50232</span>
+						<span>⭐ 243669</span>
+						<span>🔱 50262</span>
 					</div>
 				<div class="stars-today">⭐ 4221 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/ChromeDevTools/chrome-devtools-mcp" target="_blank">
+    
+
+
+      
+        ChromeDevTools /
+
+      chrome-devtools-mcp</a></p>
+				<p>
+      Chrome DevTools for coding agents
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 51425</span>
+						<span>🔱 3614</span>
+					</div>
+				<div class="stars-today">⭐ 1014 stars this week</div>
 				</div>
 			</div>
 	
@@ -294,32 +206,54 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 48014</span>
-						<span>🔱 4408</span>
+						<span>⭐ 48222</span>
+						<span>🔱 4420</span>
 					</div>
 				<div class="stars-today">⭐ 3886 stars this week</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/facebook/zstd" target="_blank">
+				<p><a href="https://github.com/ayghri/i-have-adhd" target="_blank">
     
 
 
       
-        facebook /
+        ayghri /
 
-      zstd</a></p>
+      i-have-adhd</a></p>
 				<p>
-      Zstandard - Fast real-time compression algorithm
+      A skill to stop your coding agent from burying the answer. ADHD-friendly output.
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 C</span>
-						<span>⭐ 27773</span>
-						<span>🔱 2590</span>
+						<span>🔠 Python</span>
+						<span>⭐ 32792</span>
+						<span>🔱 1949</span>
 					</div>
-				<div class="stars-today">⭐ 88 stars this week</div>
+				<div class="stars-today">⭐ 5927 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/mksglu/context-mode" target="_blank">
+    
+
+
+      
+        mksglu /
+
+      context-mode</a></p>
+				<p>
+      Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 21601</span>
+						<span>🔱 1555</span>
+					</div>
+				<div class="stars-today">⭐ 935 stars this week</div>
 				</div>
 			</div>
 	
@@ -338,54 +272,98 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 26648</span>
-						<span>🔱 1787</span>
+						<span>⭐ 26735</span>
+						<span>🔱 1793</span>
 					</div>
 				<div class="stars-today">⭐ 1005 stars this week</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/nvm-sh/nvm" target="_blank">
+				<p><a href="https://github.com/coreyhaines31/marketingskills" target="_blank">
     
 
 
       
-        nvm-sh /
+        coreyhaines31 /
 
-      nvm</a></p>
+      marketingskills</a></p>
 				<p>
-      Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions. $nvm: 3ArcxqLtXMmBnWbbtfwQgVL3MNnDsggzgGDtXMnjpump
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Shell</span>
-						<span>⭐ 95045</span>
-						<span>🔱 10441</span>
-					</div>
-				<div class="stars-today">⭐ 257 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/bilawalsidhu/gods-eye-view" target="_blank">
-    
-
-
-      
-        bilawalsidhu /
-
-      gods-eye-view</a></p>
-				<p>
-      A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe.
+      Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics, and growth engineering.
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 JavaScript</span>
-						<span>⭐ 19904</span>
-						<span>🔱 4089</span>
+						<span>⭐ 49134</span>
+						<span>🔱 7510</span>
 					</div>
-				<div class="stars-today">⭐ 4196 stars this week</div>
+				<div class="stars-today">⭐ 2141 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/openai/plugins" target="_blank">
+    
+
+
+      
+        openai /
+
+      plugins</a></p>
+				<p>
+      OpenAI Plugins
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 JavaScript</span>
+						<span>⭐ 6062</span>
+						<span>🔱 812</span>
+					</div>
+				<div class="stars-today">⭐ 330 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/THU-MAIC/OpenMAIC" target="_blank">
+    
+
+
+      
+        THU-MAIC /
+
+      OpenMAIC</a></p>
+				<p>
+      Open Multi-Agent Interactive Classroom — Get an immersive, multi-agent learning experience in just one click
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 34126</span>
+						<span>🔱 5488</span>
+					</div>
+				<div class="stars-today">⭐ 4380 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/Imbad0202/academic-research-skills" target="_blank">
+    
+
+
+      
+        Imbad0202 /
+
+      academic-research-skills</a></p>
+				<p>
+      Academic Research Skills for Claude Code: research → write → review → revise → finalize
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 47199</span>
+						<span>🔱 3691</span>
+					</div>
+				<div class="stars-today">⭐ 2430 stars this week</div>
 				</div>
 			</div>
 	
@@ -404,8 +382,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 17982</span>
-						<span>🔱 2267</span>
+						<span>⭐ 18034</span>
+						<span>🔱 2268</span>
 					</div>
 				<div class="stars-today">⭐ 1846 stars this week</div>
 				</div>
@@ -426,32 +404,54 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 71711</span>
-						<span>🔱 8486</span>
+						<span>⭐ 71743</span>
+						<span>🔱 8494</span>
 					</div>
 				<div class="stars-today">⭐ 1585 stars this week</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/google-research/timesfm" target="_blank">
+				<p><a href="https://github.com/llvm/llvm-project" target="_blank">
     
 
 
       
-        google-research /
+        llvm /
 
-      timesfm</a></p>
+      llvm-project</a></p>
 				<p>
-      TimesFM (Time Series Foundation Model) is a pretrained time-series foundation model developed by Google Research for time-series forecasting.
+      The LLVM Project is a collection of modular and reusable compiler and toolchain technologies.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 LLVM</span>
+						<span>⭐ 40359</span>
+						<span>🔱 18595</span>
+					</div>
+				<div class="stars-today">⭐ 304 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/petergyang/no-ai-slop" target="_blank">
+    
+
+
+      
+        petergyang /
+
+      no-ai-slop</a></p>
+				<p>
+      Removes 20+ patterns of AI slop from any piece of writing.
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 32056</span>
-						<span>🔱 3063</span>
+						<span>⭐ 7709</span>
+						<span>🔱 580</span>
 					</div>
-				<div class="stars-today">⭐ 3365 stars this week</div>
+				<div class="stars-today">⭐ 1038 stars this week</div>
 				</div>
 			</div>
 	

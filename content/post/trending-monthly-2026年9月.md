@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2026年9月
-date: 2026-09-09T06:45:58Z
+date: 2026-09-09T12:29:42Z
 categories:
 - monthly
 keywords:
@@ -30,8 +30,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 HTML</span>
-						<span>⭐ 35454</span>
-						<span>🔱 2227</span>
+						<span>⭐ 36018</span>
+						<span>🔱 2264</span>
 					</div>
 				<div class="stars-today">⭐ 30797 stars this month</div>
 				</div>
@@ -52,8 +52,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Shell</span>
-						<span>⭐ 39510</span>
-						<span>🔱 4289</span>
+						<span>⭐ 39596</span>
+						<span>🔱 4299</span>
 					</div>
 				<div class="stars-today">⭐ 15226 stars this month</div>
 				</div>
@@ -74,8 +74,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 7170</span>
-						<span>🔱 620</span>
+						<span>⭐ 7200</span>
+						<span>🔱 623</span>
 					</div>
 				<div class="stars-today">⭐ 4574 stars this month</div>
 				</div>
@@ -96,8 +96,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 JavaScript</span>
-						<span>⭐ 55167</span>
-						<span>🔱 3619</span>
+						<span>⭐ 55569</span>
+						<span>🔱 3641</span>
 					</div>
 				<div class="stars-today">⭐ 44220 stars this month</div>
 				</div>
@@ -118,32 +118,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 3650</span>
+						<span>⭐ 3660</span>
 						<span>🔱 282</span>
 					</div>
 				<div class="stars-today">⭐ 3348 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/semantica-agi/semantica" target="_blank">
-    
-
-
-      
-        semantica-agi /
-
-      semantica</a></p>
-				<p>
-      Graph-Native Infrastructure for Context and Accountable AI Systems
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 12449</span>
-						<span>🔱 1394</span>
-					</div>
-				<div class="stars-today">⭐ 9951 stars this month</div>
 				</div>
 			</div>
 	
@@ -162,7 +140,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Rust</span>
-						<span>⭐ 20225</span>
+						<span>⭐ 20268</span>
 						<span>🔱 625</span>
 					</div>
 				<div class="stars-today">⭐ 11896 stars this month</div>
@@ -184,10 +162,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 36140</span>
-						<span>🔱 2755</span>
+						<span>⭐ 36215</span>
+						<span>🔱 2766</span>
 					</div>
 				<div class="stars-today">⭐ 8115 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/semantica-agi/semantica" target="_blank">
+    
+
+
+      
+        semantica-agi /
+
+      semantica</a></p>
+				<p>
+      Graph-Native Infrastructure for Context and Accountable AI Systems
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 12478</span>
+						<span>🔱 1398</span>
+					</div>
+				<div class="stars-today">⭐ 9951 stars this month</div>
 				</div>
 			</div>
 	
@@ -206,7 +206,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Rust</span>
-						<span>⭐ 32950</span>
+						<span>⭐ 32966</span>
 						<span>🔱 5376</span>
 					</div>
 				<div class="stars-today">⭐ 6114 stars this month</div>
@@ -228,8 +228,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 JavaScript</span>
-						<span>⭐ 29442</span>
-						<span>🔱 2821</span>
+						<span>⭐ 29647</span>
+						<span>🔱 2848</span>
 					</div>
 				<div class="stars-today">⭐ 19654 stars this month</div>
 				</div>
@@ -250,32 +250,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 33851</span>
-						<span>🔱 5460</span>
+						<span>⭐ 34126</span>
+						<span>🔱 5488</span>
 					</div>
 				<div class="stars-today">⭐ 13038 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/cactus-compute/needle" target="_blank">
-    
-
-
-      
-        cactus-compute /
-
-      needle</a></p>
-				<p>
-      14MB foundation model for tiny devices; phones, wearables, smart home, and robots.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 10626</span>
-						<span>🔱 677</span>
-					</div>
-				<div class="stars-today">⭐ 7220 stars this month</div>
 				</div>
 			</div>
 	
@@ -294,8 +272,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Swift</span>
-						<span>⭐ 17347</span>
-						<span>🔱 602</span>
+						<span>⭐ 17575</span>
+						<span>🔱 615</span>
 					</div>
 				<div class="stars-today">⭐ 12282 stars this month</div>
 				</div>
@@ -316,32 +294,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Mojo</span>
-						<span>⭐ 29637</span>
-						<span>🔱 3161</span>
+						<span>⭐ 29641</span>
+						<span>🔱 3162</span>
 					</div>
 				<div class="stars-today">⭐ 3036 stars this month</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/akitaonrails/ai-memory" target="_blank">
+				<p><a href="https://github.com/cactus-compute/needle" target="_blank">
     
 
 
       
-        akitaonrails /
+        cactus-compute /
 
-      ai-memory</a></p>
+      needle</a></p>
 				<p>
-      Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors
+      14MB foundation model for tiny devices; phones, wearables, smart home, and robots.
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Rust</span>
-						<span>⭐ 6157</span>
-						<span>🔱 426</span>
+						<span>🔠 Python</span>
+						<span>⭐ 10647</span>
+						<span>🔱 678</span>
 					</div>
-				<div class="stars-today">⭐ 4716 stars this month</div>
+				<div class="stars-today">⭐ 7220 stars this month</div>
 				</div>
 			</div>
 	
@@ -360,10 +338,54 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 21504</span>
-						<span>🔱 2660</span>
+						<span>⭐ 21632</span>
+						<span>🔱 2672</span>
 					</div>
 				<div class="stars-today">⭐ 11516 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/akitaonrails/ai-memory" target="_blank">
+    
+
+
+      
+        akitaonrails /
+
+      ai-memory</a></p>
+				<p>
+      Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Rust</span>
+						<span>⭐ 6183</span>
+						<span>🔱 426</span>
+					</div>
+				<div class="stars-today">⭐ 4716 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/marin-community/marin" target="_blank">
+    
+
+
+      
+        marin-community /
+
+      marin</a></p>
+				<p>
+      Open-source framework for the research and development of foundation models.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 3544</span>
+						<span>🔱 286</span>
+					</div>
+				<div class="stars-today">⭐ 2352 stars this month</div>
 				</div>
 			</div>
 	
@@ -382,10 +404,30 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 5087</span>
-						<span>🔱 471</span>
+						<span>⭐ 5109</span>
+						<span>🔱 476</span>
 					</div>
 				<div class="stars-today">⭐ 3835 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/Lakr233/vphone-cli" target="_blank">
+    
+
+
+      
+        Lakr233 /
+
+      vphone-cli</a></p>
+				<p></p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Swift</span>
+						<span>⭐ 11341</span>
+						<span>🔱 1438</span>
+					</div>
+				<div class="stars-today">⭐ 3705 stars this month</div>
 				</div>
 			</div>
 	
@@ -404,52 +446,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 477739</span>
-						<span>🔱 52737</span>
+						<span>⭐ 477878</span>
+						<span>🔱 52756</span>
 					</div>
 				<div class="stars-today">⭐ 23450 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/3b1b/manim" target="_blank">
-    
-
-
-      
-        3b1b /
-
-      manim</a></p>
-				<p>
-      Animation engine for explanatory math videos
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 93535</span>
-						<span>🔱 7682</span>
-					</div>
-				<div class="stars-today">⭐ 4394 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/Lakr233/vphone-cli" target="_blank">
-    
-
-
-      
-        Lakr233 /
-
-      vphone-cli</a></p>
-				<p></p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Swift</span>
-						<span>⭐ 11315</span>
-						<span>🔱 1434</span>
-					</div>
-				<div class="stars-today">⭐ 3705 stars this month</div>
 				</div>
 			</div>
 	
@@ -468,7 +468,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 14796</span>
+						<span>⭐ 14806</span>
 						<span>🔱 1881</span>
 					</div>
 				<div class="stars-today">⭐ 2856 stars this month</div>
@@ -476,46 +476,46 @@ keywords:
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/MiaAI-Lab/DeepSeek-v4-Flash-DSpark-2x-DGX-Spark" target="_blank">
+				<p><a href="https://github.com/3b1b/manim" target="_blank">
     
 
 
       
-        MiaAI-Lab /
+        3b1b /
 
-      DeepSeek-v4-Flash-DSpark-2x-DGX-Spark</a></p>
+      manim</a></p>
 				<p>
-      DeepSeek-v4-Flash 0731 recipe for 2x DGX Sparks
+      Animation engine for explanatory math videos
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 1304</span>
-						<span>🔱 179</span>
+						<span>⭐ 93588</span>
+						<span>🔱 7686</span>
 					</div>
-				<div class="stars-today">⭐ 812 stars this month</div>
+				<div class="stars-today">⭐ 4394 stars this month</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/unslothai/unsloth" target="_blank">
+				<p><a href="https://github.com/titanwings/distilly" target="_blank">
     
 
 
       
-        unslothai /
+        titanwings /
 
-      unsloth</a></p>
+      distilly</a></p>
 				<p>
-      Local UI to run and train LLMs and diffusion models. Supports GGUF, MLX, Qwen3.8, DeepSeek-V4, MiniMax-H3, Gemma 4, FLUX and more.
+      Distilly — Distill how they think into reusable Skills for any Agent or Bot. Formerly Colleague Skill（原同事 Skill）.
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 75904</span>
-						<span>🔱 6901</span>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 24466</span>
+						<span>🔱 2133</span>
 					</div>
-				<div class="stars-today">⭐ 6357 stars this month</div>
+				<div class="stars-today">⭐ 3765 stars this month</div>
 				</div>
 			</div>
 	
