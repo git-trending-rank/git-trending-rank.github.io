@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2026年9月
-date: 2026-09-10T06:40:04Z
+date: 2026-09-10T12:23:03Z
 categories:
 - monthly
 keywords:
@@ -14,28 +14,6 @@ keywords:
 	<main class="container">
         <div class="repo-list" id="repoList">
 
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/cathrynlavery/diagram-design" target="_blank">
-    
-
-
-      
-        cathrynlavery /
-
-      diagram-design</a></p>
-				<p>
-      38 editorial diagram types for Claude Code, Codex, and Pi. Self-contained HTML + SVG. No shadows. No Mermaid slop.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 HTML</span>
-						<span>⭐ 36935</span>
-						<span>🔱 2342</span>
-					</div>
-				<div class="stars-today">⭐ 32587 stars this month</div>
-				</div>
-			</div>
 	
 			<div class="repo-card">
 				<p><a href="https://github.com/omacom/omarchy" target="_blank">
@@ -52,10 +30,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Shell</span>
-						<span>⭐ 39836</span>
-						<span>🔱 4345</span>
+						<span>⭐ 39920</span>
+						<span>🔱 4360</span>
 					</div>
 				<div class="stars-today">⭐ 15578 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/cathrynlavery/diagram-design" target="_blank">
+    
+
+
+      
+        cathrynlavery /
+
+      diagram-design</a></p>
+				<p>
+      38 editorial diagram types for Claude Code, Codex, and Pi. Self-contained HTML + SVG. No shadows. No Mermaid slop.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 HTML</span>
+						<span>⭐ 37285</span>
+						<span>🔱 2368</span>
+					</div>
+				<div class="stars-today">⭐ 32587 stars this month</div>
 				</div>
 			</div>
 	
@@ -74,8 +74,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 7289</span>
-						<span>🔱 636</span>
+						<span>⭐ 7315</span>
+						<span>🔱 639</span>
 					</div>
 				<div class="stars-today">⭐ 4683 stars this month</div>
 				</div>
@@ -96,8 +96,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 JavaScript</span>
-						<span>⭐ 56437</span>
-						<span>🔱 3681</span>
+						<span>⭐ 56820</span>
+						<span>🔱 3709</span>
 					</div>
 				<div class="stars-today">⭐ 45313 stars this month</div>
 				</div>
@@ -118,7 +118,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 3709</span>
+						<span>⭐ 3723</span>
 						<span>🔱 281</span>
 					</div>
 				<div class="stars-today">⭐ 3395 stars this month</div>
@@ -140,8 +140,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Rust</span>
-						<span>⭐ 20394</span>
-						<span>🔱 634</span>
+						<span>⭐ 20443</span>
+						<span>🔱 636</span>
 					</div>
 				<div class="stars-today">⭐ 12082 stars this month</div>
 				</div>
@@ -162,32 +162,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 36368</span>
-						<span>🔱 2779</span>
+						<span>⭐ 36435</span>
+						<span>🔱 2789</span>
 					</div>
 				<div class="stars-today">⭐ 8284 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/semantica-agi/semantica" target="_blank">
-    
-
-
-      
-        semantica-agi /
-
-      semantica</a></p>
-				<p>
-      Graph-Native Infrastructure for Context and Accountable AI Systems
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 12548</span>
-						<span>🔱 1403</span>
-					</div>
-				<div class="stars-today">⭐ 9711 stars this month</div>
 				</div>
 			</div>
 	
@@ -206,8 +184,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Rust</span>
-						<span>⭐ 33028</span>
-						<span>🔱 5377</span>
+						<span>⭐ 33041</span>
+						<span>🔱 5376</span>
 					</div>
 				<div class="stars-today">⭐ 6170 stars this month</div>
 				</div>
@@ -228,10 +206,54 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 JavaScript</span>
-						<span>⭐ 30338</span>
-						<span>🔱 2935</span>
+						<span>⭐ 30605</span>
+						<span>🔱 2965</span>
 					</div>
 				<div class="stars-today">⭐ 20295 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/NVIDIA-NeMo/Switchyard" target="_blank">
+    
+
+
+      
+        NVIDIA-NeMo /
+
+      Switchyard</a></p>
+				<p>
+      Switchyard lets LLM applications route traffic across models and providers while preserving native OpenAI and Anthropic API compatibility - enabling flexible model selection, benchmarking, and cost/performance optimization.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 2809</span>
+						<span>🔱 257</span>
+					</div>
+				<div class="stars-today">⭐ 2617 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/semantica-agi/semantica" target="_blank">
+    
+
+
+      
+        semantica-agi /
+
+      semantica</a></p>
+				<p>
+      Graph-Native Infrastructure for Context and Accountable AI Systems
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 12572</span>
+						<span>🔱 1408</span>
+					</div>
+				<div class="stars-today">⭐ 9711 stars this month</div>
 				</div>
 			</div>
 	
@@ -250,10 +272,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 34693</span>
-						<span>🔱 5567</span>
+						<span>⭐ 34929</span>
+						<span>🔱 5597</span>
 					</div>
 				<div class="stars-today">⭐ 13766 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/youssofal/MTPLX" target="_blank">
+    
+
+
+      
+        youssofal /
+
+      MTPLX</a></p>
+				<p>
+      3x faster speeds on MLX | Qwen 3.8 27B | Native MTP Speculative Decoding On Apple Silicon With No External Drafter.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 2192</span>
+						<span>🔱 163</span>
+					</div>
+				<div class="stars-today">⭐ 1055 stars this month</div>
 				</div>
 			</div>
 	
@@ -272,8 +316,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Swift</span>
-						<span>⭐ 17882</span>
-						<span>🔱 630</span>
+						<span>⭐ 17976</span>
+						<span>🔱 631</span>
 					</div>
 				<div class="stars-today">⭐ 12822 stars this month</div>
 				</div>
@@ -294,54 +338,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Mojo</span>
-						<span>⭐ 29659</span>
+						<span>⭐ 29668</span>
 						<span>🔱 3164</span>
 					</div>
 				<div class="stars-today">⭐ 3054 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/cactus-compute/needle" target="_blank">
-    
-
-
-      
-        cactus-compute /
-
-      needle</a></p>
-				<p>
-      14MB foundation model for tiny devices; phones, wearables, smart home, and robots.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 10712</span>
-						<span>🔱 682</span>
-					</div>
-				<div class="stars-today">⭐ 7313 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/debpalash/VoiceStudio" target="_blank">
-    
-
-
-      
-        debpalash /
-
-      VoiceStudio</a></p>
-				<p>
-      VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 21965</span>
-						<span>🔱 2703</span>
-					</div>
-				<div class="stars-today">⭐ 12027 stars this month</div>
 				</div>
 			</div>
 	
@@ -360,54 +360,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Rust</span>
-						<span>⭐ 6345</span>
-						<span>🔱 439</span>
+						<span>⭐ 6393</span>
+						<span>🔱 440</span>
 					</div>
 				<div class="stars-today">⭐ 4804 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/marin-community/marin" target="_blank">
-    
-
-
-      
-        marin-community /
-
-      marin</a></p>
-				<p>
-      Open-source framework for the research and development of foundation models.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 3581</span>
-						<span>🔱 288</span>
-					</div>
-				<div class="stars-today">⭐ 2360 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/apache/maka" target="_blank">
-    
-
-
-      
-        apache /
-
-      maka</a></p>
-				<p>
-      Apache Maka (Incubating) is a high-performance agent workspace that keeps a complete record of everything it did.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 5158</span>
-						<span>🔱 478</span>
-					</div>
-				<div class="stars-today">⭐ 3880 stars this month</div>
 				</div>
 			</div>
 	
@@ -424,8 +380,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Swift</span>
-						<span>⭐ 11423</span>
-						<span>🔱 1447</span>
+						<span>⭐ 11443</span>
+						<span>🔱 1449</span>
 					</div>
 				<div class="stars-today">⭐ 3794 stars this month</div>
 				</div>
@@ -446,76 +402,120 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 478260</span>
-						<span>🔱 52784</span>
+						<span>⭐ 478378</span>
+						<span>🔱 52798</span>
 					</div>
 				<div class="stars-today">⭐ 23852 stars this month</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/megadose/holehe" target="_blank">
+				<p><a href="https://github.com/cactus-compute/needle" target="_blank">
     
 
 
       
-        megadose /
+        cactus-compute /
 
-      holehe</a></p>
+      needle</a></p>
 				<p>
-      holehe allows you to check if the mail is used on different sites like twitter, instagram and will retrieve information on sites with the forgotten password function.
+      14MB foundation model for tiny devices; phones, wearables, smart home, and robots.
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 14850</span>
-						<span>🔱 1884</span>
+						<span>⭐ 10734</span>
+						<span>🔱 684</span>
 					</div>
-				<div class="stars-today">⭐ 2905 stars this month</div>
+				<div class="stars-today">⭐ 7313 stars this month</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/3b1b/manim" target="_blank">
+				<p><a href="https://github.com/apache/maka" target="_blank">
     
 
 
       
-        3b1b /
+        apache /
 
-      manim</a></p>
+      maka</a></p>
 				<p>
-      Animation engine for explanatory math videos
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 93666</span>
-						<span>🔱 7689</span>
-					</div>
-				<div class="stars-today">⭐ 4372 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/titanwings/distilly" target="_blank">
-    
-
-
-      
-        titanwings /
-
-      distilly</a></p>
-				<p>
-      Distilly — Distill how they think into reusable Skills for any Agent or Bot. Formerly Colleague Skill（原同事 Skill）.
+      Apache Maka (Incubating) is a high-performance agent workspace that keeps a complete record of everything it did.
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 24560</span>
-						<span>🔱 2136</span>
+						<span>⭐ 5180</span>
+						<span>🔱 481</span>
 					</div>
-				<div class="stars-today">⭐ 3805 stars this month</div>
+				<div class="stars-today">⭐ 3880 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/AlexsJones/llmfit" target="_blank">
+    
+
+
+      
+        AlexsJones /
+
+      llmfit</a></p>
+				<p>
+      Hundreds of models & providers. One command to find what runs on your hardware.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Rust</span>
+						<span>⭐ 35514</span>
+						<span>🔱 2258</span>
+					</div>
+				<div class="stars-today">⭐ 4157 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/ayghri/i-have-adhd" target="_blank">
+    
+
+
+      
+        ayghri /
+
+      i-have-adhd</a></p>
+				<p>
+      A skill to stop your coding agent from burying the answer. ADHD-friendly output.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 36624</span>
+						<span>🔱 2124</span>
+					</div>
+				<div class="stars-today">⭐ 17608 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/harry0703/MoneyPrinterTurbo" target="_blank">
+    
+
+
+      
+        harry0703 /
+
+      MoneyPrinterTurbo</a></p>
+				<p>
+      利用 AI 大模型和自动化工作流，根据主题或关键词一键生成高清短视频。Generate HD short videos from a topic or keyword with an automated AI workflow.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 122123</span>
+						<span>🔱 18854</span>
+					</div>
+				<div class="stars-today">⭐ 20372 stars this month</div>
 				</div>
 			</div>
 	

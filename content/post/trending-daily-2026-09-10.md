@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2026-09-10
-date: 2026-09-10T06:40:03Z
+date: 2026-09-10T12:23:03Z
 categories:
 - daily
 keywords:
@@ -30,32 +30,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 35543</span>
-						<span>🔱 2069</span>
+						<span>⭐ 36624</span>
+						<span>🔱 2124</span>
 					</div>
 				<div class="stars-today">⭐ 4650 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/Tencent/teamai-cli" target="_blank">
+				<p><a href="https://github.com/bilawalsidhu/gods-eye-view" target="_blank">
     
 
 
       
-        Tencent /
+        bilawalsidhu /
 
-      teamai-cli</a></p>
+      gods-eye-view</a></p>
 				<p>
-      Make Every Team AI Native
+      A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe.
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 3264</span>
-						<span>🔱 206</span>
+						<span>🔠 JavaScript</span>
+						<span>⭐ 22258</span>
+						<span>🔱 4739</span>
 					</div>
-				<div class="stars-today">⭐ 556 stars today</div>
+				<div class="stars-today">⭐ 1588 stars today</div>
 				</div>
 			</div>
 	
@@ -74,98 +74,76 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Shell</span>
-						<span>⭐ 284185</span>
-						<span>🔱 25423</span>
+						<span>⭐ 284394</span>
+						<span>🔱 25434</span>
 					</div>
 				<div class="stars-today">⭐ 688 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/pascalorg/editor" target="_blank">
+				<p><a href="https://github.com/alsk1992/CloddsBot" target="_blank">
     
 
 
       
-        pascalorg /
+        alsk1992 /
 
-      editor</a></p>
+      CloddsBot</a></p>
 				<p>
-      Open-source 3D architectural editor with a local CLI, MCP tools, and practical workflows for humans and AI agents.
+      Open Source AI trading agent that operates autonomously across 1000+ markets - Polymarket, Kalshi, Binance, Hyperliquid, Solana DEXs, 5 EVM chains. Scans for edge, executes instantly, manages risk while you sleep. Agent commerce protocol for machine-to-machine payments. Self-hosted. Built on Claude.
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 23094</span>
-						<span>🔱 2907</span>
+						<span>⭐ 1333</span>
+						<span>🔱 240</span>
 					</div>
-				<div class="stars-today">⭐ 107 stars today</div>
+				<div class="stars-today">⭐ 299 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/earthtojake/text-to-cad" target="_blank">
+				<p><a href="https://github.com/Tencent/teamai-cli" target="_blank">
     
 
 
       
-        earthtojake /
+        Tencent /
 
-      text-to-cad</a></p>
+      teamai-cli</a></p>
 				<p>
-      A library of agent skills for CAD, CAE and CAM
+      Make Every Team AI Native
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 15171</span>
-						<span>🔱 1567</span>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 3506</span>
+						<span>🔱 220</span>
 					</div>
-				<div class="stars-today">⭐ 124 stars today</div>
+				<div class="stars-today">⭐ 556 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/cathrynlavery/diagram-design" target="_blank">
+				<p><a href="https://github.com/AlexsJones/llmfit" target="_blank">
     
 
 
       
-        cathrynlavery /
+        AlexsJones /
 
-      diagram-design</a></p>
+      llmfit</a></p>
 				<p>
-      38 editorial diagram types for Claude Code, Codex, and Pi. Self-contained HTML + SVG. No shadows. No Mermaid slop.
+      Hundreds of models & providers. One command to find what runs on your hardware.
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 HTML</span>
-						<span>⭐ 36935</span>
-						<span>🔱 2342</span>
+						<span>🔠 Rust</span>
+						<span>⭐ 35514</span>
+						<span>🔱 2258</span>
 					</div>
-				<div class="stars-today">⭐ 2249 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/TauricResearch/TradingAgents" target="_blank">
-    
-
-
-      
-        TauricResearch /
-
-      TradingAgents</a></p>
-				<p>
-      TradingAgents: Multi-Agents LLM Financial Trading Framework
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 104186</span>
-						<span>🔱 19994</span>
-					</div>
-				<div class="stars-today">⭐ 367 stars today</div>
+				<div class="stars-today">⭐ 247 stars today</div>
 				</div>
 			</div>
 	
@@ -184,32 +162,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 </span>
-						<span>⭐ 18227</span>
-						<span>🔱 3433</span>
+						<span>⭐ 18428</span>
+						<span>🔱 3453</span>
 					</div>
 				<div class="stars-today">⭐ 1397 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/openai/plugins" target="_blank">
+				<p><a href="https://github.com/cathrynlavery/diagram-design" target="_blank">
     
 
 
       
-        openai /
+        cathrynlavery /
 
-      plugins</a></p>
+      diagram-design</a></p>
 				<p>
-      OpenAI Plugins
+      38 editorial diagram types for Claude Code, Codex, and Pi. Self-contained HTML + SVG. No shadows. No Mermaid slop.
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 JavaScript</span>
-						<span>⭐ 6289</span>
-						<span>🔱 833</span>
+						<span>🔠 HTML</span>
+						<span>⭐ 37285</span>
+						<span>🔱 2368</span>
 					</div>
-				<div class="stars-today">⭐ 498 stars today</div>
+				<div class="stars-today">⭐ 2249 stars today</div>
 				</div>
 			</div>
 	
@@ -228,32 +206,142 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 JavaScript</span>
-						<span>⭐ 30337</span>
-						<span>🔱 2935</span>
+						<span>⭐ 30605</span>
+						<span>🔱 2965</span>
 					</div>
 				<div class="stars-today">⭐ 705 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/rohitg00/ai-engineering-from-scratch" target="_blank">
+				<p><a href="https://github.com/armory3d/armorpaint" target="_blank">
     
 
 
       
-        rohitg00 /
+        armory3d /
 
-      ai-engineering-from-scratch</a></p>
+      armorpaint</a></p>
 				<p>
-      Learn it. Build it. Ship it for others.
+      Graphics Creation Tools
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 53874</span>
-						<span>🔱 9389</span>
+						<span>🔠 C</span>
+						<span>⭐ 4250</span>
+						<span>🔱 510</span>
 					</div>
-				<div class="stars-today">⭐ 343 stars today</div>
+				<div class="stars-today">⭐ 73 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/diegosouzapw/OmniRoute" target="_blank">
+    
+
+
+      
+        diegosouzapw /
+
+      OmniRoute</a></p>
+				<p>
+      Never stop coding. Free MIT AI gateway: one endpoint, 352 providers (150+ free), 1200+ models Kimi, Claude, GPT, Gemini, GLM, DeepSeek, MiniMax. Works with Claude Code, Codex, Cursor, OpenCode, Cline & Copilot. Quota-aware auto-fallback, RTK+Caveman compression saves 15-95% tokens, MCP/A2A, Desktop/PWA. Built by 550+ contributors
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 63826</span>
+						<span>🔱 8944</span>
+					</div>
+				<div class="stars-today">⭐ 591 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/JustVugg/colibri" target="_blank">
+    
+
+
+      
+        JustVugg /
+
+      colibri</a></p>
+				<p>
+      Run frontier MoE models on hardware you already own — pure C, zero deps, experts streamed from disk. Tiny engine, immense model. 🐦
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 C</span>
+						<span>⭐ 27291</span>
+						<span>🔱 2997</span>
+					</div>
+				<div class="stars-today">⭐ 157 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/THU-MAIC/OpenMAIC" target="_blank">
+    
+
+
+      
+        THU-MAIC /
+
+      OpenMAIC</a></p>
+				<p>
+      Open Multi-Agent Interactive Classroom — Get an immersive, multi-agent learning experience in just one click
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 34929</span>
+						<span>🔱 5597</span>
+					</div>
+				<div class="stars-today">⭐ 806 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/nashsu/llm_wiki" target="_blank">
+    
+
+
+      
+        nashsu /
+
+      llm_wiki</a></p>
+				<p>
+      LLM Wiki is a cross-platform desktop application that turns your documents into an organized, interlinked knowledge base — automatically. Instead of traditional RAG (retrieve-and-answer from scratch every time), the LLM incrementally builds and maintains a persistent wiki from your sources。
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 17824</span>
+						<span>🔱 2089</span>
+					</div>
+				<div class="stars-today">⭐ 94 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/vercel-labs/skills" target="_blank">
+    
+
+
+      
+        vercel-labs /
+
+      skills</a></p>
+				<p>
+      The open agent skills tool - npx skills
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 30891</span>
+						<span>🔱 2643</span>
+					</div>
+				<div class="stars-today">⭐ 125 stars today</div>
 				</div>
 			</div>
 	
@@ -272,32 +360,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 1859</span>
-						<span>🔱 166</span>
+						<span>⭐ 2063</span>
+						<span>🔱 180</span>
 					</div>
 				<div class="stars-today">⭐ 417 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/affaan-m/ECC" target="_blank">
-    
-
-
-      
-        affaan-m /
-
-      ECC</a></p>
-				<p>
-      The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 JavaScript</span>
-						<span>⭐ 255364</span>
-						<span>🔱 38240</span>
-					</div>
-				<div class="stars-today">⭐ 1133 stars today</div>
 				</div>
 			</div>
 	
