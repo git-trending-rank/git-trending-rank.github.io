@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2026-09-11
-date: 2026-09-11T06:39:25Z
+date: 2026-09-11T12:21:42Z
 categories:
 - daily
 keywords:
@@ -30,8 +30,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 39108</span>
-						<span>🔱 2237</span>
+						<span>⭐ 40012</span>
+						<span>🔱 2284</span>
 					</div>
 				<div class="stars-today">⭐ 3882 stars today</div>
 				</div>
@@ -52,296 +52,54 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 JavaScript</span>
-						<span>⭐ 25065</span>
-						<span>🔱 5161</span>
+						<span>⭐ 25892</span>
+						<span>🔱 5295</span>
 					</div>
 				<div class="stars-today">⭐ 1762 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/obra/superpowers" target="_blank">
+				<p><a href="https://github.com/nab138/iloader" target="_blank">
     
 
 
       
-        obra /
+        nab138 /
 
-      superpowers</a></p>
+      iloader</a></p>
 				<p>
-      An agentic skills framework & software development methodology that works.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Shell</span>
-						<span>⭐ 284865</span>
-						<span>🔱 25483</span>
-					</div>
-				<div class="stars-today">⭐ 732 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/alsk1992/CloddsBot" target="_blank">
-    
-
-
-      
-        alsk1992 /
-
-      CloddsBot</a></p>
-				<p>
-      Open Source AI trading agent that operates autonomously across 1000+ markets - Polymarket, Kalshi, Binance, Hyperliquid, Solana DEXs, 5 EVM chains. Scans for edge, executes instantly, manages risk while you sleep. Agent commerce protocol for machine-to-machine payments. Self-hosted. Built on Claude.
+      User friendly sideloader
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 1814</span>
-						<span>🔱 264</span>
+						<span>⭐ 2797</span>
+						<span>🔱 193</span>
 					</div>
-				<div class="stars-today">⭐ 277 stars today</div>
+				<div class="stars-today">⭐ 36 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/Tencent/teamai-cli" target="_blank">
+				<p><a href="https://github.com/melgarafael/DeskcommCRM" target="_blank">
     
 
 
       
-        Tencent /
+        melgarafael /
 
-      teamai-cli</a></p>
+      DeskcommCRM</a></p>
 				<p>
-      Make Every Team AI Native
+      Open-source AI sales OS — self-hosted CRM with native AI agents + WhatsApp (WAHA). Open alternative to Kommo, Octadesk & Intercom for any business that sells by chat. MCP-ready, multi-tenant, LGPD.
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 3975</span>
-						<span>🔱 254</span>
+						<span>⭐ 1083</span>
+						<span>🔱 461</span>
 					</div>
-				<div class="stars-today">⭐ 841 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/AlexsJones/llmfit" target="_blank">
-    
-
-
-      
-        AlexsJones /
-
-      llmfit</a></p>
-				<p>
-      Hundreds of models & providers. One command to find what runs on your hardware.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Rust</span>
-						<span>⭐ 35868</span>
-						<span>🔱 2271</span>
-					</div>
-				<div class="stars-today">⭐ 258 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/liquidslr/system-design-notes" target="_blank">
-    
-
-
-      
-        liquidslr /
-
-      system-design-notes</a></p>
-				<p>
-      Notes of the book System Desgin Interview - An Insider's Guide
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 </span>
-						<span>⭐ 19003</span>
-						<span>🔱 3504</span>
-					</div>
-				<div class="stars-today">⭐ 900 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/cathrynlavery/diagram-design" target="_blank">
-    
-
-
-      
-        cathrynlavery /
-
-      diagram-design</a></p>
-				<p>
-      38 editorial diagram types for Claude Code, Codex, and Pi. Self-contained HTML + SVG. No shadows. No Mermaid slop.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 HTML</span>
-						<span>⭐ 38032</span>
-						<span>🔱 2407</span>
-					</div>
-				<div class="stars-today">⭐ 1294 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/freestylefly/awesome-gpt-image-2" target="_blank">
-    
-
-
-      
-        freestylefly /
-
-      awesome-gpt-image-2</a></p>
-				<p>
-      Prompt as Code | GPT Image 2 / 2.5 提示词与案例库，530+ 个案例、20+ 套工业级模板与可复用 Skills，新增 2.5 同提示词对比专区，附完整提示词与生成记录，持续更新。
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 JavaScript</span>
-						<span>⭐ 31075</span>
-						<span>🔱 3009</span>
-					</div>
-				<div class="stars-today">⭐ 962 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/armory3d/armorpaint" target="_blank">
-    
-
-
-      
-        armory3d /
-
-      armorpaint</a></p>
-				<p>
-      Graphics Creation Tools
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 C</span>
-						<span>⭐ 4517</span>
-						<span>🔱 522</span>
-					</div>
-				<div class="stars-today">⭐ 72 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/diegosouzapw/OmniRoute" target="_blank">
-    
-
-
-      
-        diegosouzapw /
-
-      OmniRoute</a></p>
-				<p>
-      Never stop coding. Free MIT AI gateway: one endpoint, 352 providers (150+ free), 1200+ models Kimi, Claude, GPT, Gemini, GLM, DeepSeek, MiniMax. Works with Claude Code, Codex, Cursor, OpenCode, Cline & Copilot. Quota-aware auto-fallback, RTK+Caveman compression saves 15-95% tokens, MCP/A2A, Desktop/PWA. Built by 550+ contributors
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 64448</span>
-						<span>🔱 9015</span>
-					</div>
-				<div class="stars-today">⭐ 626 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/JustVugg/colibri" target="_blank">
-    
-
-
-      
-        JustVugg /
-
-      colibri</a></p>
-				<p>
-      Run frontier MoE models on hardware you already own — pure C, zero deps, experts streamed from disk. Tiny engine, immense model. 🐦
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 C</span>
-						<span>⭐ 27571</span>
-						<span>🔱 3016</span>
-					</div>
-				<div class="stars-today">⭐ 98 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/THU-MAIC/OpenMAIC" target="_blank">
-    
-
-
-      
-        THU-MAIC /
-
-      OpenMAIC</a></p>
-				<p>
-      Open Multi-Agent Interactive Classroom — Get an immersive, multi-agent learning experience in just one click
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 35553</span>
-						<span>🔱 5659</span>
-					</div>
-				<div class="stars-today">⭐ 837 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/nashsu/llm_wiki" target="_blank">
-    
-
-
-      
-        nashsu /
-
-      llm_wiki</a></p>
-				<p>
-      LLM Wiki is a cross-platform desktop application that turns your documents into an organized, interlinked knowledge base — automatically. Instead of traditional RAG (retrieve-and-answer from scratch every time), the LLM incrementally builds and maintains a persistent wiki from your sources。
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 18293</span>
-						<span>🔱 2108</span>
-					</div>
-				<div class="stars-today">⭐ 142 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/vercel-labs/skills" target="_blank">
-    
-
-
-      
-        vercel-labs /
-
-      skills</a></p>
-				<p>
-      The open agent skills tool - npx skills
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 31281</span>
-						<span>🔱 2667</span>
-					</div>
-				<div class="stars-today">⭐ 122 stars today</div>
+				<div class="stars-today">⭐ 126 stars today</div>
 				</div>
 			</div>
 	
@@ -360,10 +118,252 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 2455</span>
-						<span>🔱 200</span>
+						<span>⭐ 2603</span>
+						<span>🔱 207</span>
 					</div>
 				<div class="stars-today">⭐ 624 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/armory3d/armorpaint" target="_blank">
+    
+
+
+      
+        armory3d /
+
+      armorpaint</a></p>
+				<p>
+      Graphics Creation Tools
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 C</span>
+						<span>⭐ 4599</span>
+						<span>🔱 525</span>
+					</div>
+				<div class="stars-today">⭐ 72 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/alsk1992/CloddsBot" target="_blank">
+    
+
+
+      
+        alsk1992 /
+
+      CloddsBot</a></p>
+				<p>
+      Open Source AI trading agent that operates autonomously across 1000+ markets - Polymarket, Kalshi, Binance, Hyperliquid, Solana DEXs, 5 EVM chains. Scans for edge, executes instantly, manages risk while you sleep. Agent commerce protocol for machine-to-machine payments. Self-hosted. Built on Claude.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 1950</span>
+						<span>🔱 273</span>
+					</div>
+				<div class="stars-today">⭐ 277 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/nashsu/llm_wiki" target="_blank">
+    
+
+
+      
+        nashsu /
+
+      llm_wiki</a></p>
+				<p>
+      LLM Wiki is a cross-platform desktop application that turns your documents into an organized, interlinked knowledge base — automatically. Instead of traditional RAG (retrieve-and-answer from scratch every time), the LLM incrementally builds and maintains a persistent wiki from your sources。
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 18459</span>
+						<span>🔱 2114</span>
+					</div>
+				<div class="stars-today">⭐ 142 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/obra/superpowers" target="_blank">
+    
+
+
+      
+        obra /
+
+      superpowers</a></p>
+				<p>
+      An agentic skills framework & software development methodology that works.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Shell</span>
+						<span>⭐ 285068</span>
+						<span>🔱 25494</span>
+					</div>
+				<div class="stars-today">⭐ 732 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/Sonarr/Sonarr" target="_blank">
+    
+
+
+      
+        Sonarr /
+
+      Sonarr</a></p>
+				<p>
+      Smart PVR for newsgroup and bittorrent users.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 C#</span>
+						<span>⭐ 15614</span>
+						<span>🔱 1942</span>
+					</div>
+				<div class="stars-today">⭐ 174 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/jihe520/MathModelAgent" target="_blank">
+    
+
+
+      
+        jihe520 /
+
+      MathModelAgent</a></p>
+				<p>
+      🤖📐专为数学建模设计的 Agent & skills ,自动完成数学建模，生成一份完整的可以直接提交的论文。 An Agent Designed for Mathematical Modeling ,Automatically complete mathmodel and generate a complete paper ready for submission.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 4742</span>
+						<span>🔱 383</span>
+					</div>
+				<div class="stars-today">⭐ 132 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/p1neappleXpress/OpenFlux" target="_blank">
+    
+
+
+      
+        p1neappleXpress /
+
+      OpenFlux</a></p>
+				<p>
+      Network stack research tool. TCP tunnel with pluggable transports.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Go</span>
+						<span>⭐ 945</span>
+						<span>🔱 79</span>
+					</div>
+				<div class="stars-today">⭐ 201 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/jordan-gibbs/hyperresearch" target="_blank">
+    
+
+
+      
+        jordan-gibbs /
+
+      hyperresearch</a></p>
+				<p>
+      Agent-driven research knowledge base. Agents collect, search, and synthesize web research into a persistent, searchable wiki.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 2237</span>
+						<span>🔱 239</span>
+					</div>
+				<div class="stars-today">⭐ 118 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/alphaXiv/OpenResearch" target="_blank">
+    
+
+
+      
+        alphaXiv /
+
+      OpenResearch</a></p>
+				<p>
+      Run parallel research agents with any model
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Rust</span>
+						<span>⭐ 1054</span>
+						<span>🔱 78</span>
+					</div>
+				<div class="stars-today">⭐ 210 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/github/spec-kit" target="_blank">
+    
+
+
+      
+        github /
+
+      spec-kit</a></p>
+				<p>
+      💫 Toolkit to help you get started with Spec-Driven Development
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 135500</span>
+						<span>🔱 12181</span>
+					</div>
+				<div class="stars-today">⭐ 985 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/pascalorg/editor" target="_blank">
+    
+
+
+      
+        pascalorg /
+
+      editor</a></p>
+				<p>
+      Open-source 3D architectural editor with a local CLI, MCP tools, and practical workflows for humans and AI agents.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 23319</span>
+						<span>🔱 2919</span>
+					</div>
+				<div class="stars-today">⭐ 83 stars today</div>
 				</div>
 			</div>
 	

@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2026年9月
-date: 2026-09-11T06:39:25Z
+date: 2026-09-11T12:21:43Z
 categories:
 - monthly
 keywords:
@@ -30,54 +30,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Shell</span>
-						<span>⭐ 40123</span>
-						<span>🔱 4404</span>
+						<span>⭐ 40199</span>
+						<span>🔱 4421</span>
 					</div>
 				<div class="stars-today">⭐ 15894 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/cathrynlavery/diagram-design" target="_blank">
-    
-
-
-      
-        cathrynlavery /
-
-      diagram-design</a></p>
-				<p>
-      38 editorial diagram types for Claude Code, Codex, and Pi. Self-contained HTML + SVG. No shadows. No Mermaid slop.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 HTML</span>
-						<span>⭐ 38032</span>
-						<span>🔱 2407</span>
-					</div>
-				<div class="stars-today">⭐ 33361 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/cursor/plugins" target="_blank">
-    
-
-
-      
-        cursor /
-
-      plugins</a></p>
-				<p>
-      Cursor plugin specification and official plugins
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 7406</span>
-						<span>🔱 647</span>
-					</div>
-				<div class="stars-today">⭐ 4798 stars this month</div>
 				</div>
 			</div>
 	
@@ -96,8 +52,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 JavaScript</span>
-						<span>⭐ 57741</span>
-						<span>🔱 3774</span>
+						<span>⭐ 58070</span>
+						<span>🔱 3790</span>
 					</div>
 				<div class="stars-today">⭐ 46339 stars this month</div>
 				</div>
@@ -118,10 +74,76 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 3762</span>
-						<span>🔱 283</span>
+						<span>⭐ 3781</span>
+						<span>🔱 284</span>
 					</div>
 				<div class="stars-today">⭐ 3460 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/cordiverse/cordis" target="_blank">
+    
+
+
+      
+        cordiverse /
+
+      cordis</a></p>
+				<p>
+      Meta-Framework of Spatiotemporal Composability
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 8355</span>
+						<span>🔱 520</span>
+					</div>
+				<div class="stars-today">⭐ 8270 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/cursor/plugins" target="_blank">
+    
+
+
+      
+        cursor /
+
+      plugins</a></p>
+				<p>
+      Cursor plugin specification and official plugins
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 7431</span>
+						<span>🔱 650</span>
+					</div>
+				<div class="stars-today">⭐ 4798 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/cathrynlavery/diagram-design" target="_blank">
+    
+
+
+      
+        cathrynlavery /
+
+      diagram-design</a></p>
+				<p>
+      38 editorial diagram types for Claude Code, Codex, and Pi. Self-contained HTML + SVG. No shadows. No Mermaid slop.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 HTML</span>
+						<span>⭐ 38255</span>
+						<span>🔱 2422</span>
+					</div>
+				<div class="stars-today">⭐ 33361 stars this month</div>
 				</div>
 			</div>
 	
@@ -140,8 +162,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Rust</span>
-						<span>⭐ 20581</span>
-						<span>🔱 647</span>
+						<span>⭐ 20617</span>
+						<span>🔱 654</span>
 					</div>
 				<div class="stars-today">⭐ 12225 stars this month</div>
 				</div>
@@ -162,32 +184,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 36577</span>
-						<span>🔱 2799</span>
+						<span>⭐ 36629</span>
+						<span>🔱 2809</span>
 					</div>
 				<div class="stars-today">⭐ 8469 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/xai-org/x-algorithm" target="_blank">
-    
-
-
-      
-        xai-org /
-
-      x-algorithm</a></p>
-				<p>
-      Algorithm powering the For You feed on X
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Rust</span>
-						<span>⭐ 33088</span>
-						<span>🔱 5384</span>
-					</div>
-				<div class="stars-today">⭐ 6248 stars this month</div>
 				</div>
 			</div>
 	
@@ -206,54 +206,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 JavaScript</span>
-						<span>⭐ 31075</span>
-						<span>🔱 3009</span>
+						<span>⭐ 31246</span>
+						<span>🔱 3025</span>
 					</div>
 				<div class="stars-today">⭐ 21157 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/NVIDIA-NeMo/Switchyard" target="_blank">
-    
-
-
-      
-        NVIDIA-NeMo /
-
-      Switchyard</a></p>
-				<p>
-      Switchyard lets LLM applications route traffic across models and providers while preserving native OpenAI and Anthropic API compatibility - enabling flexible model selection, benchmarking, and cost/performance optimization.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 2843</span>
-						<span>🔱 257</span>
-					</div>
-				<div class="stars-today">⭐ 2628 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/semantica-agi/semantica" target="_blank">
-    
-
-
-      
-        semantica-agi /
-
-      semantica</a></p>
-				<p>
-      Graph-Native Infrastructure for Context and Accountable AI Systems
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 12631</span>
-						<span>🔱 1414</span>
-					</div>
-				<div class="stars-today">⭐ 8849 stars this month</div>
 				</div>
 			</div>
 	
@@ -272,32 +228,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 35553</span>
-						<span>🔱 5659</span>
+						<span>⭐ 35725</span>
+						<span>🔱 5679</span>
 					</div>
 				<div class="stars-today">⭐ 14604 stars this month</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/youssofal/MTPLX" target="_blank">
+				<p><a href="https://github.com/xai-org/x-algorithm" target="_blank">
     
 
 
       
-        youssofal /
+        xai-org /
 
-      MTPLX</a></p>
+      x-algorithm</a></p>
 				<p>
-      3x faster speeds on MLX | Qwen 3.8 27B | Native MTP Speculative Decoding On Apple Silicon With No External Drafter.
+      Algorithm powering the For You feed on X
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 2224</span>
-						<span>🔱 164</span>
+						<span>🔠 Rust</span>
+						<span>⭐ 33105</span>
+						<span>🔱 5385</span>
 					</div>
-				<div class="stars-today">⭐ 1060 stars this month</div>
+				<div class="stars-today">⭐ 6248 stars this month</div>
 				</div>
 			</div>
 	
@@ -316,10 +272,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Swift</span>
-						<span>⭐ 18150</span>
-						<span>🔱 644</span>
+						<span>⭐ 18232</span>
+						<span>🔱 645</span>
 					</div>
 				<div class="stars-today">⭐ 13129 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/semantica-agi/semantica" target="_blank">
+    
+
+
+      
+        semantica-agi /
+
+      semantica</a></p>
+				<p>
+      Graph-Native Infrastructure for Context and Accountable AI Systems
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 12657</span>
+						<span>🔱 1418</span>
+					</div>
+				<div class="stars-today">⭐ 8849 stars this month</div>
 				</div>
 			</div>
 	
@@ -338,8 +316,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Mojo</span>
-						<span>⭐ 29676</span>
-						<span>🔱 3166</span>
+						<span>⭐ 29678</span>
+						<span>🔱 3167</span>
 					</div>
 				<div class="stars-today">⭐ 3080 stars this month</div>
 				</div>
@@ -360,8 +338,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 22344</span>
-						<span>🔱 2751</span>
+						<span>⭐ 22425</span>
+						<span>🔱 2763</span>
 					</div>
 				<div class="stars-today">⭐ 12418 stars this month</div>
 				</div>
@@ -382,118 +360,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Rust</span>
-						<span>⭐ 6494</span>
-						<span>🔱 446</span>
+						<span>⭐ 6506</span>
+						<span>🔱 448</span>
 					</div>
 				<div class="stars-today">⭐ 5026 stars this month</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/Lakr233/vphone-cli" target="_blank">
+				<p><a href="https://github.com/NVIDIA-NeMo/Switchyard" target="_blank">
     
 
 
       
-        Lakr233 /
+        NVIDIA-NeMo /
 
-      vphone-cli</a></p>
-				<p></p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Swift</span>
-						<span>⭐ 11516</span>
-						<span>🔱 1464</span>
-					</div>
-				<div class="stars-today">⭐ 3892 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/public-apis/public-apis" target="_blank">
-    
-
-
-      
-        public-apis /
-
-      public-apis</a></p>
+      Switchyard</a></p>
 				<p>
-      A collective list of free APIs
+      Switchyard lets LLM applications route traffic across models and providers while preserving native OpenAI and Anthropic API compatibility - enabling flexible model selection, benchmarking, and cost/performance optimization.
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 478735</span>
-						<span>🔱 52839</span>
+						<span>⭐ 2860</span>
+						<span>🔱 259</span>
 					</div>
-				<div class="stars-today">⭐ 24223 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/cactus-compute/needle" target="_blank">
-    
-
-
-      
-        cactus-compute /
-
-      needle</a></p>
-				<p>
-      14MB foundation model for tiny devices; phones, wearables, smart home, and robots.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 10786</span>
-						<span>🔱 689</span>
-					</div>
-				<div class="stars-today">⭐ 7395 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/apache/maka" target="_blank">
-    
-
-
-      
-        apache /
-
-      maka</a></p>
-				<p>
-      Apache Maka (Incubating) is a high-performance agent workspace that keeps a complete record of everything it did.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 5211</span>
-						<span>🔱 485</span>
-					</div>
-				<div class="stars-today">⭐ 3941 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/AlexsJones/llmfit" target="_blank">
-    
-
-
-      
-        AlexsJones /
-
-      llmfit</a></p>
-				<p>
-      Hundreds of models & providers. One command to find what runs on your hardware.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Rust</span>
-						<span>⭐ 35868</span>
-						<span>🔱 2271</span>
-					</div>
-				<div class="stars-today">⭐ 4375 stars this month</div>
+				<div class="stars-today">⭐ 2628 stars this month</div>
 				</div>
 			</div>
 	
@@ -512,32 +404,118 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 39108</span>
-						<span>🔱 2237</span>
+						<span>⭐ 40012</span>
+						<span>🔱 2284</span>
 					</div>
 				<div class="stars-today">⭐ 18245 stars this month</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/harry0703/MoneyPrinterTurbo" target="_blank">
+				<p><a href="https://github.com/Lakr233/vphone-cli" target="_blank">
     
 
 
       
-        harry0703 /
+        Lakr233 /
 
-      MoneyPrinterTurbo</a></p>
+      vphone-cli</a></p>
+				<p></p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Swift</span>
+						<span>⭐ 11565</span>
+						<span>🔱 1468</span>
+					</div>
+				<div class="stars-today">⭐ 3892 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/AlexsJones/llmfit" target="_blank">
+    
+
+
+      
+        AlexsJones /
+
+      llmfit</a></p>
 				<p>
-      利用 AI 大模型和自动化工作流，根据主题或关键词一键生成高清短视频。Generate HD short videos from a topic or keyword with an automated AI workflow.
+      Hundreds of models & providers. One command to find what runs on your hardware.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Rust</span>
+						<span>⭐ 35983</span>
+						<span>🔱 2275</span>
+					</div>
+				<div class="stars-today">⭐ 4375 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/public-apis/public-apis" target="_blank">
+    
+
+
+      
+        public-apis /
+
+      public-apis</a></p>
+				<p>
+      A collective list of free APIs
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 122329</span>
-						<span>🔱 18891</span>
+						<span>⭐ 478841</span>
+						<span>🔱 52844</span>
 					</div>
-				<div class="stars-today">⭐ 20448 stars this month</div>
+				<div class="stars-today">⭐ 24223 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/apache/maka" target="_blank">
+    
+
+
+      
+        apache /
+
+      maka</a></p>
+				<p>
+      Apache Maka (Incubating) is a high-performance agent workspace that keeps a complete record of everything it did.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 5224</span>
+						<span>🔱 486</span>
+					</div>
+				<div class="stars-today">⭐ 3941 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/cactus-compute/needle" target="_blank">
+    
+
+
+      
+        cactus-compute /
+
+      needle</a></p>
+				<p>
+      14MB foundation model for tiny devices; phones, wearables, smart home, and robots.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 10802</span>
+						<span>🔱 691</span>
+					</div>
+				<div class="stars-today">⭐ 7395 stars this month</div>
 				</div>
 			</div>
 	
