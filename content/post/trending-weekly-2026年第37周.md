@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2026年第37周
-date: 2026-09-12T06:32:56Z
+date: 2026-09-12T11:43:53Z
 categories:
 - weekly
 keywords:
@@ -30,8 +30,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 42385</span>
-						<span>🔱 2404</span>
+						<span>⭐ 42889</span>
+						<span>🔱 2439</span>
 					</div>
 				<div class="stars-today">⭐ 13164 stars this week</div>
 				</div>
@@ -52,52 +52,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 JavaScript</span>
-						<span>⭐ 256646</span>
-						<span>🔱 38407</span>
+						<span>⭐ 256786</span>
+						<span>🔱 38427</span>
 					</div>
 				<div class="stars-today">⭐ 8714 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/DietrichGebert/ponytail" target="_blank">
-    
-
-
-      
-        DietrichGebert /
-
-      ponytail</a></p>
-				<p>
-      Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 JavaScript</span>
-						<span>⭐ 136001</span>
-						<span>🔱 7290</span>
-					</div>
-				<div class="stars-today">⭐ 11054 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/humanlayer/skills" target="_blank">
-    
-
-
-      
-        humanlayer /
-
-      skills</a></p>
-				<p></p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 3816</span>
-						<span>🔱 112</span>
-					</div>
-				<div class="stars-today">⭐ 1637 stars this week</div>
 				</div>
 			</div>
 	
@@ -116,32 +74,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 JavaScript</span>
-						<span>⭐ 6473</span>
-						<span>🔱 852</span>
+						<span>⭐ 6490</span>
+						<span>🔱 857</span>
 					</div>
 				<div class="stars-today">⭐ 1063 stars this week</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/tt-a1i/archify" target="_blank">
+				<p><a href="https://github.com/DietrichGebert/ponytail" target="_blank">
     
 
 
       
-        tt-a1i /
+        DietrichGebert /
 
-      archify</a></p>
+      ponytail</a></p>
 				<p>
-      Agent skill for beautiful, verifiable architecture, workflow, sequence, data-flow, and lifecycle diagrams—self-contained HTML with motion and crisp export.
+      Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 JavaScript</span>
-						<span>⭐ 58803</span>
-						<span>🔱 3842</span>
+						<span>⭐ 136207</span>
+						<span>🔱 7300</span>
 					</div>
-				<div class="stars-today">⭐ 11006 stars this week</div>
+				<div class="stars-today">⭐ 11054 stars this week</div>
 				</div>
 			</div>
 	
@@ -160,54 +118,54 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 22242</span>
-						<span>🔱 1605</span>
+						<span>⭐ 22267</span>
+						<span>🔱 1606</span>
 					</div>
 				<div class="stars-today">⭐ 1810 stars this week</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/mattpocock/skills" target="_blank">
+				<p><a href="https://github.com/bilawalsidhu/gods-eye-view" target="_blank">
     
 
 
       
-        mattpocock /
+        bilawalsidhu /
 
-      skills</a></p>
+      gods-eye-view</a></p>
 				<p>
-      Skills for Real Engineers. Straight from my .agents directory.
+      A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe.
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Shell</span>
-						<span>⭐ 259964</span>
-						<span>🔱 21924</span>
+						<span>🔠 JavaScript</span>
+						<span>⭐ 28046</span>
+						<span>🔱 5739</span>
 					</div>
-				<div class="stars-today">⭐ 10571 stars this week</div>
+				<div class="stars-today">⭐ 8916 stars this week</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/blader/humanizer" target="_blank">
+				<p><a href="https://github.com/tt-a1i/archify" target="_blank">
     
 
 
       
-        blader /
+        tt-a1i /
 
-      humanizer</a></p>
+      archify</a></p>
 				<p>
-      Agent skill that removes signs of AI-generated writing from text
+      Agent skill for beautiful, verifiable architecture, workflow, sequence, data-flow, and lifecycle diagrams—self-contained HTML with motion and crisp export.
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 47029</span>
-						<span>🔱 3837</span>
+						<span>🔠 JavaScript</span>
+						<span>⭐ 59079</span>
+						<span>🔱 3870</span>
 					</div>
-				<div class="stars-today">⭐ 4649 stars this week</div>
+				<div class="stars-today">⭐ 11006 stars this week</div>
 				</div>
 			</div>
 	
@@ -226,8 +184,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 26951</span>
-						<span>🔱 1805</span>
+						<span>⭐ 26964</span>
+						<span>🔱 1806</span>
 					</div>
 				<div class="stars-today">⭐ 1532 stars this week</div>
 				</div>
@@ -248,10 +206,30 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 49068</span>
-						<span>🔱 4483</span>
+						<span>⭐ 49101</span>
+						<span>🔱 4485</span>
 					</div>
 				<div class="stars-today">⭐ 5100 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/humanlayer/skills" target="_blank">
+    
+
+
+      
+        humanlayer /
+
+      skills</a></p>
+				<p></p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 3842</span>
+						<span>🔱 113</span>
+					</div>
+				<div class="stars-today">⭐ 1637 stars this week</div>
 				</div>
 			</div>
 	
@@ -270,98 +248,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 HTML</span>
-						<span>⭐ 38581</span>
-						<span>🔱 2450</span>
+						<span>⭐ 38660</span>
+						<span>🔱 2458</span>
 					</div>
 				<div class="stars-today">⭐ 7776 stars this week</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/fmtlib/fmt" target="_blank">
+				<p><a href="https://github.com/blader/humanizer" target="_blank">
     
 
 
       
-        fmtlib /
+        blader /
 
-      fmt</a></p>
+      humanizer</a></p>
 				<p>
-      A modern formatting library
+      Agent skill that removes signs of AI-generated writing from text
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 C++</span>
-						<span>⭐ 25748</span>
-						<span>🔱 3061</span>
+						<span>🔠 Python</span>
+						<span>⭐ 47116</span>
+						<span>🔱 3842</span>
 					</div>
-				<div class="stars-today">⭐ 338 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/bilawalsidhu/gods-eye-view" target="_blank">
-    
-
-
-      
-        bilawalsidhu /
-
-      gods-eye-view</a></p>
-				<p>
-      A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 JavaScript</span>
-						<span>⭐ 27511</span>
-						<span>🔱 5622</span>
-					</div>
-				<div class="stars-today">⭐ 8916 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/coreyhaines31/marketingskills" target="_blank">
-    
-
-
-      
-        coreyhaines31 /
-
-      marketingskills</a></p>
-				<p>
-      Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics, and growth engineering.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 JavaScript</span>
-						<span>⭐ 49673</span>
-						<span>🔱 7550</span>
-					</div>
-				<div class="stars-today">⭐ 2765 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/ChromeDevTools/chrome-devtools-mcp" target="_blank">
-    
-
-
-      
-        ChromeDevTools /
-
-      chrome-devtools-mcp</a></p>
-				<p>
-      Chrome DevTools for coding agents
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 51701</span>
-						<span>🔱 3633</span>
-					</div>
-				<div class="stars-today">⭐ 804 stars this week</div>
+				<div class="stars-today">⭐ 4649 stars this week</div>
 				</div>
 			</div>
 	
@@ -380,54 +292,76 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 182757</span>
-						<span>🔱 13438</span>
+						<span>⭐ 182881</span>
+						<span>🔱 13450</span>
 					</div>
 				<div class="stars-today">⭐ 4650 stars this week</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/NousResearch/hermes-agent" target="_blank">
+				<p><a href="https://github.com/ChromeDevTools/chrome-devtools-mcp" target="_blank">
     
 
 
       
-        NousResearch /
+        ChromeDevTools /
 
-      hermes-agent</a></p>
+      chrome-devtools-mcp</a></p>
 				<p>
-      The agent that grows with you
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 244685</span>
-						<span>🔱 50729</span>
-					</div>
-				<div class="stars-today">⭐ 3481 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/ruvnet/ruflo" target="_blank">
-    
-
-
-      
-        ruvnet /
-
-      ruflo</a></p>
-				<p>
-      🌊 The original agent harness. Deploy intelligent multi-player swarms, coordinate autonomous workflows, and build conversational AI systems. Features adaptive memory, self-learning intelligence, federation, vector RAG integration, and native Claude Code / Codex / Hermes and many more Integrated
+      Chrome DevTools for coding agents
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 72172</span>
-						<span>🔱 8536</span>
+						<span>⭐ 51723</span>
+						<span>🔱 3633</span>
 					</div>
-				<div class="stars-today">⭐ 1726 stars this week</div>
+				<div class="stars-today">⭐ 804 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/mattpocock/skills" target="_blank">
+    
+
+
+      
+        mattpocock /
+
+      skills</a></p>
+				<p>
+      Skills for Real Engineers. Straight from my .agents directory.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Shell</span>
+						<span>⭐ 260147</span>
+						<span>🔱 21940</span>
+					</div>
+				<div class="stars-today">⭐ 10571 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/coreyhaines31/marketingskills" target="_blank">
+    
+
+
+      
+        coreyhaines31 /
+
+      marketingskills</a></p>
+				<p>
+      Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics, and growth engineering.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 JavaScript</span>
+						<span>⭐ 49711</span>
+						<span>🔱 7555</span>
+					</div>
+				<div class="stars-today">⭐ 2765 stars this week</div>
 				</div>
 			</div>
 	
@@ -446,8 +380,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 35972</span>
-						<span>🔱 5710</span>
+						<span>⭐ 36040</span>
+						<span>🔱 5722</span>
 					</div>
 				<div class="stars-today">⭐ 4509 stars this week</div>
 				</div>
@@ -468,54 +402,76 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Go</span>
-						<span>⭐ 22445</span>
-						<span>🔱 3225</span>
+						<span>⭐ 22514</span>
+						<span>🔱 3233</span>
 					</div>
 				<div class="stars-today">⭐ 964 stars this week</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/jakubkrehel/skills" target="_blank">
+				<p><a href="https://github.com/earthtojake/text-to-cad" target="_blank">
     
 
 
       
-        jakubkrehel /
+        earthtojake /
 
-      skills</a></p>
+      text-to-cad</a></p>
 				<p>
-      A collection of agent skills that help you build a great interface.
+      A library of agent skills for CAD, CAE and CAM
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Markdown</span>
-						<span>⭐ 6336</span>
-						<span>🔱 223</span>
+						<span>🔠 Python</span>
+						<span>⭐ 15388</span>
+						<span>🔱 1590</span>
 					</div>
-				<div class="stars-today">⭐ 691 stars this week</div>
+				<div class="stars-today">⭐ 1071 stars this week</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/every-app/open-seo" target="_blank">
+				<p><a href="https://github.com/obra/superpowers" target="_blank">
     
 
 
       
-        every-app /
+        obra /
 
-      open-seo</a></p>
+      superpowers</a></p>
 				<p>
-      Open source alternative to Semrush and Ahrefs
+      An agentic skills framework & software development methodology that works.
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 18467</span>
-						<span>🔱 2330</span>
+						<span>🔠 Shell</span>
+						<span>⭐ 285581</span>
+						<span>🔱 25550</span>
 					</div>
-				<div class="stars-today">⭐ 1507 stars this week</div>
+				<div class="stars-today">⭐ 3829 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/petergyang/no-ai-slop" target="_blank">
+    
+
+
+      
+        petergyang /
+
+      no-ai-slop</a></p>
+				<p>
+      Removes 20+ patterns of AI slop from any piece of writing.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 8505</span>
+						<span>🔱 643</span>
+					</div>
+				<div class="stars-today">⭐ 1255 stars this week</div>
 				</div>
 			</div>
 	

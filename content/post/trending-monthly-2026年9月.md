@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2026年9月
-date: 2026-09-12T06:32:57Z
+date: 2026-09-12T11:43:53Z
 categories:
 - monthly
 keywords:
@@ -30,8 +30,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Shell</span>
-						<span>⭐ 40393</span>
-						<span>🔱 4457</span>
+						<span>⭐ 40447</span>
+						<span>🔱 4476</span>
 					</div>
 				<div class="stars-today">⭐ 16125 stars this month</div>
 				</div>
@@ -52,8 +52,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 JavaScript</span>
-						<span>⭐ 58805</span>
-						<span>🔱 3842</span>
+						<span>⭐ 59079</span>
+						<span>🔱 3870</span>
 					</div>
 				<div class="stars-today">⭐ 47287 stars this month</div>
 				</div>
@@ -74,32 +74,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 3824</span>
-						<span>🔱 284</span>
+						<span>⭐ 3830</span>
+						<span>🔱 285</span>
 					</div>
 				<div class="stars-today">⭐ 3515 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/cordiverse/cordis" target="_blank">
-    
-
-
-      
-        cordiverse /
-
-      cordis</a></p>
-				<p>
-      Meta-Framework of Spatiotemporal Composability
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 8384</span>
-						<span>🔱 521</span>
-					</div>
-				<div class="stars-today">⭐ 8277 stars this month</div>
 				</div>
 			</div>
 	
@@ -118,32 +96,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 7476</span>
-						<span>🔱 652</span>
+						<span>⭐ 7496</span>
+						<span>🔱 653</span>
 					</div>
 				<div class="stars-today">⭐ 4892 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/cathrynlavery/diagram-design" target="_blank">
-    
-
-
-      
-        cathrynlavery /
-
-      diagram-design</a></p>
-				<p>
-      38 editorial diagram types for Claude Code, Codex, and Pi. Self-contained HTML + SVG. No shadows. No Mermaid slop.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 HTML</span>
-						<span>⭐ 38582</span>
-						<span>🔱 2451</span>
-					</div>
-				<div class="stars-today">⭐ 32734 stars this month</div>
 				</div>
 			</div>
 	
@@ -162,10 +118,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Rust</span>
-						<span>⭐ 20718</span>
-						<span>🔱 663</span>
+						<span>⭐ 20747</span>
+						<span>🔱 665</span>
 					</div>
 				<div class="stars-today">⭐ 12372 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/cathrynlavery/diagram-design" target="_blank">
+    
+
+
+      
+        cathrynlavery /
+
+      diagram-design</a></p>
+				<p>
+      38 editorial diagram types for Claude Code, Codex, and Pi. Self-contained HTML + SVG. No shadows. No Mermaid slop.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 HTML</span>
+						<span>⭐ 38660</span>
+						<span>🔱 2458</span>
+					</div>
+				<div class="stars-today">⭐ 32734 stars this month</div>
 				</div>
 			</div>
 	
@@ -184,8 +162,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 36745</span>
-						<span>🔱 2813</span>
+						<span>⭐ 36775</span>
+						<span>🔱 2815</span>
 					</div>
 				<div class="stars-today">⭐ 8596 stars this month</div>
 				</div>
@@ -206,8 +184,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 JavaScript</span>
-						<span>⭐ 31386</span>
-						<span>🔱 3038</span>
+						<span>⭐ 31437</span>
+						<span>🔱 3042</span>
 					</div>
 				<div class="stars-today">⭐ 21657 stars this month</div>
 				</div>
@@ -228,32 +206,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 35972</span>
-						<span>🔱 5710</span>
+						<span>⭐ 36040</span>
+						<span>🔱 5722</span>
 					</div>
 				<div class="stars-today">⭐ 15320 stars this month</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/xai-org/x-algorithm" target="_blank">
+				<p><a href="https://github.com/cordiverse/cordis" target="_blank">
     
 
 
       
-        xai-org /
+        cordiverse /
 
-      x-algorithm</a></p>
+      cordis</a></p>
 				<p>
-      Algorithm powering the For You feed on X
+      Meta-Framework of Spatiotemporal Composability
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Rust</span>
-						<span>⭐ 33151</span>
-						<span>🔱 5385</span>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 8391</span>
+						<span>🔱 521</span>
 					</div>
-				<div class="stars-today">⭐ 6300 stars this month</div>
+				<div class="stars-today">⭐ 8277 stars this month</div>
 				</div>
 			</div>
 	
@@ -272,120 +250,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Swift</span>
-						<span>⭐ 18402</span>
-						<span>🔱 653</span>
+						<span>⭐ 18449</span>
+						<span>🔱 658</span>
 					</div>
 				<div class="stars-today">⭐ 13312 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/semantica-agi/semantica" target="_blank">
-    
-
-
-      
-        semantica-agi /
-
-      semantica</a></p>
-				<p>
-      Graph-Native Infrastructure for Context and Accountable AI Systems
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 12710</span>
-						<span>🔱 1421</span>
-					</div>
-				<div class="stars-today">⭐ 8132 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/modular/modular" target="_blank">
-    
-
-
-      
-        modular /
-
-      modular</a></p>
-				<p>
-      The Modular Platform (includes MAX & Mojo)
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Mojo</span>
-						<span>⭐ 29699</span>
-						<span>🔱 3167</span>
-					</div>
-				<div class="stars-today">⭐ 3088 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/debpalash/VoiceStudio" target="_blank">
-    
-
-
-      
-        debpalash /
-
-      VoiceStudio</a></p>
-				<p>
-      VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 22659</span>
-						<span>🔱 2785</span>
-					</div>
-				<div class="stars-today">⭐ 12736 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/akitaonrails/ai-memory" target="_blank">
-    
-
-
-      
-        akitaonrails /
-
-      ai-memory</a></p>
-				<p>
-      Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Rust</span>
-						<span>⭐ 6581</span>
-						<span>🔱 449</span>
-					</div>
-				<div class="stars-today">⭐ 5121 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/NVIDIA-NeMo/Switchyard" target="_blank">
-    
-
-
-      
-        NVIDIA-NeMo /
-
-      Switchyard</a></p>
-				<p>
-      Switchyard lets LLM applications route traffic across models and providers while preserving native OpenAI and Anthropic API compatibility - enabling flexible model selection, benchmarking, and cost/performance optimization.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 2910</span>
-						<span>🔱 262</span>
-					</div>
-				<div class="stars-today">⭐ 2657 stars this month</div>
 				</div>
 			</div>
 	
@@ -404,10 +272,76 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 42385</span>
-						<span>🔱 2404</span>
+						<span>⭐ 42889</span>
+						<span>🔱 2439</span>
 					</div>
 				<div class="stars-today">⭐ 20983 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/youssofal/MTPLX" target="_blank">
+    
+
+
+      
+        youssofal /
+
+      MTPLX</a></p>
+				<p>
+      3x faster speeds on MLX | Qwen 3.8 27B | Native MTP Speculative Decoding On Apple Silicon With No External Drafter.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 2255</span>
+						<span>🔱 167</span>
+					</div>
+				<div class="stars-today">⭐ 1111 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/modular/modular" target="_blank">
+    
+
+
+      
+        modular /
+
+      modular</a></p>
+				<p>
+      The Modular Platform (includes MAX & Mojo)
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Mojo</span>
+						<span>⭐ 29702</span>
+						<span>🔱 3167</span>
+					</div>
+				<div class="stars-today">⭐ 3088 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/akitaonrails/ai-memory" target="_blank">
+    
+
+
+      
+        akitaonrails /
+
+      ai-memory</a></p>
+				<p>
+      Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Rust</span>
+						<span>⭐ 6591</span>
+						<span>🔱 449</span>
+					</div>
+				<div class="stars-today">⭐ 5121 stars this month</div>
 				</div>
 			</div>
 	
@@ -424,10 +358,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Swift</span>
-						<span>⭐ 11658</span>
-						<span>🔱 1477</span>
+						<span>⭐ 11683</span>
+						<span>🔱 1479</span>
 					</div>
 				<div class="stars-today">⭐ 4005 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/debpalash/VoiceStudio" target="_blank">
+    
+
+
+      
+        debpalash /
+
+      VoiceStudio</a></p>
+				<p>
+      VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 22737</span>
+						<span>🔱 2798</span>
+					</div>
+				<div class="stars-today">⭐ 12736 stars this month</div>
 				</div>
 			</div>
 	
@@ -446,32 +402,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Rust</span>
-						<span>⭐ 36122</span>
-						<span>🔱 2283</span>
+						<span>⭐ 36161</span>
+						<span>🔱 2286</span>
 					</div>
 				<div class="stars-today">⭐ 4799 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/public-apis/public-apis" target="_blank">
-    
-
-
-      
-        public-apis /
-
-      public-apis</a></p>
-				<p>
-      A collective list of free APIs
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 479108</span>
-						<span>🔱 52864</span>
-					</div>
-				<div class="stars-today">⭐ 24522 stars this month</div>
 				</div>
 			</div>
 	
@@ -490,32 +424,76 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 5255</span>
-						<span>🔱 487</span>
+						<span>⭐ 5263</span>
+						<span>🔱 490</span>
 					</div>
 				<div class="stars-today">⭐ 3974 stars this month</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/cactus-compute/needle" target="_blank">
+				<p><a href="https://github.com/public-apis/public-apis" target="_blank">
     
 
 
       
-        cactus-compute /
+        public-apis /
 
-      needle</a></p>
+      public-apis</a></p>
 				<p>
-      14MB foundation model for tiny devices; phones, wearables, smart home, and robots.
+      A collective list of free APIs
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 10859</span>
-						<span>🔱 694</span>
+						<span>⭐ 479192</span>
+						<span>🔱 52872</span>
 					</div>
-				<div class="stars-today">⭐ 7243 stars this month</div>
+				<div class="stars-today">⭐ 24522 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/semantica-agi/semantica" target="_blank">
+    
+
+
+      
+        semantica-agi /
+
+      semantica</a></p>
+				<p>
+      Graph-Native Infrastructure for Context and Accountable AI Systems
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 12724</span>
+						<span>🔱 1421</span>
+					</div>
+				<div class="stars-today">⭐ 8132 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/NVIDIA-NeMo/Switchyard" target="_blank">
+    
+
+
+      
+        NVIDIA-NeMo /
+
+      Switchyard</a></p>
+				<p>
+      Switchyard lets LLM applications route traffic across models and providers while preserving native OpenAI and Anthropic API compatibility - enabling flexible model selection, benchmarking, and cost/performance optimization.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 2919</span>
+						<span>🔱 262</span>
+					</div>
+				<div class="stars-today">⭐ 2657 stars this month</div>
 				</div>
 			</div>
 	
