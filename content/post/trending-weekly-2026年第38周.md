@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2026年第38周
-date: 2026-09-14T07:12:32Z
+date: 2026-09-14T14:26:12Z
 categories:
 - weekly
 keywords:
@@ -30,10 +30,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 44690</span>
-						<span>🔱 2576</span>
+						<span>⭐ 45096</span>
+						<span>🔱 2601</span>
 					</div>
 				<div class="stars-today">⭐ 16740 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/bilawalsidhu/gods-eye-view" target="_blank">
+    
+
+
+      
+        bilawalsidhu /
+
+      gods-eye-view</a></p>
+				<p>
+      A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 JavaScript</span>
+						<span>⭐ 33064</span>
+						<span>🔱 6604</span>
+					</div>
+				<div class="stars-today">⭐ 12931 stars this week</div>
 				</div>
 			</div>
 	
@@ -52,8 +74,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 JavaScript</span>
-						<span>⭐ 257923</span>
-						<span>🔱 38573</span>
+						<span>⭐ 258137</span>
+						<span>🔱 38605</span>
 					</div>
 				<div class="stars-today">⭐ 7264 stars this week</div>
 				</div>
@@ -74,54 +96,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 JavaScript</span>
-						<span>⭐ 6648</span>
-						<span>🔱 874</span>
+						<span>⭐ 6678</span>
+						<span>🔱 875</span>
 					</div>
 				<div class="stars-today">⭐ 1181 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/bilawalsidhu/gods-eye-view" target="_blank">
-    
-
-
-      
-        bilawalsidhu /
-
-      gods-eye-view</a></p>
-				<p>
-      A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 JavaScript</span>
-						<span>⭐ 32477</span>
-						<span>🔱 6493</span>
-					</div>
-				<div class="stars-today">⭐ 12931 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/mksglu/context-mode" target="_blank">
-    
-
-
-      
-        mksglu /
-
-      context-mode</a></p>
-				<p>
-      Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 22713</span>
-						<span>🔱 1640</span>
-					</div>
-				<div class="stars-today">⭐ 2102 stars this week</div>
 				</div>
 			</div>
 	
@@ -140,10 +118,54 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 JavaScript</span>
-						<span>⭐ 137647</span>
-						<span>🔱 7385</span>
+						<span>⭐ 138032</span>
+						<span>🔱 7406</span>
 					</div>
 				<div class="stars-today">⭐ 8444 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/mksglu/context-mode" target="_blank">
+    
+
+
+      
+        mksglu /
+
+      context-mode</a></p>
+				<p>
+      Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 22787</span>
+						<span>🔱 1648</span>
+					</div>
+				<div class="stars-today">⭐ 2102 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/heygen-com/hyperframes" target="_blank">
+    
+
+
+      
+        heygen-com /
+
+      hyperframes</a></p>
+				<p>
+      Write HTML. Render video. Built for agents.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 49885</span>
+						<span>🔱 4556</span>
+					</div>
+				<div class="stars-today">⭐ 5146 stars this week</div>
 				</div>
 			</div>
 	
@@ -162,8 +184,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 JavaScript</span>
-						<span>⭐ 61290</span>
-						<span>🔱 4037</span>
+						<span>⭐ 61768</span>
+						<span>🔱 4074</span>
 					</div>
 				<div class="stars-today">⭐ 10132 stars this week</div>
 				</div>
@@ -184,32 +206,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 27126</span>
+						<span>⭐ 27153</span>
 						<span>🔱 1811</span>
 					</div>
 				<div class="stars-today">⭐ 1622 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/heygen-com/hyperframes" target="_blank">
-    
-
-
-      
-        heygen-com /
-
-      hyperframes</a></p>
-				<p>
-      Write HTML. Render video. Built for agents.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 49755</span>
-						<span>🔱 4542</span>
-					</div>
-				<div class="stars-today">⭐ 5146 stars this week</div>
 				</div>
 			</div>
 	
@@ -228,8 +228,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 183732</span>
-						<span>🔱 13521</span>
+						<span>⭐ 183891</span>
+						<span>🔱 13531</span>
 					</div>
 				<div class="stars-today">⭐ 5191 stars this week</div>
 				</div>
@@ -250,120 +250,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Shell</span>
-						<span>⭐ 286342</span>
-						<span>🔱 25617</span>
+						<span>⭐ 286524</span>
+						<span>🔱 25631</span>
 					</div>
 				<div class="stars-today">⭐ 4068 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/coreyhaines31/marketingskills" target="_blank">
-    
-
-
-      
-        coreyhaines31 /
-
-      marketingskills</a></p>
-				<p>
-      Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics, and growth engineering.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 JavaScript</span>
-						<span>⭐ 50075</span>
-						<span>🔱 7597</span>
-					</div>
-				<div class="stars-today">⭐ 2678 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/ChromeDevTools/chrome-devtools-mcp" target="_blank">
-    
-
-
-      
-        ChromeDevTools /
-
-      chrome-devtools-mcp</a></p>
-				<p>
-      Chrome DevTools for coding agents
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 51871</span>
-						<span>🔱 3642</span>
-					</div>
-				<div class="stars-today">⭐ 736 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/cathrynlavery/diagram-design" target="_blank">
-    
-
-
-      
-        cathrynlavery /
-
-      diagram-design</a></p>
-				<p>
-      38 editorial diagram types for Claude Code, Codex, and Pi. Self-contained HTML + SVG. No shadows. No Mermaid slop.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 HTML</span>
-						<span>⭐ 39425</span>
-						<span>🔱 2501</span>
-					</div>
-				<div class="stars-today">⭐ 7129 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/THU-MAIC/OpenMAIC" target="_blank">
-    
-
-
-      
-        THU-MAIC /
-
-      OpenMAIC</a></p>
-				<p>
-      Open Multi-Agent Interactive Classroom — Get an immersive, multi-agent learning experience in just one click
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 36604</span>
-						<span>🔱 5798</span>
-					</div>
-				<div class="stars-today">⭐ 4202 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/Tencent/WeKnora" target="_blank">
-    
-
-
-      
-        Tencent /
-
-      WeKnora</a></p>
-				<p>
-      Open-source LLM knowledge platform: turn raw documents into a queryable RAG, an autonomous reasoning agent, and a self-maintaining Wiki.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Go</span>
-						<span>⭐ 22995</span>
-						<span>🔱 3277</span>
-					</div>
-				<div class="stars-today">⭐ 1302 stars this week</div>
 				</div>
 			</div>
 	
@@ -382,8 +272,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 47807</span>
-						<span>🔱 3891</span>
+						<span>⭐ 47977</span>
+						<span>🔱 3906</span>
 					</div>
 				<div class="stars-today">⭐ 3673 stars this week</div>
 				</div>
@@ -404,30 +294,120 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Rust</span>
-						<span>⭐ 7566</span>
-						<span>🔱 271</span>
+						<span>⭐ 7619</span>
+						<span>🔱 272</span>
 					</div>
 				<div class="stars-today">⭐ 588 stars this week</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/humanlayer/skills" target="_blank">
+				<p><a href="https://github.com/THU-MAIC/OpenMAIC" target="_blank">
     
 
 
       
-        humanlayer /
+        THU-MAIC /
 
-      skills</a></p>
-				<p></p>
+      OpenMAIC</a></p>
+				<p>
+      Open Multi-Agent Interactive Classroom — Get an immersive, multi-agent learning experience in just one click
+    </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 4026</span>
-						<span>🔱 123</span>
+						<span>⭐ 36722</span>
+						<span>🔱 5806</span>
 					</div>
-				<div class="stars-today">⭐ 1004 stars this week</div>
+				<div class="stars-today">⭐ 4202 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/cathrynlavery/diagram-design" target="_blank">
+    
+
+
+      
+        cathrynlavery /
+
+      diagram-design</a></p>
+				<p>
+      38 editorial diagram types for Claude Code, Codex, and Pi. Self-contained HTML + SVG. No shadows. No Mermaid slop.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 HTML</span>
+						<span>⭐ 39627</span>
+						<span>🔱 2513</span>
+					</div>
+				<div class="stars-today">⭐ 7129 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/ChromeDevTools/chrome-devtools-mcp" target="_blank">
+    
+
+
+      
+        ChromeDevTools /
+
+      chrome-devtools-mcp</a></p>
+				<p>
+      Chrome DevTools for coding agents
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 51913</span>
+						<span>🔱 3646</span>
+					</div>
+				<div class="stars-today">⭐ 736 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/Tencent/WeKnora" target="_blank">
+    
+
+
+      
+        Tencent /
+
+      WeKnora</a></p>
+				<p>
+      Open-source LLM knowledge platform: turn raw documents into a queryable RAG, an autonomous reasoning agent, and a self-maintaining Wiki.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Go</span>
+						<span>⭐ 23112</span>
+						<span>🔱 3290</span>
+					</div>
+				<div class="stars-today">⭐ 1302 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/coreyhaines31/marketingskills" target="_blank">
+    
+
+
+      
+        coreyhaines31 /
+
+      marketingskills</a></p>
+				<p>
+      Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics, and growth engineering.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 JavaScript</span>
+						<span>⭐ 50168</span>
+						<span>🔱 7603</span>
+					</div>
+				<div class="stars-today">⭐ 2678 stars this week</div>
 				</div>
 			</div>
 	
@@ -446,8 +426,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 15657</span>
-						<span>🔱 1615</span>
+						<span>⭐ 15723</span>
+						<span>🔱 1622</span>
 					</div>
 				<div class="stars-today">⭐ 1054 stars this week</div>
 				</div>
@@ -468,8 +448,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 9296</span>
-						<span>🔱 675</span>
+						<span>⭐ 9409</span>
+						<span>🔱 680</span>
 					</div>
 				<div class="stars-today">⭐ 1668 stars this week</div>
 				</div>
@@ -490,10 +470,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 136534</span>
-						<span>🔱 12257</span>
+						<span>⭐ 136665</span>
+						<span>🔱 12264</span>
 					</div>
 				<div class="stars-today">⭐ 2642 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/alibaba/open-code-review" target="_blank">
+    
+
+
+      
+        alibaba /
+
+      open-code-review</a></p>
+				<p>
+      Fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Go</span>
+						<span>⭐ 24781</span>
+						<span>🔱 1814</span>
+					</div>
+				<div class="stars-today">⭐ 2213 stars this week</div>
 				</div>
 			</div>
 	
@@ -512,8 +514,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Shell</span>
-						<span>⭐ 5814</span>
-						<span>🔱 1800</span>
+						<span>⭐ 5877</span>
+						<span>🔱 1808</span>
 					</div>
 				<div class="stars-today">⭐ 778 stars this week</div>
 				</div>

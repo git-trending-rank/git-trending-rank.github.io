@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2026年9月
-date: 2026-09-14T07:12:32Z
+date: 2026-09-14T14:26:12Z
 categories:
 - monthly
 keywords:
@@ -30,8 +30,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Shell</span>
-						<span>⭐ 40922</span>
-						<span>🔱 4591</span>
+						<span>⭐ 40997</span>
+						<span>🔱 4606</span>
 					</div>
 				<div class="stars-today">⭐ 16489 stars this month</div>
 				</div>
@@ -52,8 +52,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 JavaScript</span>
-						<span>⭐ 61290</span>
-						<span>🔱 4037</span>
+						<span>⭐ 61768</span>
+						<span>🔱 4074</span>
 					</div>
 				<div class="stars-today">⭐ 48808 stars this month</div>
 				</div>
@@ -74,8 +74,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 3964</span>
-						<span>🔱 291</span>
+						<span>⭐ 3988</span>
+						<span>🔱 294</span>
 					</div>
 				<div class="stars-today">⭐ 3635 stars this month</div>
 				</div>
@@ -96,8 +96,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Rust</span>
-						<span>⭐ 20984</span>
-						<span>🔱 674</span>
+						<span>⭐ 21030</span>
+						<span>🔱 678</span>
 					</div>
 				<div class="stars-today">⭐ 12557 stars this month</div>
 				</div>
@@ -118,8 +118,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 7645</span>
-						<span>🔱 676</span>
+						<span>⭐ 7693</span>
+						<span>🔱 677</span>
 					</div>
 				<div class="stars-today">⭐ 4967 stars this month</div>
 				</div>
@@ -140,32 +140,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 37096</span>
-						<span>🔱 2852</span>
+						<span>⭐ 37171</span>
+						<span>🔱 2857</span>
 					</div>
 				<div class="stars-today">⭐ 8745 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/cathrynlavery/diagram-design" target="_blank">
-    
-
-
-      
-        cathrynlavery /
-
-      diagram-design</a></p>
-				<p>
-      38 editorial diagram types for Claude Code, Codex, and Pi. Self-contained HTML + SVG. No shadows. No Mermaid slop.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 HTML</span>
-						<span>⭐ 39425</span>
-						<span>🔱 2501</span>
-					</div>
-				<div class="stars-today">⭐ 26213 stars this month</div>
 				</div>
 			</div>
 	
@@ -184,10 +162,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 JavaScript</span>
-						<span>⭐ 31737</span>
-						<span>🔱 3067</span>
+						<span>⭐ 31823</span>
+						<span>🔱 3075</span>
 					</div>
 				<div class="stars-today">⭐ 21897 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/cathrynlavery/diagram-design" target="_blank">
+    
+
+
+      
+        cathrynlavery /
+
+      diagram-design</a></p>
+				<p>
+      38 editorial diagram types for Claude Code, Codex, and Pi. Self-contained HTML + SVG. No shadows. No Mermaid slop.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 HTML</span>
+						<span>⭐ 39627</span>
+						<span>🔱 2513</span>
+					</div>
+				<div class="stars-today">⭐ 26213 stars this month</div>
 				</div>
 			</div>
 	
@@ -206,8 +206,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 36604</span>
-						<span>🔱 5798</span>
+						<span>⭐ 36722</span>
+						<span>🔱 5806</span>
 					</div>
 				<div class="stars-today">⭐ 15888 stars this month</div>
 				</div>
@@ -228,8 +228,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 44690</span>
-						<span>🔱 2576</span>
+						<span>⭐ 45096</span>
+						<span>🔱 2601</span>
 					</div>
 				<div class="stars-today">⭐ 24025 stars this month</div>
 				</div>
@@ -250,10 +250,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Swift</span>
-						<span>⭐ 18827</span>
-						<span>🔱 675</span>
+						<span>⭐ 18911</span>
+						<span>🔱 678</span>
 					</div>
 				<div class="stars-today">⭐ 13520 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/debpalash/VoiceStudio" target="_blank">
+    
+
+
+      
+        debpalash /
+
+      VoiceStudio</a></p>
+				<p>
+      VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 28440</span>
+						<span>🔱 3480</span>
+					</div>
+				<div class="stars-today">⭐ 15895 stars this month</div>
 				</div>
 			</div>
 	
@@ -272,7 +294,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Mojo</span>
-						<span>⭐ 29735</span>
+						<span>⭐ 29740</span>
 						<span>🔱 3169</span>
 					</div>
 				<div class="stars-today">⭐ 3049 stars this month</div>
@@ -294,8 +316,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Rust</span>
-						<span>⭐ 6724</span>
-						<span>🔱 454</span>
+						<span>⭐ 6770</span>
+						<span>🔱 457</span>
 					</div>
 				<div class="stars-today">⭐ 5269 stars this month</div>
 				</div>
@@ -314,32 +336,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Swift</span>
-						<span>⭐ 11871</span>
-						<span>🔱 1497</span>
+						<span>⭐ 11899</span>
+						<span>🔱 1500</span>
 					</div>
 				<div class="stars-today">⭐ 4221 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/debpalash/VoiceStudio" target="_blank">
-    
-
-
-      
-        debpalash /
-
-      VoiceStudio</a></p>
-				<p>
-      VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 27609</span>
-						<span>🔱 3398</span>
-					</div>
-				<div class="stars-today">⭐ 15895 stars this month</div>
 				</div>
 			</div>
 	
@@ -358,32 +358,76 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 5367</span>
-						<span>🔱 498</span>
+						<span>⭐ 5385</span>
+						<span>🔱 499</span>
 					</div>
 				<div class="stars-today">⭐ 4056 stars this month</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/cordiverse/cordis" target="_blank">
+				<p><a href="https://github.com/microsoft/data-formulator" target="_blank">
     
 
 
       
-        cordiverse /
+        microsoft /
 
-      cordis</a></p>
+      data-formulator</a></p>
 				<p>
-      Meta-Framework of Spatiotemporal Composability
+      🪄 Data Formulator is an interactive AI-powered data analysis system makes it easy to connect, explore and visualize data.
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 8469</span>
-						<span>🔱 530</span>
+						<span>🔠 Python</span>
+						<span>⭐ 17144</span>
+						<span>🔱 1672</span>
 					</div>
-				<div class="stars-today">⭐ 7887 stars this month</div>
+				<div class="stars-today">⭐ 1141 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/public-apis/public-apis" target="_blank">
+    
+
+
+      
+        public-apis /
+
+      public-apis</a></p>
+				<p>
+      A collective list of free APIs
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 479955</span>
+						<span>🔱 52953</span>
+					</div>
+				<div class="stars-today">⭐ 24869 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/google-research/timesfm" target="_blank">
+    
+
+
+      
+        google-research /
+
+      timesfm</a></p>
+				<p>
+      TimesFM (Time Series Foundation Model) is a pretrained time-series foundation model developed by Google Research for time-series forecasting.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 32447</span>
+						<span>🔱 3108</span>
+					</div>
+				<div class="stars-today">⭐ 5192 stars this month</div>
 				</div>
 			</div>
 	

@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2026-09-14
-date: 2026-09-14T07:12:32Z
+date: 2026-09-14T14:26:12Z
 categories:
 - daily
 keywords:
@@ -30,274 +30,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 C</span>
-						<span>⭐ 30448</span>
-						<span>🔱 3286</span>
+						<span>⭐ 31296</span>
+						<span>🔱 3334</span>
 					</div>
-				<div class="stars-today">⭐ 868 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/ever-co/ever-gauzy" target="_blank">
-    
-
-
-      
-        ever-co /
-
-      ever-gauzy</a></p>
-				<p>
-      Ever® Gauzy™ - Open Business Management Platform (ERP/CRM/HRM/ATS/PM) - https://gauzy.co
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 5428</span>
-						<span>🔱 957</span>
-					</div>
-				<div class="stars-today">⭐ 191 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/bilawalsidhu/gods-eye-view" target="_blank">
-    
-
-
-      
-        bilawalsidhu /
-
-      gods-eye-view</a></p>
-				<p>
-      A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 JavaScript</span>
-						<span>⭐ 32477</span>
-						<span>🔱 6493</span>
-					</div>
-				<div class="stars-today">⭐ 2680 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/tech-leads-club/agent-skills" target="_blank">
-    
-
-
-      
-        tech-leads-club /
-
-      agent-skills</a></p>
-				<p>
-      The secure, validated skill registry for professional AI coding agents. Extend Antigravity, Claude Code, Cursor, Copilot and more with absolute confidence.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 5806</span>
-						<span>🔱 503</span>
-					</div>
-				<div class="stars-today">⭐ 265 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/melgarafael/DeskcommCRM" target="_blank">
-    
-
-
-      
-        melgarafael /
-
-      DeskcommCRM</a></p>
-				<p>
-      Open-source AI sales OS — self-hosted CRM with native AI agents + WhatsApp (WAHA). Open alternative to Kommo, Octadesk & Intercom for any business that sells by chat. MCP-ready, multi-tenant, LGPD.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 2352</span>
-						<span>🔱 607</span>
-					</div>
-				<div class="stars-today">⭐ 432 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/calesthio/OpenMontage" target="_blank">
-    
-
-
-      
-        calesthio /
-
-      OpenMontage</a></p>
-				<p>
-      World's first open-source, agentic video production system. 12 production pipelines, 100+ tools, 700+ agent skill and production-knowledge files. Turn your AI coding assistant into a full video production studio.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 58752</span>
-						<span>🔱 7379</span>
-					</div>
-				<div class="stars-today">⭐ 380 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/asgeirtj/system_prompts_leaks" target="_blank">
-    
-
-
-      
-        asgeirtj /
-
-      system_prompts_leaks</a></p>
-				<p>
-      Extracted system prompts from Anthropic - Claude Fable 5.1, Opus 5, Claude Design, Claude Code. OpenAI - ChatGPT GPT-6-Astra, Codex. Google - Gemini 3.8 Flash, 3.1 Pro, Antigravity. xAI - Grok, Grok Bot, Cursor, Kimi and more! Updated regularly.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 JavaScript</span>
-						<span>⭐ 66296</span>
-						<span>🔱 10827</span>
-					</div>
-				<div class="stars-today">⭐ 706 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/vxcontrol/pentagi" target="_blank">
-    
-
-
-      
-        vxcontrol /
-
-      pentagi</a></p>
-				<p>
-      Fully autonomous AI Agents system capable of performing complex penetration testing tasks
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Go</span>
-						<span>⭐ 24184</span>
-						<span>🔱 3113</span>
-					</div>
-				<div class="stars-today">⭐ 590 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/multimodal-art-projection/YuE" target="_blank">
-    
-
-
-      
-        multimodal-art-projection /
-
-      YuE</a></p>
-				<p>
-      YuE2: frontier music generation with symbolic planning, zero-shot covers, and agentic music editing.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 7945</span>
-						<span>🔱 878</span>
-					</div>
-				<div class="stars-today">⭐ 487 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/yuliskov/SmartTube" target="_blank">
-    
-
-
-      
-        yuliskov /
-
-      SmartTube</a></p>
-				<p>
-      Browse media content with your own rules on Android TV
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Java</span>
-						<span>⭐ 33534</span>
-						<span>🔱 2039</span>
-					</div>
-				<div class="stars-today">⭐ 233 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/alphaXiv/OpenResearch" target="_blank">
-    
-
-
-      
-        alphaXiv /
-
-      OpenResearch</a></p>
-				<p>
-      Turn your coding agents into research agents
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Rust</span>
-						<span>⭐ 2260</span>
-						<span>🔱 151</span>
-					</div>
-				<div class="stars-today">⭐ 289 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/debpalash/VoiceStudio" target="_blank">
-    
-
-
-      
-        debpalash /
-
-      VoiceStudio</a></p>
-				<p>
-      VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 27609</span>
-						<span>🔱 3398</span>
-					</div>
-				<div class="stars-today">⭐ 2632 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/SnailSploit/Claude-Red" target="_blank">
-    
-
-
-      
-        SnailSploit /
-
-      Claude-Red</a></p>
-				<p>
-      claude-red is a curated library of offensive security skills designed for the Claude skills system. Each skill is a structured SKILL.md file that primes Claude with expert-level methodology for a specific attack surface — from SQLi to shellcode, EDR evasion to exploit development.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 4316</span>
-						<span>🔱 604</span>
-					</div>
-				<div class="stars-today">⭐ 506 stars today</div>
+				<div class="stars-today">⭐ 2233 stars today</div>
 				</div>
 			</div>
 	
@@ -316,98 +52,274 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Go</span>
-						<span>⭐ 23893</span>
-						<span>🔱 1766</span>
+						<span>⭐ 24781</span>
+						<span>🔱 1814</span>
 					</div>
-				<div class="stars-today">⭐ 443 stars today</div>
+				<div class="stars-today">⭐ 1796 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/jihe520/MathModelAgent" target="_blank">
+				<p><a href="https://github.com/multimodal-art-projection/YuE" target="_blank">
     
 
 
       
-        jihe520 /
+        multimodal-art-projection /
 
-      MathModelAgent</a></p>
+      YuE</a></p>
 				<p>
-      🤖📐专为数学建模设计的 Agent & skills ,自动完成数学建模，生成一份完整的可以直接提交的论文。 An Agent Designed for Mathematical Modeling ,Automatically complete mathmodel and generate a complete paper ready for submission.
+      YuE2: frontier music generation with symbolic planning, zero-shot covers, and agentic music editing.
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 5458</span>
-						<span>🔱 412</span>
+						<span>⭐ 8137</span>
+						<span>🔱 892</span>
 					</div>
-				<div class="stars-today">⭐ 246 stars today</div>
+				<div class="stars-today">⭐ 578 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/tonhowtf/omniget" target="_blank">
+				<p><a href="https://github.com/debpalash/VoiceStudio" target="_blank">
     
 
 
       
-        tonhowtf /
+        debpalash /
 
-      omniget</a></p>
+      VoiceStudio</a></p>
 				<p>
-      Download Udemy and Hotmart courses, YouTube videos, music and books — 1,800+ sites, no terminal. Free open-source desktop app for Windows, macOS and Linux, with a built-in course player, PDF/EPUB reader and music library. Powered by yt-dlp. Your files stay on your computer.
+      VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 28440</span>
+						<span>🔱 3480</span>
+					</div>
+				<div class="stars-today">⭐ 2774 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/666ghj/MiroFish" target="_blank">
+    
+
+
+      
+        666ghj /
+
+      MiroFish</a></p>
+				<p>
+      A Simple and Universal Swarm Intelligence Engine, Predicting Anything. 简洁通用的群体智能引擎，预测万物
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 72912</span>
+						<span>🔱 11274</span>
+					</div>
+				<div class="stars-today">⭐ 524 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/Panniantong/Agent-Reach" target="_blank">
+    
+
+
+      
+        Panniantong /
+
+      Agent-Reach</a></p>
+				<p>
+      Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 80893</span>
+						<span>🔱 7049</span>
+					</div>
+				<div class="stars-today">⭐ 640 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/asgeirtj/system_prompts_leaks" target="_blank">
+    
+
+
+      
+        asgeirtj /
+
+      system_prompts_leaks</a></p>
+				<p>
+      Extracted system prompts from Anthropic - Claude Fable 5.1, Opus 5, Claude Design, Claude Code. OpenAI - ChatGPT GPT-6-Astra, Codex. Google - Gemini 3.8 Flash, 3.1 Pro, Antigravity. xAI - Grok, Grok Bot, Cursor, Kimi and more! Updated regularly.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 JavaScript</span>
+						<span>⭐ 66525</span>
+						<span>🔱 10850</span>
+					</div>
+				<div class="stars-today">⭐ 770 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/rlaope/oh-my-hermes" target="_blank">
+    
+
+
+      
+        rlaope /
+
+      oh-my-hermes</a></p>
+				<p>
+      All in one plugin for Hermes Agent ⚚ the coding intelligence, a long-term memory system and model optimized workflow packages
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 1866</span>
+						<span>🔱 152</span>
+					</div>
+				<div class="stars-today">⭐ 52 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/localsend/localsend" target="_blank">
+    
+
+
+      
+        localsend /
+
+      localsend</a></p>
+				<p>
+      An open-source cross-platform alternative to AirDrop
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Dart</span>
+						<span>⭐ 91057</span>
+						<span>🔱 5083</span>
+					</div>
+				<div class="stars-today">⭐ 213 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/dani-garcia/vaultwarden" target="_blank">
+    
+
+
+      
+        dani-garcia /
+
+      vaultwarden</a></p>
+				<p>
+      Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Rust</span>
-						<span>⭐ 12004</span>
-						<span>🔱 1041</span>
+						<span>⭐ 67439</span>
+						<span>🔱 3206</span>
 					</div>
-				<div class="stars-today">⭐ 507 stars today</div>
+				<div class="stars-today">⭐ 110 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/jiji262/douyin-downloader" target="_blank">
+				<p><a href="https://github.com/TauricResearch/TradingAgents" target="_blank">
     
 
 
       
-        jiji262 /
+        TauricResearch /
 
-      douyin-downloader</a></p>
+      TradingAgents</a></p>
 				<p>
-      A practical Douyin downloader for both single-item and profile batch downloads, with progress display, retries, SQLite deduplication, and browser fallback support. 抖音批量下载工具，去水印，支持视频、图集、合集、音乐(原声)。
+      TradingAgents: Multi-Agents LLM Financial Trading Framework
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 11570</span>
-						<span>🔱 1766</span>
+						<span>⭐ 105767</span>
+						<span>🔱 20260</span>
 					</div>
-				<div class="stars-today">⭐ 452 stars today</div>
+				<div class="stars-today">⭐ 756 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/Swordfish90/cool-retro-term" target="_blank">
+				<p><a href="https://github.com/ruvnet/RuView" target="_blank">
     
 
 
       
-        Swordfish90 /
+        ruvnet /
 
-      cool-retro-term</a></p>
+      RuView</a></p>
 				<p>
-      A good looking terminal emulator which mimics the old cathode display...
+      π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 QML</span>
-						<span>⭐ 26306</span>
-						<span>🔱 1020</span>
+						<span>🔠 Rust</span>
+						<span>⭐ 93681</span>
+						<span>🔱 12419</span>
 					</div>
-				<div class="stars-today">⭐ 57 stars today</div>
+				<div class="stars-today">⭐ 370 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/tech-leads-club/agent-skills" target="_blank">
+    
+
+
+      
+        tech-leads-club /
+
+      agent-skills</a></p>
+				<p>
+      The secure, validated skill registry for professional AI coding agents. Extend Antigravity, Claude Code, Cursor, Copilot and more with absolute confidence.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 5927</span>
+						<span>🔱 510</span>
+					</div>
+				<div class="stars-today">⭐ 506 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/OpenBMB/VoxCPM" target="_blank">
+    
+
+
+      
+        OpenBMB /
+
+      VoxCPM</a></p>
+				<p>
+      VoxCPM2: Tokenizer-Free TTS for Multilingual Speech Generation, Creative Voice Design, and True-to-Life Cloning
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 37244</span>
+						<span>🔱 4233</span>
+					</div>
+				<div class="stars-today">⭐ 204 stars today</div>
 				</div>
 			</div>
 	
@@ -426,10 +338,120 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 165703</span>
-						<span>🔱 34565</span>
+						<span>⭐ 165834</span>
+						<span>🔱 34571</span>
 					</div>
-				<div class="stars-today">⭐ 152 stars today</div>
+				<div class="stars-today">⭐ 528 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/ever-co/ever-gauzy" target="_blank">
+    
+
+
+      
+        ever-co /
+
+      ever-gauzy</a></p>
+				<p>
+      Ever® Gauzy™ - Open Business Management Platform (ERP/CRM/HRM/ATS/PM) - https://gauzy.co
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 5735</span>
+						<span>🔱 974</span>
+					</div>
+				<div class="stars-today">⭐ 1095 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/Crosstalk-Solutions/project-nomad" target="_blank">
+    
+
+
+      
+        Crosstalk-Solutions /
+
+      project-nomad</a></p>
+				<p>
+      Project NOMAD is an offline-first knowledge and education server. Wikipedia, thousands of books, courses, maps, and optional local AI, all running on hardware you own with no internet required.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 36773</span>
+						<span>🔱 3675</span>
+					</div>
+				<div class="stars-today">⭐ 26 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/reconurge/flowsint" target="_blank">
+    
+
+
+      
+        reconurge /
+
+      flowsint</a></p>
+				<p>
+      A modern platform for visual, flexible, and extensible graph-based investigations. For cybersecurity analysts and investigators.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 8192</span>
+						<span>🔱 1018</span>
+					</div>
+				<div class="stars-today">⭐ 279 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/peetzweg/opendisplay" target="_blank">
+    
+
+
+      
+        peetzweg /
+
+      opendisplay</a></p>
+				<p>
+      Free, open-source Sidecar/Duet alternative — use your iPhone or iPad as a true second monitor for your Mac over USB or WiFi. Low latency H.264, Retina HiDPI, touch input.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Swift</span>
+						<span>⭐ 3395</span>
+						<span>🔱 243</span>
+					</div>
+				<div class="stars-today">⭐ 314 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/SnailSploit/Claude-Red" target="_blank">
+    
+
+
+      
+        SnailSploit /
+
+      Claude-Red</a></p>
+				<p>
+      claude-red is a curated library of offensive security skills designed for the Claude skills system. Each skill is a structured SKILL.md file that primes Claude with expert-level methodology for a specific attack surface — from SQLi to shellcode, EDR evasion to exploit development.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 4511</span>
+						<span>🔱 617</span>
+					</div>
+				<div class="stars-today">⭐ 606 stars today</div>
 				</div>
 			</div>
 	
