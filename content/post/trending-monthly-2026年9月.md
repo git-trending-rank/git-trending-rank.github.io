@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2026年9月
-date: 2026-09-15T06:47:38Z
+date: 2026-09-15T12:54:36Z
 categories:
 - monthly
 keywords:
@@ -30,8 +30,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Shell</span>
-						<span>⭐ 41137</span>
-						<span>🔱 4632</span>
+						<span>⭐ 41193</span>
+						<span>🔱 4647</span>
 					</div>
 				<div class="stars-today">⭐ 16712 stars this month</div>
 				</div>
@@ -52,8 +52,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 JavaScript</span>
-						<span>⭐ 62666</span>
-						<span>🔱 4154</span>
+						<span>⭐ 63045</span>
+						<span>🔱 4181</span>
 					</div>
 				<div class="stars-today">⭐ 49900 stars this month</div>
 				</div>
@@ -74,8 +74,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 4046</span>
-						<span>🔱 297</span>
+						<span>⭐ 4059</span>
+						<span>🔱 298</span>
 					</div>
 				<div class="stars-today">⭐ 3715 stars this month</div>
 				</div>
@@ -96,8 +96,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Rust</span>
-						<span>⭐ 21112</span>
-						<span>🔱 679</span>
+						<span>⭐ 21144</span>
+						<span>🔱 680</span>
 					</div>
 				<div class="stars-today">⭐ 12695 stars this month</div>
 				</div>
@@ -118,32 +118,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 7775</span>
-						<span>🔱 689</span>
+						<span>⭐ 7799</span>
+						<span>🔱 694</span>
 					</div>
 				<div class="stars-today">⭐ 5026 stars this month</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/volcengine/OpenViking" target="_blank">
+				<p><a href="https://github.com/THU-MAIC/OpenMAIC" target="_blank">
     
 
 
       
-        volcengine /
+        THU-MAIC /
 
-      OpenViking</a></p>
+      OpenMAIC</a></p>
 				<p>
-      Self-evolving Context Database for AI Agents. Unify Agent Memory, Knowledge RAG and Skills.
+      Open Multi-Agent Interactive Classroom — Get an immersive, multi-agent learning experience in just one click
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 37321</span>
-						<span>🔱 2873</span>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 37024</span>
+						<span>🔱 5844</span>
 					</div>
-				<div class="stars-today">⭐ 8921 stars this month</div>
+				<div class="stars-today">⭐ 16207 stars this month</div>
 				</div>
 			</div>
 	
@@ -162,8 +162,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 JavaScript</span>
-						<span>⭐ 31964</span>
-						<span>🔱 3080</span>
+						<span>⭐ 32036</span>
+						<span>🔱 3081</span>
 					</div>
 				<div class="stars-today">⭐ 22081 stars this month</div>
 				</div>
@@ -184,32 +184,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 HTML</span>
-						<span>⭐ 39958</span>
-						<span>🔱 2534</span>
+						<span>⭐ 40088</span>
+						<span>🔱 2550</span>
 					</div>
 				<div class="stars-today">⭐ 23268 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/THU-MAIC/OpenMAIC" target="_blank">
-    
-
-
-      
-        THU-MAIC /
-
-      OpenMAIC</a></p>
-				<p>
-      Open Multi-Agent Interactive Classroom — Get an immersive, multi-agent learning experience in just one click
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 36936</span>
-						<span>🔱 5830</span>
-					</div>
-				<div class="stars-today">⭐ 16207 stars this month</div>
 				</div>
 			</div>
 	
@@ -228,8 +206,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 45671</span>
-						<span>🔱 2650</span>
+						<span>⭐ 45917</span>
+						<span>🔱 2667</span>
 					</div>
 				<div class="stars-today">⭐ 24963 stars this month</div>
 				</div>
@@ -250,8 +228,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Swift</span>
-						<span>⭐ 19064</span>
-						<span>🔱 681</span>
+						<span>⭐ 19134</span>
+						<span>🔱 683</span>
 					</div>
 				<div class="stars-today">⭐ 13706 stars this month</div>
 				</div>
@@ -272,10 +250,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 29782</span>
-						<span>🔱 3602</span>
+						<span>⭐ 30264</span>
+						<span>🔱 3647</span>
 					</div>
 				<div class="stars-today">⭐ 18692 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/volcengine/OpenViking" target="_blank">
+    
+
+
+      
+        volcengine /
+
+      OpenViking</a></p>
+				<p>
+      Self-evolving Context Database for AI Agents. Unify Agent Memory, Knowledge RAG and Skills.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 37417</span>
+						<span>🔱 2880</span>
+					</div>
+				<div class="stars-today">⭐ 8921 stars this month</div>
 				</div>
 			</div>
 	
@@ -294,10 +294,30 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Mojo</span>
-						<span>⭐ 29753</span>
+						<span>⭐ 29758</span>
 						<span>🔱 3173</span>
 					</div>
 				<div class="stars-today">⭐ 3049 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/Lakr233/vphone-cli" target="_blank">
+    
+
+
+      
+        Lakr233 /
+
+      vphone-cli</a></p>
+				<p></p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Swift</span>
+						<span>⭐ 12633</span>
+						<span>🔱 1549</span>
+					</div>
+				<div class="stars-today">⭐ 4310 stars this month</div>
 				</div>
 			</div>
 	
@@ -316,30 +336,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Rust</span>
-						<span>⭐ 6848</span>
-						<span>🔱 460</span>
+						<span>⭐ 6872</span>
+						<span>🔱 462</span>
 					</div>
 				<div class="stars-today">⭐ 5351 stars this month</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/Lakr233/vphone-cli" target="_blank">
+				<p><a href="https://github.com/sergebulaev/linkedin-skills" target="_blank">
     
 
 
       
-        Lakr233 /
+        sergebulaev /
 
-      vphone-cli</a></p>
-				<p></p>
+      linkedin-skills</a></p>
+				<p>
+      Claude skills for LinkedIn. 11 Claude Code and Codex skills that write human-sounding LinkedIn posts, craft comments that get noticed, analyze your feed, and build a publishing cadence, all from your terminal. Content engineering by Creative Content Crafts. MIT.
+    </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Swift</span>
-						<span>⭐ 12325</span>
-						<span>🔱 1531</span>
+						<span>🔠 Python</span>
+						<span>⭐ 2443</span>
+						<span>🔱 423</span>
 					</div>
-				<div class="stars-today">⭐ 4310 stars this month</div>
+				<div class="stars-today">⭐ 1882 stars this month</div>
 				</div>
 			</div>
 	
@@ -358,54 +380,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 5424</span>
-						<span>🔱 502</span>
+						<span>⭐ 5436</span>
+						<span>🔱 503</span>
 					</div>
 				<div class="stars-today">⭐ 4111 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/microsoft/data-formulator" target="_blank">
-    
-
-
-      
-        microsoft /
-
-      data-formulator</a></p>
-				<p>
-      🪄 Data Formulator is an interactive AI-powered data analysis system makes it easy to connect, explore and visualize data.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 17201</span>
-						<span>🔱 1673</span>
-					</div>
-				<div class="stars-today">⭐ 1158 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/public-apis/public-apis" target="_blank">
-    
-
-
-      
-        public-apis /
-
-      public-apis</a></p>
-				<p>
-      A collective list of free APIs
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 480325</span>
-						<span>🔱 52984</span>
-					</div>
-				<div class="stars-today">⭐ 23551 stars this month</div>
 				</div>
 			</div>
 	
@@ -424,8 +402,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 32536</span>
-						<span>🔱 3115</span>
+						<span>⭐ 32560</span>
+						<span>🔱 3117</span>
 					</div>
 				<div class="stars-today">⭐ 5252 stars this month</div>
 				</div>
