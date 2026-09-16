@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2026-09-16
-date: 2026-09-16T06:52:08Z
+date: 2026-09-16T12:51:09Z
 categories:
 - daily
 keywords:
@@ -30,10 +30,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Go</span>
-						<span>⭐ 29450</span>
-						<span>🔱 2096</span>
+						<span>⭐ 30433</span>
+						<span>🔱 2166</span>
 					</div>
-				<div class="stars-today">⭐ 2756 stars today</div>
+				<div class="stars-today">⭐ 3215 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/cloudflare/security-audit-skill" target="_blank">
+    
+
+
+      
+        cloudflare /
+
+      security-audit-skill</a></p>
+				<p>
+      A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 JavaScript</span>
+						<span>⭐ 5611</span>
+						<span>🔱 338</span>
+					</div>
+				<div class="stars-today">⭐ 1434 stars today</div>
 				</div>
 			</div>
 	
@@ -52,10 +74,96 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 C</span>
-						<span>⭐ 34202</span>
-						<span>🔱 3582</span>
+						<span>⭐ 34595</span>
+						<span>🔱 3623</span>
 					</div>
-				<div class="stars-today">⭐ 2026 stars today</div>
+				<div class="stars-today">⭐ 1532 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/abue-ammar/tinycast" target="_blank">
+    
+
+
+      
+        abue-ammar /
+
+      tinycast</a></p>
+				<p>
+      Tinycast — a tiny, fully native macOS launcher, hotkeys, and clipboard history.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Swift</span>
+						<span>⭐ 5221</span>
+						<span>🔱 242</span>
+					</div>
+				<div class="stars-today">⭐ 1076 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/jamiepine/voicebox" target="_blank">
+    
+
+
+      
+        jamiepine /
+
+      voicebox</a></p>
+				<p>
+      The open-source AI voice studio. Clone, dictate, create.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 54100</span>
+						<span>🔱 6769</span>
+					</div>
+				<div class="stars-today">⭐ 409 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/Lakr233/vphone-cli" target="_blank">
+    
+
+
+      
+        Lakr233 /
+
+      vphone-cli</a></p>
+				<p></p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Swift</span>
+						<span>⭐ 13153</span>
+						<span>🔱 1575</span>
+					</div>
+				<div class="stars-today">⭐ 907 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/anthropics/knowledge-work-plugins" target="_blank">
+    
+
+
+      
+        anthropics /
+
+      knowledge-work-plugins</a></p>
+				<p>
+      Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 24152</span>
+						<span>🔱 2914</span>
+					</div>
+				<div class="stars-today">⭐ 96 stars today</div>
 				</div>
 			</div>
 	
@@ -74,98 +182,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 6889</span>
-						<span>🔱 1059</span>
+						<span>⭐ 7082</span>
+						<span>🔱 1076</span>
 					</div>
-				<div class="stars-today">⭐ 634 stars today</div>
+				<div class="stars-today">⭐ 771 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/debpalash/VoiceStudio" target="_blank">
+				<p><a href="https://github.com/ankitects/anki" target="_blank">
     
 
 
       
-        debpalash /
+        ankitects /
 
-      VoiceStudio</a></p>
+      anki</a></p>
 				<p>
-      VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 31364</span>
-						<span>🔱 3726</span>
-					</div>
-				<div class="stars-today">⭐ 2072 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/Homebrew/BrewUI" target="_blank">
-    
-
-
-      
-        Homebrew /
-
-      BrewUI</a></p>
-				<p>
-      📺 Homebrew's official macOS GUI
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Swift</span>
-						<span>⭐ 1573</span>
-						<span>🔱 37</span>
-					</div>
-				<div class="stars-today">⭐ 271 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/melgarafael/DeskcommCRM" target="_blank">
-    
-
-
-      
-        melgarafael /
-
-      DeskcommCRM</a></p>
-				<p>
-      Open-source AI sales OS — self-hosted CRM with native AI agents + WhatsApp (WAHA). Open alternative to Kommo, Octadesk & Intercom for any business that sells by chat. MCP-ready, multi-tenant, LGPD.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 2964</span>
-						<span>🔱 695</span>
-					</div>
-				<div class="stars-today">⭐ 193 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/alphaXiv/OpenResearch" target="_blank">
-    
-
-
-      
-        alphaXiv /
-
-      OpenResearch</a></p>
-				<p>
-      Turn your coding agents into research agents
+      Anki is a smart spaced repetition flashcard program
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Rust</span>
-						<span>⭐ 3639</span>
-						<span>🔱 237</span>
+						<span>⭐ 30638</span>
+						<span>🔱 3203</span>
 					</div>
-				<div class="stars-today">⭐ 531 stars today</div>
+				<div class="stars-today">⭐ 50 stars today</div>
 				</div>
 			</div>
 	
@@ -184,76 +226,186 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Java</span>
-						<span>⭐ 77014</span>
-						<span>🔱 8499</span>
+						<span>⭐ 77328</span>
+						<span>🔱 8545</span>
 					</div>
-				<div class="stars-today">⭐ 725 stars today</div>
+				<div class="stars-today">⭐ 1059 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/danny-avila/LibreChat" target="_blank">
+				<p><a href="https://github.com/anthropics/claude-code" target="_blank">
     
 
 
       
-        danny-avila /
+        anthropics /
 
-      LibreChat</a></p>
+      claude-code</a></p>
 				<p>
-      Enhanced ChatGPT Clone: Features Agents, MCP, Skills, DeepSeek, Anthropic, AWS, OpenAI, Responses API, Azure, Groq, o1, GPT-5, Mistral, OpenRouter, Vertex AI, Gemini, Artifacts, AI model switching, message search, Code Interpreter, langchain, DALL-E-3, OpenAPI Actions, Functions, Secure Multi-User Auth, Presets, open-source for self-hosting. Active
+      Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 43981</span>
-						<span>🔱 9036</span>
+						<span>⭐ 145272</span>
+						<span>🔱 23401</span>
 					</div>
-				<div class="stars-today">⭐ 254 stars today</div>
+				<div class="stars-today">⭐ 155 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/pacifio/atlas" target="_blank">
+				<p><a href="https://github.com/roboflow/supervision" target="_blank">
     
 
 
       
-        pacifio /
+        roboflow /
 
-      atlas</a></p>
+      supervision</a></p>
 				<p>
-      Source control for agents. Use multiple coding agents, track their changes and query them in one place
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Rust</span>
-						<span>⭐ 4735</span>
-						<span>🔱 281</span>
-					</div>
-				<div class="stars-today">⭐ 91 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/MG1937/ASC" target="_blank">
-    
-
-
-      
-        MG1937 /
-
-      ASC</a></p>
-				<p>
-      ASC is a super FAST Android decompiler front-end designed for Agents/Mobile Researchers.
+      We write your reusable computer vision tools. 💜
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 1303</span>
-						<span>🔱 205</span>
+						<span>⭐ 50429</span>
+						<span>🔱 4804</span>
 					</div>
-				<div class="stars-today">⭐ 129 stars today</div>
+				<div class="stars-today">⭐ 217 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/alphaXiv/OpenResearch" target="_blank">
+    
+
+
+      
+        alphaXiv /
+
+      OpenResearch</a></p>
+				<p>
+      Turn your coding agents into research agents
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Rust</span>
+						<span>⭐ 3964</span>
+						<span>🔱 253</span>
+					</div>
+				<div class="stars-today">⭐ 1036 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/supabase/supabase" target="_blank">
+    
+
+
+      
+        supabase /
+
+      supabase</a></p>
+				<p>
+      The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 109410</span>
+						<span>🔱 13971</span>
+					</div>
+				<div class="stars-today">⭐ 118 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/rlaope/oh-my-hermes" target="_blank">
+    
+
+
+      
+        rlaope /
+
+      oh-my-hermes</a></p>
+				<p>
+      All in one plugin for Hermes Agent ⚚ the coding intelligence, a long-term memory system and model optimized workflow packages
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 2417</span>
+						<span>🔱 176</span>
+					</div>
+				<div class="stars-today">⭐ 74 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/Tencent/WeKnora" target="_blank">
+    
+
+
+      
+        Tencent /
+
+      WeKnora</a></p>
+				<p>
+      Open-source LLM knowledge platform: turn raw documents into a queryable RAG, an autonomous reasoning agent, and a self-maintaining Wiki.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Go</span>
+						<span>⭐ 24879</span>
+						<span>🔱 3443</span>
+					</div>
+				<div class="stars-today">⭐ 696 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/SnailSploit/Claude-Red" target="_blank">
+    
+
+
+      
+        SnailSploit /
+
+      Claude-Red</a></p>
+				<p>
+      claude-red is a curated library of offensive security skills designed for the Claude skills system. Each skill is a structured SKILL.md file that primes Claude with expert-level methodology for a specific attack surface — from SQLi to shellcode, EDR evasion to exploit development.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 5544</span>
+						<span>🔱 717</span>
+					</div>
+				<div class="stars-today">⭐ 699 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/multimodal-art-projection/YuE" target="_blank">
+    
+
+
+      
+        multimodal-art-projection /
+
+      YuE</a></p>
+				<p>
+      YuE2: frontier music generation with symbolic planning, zero-shot covers, and agentic music editing.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 9174</span>
+						<span>🔱 992</span>
+					</div>
+				<div class="stars-today">⭐ 701 stars today</div>
 				</div>
 			</div>
 	
@@ -272,54 +424,54 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 JavaScript</span>
-						<span>⭐ 94987</span>
-						<span>🔱 10074</span>
+						<span>⭐ 95144</span>
+						<span>🔱 10089</span>
 					</div>
-				<div class="stars-today">⭐ 307 stars today</div>
+				<div class="stars-today">⭐ 656 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/tonhowtf/omniget" target="_blank">
+				<p><a href="https://github.com/cline/cline" target="_blank">
     
 
 
       
-        tonhowtf /
+        cline /
 
-      omniget</a></p>
+      cline</a></p>
 				<p>
-      Download Udemy and Hotmart courses, YouTube videos, music and books — 1,800+ sites, no terminal. Free open-source desktop app for Windows, macOS and Linux, with a built-in course player, PDF/EPUB reader and music library. Powered by yt-dlp. Your files stay on your computer.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Rust</span>
-						<span>⭐ 13191</span>
-						<span>🔱 1119</span>
-					</div>
-				<div class="stars-today">⭐ 258 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/earendil-works/pi" target="_blank">
-    
-
-
-      
-        earendil-works /
-
-      pi</a></p>
-				<p>
-      AI agent toolkit: unified LLM API, agent loop, TUI, coding agent CLI
+      Autonomous coding agent as an SDK, IDE extension, or CLI assistant.
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 105960</span>
-						<span>🔱 13320</span>
+						<span>⭐ 68184</span>
+						<span>🔱 7374</span>
 					</div>
-				<div class="stars-today">⭐ 458 stars today</div>
+				<div class="stars-today">⭐ 102 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/affaan-m/ECC" target="_blank">
+    
+
+
+      
+        affaan-m /
+
+      ECC</a></p>
+				<p>
+      The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 JavaScript</span>
+						<span>⭐ 259749</span>
+						<span>🔱 38868</span>
+					</div>
+				<div class="stars-today">⭐ 1046 stars today</div>
 				</div>
 			</div>
 	
