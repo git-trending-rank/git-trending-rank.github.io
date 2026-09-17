@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2026年第38周
-date: 2026-09-17T08:56:07Z
+date: 2026-09-17T14:28:50Z
 categories:
 - weekly
 keywords:
@@ -14,6 +14,28 @@ keywords:
 	<main class="container">
         <div class="repo-list" id="repoList">
 
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/alibaba/open-code-review" target="_blank">
+    
+
+
+      
+        alibaba /
+
+      open-code-review</a></p>
+				<p>
+      Fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Go</span>
+						<span>⭐ 33904</span>
+						<span>🔱 2414</span>
+					</div>
+				<div class="stars-today">⭐ 8594 stars this week</div>
+				</div>
+			</div>
 	
 			<div class="repo-card">
 				<p><a href="https://github.com/ayghri/i-have-adhd" target="_blank">
@@ -30,8 +52,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 47112</span>
-						<span>🔱 2742</span>
+						<span>⭐ 47265</span>
+						<span>🔱 2756</span>
 					</div>
 				<div class="stars-today">⭐ 13737 stars this week</div>
 				</div>
@@ -52,32 +74,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 JavaScript</span>
-						<span>⭐ 36396</span>
-						<span>🔱 7291</span>
+						<span>⭐ 36676</span>
+						<span>🔱 7358</span>
 					</div>
 				<div class="stars-today">⭐ 14777 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/alibaba/open-code-review" target="_blank">
-    
-
-
-      
-        alibaba /
-
-      open-code-review</a></p>
-				<p>
-      Fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Go</span>
-						<span>⭐ 33157</span>
-						<span>🔱 2357</span>
-					</div>
-				<div class="stars-today">⭐ 8594 stars this week</div>
 				</div>
 			</div>
 	
@@ -96,32 +96,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 JavaScript</span>
-						<span>⭐ 260675</span>
-						<span>🔱 39017</span>
+						<span>⭐ 260940</span>
+						<span>🔱 39045</span>
 					</div>
 				<div class="stars-today">⭐ 5292 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/openai/plugins" target="_blank">
-    
-
-
-      
-        openai /
-
-      plugins</a></p>
-				<p>
-      OpenAI Plugins
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 JavaScript</span>
-						<span>⭐ 6878</span>
-						<span>🔱 898</span>
-					</div>
-				<div class="stars-today">⭐ 771 stars this week</div>
 				</div>
 			</div>
 	
@@ -140,8 +118,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 23307</span>
-						<span>🔱 1678</span>
+						<span>⭐ 23336</span>
+						<span>🔱 1680</span>
 					</div>
 				<div class="stars-today">⭐ 1612 stars this week</div>
 				</div>
@@ -162,54 +140,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Go</span>
-						<span>⭐ 25799</span>
-						<span>🔱 3520</span>
+						<span>⭐ 26063</span>
+						<span>🔱 3539</span>
 					</div>
 				<div class="stars-today">⭐ 3034 stars this week</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/obra/superpowers" target="_blank">
+				<p><a href="https://github.com/openai/plugins" target="_blank">
     
 
 
       
-        obra /
+        openai /
 
-      superpowers</a></p>
+      plugins</a></p>
 				<p>
-      An agentic skills framework & software development methodology that works.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Shell</span>
-						<span>⭐ 287811</span>
-						<span>🔱 25745</span>
-					</div>
-				<div class="stars-today">⭐ 4023 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/DietrichGebert/ponytail" target="_blank">
-    
-
-
-      
-        DietrichGebert /
-
-      ponytail</a></p>
-				<p>
-      Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.
+      OpenAI Plugins
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 JavaScript</span>
-						<span>⭐ 140796</span>
-						<span>🔱 7554</span>
+						<span>⭐ 6893</span>
+						<span>🔱 898</span>
 					</div>
-				<div class="stars-today">⭐ 7218 stars this week</div>
+				<div class="stars-today">⭐ 771 stars this week</div>
 				</div>
 			</div>
 	
@@ -228,10 +184,98 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Rust</span>
-						<span>⭐ 7957</span>
-						<span>🔱 272</span>
+						<span>⭐ 7981</span>
+						<span>🔱 271</span>
 					</div>
 				<div class="stars-today">⭐ 998 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/addyosmani/agent-skills" target="_blank">
+    
+
+
+      
+        addyosmani /
+
+      agent-skills</a></p>
+				<p>
+      Production-grade engineering skills for AI coding agents.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 JavaScript</span>
+						<span>⭐ 95890</span>
+						<span>🔱 10134</span>
+					</div>
+				<div class="stars-today">⭐ 2119 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/anthropics/claude-code" target="_blank">
+    
+
+
+      
+        anthropics /
+
+      claude-code</a></p>
+				<p>
+      Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 145818</span>
+						<span>🔱 23524</span>
+					</div>
+				<div class="stars-today">⭐ 938 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/anthropics/knowledge-work-plugins" target="_blank">
+    
+
+
+      
+        anthropics /
+
+      knowledge-work-plugins</a></p>
+				<p>
+      Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 24458</span>
+						<span>🔱 2932</span>
+					</div>
+				<div class="stars-today">⭐ 274 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/obra/superpowers" target="_blank">
+    
+
+
+      
+        obra /
+
+      superpowers</a></p>
+				<p>
+      An agentic skills framework & software development methodology that works.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Shell</span>
+						<span>⭐ 287947</span>
+						<span>🔱 25756</span>
+					</div>
+				<div class="stars-today">⭐ 4023 stars this week</div>
 				</div>
 			</div>
 	
@@ -250,10 +294,54 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 49363</span>
-						<span>🔱 3999</span>
+						<span>⭐ 49452</span>
+						<span>🔱 4004</span>
 					</div>
 				<div class="stars-today">⭐ 3266 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/microsoft/markitdown" target="_blank">
+    
+
+
+      
+        microsoft /
+
+      markitdown</a></p>
+				<p>
+      Python tool for converting files and office documents to Markdown.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 185040</span>
+						<span>🔱 13626</span>
+					</div>
+				<div class="stars-today">⭐ 2733 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/home-assistant/core" target="_blank">
+    
+
+
+      
+        home-assistant /
+
+      core</a></p>
+				<p>
+      🏡 Open source home automation that puts local control and privacy first.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 90620</span>
+						<span>🔱 38682</span>
+					</div>
+				<div class="stars-today">⭐ 236 stars this week</div>
 				</div>
 			</div>
 	
@@ -272,8 +360,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Shell</span>
-						<span>⭐ 6244</span>
-						<span>🔱 1928</span>
+						<span>⭐ 6300</span>
+						<span>🔱 1943</span>
 					</div>
 				<div class="stars-today">⭐ 873 stars this week</div>
 				</div>
@@ -294,98 +382,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 10225</span>
-						<span>🔱 714</span>
+						<span>⭐ 10300</span>
+						<span>🔱 720</span>
 					</div>
 				<div class="stars-today">⭐ 2320 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/microsoft/markitdown" target="_blank">
-    
-
-
-      
-        microsoft /
-
-      markitdown</a></p>
-				<p>
-      Python tool for converting files and office documents to Markdown.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 184970</span>
-						<span>🔱 13625</span>
-					</div>
-				<div class="stars-today">⭐ 2733 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/addyosmani/agent-skills" target="_blank">
-    
-
-
-      
-        addyosmani /
-
-      agent-skills</a></p>
-				<p>
-      Production-grade engineering skills for AI coding agents.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 JavaScript</span>
-						<span>⭐ 95695</span>
-						<span>🔱 10126</span>
-					</div>
-				<div class="stars-today">⭐ 2119 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/home-assistant/core" target="_blank">
-    
-
-
-      
-        home-assistant /
-
-      core</a></p>
-				<p>
-      🏡 Open source home automation that puts local control and privacy first.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 90604</span>
-						<span>🔱 38675</span>
-					</div>
-				<div class="stars-today">⭐ 236 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/THU-MAIC/OpenMAIC" target="_blank">
-    
-
-
-      
-        THU-MAIC /
-
-      OpenMAIC</a></p>
-				<p>
-      Open Multi-Agent Interactive Classroom — Get an immersive, multi-agent learning experience in just one click
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 37511</span>
-						<span>🔱 5904</span>
-					</div>
-				<div class="stars-today">⭐ 3214 stars this week</div>
 				</div>
 			</div>
 	
@@ -404,98 +404,76 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 44324</span>
-						<span>🔱 9074</span>
+						<span>⭐ 44384</span>
+						<span>🔱 9082</span>
 					</div>
 				<div class="stars-today">⭐ 1173 stars this week</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/openai/skills" target="_blank">
+				<p><a href="https://github.com/stablyai/orca" target="_blank">
     
 
 
       
-        openai /
+        stablyai /
 
-      skills</a></p>
+      orca</a></p>
 				<p>
-      Skills Catalog for Codex
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 27400</span>
-						<span>🔱 1836</span>
-					</div>
-				<div class="stars-today">⭐ 632 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/github/spec-kit" target="_blank">
-    
-
-
-      
-        github /
-
-      spec-kit</a></p>
-				<p>
-      💫 Toolkit to help you get started with Spec-Driven Development
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 137479</span>
-						<span>🔱 12312</span>
-					</div>
-				<div class="stars-today">⭐ 3019 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/heygen-com/hyperframes" target="_blank">
-    
-
-
-      
-        heygen-com /
-
-      hyperframes</a></p>
-				<p>
-      Write HTML. Render video. Built for agents.
+      Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime.
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 50875</span>
-						<span>🔱 4636</span>
+						<span>⭐ 70813</span>
+						<span>🔱 4634</span>
 					</div>
-				<div class="stars-today">⭐ 2413 stars this week</div>
+				<div class="stars-today">⭐ 5337 stars this week</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/TauricResearch/TradingAgents" target="_blank">
+				<p><a href="https://github.com/Panniantong/Agent-Reach" target="_blank">
     
 
 
       
-        TauricResearch /
+        Panniantong /
 
-      TradingAgents</a></p>
+      Agent-Reach</a></p>
 				<p>
-      TradingAgents: Multi-Agents LLM Financial Trading Framework
+      Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 107202</span>
-						<span>🔱 20468</span>
+						<span>⭐ 82764</span>
+						<span>🔱 7234</span>
 					</div>
-				<div class="stars-today">⭐ 3350 stars this week</div>
+				<div class="stars-today">⭐ 3488 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/decolua/9router" target="_blank">
+    
+
+
+      
+        decolua /
+
+      9router</a></p>
+				<p>
+      Unlimited FREE AI coding. Connect Claude Code, Codex, Cursor, Cline, Copilot, Antigravity to FREE Claude/GPT/Gemini via 40+ providers. Auto-fallback, RTK -40% tokens, never hit limits.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 JavaScript</span>
+						<span>⭐ 29103</span>
+						<span>🔱 5364</span>
+					</div>
+				<div class="stars-today">⭐ 902 stars this week</div>
 				</div>
 			</div>
 	

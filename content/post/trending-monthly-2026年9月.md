@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2026年9月
-date: 2026-09-17T08:56:07Z
+date: 2026-09-17T14:28:50Z
 categories:
 - monthly
 keywords:
@@ -14,28 +14,6 @@ keywords:
 	<main class="container">
         <div class="repo-list" id="repoList">
 
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/omacom/omarchy" target="_blank">
-    
-
-
-      
-        omacom /
-
-      omarchy</a></p>
-				<p>
-      Beautiful, Modern & Opinionated Linux
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Shell</span>
-						<span>⭐ 41627</span>
-						<span>🔱 4723</span>
-					</div>
-				<div class="stars-today">⭐ 16707 stars this month</div>
-				</div>
-			</div>
 	
 			<div class="repo-card">
 				<p><a href="https://github.com/tt-a1i/archify" target="_blank">
@@ -52,10 +30,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 JavaScript</span>
-						<span>⭐ 65330</span>
-						<span>🔱 4337</span>
+						<span>⭐ 65610</span>
+						<span>🔱 4366</span>
 					</div>
 				<div class="stars-today">⭐ 51755 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/omacom/omarchy" target="_blank">
+    
+
+
+      
+        omacom /
+
+      omarchy</a></p>
+				<p>
+      Beautiful, Modern & Opinionated Linux
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Shell</span>
+						<span>⭐ 41685</span>
+						<span>🔱 4735</span>
+					</div>
+				<div class="stars-today">⭐ 16707 stars this month</div>
 				</div>
 			</div>
 	
@@ -74,7 +74,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 4167</span>
+						<span>⭐ 4179</span>
 						<span>🔱 305</span>
 					</div>
 				<div class="stars-today">⭐ 3853 stars this month</div>
@@ -96,8 +96,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 8138</span>
-						<span>🔱 724</span>
+						<span>⭐ 8154</span>
+						<span>🔱 725</span>
 					</div>
 				<div class="stars-today">⭐ 5021 stars this month</div>
 				</div>
@@ -118,8 +118,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Rust</span>
-						<span>⭐ 21376</span>
-						<span>🔱 689</span>
+						<span>⭐ 21410</span>
+						<span>🔱 692</span>
 					</div>
 				<div class="stars-today">⭐ 12927 stars this month</div>
 				</div>
@@ -140,7 +140,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 37511</span>
+						<span>⭐ 37558</span>
 						<span>🔱 5904</span>
 					</div>
 				<div class="stars-today">⭐ 16773 stars this month</div>
@@ -162,8 +162,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 JavaScript</span>
-						<span>⭐ 32358</span>
-						<span>🔱 3119</span>
+						<span>⭐ 32427</span>
+						<span>🔱 3125</span>
 					</div>
 				<div class="stars-today">⭐ 22206 stars this month</div>
 				</div>
@@ -184,32 +184,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 47112</span>
-						<span>🔱 2742</span>
+						<span>⭐ 47265</span>
+						<span>🔱 2756</span>
 					</div>
 				<div class="stars-today">⭐ 25944 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/cathrynlavery/diagram-design" target="_blank">
-    
-
-
-      
-        cathrynlavery /
-
-      diagram-design</a></p>
-				<p>
-      38 editorial diagram types for Claude Code, Codex, and Pi. Self-contained HTML + SVG. No shadows. No Mermaid slop.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 HTML</span>
-						<span>⭐ 40628</span>
-						<span>🔱 2591</span>
-					</div>
-				<div class="stars-today">⭐ 21458 stars this month</div>
 				</div>
 			</div>
 	
@@ -228,8 +206,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Swift</span>
-						<span>⭐ 19534</span>
-						<span>🔱 706</span>
+						<span>⭐ 19581</span>
+						<span>🔱 708</span>
 					</div>
 				<div class="stars-today">⭐ 14080 stars this month</div>
 				</div>
@@ -250,32 +228,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 32272</span>
-						<span>🔱 3824</span>
+						<span>⭐ 32415</span>
+						<span>🔱 3841</span>
 					</div>
 				<div class="stars-today">⭐ 21946 stars this month</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/chaitanyagiri/munder-difflin" target="_blank">
+				<p><a href="https://github.com/cathrynlavery/diagram-design" target="_blank">
     
 
 
       
-        chaitanyagiri /
+        cathrynlavery /
 
-      munder-difflin</a></p>
+      diagram-design</a></p>
 				<p>
-      A local multi-agent harness that works with your existing Claude Code, Codex subscriptions, allows you to run an office of agents
+      38 editorial diagram types for Claude Code, Codex, and Pi. Self-contained HTML + SVG. No shadows. No Mermaid slop.
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 7467</span>
-						<span>🔱 974</span>
+						<span>🔠 HTML</span>
+						<span>⭐ 40701</span>
+						<span>🔱 2600</span>
 					</div>
-				<div class="stars-today">⭐ 6210 stars this month</div>
+				<div class="stars-today">⭐ 21458 stars this month</div>
 				</div>
 			</div>
 	
@@ -292,32 +270,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Swift</span>
-						<span>⭐ 13526</span>
-						<span>🔱 1605</span>
+						<span>⭐ 13652</span>
+						<span>🔱 1615</span>
 					</div>
 				<div class="stars-today">⭐ 5577 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/modular/modular" target="_blank">
-    
-
-
-      
-        modular /
-
-      modular</a></p>
-				<p>
-      The Modular Platform (includes MAX & Mojo)
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Mojo</span>
-						<span>⭐ 29790</span>
-						<span>🔱 3174</span>
-					</div>
-				<div class="stars-today">⭐ 3075 stars this month</div>
 				</div>
 			</div>
 	
@@ -336,7 +292,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 5527</span>
+						<span>⭐ 5535</span>
 						<span>🔱 511</span>
 					</div>
 				<div class="stars-today">⭐ 4197 stars this month</div>
@@ -344,24 +300,24 @@ keywords:
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/volcengine/OpenViking" target="_blank">
+				<p><a href="https://github.com/chaitanyagiri/munder-difflin" target="_blank">
     
 
 
       
-        volcengine /
+        chaitanyagiri /
 
-      OpenViking</a></p>
+      munder-difflin</a></p>
 				<p>
-      Self-evolving Context Database for AI Agents. Unify Agent Memory, Knowledge RAG and Skills.
+      A local multi-agent harness that works with your existing Claude Code, Codex subscriptions, allows you to run an office of agents
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 37844</span>
-						<span>🔱 2926</span>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 7496</span>
+						<span>🔱 980</span>
 					</div>
-				<div class="stars-today">⭐ 9270 stars this month</div>
+				<div class="stars-today">⭐ 6210 stars this month</div>
 				</div>
 			</div>
 	
@@ -380,32 +336,54 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 32924</span>
-						<span>🔱 3169</span>
+						<span>⭐ 32967</span>
+						<span>🔱 3172</span>
 					</div>
 				<div class="stars-today">⭐ 5249 stars this month</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/akitaonrails/ai-memory" target="_blank">
+				<p><a href="https://github.com/jingyaogong/minimind" target="_blank">
     
 
 
       
-        akitaonrails /
+        jingyaogong /
 
-      ai-memory</a></p>
+      minimind</a></p>
 				<p>
-      Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors
+      🧠 Train a 64M-parameter LLM from scratch in just 2h!
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Rust</span>
-						<span>⭐ 7040</span>
-						<span>🔱 470</span>
+						<span>🔠 Python</span>
+						<span>⭐ 61449</span>
+						<span>🔱 7998</span>
 					</div>
-				<div class="stars-today">⭐ 5445 stars this month</div>
+				<div class="stars-today">⭐ 6769 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/modular/modular" target="_blank">
+    
+
+
+      
+        modular /
+
+      modular</a></p>
+				<p>
+      The Modular Platform (includes MAX & Mojo)
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Mojo</span>
+						<span>⭐ 29794</span>
+						<span>🔱 3174</span>
+					</div>
+				<div class="stars-today">⭐ 3075 stars this month</div>
 				</div>
 			</div>
 	
@@ -424,8 +402,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 26769</span>
-						<span>🔱 3656</span>
+						<span>⭐ 26832</span>
+						<span>🔱 3660</span>
 					</div>
 				<div class="stars-today">⭐ 8153 stars this month</div>
 				</div>
@@ -446,32 +424,76 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 6396</span>
-						<span>🔱 527</span>
+						<span>⭐ 6416</span>
+						<span>🔱 528</span>
 					</div>
 				<div class="stars-today">⭐ 1336 stars this month</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/jingyaogong/minimind" target="_blank">
+				<p><a href="https://github.com/abue-ammar/tinycast" target="_blank">
     
 
 
       
-        jingyaogong /
+        abue-ammar /
 
-      minimind</a></p>
+      tinycast</a></p>
 				<p>
-      🧠 Train a 64M-parameter LLM from scratch in just 2h!
+      Tinycast — a tiny, fully native macOS launcher, hotkeys, and clipboard history.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Swift</span>
+						<span>⭐ 5973</span>
+						<span>🔱 276</span>
+					</div>
+				<div class="stars-today">⭐ 3906 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/securo-finance/securo" target="_blank">
+    
+
+
+      
+        securo-finance /
+
+      securo</a></p>
+				<p>
+      Open-source personal finance manager. Self-hosted, privacy-first.
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 61412</span>
-						<span>🔱 7989</span>
+						<span>⭐ 3487</span>
+						<span>🔱 442</span>
 					</div>
-				<div class="stars-today">⭐ 6769 stars this month</div>
+				<div class="stars-today">⭐ 1897 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/melgarafael/DeskcommCRM" target="_blank">
+    
+
+
+      
+        melgarafael /
+
+      DeskcommCRM</a></p>
+				<p>
+      Open-source AI sales OS — self-hosted CRM with native AI agents + WhatsApp (WAHA). Open alternative to Kommo, Octadesk & Intercom for any business that sells by chat. MCP-ready, multi-tenant, LGPD.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 3121</span>
+						<span>🔱 737</span>
+					</div>
+				<div class="stars-today">⭐ 2535 stars this month</div>
 				</div>
 			</div>
 	
