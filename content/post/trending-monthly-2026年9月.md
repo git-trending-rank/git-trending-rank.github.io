@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2026年9月
-date: 2026-09-18T06:43:00Z
+date: 2026-09-18T12:23:23Z
 categories:
 - monthly
 keywords:
@@ -30,8 +30,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 JavaScript</span>
-						<span>⭐ 66154</span>
-						<span>🔱 4416</span>
+						<span>⭐ 66424</span>
+						<span>🔱 4435</span>
 					</div>
 				<div class="stars-today">⭐ 52260 stars this month</div>
 				</div>
@@ -52,8 +52,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Shell</span>
-						<span>⭐ 41775</span>
-						<span>🔱 4761</span>
+						<span>⭐ 41825</span>
+						<span>🔱 4766</span>
 					</div>
 				<div class="stars-today">⭐ 16196 stars this month</div>
 				</div>
@@ -74,54 +74,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 4200</span>
-						<span>🔱 307</span>
+						<span>⭐ 4212</span>
+						<span>🔱 308</span>
 					</div>
 				<div class="stars-today">⭐ 3896 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/cursor/plugins" target="_blank">
-    
-
-
-      
-        cursor /
-
-      plugins</a></p>
-				<p>
-      Cursor plugin specification and official plugins
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 8056</span>
-						<span>🔱 731</span>
-					</div>
-				<div class="stars-today">⭐ 5130 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/AprilNEA/OpenLogi" target="_blank">
-    
-
-
-      
-        AprilNEA /
-
-      OpenLogi</a></p>
-				<p>
-      ⚡️A native, local-first alternative to Logitech Options+, written in Rust 🦀 — remap buttons, DPI, and SmartShift over HID++. No account, no telemetry.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Rust</span>
-						<span>⭐ 21471</span>
-						<span>🔱 697</span>
-					</div>
-				<div class="stars-today">⭐ 12913 stars this month</div>
 				</div>
 			</div>
 	
@@ -140,10 +96,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 37676</span>
-						<span>🔱 5922</span>
+						<span>⭐ 37740</span>
+						<span>🔱 5929</span>
 					</div>
 				<div class="stars-today">⭐ 16970 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/cursor/plugins" target="_blank">
+    
+
+
+      
+        cursor /
+
+      plugins</a></p>
+				<p>
+      Cursor plugin specification and official plugins
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 8073</span>
+						<span>🔱 735</span>
+					</div>
+				<div class="stars-today">⭐ 5130 stars this month</div>
 				</div>
 			</div>
 	
@@ -162,10 +140,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 JavaScript</span>
-						<span>⭐ 32565</span>
-						<span>🔱 3146</span>
+						<span>⭐ 32628</span>
+						<span>🔱 3153</span>
 					</div>
 				<div class="stars-today">⭐ 21929 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/AprilNEA/OpenLogi" target="_blank">
+    
+
+
+      
+        AprilNEA /
+
+      OpenLogi</a></p>
+				<p>
+      ⚡️A native, local-first alternative to Logitech Options+, written in Rust 🦀 — remap buttons, DPI, and SmartShift over HID++. No account, no telemetry.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Rust</span>
+						<span>⭐ 21502</span>
+						<span>🔱 696</span>
+					</div>
+				<div class="stars-today">⭐ 12913 stars this month</div>
 				</div>
 			</div>
 	
@@ -184,32 +184,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 47616</span>
-						<span>🔱 2773</span>
+						<span>⭐ 47779</span>
+						<span>🔱 2780</span>
 					</div>
 				<div class="stars-today">⭐ 26237 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/vorssaint/vorssaint-utils" target="_blank">
-    
-
-
-      
-        vorssaint /
-
-      vorssaint-utils</a></p>
-				<p>
-      Free and open-source macOS menu bar toolkit.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Swift</span>
-						<span>⭐ 19700</span>
-						<span>🔱 717</span>
-					</div>
-				<div class="stars-today">⭐ 14192 stars this month</div>
 				</div>
 			</div>
 	
@@ -228,10 +206,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 32585</span>
-						<span>🔱 3868</span>
+						<span>⭐ 32684</span>
+						<span>🔱 3874</span>
 					</div>
 				<div class="stars-today">⭐ 22507 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/vorssaint/vorssaint-utils" target="_blank">
+    
+
+
+      
+        vorssaint /
+
+      vorssaint-utils</a></p>
+				<p>
+      Free and open-source macOS menu bar toolkit.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Swift</span>
+						<span>⭐ 19736</span>
+						<span>🔱 719</span>
+					</div>
+				<div class="stars-today">⭐ 14192 stars this month</div>
 				</div>
 			</div>
 	
@@ -250,74 +250,54 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 HTML</span>
-						<span>⭐ 40896</span>
-						<span>🔱 2610</span>
+						<span>⭐ 41005</span>
+						<span>🔱 2620</span>
 					</div>
 				<div class="stars-today">⭐ 20738 stars this month</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/Lakr233/vphone-cli" target="_blank">
+				<p><a href="https://github.com/cloudflare/security-audit-skill" target="_blank">
     
 
 
       
-        Lakr233 /
+        cloudflare /
 
-      vphone-cli</a></p>
-				<p></p>
+      security-audit-skill</a></p>
+				<p>
+      A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings
+    </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Swift</span>
-						<span>⭐ 13822</span>
-						<span>🔱 1632</span>
+						<span>🔠 JavaScript</span>
+						<span>⭐ 11919</span>
+						<span>🔱 646</span>
 					</div>
-				<div class="stars-today">⭐ 5998 stars this month</div>
+				<div class="stars-today">⭐ 6981 stars this month</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/apache/maka" target="_blank">
+				<p><a href="https://github.com/alibaba/open-code-review" target="_blank">
     
 
 
       
-        apache /
+        alibaba /
 
-      maka</a></p>
+      open-code-review</a></p>
 				<p>
-      Apache Maka (Incubating) is a high-performance agent workspace that keeps a complete record of everything it did.
+      Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 5554</span>
-						<span>🔱 514</span>
+						<span>🔠 Go</span>
+						<span>⭐ 36156</span>
+						<span>🔱 2571</span>
 					</div>
-				<div class="stars-today">⭐ 4224 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/chaitanyagiri/munder-difflin" target="_blank">
-    
-
-
-      
-        chaitanyagiri /
-
-      munder-difflin</a></p>
-				<p>
-      A local multi-agent harness that works with your existing Claude Code, Codex subscriptions, allows you to run an office of agents
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 7561</span>
-						<span>🔱 987</span>
-					</div>
-				<div class="stars-today">⭐ 6168 stars this month</div>
+				<div class="stars-today">⭐ 13677 stars this month</div>
 				</div>
 			</div>
 	
@@ -336,8 +316,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 33052</span>
-						<span>🔱 3182</span>
+						<span>⭐ 33078</span>
+						<span>🔱 3183</span>
 					</div>
 				<div class="stars-today">⭐ 5145 stars this month</div>
 				</div>
@@ -358,32 +338,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 61513</span>
-						<span>🔱 8008</span>
+						<span>⭐ 61562</span>
+						<span>🔱 8014</span>
 					</div>
 				<div class="stars-today">⭐ 6867 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/modular/modular" target="_blank">
-    
-
-
-      
-        modular /
-
-      modular</a></p>
-				<p>
-      The Modular Platform (includes MAX & Mojo)
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Mojo</span>
-						<span>⭐ 29809</span>
-						<span>🔱 3177</span>
-					</div>
-				<div class="stars-today">⭐ 3082 stars this month</div>
 				</div>
 			</div>
 	
@@ -402,10 +360,54 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 26993</span>
-						<span>🔱 3689</span>
+						<span>⭐ 27060</span>
+						<span>🔱 3696</span>
 					</div>
 				<div class="stars-today">⭐ 8304 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/apache/maka" target="_blank">
+    
+
+
+      
+        apache /
+
+      maka</a></p>
+				<p>
+      Apache Maka (Incubating) is a high-performance agent workspace that keeps a complete record of everything it did.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 5570</span>
+						<span>🔱 515</span>
+					</div>
+				<div class="stars-today">⭐ 4224 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/Tencent/WeKnora" target="_blank">
+    
+
+
+      
+        Tencent /
+
+      WeKnora</a></p>
+				<p>
+      Open-source LLM knowledge platform: turn raw documents into a queryable RAG, an autonomous reasoning agent, and a self-maintaining Wiki.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Go</span>
+						<span>⭐ 26778</span>
+						<span>🔱 3605</span>
+					</div>
+				<div class="stars-today">⭐ 6280 stars this month</div>
 				</div>
 			</div>
 	
@@ -424,7 +426,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 6351</span>
+						<span>⭐ 6371</span>
 						<span>🔱 532</span>
 					</div>
 				<div class="stars-today">⭐ 1398 stars this month</div>
@@ -446,32 +448,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Swift</span>
-						<span>⭐ 6245</span>
-						<span>🔱 288</span>
+						<span>⭐ 6347</span>
+						<span>🔱 290</span>
 					</div>
 				<div class="stars-today">⭐ 4365 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/securo-finance/securo" target="_blank">
-    
-
-
-      
-        securo-finance /
-
-      securo</a></p>
-				<p>
-      Open-source personal finance manager. Self-hosted, privacy-first.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 3557</span>
-						<span>🔱 446</span>
-					</div>
-				<div class="stars-today">⭐ 1902 stars this month</div>
 				</div>
 			</div>
 	
@@ -490,10 +470,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 3103</span>
-						<span>🔱 764</span>
+						<span>⭐ 3130</span>
+						<span>🔱 770</span>
 					</div>
 				<div class="stars-today">⭐ 2586 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/every-app/open-seo" target="_blank">
+    
+
+
+      
+        every-app /
+
+      open-seo</a></p>
+				<p>
+      Open source alternative to Semrush and Ahrefs
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 19153</span>
+						<span>🔱 2462</span>
+					</div>
+				<div class="stars-today">⭐ 6794 stars this month</div>
 				</div>
 			</div>
 	

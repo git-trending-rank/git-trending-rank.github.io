@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2026-09-18
-date: 2026-09-18T06:43:00Z
+date: 2026-09-18T12:23:23Z
 categories:
 - daily
 keywords:
@@ -14,28 +14,6 @@ keywords:
 	<main class="container">
         <div class="repo-list" id="repoList">
 
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/alibaba/open-code-review" target="_blank">
-    
-
-
-      
-        alibaba /
-
-      open-code-review</a></p>
-				<p>
-      Fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Go</span>
-						<span>⭐ 35543</span>
-						<span>🔱 2518</span>
-					</div>
-				<div class="stars-today">⭐ 3286 stars today</div>
-				</div>
-			</div>
 	
 			<div class="repo-card">
 				<p><a href="https://github.com/cloudflare/security-audit-skill" target="_blank">
@@ -52,76 +30,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 JavaScript</span>
-						<span>⭐ 11202</span>
-						<span>🔱 603</span>
+						<span>⭐ 11919</span>
+						<span>🔱 646</span>
 					</div>
-				<div class="stars-today">⭐ 3607 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/addyosmani/agent-skills" target="_blank">
-    
-
-
-      
-        addyosmani /
-
-      agent-skills</a></p>
-				<p>
-      Production-grade engineering skills for AI coding agents.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 JavaScript</span>
-						<span>⭐ 96012</span>
-						<span>🔱 10159</span>
-					</div>
-				<div class="stars-today">⭐ 680 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/Tencent/BrowserSkill" target="_blank">
-    
-
-
-      
-        Tencent /
-
-      BrowserSkill</a></p>
-				<p>
-      Let AI agents use your real, logged-in browser without interrupting your work. CLI + extension for browser automation across any shell-capable AI agent.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 4570</span>
-						<span>🔱 321</span>
-					</div>
-				<div class="stars-today">⭐ 1302 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/alphaXiv/OpenResearch" target="_blank">
-    
-
-
-      
-        alphaXiv /
-
-      OpenResearch</a></p>
-				<p>
-      Turn your coding agents into research agents
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Rust</span>
-						<span>⭐ 5109</span>
-						<span>🔱 311</span>
-					</div>
-				<div class="stars-today">⭐ 939 stars today</div>
+				<div class="stars-today">⭐ 3019 stars today</div>
 				</div>
 			</div>
 	
@@ -140,142 +52,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 145963</span>
-						<span>🔱 23658</span>
+						<span>⭐ 146064</span>
+						<span>🔱 23699</span>
 					</div>
-				<div class="stars-today">⭐ 538 stars today</div>
+				<div class="stars-today">⭐ 442 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/NationalSecurityAgency/ghidra" target="_blank">
+				<p><a href="https://github.com/alibaba/open-code-review" target="_blank">
     
 
 
       
-        NationalSecurityAgency /
+        alibaba /
 
-      ghidra</a></p>
+      open-code-review</a></p>
 				<p>
-      Ghidra is a software reverse engineering (SRE) framework
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Java</span>
-						<span>⭐ 78664</span>
-						<span>🔱 8696</span>
-					</div>
-				<div class="stars-today">⭐ 912 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/anthropics/knowledge-work-plugins" target="_blank">
-    
-
-
-      
-        anthropics /
-
-      knowledge-work-plugins</a></p>
-				<p>
-      Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 24645</span>
-						<span>🔱 2955</span>
-					</div>
-				<div class="stars-today">⭐ 287 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/Tencent/WeKnora" target="_blank">
-    
-
-
-      
-        Tencent /
-
-      WeKnora</a></p>
-				<p>
-      Open-source LLM knowledge platform: turn raw documents into a queryable RAG, an autonomous reasoning agent, and a self-maintaining Wiki.
+      Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Go</span>
-						<span>⭐ 26568</span>
-						<span>🔱 3581</span>
+						<span>⭐ 36156</span>
+						<span>🔱 2571</span>
 					</div>
-				<div class="stars-today">⭐ 1125 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/abue-ammar/tinycast" target="_blank">
-    
-
-
-      
-        abue-ammar /
-
-      tinycast</a></p>
-				<p>
-      Tinycast — a tiny, fully native macOS launcher, hotkeys, and clipboard history.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Swift</span>
-						<span>⭐ 6245</span>
-						<span>🔱 288</span>
-					</div>
-				<div class="stars-today">⭐ 739 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/cilium/cilium" target="_blank">
-    
-
-
-      
-        cilium /
-
-      cilium</a></p>
-				<p>
-      eBPF-based Networking, Security, and Observability
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Go</span>
-						<span>⭐ 25314</span>
-						<span>🔱 4076</span>
-					</div>
-				<div class="stars-today">⭐ 111 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/jamiepine/voicebox" target="_blank">
-    
-
-
-      
-        jamiepine /
-
-      voicebox</a></p>
-				<p>
-      The open-source AI voice studio. Clone, dictate, create.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 54962</span>
-						<span>🔱 6834</span>
-					</div>
-				<div class="stars-today">⭐ 667 stars today</div>
+				<div class="stars-today">⭐ 2724 stars today</div>
 				</div>
 			</div>
 	
@@ -294,54 +96,54 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 JavaScript</span>
-						<span>⭐ 261370</span>
-						<span>🔱 39128</span>
+						<span>⭐ 261562</span>
+						<span>🔱 39149</span>
 					</div>
-				<div class="stars-today">⭐ 1171 stars today</div>
+				<div class="stars-today">⭐ 965 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/roboflow/supervision" target="_blank">
+				<p><a href="https://github.com/Tencent/BrowserSkill" target="_blank">
     
 
 
       
-        roboflow /
+        Tencent /
 
-      supervision</a></p>
+      BrowserSkill</a></p>
 				<p>
-      We write your reusable computer vision tools. 💜
+      Let AI agents use your real, logged-in browser without interrupting your work. CLI + extension for browser automation across any shell-capable AI agent.
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 50867</span>
-						<span>🔱 4835</span>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 4879</span>
+						<span>🔱 343</span>
 					</div>
-				<div class="stars-today">⭐ 329 stars today</div>
+				<div class="stars-today">⭐ 1319 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/JustVugg/colibri" target="_blank">
+				<p><a href="https://github.com/addyosmani/agent-skills" target="_blank">
     
 
 
       
-        JustVugg /
+        addyosmani /
 
-      colibri</a></p>
+      agent-skills</a></p>
 				<p>
-      Run frontier MoE models on hardware you already own — pure C, zero deps, experts streamed from disk. Tiny engine, immense model. 🐦
+      Production-grade engineering skills for AI coding agents.
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 C</span>
-						<span>⭐ 35883</span>
-						<span>🔱 3774</span>
+						<span>🔠 JavaScript</span>
+						<span>⭐ 96155</span>
+						<span>🔱 10168</span>
 					</div>
-				<div class="stars-today">⭐ 873 stars today</div>
+				<div class="stars-today">⭐ 677 stars today</div>
 				</div>
 			</div>
 	
@@ -360,54 +162,164 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 3639</span>
-						<span>🔱 379</span>
+						<span>⭐ 3777</span>
+						<span>🔱 394</span>
 					</div>
-				<div class="stars-today">⭐ 367 stars today</div>
+				<div class="stars-today">⭐ 571 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/ever-co/ever-gauzy" target="_blank">
+				<p><a href="https://github.com/Fission-AI/OpenSpec" target="_blank">
     
 
 
       
-        ever-co /
+        Fission-AI /
 
-      ever-gauzy</a></p>
+      OpenSpec</a></p>
 				<p>
-      Ever® Gauzy™ - Open Business Management Platform (ERP/CRM/HRM/ATS/PM) - https://gauzy.co
+      Spec-driven development (SDD) for AI coding assistants.
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 7642</span>
-						<span>🔱 1135</span>
+						<span>⭐ 69070</span>
+						<span>🔱 4738</span>
 					</div>
-				<div class="stars-today">⭐ 470 stars today</div>
+				<div class="stars-today">⭐ 298 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/cline/cline" target="_blank">
+				<p><a href="https://github.com/ankitects/anki" target="_blank">
     
 
 
       
-        cline /
+        ankitects /
 
-      cline</a></p>
+      anki</a></p>
 				<p>
-      Autonomous coding agent as an SDK, IDE extension, or CLI assistant.
+      Anki is a smart spaced repetition flashcard program
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Rust</span>
+						<span>⭐ 31067</span>
+						<span>🔱 3234</span>
+					</div>
+				<div class="stars-today">⭐ 430 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/anthropics/knowledge-work-plugins" target="_blank">
+    
+
+
+      
+        anthropics /
+
+      knowledge-work-plugins</a></p>
+				<p>
+      Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 24711</span>
+						<span>🔱 2957</span>
+					</div>
+				<div class="stars-today">⭐ 300 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/supermemoryai/supermemory" target="_blank">
+    
+
+
+      
+        supermemoryai /
+
+      supermemory</a></p>
+				<p>
+      Memory and context engine + app that is extremely fast, scalable, and can be run fully locally. The Memory API for the AI era.
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 68625</span>
-						<span>🔱 7418</span>
+						<span>⭐ 30035</span>
+						<span>🔱 2629</span>
 					</div>
-				<div class="stars-today">⭐ 380 stars today</div>
+				<div class="stars-today">⭐ 140 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/tradesdontlie/tradingview-mcp" target="_blank">
+    
+
+
+      
+        tradesdontlie /
+
+      tradingview-mcp</a></p>
+				<p>
+      AI-assisted TradingView chart analysis — connect Claude Code to your TradingView Desktop for personal workflow automation
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 JavaScript</span>
+						<span>⭐ 6348</span>
+						<span>🔱 2709</span>
+					</div>
+				<div class="stars-today">⭐ 64 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/rustfs/rustfs" target="_blank">
+    
+
+
+      
+        rustfs /
+
+      rustfs</a></p>
+				<p>
+      RustFS is an open-source, S3-compatible high-performance object storage system supporting migration and coexistence with other S3-compatible platforms such as MinIO and Ceph.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Rust</span>
+						<span>⭐ 32940</span>
+						<span>🔱 1475</span>
+					</div>
+				<div class="stars-today">⭐ 559 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/supabase/supabase" target="_blank">
+    
+
+
+      
+        supabase /
+
+      supabase</a></p>
+				<p>
+      The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 109965</span>
+						<span>🔱 14218</span>
+					</div>
+				<div class="stars-today">⭐ 586 stars today</div>
 				</div>
 			</div>
 	
@@ -426,32 +338,54 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Go</span>
-						<span>⭐ 14952</span>
-						<span>🔱 1490</span>
+						<span>⭐ 15050</span>
+						<span>🔱 1495</span>
+					</div>
+				<div class="stars-today">⭐ 478 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/ahmedkhaleel2004/gitdiagram" target="_blank">
+    
+
+
+      
+        ahmedkhaleel2004 /
+
+      gitdiagram</a></p>
+				<p>
+      Free, simple, fast interactive diagrams for any GitHub repository
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 16246</span>
+						<span>🔱 1250</span>
 					</div>
 				<div class="stars-today">⭐ 145 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/n8n-io/n8n" target="_blank">
+				<p><a href="https://github.com/asciimoo/hister" target="_blank">
     
 
 
       
-        n8n-io /
+        asciimoo /
 
-      n8n</a></p>
+      hister</a></p>
 				<p>
-      Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
+      Your own search engine
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 205127</span>
-						<span>🔱 60759</span>
+						<span>🔠 Go</span>
+						<span>⭐ 4673</span>
+						<span>🔱 197</span>
 					</div>
-				<div class="stars-today">⭐ 281 stars today</div>
+				<div class="stars-today">⭐ 842 stars today</div>
 				</div>
 			</div>
 	
