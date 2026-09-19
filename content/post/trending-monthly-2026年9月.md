@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2026年9月
-date: 2026-09-19T06:42:10Z
+date: 2026-09-19T12:04:32Z
 categories:
 - monthly
 keywords:
@@ -30,8 +30,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 JavaScript</span>
-						<span>⭐ 66971</span>
-						<span>🔱 4464</span>
+						<span>⭐ 67101</span>
+						<span>🔱 4482</span>
 					</div>
 				<div class="stars-today">⭐ 52955 stars this month</div>
 				</div>
@@ -52,8 +52,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Shell</span>
-						<span>⭐ 41954</span>
-						<span>🔱 4806</span>
+						<span>⭐ 41975</span>
+						<span>🔱 4810</span>
 					</div>
 				<div class="stars-today">⭐ 15994 stars this month</div>
 				</div>
@@ -74,7 +74,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 4242</span>
+						<span>⭐ 4247</span>
 						<span>🔱 309</span>
 					</div>
 				<div class="stars-today">⭐ 3934 stars this month</div>
@@ -96,32 +96,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 37865</span>
-						<span>🔱 5941</span>
+						<span>⭐ 37909</span>
+						<span>🔱 5950</span>
 					</div>
 				<div class="stars-today">⭐ 17177 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/cursor/plugins" target="_blank">
-    
-
-
-      
-        cursor /
-
-      plugins</a></p>
-				<p>
-      Cursor plugin specification and official plugins
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 8129</span>
-						<span>🔱 744</span>
-					</div>
-				<div class="stars-today">⭐ 5182 stars this month</div>
 				</div>
 			</div>
 	
@@ -140,54 +118,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 JavaScript</span>
-						<span>⭐ 32725</span>
-						<span>🔱 3161</span>
+						<span>⭐ 32755</span>
+						<span>🔱 3163</span>
 					</div>
 				<div class="stars-today">⭐ 21890 stars this month</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/AprilNEA/OpenLogi" target="_blank">
+				<p><a href="https://github.com/cursor/plugins" target="_blank">
     
 
 
       
-        AprilNEA /
+        cursor /
 
-      OpenLogi</a></p>
+      plugins</a></p>
 				<p>
-      ⚡️A native, local-first alternative to Logitech Options+, written in Rust 🦀 — remap buttons, DPI, and SmartShift over HID++. No account, no telemetry.
+      Cursor plugin specification and official plugins
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Rust</span>
-						<span>⭐ 21581</span>
-						<span>🔱 697</span>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 8148</span>
+						<span>🔱 746</span>
 					</div>
-				<div class="stars-today">⭐ 12953 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/ayghri/i-have-adhd" target="_blank">
-    
-
-
-      
-        ayghri /
-
-      i-have-adhd</a></p>
-				<p>
-      A skill to stop your coding agent from burying the answer. ADHD-friendly output.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 48257</span>
-						<span>🔱 2807</span>
-					</div>
-				<div class="stars-today">⭐ 26310 stars this month</div>
+				<div class="stars-today">⭐ 5182 stars this month</div>
 				</div>
 			</div>
 	
@@ -206,10 +162,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 32966</span>
-						<span>🔱 3905</span>
+						<span>⭐ 33024</span>
+						<span>🔱 3912</span>
 					</div>
 				<div class="stars-today">⭐ 22910 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/AprilNEA/OpenLogi" target="_blank">
+    
+
+
+      
+        AprilNEA /
+
+      OpenLogi</a></p>
+				<p>
+      ⚡️A native, local-first alternative to Logitech Options+, written in Rust 🦀 — remap buttons, DPI, and SmartShift over HID++. No account, no telemetry.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Rust</span>
+						<span>⭐ 21593</span>
+						<span>🔱 697</span>
+					</div>
+				<div class="stars-today">⭐ 12953 stars this month</div>
 				</div>
 			</div>
 	
@@ -228,7 +206,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Swift</span>
-						<span>⭐ 19851</span>
+						<span>⭐ 19894</span>
 						<span>🔱 727</span>
 					</div>
 				<div class="stars-today">⭐ 14343 stars this month</div>
@@ -236,24 +214,24 @@ keywords:
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/cathrynlavery/diagram-design" target="_blank">
+				<p><a href="https://github.com/ayghri/i-have-adhd" target="_blank">
     
 
 
       
-        cathrynlavery /
+        ayghri /
 
-      diagram-design</a></p>
+      i-have-adhd</a></p>
 				<p>
-      Editorial diagram design for Claude Code, Codex, and Pi. Self-contained HTML + SVG. No shadows. No Mermaid slop.
+      A skill to stop your coding agent from burying the answer. ADHD-friendly output.
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 HTML</span>
-						<span>⭐ 41214</span>
-						<span>🔱 2638</span>
+						<span>🔠 Python</span>
+						<span>⭐ 48410</span>
+						<span>🔱 2813</span>
 					</div>
-				<div class="stars-today">⭐ 19891 stars this month</div>
+				<div class="stars-today">⭐ 26310 stars this month</div>
 				</div>
 			</div>
 	
@@ -272,10 +250,30 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 JavaScript</span>
-						<span>⭐ 14306</span>
-						<span>🔱 771</span>
+						<span>⭐ 14990</span>
+						<span>🔱 818</span>
 					</div>
 				<div class="stars-today">⭐ 9661 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/Lakr233/vphone-cli" target="_blank">
+    
+
+
+      
+        Lakr233 /
+
+      vphone-cli</a></p>
+				<p></p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Swift</span>
+						<span>⭐ 13925</span>
+						<span>🔱 1647</span>
+					</div>
+				<div class="stars-today">⭐ 6233 stars this month</div>
 				</div>
 			</div>
 	
@@ -294,10 +292,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Go</span>
-						<span>⭐ 36926</span>
-						<span>🔱 2632</span>
+						<span>⭐ 37168</span>
+						<span>🔱 2653</span>
 					</div>
 				<div class="stars-today">⭐ 15865 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/cathrynlavery/diagram-design" target="_blank">
+    
+
+
+      
+        cathrynlavery /
+
+      diagram-design</a></p>
+				<p>
+      Editorial diagram design for Claude Code, Codex, and Pi. Self-contained HTML + SVG. No shadows. No Mermaid slop.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 HTML</span>
+						<span>⭐ 41253</span>
+						<span>🔱 2637</span>
+					</div>
+				<div class="stars-today">⭐ 19891 stars this month</div>
 				</div>
 			</div>
 	
@@ -316,8 +336,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 33157</span>
-						<span>🔱 3193</span>
+						<span>⭐ 33177</span>
+						<span>🔱 3192</span>
 					</div>
 				<div class="stars-today">⭐ 5206 stars this month</div>
 				</div>
@@ -338,54 +358,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 61631</span>
-						<span>🔱 8014</span>
+						<span>⭐ 61658</span>
+						<span>🔱 8022</span>
 					</div>
 				<div class="stars-today">⭐ 6966 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/tashfeenahmed/freellmapi" target="_blank">
-    
-
-
-      
-        tashfeenahmed /
-
-      freellmapi</a></p>
-				<p>
-      7.4 billion tokens per month. 34 free LLM providers. 635 free model endpoints. All behind one /v1 endpoint, plus any custom OpenAI-compatible endpoint. Smart routing, automatic failover, encrypted keys. Personal experimentation only.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 27233</span>
-						<span>🔱 3717</span>
-					</div>
-				<div class="stars-today">⭐ 8509 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/apache/maka" target="_blank">
-    
-
-
-      
-        apache /
-
-      maka</a></p>
-				<p>
-      Apache Maka (Incubating) is a high-performance agent workspace that keeps a complete record of everything it did.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 5588</span>
-						<span>🔱 517</span>
-					</div>
-				<div class="stars-today">⭐ 4259 stars this month</div>
 				</div>
 			</div>
 	
@@ -404,10 +380,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Go</span>
-						<span>⭐ 27107</span>
-						<span>🔱 3646</span>
+						<span>⭐ 27208</span>
+						<span>🔱 3666</span>
 					</div>
 				<div class="stars-today">⭐ 7035 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/tashfeenahmed/freellmapi" target="_blank">
+    
+
+
+      
+        tashfeenahmed /
+
+      freellmapi</a></p>
+				<p>
+      7.4 billion tokens per month. 34 free LLM providers. 635 free model endpoints. All behind one /v1 endpoint, plus any custom OpenAI-compatible endpoint. Smart routing, automatic failover, encrypted keys. Personal experimentation only.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 27287</span>
+						<span>🔱 3730</span>
+					</div>
+				<div class="stars-today">⭐ 8509 stars this month</div>
 				</div>
 			</div>
 	
@@ -426,54 +424,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 6421</span>
+						<span>⭐ 6430</span>
 						<span>🔱 535</span>
 					</div>
 				<div class="stars-today">⭐ 1471 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/abue-ammar/tinycast" target="_blank">
-    
-
-
-      
-        abue-ammar /
-
-      tinycast</a></p>
-				<p>
-      Tinycast — a tiny, fully native macOS launcher, hotkeys, and clipboard history.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Swift</span>
-						<span>⭐ 6511</span>
-						<span>🔱 301</span>
-					</div>
-				<div class="stars-today">⭐ 4799 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/melgarafael/DeskcommCRM" target="_blank">
-    
-
-
-      
-        melgarafael /
-
-      DeskcommCRM</a></p>
-				<p>
-      Open-source AI sales OS — self-hosted CRM with native AI agents + WhatsApp (WAHA). Open alternative to Kommo, Octadesk & Intercom for any business that sells by chat. MCP-ready, multi-tenant, LGPD.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 3234</span>
-						<span>🔱 789</span>
-					</div>
-				<div class="stars-today">⭐ 2721 stars this month</div>
 				</div>
 			</div>
 	
@@ -492,10 +446,54 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 19366</span>
-						<span>🔱 2490</span>
+						<span>⭐ 19401</span>
+						<span>🔱 2491</span>
 					</div>
 				<div class="stars-today">⭐ 6804 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/melgarafael/DeskcommCRM" target="_blank">
+    
+
+
+      
+        melgarafael /
+
+      DeskcommCRM</a></p>
+				<p>
+      Open-source AI sales OS — self-hosted CRM with native AI agents + WhatsApp (WAHA). Open alternative to Kommo, Octadesk & Intercom for any business that sells by chat. MCP-ready, multi-tenant, LGPD.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 3251</span>
+						<span>🔱 789</span>
+					</div>
+				<div class="stars-today">⭐ 2721 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/abue-ammar/tinycast" target="_blank">
+    
+
+
+      
+        abue-ammar /
+
+      tinycast</a></p>
+				<p>
+      Tinycast — a tiny, fully native macOS launcher, hotkeys, and clipboard history.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Swift</span>
+						<span>⭐ 6554</span>
+						<span>🔱 305</span>
+					</div>
+				<div class="stars-today">⭐ 4799 stars this month</div>
 				</div>
 			</div>
 	

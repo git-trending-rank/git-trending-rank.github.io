@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2026年第38周
-date: 2026-09-19T06:42:10Z
+date: 2026-09-19T12:04:32Z
 categories:
 - weekly
 keywords:
@@ -30,54 +30,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Go</span>
-						<span>⭐ 36926</span>
-						<span>🔱 2632</span>
+						<span>⭐ 37168</span>
+						<span>🔱 2653</span>
 					</div>
 				<div class="stars-today">⭐ 14144 stars this week</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/ayghri/i-have-adhd" target="_blank">
+				<p><a href="https://github.com/anthropics/claude-code" target="_blank">
     
 
 
       
-        ayghri /
+        anthropics /
 
-      i-have-adhd</a></p>
+      claude-code</a></p>
 				<p>
-      A skill to stop your coding agent from burying the answer. ADHD-friendly output.
+      Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 48257</span>
-						<span>🔱 2807</span>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 146517</span>
+						<span>🔱 23836</span>
 					</div>
-				<div class="stars-today">⭐ 7869 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/bilawalsidhu/gods-eye-view" target="_blank">
-    
-
-
-      
-        bilawalsidhu /
-
-      gods-eye-view</a></p>
-				<p>
-      A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 JavaScript</span>
-						<span>⭐ 38000</span>
-						<span>🔱 7663</span>
-					</div>
-				<div class="stars-today">⭐ 11683 stars this week</div>
+				<div class="stars-today">⭐ 1620 stars this week</div>
 				</div>
 			</div>
 	
@@ -96,8 +74,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 JavaScript</span>
-						<span>⭐ 262255</span>
-						<span>🔱 39231</span>
+						<span>⭐ 262502</span>
+						<span>🔱 39268</span>
 					</div>
 				<div class="stars-today">⭐ 5877 stars this week</div>
 				</div>
@@ -118,54 +96,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Go</span>
-						<span>⭐ 27107</span>
-						<span>🔱 3646</span>
+						<span>⭐ 27208</span>
+						<span>🔱 3666</span>
 					</div>
 				<div class="stars-today">⭐ 4703 stars this week</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/anthropics/claude-code" target="_blank">
+				<p><a href="https://github.com/bilawalsidhu/gods-eye-view" target="_blank">
     
 
 
       
-        anthropics /
+        bilawalsidhu /
 
-      claude-code</a></p>
+      gods-eye-view</a></p>
 				<p>
-      Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.
+      A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe.
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 146413</span>
-						<span>🔱 23820</span>
+						<span>🔠 JavaScript</span>
+						<span>⭐ 38206</span>
+						<span>🔱 7711</span>
 					</div>
-				<div class="stars-today">⭐ 1620 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/mksglu/context-mode" target="_blank">
-    
-
-
-      
-        mksglu /
-
-      context-mode</a></p>
-				<p>
-      Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 23575</span>
-						<span>🔱 1699</span>
-					</div>
-				<div class="stars-today">⭐ 1398 stars this week</div>
+				<div class="stars-today">⭐ 11683 stars this week</div>
 				</div>
 			</div>
 	
@@ -184,32 +140,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 JavaScript</span>
-						<span>⭐ 96540</span>
-						<span>🔱 10202</span>
+						<span>⭐ 96670</span>
+						<span>🔱 10212</span>
 					</div>
 				<div class="stars-today">⭐ 3051 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/max-sixty/worktrunk" target="_blank">
-    
-
-
-      
-        max-sixty /
-
-      worktrunk</a></p>
-				<p>
-      Worktrunk is a CLI for Git worktree management, designed for parallel AI agent workflows
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Rust</span>
-						<span>⭐ 8048</span>
-						<span>🔱 275</span>
-					</div>
-				<div class="stars-today">⭐ 1104 stars this week</div>
 				</div>
 			</div>
 	
@@ -228,32 +162,76 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 24940</span>
-						<span>🔱 2974</span>
+						<span>⭐ 24978</span>
+						<span>🔱 2979</span>
 					</div>
 				<div class="stars-today">⭐ 776 stars this week</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/openai/plugins" target="_blank">
+				<p><a href="https://github.com/ayghri/i-have-adhd" target="_blank">
     
 
 
       
-        openai /
+        ayghri /
 
-      plugins</a></p>
+      i-have-adhd</a></p>
 				<p>
-      OpenAI Plugins
+      A skill to stop your coding agent from burying the answer. ADHD-friendly output.
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 JavaScript</span>
-						<span>⭐ 6988</span>
-						<span>🔱 904</span>
+						<span>🔠 Python</span>
+						<span>⭐ 48410</span>
+						<span>🔱 2813</span>
 					</div>
-				<div class="stars-today">⭐ 542 stars this week</div>
+				<div class="stars-today">⭐ 7869 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/mksglu/context-mode" target="_blank">
+    
+
+
+      
+        mksglu /
+
+      context-mode</a></p>
+				<p>
+      Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 23600</span>
+						<span>🔱 1702</span>
+					</div>
+				<div class="stars-today">⭐ 1398 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/max-sixty/worktrunk" target="_blank">
+    
+
+
+      
+        max-sixty /
+
+      worktrunk</a></p>
+				<p>
+      Worktrunk is a CLI for Git worktree management, designed for parallel AI agent workflows
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Rust</span>
+						<span>⭐ 8068</span>
+						<span>🔱 276</span>
+					</div>
+				<div class="stars-today">⭐ 1104 stars this week</div>
 				</div>
 			</div>
 	
@@ -272,54 +250,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 50007</span>
-						<span>🔱 4035</span>
+						<span>⭐ 50083</span>
+						<span>🔱 4043</span>
 					</div>
 				<div class="stars-today">⭐ 3118 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/kunchenguid/firstmate" target="_blank">
-    
-
-
-      
-        kunchenguid /
-
-      firstmate</a></p>
-				<p>
-      Talk to one agent. Ship with a crew.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Shell</span>
-						<span>⭐ 6589</span>
-						<span>🔱 2007</span>
-					</div>
-				<div class="stars-today">⭐ 990 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/microsoft/markitdown" target="_blank">
-    
-
-
-      
-        microsoft /
-
-      markitdown</a></p>
-				<p>
-      Python tool for converting files and office documents to Markdown.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 185474</span>
-						<span>🔱 13655</span>
-					</div>
-				<div class="stars-today">⭐ 2841 stars this week</div>
 				</div>
 			</div>
 	
@@ -338,54 +272,54 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 90751</span>
-						<span>🔱 38700</span>
+						<span>⭐ 90772</span>
+						<span>🔱 38701</span>
 					</div>
 				<div class="stars-today">⭐ 357 stars this week</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/stablyai/orca" target="_blank">
+				<p><a href="https://github.com/microsoft/markitdown" target="_blank">
     
 
 
       
-        stablyai /
+        microsoft /
 
-      orca</a></p>
+      markitdown</a></p>
 				<p>
-      Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime.
+      Python tool for converting files and office documents to Markdown.
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 72128</span>
-						<span>🔱 4718</span>
+						<span>🔠 Python</span>
+						<span>⭐ 185538</span>
+						<span>🔱 13655</span>
 					</div>
-				<div class="stars-today">⭐ 5272 stars this week</div>
+				<div class="stars-today">⭐ 2841 stars this week</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/heygen-com/hyperframes" target="_blank">
+				<p><a href="https://github.com/kunchenguid/firstmate" target="_blank">
     
 
 
       
-        heygen-com /
+        kunchenguid /
 
-      hyperframes</a></p>
+      firstmate</a></p>
 				<p>
-      Write HTML. Render video. Built for agents.
+      Talk to one agent. Ship with a crew.
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 51466</span>
-						<span>🔱 4686</span>
+						<span>🔠 Shell</span>
+						<span>⭐ 6617</span>
+						<span>🔱 2012</span>
 					</div>
-				<div class="stars-today">⭐ 2401 stars this week</div>
+				<div class="stars-today">⭐ 990 stars this week</div>
 				</div>
 			</div>
 	
@@ -404,54 +338,76 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 83206</span>
-						<span>🔱 7288</span>
+						<span>⭐ 83289</span>
+						<span>🔱 7295</span>
 					</div>
 				<div class="stars-today">⭐ 3766 stars this week</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/obra/superpowers" target="_blank">
+				<p><a href="https://github.com/heygen-com/hyperframes" target="_blank">
     
 
 
       
-        obra /
+        heygen-com /
 
-      superpowers</a></p>
+      hyperframes</a></p>
 				<p>
-      An agentic skills framework & software development methodology that works.
+      Write HTML. Render video. Built for agents.
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Shell</span>
-						<span>⭐ 288598</span>
-						<span>🔱 25815</span>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 51533</span>
+						<span>🔱 4698</span>
 					</div>
-				<div class="stars-today">⭐ 3573 stars this week</div>
+				<div class="stars-today">⭐ 2401 stars this week</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/petergyang/no-ai-slop" target="_blank">
+				<p><a href="https://github.com/stablyai/orca" target="_blank">
     
 
 
       
-        petergyang /
+        stablyai /
 
-      no-ai-slop</a></p>
+      orca</a></p>
 				<p>
-      Removes 20+ patterns of AI slop from any piece of writing.
+      Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime.
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 10601</span>
-						<span>🔱 731</span>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 72274</span>
+						<span>🔱 4729</span>
 					</div>
-				<div class="stars-today">⭐ 2189 stars this week</div>
+				<div class="stars-today">⭐ 5272 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/openai/plugins" target="_blank">
+    
+
+
+      
+        openai /
+
+      plugins</a></p>
+				<p>
+      OpenAI Plugins
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 JavaScript</span>
+						<span>⭐ 7004</span>
+						<span>🔱 905</span>
+					</div>
+				<div class="stars-today">⭐ 542 stars this week</div>
 				</div>
 			</div>
 	
@@ -470,10 +426,54 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 44348</span>
-						<span>🔱 9112</span>
+						<span>⭐ 44364</span>
+						<span>🔱 9116</span>
 					</div>
 				<div class="stars-today">⭐ 1528 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/supabase/supabase" target="_blank">
+    
+
+
+      
+        supabase /
+
+      supabase</a></p>
+				<p>
+      The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 110268</span>
+						<span>🔱 14332</span>
+					</div>
+				<div class="stars-today">⭐ 1152 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/huggingface/transformers" target="_blank">
+    
+
+
+      
+        huggingface /
+
+      transformers</a></p>
+				<p>
+      🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio, and multimodal models, for both inference and training. 
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 166325</span>
+						<span>🔱 34629</span>
+					</div>
+				<div class="stars-today">⭐ 1297 stars this week</div>
 				</div>
 			</div>
 	
