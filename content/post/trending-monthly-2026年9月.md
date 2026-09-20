@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2026年9月
-date: 2026-09-20T07:06:41Z
+date: 2026-09-20T12:38:25Z
 categories:
 - monthly
 keywords:
@@ -30,54 +30,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 JavaScript</span>
-						<span>⭐ 67721</span>
-						<span>🔱 4522</span>
+						<span>⭐ 67928</span>
+						<span>🔱 4545</span>
 					</div>
 				<div class="stars-today">⭐ 53311 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/omacom/omarchy" target="_blank">
-    
-
-
-      
-        omacom /
-
-      omarchy</a></p>
-				<p>
-      Beautiful, Modern & Opinionated Linux
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Shell</span>
-						<span>⭐ 42212</span>
-						<span>🔱 4857</span>
-					</div>
-				<div class="stars-today">⭐ 15717 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/anthropics/claude-plugins-community" target="_blank">
-    
-
-
-      
-        anthropics /
-
-      claude-plugins-community</a></p>
-				<p>
-      Community plugin marketplace for Claude Cowork and Claude Code. Read-only mirror — submit plugins at clau.de/plugin-directory-submission.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 4277</span>
-						<span>🔱 310</span>
-					</div>
-				<div class="stars-today">⭐ 3968 stars this month</div>
 				</div>
 			</div>
 	
@@ -96,10 +52,54 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 38059</span>
-						<span>🔱 5977</span>
+						<span>⭐ 38120</span>
+						<span>🔱 5982</span>
 					</div>
 				<div class="stars-today">⭐ 17316 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/anthropics/claude-plugins-community" target="_blank">
+    
+
+
+      
+        anthropics /
+
+      claude-plugins-community</a></p>
+				<p>
+      Community plugin marketplace for Claude Cowork and Claude Code. Read-only mirror — submit plugins at clau.de/plugin-directory-submission.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 4288</span>
+						<span>🔱 311</span>
+					</div>
+				<div class="stars-today">⭐ 3968 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/omacom/omarchy" target="_blank">
+    
+
+
+      
+        omacom /
+
+      omarchy</a></p>
+				<p>
+      Beautiful, Modern & Opinionated Linux
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Shell</span>
+						<span>⭐ 42253</span>
+						<span>🔱 4862</span>
+					</div>
+				<div class="stars-today">⭐ 15717 stars this month</div>
 				</div>
 			</div>
 	
@@ -118,8 +118,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 JavaScript</span>
-						<span>⭐ 32871</span>
-						<span>🔱 3171</span>
+						<span>⭐ 32933</span>
+						<span>🔱 3176</span>
 					</div>
 				<div class="stars-today">⭐ 21920 stars this month</div>
 				</div>
@@ -140,8 +140,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 8196</span>
-						<span>🔱 752</span>
+						<span>⭐ 8209</span>
+						<span>🔱 754</span>
 					</div>
 				<div class="stars-today">⭐ 4944 stars this month</div>
 				</div>
@@ -162,32 +162,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 33281</span>
-						<span>🔱 3929</span>
+						<span>⭐ 33352</span>
+						<span>🔱 3939</span>
 					</div>
 				<div class="stars-today">⭐ 23139 stars this month</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/AprilNEA/OpenLogi" target="_blank">
+				<p><a href="https://github.com/cloudflare/security-audit-skill" target="_blank">
     
 
 
       
-        AprilNEA /
+        cloudflare /
 
-      OpenLogi</a></p>
+      security-audit-skill</a></p>
 				<p>
-      ⚡️A native, local-first alternative to Logitech Options+, written in Rust 🦀 — remap buttons, DPI, and SmartShift over HID++. No account, no telemetry.
+      A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Rust</span>
-						<span>⭐ 21677</span>
-						<span>🔱 701</span>
+						<span>🔠 JavaScript</span>
+						<span>⭐ 17445</span>
+						<span>🔱 961</span>
 					</div>
-				<div class="stars-today">⭐ 12141 stars this month</div>
+				<div class="stars-today">⭐ 12420 stars this month</div>
 				</div>
 			</div>
 	
@@ -206,8 +206,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Swift</span>
-						<span>⭐ 20079</span>
-						<span>🔱 732</span>
+						<span>⭐ 20136</span>
+						<span>🔱 735</span>
 					</div>
 				<div class="stars-today">⭐ 14438 stars this month</div>
 				</div>
@@ -228,52 +228,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 48876</span>
-						<span>🔱 2841</span>
+						<span>⭐ 49020</span>
+						<span>🔱 2840</span>
 					</div>
 				<div class="stars-today">⭐ 26527 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/cloudflare/security-audit-skill" target="_blank">
-    
-
-
-      
-        cloudflare /
-
-      security-audit-skill</a></p>
-				<p>
-      A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 JavaScript</span>
-						<span>⭐ 16935</span>
-						<span>🔱 930</span>
-					</div>
-				<div class="stars-today">⭐ 12420 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/Lakr233/vphone-cli" target="_blank">
-    
-
-
-      
-        Lakr233 /
-
-      vphone-cli</a></p>
-				<p></p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Swift</span>
-						<span>⭐ 14010</span>
-						<span>🔱 1657</span>
-					</div>
-				<div class="stars-today">⭐ 6183 stars this month</div>
 				</div>
 			</div>
 	
@@ -292,32 +250,74 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Go</span>
-						<span>⭐ 37890</span>
-						<span>🔱 2697</span>
+						<span>⭐ 38125</span>
+						<span>🔱 2716</span>
 					</div>
 				<div class="stars-today">⭐ 16711 stars this month</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/cathrynlavery/diagram-design" target="_blank">
+				<p><a href="https://github.com/Lakr233/vphone-cli" target="_blank">
     
 
 
       
-        cathrynlavery /
+        Lakr233 /
 
-      diagram-design</a></p>
+      vphone-cli</a></p>
+				<p></p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Swift</span>
+						<span>⭐ 14032</span>
+						<span>🔱 1656</span>
+					</div>
+				<div class="stars-today">⭐ 6183 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/AprilNEA/OpenLogi" target="_blank">
+    
+
+
+      
+        AprilNEA /
+
+      OpenLogi</a></p>
 				<p>
-      Editorial diagram design for Claude Code, Codex, and Pi. Self-contained HTML + SVG. No shadows. No Mermaid slop.
+      ⚡️A native, local-first alternative to Logitech Options+, written in Rust 🦀 — remap buttons, DPI, and SmartShift over HID++. No account, no telemetry.
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 HTML</span>
-						<span>⭐ 41400</span>
-						<span>🔱 2654</span>
+						<span>🔠 Rust</span>
+						<span>⭐ 21700</span>
+						<span>🔱 702</span>
 					</div>
-				<div class="stars-today">⭐ 18899 stars this month</div>
+				<div class="stars-today">⭐ 12141 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/tech-leads-club/agent-skills" target="_blank">
+    
+
+
+      
+        tech-leads-club /
+
+      agent-skills</a></p>
+				<p>
+      The secure, validated skill registry for professional AI coding agents. Extend Antigravity, Claude Code, Cursor, Copilot and more with absolute confidence.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 6508</span>
+						<span>🔱 537</span>
+					</div>
+				<div class="stars-today">⭐ 1527 stars this month</div>
 				</div>
 			</div>
 	
@@ -336,10 +336,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 33258</span>
-						<span>🔱 3202</span>
+						<span>⭐ 33286</span>
+						<span>🔱 3207</span>
 					</div>
 				<div class="stars-today">⭐ 5274 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/cathrynlavery/diagram-design" target="_blank">
+    
+
+
+      
+        cathrynlavery /
+
+      diagram-design</a></p>
+				<p>
+      Editorial diagram design for Claude Code, Codex, and Pi. Self-contained HTML + SVG. No shadows. No Mermaid slop.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 HTML</span>
+						<span>⭐ 41471</span>
+						<span>🔱 2660</span>
+					</div>
+				<div class="stars-today">⭐ 18899 stars this month</div>
 				</div>
 			</div>
 	
@@ -358,8 +380,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 61741</span>
-						<span>🔱 8038</span>
+						<span>⭐ 61781</span>
+						<span>🔱 8040</span>
 					</div>
 				<div class="stars-today">⭐ 7036 stars this month</div>
 				</div>
@@ -380,54 +402,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Go</span>
-						<span>⭐ 27666</span>
-						<span>🔱 3722</span>
+						<span>⭐ 27820</span>
+						<span>🔱 3744</span>
 					</div>
 				<div class="stars-today">⭐ 7397 stars this month</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/tashfeenahmed/freellmapi" target="_blank">
+				<p><a href="https://github.com/Tencent/BrowserSkill" target="_blank">
     
 
 
       
-        tashfeenahmed /
+        Tencent /
 
-      freellmapi</a></p>
+      BrowserSkill</a></p>
 				<p>
-      7.4 billion tokens per month. 34 free LLM providers. 635 free model endpoints. All behind one /v1 endpoint, plus any custom OpenAI-compatible endpoint. Smart routing, automatic failover, encrypted keys. Personal experimentation only.
+      Let AI agents use your real, logged-in browser without interrupting your work. CLI + extension for browser automation across any shell-capable AI agent.
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 27509</span>
-						<span>🔱 3762</span>
+						<span>⭐ 5922</span>
+						<span>🔱 419</span>
 					</div>
-				<div class="stars-today">⭐ 8646 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/tech-leads-club/agent-skills" target="_blank">
-    
-
-
-      
-        tech-leads-club /
-
-      agent-skills</a></p>
-				<p>
-      The secure, validated skill registry for professional AI coding agents. Extend Antigravity, Claude Code, Cursor, Copilot and more with absolute confidence.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 6491</span>
-						<span>🔱 537</span>
-					</div>
-				<div class="stars-today">⭐ 1527 stars this month</div>
+				<div class="stars-today">⭐ 4564 stars this month</div>
 				</div>
 			</div>
 	
@@ -446,54 +446,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 19558</span>
-						<span>🔱 2512</span>
+						<span>⭐ 19616</span>
+						<span>🔱 2521</span>
 					</div>
 				<div class="stars-today">⭐ 6917 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/melgarafael/DeskcommCRM" target="_blank">
-    
-
-
-      
-        melgarafael /
-
-      DeskcommCRM</a></p>
-				<p>
-      Open-source AI sales OS — self-hosted CRM with native AI agents + WhatsApp (WAHA). Open alternative to Kommo, Octadesk & Intercom for any business that sells by chat. MCP-ready, multi-tenant, LGPD.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 3331</span>
-						<span>🔱 813</span>
-					</div>
-				<div class="stars-today">⭐ 2827 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/abue-ammar/tinycast" target="_blank">
-    
-
-
-      
-        abue-ammar /
-
-      tinycast</a></p>
-				<p>
-      Tinycast — a tiny, fully native macOS launcher, hotkeys, and clipboard history.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Swift</span>
-						<span>⭐ 6723</span>
-						<span>🔱 313</span>
-					</div>
-				<div class="stars-today">⭐ 4979 stars this month</div>
 				</div>
 			</div>
 	

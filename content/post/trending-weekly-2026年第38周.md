@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2026年第38周
-date: 2026-09-20T07:06:41Z
+date: 2026-09-20T12:38:24Z
 categories:
 - weekly
 keywords:
@@ -30,8 +30,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Go</span>
-						<span>⭐ 37890</span>
-						<span>🔱 2697</span>
+						<span>⭐ 38125</span>
+						<span>🔱 2716</span>
 					</div>
 				<div class="stars-today">⭐ 15028 stars this week</div>
 				</div>
@@ -52,8 +52,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 146825</span>
-						<span>🔱 23981</span>
+						<span>⭐ 146913</span>
+						<span>🔱 23989</span>
 					</div>
 				<div class="stars-today">⭐ 1999 stars this week</div>
 				</div>
@@ -74,8 +74,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 JavaScript</span>
-						<span>⭐ 263118</span>
-						<span>🔱 39368</span>
+						<span>⭐ 263284</span>
+						<span>🔱 39396</span>
 					</div>
 				<div class="stars-today">⭐ 6265 stars this week</div>
 				</div>
@@ -96,32 +96,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Go</span>
-						<span>⭐ 27666</span>
-						<span>🔱 3722</span>
+						<span>⭐ 27820</span>
+						<span>🔱 3744</span>
 					</div>
 				<div class="stars-today">⭐ 4867 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/bilawalsidhu/gods-eye-view" target="_blank">
-    
-
-
-      
-        bilawalsidhu /
-
-      gods-eye-view</a></p>
-				<p>
-      A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 JavaScript</span>
-						<span>⭐ 38808</span>
-						<span>🔱 7841</span>
-					</div>
-				<div class="stars-today">⭐ 10207 stars this week</div>
 				</div>
 			</div>
 	
@@ -140,8 +118,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 JavaScript</span>
-						<span>⭐ 97244</span>
-						<span>🔱 10260</span>
+						<span>⭐ 97401</span>
+						<span>🔱 10275</span>
 					</div>
 				<div class="stars-today">⭐ 3445 stars this week</div>
 				</div>
@@ -162,32 +140,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 25199</span>
-						<span>🔱 3001</span>
+						<span>⭐ 25244</span>
+						<span>🔱 3003</span>
 					</div>
 				<div class="stars-today">⭐ 1034 stars this week</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/ayghri/i-have-adhd" target="_blank">
+				<p><a href="https://github.com/bilawalsidhu/gods-eye-view" target="_blank">
     
 
 
       
-        ayghri /
+        bilawalsidhu /
 
-      i-have-adhd</a></p>
+      gods-eye-view</a></p>
 				<p>
-      A skill to stop your coding agent from burying the answer. ADHD-friendly output.
+      A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe.
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 48876</span>
-						<span>🔱 2841</span>
+						<span>🔠 JavaScript</span>
+						<span>⭐ 39025</span>
+						<span>🔱 7883</span>
 					</div>
-				<div class="stars-today">⭐ 5589 stars this week</div>
+				<div class="stars-today">⭐ 10207 stars this week</div>
 				</div>
 			</div>
 	
@@ -206,8 +184,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 23705</span>
-						<span>🔱 1710</span>
+						<span>⭐ 23738</span>
+						<span>🔱 1712</span>
 					</div>
 				<div class="stars-today">⭐ 1359 stars this week</div>
 				</div>
@@ -228,32 +206,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Rust</span>
-						<span>⭐ 8137</span>
+						<span>⭐ 8156</span>
 						<span>🔱 283</span>
 					</div>
 				<div class="stars-today">⭐ 1141 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/blader/humanizer" target="_blank">
-    
-
-
-      
-        blader /
-
-      humanizer</a></p>
-				<p>
-      Agent skill that removes signs of AI-generated writing from text
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 50365</span>
-						<span>🔱 4059</span>
-					</div>
-				<div class="stars-today">⭐ 3024 stars this week</div>
 				</div>
 			</div>
 	
@@ -272,54 +228,54 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 90837</span>
-						<span>🔱 38709</span>
+						<span>⭐ 90855</span>
+						<span>🔱 38712</span>
 					</div>
 				<div class="stars-today">⭐ 417 stars this week</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/microsoft/markitdown" target="_blank">
+				<p><a href="https://github.com/blader/humanizer" target="_blank">
     
 
 
       
-        microsoft /
+        blader /
 
-      markitdown</a></p>
+      humanizer</a></p>
 				<p>
-      Python tool for converting files and office documents to Markdown.
+      Agent skill that removes signs of AI-generated writing from text
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 185743</span>
-						<span>🔱 13678</span>
+						<span>⭐ 50472</span>
+						<span>🔱 4061</span>
 					</div>
-				<div class="stars-today">⭐ 2767 stars this week</div>
+				<div class="stars-today">⭐ 3024 stars this week</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/kunchenguid/firstmate" target="_blank">
+				<p><a href="https://github.com/stablyai/orca" target="_blank">
     
 
 
       
-        kunchenguid /
+        stablyai /
 
-      firstmate</a></p>
+      orca</a></p>
 				<p>
-      Talk to one agent. Ship with a crew.
+      Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime.
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Shell</span>
-						<span>⭐ 6774</span>
-						<span>🔱 2040</span>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 73167</span>
+						<span>🔱 4785</span>
 					</div>
-				<div class="stars-today">⭐ 1073 stars this week</div>
+				<div class="stars-today">⭐ 5404 stars this week</div>
 				</div>
 			</div>
 	
@@ -338,8 +294,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 83566</span>
-						<span>🔱 7324</span>
+						<span>⭐ 83673</span>
+						<span>🔱 7337</span>
 					</div>
 				<div class="stars-today">⭐ 3914 stars this week</div>
 				</div>
@@ -360,54 +316,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 51717</span>
-						<span>🔱 4715</span>
+						<span>⭐ 51809</span>
+						<span>🔱 4719</span>
 					</div>
 				<div class="stars-today">⭐ 2498 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/stablyai/orca" target="_blank">
-    
-
-
-      
-        stablyai /
-
-      orca</a></p>
-				<p>
-      Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 72913</span>
-						<span>🔱 4768</span>
-					</div>
-				<div class="stars-today">⭐ 5404 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/openai/plugins" target="_blank">
-    
-
-
-      
-        openai /
-
-      plugins</a></p>
-				<p>
-      OpenAI Plugins
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 JavaScript</span>
-						<span>⭐ 7057</span>
-						<span>🔱 914</span>
-					</div>
-				<div class="stars-today">⭐ 522 stars this week</div>
 				</div>
 			</div>
 	
@@ -426,10 +338,76 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 44428</span>
-						<span>🔱 9124</span>
+						<span>⭐ 44456</span>
+						<span>🔱 9129</span>
 					</div>
 				<div class="stars-today">⭐ 1573 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/ayghri/i-have-adhd" target="_blank">
+    
+
+
+      
+        ayghri /
+
+      i-have-adhd</a></p>
+				<p>
+      A skill to stop your coding agent from burying the answer. ADHD-friendly output.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 49020</span>
+						<span>🔱 2840</span>
+					</div>
+				<div class="stars-today">⭐ 5589 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/cline/cline" target="_blank">
+    
+
+
+      
+        cline /
+
+      cline</a></p>
+				<p>
+      Autonomous coding agent as an SDK, IDE extension, or CLI assistant.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 68843</span>
+						<span>🔱 7454</span>
+					</div>
+				<div class="stars-today">⭐ 1118 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/petergyang/no-ai-slop" target="_blank">
+    
+
+
+      
+        petergyang /
+
+      no-ai-slop</a></p>
+				<p>
+      Removes 20+ patterns of AI slop from any piece of writing.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 10734</span>
+						<span>🔱 738</span>
+					</div>
+				<div class="stars-today">⭐ 2134 stars this week</div>
 				</div>
 			</div>
 	
@@ -448,7 +426,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 110365</span>
+						<span>⭐ 110387</span>
 						<span>🔱 14420</span>
 					</div>
 				<div class="stars-today">⭐ 1389 stars this week</div>
@@ -456,24 +434,46 @@ keywords:
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/huggingface/transformers" target="_blank">
+				<p><a href="https://github.com/microsoft/markitdown" target="_blank">
     
 
 
       
-        huggingface /
+        microsoft /
 
-      transformers</a></p>
+      markitdown</a></p>
 				<p>
-      🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio, and multimodal models, for both inference and training. 
+      Python tool for converting files and office documents to Markdown.
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 166423</span>
-						<span>🔱 34636</span>
+						<span>⭐ 185828</span>
+						<span>🔱 13681</span>
 					</div>
-				<div class="stars-today">⭐ 1290 stars this week</div>
+				<div class="stars-today">⭐ 2767 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/cilium/cilium" target="_blank">
+    
+
+
+      
+        cilium /
+
+      cilium</a></p>
+				<p>
+      eBPF-based Networking, Security, and Observability
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Go</span>
+						<span>⭐ 25367</span>
+						<span>🔱 4083</span>
+					</div>
+				<div class="stars-today">⭐ 356 stars this week</div>
 				</div>
 			</div>
 	

@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2026-09-20
-date: 2026-09-20T07:06:41Z
+date: 2026-09-20T12:38:25Z
 categories:
 - daily
 keywords:
@@ -14,6 +14,50 @@ keywords:
 	<main class="container">
         <div class="repo-list" id="repoList">
 
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/affaan-m/ECC" target="_blank">
+    
+
+
+      
+        affaan-m /
+
+      ECC</a></p>
+				<p>
+      The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 JavaScript</span>
+						<span>⭐ 263284</span>
+						<span>🔱 39396</span>
+					</div>
+				<div class="stars-today">⭐ 1012 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/BuilderIO/agent-native" target="_blank">
+    
+
+
+      
+        BuilderIO /
+
+      agent-native</a></p>
+				<p>
+      A framework for building agentic apps
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 4986</span>
+						<span>🔱 469</span>
+					</div>
+				<div class="stars-today">⭐ 89 stars today</div>
+				</div>
+			</div>
 	
 			<div class="repo-card">
 				<p><a href="https://github.com/cloudflare/security-audit-skill" target="_blank">
@@ -30,8 +74,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 JavaScript</span>
-						<span>⭐ 16935</span>
-						<span>🔱 930</span>
+						<span>⭐ 17445</span>
+						<span>🔱 961</span>
 					</div>
 				<div class="stars-today">⭐ 3155 stars today</div>
 				</div>
@@ -52,54 +96,52 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 HTML</span>
-						<span>⭐ 24696</span>
-						<span>🔱 1697</span>
+						<span>⭐ 24886</span>
+						<span>🔱 1711</span>
 					</div>
 				<div class="stars-today">⭐ 859 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/addyosmani/agent-skills" target="_blank">
+				<p><a href="https://github.com/anthropics/financial-services" target="_blank">
     
 
 
       
-        addyosmani /
+        anthropics /
 
-      agent-skills</a></p>
-				<p>
-      Production-grade engineering skills for AI coding agents.
-    </p>
+      financial-services</a></p>
+				<p></p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 JavaScript</span>
-						<span>⭐ 97244</span>
-						<span>🔱 10260</span>
+						<span>🔠 Python</span>
+						<span>⭐ 35205</span>
+						<span>🔱 5236</span>
 					</div>
-				<div class="stars-today">⭐ 556 stars today</div>
+				<div class="stars-today">⭐ 236 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/coder/coder" target="_blank">
+				<p><a href="https://github.com/paperless-ngx/paperless-ngx" target="_blank">
     
 
 
       
-        coder /
+        paperless-ngx /
 
-      coder</a></p>
+      paperless-ngx</a></p>
 				<p>
-      Secure environments for developers and their agents
+      A community-supported supercharged document management system: scan, index and archive all your documents
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Go</span>
-						<span>⭐ 15719</span>
-						<span>🔱 1526</span>
+						<span>🔠 Python</span>
+						<span>⭐ 45362</span>
+						<span>🔱 3133</span>
 					</div>
-				<div class="stars-today">⭐ 402 stars today</div>
+				<div class="stars-today">⭐ 32 stars today</div>
 				</div>
 			</div>
 	
@@ -118,32 +160,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 146825</span>
-						<span>🔱 23981</span>
+						<span>⭐ 146913</span>
+						<span>🔱 23989</span>
 					</div>
 				<div class="stars-today">⭐ 483 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/Open-Dev-Society/OpenStock" target="_blank">
+				<p><a href="https://github.com/mihail911/modern-software-dev-assignments" target="_blank">
     
 
 
       
-        Open-Dev-Society /
+        mihail911 /
 
-      OpenStock</a></p>
+      modern-software-dev-assignments</a></p>
 				<p>
-      OpenStock is an open-source alternative to expensive market platforms. Track real-time prices, set personalized alerts, and explore detailed company insights — built openly, for everyone, forever free.
+      Assignments for CS146S: The Modern Software Dev (Stanford University Fall 2026/2025)
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 16294</span>
-						<span>🔱 2103</span>
+						<span>🔠 Python</span>
+						<span>⭐ 4421</span>
+						<span>🔱 1005</span>
 					</div>
-				<div class="stars-today">⭐ 472 stars today</div>
+				<div class="stars-today">⭐ 174 stars today</div>
 				</div>
 			</div>
 	
@@ -162,186 +204,98 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Jupyter Notebook</span>
-						<span>⭐ 5059</span>
-						<span>🔱 924</span>
+						<span>⭐ 5151</span>
+						<span>🔱 931</span>
 					</div>
 				<div class="stars-today">⭐ 196 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/docling-project/docling" target="_blank">
+				<p><a href="https://github.com/Open-Dev-Society/OpenStock" target="_blank">
     
 
 
       
-        docling-project /
+        Open-Dev-Society /
 
-      docling</a></p>
+      OpenStock</a></p>
 				<p>
-      Get your documents ready for gen AI
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 67247</span>
-						<span>🔱 4842</span>
-					</div>
-				<div class="stars-today">⭐ 129 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/cloudflare/quiche" target="_blank">
-    
-
-
-      
-        cloudflare /
-
-      quiche</a></p>
-				<p>
-      🥧 Savoury implementation of the QUIC transport protocol and HTTP/3
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Rust</span>
-						<span>⭐ 12094</span>
-						<span>🔱 1123</span>
-					</div>
-				<div class="stars-today">⭐ 31 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/asciimoo/hister" target="_blank">
-    
-
-
-      
-        asciimoo /
-
-      hister</a></p>
-				<p>
-      Your own search engine
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Go</span>
-						<span>⭐ 5328</span>
-						<span>🔱 222</span>
-					</div>
-				<div class="stars-today">⭐ 420 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/ruanyf/weekly" target="_blank">
-    
-
-
-      
-        ruanyf /
-
-      weekly</a></p>
-				<p>
-      科技爱好者周刊，每周五发布
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 </span>
-						<span>⭐ 103435</span>
-						<span>🔱 4430</span>
-					</div>
-				<div class="stars-today">⭐ 98 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/ZuodaoTech/everyone-can-use-english" target="_blank">
-    
-
-
-      
-        ZuodaoTech /
-
-      everyone-can-use-english</a></p>
-				<p>
-      人人都能用英语
+      OpenStock is an open-source alternative to expensive market platforms. Track real-time prices, set personalized alerts, and explore detailed company insights — built openly, for everyone, forever free.
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 37991</span>
-						<span>🔱 5216</span>
+						<span>⭐ 16461</span>
+						<span>🔱 2115</span>
 					</div>
-				<div class="stars-today">⭐ 48 stars today</div>
+				<div class="stars-today">⭐ 472 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/anthropics/knowledge-work-plugins" target="_blank">
+				<p><a href="https://github.com/coder/coder" target="_blank">
     
 
 
       
-        anthropics /
+        coder /
 
-      knowledge-work-plugins</a></p>
+      coder</a></p>
 				<p>
-      Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork
+      Secure environments for developers and their agents
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 25199</span>
-						<span>🔱 3001</span>
+						<span>🔠 Go</span>
+						<span>⭐ 15820</span>
+						<span>🔱 1533</span>
 					</div>
-				<div class="stars-today">⭐ 281 stars today</div>
+				<div class="stars-today">⭐ 402 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/cactus-compute/needle" target="_blank">
+				<p><a href="https://github.com/vercel-labs/json-render" target="_blank">
     
 
 
       
-        cactus-compute /
+        vercel-labs /
 
-      needle</a></p>
+      json-render</a></p>
 				<p>
-      Automation foundation model for tiny devices: 2-bit, 8-29 MB, tool calls, structured extraction and embeddings on phones, wearables, smart homes, robots, cars and microcontrollers.
+      The Generative UI framework
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 11721</span>
-						<span>🔱 752</span>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 16999</span>
+						<span>🔱 905</span>
 					</div>
-				<div class="stars-today">⭐ 234 stars today</div>
+				<div class="stars-today">⭐ 585 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/yynxxxxx/Codex-X" target="_blank">
+				<p><a href="https://github.com/addyosmani/agent-skills" target="_blank">
     
 
 
       
-        yynxxxxx /
+        addyosmani /
 
-      Codex-X</a></p>
+      agent-skills</a></p>
 				<p>
-      OpenAI Codex 桌面端/CLI 的可视化管理工具，具有Provider/API 切换、会话同步、提示词注入、Skills/MCP 管理、TOML 配置可视化的跨平台工具。
+      Production-grade engineering skills for AI coding agents.
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Rust</span>
-						<span>⭐ 3486</span>
-						<span>🔱 451</span>
+						<span>🔠 JavaScript</span>
+						<span>⭐ 97401</span>
+						<span>🔱 10275</span>
 					</div>
-				<div class="stars-today">⭐ 32 stars today</div>
+				<div class="stars-today">⭐ 556 stars today</div>
 				</div>
 			</div>
 	
