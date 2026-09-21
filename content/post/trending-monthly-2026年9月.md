@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2026年9月
-date: 2026-09-21T07:16:22Z
+date: 2026-09-21T14:33:16Z
 categories:
 - monthly
 keywords:
@@ -30,10 +30,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 JavaScript</span>
-						<span>⭐ 68551</span>
-						<span>🔱 4591</span>
+						<span>⭐ 68882</span>
+						<span>🔱 4616</span>
 					</div>
 				<div class="stars-today">⭐ 53904 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/FlashML-org/FreeToken" target="_blank">
+    
+
+
+      
+        FlashML-org /
+
+      FreeToken</a></p>
+				<p>
+      FreeToken brings datacenter-scale model serving to your desktop. Run massive models locally, fast and efficiently.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 13412</span>
+						<span>🔱 1324</span>
+					</div>
+				<div class="stars-today">⭐ 13363 stars this month</div>
 				</div>
 			</div>
 	
@@ -52,8 +74,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 38290</span>
-						<span>🔱 6001</span>
+						<span>⭐ 38384</span>
+						<span>🔱 6016</span>
 					</div>
 				<div class="stars-today">⭐ 17511 stars this month</div>
 				</div>
@@ -74,32 +96,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 4327</span>
-						<span>🔱 311</span>
+						<span>⭐ 4337</span>
+						<span>🔱 313</span>
 					</div>
 				<div class="stars-today">⭐ 4010 stars this month</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/omacom/omarchy" target="_blank">
+				<p><a href="https://github.com/cloudflare/security-audit-skill" target="_blank">
     
 
 
       
-        omacom /
+        cloudflare /
 
-      omarchy</a></p>
+      security-audit-skill</a></p>
 				<p>
-      Beautiful, Modern & Opinionated Linux
+      A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Shell</span>
-						<span>⭐ 42421</span>
-						<span>🔱 4885</span>
+						<span>🔠 JavaScript</span>
+						<span>⭐ 18683</span>
+						<span>🔱 1050</span>
 					</div>
-				<div class="stars-today">⭐ 15720 stars this month</div>
+				<div class="stars-today">⭐ 14879 stars this month</div>
 				</div>
 			</div>
 	
@@ -118,8 +140,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 JavaScript</span>
-						<span>⭐ 33058</span>
-						<span>🔱 3187</span>
+						<span>⭐ 33132</span>
+						<span>🔱 3191</span>
 					</div>
 				<div class="stars-today">⭐ 22015 stars this month</div>
 				</div>
@@ -140,8 +162,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 8255</span>
-						<span>🔱 760</span>
+						<span>⭐ 8275</span>
+						<span>🔱 765</span>
 					</div>
 				<div class="stars-today">⭐ 4521 stars this month</div>
 				</div>
@@ -162,54 +184,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 33647</span>
-						<span>🔱 3974</span>
+						<span>⭐ 33785</span>
+						<span>🔱 3981</span>
 					</div>
 				<div class="stars-today">⭐ 22901 stars this month</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/cloudflare/security-audit-skill" target="_blank">
+				<p><a href="https://github.com/omacom/omarchy" target="_blank">
     
 
 
       
-        cloudflare /
+        omacom /
 
-      security-audit-skill</a></p>
+      omarchy</a></p>
 				<p>
-      A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings
+      Beautiful, Modern & Opinionated Linux
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 JavaScript</span>
-						<span>⭐ 18352</span>
-						<span>🔱 1026</span>
+						<span>🔠 Shell</span>
+						<span>⭐ 42479</span>
+						<span>🔱 4897</span>
 					</div>
-				<div class="stars-today">⭐ 14879 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/vorssaint/vorssaint-utils" target="_blank">
-    
-
-
-      
-        vorssaint /
-
-      vorssaint-utils</a></p>
-				<p>
-      Free and open-source macOS menu bar toolkit.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Swift</span>
-						<span>⭐ 20291</span>
-						<span>🔱 740</span>
-					</div>
-				<div class="stars-today">⭐ 14605 stars this month</div>
+				<div class="stars-today">⭐ 15720 stars this month</div>
 				</div>
 			</div>
 	
@@ -228,8 +228,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 49421</span>
-						<span>🔱 2859</span>
+						<span>⭐ 49619</span>
+						<span>🔱 2867</span>
 					</div>
 				<div class="stars-today">⭐ 26844 stars this month</div>
 				</div>
@@ -250,10 +250,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Go</span>
-						<span>⭐ 38679</span>
-						<span>🔱 2763</span>
+						<span>⭐ 38972</span>
+						<span>🔱 2787</span>
 					</div>
 				<div class="stars-today">⭐ 17582 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/magnitudedev/magnitude" target="_blank">
+    
+
+
+      
+        magnitudedev /
+
+      magnitude</a></p>
+				<p>
+      Open source inference engine optimized for consumer hardware. Profiles your machine, recommends the best models for it, then downloads, tunes, and runs them. Works on Apple Silicon, NVIDIA, AMD, or nothing but a CPU.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 4743</span>
+						<span>🔱 367</span>
+					</div>
+				<div class="stars-today">⭐ 3298 stars this month</div>
 				</div>
 			</div>
 	
@@ -270,32 +292,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Swift</span>
-						<span>⭐ 14108</span>
-						<span>🔱 1669</span>
+						<span>⭐ 14142</span>
+						<span>🔱 1672</span>
 					</div>
 				<div class="stars-today">⭐ 6211 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/AprilNEA/OpenLogi" target="_blank">
-    
-
-
-      
-        AprilNEA /
-
-      OpenLogi</a></p>
-				<p>
-      ⚡️A native, local-first alternative to Logitech Options+, written in Rust 🦀 — remap buttons, DPI, and SmartShift over HID++. No account, no telemetry.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Rust</span>
-						<span>⭐ 21783</span>
-						<span>🔱 712</span>
-					</div>
-				<div class="stars-today">⭐ 10567 stars this month</div>
 				</div>
 			</div>
 	
@@ -314,10 +314,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 6563</span>
-						<span>🔱 538</span>
+						<span>⭐ 6581</span>
+						<span>🔱 540</span>
 					</div>
 				<div class="stars-today">⭐ 1604 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/vorssaint/vorssaint-utils" target="_blank">
+    
+
+
+      
+        vorssaint /
+
+      vorssaint-utils</a></p>
+				<p>
+      Free and open-source macOS menu bar toolkit.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Swift</span>
+						<span>⭐ 20341</span>
+						<span>🔱 742</span>
+					</div>
+				<div class="stars-today">⭐ 14605 stars this month</div>
 				</div>
 			</div>
 	
@@ -336,54 +358,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 33359</span>
-						<span>🔱 3220</span>
+						<span>⭐ 33382</span>
+						<span>🔱 3222</span>
 					</div>
 				<div class="stars-today">⭐ 5364 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/cathrynlavery/diagram-design" target="_blank">
-    
-
-
-      
-        cathrynlavery /
-
-      diagram-design</a></p>
-				<p>
-      Editorial diagram design for Claude Code, Codex, and Pi. Self-contained HTML + SVG. No shadows. No Mermaid slop.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 HTML</span>
-						<span>⭐ 41670</span>
-						<span>🔱 2670</span>
-					</div>
-				<div class="stars-today">⭐ 17716 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/jingyaogong/minimind" target="_blank">
-    
-
-
-      
-        jingyaogong /
-
-      minimind</a></p>
-				<p>
-      🧠 Train a 64M-parameter LLM from scratch in just 2h!
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 61908</span>
-						<span>🔱 8056</span>
-					</div>
-				<div class="stars-today">⭐ 7126 stars this month</div>
 				</div>
 			</div>
 	
@@ -402,10 +380,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Go</span>
-						<span>⭐ 28224</span>
-						<span>🔱 3801</span>
+						<span>⭐ 28391</span>
+						<span>🔱 3818</span>
 					</div>
 				<div class="stars-today">⭐ 7936 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/jingyaogong/minimind" target="_blank">
+    
+
+
+      
+        jingyaogong /
+
+      minimind</a></p>
+				<p>
+      🧠 Train a 64M-parameter LLM from scratch in just 2h!
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 61986</span>
+						<span>🔱 8068</span>
+					</div>
+				<div class="stars-today">⭐ 7126 stars this month</div>
 				</div>
 			</div>
 	
@@ -424,10 +424,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 6155</span>
-						<span>🔱 443</span>
+						<span>⭐ 6258</span>
+						<span>🔱 449</span>
 					</div>
 				<div class="stars-today">⭐ 4797 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/AprilNEA/OpenLogi" target="_blank">
+    
+
+
+      
+        AprilNEA /
+
+      OpenLogi</a></p>
+				<p>
+      ⚡️A native, local-first alternative to Logitech Options+, written in Rust 🦀 — remap buttons, DPI, and SmartShift over HID++. No account, no telemetry.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Rust</span>
+						<span>⭐ 21824</span>
+						<span>🔱 715</span>
+					</div>
+				<div class="stars-today">⭐ 10567 stars this month</div>
 				</div>
 			</div>
 	
@@ -446,8 +468,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 19757</span>
-						<span>🔱 2539</span>
+						<span>⭐ 19820</span>
+						<span>🔱 2550</span>
 					</div>
 				<div class="stars-today">⭐ 6976 stars this month</div>
 				</div>
