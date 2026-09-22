@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2026-09-22
-date: 2026-09-22T06:51:49Z
+date: 2026-09-22T12:51:03Z
 categories:
 - daily
 keywords:
@@ -16,116 +16,6 @@ keywords:
 
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/BuilderIO/agent-native" target="_blank">
-    
-
-
-      
-        BuilderIO /
-
-      agent-native</a></p>
-				<p>
-      A framework for building agentic apps
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 6118</span>
-						<span>🔱 557</span>
-					</div>
-				<div class="stars-today">⭐ 607 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/trycua/cua" target="_blank">
-    
-
-
-      
-        trycua /
-
-      cua</a></p>
-				<p>
-      Scale computer-use 2.0 with open-source drivers, cross-OS fleets, and benchmarks for training, evaluation, and data generation.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 HTML</span>
-						<span>⭐ 25821</span>
-						<span>🔱 1777</span>
-					</div>
-				<div class="stars-today">⭐ 609 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/Open-Dev-Society/OpenStock" target="_blank">
-    
-
-
-      
-        Open-Dev-Society /
-
-      OpenStock</a></p>
-				<p>
-      OpenStock is an open-source alternative to expensive market platforms. Track real-time prices, set personalized alerts, and explore detailed company insights — built openly, for everyone, forever free.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 18024</span>
-						<span>🔱 2222</span>
-					</div>
-				<div class="stars-today">⭐ 844 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/akitaonrails/ai-memory" target="_blank">
-    
-
-
-      
-        akitaonrails /
-
-      ai-memory</a></p>
-				<p>
-      Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Rust</span>
-						<span>⭐ 7846</span>
-						<span>🔱 527</span>
-					</div>
-				<div class="stars-today">⭐ 167 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/coder/coder" target="_blank">
-    
-
-
-      
-        coder /
-
-      coder</a></p>
-				<p>
-      Secure environments for developers and their agents
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Go</span>
-						<span>⭐ 16516</span>
-						<span>🔱 1569</span>
-					</div>
-				<div class="stars-today">⭐ 460 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
 				<p><a href="https://github.com/anthropics/financial-services" target="_blank">
     
 
@@ -138,32 +28,98 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 35940</span>
-						<span>🔱 5274</span>
+						<span>⭐ 36067</span>
+						<span>🔱 5287</span>
 					</div>
-				<div class="stars-today">⭐ 424 stars today</div>
+				<div class="stars-today">⭐ 436 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/cloudflare/quiche" target="_blank">
+				<p><a href="https://github.com/agent-substrate/substrate" target="_blank">
     
 
 
       
-        cloudflare /
+        agent-substrate /
 
-      quiche</a></p>
+      substrate</a></p>
 				<p>
-      🥧 Savoury implementation of the QUIC transport protocol and HTTP/3
+      Agent Substrate: the core system
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Rust</span>
-						<span>⭐ 12424</span>
-						<span>🔱 1137</span>
+						<span>🔠 Go</span>
+						<span>⭐ 2721</span>
+						<span>🔱 369</span>
 					</div>
-				<div class="stars-today">⭐ 32 stars today</div>
+				<div class="stars-today">⭐ 498 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/dream-num/univer" target="_blank">
+    
+
+
+      
+        dream-num /
+
+      univer</a></p>
+				<p>
+      The Office Harness for AI Agents — Spreadsheets, Docs, Slides, Canvas, Relational Tables, and PDF in one runtime.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 14956</span>
+						<span>🔱 1354</span>
+					</div>
+				<div class="stars-today">⭐ 202 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/davila7/claude-code-templates" target="_blank">
+    
+
+
+      
+        davila7 /
+
+      claude-code-templates</a></p>
+				<p>
+      CLI tool for configuring and monitoring Claude Code
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 30938</span>
+						<span>🔱 3528</span>
+					</div>
+				<div class="stars-today">⭐ 33 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/google/ax" target="_blank">
+    
+
+
+      
+        google /
+
+      ax</a></p>
+				<p>
+      Google's open agentic orchestration runtime
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Go</span>
+						<span>⭐ 6852</span>
+						<span>🔱 328</span>
+					</div>
+				<div class="stars-today">⭐ 2324 stars today</div>
 				</div>
 			</div>
 	
@@ -182,98 +138,54 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 13710</span>
-						<span>🔱 1332</span>
+						<span>⭐ 13805</span>
+						<span>🔱 1338</span>
 					</div>
-				<div class="stars-today">⭐ 169 stars today</div>
+				<div class="stars-today">⭐ 441 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/zhouxiaoka/autoclip" target="_blank">
+				<p><a href="https://github.com/superdesigndev/treg" target="_blank">
     
 
 
       
-        zhouxiaoka /
+        superdesigndev /
 
-      autoclip</a></p>
+      treg</a></p>
 				<p>
-      AutoClip : AI-powered video clipping and highlight generation · 一款智能高光提取与剪辑的二创工具
+      OpenRouter for agent tools. Join community here: https://discord.gg/6mQYYfFMAn
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 8470</span>
-						<span>🔱 1585</span>
+						<span>⭐ 1997</span>
+						<span>🔱 206</span>
 					</div>
-				<div class="stars-today">⭐ 250 stars today</div>
+				<div class="stars-today">⭐ 197 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/ruanyf/weekly" target="_blank">
+				<p><a href="https://github.com/browser-use/video-use" target="_blank">
     
 
 
       
-        ruanyf /
+        browser-use /
 
-      weekly</a></p>
+      video-use</a></p>
 				<p>
-      科技爱好者周刊，每周五发布
+      Edit videos with coding agents
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 </span>
-						<span>⭐ 104231</span>
-						<span>🔱 4458</span>
+						<span>🔠 Python</span>
+						<span>⭐ 25533</span>
+						<span>🔱 3097</span>
 					</div>
-				<div class="stars-today">⭐ 182 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/Crosstalk-Solutions/project-nomad" target="_blank">
-    
-
-
-      
-        Crosstalk-Solutions /
-
-      project-nomad</a></p>
-				<p>
-      Project NOMAD is an offline-first knowledge and education server. Wikipedia, thousands of books, courses, maps, and optional local AI, all running on hardware you own with no internet required.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 37992</span>
-						<span>🔱 3775</span>
-					</div>
-				<div class="stars-today">⭐ 394 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/yynxxxxx/Codex-X" target="_blank">
-    
-
-
-      
-        yynxxxxx /
-
-      Codex-X</a></p>
-				<p>
-      OpenAI Codex 桌面端/CLI 的可视化管理工具，具有Provider/API 切换、会话同步、提示词注入、Skills/MCP 管理、TOML 配置可视化的跨平台工具。
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Rust</span>
-						<span>⭐ 3777</span>
-						<span>🔱 468</span>
-					</div>
-				<div class="stars-today">⭐ 50 stars today</div>
+				<div class="stars-today">⭐ 155 stars today</div>
 				</div>
 			</div>
 	

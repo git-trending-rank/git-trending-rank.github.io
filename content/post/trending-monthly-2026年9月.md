@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2026年9月
-date: 2026-09-22T06:51:49Z
+date: 2026-09-22T12:51:03Z
 categories:
 - monthly
 keywords:
@@ -30,32 +30,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 JavaScript</span>
-						<span>⭐ 69337</span>
-						<span>🔱 4651</span>
+						<span>⭐ 69591</span>
+						<span>🔱 4669</span>
 					</div>
 				<div class="stars-today">⭐ 54494 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/FlashML-org/FreeToken" target="_blank">
-    
-
-
-      
-        FlashML-org /
-
-      FreeToken</a></p>
-				<p>
-      FreeToken brings datacenter-scale model serving to your desktop. Run massive models locally, fast and efficiently.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 13511</span>
-						<span>🔱 1332</span>
-					</div>
-				<div class="stars-today">⭐ 13373 stars this month</div>
 				</div>
 			</div>
 	
@@ -74,32 +52,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 38486</span>
-						<span>🔱 6030</span>
+						<span>⭐ 38535</span>
+						<span>🔱 6034</span>
 					</div>
 				<div class="stars-today">⭐ 17721 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/anthropics/claude-plugins-community" target="_blank">
-    
-
-
-      
-        anthropics /
-
-      claude-plugins-community</a></p>
-				<p>
-      Community plugin marketplace for Claude Cowork and Claude Code. Read-only mirror — submit plugins at clau.de/plugin-directory-submission.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 4359</span>
-						<span>🔱 312</span>
-					</div>
-				<div class="stars-today">⭐ 4049 stars this month</div>
 				</div>
 			</div>
 	
@@ -118,32 +74,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 JavaScript</span>
-						<span>⭐ 19278</span>
-						<span>🔱 1083</span>
+						<span>⭐ 19696</span>
+						<span>🔱 1106</span>
 					</div>
 				<div class="stars-today">⭐ 15924 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/freestylefly/awesome-gpt-image-2" target="_blank">
-    
-
-
-      
-        freestylefly /
-
-      awesome-gpt-image-2</a></p>
-				<p>
-      Prompt as Code | GPT Image 2 / 2.5 提示词与案例库，530+ 个案例、20+ 套工业级模板与可复用 Skills，新增 2.5 同提示词对比专区，附完整提示词与生成记录，持续更新。
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 JavaScript</span>
-						<span>⭐ 33198</span>
-						<span>🔱 3197</span>
-					</div>
-				<div class="stars-today">⭐ 22108 stars this month</div>
 				</div>
 			</div>
 	
@@ -162,8 +96,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 8339</span>
-						<span>🔱 775</span>
+						<span>⭐ 8378</span>
+						<span>🔱 779</span>
 					</div>
 				<div class="stars-today">⭐ 4224 stars this month</div>
 				</div>
@@ -184,54 +118,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 33996</span>
-						<span>🔱 3997</span>
+						<span>⭐ 34127</span>
+						<span>🔱 4011</span>
 					</div>
 				<div class="stars-today">⭐ 22973 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/omacom/omarchy" target="_blank">
-    
-
-
-      
-        omacom /
-
-      omarchy</a></p>
-				<p>
-      Beautiful, Modern & Opinionated Linux
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Shell</span>
-						<span>⭐ 42568</span>
-						<span>🔱 4919</span>
-					</div>
-				<div class="stars-today">⭐ 15721 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/ayghri/i-have-adhd" target="_blank">
-    
-
-
-      
-        ayghri /
-
-      i-have-adhd</a></p>
-				<p>
-      A skill to stop your coding agent from burying the answer. ADHD-friendly output.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 49947</span>
-						<span>🔱 2877</span>
-					</div>
-				<div class="stars-today">⭐ 27004 stars this month</div>
 				</div>
 			</div>
 	
@@ -250,10 +140,120 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Go</span>
-						<span>⭐ 39381</span>
-						<span>🔱 2819</span>
+						<span>⭐ 39538</span>
+						<span>🔱 2833</span>
 					</div>
 				<div class="stars-today">⭐ 18217 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/ayghri/i-have-adhd" target="_blank">
+    
+
+
+      
+        ayghri /
+
+      i-have-adhd</a></p>
+				<p>
+      A skill to stop your coding agent from burying the answer. ADHD-friendly output.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 50104</span>
+						<span>🔱 2885</span>
+					</div>
+				<div class="stars-today">⭐ 27004 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/anthropics/claude-plugins-community" target="_blank">
+    
+
+
+      
+        anthropics /
+
+      claude-plugins-community</a></p>
+				<p>
+      Community plugin marketplace for Claude Cowork and Claude Code. Read-only mirror — submit plugins at clau.de/plugin-directory-submission.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 4369</span>
+						<span>🔱 312</span>
+					</div>
+				<div class="stars-today">⭐ 4049 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/FlashML-org/FreeToken" target="_blank">
+    
+
+
+      
+        FlashML-org /
+
+      FreeToken</a></p>
+				<p>
+      FreeToken brings datacenter-scale model serving to your desktop. Run massive models locally, fast and efficiently.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 13566</span>
+						<span>🔱 1336</span>
+					</div>
+				<div class="stars-today">⭐ 13373 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/sergebulaev/linkedin-skills" target="_blank">
+    
+
+
+      
+        sergebulaev /
+
+      linkedin-skills</a></p>
+				<p>
+      Claude skills for LinkedIn. 11 Claude Code and Codex skills that write human-sounding LinkedIn posts, craft comments that get noticed, analyze your feed, and build a publishing cadence, all from your terminal. Content engineering by Creative Content Crafts. MIT.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 3113</span>
+						<span>🔱 547</span>
+					</div>
+				<div class="stars-today">⭐ 2521 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/freestylefly/awesome-gpt-image-2" target="_blank">
+    
+
+
+      
+        freestylefly /
+
+      awesome-gpt-image-2</a></p>
+				<p>
+      Prompt as Code | GPT Image 2 / 2.5 提示词与案例库，530+ 个案例、20+ 套工业级模板与可复用 Skills，新增 2.5 同提示词对比专区，附完整提示词与生成记录，持续更新。
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 JavaScript</span>
+						<span>⭐ 33239</span>
+						<span>🔱 3205</span>
+					</div>
+				<div class="stars-today">⭐ 22108 stars this month</div>
 				</div>
 			</div>
 	
@@ -272,10 +272,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 4783</span>
-						<span>🔱 367</span>
+						<span>⭐ 4810</span>
+						<span>🔱 369</span>
 					</div>
 				<div class="stars-today">⭐ 3303 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/omacom/omarchy" target="_blank">
+    
+
+
+      
+        omacom /
+
+      omarchy</a></p>
+				<p>
+      Beautiful, Modern & Opinionated Linux
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Shell</span>
+						<span>⭐ 42614</span>
+						<span>🔱 4923</span>
+					</div>
+				<div class="stars-today">⭐ 15721 stars this month</div>
 				</div>
 			</div>
 	
@@ -292,8 +314,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Swift</span>
-						<span>⭐ 14201</span>
-						<span>🔱 1679</span>
+						<span>⭐ 14227</span>
+						<span>🔱 1681</span>
 					</div>
 				<div class="stars-today">⭐ 6273 stars this month</div>
 				</div>
@@ -314,32 +336,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 6615</span>
-						<span>🔱 545</span>
+						<span>⭐ 6635</span>
+						<span>🔱 547</span>
 					</div>
 				<div class="stars-today">⭐ 1658 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/vorssaint/vorssaint-utils" target="_blank">
-    
-
-
-      
-        vorssaint /
-
-      vorssaint-utils</a></p>
-				<p>
-      Free and open-source macOS menu bar toolkit.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Swift</span>
-						<span>⭐ 20448</span>
-						<span>🔱 751</span>
-					</div>
-				<div class="stars-today">⭐ 14671 stars this month</div>
 				</div>
 			</div>
 	
@@ -358,7 +358,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 33421</span>
+						<span>⭐ 33451</span>
 						<span>🔱 3226</span>
 					</div>
 				<div class="stars-today">⭐ 5427 stars this month</div>
@@ -380,8 +380,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Go</span>
-						<span>⭐ 28660</span>
-						<span>🔱 3854</span>
+						<span>⭐ 28804</span>
+						<span>🔱 3872</span>
 					</div>
 				<div class="stars-today">⭐ 8321 stars this month</div>
 				</div>
@@ -402,8 +402,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 62096</span>
-						<span>🔱 8076</span>
+						<span>⭐ 62143</span>
+						<span>🔱 8080</span>
 					</div>
 				<div class="stars-today">⭐ 7274 stars this month</div>
 				</div>
@@ -424,32 +424,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 6410</span>
-						<span>🔱 472</span>
+						<span>⭐ 6500</span>
+						<span>🔱 481</span>
 					</div>
 				<div class="stars-today">⭐ 5066 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/AprilNEA/OpenLogi" target="_blank">
-    
-
-
-      
-        AprilNEA /
-
-      OpenLogi</a></p>
-				<p>
-      ⚡️A native, local-first alternative to Logitech Options+, written in Rust 🦀 — remap buttons, DPI, and SmartShift over HID++. No account, no telemetry.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Rust</span>
-						<span>⭐ 21884</span>
-						<span>🔱 718</span>
-					</div>
-				<div class="stars-today">⭐ 9466 stars this month</div>
 				</div>
 			</div>
 	
@@ -468,10 +446,54 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 19927</span>
-						<span>🔱 2569</span>
+						<span>⭐ 19961</span>
+						<span>🔱 2573</span>
 					</div>
 				<div class="stars-today">⭐ 6955 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/tashfeenahmed/freellmapi" target="_blank">
+    
+
+
+      
+        tashfeenahmed /
+
+      freellmapi</a></p>
+				<p>
+      7.4 billion tokens per month. 34 free LLM providers. 635 free model endpoints. All behind one /v1 endpoint, plus any custom OpenAI-compatible endpoint. Smart routing, automatic failover, encrypted keys. Personal experimentation only.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 27968</span>
+						<span>🔱 3833</span>
+					</div>
+				<div class="stars-today">⭐ 8746 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/melgarafael/DeskcommCRM" target="_blank">
+    
+
+
+      
+        melgarafael /
+
+      DeskcommCRM</a></p>
+				<p>
+      Open-source AI sales OS — self-hosted CRM with native AI agents + WhatsApp (WAHA). Open alternative to Kommo, Octadesk & Intercom for any business that sells by chat. MCP-ready, multi-tenant, LGPD.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 3444</span>
+						<span>🔱 845</span>
+					</div>
+				<div class="stars-today">⭐ 2968 stars this month</div>
 				</div>
 			</div>
 	

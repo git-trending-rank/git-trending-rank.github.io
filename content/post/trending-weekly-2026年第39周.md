@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2026年第39周
-date: 2026-09-22T06:51:49Z
+date: 2026-09-22T12:51:04Z
 categories:
 - weekly
 keywords:
@@ -30,8 +30,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Go</span>
-						<span>⭐ 39381</span>
-						<span>🔱 2819</span>
+						<span>⭐ 39538</span>
+						<span>🔱 2833</span>
 					</div>
 				<div class="stars-today">⭐ 14499 stars this week</div>
 				</div>
@@ -52,32 +52,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 147518</span>
-						<span>🔱 24118</span>
+						<span>⭐ 147580</span>
+						<span>🔱 24124</span>
 					</div>
 				<div class="stars-today">⭐ 2731 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/JustVugg/colibri" target="_blank">
-    
-
-
-      
-        JustVugg /
-
-      colibri</a></p>
-				<p>
-      Run frontier MoE models on hardware you already own — pure C, zero deps, experts streamed from disk. Tiny engine, immense model. 🐦
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 C</span>
-						<span>⭐ 36931</span>
-						<span>🔱 3966</span>
-					</div>
-				<div class="stars-today">⭐ 5565 stars this week</div>
 				</div>
 			</div>
 	
@@ -96,8 +74,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Go</span>
-						<span>⭐ 28660</span>
-						<span>🔱 3854</span>
+						<span>⭐ 28804</span>
+						<span>🔱 3872</span>
 					</div>
 				<div class="stars-today">⭐ 5455 stars this week</div>
 				</div>
@@ -118,8 +96,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 JavaScript</span>
-						<span>⭐ 264887</span>
-						<span>🔱 39582</span>
+						<span>⭐ 265067</span>
+						<span>🔱 39600</span>
 					</div>
 				<div class="stars-today">⭐ 6865 stars this week</div>
 				</div>
@@ -140,8 +118,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 25381</span>
-						<span>🔱 3015</span>
+						<span>⭐ 25400</span>
+						<span>🔱 3017</span>
 					</div>
 				<div class="stars-today">⭐ 1350 stars this week</div>
 				</div>
@@ -162,10 +140,74 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 JavaScript</span>
-						<span>⭐ 98216</span>
-						<span>🔱 10327</span>
+						<span>⭐ 98316</span>
+						<span>🔱 10334</span>
 					</div>
 				<div class="stars-today">⭐ 4197 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/JustVugg/colibri" target="_blank">
+    
+
+
+      
+        JustVugg /
+
+      colibri</a></p>
+				<p>
+      Run frontier MoE models on hardware you already own — pure C, zero deps, experts streamed from disk. Tiny engine, immense model. 🐦
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 C</span>
+						<span>⭐ 37025</span>
+						<span>🔱 3981</span>
+					</div>
+				<div class="stars-today">⭐ 5565 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/TencentCloud/Octop" target="_blank">
+    
+
+
+      
+        TencentCloud /
+
+      Octop</a></p>
+				<p>
+      A smarter, self-hosted AI assistant — multi-user, multi-agent.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 4573</span>
+						<span>🔱 526</span>
+					</div>
+				<div class="stars-today">⭐ 2177 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/anthropics/financial-services" target="_blank">
+    
+
+
+      
+        anthropics /
+
+      financial-services</a></p>
+				<p></p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 36067</span>
+						<span>🔱 5287</span>
+					</div>
+				<div class="stars-today">⭐ 889 stars this week</div>
 				</div>
 			</div>
 	
@@ -184,54 +226,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 74938</span>
-						<span>🔱 4896</span>
+						<span>⭐ 75205</span>
+						<span>🔱 4917</span>
 					</div>
 				<div class="stars-today">⭐ 6125 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/mksglu/context-mode" target="_blank">
-    
-
-
-      
-        mksglu /
-
-      context-mode</a></p>
-				<p>
-      Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 23906</span>
-						<span>🔱 1722</span>
-					</div>
-				<div class="stars-today">⭐ 1089 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/home-assistant/core" target="_blank">
-    
-
-
-      
-        home-assistant /
-
-      core</a></p>
-				<p>
-      🏡 Open source home automation that puts local control and privacy first.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 90996</span>
-						<span>🔱 38723</span>
-					</div>
-				<div class="stars-today">⭐ 526 stars this week</div>
 				</div>
 			</div>
 	
@@ -250,76 +248,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 44601</span>
-						<span>🔱 9158</span>
+						<span>⭐ 44622</span>
+						<span>🔱 9165</span>
 					</div>
 				<div class="stars-today">⭐ 1401 stars this week</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/bilawalsidhu/gods-eye-view" target="_blank">
+				<p><a href="https://github.com/home-assistant/core" target="_blank">
     
 
 
       
-        bilawalsidhu /
+        home-assistant /
 
-      gods-eye-view</a></p>
+      core</a></p>
 				<p>
-      A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 JavaScript</span>
-						<span>⭐ 40807</span>
-						<span>🔱 8286</span>
-					</div>
-				<div class="stars-today">⭐ 7318 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/Panniantong/Agent-Reach" target="_blank">
-    
-
-
-      
-        Panniantong /
-
-      Agent-Reach</a></p>
-				<p>
-      Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.
+      🏡 Open source home automation that puts local control and privacy first.
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 84507</span>
-						<span>🔱 7421</span>
+						<span>⭐ 91017</span>
+						<span>🔱 38729</span>
 					</div>
-				<div class="stars-today">⭐ 3526 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/blader/humanizer" target="_blank">
-    
-
-
-      
-        blader /
-
-      humanizer</a></p>
-				<p>
-      Agent skill that removes signs of AI-generated writing from text
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 51175</span>
-						<span>🔱 4104</span>
-					</div>
-				<div class="stars-today">⭐ 3023 stars this week</div>
+				<div class="stars-today">⭐ 526 stars this week</div>
 				</div>
 			</div>
 	
@@ -338,32 +292,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 69006</span>
-						<span>🔱 7476</span>
+						<span>⭐ 69034</span>
+						<span>🔱 7482</span>
 					</div>
 				<div class="stars-today">⭐ 1204 stars this week</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/max-sixty/worktrunk" target="_blank">
+				<p><a href="https://github.com/sergebulaev/linkedin-skills" target="_blank">
     
 
 
       
-        max-sixty /
+        sergebulaev /
 
-      worktrunk</a></p>
+      linkedin-skills</a></p>
 				<p>
-      Worktrunk is a CLI for Git worktree management, designed for parallel AI agent workflows
+      Claude skills for LinkedIn. 11 Claude Code and Codex skills that write human-sounding LinkedIn posts, craft comments that get noticed, analyze your feed, and build a publishing cadence, all from your terminal. Content engineering by Creative Content Crafts. MIT.
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Rust</span>
-						<span>⭐ 8317</span>
-						<span>🔱 290</span>
+						<span>🔠 Python</span>
+						<span>⭐ 3113</span>
+						<span>🔱 547</span>
 					</div>
-				<div class="stars-today">⭐ 751 stars this week</div>
+				<div class="stars-today">⭐ 667 stars this week</div>
 				</div>
 			</div>
 	
@@ -382,32 +336,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Rust</span>
-						<span>⭐ 12424</span>
-						<span>🔱 1137</span>
+						<span>⭐ 12472</span>
+						<span>🔱 1140</span>
 					</div>
 				<div class="stars-today">⭐ 345 stars this week</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/cilium/cilium" target="_blank">
+				<p><a href="https://github.com/Panniantong/Agent-Reach" target="_blank">
     
 
 
       
-        cilium /
+        Panniantong /
 
-      cilium</a></p>
+      Agent-Reach</a></p>
 				<p>
-      eBPF-based Networking, Security, and Observability
+      Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Go</span>
-						<span>⭐ 25436</span>
-						<span>🔱 4086</span>
+						<span>🔠 Python</span>
+						<span>⭐ 84640</span>
+						<span>🔱 7433</span>
 					</div>
-				<div class="stars-today">⭐ 412 stars this week</div>
+				<div class="stars-today">⭐ 3526 stars this week</div>
 				</div>
 			</div>
 	
@@ -426,10 +380,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 110557</span>
-						<span>🔱 14517</span>
+						<span>⭐ 110591</span>
+						<span>🔱 14518</span>
 					</div>
 				<div class="stars-today">⭐ 1518 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/cilium/cilium" target="_blank">
+    
+
+
+      
+        cilium /
+
+      cilium</a></p>
+				<p>
+      eBPF-based Networking, Security, and Observability
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Go</span>
+						<span>⭐ 25444</span>
+						<span>🔱 4087</span>
+					</div>
+				<div class="stars-today">⭐ 412 stars this week</div>
 				</div>
 			</div>
 	
@@ -448,32 +424,54 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 JavaScript</span>
-						<span>⭐ 19278</span>
-						<span>🔱 1083</span>
+						<span>⭐ 19696</span>
+						<span>🔱 1106</span>
 					</div>
 				<div class="stars-today">⭐ 15675 stars this week</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/vastsa/PI-Desktop" target="_blank">
+				<p><a href="https://github.com/Open-Dev-Society/OpenStock" target="_blank">
     
 
 
       
-        vastsa /
+        Open-Dev-Society /
 
-      PI-Desktop</a></p>
+      OpenStock</a></p>
 				<p>
-      Local-first AI coding agent desktop: Electron + Rust host core + pi Agent Harness + user-installable plugins
+      OpenStock is an open-source alternative to expensive market platforms. Track real-time prices, set personalized alerts, and explore detailed company insights — built openly, for everyone, forever free.
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 5055</span>
-						<span>🔱 421</span>
+						<span>⭐ 18223</span>
+						<span>🔱 2236</span>
 					</div>
-				<div class="stars-today">⭐ 1370 stars this week</div>
+				<div class="stars-today">⭐ 3261 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/Tencent/BrowserSkill" target="_blank">
+    
+
+
+      
+        Tencent /
+
+      BrowserSkill</a></p>
+				<p>
+      Let AI agents use your real, logged-in browser without interrupting your work. CLI + extension for browser automation across any shell-capable AI agent.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 6500</span>
+						<span>🔱 481</span>
+					</div>
+				<div class="stars-today">⭐ 4535 stars this week</div>
 				</div>
 			</div>
 	
