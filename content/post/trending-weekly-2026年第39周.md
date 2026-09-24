@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2026年第39周
-date: 2026-09-24T06:47:55Z
+date: 2026-09-24T12:55:23Z
 categories:
 - weekly
 keywords:
@@ -14,6 +14,26 @@ keywords:
 	<main class="container">
         <div class="repo-list" id="repoList">
 
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/anthropics/financial-services" target="_blank">
+    
+
+
+      
+        anthropics /
+
+      financial-services</a></p>
+				<p></p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 37213</span>
+						<span>🔱 5406</span>
+					</div>
+				<div class="stars-today">⭐ 1895 stars this week</div>
+				</div>
+			</div>
 	
 			<div class="repo-card">
 				<p><a href="https://github.com/alibaba/open-code-review" target="_blank">
@@ -30,8 +50,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Go</span>
-						<span>⭐ 40342</span>
-						<span>🔱 2904</span>
+						<span>⭐ 40501</span>
+						<span>🔱 2913</span>
 					</div>
 				<div class="stars-today">⭐ 9833 stars this week</div>
 				</div>
@@ -52,52 +72,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 147844</span>
-						<span>🔱 24255</span>
+						<span>⭐ 147898</span>
+						<span>🔱 24320</span>
 					</div>
 				<div class="stars-today">⭐ 2762 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/anthropics/financial-services" target="_blank">
-    
-
-
-      
-        anthropics /
-
-      financial-services</a></p>
-				<p></p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 37081</span>
-						<span>🔱 5389</span>
-					</div>
-				<div class="stars-today">⭐ 1895 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/Tencent/WeKnora" target="_blank">
-    
-
-
-      
-        Tencent /
-
-      WeKnora</a></p>
-				<p>
-      Open-source LLM knowledge platform: turn raw documents into a queryable RAG, an autonomous reasoning agent, and a self-maintaining Wiki.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Go</span>
-						<span>⭐ 29482</span>
-						<span>🔱 3965</span>
-					</div>
-				<div class="stars-today">⭐ 4522 stars this week</div>
 				</div>
 			</div>
 	
@@ -116,10 +94,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 JavaScript</span>
-						<span>⭐ 266332</span>
-						<span>🔱 39804</span>
+						<span>⭐ 266493</span>
+						<span>🔱 39830</span>
 					</div>
 				<div class="stars-today">⭐ 6695 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/Tencent/WeKnora" target="_blank">
+    
+
+
+      
+        Tencent /
+
+      WeKnora</a></p>
+				<p>
+      Open-source LLM knowledge platform: turn raw documents into a queryable RAG, an autonomous reasoning agent, and a self-maintaining Wiki.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Go</span>
+						<span>⭐ 29602</span>
+						<span>🔱 3983</span>
+					</div>
+				<div class="stars-today">⭐ 4522 stars this week</div>
 				</div>
 			</div>
 	
@@ -138,8 +138,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 JavaScript</span>
-						<span>⭐ 98752</span>
-						<span>🔱 10372</span>
+						<span>⭐ 98806</span>
+						<span>🔱 10381</span>
 					</div>
 				<div class="stars-today">⭐ 3867 stars this week</div>
 				</div>
@@ -160,54 +160,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 25515</span>
-						<span>🔱 3024</span>
+						<span>⭐ 25531</span>
+						<span>🔱 3025</span>
 					</div>
 				<div class="stars-today">⭐ 1358 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/JustVugg/colibri" target="_blank">
-    
-
-
-      
-        JustVugg /
-
-      colibri</a></p>
-				<p>
-      Run frontier MoE models on hardware you already own — pure C, zero deps, experts streamed from disk. Tiny engine, immense model. 🐦
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 C</span>
-						<span>⭐ 37397</span>
-						<span>🔱 4046</span>
-					</div>
-				<div class="stars-today">⭐ 2739 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/TencentCloud/Octop" target="_blank">
-    
-
-
-      
-        TencentCloud /
-
-      Octop</a></p>
-				<p>
-      A smarter, self-hosted AI assistant — multi-user, multi-agent.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 4799</span>
-						<span>🔱 568</span>
-					</div>
-				<div class="stars-today">⭐ 1877 stars this week</div>
 				</div>
 			</div>
 	
@@ -226,10 +182,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 76827</span>
-						<span>🔱 5031</span>
+						<span>⭐ 77130</span>
+						<span>🔱 5053</span>
 					</div>
 				<div class="stars-today">⭐ 6435 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/TencentCloud/Octop" target="_blank">
+    
+
+
+      
+        TencentCloud /
+
+      Octop</a></p>
+				<p>
+      A smarter, self-hosted AI assistant — multi-user, multi-agent.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 4834</span>
+						<span>🔱 573</span>
+					</div>
+				<div class="stars-today">⭐ 1877 stars this week</div>
 				</div>
 			</div>
 	
@@ -248,10 +226,54 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 31609</span>
-						<span>🔱 3587</span>
+						<span>⭐ 31684</span>
+						<span>🔱 3597</span>
 					</div>
 				<div class="stars-today">⭐ 613 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/JustVugg/colibri" target="_blank">
+    
+
+
+      
+        JustVugg /
+
+      colibri</a></p>
+				<p>
+      Run frontier MoE models on hardware you already own — pure C, zero deps, experts streamed from disk. Tiny engine, immense model. 🐦
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 C</span>
+						<span>⭐ 37460</span>
+						<span>🔱 4054</span>
+					</div>
+				<div class="stars-today">⭐ 2739 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/vectorize-io/hindsight" target="_blank">
+    
+
+
+      
+        vectorize-io /
+
+      hindsight</a></p>
+				<p>
+      Hindsight: Agent Memory That Learns
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 26979</span>
+						<span>🔱 2534</span>
+					</div>
+				<div class="stars-today">⭐ 3181 stars this week</div>
 				</div>
 			</div>
 	
@@ -270,98 +292,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Rust</span>
-						<span>⭐ 12545</span>
-						<span>🔱 1146</span>
+						<span>⭐ 12557</span>
+						<span>🔱 1147</span>
 					</div>
 				<div class="stars-today">⭐ 707 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/LibreChat-AI/LibreChat" target="_blank">
-    
-
-
-      
-        LibreChat-AI /
-
-      LibreChat</a></p>
-				<p>
-      Enhanced ChatGPT Clone: Features Agents, MCP, Skills, DeepSeek, Anthropic, AWS, OpenAI, Responses API, Azure, Groq, o1, GPT-5, Mistral, OpenRouter, Vertex AI, Gemini, Artifacts, AI model switching, message search, Code Interpreter, langchain, DALL-E-3, OpenAPI Actions, Functions, Secure Multi-User Auth, Presets, open-source for self-hosting. Active
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 44820</span>
-						<span>🔱 9186</span>
-					</div>
-				<div class="stars-today">⭐ 949 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/cline/cline" target="_blank">
-    
-
-
-      
-        cline /
-
-      cline</a></p>
-				<p>
-      Autonomous coding agent as an SDK, IDE extension, or CLI assistant.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 69194</span>
-						<span>🔱 7503</span>
-					</div>
-				<div class="stars-today">⭐ 1177 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/pytorch/pytorch" target="_blank">
-    
-
-
-      
-        pytorch /
-
-      pytorch</a></p>
-				<p>
-      Tensors and Dynamic neural networks in Python with strong GPU acceleration
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 103229</span>
-						<span>🔱 30125</span>
-					</div>
-				<div class="stars-today">⭐ 196 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/cilium/cilium" target="_blank">
-    
-
-
-      
-        cilium /
-
-      cilium</a></p>
-				<p>
-      eBPF-based Networking, Security, and Observability
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Go</span>
-						<span>⭐ 25503</span>
-						<span>🔱 4098</span>
-					</div>
-				<div class="stars-today">⭐ 447 stars this week</div>
 				</div>
 			</div>
 	
@@ -380,54 +314,98 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 70096</span>
-						<span>🔱 4795</span>
+						<span>⭐ 70149</span>
+						<span>🔱 4797</span>
 					</div>
 				<div class="stars-today">⭐ 1538 stars this week</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/cloudflare/security-audit-skill" target="_blank">
+				<p><a href="https://github.com/akitaonrails/ai-memory" target="_blank">
     
 
 
       
-        cloudflare /
+        akitaonrails /
 
-      security-audit-skill</a></p>
+      ai-memory</a></p>
 				<p>
-      A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings
+      Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 JavaScript</span>
-						<span>⭐ 21017</span>
-						<span>🔱 1204</span>
+						<span>🔠 Rust</span>
+						<span>⭐ 8272</span>
+						<span>🔱 563</span>
 					</div>
-				<div class="stars-today">⭐ 15280 stars this week</div>
+				<div class="stars-today">⭐ 1208 stars this week</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/Open-Dev-Society/OpenStock" target="_blank">
+				<p><a href="https://github.com/pytorch/pytorch" target="_blank">
     
 
 
       
-        Open-Dev-Society /
+        pytorch /
 
-      OpenStock</a></p>
+      pytorch</a></p>
 				<p>
-      OpenStock is an open-source alternative to expensive market platforms. Track real-time prices, set personalized alerts, and explore detailed company insights — built openly, for everyone, forever free.
+      Tensors and Dynamic neural networks in Python with strong GPU acceleration
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 103239</span>
+						<span>🔱 30182</span>
+					</div>
+				<div class="stars-today">⭐ 196 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/cline/cline" target="_blank">
+    
+
+
+      
+        cline /
+
+      cline</a></p>
+				<p>
+      Autonomous coding agent as an SDK, IDE extension, or CLI assistant.
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 18972</span>
-						<span>🔱 2306</span>
+						<span>⭐ 69213</span>
+						<span>🔱 7506</span>
 					</div>
-				<div class="stars-today">⭐ 4356 stars this week</div>
+				<div class="stars-today">⭐ 1177 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/LibreChat-AI/LibreChat" target="_blank">
+    
+
+
+      
+        LibreChat-AI /
+
+      LibreChat</a></p>
+				<p>
+      Enhanced ChatGPT Clone: Features Agents, MCP, Skills, DeepSeek, Anthropic, AWS, OpenAI, Responses API, Azure, Groq, o1, GPT-5, Mistral, OpenRouter, Vertex AI, Gemini, Artifacts, AI model switching, message search, Code Interpreter, langchain, DALL-E-3, OpenAPI Actions, Functions, Secure Multi-User Auth, Presets, open-source for self-hosting. Active
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 44849</span>
+						<span>🔱 9191</span>
+					</div>
+				<div class="stars-today">⭐ 949 stars this week</div>
 				</div>
 			</div>
 	
@@ -446,10 +424,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 2842</span>
-						<span>🔱 245</span>
+						<span>⭐ 2961</span>
+						<span>🔱 251</span>
 					</div>
 				<div class="stars-today">⭐ 1067 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/cilium/cilium" target="_blank">
+    
+
+
+      
+        cilium /
+
+      cilium</a></p>
+				<p>
+      eBPF-based Networking, Security, and Observability
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Go</span>
+						<span>⭐ 25517</span>
+						<span>🔱 4099</span>
+					</div>
+				<div class="stars-today">⭐ 447 stars this week</div>
 				</div>
 			</div>
 	
