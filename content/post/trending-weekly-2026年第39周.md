@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2026年第39周
-date: 2026-09-25T09:06:46Z
+date: 2026-09-25T14:46:26Z
 categories:
 - weekly
 keywords:
@@ -16,6 +16,28 @@ keywords:
 
 	
 			<div class="repo-card">
+				<p><a href="https://github.com/cloudflare/security-audit-skill" target="_blank">
+    
+
+
+      
+        cloudflare /
+
+      security-audit-skill</a></p>
+				<p>
+      A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 JavaScript</span>
+						<span>⭐ 21508</span>
+						<span>🔱 1240</span>
+					</div>
+				<div class="stars-today">⭐ 11262 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
 				<p><a href="https://github.com/anthropics/financial-services" target="_blank">
     
 
@@ -28,32 +50,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 37447</span>
-						<span>🔱 5424</span>
+						<span>⭐ 37493</span>
+						<span>🔱 5427</span>
 					</div>
 				<div class="stars-today">⭐ 2382 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/alibaba/open-code-review" target="_blank">
-    
-
-
-      
-        alibaba /
-
-      open-code-review</a></p>
-				<p>
-      Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Go</span>
-						<span>⭐ 41028</span>
-						<span>🔱 2946</span>
-					</div>
-				<div class="stars-today">⭐ 6920 stars this week</div>
 				</div>
 			</div>
 	
@@ -72,10 +72,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 148009</span>
-						<span>🔱 24481</span>
+						<span>⭐ 148044</span>
+						<span>🔱 24511</span>
 					</div>
 				<div class="stars-today">⭐ 2384 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/alibaba/open-code-review" target="_blank">
+    
+
+
+      
+        alibaba /
+
+      open-code-review</a></p>
+				<p>
+      Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Go</span>
+						<span>⭐ 41157</span>
+						<span>🔱 2957</span>
+					</div>
+				<div class="stars-today">⭐ 6920 stars this week</div>
 				</div>
 			</div>
 	
@@ -94,8 +116,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 JavaScript</span>
-						<span>⭐ 267122</span>
-						<span>🔱 39913</span>
+						<span>⭐ 267282</span>
+						<span>🔱 39930</span>
 					</div>
 				<div class="stars-today">⭐ 6193 stars this week</div>
 				</div>
@@ -116,8 +138,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Go</span>
-						<span>⭐ 29858</span>
-						<span>🔱 4013</span>
+						<span>⭐ 29946</span>
+						<span>🔱 4024</span>
 					</div>
 				<div class="stars-today">⭐ 3749 stars this week</div>
 				</div>
@@ -138,32 +160,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 JavaScript</span>
-						<span>⭐ 98950</span>
-						<span>🔱 10387</span>
+						<span>⭐ 98996</span>
+						<span>🔱 10390</span>
 					</div>
 				<div class="stars-today">⭐ 3345 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/anthropics/knowledge-work-plugins" target="_blank">
-    
-
-
-      
-        anthropics /
-
-      knowledge-work-plugins</a></p>
-				<p>
-      Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 25576</span>
-						<span>🔱 3027</span>
-					</div>
-				<div class="stars-today">⭐ 1118 stars this week</div>
 				</div>
 			</div>
 	
@@ -182,76 +182,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 77805</span>
-						<span>🔱 5093</span>
+						<span>⭐ 78008</span>
+						<span>🔱 5107</span>
 					</div>
 				<div class="stars-today">⭐ 6547 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/TencentCloud/Octop" target="_blank">
-    
-
-
-      
-        TencentCloud /
-
-      Octop</a></p>
-				<p>
-      A smarter, self-hosted AI assistant — multi-user, multi-agent.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 4903</span>
-						<span>🔱 582</span>
-					</div>
-				<div class="stars-today">⭐ 1608 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/davila7/claude-code-templates" target="_blank">
-    
-
-
-      
-        davila7 /
-
-      claude-code-templates</a></p>
-				<p>
-      CLI tool for configuring and monitoring Claude Code
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 31751</span>
-						<span>🔱 3608</span>
-					</div>
-				<div class="stars-today">⭐ 965 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/JustVugg/colibri" target="_blank">
-    
-
-
-      
-        JustVugg /
-
-      colibri</a></p>
-				<p>
-      Run frontier MoE models on hardware you already own — pure C, zero deps, experts streamed from disk. Tiny engine, immense model. 🐦
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 C</span>
-						<span>⭐ 37592</span>
-						<span>🔱 4072</span>
-					</div>
-				<div class="stars-today">⭐ 2055 stars this week</div>
 				</div>
 			</div>
 	
@@ -270,10 +204,120 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 28383</span>
-						<span>🔱 2822</span>
+						<span>⭐ 28735</span>
+						<span>🔱 2895</span>
 					</div>
 				<div class="stars-today">⭐ 3363 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/anthropics/knowledge-work-plugins" target="_blank">
+    
+
+
+      
+        anthropics /
+
+      knowledge-work-plugins</a></p>
+				<p>
+      Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 25586</span>
+						<span>🔱 3029</span>
+					</div>
+				<div class="stars-today">⭐ 1118 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/davila7/claude-code-templates" target="_blank">
+    
+
+
+      
+        davila7 /
+
+      claude-code-templates</a></p>
+				<p>
+      CLI tool for configuring and monitoring Claude Code
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 31777</span>
+						<span>🔱 3613</span>
+					</div>
+				<div class="stars-today">⭐ 965 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/paperclipai/paperclip" target="_blank">
+    
+
+
+      
+        paperclipai /
+
+      paperclip</a></p>
+				<p>
+      The open-source app everyone uses to manage agents at work
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 83801</span>
+						<span>🔱 15159</span>
+					</div>
+				<div class="stars-today">⭐ 2321 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/pytorch/pytorch" target="_blank">
+    
+
+
+      
+        pytorch /
+
+      pytorch</a></p>
+				<p>
+      Tensors and Dynamic neural networks in Python with strong GPU acceleration
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 103298</span>
+						<span>🔱 30393</span>
+					</div>
+				<div class="stars-today">⭐ 228 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/TencentCloud/Octop" target="_blank">
+    
+
+
+      
+        TencentCloud /
+
+      Octop</a></p>
+				<p>
+      A smarter, self-hosted AI assistant — multi-user, multi-agent.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 4916</span>
+						<span>🔱 582</span>
+					</div>
+				<div class="stars-today">⭐ 1608 stars this week</div>
 				</div>
 			</div>
 	
@@ -292,7 +336,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Rust</span>
-						<span>⭐ 12584</span>
+						<span>⭐ 12592</span>
 						<span>🔱 1148</span>
 					</div>
 				<div class="stars-today">⭐ 741 stars this week</div>
@@ -314,98 +358,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 70279</span>
-						<span>🔱 4807</span>
+						<span>⭐ 70315</span>
+						<span>🔱 4813</span>
 					</div>
 				<div class="stars-today">⭐ 1415 stars this week</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/akitaonrails/ai-memory" target="_blank">
+				<p><a href="https://github.com/HKUDS/CLI-Anything" target="_blank">
     
 
 
       
-        akitaonrails /
+        HKUDS /
 
-      ai-memory</a></p>
+      CLI-Anything</a></p>
 				<p>
-      Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Rust</span>
-						<span>⭐ 8372</span>
-						<span>🔱 566</span>
-					</div>
-				<div class="stars-today">⭐ 1243 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/pytorch/pytorch" target="_blank">
-    
-
-
-      
-        pytorch /
-
-      pytorch</a></p>
-				<p>
-      Tensors and Dynamic neural networks in Python with strong GPU acceleration
+      "CLI-Anything: Making ALL Software Agent-Native" -- CLI-Hub: https://clianything.cc/
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 103283</span>
-						<span>🔱 30354</span>
+						<span>⭐ 50493</span>
+						<span>🔱 4625</span>
 					</div>
-				<div class="stars-today">⭐ 228 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/cline/cline" target="_blank">
-    
-
-
-      
-        cline /
-
-      cline</a></p>
-				<p>
-      Autonomous coding agent as an SDK, IDE extension, or CLI assistant.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 69273</span>
-						<span>🔱 7514</span>
-					</div>
-				<div class="stars-today">⭐ 855 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/LibreChat-AI/LibreChat" target="_blank">
-    
-
-
-      
-        LibreChat-AI /
-
-      LibreChat</a></p>
-				<p>
-      Enhanced ChatGPT Clone: Features Agents, MCP, Skills, DeepSeek, Anthropic, AWS, OpenAI, Responses API, Azure, Groq, o1, GPT-5, Mistral, OpenRouter, Vertex AI, Gemini, Artifacts, AI model switching, message search, Code Interpreter, langchain, DALL-E-3, OpenAPI Actions, Functions, Secure Multi-User Auth, Presets, open-source for self-hosting. Active
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 44927</span>
-						<span>🔱 9202</span>
-					</div>
-				<div class="stars-today">⭐ 743 stars this week</div>
+				<div class="stars-today">⭐ 964 stars this week</div>
 				</div>
 			</div>
 	
@@ -424,32 +402,76 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 3268</span>
-						<span>🔱 273</span>
+						<span>⭐ 3315</span>
+						<span>🔱 272</span>
 					</div>
 				<div class="stars-today">⭐ 1406 stars this week</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/cilium/cilium" target="_blank">
+				<p><a href="https://github.com/cline/cline" target="_blank">
     
 
 
       
-        cilium /
+        cline /
 
-      cilium</a></p>
+      cline</a></p>
 				<p>
-      eBPF-based Networking, Security, and Observability
+      Autonomous coding agent as an SDK, IDE extension, or CLI assistant.
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Go</span>
-						<span>⭐ 25547</span>
-						<span>🔱 4105</span>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 69288</span>
+						<span>🔱 7517</span>
 					</div>
-				<div class="stars-today">⭐ 362 stars this week</div>
+				<div class="stars-today">⭐ 855 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/odoo/odoo" target="_blank">
+    
+
+
+      
+        odoo /
+
+      odoo</a></p>
+				<p>
+      Odoo. Open Source Apps To Grow Your Business.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 54598</span>
+						<span>🔱 33832</span>
+					</div>
+				<div class="stars-today">⭐ 165 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/bojieli/ai-agent-book" target="_blank">
+    
+
+
+      
+        bojieli /
+
+      ai-agent-book</a></p>
+				<p>
+      《深入理解 AI Agent：设计原理与工程实践》（李博杰 著）开源主仓库：全书正文、编译版 PDF 与按章配套代码
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 50943</span>
+						<span>🔱 5714</span>
+					</div>
+				<div class="stars-today">⭐ 2481 stars this week</div>
 				</div>
 			</div>
 	

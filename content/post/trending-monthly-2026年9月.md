@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2026年9月
-date: 2026-09-25T09:06:46Z
+date: 2026-09-25T14:46:26Z
 categories:
 - monthly
 keywords:
@@ -30,8 +30,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 JavaScript</span>
-						<span>⭐ 42671</span>
-						<span>🔱 8670</span>
+						<span>⭐ 42820</span>
+						<span>🔱 8693</span>
 					</div>
 				<div class="stars-today">⭐ 41715 stars this month</div>
 				</div>
@@ -52,8 +52,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 JavaScript</span>
-						<span>⭐ 21427</span>
-						<span>🔱 1236</span>
+						<span>⭐ 21508</span>
+						<span>🔱 1240</span>
 					</div>
 				<div class="stars-today">⭐ 18441 stars this month</div>
 				</div>
@@ -74,8 +74,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 JavaScript</span>
-						<span>⭐ 71386</span>
-						<span>🔱 4804</span>
+						<span>⭐ 71525</span>
+						<span>🔱 4816</span>
 					</div>
 				<div class="stars-today">⭐ 56351 stars this month</div>
 				</div>
@@ -96,8 +96,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 38980</span>
-						<span>🔱 6077</span>
+						<span>⭐ 39002</span>
+						<span>🔱 6078</span>
 					</div>
 				<div class="stars-today">⭐ 18202 stars this month</div>
 				</div>
@@ -118,8 +118,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Go</span>
-						<span>⭐ 41028</span>
-						<span>🔱 2946</span>
+						<span>⭐ 41157</span>
+						<span>🔱 2957</span>
 					</div>
 				<div class="stars-today">⭐ 19583 stars this month</div>
 				</div>
@@ -140,8 +140,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 3268</span>
-						<span>🔱 273</span>
+						<span>⭐ 3315</span>
+						<span>🔱 272</span>
 					</div>
 				<div class="stars-today">⭐ 2413 stars this month</div>
 				</div>
@@ -162,8 +162,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 35327</span>
-						<span>🔱 4160</span>
+						<span>⭐ 35390</span>
+						<span>🔱 4165</span>
 					</div>
 				<div class="stars-today">⭐ 23857 stars this month</div>
 				</div>
@@ -184,32 +184,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 51058</span>
+						<span>⭐ 51127</span>
 						<span>🔱 2943</span>
 					</div>
 				<div class="stars-today">⭐ 27473 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/cursor/plugins" target="_blank">
-    
-
-
-      
-        cursor /
-
-      plugins</a></p>
-				<p>
-      Cursor plugin specification and official plugins
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 8592</span>
-						<span>🔱 808</span>
-					</div>
-				<div class="stars-today">⭐ 3861 stars this month</div>
 				</div>
 			</div>
 	
@@ -228,8 +206,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 5054</span>
-						<span>🔱 375</span>
+						<span>⭐ 5071</span>
+						<span>🔱 374</span>
 					</div>
 				<div class="stars-today">⭐ 3518 stars this month</div>
 				</div>
@@ -248,54 +226,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Swift</span>
-						<span>⭐ 14362</span>
-						<span>🔱 1695</span>
+						<span>⭐ 14371</span>
+						<span>🔱 1694</span>
 					</div>
 				<div class="stars-today">⭐ 6390 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/JetBrains/go-modern-guidelines" target="_blank">
-    
-
-
-      
-        JetBrains /
-
-      go-modern-guidelines</a></p>
-				<p>
-      Help AI coding agents write modern Go
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Go</span>
-						<span>⭐ 3713</span>
-						<span>🔱 121</span>
-					</div>
-				<div class="stars-today">⭐ 2858 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/Tencent/WeKnora" target="_blank">
-    
-
-
-      
-        Tencent /
-
-      WeKnora</a></p>
-				<p>
-      Open-source LLM knowledge platform: turn raw documents into a queryable RAG, an autonomous reasoning agent, and a self-maintaining Wiki.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Go</span>
-						<span>⭐ 29858</span>
-						<span>🔱 4013</span>
-					</div>
-				<div class="stars-today">⭐ 9356 stars this month</div>
 				</div>
 			</div>
 	
@@ -314,7 +248,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 6781</span>
+						<span>⭐ 6790</span>
 						<span>🔱 549</span>
 					</div>
 				<div class="stars-today">⭐ 1821 stars this month</div>
@@ -322,24 +256,24 @@ keywords:
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/google-research/timesfm" target="_blank">
+				<p><a href="https://github.com/cursor/plugins" target="_blank">
     
 
 
       
-        google-research /
+        cursor /
 
-      timesfm</a></p>
+      plugins</a></p>
 				<p>
-      TimesFM (Time Series Foundation Model) is a pretrained time-series foundation model developed by Google Research for time-series forecasting.
+      Cursor plugin specification and official plugins
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 33667</span>
-						<span>🔱 3248</span>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 8611</span>
+						<span>🔱 810</span>
 					</div>
-				<div class="stars-today">⭐ 5545 stars this month</div>
+				<div class="stars-today">⭐ 3861 stars this month</div>
 				</div>
 			</div>
 	
@@ -358,10 +292,74 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 20974</span>
-						<span>🔱 2689</span>
+						<span>⭐ 21012</span>
+						<span>🔱 2693</span>
 					</div>
 				<div class="stars-today">⭐ 7668 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/Tencent/WeKnora" target="_blank">
+    
+
+
+      
+        Tencent /
+
+      WeKnora</a></p>
+				<p>
+      Open-source LLM knowledge platform: turn raw documents into a queryable RAG, an autonomous reasoning agent, and a self-maintaining Wiki.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Go</span>
+						<span>⭐ 29946</span>
+						<span>🔱 4024</span>
+					</div>
+				<div class="stars-today">⭐ 9356 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/google-research/timesfm" target="_blank">
+    
+
+
+      
+        google-research /
+
+      timesfm</a></p>
+				<p>
+      TimesFM (Time Series Foundation Model) is a pretrained time-series foundation model developed by Google Research for time-series forecasting.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 33680</span>
+						<span>🔱 3247</span>
+					</div>
+				<div class="stars-today">⭐ 5545 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/anthropics/financial-services" target="_blank">
+    
+
+
+      
+        anthropics /
+
+      financial-services</a></p>
+				<p></p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 37493</span>
+						<span>🔱 5427</span>
+					</div>
+				<div class="stars-today">⭐ 2901 stars this month</div>
 				</div>
 			</div>
 	
@@ -380,7 +378,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 62521</span>
+						<span>⭐ 62543</span>
 						<span>🔱 8130</span>
 					</div>
 				<div class="stars-today">⭐ 7689 stars this month</div>
@@ -402,8 +400,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 7168</span>
-						<span>🔱 516</span>
+						<span>⭐ 7194</span>
+						<span>🔱 520</span>
 					</div>
 				<div class="stars-today">⭐ 5854 stars this month</div>
 				</div>
@@ -424,32 +422,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 3738</span>
-						<span>🔱 932</span>
+						<span>⭐ 3752</span>
+						<span>🔱 935</span>
 					</div>
 				<div class="stars-today">⭐ 3225 stars this month</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/omacom/omarchy" target="_blank">
+				<p><a href="https://github.com/DietrichGebert/ponytail" target="_blank">
     
 
 
       
-        omacom /
+        DietrichGebert /
 
-      omarchy</a></p>
+      ponytail</a></p>
 				<p>
-      Beautiful, Modern & Opinionated Linux
+      Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Shell</span>
-						<span>⭐ 43071</span>
-						<span>🔱 4999</span>
+						<span>🔠 JavaScript</span>
+						<span>⭐ 145813</span>
+						<span>🔱 7814</span>
 					</div>
-				<div class="stars-today">⭐ 13665 stars this month</div>
+				<div class="stars-today">⭐ 36592 stars this month</div>
 				</div>
 			</div>
 	
@@ -468,32 +466,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 7943</span>
-						<span>🔱 1181</span>
+						<span>⭐ 7954</span>
+						<span>🔱 1182</span>
 					</div>
 				<div class="stars-today">⭐ 3770 stars this month</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/K-Dense-AI/scientific-agent-skills" target="_blank">
+				<p><a href="https://github.com/abue-ammar/tinycast" target="_blank">
     
 
 
       
-        K-Dense-AI /
+        abue-ammar /
 
-      scientific-agent-skills</a></p>
+      tinycast</a></p>
 				<p>
-      Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 190,000+ scientists worldwide. 165 ready-to-use validated skills plus 100+ scientific databases covering biology, chemistry, medicine, and drug discovery. Compatible with Cursor, Claude Code, Codex, Pi, Antigravity, and the open Agent Skills standard.
+      Tinycast — a tiny, fully native macOS launcher, hotkeys, and clipboard history.
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 46608</span>
-						<span>🔱 4207</span>
+						<span>🔠 Swift</span>
+						<span>⭐ 7447</span>
+						<span>🔱 367</span>
 					</div>
-				<div class="stars-today">⭐ 12450 stars this month</div>
+				<div class="stars-today">⭐ 5671 stars this month</div>
 				</div>
 			</div>
 	

@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2026-09-25
-date: 2026-09-25T09:06:46Z
+date: 2026-09-25T14:46:26Z
 categories:
 - daily
 keywords:
@@ -16,24 +16,46 @@ keywords:
 
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/rohitg00/ai-engineering-from-scratch" target="_blank">
+				<p><a href="https://github.com/paperclipai/paperclip" target="_blank">
     
 
 
       
-        rohitg00 /
+        paperclipai /
 
-      ai-engineering-from-scratch</a></p>
+      paperclip</a></p>
 				<p>
-      Learn it. Build it. Ship it for others.
+      The open-source app everyone uses to manage agents at work
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 83801</span>
+						<span>🔱 15159</span>
+					</div>
+				<div class="stars-today">⭐ 1853 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/anthropics/claude-plugins-official" target="_blank">
+    
+
+
+      
+        anthropics /
+
+      claude-plugins-official</a></p>
+				<p>
+      Official, Anthropic-managed directory of high quality Claude Code Plugins.
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 56959</span>
-						<span>🔱 9970</span>
+						<span>⭐ 36781</span>
+						<span>🔱 4149</span>
 					</div>
-				<div class="stars-today">⭐ 347 stars today</div>
+				<div class="stars-today">⭐ 62 stars today</div>
 				</div>
 			</div>
 	
@@ -52,162 +74,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 28383</span>
-						<span>🔱 2822</span>
+						<span>⭐ 28735</span>
+						<span>🔱 2895</span>
 					</div>
-				<div class="stars-today">⭐ 1668 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/dream-num/univer" target="_blank">
-    
-
-
-      
-        dream-num /
-
-      univer</a></p>
-				<p>
-      The Office Harness for AI Agents — Spreadsheets, Docs, Slides, Canvas, Relational Tables, and PDF in one runtime.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 18039</span>
-						<span>🔱 1548</span>
-					</div>
-				<div class="stars-today">⭐ 1082 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/google/ax" target="_blank">
-    
-
-
-      
-        google /
-
-      ax</a></p>
-				<p>
-      Google's open agentic orchestration runtime
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Go</span>
-						<span>⭐ 10924</span>
-						<span>🔱 531</span>
-					</div>
-				<div class="stars-today">⭐ 1373 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/NVIDIA/Model-Optimizer" target="_blank">
-    
-
-
-      
-        NVIDIA /
-
-      Model-Optimizer</a></p>
-				<p>
-      A unified library of SOTA model optimization techniques like quantization, distillation, pruning, neural architecture search, speculative decoding, etc. It compresses deep learning models for downstream deployment frameworks like TensorRT-LLM, TensorRT, vLLM, etc. to optimize inference speed.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 4207</span>
-						<span>🔱 637</span>
-					</div>
-				<div class="stars-today">⭐ 44 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/FxEmbed/FxEmbed" target="_blank">
-    
-
-
-      
-        FxEmbed /
-
-      FxEmbed</a></p>
-				<p>
-      Fix X/Twitter and Bluesky embeds! Use multiple images, videos, polls, translations and more on Discord, Telegram and others
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 5414</span>
-						<span>🔱 253</span>
-					</div>
-				<div class="stars-today">⭐ 182 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/anthropics/financial-services" target="_blank">
-    
-
-
-      
-        anthropics /
-
-      financial-services</a></p>
-				<p></p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 37447</span>
-						<span>🔱 5424</span>
-					</div>
-				<div class="stars-today">⭐ 509 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/HKUDS/CLI-Anything" target="_blank">
-    
-
-
-      
-        HKUDS /
-
-      CLI-Anything</a></p>
-				<p>
-      "CLI-Anything: Making ALL Software Agent-Native" -- CLI-Hub: https://clianything.cc/
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 50451</span>
-						<span>🔱 4621</span>
-					</div>
-				<div class="stars-today">⭐ 413 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/mvt-project/mvt" target="_blank">
-    
-
-
-      
-        mvt-project /
-
-      mvt</a></p>
-				<p>
-      MVT (Mobile Verification Toolkit) helps with conducting forensics of mobile devices in order to find signs of a potential compromise.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 14779</span>
-						<span>🔱 1394</span>
-					</div>
-				<div class="stars-today">⭐ 272 stars today</div>
+				<div class="stars-today">⭐ 1652 stars today</div>
 				</div>
 			</div>
 	
@@ -226,98 +96,274 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Shell</span>
-						<span>⭐ 291359</span>
-						<span>🔱 26071</span>
+						<span>⭐ 291480</span>
+						<span>🔱 26080</span>
 					</div>
-				<div class="stars-today">⭐ 611 stars today</div>
+				<div class="stars-today">⭐ 465 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/strands-agents/harness-sdk" target="_blank">
+				<p><a href="https://github.com/mattpocock/skills" target="_blank">
     
 
 
       
-        strands-agents /
+        mattpocock /
 
-      harness-sdk</a></p>
+      skills</a></p>
 				<p>
-      Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any model, any cloud.
+      Skills for Real Engineers. Straight from my .agents directory.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Shell</span>
+						<span>⭐ 269490</span>
+						<span>🔱 22714</span>
+					</div>
+				<div class="stars-today">⭐ 671 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/dream-num/univer" target="_blank">
+    
+
+
+      
+        dream-num /
+
+      univer</a></p>
+				<p>
+      The Office Harness for AI Agents — Spreadsheets, Docs, Slides, Canvas, Relational Tables, and PDF in one runtime.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 18185</span>
+						<span>🔱 1553</span>
+					</div>
+				<div class="stars-today">⭐ 1048 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/anthropics/skills" target="_blank">
+    
+
+
+      
+        anthropics /
+
+      skills</a></p>
+				<p>
+      Public repository for Agent Skills
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 8356</span>
-						<span>🔱 1246</span>
+						<span>⭐ 178118</span>
+						<span>🔱 21100</span>
 					</div>
-				<div class="stars-today">⭐ 455 stars today</div>
+				<div class="stars-today">⭐ 155 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/julyx10/lap" target="_blank">
+				<p><a href="https://github.com/androoAGI/starnet" target="_blank">
     
 
 
       
-        julyx10 /
+        androoAGI /
 
-      lap</a></p>
+      starnet</a></p>
 				<p>
-      An offline-first photo manager for large local libraries
+      A living pixel-art station where real AI agents do real work. Local-first desktop agent harness - bring your own key, watch your crew actually run.
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Vue</span>
-						<span>⭐ 2987</span>
-						<span>🔱 175</span>
+						<span>🔠 JavaScript</span>
+						<span>⭐ 325</span>
+						<span>🔱 76</span>
 					</div>
-				<div class="stars-today">⭐ 122 stars today</div>
+				<div class="stars-today">⭐ 113 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/superdesigndev/treg" target="_blank">
+				<p><a href="https://github.com/derv82/wifit3" target="_blank">
     
 
 
       
-        superdesigndev /
+        derv82 /
 
-      treg</a></p>
+      wifit3</a></p>
 				<p>
-      OpenRouter for agent tools. Join community here: https://discord.gg/6mQYYfFMAn
+      Wifite but USB-only & cross-platform.
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 3268</span>
-						<span>🔱 273</span>
+						<span>⭐ 742</span>
+						<span>🔱 76</span>
 					</div>
-				<div class="stars-today">⭐ 468 stars today</div>
+				<div class="stars-today">⭐ 168 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/leejet/stable-diffusion.cpp" target="_blank">
+				<p><a href="https://github.com/kelseyhightower/kubernetes-the-hard-way" target="_blank">
     
 
 
       
-        leejet /
+        kelseyhightower /
 
-      stable-diffusion.cpp</a></p>
+      kubernetes-the-hard-way</a></p>
 				<p>
-      Diffusion model(SD,Flux,Wan,Qwen Image,Z-Image,...) inference in pure C/C++
+      Bootstrap Kubernetes the hard way. No scripts.
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 C++</span>
-						<span>⭐ 7314</span>
-						<span>🔱 816</span>
+						<span>🔠 </span>
+						<span>⭐ 50039</span>
+						<span>🔱 15910</span>
 					</div>
-				<div class="stars-today">⭐ 36 stars today</div>
+				<div class="stars-today">⭐ 105 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/rohitg00/ai-engineering-from-scratch" target="_blank">
+    
+
+
+      
+        rohitg00 /
+
+      ai-engineering-from-scratch</a></p>
+				<p>
+      Learn it. Build it. Ship it for others.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 57191</span>
+						<span>🔱 9996</span>
+					</div>
+				<div class="stars-today">⭐ 1181 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/shy3130/tick-stock-panel" target="_blank">
+    
+
+
+      
+        shy3130 /
+
+      tick-stock-panel</a></p>
+				<p>
+      TSP自托管、零运维的 A 股「选股 + 监控 + 回测」量化工作台 | LLM能力驱使策略定制+个股分析+复盘 | 自由接入第三方数据源与个性化扩展数据 | 个人开源
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 5066</span>
+						<span>🔱 1248</span>
+					</div>
+				<div class="stars-today">⭐ 31 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/google/ax" target="_blank">
+    
+
+
+      
+        google /
+
+      ax</a></p>
+				<p>
+      Google's open agentic orchestration runtime
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Go</span>
+						<span>⭐ 11172</span>
+						<span>🔱 539</span>
+					</div>
+				<div class="stars-today">⭐ 1386 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/NVIDIA/Model-Optimizer" target="_blank">
+    
+
+
+      
+        NVIDIA /
+
+      Model-Optimizer</a></p>
+				<p>
+      A unified library of SOTA model optimization techniques like quantization, distillation, pruning, neural architecture search, speculative decoding, etc. It compresses deep learning models for downstream deployment frameworks like TensorRT-LLM, TensorRT, vLLM, etc. to optimize inference speed.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 4298</span>
+						<span>🔱 641</span>
+					</div>
+				<div class="stars-today">⭐ 360 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/pbakaus/impeccable" target="_blank">
+    
+
+
+      
+        pbakaus /
+
+      impeccable</a></p>
+				<p>
+      The design language that makes your AI harness better at design.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 JavaScript</span>
+						<span>⭐ 70979</span>
+						<span>🔱 4307</span>
+					</div>
+				<div class="stars-today">⭐ 527 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/openbao/openbao" target="_blank">
+    
+
+
+      
+        openbao /
+
+      openbao</a></p>
+				<p>
+      OpenBao is a software solution to manage, store, and distribute sensitive data including secrets, certificates, and keys.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Go</span>
+						<span>⭐ 7563</span>
+						<span>🔱 581</span>
+					</div>
+				<div class="stars-today">⭐ 16 stars today</div>
 				</div>
 			</div>
 	
