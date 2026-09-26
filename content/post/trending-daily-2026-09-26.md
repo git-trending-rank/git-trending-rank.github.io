@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2026-09-26
-date: 2026-09-26T08:50:33Z
+date: 2026-09-26T13:54:21Z
 categories:
 - daily
 keywords:
@@ -30,32 +30,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 85645</span>
-						<span>🔱 15284</span>
+						<span>⭐ 86150</span>
+						<span>🔱 15329</span>
 					</div>
-				<div class="stars-today">⭐ 2109 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/anthropics/claude-plugins-official" target="_blank">
-    
-
-
-      
-        anthropics /
-
-      claude-plugins-official</a></p>
-				<p>
-      Official, Anthropic-managed directory of high quality Claude Code Plugins.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 37014</span>
-						<span>🔱 4158</span>
-					</div>
-				<div class="stars-today">⭐ 83 stars today</div>
+				<div class="stars-today">⭐ 2589 stars today</div>
 				</div>
 			</div>
 	
@@ -74,230 +52,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 30357</span>
-						<span>🔱 3256</span>
+						<span>⭐ 30861</span>
+						<span>🔱 3335</span>
 					</div>
-				<div class="stars-today">⭐ 1653 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/obra/superpowers" target="_blank">
-    
-
-
-      
-        obra /
-
-      superpowers</a></p>
-				<p>
-      An agentic skills framework & software development methodology that works.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Shell</span>
-						<span>⭐ 291792</span>
-						<span>🔱 26114</span>
-					</div>
-				<div class="stars-today">⭐ 468 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/mattpocock/skills" target="_blank">
-    
-
-
-      
-        mattpocock /
-
-      skills</a></p>
-				<p>
-      Skills for Real Engineers. Straight from my .agents directory.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Shell</span>
-						<span>⭐ 269904</span>
-						<span>🔱 22740</span>
-					</div>
-				<div class="stars-today">⭐ 583 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/dream-num/univer" target="_blank">
-    
-
-
-      
-        dream-num /
-
-      univer</a></p>
-				<p>
-      The Office Harness for AI Agents — Spreadsheets, Docs, Slides, Canvas, Relational Tables, and PDF in one runtime.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 18864</span>
-						<span>🔱 1611</span>
-					</div>
-				<div class="stars-today">⭐ 1050 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/anthropics/skills" target="_blank">
-    
-
-
-      
-        anthropics /
-
-      skills</a></p>
-				<p>
-      Public repository for Agent Skills
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 178453</span>
-						<span>🔱 21120</span>
-					</div>
-				<div class="stars-today">⭐ 189 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/androoAGI/starnet" target="_blank">
-    
-
-
-      
-        androoAGI /
-
-      starnet</a></p>
-				<p>
-      A living pixel-art station where real AI agents do real work. Local-first desktop agent harness - bring your own key, watch your crew actually run.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 JavaScript</span>
-						<span>⭐ 575</span>
-						<span>🔱 101</span>
-					</div>
-				<div class="stars-today">⭐ 93 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/derv82/wifit3" target="_blank">
-    
-
-
-      
-        derv82 /
-
-      wifit3</a></p>
-				<p>
-      Wifite but USB-only & cross-platform.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 1059</span>
-						<span>🔱 92</span>
-					</div>
-				<div class="stars-today">⭐ 183 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/kelseyhightower/kubernetes-the-hard-way" target="_blank">
-    
-
-
-      
-        kelseyhightower /
-
-      kubernetes-the-hard-way</a></p>
-				<p>
-      Bootstrap Kubernetes the hard way. No scripts.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 </span>
-						<span>⭐ 50174</span>
-						<span>🔱 15921</span>
-					</div>
-				<div class="stars-today">⭐ 119 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/rohitg00/ai-engineering-from-scratch" target="_blank">
-    
-
-
-      
-        rohitg00 /
-
-      ai-engineering-from-scratch</a></p>
-				<p>
-      Learn it. Build it. Ship it for others.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 57793</span>
-						<span>🔱 10054</span>
-					</div>
-				<div class="stars-today">⭐ 1177 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/shy3130/tick-stock-panel" target="_blank">
-    
-
-
-      
-        shy3130 /
-
-      tick-stock-panel</a></p>
-				<p>
-      TSP自托管、零运维的 A 股「选股 + 监控 + 回测」量化工作台 | LLM能力驱使策略定制+个股分析+复盘 | 自由接入第三方数据源与个性化扩展数据 | 个人开源
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 5202</span>
-						<span>🔱 1265</span>
-					</div>
-				<div class="stars-today">⭐ 44 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/google/ax" target="_blank">
-    
-
-
-      
-        google /
-
-      ax</a></p>
-				<p>
-      Google's open agentic orchestration runtime
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Go</span>
-						<span>⭐ 11701</span>
-						<span>🔱 560</span>
-					</div>
-				<div class="stars-today">⭐ 1379 stars today</div>
+				<div class="stars-today">⭐ 2152 stars today</div>
 				</div>
 			</div>
 	
@@ -316,32 +74,76 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 4562</span>
-						<span>🔱 656</span>
+						<span>⭐ 4619</span>
+						<span>🔱 659</span>
 					</div>
-				<div class="stars-today">⭐ 359 stars today</div>
+				<div class="stars-today">⭐ 354 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/pbakaus/impeccable" target="_blank">
+				<p><a href="https://github.com/dream-num/univer" target="_blank">
     
 
 
       
-        pbakaus /
+        dream-num /
 
-      impeccable</a></p>
+      univer</a></p>
 				<p>
-      The design language that makes your AI harness better at design.
+      The Office Harness for AI Agents — Spreadsheets, Docs, Slides, Canvas, Relational Tables, and PDF in one runtime.
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 JavaScript</span>
-						<span>⭐ 71346</span>
-						<span>🔱 4313</span>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 18993</span>
+						<span>🔱 1618</span>
 					</div>
-				<div class="stars-today">⭐ 306 stars today</div>
+				<div class="stars-today">⭐ 845 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/tensorflow/tensorflow" target="_blank">
+    
+
+
+      
+        tensorflow /
+
+      tensorflow</a></p>
+				<p>
+      An Open Source Machine Learning Framework for Everyone
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 C++</span>
+						<span>⭐ 200362</span>
+						<span>🔱 77553</span>
+					</div>
+				<div class="stars-today">⭐ 31 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/rohitg00/ai-engineering-from-scratch" target="_blank">
+    
+
+
+      
+        rohitg00 /
+
+      ai-engineering-from-scratch</a></p>
+				<p>
+      Learn it. Build it. Ship it for others.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 57981</span>
+						<span>🔱 10061</span>
+					</div>
+				<div class="stars-today">⭐ 828 stars today</div>
 				</div>
 			</div>
 	
@@ -360,10 +162,184 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Go</span>
-						<span>⭐ 7844</span>
-						<span>🔱 587</span>
+						<span>⭐ 7898</span>
+						<span>🔱 588</span>
 					</div>
-				<div class="stars-today">⭐ 49 stars today</div>
+				<div class="stars-today">⭐ 360 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/block/buzz" target="_blank">
+    
+
+
+      
+        block /
+
+      buzz</a></p>
+				<p>
+      A hive mind communication platform
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Rust</span>
+						<span>⭐ 34727</span>
+						<span>🔱 4592</span>
+					</div>
+				<div class="stars-today">⭐ 175 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/microsoft/vscode" target="_blank">
+    
+
+
+      
+        microsoft /
+
+      vscode</a></p>
+				<p>
+      Visual Studio Code
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 192980</span>
+						<span>🔱 43470</span>
+					</div>
+				<div class="stars-today">⭐ 78 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/zhaoxuya520/reverse-skill" target="_blank">
+    
+
+
+      
+        zhaoxuya520 /
+
+      reverse-skill</a></p>
+				<p>
+      Reverse Engineering / Authorized Penetration Testing / Security Research Skill Router Pack AI-powered routing + On-demand toolchain bootstrapping + Self-evolving knowledge base Supports Claude Code, Kiro, Cursor, Cline, and other AI coding clients 逆向/渗透/安全技能路由包 - AI 自动路由 + 按需自举工具链 + 自动进化经验库 | 支持 Claude Code / Kiro / Cursor / Cline 等代码 AI 客户端
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 PowerShell</span>
+						<span>⭐ 37774</span>
+						<span>🔱 5252</span>
+					</div>
+				<div class="stars-today">⭐ 409 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/llvm/llvm-project" target="_blank">
+    
+
+
+      
+        llvm /
+
+      llvm-project</a></p>
+				<p>
+      The LLVM Project is a collection of modular and reusable compiler and toolchain technologies.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 LLVM</span>
+						<span>⭐ 40696</span>
+						<span>🔱 18813</span>
+					</div>
+				<div class="stars-today">⭐ 29 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/anthropics/claude-code-action" target="_blank">
+    
+
+
+      
+        anthropics /
+
+      claude-code-action</a></p>
+				<p></p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 8991</span>
+						<span>🔱 2157</span>
+					</div>
+				<div class="stars-today">⭐ 15 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/actions/runner-images" target="_blank">
+    
+
+
+      
+        actions /
+
+      runner-images</a></p>
+				<p>
+      GitHub Actions runner images
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 PowerShell</span>
+						<span>⭐ 13225</span>
+						<span>🔱 3859</span>
+					</div>
+				<div class="stars-today">⭐ 13 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/mobile-next/mobile-mcp" target="_blank">
+    
+
+
+      
+        mobile-next /
+
+      mobile-mcp</a></p>
+				<p>
+      Model Context Protocol Server for Mobile Automation and Scraping (iOS, Android, Emulators, Simulators and Real Devices)
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 7105</span>
+						<span>🔱 628</span>
+					</div>
+				<div class="stars-today">⭐ 143 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/vercel/next.js" target="_blank">
+    
+
+
+      
+        vercel /
+
+      next.js</a></p>
+				<p>
+      The React Framework
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 JavaScript</span>
+						<span>⭐ 142478</span>
+						<span>🔱 33079</span>
+					</div>
+				<div class="stars-today">⭐ 31 stars today</div>
 				</div>
 			</div>
 	
