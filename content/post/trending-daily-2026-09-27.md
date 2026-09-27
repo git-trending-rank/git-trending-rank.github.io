@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2026-09-27
-date: 2026-09-27T07:11:36Z
+date: 2026-09-27T13:20:26Z
 categories:
 - daily
 keywords:
@@ -30,10 +30,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 87937</span>
-						<span>🔱 15489</span>
+						<span>⭐ 88592</span>
+						<span>🔱 15549</span>
 					</div>
-				<div class="stars-today">⭐ 2608 stars today</div>
+				<div class="stars-today">⭐ 2527 stars today</div>
 				</div>
 			</div>
 	
@@ -52,76 +52,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 33821</span>
-						<span>🔱 4000</span>
+						<span>⭐ 35410</span>
+						<span>🔱 4458</span>
 					</div>
-				<div class="stars-today">⭐ 2147 stars today</div>
+				<div class="stars-today">⭐ 4463 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/NVIDIA/Model-Optimizer" target="_blank">
+				<p><a href="https://github.com/debpalash/VoiceStudio" target="_blank">
     
 
 
       
-        NVIDIA /
+        debpalash /
 
-      Model-Optimizer</a></p>
+      VoiceStudio</a></p>
 				<p>
-      A unified library of SOTA model optimization techniques like quantization, distillation, pruning, neural architecture search, speculative decoding, etc. It compresses deep learning models for downstream deployment frameworks like TensorRT-LLM, TensorRT, vLLM, etc. to optimize inference speed.
+      VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 4829</span>
-						<span>🔱 674</span>
+						<span>⭐ 38763</span>
+						<span>🔱 4608</span>
 					</div>
-				<div class="stars-today">⭐ 357 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/dream-num/univer" target="_blank">
-    
-
-
-      
-        dream-num /
-
-      univer</a></p>
-				<p>
-      The Office Harness for AI Agents — Spreadsheets, Docs, Slides, Canvas, Relational Tables, and PDF in one runtime.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 19730</span>
-						<span>🔱 1667</span>
-					</div>
-				<div class="stars-today">⭐ 849 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/tensorflow/tensorflow" target="_blank">
-    
-
-
-      
-        tensorflow /
-
-      tensorflow</a></p>
-				<p>
-      An Open Source Machine Learning Framework for Everyone
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 C++</span>
-						<span>⭐ 200504</span>
-						<span>🔱 77668</span>
-					</div>
-				<div class="stars-today">⭐ 46 stars today</div>
+				<div class="stars-today">⭐ 3060 stars today</div>
 				</div>
 			</div>
 	
@@ -140,206 +96,120 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 58562</span>
-						<span>🔱 10154</span>
+						<span>⭐ 58782</span>
+						<span>🔱 10183</span>
 					</div>
-				<div class="stars-today">⭐ 827 stars today</div>
+				<div class="stars-today">⭐ 848 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/openbao/openbao" target="_blank">
+				<p><a href="https://github.com/InfinityLoop1308/PipePipe" target="_blank">
     
 
 
       
-        openbao /
+        InfinityLoop1308 /
 
-      openbao</a></p>
+      PipePipe</a></p>
 				<p>
-      OpenBao is a software solution to manage, store, and distribute sensitive data including secrets, certificates, and keys.
+      An open-source Android app to let you browse YouTube and other services freely. 
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Go</span>
-						<span>⭐ 8060</span>
-						<span>🔱 592</span>
+						<span>🔠 Shell</span>
+						<span>⭐ 6394</span>
+						<span>🔱 214</span>
 					</div>
-				<div class="stars-today">⭐ 364 stars today</div>
+				<div class="stars-today">⭐ 139 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/block/buzz" target="_blank">
+				<p><a href="https://github.com/vercel-labs/scriptc" target="_blank">
     
 
 
       
-        block /
+        vercel-labs /
 
-      buzz</a></p>
+      scriptc</a></p>
 				<p>
-      A hive mind communication platform
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Rust</span>
-						<span>⭐ 34891</span>
-						<span>🔱 4598</span>
-					</div>
-				<div class="stars-today">⭐ 339 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/microsoft/vscode" target="_blank">
-    
-
-
-      
-        microsoft /
-
-      vscode</a></p>
-				<p>
-      Visual Studio Code
+      TypeScript-to-Native Compiler
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 193116</span>
-						<span>🔱 43607</span>
+						<span>⭐ 5224</span>
+						<span>🔱 134</span>
 					</div>
-				<div class="stars-today">⭐ 95 stars today</div>
+				<div class="stars-today">⭐ 76 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/zhaoxuya520/reverse-skill" target="_blank">
+				<p><a href="https://github.com/mvschwarz/openrig" target="_blank">
     
 
 
       
-        zhaoxuya520 /
+        mvschwarz /
 
-      reverse-skill</a></p>
+      openrig</a></p>
 				<p>
-      Reverse Engineering / Authorized Penetration Testing / Security Research Skill Router Pack AI-powered routing + On-demand toolchain bootstrapping + Self-evolving knowledge base Supports Claude Code, Kiro, Cursor, Cline, and other AI coding clients 逆向/渗透/安全技能路由包 - AI 自动路由 + 按需自举工具链 + 自动进化经验库 | 支持 Claude Code / Kiro / Cursor / Cline 等代码 AI 客户端
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 PowerShell</span>
-						<span>⭐ 38141</span>
-						<span>🔱 5291</span>
-					</div>
-				<div class="stars-today">⭐ 361 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/llvm/llvm-project" target="_blank">
-    
-
-
-      
-        llvm /
-
-      llvm-project</a></p>
-				<p>
-      The LLVM Project is a collection of modular and reusable compiler and toolchain technologies.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 LLVM</span>
-						<span>⭐ 40779</span>
-						<span>🔱 18828</span>
-					</div>
-				<div class="stars-today">⭐ 41 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/anthropics/claude-code-action" target="_blank">
-    
-
-
-      
-        anthropics /
-
-      claude-code-action</a></p>
-				<p></p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 9151</span>
-						<span>🔱 2168</span>
-					</div>
-				<div class="stars-today">⭐ 31 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/actions/runner-images" target="_blank">
-    
-
-
-      
-        actions /
-
-      runner-images</a></p>
-				<p>
-      GitHub Actions runner images
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 PowerShell</span>
-						<span>⭐ 13340</span>
-						<span>🔱 3870</span>
-					</div>
-				<div class="stars-today">⭐ 19 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/mobile-next/mobile-mcp" target="_blank">
-    
-
-
-      
-        mobile-next /
-
-      mobile-mcp</a></p>
-				<p>
-      Model Context Protocol Server for Mobile Automation and Scraping (iOS, Android, Emulators, Simulators and Real Devices)
+      Multi-agent harness that runs Claude Code and Codex together as one system
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 7506</span>
-						<span>🔱 650</span>
+						<span>⭐ 636</span>
+						<span>🔱 80</span>
 					</div>
-				<div class="stars-today">⭐ 168 stars today</div>
+				<div class="stars-today">⭐ 114 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/vercel/next.js" target="_blank">
+				<p><a href="https://github.com/dream-num/univer" target="_blank">
     
 
 
       
-        vercel /
+        dream-num /
 
-      next.js</a></p>
+      univer</a></p>
 				<p>
-      The React Framework
+      The Office Harness for AI Agents — Spreadsheets, Docs, Slides, Canvas, Relational Tables, and PDF in one runtime.
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 JavaScript</span>
-						<span>⭐ 142705</span>
-						<span>🔱 33208</span>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 19885</span>
+						<span>🔱 1692</span>
 					</div>
-				<div class="stars-today">⭐ 54 stars today</div>
+				<div class="stars-today">⭐ 920 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/willfaust/Madeira" target="_blank">
+    
+
+
+      
+        willfaust /
+
+      Madeira</a></p>
+				<p>
+      Run x86-64 Windows PC games on jailed iOS via FEX-Emu + Wine + DXMT
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 C</span>
+						<span>⭐ 693</span>
+						<span>🔱 150</span>
+					</div>
+				<div class="stars-today">⭐ 171 stars today</div>
 				</div>
 			</div>
 	
