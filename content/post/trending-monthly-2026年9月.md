@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2026年9月
-date: 2026-09-28T10:11:31Z
+date: 2026-09-28T18:46:13Z
 categories:
 - monthly
 keywords:
@@ -30,8 +30,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 JavaScript</span>
-						<span>⭐ 22513</span>
-						<span>🔱 1308</span>
+						<span>⭐ 22658</span>
+						<span>🔱 1317</span>
 					</div>
 				<div class="stars-today">⭐ 19427 stars this month</div>
 				</div>
@@ -52,8 +52,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 JavaScript</span>
-						<span>⭐ 44264</span>
-						<span>🔱 8993</span>
+						<span>⭐ 44473</span>
+						<span>🔱 9038</span>
 					</div>
 				<div class="stars-today">⭐ 37567 stars this month</div>
 				</div>
@@ -74,32 +74,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 12301</span>
-						<span>🔱 975</span>
+						<span>⭐ 12463</span>
+						<span>🔱 988</span>
 					</div>
 				<div class="stars-today">⭐ 10481 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/tt-a1i/archify" target="_blank">
-    
-
-
-      
-        tt-a1i /
-
-      archify</a></p>
-				<p>
-      Agent skill for beautiful, verifiable architecture, workflow, sequence, data-flow, and lifecycle diagrams—self-contained HTML with motion and crisp export.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 JavaScript</span>
-						<span>⭐ 73172</span>
-						<span>🔱 4947</span>
-					</div>
-				<div class="stars-today">⭐ 51711 stars this month</div>
 				</div>
 			</div>
 	
@@ -118,10 +96,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Go</span>
-						<span>⭐ 42097</span>
-						<span>🔱 3022</span>
+						<span>⭐ 42242</span>
+						<span>🔱 3030</span>
 					</div>
 				<div class="stars-today">⭐ 20657 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/tt-a1i/archify" target="_blank">
+    
+
+
+      
+        tt-a1i /
+
+      archify</a></p>
+				<p>
+      Agent skill for beautiful, verifiable architecture, workflow, sequence, data-flow, and lifecycle diagrams—self-contained HTML with motion and crisp export.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 JavaScript</span>
+						<span>⭐ 73435</span>
+						<span>🔱 4955</span>
+					</div>
+				<div class="stars-today">⭐ 51711 stars this month</div>
 				</div>
 			</div>
 	
@@ -140,32 +140,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 3624</span>
-						<span>🔱 293</span>
+						<span>⭐ 3705</span>
+						<span>🔱 299</span>
 					</div>
 				<div class="stars-today">⭐ 2945 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/THU-MAIC/OpenMAIC" target="_blank">
-    
-
-
-      
-        THU-MAIC /
-
-      OpenMAIC</a></p>
-				<p>
-      Open Multi-Agent Interactive Classroom — Get an immersive, multi-agent learning experience in just one click
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 39348</span>
-						<span>🔱 6113</span>
-					</div>
-				<div class="stars-today">⭐ 18484 stars this month</div>
 				</div>
 			</div>
 	
@@ -184,32 +162,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 41336</span>
-						<span>🔱 4901</span>
+						<span>⭐ 43246</span>
+						<span>🔱 5041</span>
 					</div>
 				<div class="stars-today">⭐ 27329 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/pollen-robotics/microduck_rl" target="_blank">
-    
-
-
-      
-        pollen-robotics /
-
-      microduck_rl</a></p>
-				<p>
-      RL training environments for Microduck (mjlab)
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 2307</span>
-						<span>🔱 498</span>
-					</div>
-				<div class="stars-today">⭐ 2276 stars this month</div>
 				</div>
 			</div>
 	
@@ -228,10 +184,52 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Rust</span>
-						<span>⭐ 5317</span>
-						<span>🔱 379</span>
+						<span>⭐ 5372</span>
+						<span>🔱 381</span>
 					</div>
 				<div class="stars-today">⭐ 3743 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/anthropics/financial-services" target="_blank">
+    
+
+
+      
+        anthropics /
+
+      financial-services</a></p>
+				<p></p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 38016</span>
+						<span>🔱 5479</span>
+					</div>
+				<div class="stars-today">⭐ 3340 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/THU-MAIC/OpenMAIC" target="_blank">
+    
+
+
+      
+        THU-MAIC /
+
+      OpenMAIC</a></p>
+				<p>
+      Open Multi-Agent Interactive Classroom — Get an immersive, multi-agent learning experience in just one click
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 39393</span>
+						<span>🔱 6117</span>
+					</div>
+				<div class="stars-today">⭐ 18484 stars this month</div>
 				</div>
 			</div>
 	
@@ -250,52 +248,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 6940</span>
-						<span>🔱 555</span>
+						<span>⭐ 6967</span>
+						<span>🔱 558</span>
 					</div>
 				<div class="stars-today">⭐ 1954 stars this month</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/anthropics/financial-services" target="_blank">
+				<p><a href="https://github.com/pollen-robotics/microduck_rl" target="_blank">
     
 
 
       
-        anthropics /
+        pollen-robotics /
 
-      financial-services</a></p>
-				<p></p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 37947</span>
-						<span>🔱 5473</span>
-					</div>
-				<div class="stars-today">⭐ 3340 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/ayghri/i-have-adhd" target="_blank">
-    
-
-
-      
-        ayghri /
-
-      i-have-adhd</a></p>
+      microduck_rl</a></p>
 				<p>
-      A skill to stop your coding agent from burying the answer. ADHD-friendly output.
+      RL training environments for Microduck (mjlab)
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 51719</span>
-						<span>🔱 2982</span>
+						<span>⭐ 2319</span>
+						<span>🔱 501</span>
 					</div>
-				<div class="stars-today">⭐ 26939 stars this month</div>
+				<div class="stars-today">⭐ 2276 stars this month</div>
 				</div>
 			</div>
 	
@@ -314,54 +292,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Go</span>
-						<span>⭐ 30799</span>
-						<span>🔱 4118</span>
+						<span>⭐ 30914</span>
+						<span>🔱 4130</span>
 					</div>
 				<div class="stars-today">⭐ 9985 stars this month</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/google-research/timesfm" target="_blank">
+				<p><a href="https://github.com/ayghri/i-have-adhd" target="_blank">
     
 
 
       
-        google-research /
+        ayghri /
 
-      timesfm</a></p>
+      i-have-adhd</a></p>
 				<p>
-      TimesFM (Time Series Foundation Model) is a pretrained time-series foundation model developed by Google Research for time-series forecasting.
+      A skill to stop your coding agent from burying the answer. ADHD-friendly output.
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 33895</span>
-						<span>🔱 3262</span>
+						<span>⭐ 51845</span>
+						<span>🔱 2986</span>
 					</div>
-				<div class="stars-today">⭐ 5681 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/every-app/open-seo" target="_blank">
-    
-
-
-      
-        every-app /
-
-      open-seo</a></p>
-				<p>
-      Open source alternative to Semrush and Ahrefs
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 21460</span>
-						<span>🔱 2756</span>
-					</div>
-				<div class="stars-today">⭐ 7792 stars this month</div>
+				<div class="stars-today">⭐ 26939 stars this month</div>
 				</div>
 			</div>
 	
@@ -380,10 +336,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 8845</span>
-						<span>🔱 830</span>
+						<span>⭐ 8884</span>
+						<span>🔱 832</span>
 					</div>
 				<div class="stars-today">⭐ 3379 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/google-research/timesfm" target="_blank">
+    
+
+
+      
+        google-research /
+
+      timesfm</a></p>
+				<p>
+      TimesFM (Time Series Foundation Model) is a pretrained time-series foundation model developed by Google Research for time-series forecasting.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 33921</span>
+						<span>🔱 3263</span>
+					</div>
+				<div class="stars-today">⭐ 5681 stars this month</div>
 				</div>
 			</div>
 	
@@ -402,10 +380,54 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 7649</span>
+						<span>⭐ 7715</span>
 						<span>🔱 549</span>
 					</div>
 				<div class="stars-today">⭐ 6144 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/every-app/open-seo" target="_blank">
+    
+
+
+      
+        every-app /
+
+      open-seo</a></p>
+				<p>
+      Open source alternative to Semrush and Ahrefs
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 21531</span>
+						<span>🔱 2764</span>
+					</div>
+				<div class="stars-today">⭐ 7792 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/DietrichGebert/ponytail" target="_blank">
+    
+
+
+      
+        DietrichGebert /
+
+      ponytail</a></p>
+				<p>
+      Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 JavaScript</span>
+						<span>⭐ 147448</span>
+						<span>🔱 7918</span>
+					</div>
+				<div class="stars-today">⭐ 33812 stars this month</div>
 				</div>
 			</div>
 	

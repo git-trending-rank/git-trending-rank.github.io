@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2026年第40周
-date: 2026-09-28T10:11:31Z
+date: 2026-09-28T18:46:13Z
 categories:
 - weekly
 keywords:
@@ -28,8 +28,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 37947</span>
-						<span>🔱 5473</span>
+						<span>⭐ 38016</span>
+						<span>🔱 5479</span>
 					</div>
 				<div class="stars-today">⭐ 2606 stars this week</div>
 				</div>
@@ -50,8 +50,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 91373</span>
-						<span>🔱 15786</span>
+						<span>⭐ 92354</span>
+						<span>🔱 15857</span>
 					</div>
 				<div class="stars-today">⭐ 7364 stars this week</div>
 				</div>
@@ -72,8 +72,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 39275</span>
-						<span>🔱 5188</span>
+						<span>⭐ 40698</span>
+						<span>🔱 5509</span>
 					</div>
 				<div class="stars-today">⭐ 11089 stars this week</div>
 				</div>
@@ -94,32 +94,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 JavaScript</span>
-						<span>⭐ 22513</span>
-						<span>🔱 1308</span>
+						<span>⭐ 22658</span>
+						<span>🔱 1317</span>
 					</div>
 				<div class="stars-today">⭐ 4805 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/Tencent/WeKnora" target="_blank">
-    
-
-
-      
-        Tencent /
-
-      WeKnora</a></p>
-				<p>
-      Open-source LLM knowledge platform: turn raw documents into a queryable RAG, an autonomous reasoning agent, and a self-maintaining Wiki.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Go</span>
-						<span>⭐ 30799</span>
-						<span>🔱 4118</span>
-					</div>
-				<div class="stars-today">⭐ 2705 stars this week</div>
 				</div>
 			</div>
 	
@@ -138,32 +116,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 32026</span>
-						<span>🔱 3647</span>
+						<span>⭐ 32062</span>
+						<span>🔱 3650</span>
 					</div>
 				<div class="stars-today">⭐ 1154 stars this week</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/stablyai/orca" target="_blank">
+				<p><a href="https://github.com/Tencent/WeKnora" target="_blank">
     
 
 
       
-        stablyai /
+        Tencent /
 
-      orca</a></p>
+      WeKnora</a></p>
 				<p>
-      Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime.
+      Open-source LLM knowledge platform: turn raw documents into a queryable RAG, an autonomous reasoning agent, and a self-maintaining Wiki.
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 80142</span>
-						<span>🔱 5229</span>
+						<span>🔠 Go</span>
+						<span>⭐ 30914</span>
+						<span>🔱 4130</span>
 					</div>
-				<div class="stars-today">⭐ 6227 stars this week</div>
+				<div class="stars-today">⭐ 2705 stars this week</div>
 				</div>
 			</div>
 	
@@ -182,10 +160,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 JavaScript</span>
-						<span>⭐ 142824</span>
-						<span>🔱 33345</span>
+						<span>⭐ 142849</span>
+						<span>🔱 33344</span>
 					</div>
 				<div class="stars-today">⭐ 496 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/stablyai/orca" target="_blank">
+    
+
+
+      
+        stablyai /
+
+      orca</a></p>
+				<p>
+      Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 80556</span>
+						<span>🔱 5244</span>
+					</div>
+				<div class="stars-today">⭐ 6227 stars this week</div>
 				</div>
 			</div>
 	
@@ -204,8 +204,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 50820</span>
-						<span>🔱 4644</span>
+						<span>⭐ 50869</span>
+						<span>🔱 4646</span>
 					</div>
 				<div class="stars-today">⭐ 1105 stars this week</div>
 				</div>
@@ -226,54 +226,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 103436</span>
-						<span>🔱 30811</span>
+						<span>⭐ 103461</span>
+						<span>🔱 30812</span>
 					</div>
 				<div class="stars-today">⭐ 320 stars this week</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/anthropics/claude-code" target="_blank">
+				<p><a href="https://github.com/debpalash/VoiceStudio" target="_blank">
     
 
 
       
-        anthropics /
+        debpalash /
 
-      claude-code</a></p>
+      VoiceStudio</a></p>
 				<p>
-      Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.
+      VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 148415</span>
-						<span>🔱 24901</span>
+						<span>🔠 Python</span>
+						<span>⭐ 43246</span>
+						<span>🔱 5041</span>
 					</div>
-				<div class="stars-today">⭐ 1493 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/affaan-m/ECC" target="_blank">
-    
-
-
-      
-        affaan-m /
-
-      ECC</a></p>
-				<p>
-      The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 JavaScript</span>
-						<span>⭐ 268620</span>
-						<span>🔱 40131</span>
-					</div>
-				<div class="stars-today">⭐ 5175 stars this week</div>
+				<div class="stars-today">⭐ 7793 stars this week</div>
 				</div>
 			</div>
 	
@@ -292,98 +270,54 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 59973</span>
-						<span>🔱 10321</span>
+						<span>⭐ 60217</span>
+						<span>🔱 10369</span>
 					</div>
 				<div class="stars-today">⭐ 3850 stars this week</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/alibaba/open-code-review" target="_blank">
+				<p><a href="https://github.com/trycua/cua" target="_blank">
     
 
 
       
-        alibaba /
+        trycua /
 
-      open-code-review</a></p>
+      cua</a></p>
 				<p>
-      Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.
+      Scale computer-use 2.0 with open-source drivers, cross-OS fleets, and benchmarks for training, evaluation, and data generation.
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Go</span>
-						<span>⭐ 42097</span>
-						<span>🔱 3022</span>
+						<span>🔠 HTML</span>
+						<span>⭐ 26819</span>
+						<span>🔱 1866</span>
 					</div>
-				<div class="stars-today">⭐ 3727 stars this week</div>
+				<div class="stars-today">⭐ 1559 stars this week</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/cloudflare/quiche" target="_blank">
+				<p><a href="https://github.com/akitaonrails/ai-memory" target="_blank">
     
 
 
       
-        cloudflare /
+        akitaonrails /
 
-      quiche</a></p>
+      ai-memory</a></p>
 				<p>
-      🥧 Savoury implementation of the QUIC transport protocol and HTTP/3
+      Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Rust</span>
-						<span>⭐ 12677</span>
-						<span>🔱 1151</span>
+						<span>⭐ 8544</span>
+						<span>🔱 582</span>
 					</div>
-				<div class="stars-today">⭐ 521 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/TencentCloud/Octop" target="_blank">
-    
-
-
-      
-        TencentCloud /
-
-      Octop</a></p>
-				<p>
-      A smarter, self-hosted AI assistant — multi-user, multi-agent.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 5427</span>
-						<span>🔱 663</span>
-					</div>
-				<div class="stars-today">⭐ 869 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/anthropics/knowledge-work-plugins" target="_blank">
-    
-
-
-      
-        anthropics /
-
-      knowledge-work-plugins</a></p>
-				<p>
-      Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 25791</span>
-						<span>🔱 3037</span>
-					</div>
-				<div class="stars-today">⭐ 478 stars this week</div>
+				<div class="stars-today">⭐ 1224 stars this week</div>
 				</div>
 			</div>
 	
@@ -402,10 +336,76 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 5525</span>
-						<span>🔱 262</span>
+						<span>⭐ 5545</span>
+						<span>🔱 264</span>
 					</div>
 				<div class="stars-today">⭐ 432 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/TencentCloud/Octop" target="_blank">
+    
+
+
+      
+        TencentCloud /
+
+      Octop</a></p>
+				<p>
+      A smarter, self-hosted AI assistant — multi-user, multi-agent.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 5489</span>
+						<span>🔱 673</span>
+					</div>
+				<div class="stars-today">⭐ 869 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/cloudflare/quiche" target="_blank">
+    
+
+
+      
+        cloudflare /
+
+      quiche</a></p>
+				<p>
+      🥧 Savoury implementation of the QUIC transport protocol and HTTP/3
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Rust</span>
+						<span>⭐ 12686</span>
+						<span>🔱 1152</span>
+					</div>
+				<div class="stars-today">⭐ 521 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/elastic/elasticsearch" target="_blank">
+    
+
+
+      
+        elastic /
+
+      elasticsearch</a></p>
+				<p>
+      Free and Open Source, Distributed, RESTful Search Engine
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Java</span>
+						<span>⭐ 78036</span>
+						<span>🔱 26092</span>
+					</div>
+				<div class="stars-today">⭐ 94 stars this week</div>
 				</div>
 			</div>
 	

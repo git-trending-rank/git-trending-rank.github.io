@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2026-09-28
-date: 2026-09-28T10:11:30Z
+date: 2026-09-28T18:46:13Z
 categories:
 - daily
 keywords:
@@ -14,6 +14,28 @@ keywords:
 	<main class="container">
         <div class="repo-list" id="repoList">
 
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/debpalash/VoiceStudio" target="_blank">
+    
+
+
+      
+        debpalash /
+
+      VoiceStudio</a></p>
+				<p>
+      VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 43246</span>
+						<span>🔱 5041</span>
+					</div>
+				<div class="stars-today">⭐ 3274 stars today</div>
+				</div>
+			</div>
 	
 			<div class="repo-card">
 				<p><a href="https://github.com/paperclipai/paperclip" target="_blank">
@@ -30,10 +52,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 91373</span>
-						<span>🔱 15786</span>
+						<span>⭐ 92354</span>
+						<span>🔱 15857</span>
 					</div>
-				<div class="stars-today">⭐ 2401 stars today</div>
+				<div class="stars-today">⭐ 3185 stars today</div>
 				</div>
 			</div>
 	
@@ -52,98 +74,76 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 39275</span>
-						<span>🔱 5188</span>
+						<span>⭐ 40698</span>
+						<span>🔱 5509</span>
 					</div>
-				<div class="stars-today">⭐ 4520 stars today</div>
+				<div class="stars-today">⭐ 4413 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/debpalash/VoiceStudio" target="_blank">
+				<p><a href="https://github.com/NawfalMotii79/PLFM_RADAR" target="_blank">
     
 
 
       
-        debpalash /
+        NawfalMotii79 /
 
-      VoiceStudio</a></p>
+      PLFM_RADAR</a></p>
 				<p>
-      VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.
+      Open-source, low-cost 10.5 GHz PLFM phased array RADAR system
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 41336</span>
-						<span>🔱 4901</span>
+						<span>🔠 PLSQL</span>
+						<span>⭐ 25685</span>
+						<span>🔱 5882</span>
 					</div>
-				<div class="stars-today">⭐ 3086 stars today</div>
+				<div class="stars-today">⭐ 145 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/rohitg00/ai-engineering-from-scratch" target="_blank">
+				<p><a href="https://github.com/cs341-illinois/coursebook" target="_blank">
     
 
 
       
-        rohitg00 /
+        cs341-illinois /
 
-      ai-engineering-from-scratch</a></p>
+      coursebook</a></p>
 				<p>
-      Learn it. Build it. Ship it for others.
+      Open Source Introductory Systems Programming Textbook for the University of Illinois
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 59973</span>
-						<span>🔱 10321</span>
+						<span>🔠 TeX</span>
+						<span>⭐ 2406</span>
+						<span>🔱 230</span>
 					</div>
-				<div class="stars-today">⭐ 790 stars today</div>
+				<div class="stars-today">⭐ 316 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/InfinityLoop1308/PipePipe" target="_blank">
+				<p><a href="https://github.com/byoungd/up" target="_blank">
     
 
 
       
-        InfinityLoop1308 /
+        byoungd /
 
-      PipePipe</a></p>
+      up</a></p>
 				<p>
-      An open-source Android app to let you browse YouTube and other services freely. 
+      An advanced guide which might benefit you a lot 🎉 . 韩先凯的人生进阶指南 人生进阶指南 离谱的人生 人生进阶 AI学习 AI指南 韩先凯的AI学习指南 英语学习指南/英语学习教程/英语学习/学英语
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Shell</span>
-						<span>⭐ 6755</span>
-						<span>🔱 227</span>
+						<span>🔠 JavaScript</span>
+						<span>⭐ 64576</span>
+						<span>🔱 6506</span>
 					</div>
-				<div class="stars-today">⭐ 242 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/vercel-labs/scriptc" target="_blank">
-    
-
-
-      
-        vercel-labs /
-
-      scriptc</a></p>
-				<p>
-      TypeScript-to-Native Compiler
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 5563</span>
-						<span>🔱 143</span>
-					</div>
-				<div class="stars-today">⭐ 102 stars today</div>
+				<div class="stars-today">⭐ 310 stars today</div>
 				</div>
 			</div>
 	
@@ -162,10 +162,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 1295</span>
-						<span>🔱 117</span>
+						<span>⭐ 1565</span>
+						<span>🔱 129</span>
 					</div>
-				<div class="stars-today">⭐ 114 stars today</div>
+				<div class="stars-today">⭐ 781 stars today</div>
 				</div>
 			</div>
 	
@@ -184,32 +184,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 20888</span>
-						<span>🔱 1771</span>
+						<span>⭐ 21118</span>
+						<span>🔱 1795</span>
 					</div>
-				<div class="stars-today">⭐ 895 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/willfaust/Madeira" target="_blank">
-    
-
-
-      
-        willfaust /
-
-      Madeira</a></p>
-				<p>
-      Run x86-64 Windows PC games on jailed iOS via FEX-Emu + Wine + DXMT
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 C</span>
-						<span>⭐ 923</span>
-						<span>🔱 157</span>
-					</div>
-				<div class="stars-today">⭐ 83 stars today</div>
+				<div class="stars-today">⭐ 1105 stars today</div>
 				</div>
 			</div>
 	
