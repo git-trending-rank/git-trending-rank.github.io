@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2026年9月
-date: 2026-09-30T07:31:39Z
+date: 2026-09-30T14:15:40Z
 categories:
 - monthly
 keywords:
@@ -30,8 +30,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 JavaScript</span>
-						<span>⭐ 45237</span>
-						<span>🔱 9237</span>
+						<span>⭐ 45412</span>
+						<span>🔱 9277</span>
 					</div>
 				<div class="stars-today">⭐ 33308 stars this month</div>
 				</div>
@@ -52,8 +52,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Go</span>
-						<span>⭐ 42704</span>
-						<span>🔱 3070</span>
+						<span>⭐ 42805</span>
+						<span>🔱 3080</span>
 					</div>
 				<div class="stars-today">⭐ 21236 stars this month</div>
 				</div>
@@ -74,32 +74,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 JavaScript</span>
-						<span>⭐ 269795</span>
-						<span>🔱 40318</span>
+						<span>⭐ 269977</span>
+						<span>🔱 40348</span>
 					</div>
 				<div class="stars-today">⭐ 26837 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/tt-a1i/archify" target="_blank">
-    
-
-
-      
-        tt-a1i /
-
-      archify</a></p>
-				<p>
-      Agent skill for beautiful, verifiable architecture, workflow, sequence, data-flow, and lifecycle diagrams—self-contained HTML with motion and crisp export.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 JavaScript</span>
-						<span>⭐ 74577</span>
-						<span>🔱 5010</span>
-					</div>
-				<div class="stars-today">⭐ 45168 stars this month</div>
 				</div>
 			</div>
 	
@@ -118,10 +96,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 52241</span>
-						<span>🔱 3008</span>
+						<span>⭐ 52306</span>
+						<span>🔱 3014</span>
 					</div>
 				<div class="stars-today">⭐ 26845 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/tt-a1i/archify" target="_blank">
+    
+
+
+      
+        tt-a1i /
+
+      archify</a></p>
+				<p>
+      Agent skill for beautiful, verifiable architecture, workflow, sequence, data-flow, and lifecycle diagrams—self-contained HTML with motion and crisp export.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 JavaScript</span>
+						<span>⭐ 74900</span>
+						<span>🔱 5028</span>
+					</div>
+				<div class="stars-today">⭐ 45168 stars this month</div>
 				</div>
 			</div>
 	
@@ -140,8 +140,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Go</span>
-						<span>⭐ 31355</span>
-						<span>🔱 4190</span>
+						<span>⭐ 31441</span>
+						<span>🔱 4200</span>
 					</div>
 				<div class="stars-today">⭐ 10525 stars this month</div>
 				</div>
@@ -162,32 +162,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 3874</span>
-						<span>🔱 321</span>
+						<span>⭐ 3904</span>
+						<span>🔱 324</span>
 					</div>
 				<div class="stars-today">⭐ 3121 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/THU-MAIC/OpenMAIC" target="_blank">
-    
-
-
-      
-        THU-MAIC /
-
-      OpenMAIC</a></p>
-				<p>
-      Open Multi-Agent Interactive Classroom — Get an immersive, multi-agent learning experience in just one click
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 39606</span>
-						<span>🔱 6144</span>
-					</div>
-				<div class="stars-today">⭐ 18126 stars this month</div>
 				</div>
 			</div>
 	
@@ -204,32 +182,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 38286</span>
-						<span>🔱 5512</span>
+						<span>⭐ 38322</span>
+						<span>🔱 5516</span>
 					</div>
 				<div class="stars-today">⭐ 3705 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/fmtlib/fmt" target="_blank">
-    
-
-
-      
-        fmtlib /
-
-      fmt</a></p>
-				<p>
-      A modern formatting library
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 C++</span>
-						<span>⭐ 25842</span>
-						<span>🔱 3072</span>
-					</div>
-				<div class="stars-today">⭐ 2109 stars this month</div>
 				</div>
 			</div>
 	
@@ -248,32 +204,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 24264</span>
-						<span>🔱 1756</span>
+						<span>⭐ 24330</span>
+						<span>🔱 1757</span>
 					</div>
 				<div class="stars-today">⭐ 4077 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/DietrichGebert/ponytail" target="_blank">
-    
-
-
-      
-        DietrichGebert /
-
-      ponytail</a></p>
-				<p>
-      Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 JavaScript</span>
-						<span>⭐ 148422</span>
-						<span>🔱 7985</span>
-					</div>
-				<div class="stars-today">⭐ 32714 stars this month</div>
 				</div>
 			</div>
 	
@@ -292,10 +226,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 94795</span>
-						<span>🔱 16093</span>
+						<span>⭐ 95064</span>
+						<span>🔱 16137</span>
 					</div>
 				<div class="stars-today">⭐ 14643 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/DietrichGebert/ponytail" target="_blank">
+    
+
+
+      
+        DietrichGebert /
+
+      ponytail</a></p>
+				<p>
+      Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 JavaScript</span>
+						<span>⭐ 148706</span>
+						<span>🔱 8001</span>
+					</div>
+				<div class="stars-today">⭐ 32714 stars this month</div>
 				</div>
 			</div>
 	
@@ -314,8 +270,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 54338</span>
-						<span>🔱 4944</span>
+						<span>⭐ 54464</span>
+						<span>🔱 4951</span>
 					</div>
 				<div class="stars-today">⭐ 11262 stars this month</div>
 				</div>
@@ -336,10 +292,76 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 43238</span>
-						<span>🔱 5812</span>
+						<span>⭐ 43566</span>
+						<span>🔱 5823</span>
 					</div>
 				<div class="stars-today">⭐ 20640 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/THU-MAIC/OpenMAIC" target="_blank">
+    
+
+
+      
+        THU-MAIC /
+
+      OpenMAIC</a></p>
+				<p>
+      Open Multi-Agent Interactive Classroom — Get an immersive, multi-agent learning experience in just one click
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 39639</span>
+						<span>🔱 6149</span>
+					</div>
+				<div class="stars-today">⭐ 18126 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/anthropics/claude-code" target="_blank">
+    
+
+
+      
+        anthropics /
+
+      claude-code</a></p>
+				<p>
+      Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 148666</span>
+						<span>🔱 25104</span>
+					</div>
+				<div class="stars-today">⭐ 5891 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/jingyaogong/minimind" target="_blank">
+    
+
+
+      
+        jingyaogong /
+
+      minimind</a></p>
+				<p>
+      🧠 Train a 64M-parameter LLM from scratch in just 2h!
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 62944</span>
+						<span>🔱 8180</span>
+					</div>
+				<div class="stars-today">⭐ 7972 stars this month</div>
 				</div>
 			</div>
 	
@@ -358,8 +380,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 9036</span>
-						<span>🔱 849</span>
+						<span>⭐ 9104</span>
+						<span>🔱 854</span>
 					</div>
 				<div class="stars-today">⭐ 3072 stars this month</div>
 				</div>
@@ -380,32 +402,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 HTML</span>
-						<span>⭐ 27441</span>
-						<span>🔱 1922</span>
+						<span>⭐ 27506</span>
+						<span>🔱 1930</span>
 					</div>
 				<div class="stars-today">⭐ 5156 stars this month</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/max-sixty/worktrunk" target="_blank">
+				<p><a href="https://github.com/TencentCloud/Octop" target="_blank">
     
 
 
       
-        max-sixty /
+        TencentCloud /
 
-      worktrunk</a></p>
+      Octop</a></p>
 				<p>
-      Worktrunk is a CLI for Git worktree management, designed for parallel AI agent workflows
+      A smarter, self-hosted AI assistant — multi-user, multi-agent.
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Rust</span>
-						<span>⭐ 8521</span>
-						<span>🔱 303</span>
+						<span>🔠 Python</span>
+						<span>⭐ 6005</span>
+						<span>🔱 753</span>
 					</div>
-				<div class="stars-today">⭐ 1843 stars this month</div>
+				<div class="stars-today">⭐ 4544 stars this month</div>
 				</div>
 			</div>
 	
@@ -424,54 +446,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 18677</span>
-						<span>🔱 1628</span>
+						<span>⭐ 18723</span>
+						<span>🔱 1630</span>
 					</div>
 				<div class="stars-today">⭐ 3454 stars this month</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/longbridge/gpui-kit" target="_blank">
+				<p><a href="https://github.com/max-sixty/worktrunk" target="_blank">
     
 
 
       
-        longbridge /
+        max-sixty /
 
-      gpui-kit</a></p>
+      worktrunk</a></p>
 				<p>
-      Rust GUI components for building fantastic cross-platform desktop application by using GPUI.
+      Worktrunk is a CLI for Git worktree management, designed for parallel AI agent workflows
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Rust</span>
-						<span>⭐ 15152</span>
-						<span>🔱 947</span>
+						<span>⭐ 8537</span>
+						<span>🔱 304</span>
 					</div>
-				<div class="stars-today">⭐ 1454 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/every-app/open-seo" target="_blank">
-    
-
-
-      
-        every-app /
-
-      open-seo</a></p>
-				<p>
-      Open source alternative to Semrush and Ahrefs
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 21812</span>
-						<span>🔱 2794</span>
-					</div>
-				<div class="stars-today">⭐ 7379 stars this month</div>
+				<div class="stars-today">⭐ 1843 stars this month</div>
 				</div>
 			</div>
 	
@@ -490,32 +490,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 25887</span>
-						<span>🔱 3046</span>
+						<span>⭐ 25906</span>
+						<span>🔱 3047</span>
 					</div>
 				<div class="stars-today">⭐ 2192 stars this month</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/ahujasid/mcp-for-blender" target="_blank">
+				<p><a href="https://github.com/longbridge/gpui-kit" target="_blank">
     
 
 
       
-        ahujasid /
+        longbridge /
 
-      mcp-for-blender</a></p>
+      gpui-kit</a></p>
 				<p>
-      Community plugin to control Blender 3D with any LLM of your choice
+      Rust GUI components for building fantastic cross-platform desktop application by using GPUI.
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 29697</span>
-						<span>🔱 2702</span>
+						<span>🔠 Rust</span>
+						<span>⭐ 15205</span>
+						<span>🔱 951</span>
 					</div>
-				<div class="stars-today">⭐ 3209 stars this month</div>
+				<div class="stars-today">⭐ 1454 stars this month</div>
 				</div>
 			</div>
 	

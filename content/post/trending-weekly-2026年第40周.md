@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2026年第40周
-date: 2026-09-30T07:31:40Z
+date: 2026-09-30T14:15:40Z
 categories:
 - weekly
 keywords:
@@ -30,30 +30,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 94795</span>
-						<span>🔱 16093</span>
+						<span>⭐ 95064</span>
+						<span>🔱 16137</span>
 					</div>
 				<div class="stars-today">⭐ 12941 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/anthropics/financial-services" target="_blank">
-    
-
-
-      
-        anthropics /
-
-      financial-services</a></p>
-				<p></p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 38286</span>
-						<span>🔱 5512</span>
-					</div>
-				<div class="stars-today">⭐ 2114 stars this week</div>
 				</div>
 			</div>
 	
@@ -72,10 +52,30 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 43238</span>
-						<span>🔱 5812</span>
+						<span>⭐ 43566</span>
+						<span>🔱 5823</span>
 					</div>
 				<div class="stars-today">⭐ 17365 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/anthropics/financial-services" target="_blank">
+    
+
+
+      
+        anthropics /
+
+      financial-services</a></p>
+				<p></p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 38322</span>
+						<span>🔱 5516</span>
+					</div>
+				<div class="stars-today">⭐ 2114 stars this week</div>
 				</div>
 			</div>
 	
@@ -94,8 +94,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 49049</span>
-						<span>🔱 5475</span>
+						<span>⭐ 49850</span>
+						<span>🔱 5541</span>
 					</div>
 				<div class="stars-today">⭐ 12722 stars this week</div>
 				</div>
@@ -116,8 +116,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 61744</span>
-						<span>🔱 10565</span>
+						<span>⭐ 62014</span>
+						<span>🔱 10600</span>
 					</div>
 				<div class="stars-today">⭐ 5830 stars this week</div>
 				</div>
@@ -138,7 +138,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 JavaScript</span>
-						<span>⭐ 142909</span>
+						<span>⭐ 142922</span>
 						<span>🔱 33549</span>
 					</div>
 				<div class="stars-today">⭐ 582 stars this week</div>
@@ -160,8 +160,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 51053</span>
-						<span>🔱 4659</span>
+						<span>⭐ 51087</span>
+						<span>🔱 4660</span>
 					</div>
 				<div class="stars-today">⭐ 1327 stars this week</div>
 				</div>
@@ -182,32 +182,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 32197</span>
-						<span>🔱 3654</span>
+						<span>⭐ 32218</span>
+						<span>🔱 3658</span>
 					</div>
 				<div class="stars-today">⭐ 1218 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/stablyai/orca" target="_blank">
-    
-
-
-      
-        stablyai /
-
-      orca</a></p>
-				<p>
-      Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 81878</span>
-						<span>🔱 5314</span>
-					</div>
-				<div class="stars-today">⭐ 6242 stars this week</div>
 				</div>
 			</div>
 	
@@ -226,54 +204,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 103538</span>
-						<span>🔱 31021</span>
+						<span>⭐ 103545</span>
+						<span>🔱 31024</span>
 					</div>
 				<div class="stars-today">⭐ 399 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/Tencent/WeKnora" target="_blank">
-    
-
-
-      
-        Tencent /
-
-      WeKnora</a></p>
-				<p>
-      Open-source LLM knowledge platform: turn raw documents into a queryable RAG, an autonomous reasoning agent, and a self-maintaining Wiki.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Go</span>
-						<span>⭐ 31355</span>
-						<span>🔱 4190</span>
-					</div>
-				<div class="stars-today">⭐ 2397 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/cloudflare/security-audit-skill" target="_blank">
-    
-
-
-      
-        cloudflare /
-
-      security-audit-skill</a></p>
-				<p>
-      A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 JavaScript</span>
-						<span>⭐ 23277</span>
-						<span>🔱 1362</span>
-					</div>
-				<div class="stars-today">⭐ 3311 stars this week</div>
 				</div>
 			</div>
 	
@@ -292,8 +226,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 JavaScript</span>
-						<span>⭐ 72709</span>
-						<span>🔱 4392</span>
+						<span>⭐ 72831</span>
+						<span>🔱 4396</span>
 					</div>
 				<div class="stars-today">⭐ 2644 stars this week</div>
 				</div>
@@ -314,54 +248,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 5927</span>
-						<span>🔱 742</span>
+						<span>⭐ 6005</span>
+						<span>🔱 753</span>
 					</div>
 				<div class="stars-today">⭐ 1128 stars this week</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/trycua/cua" target="_blank">
+				<p><a href="https://github.com/stablyai/orca" target="_blank">
     
 
 
       
-        trycua /
+        stablyai /
 
-      cua</a></p>
+      orca</a></p>
 				<p>
-      Scale computer-use 2.0 with open-source drivers, cross-OS fleets, and benchmarks for training, evaluation, and data generation.
+      Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime.
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 HTML</span>
-						<span>⭐ 27441</span>
-						<span>🔱 1922</span>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 82101</span>
+						<span>🔱 5331</span>
 					</div>
-				<div class="stars-today">⭐ 1211 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/PrismML-Eng/Bonsai-demo" target="_blank">
-    
-
-
-      
-        PrismML-Eng /
-
-      Bonsai-demo</a></p>
-				<p>
-      Bonsai Demo
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Shell</span>
-						<span>⭐ 3231</span>
-						<span>🔱 351</span>
-					</div>
-				<div class="stars-today">⭐ 210 stars this week</div>
+				<div class="stars-today">⭐ 6242 stars this week</div>
 				</div>
 			</div>
 	
@@ -380,10 +292,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Java</span>
-						<span>⭐ 78142</span>
+						<span>⭐ 78150</span>
 						<span>🔱 26095</span>
 					</div>
 				<div class="stars-today">⭐ 169 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/Tencent/WeKnora" target="_blank">
+    
+
+
+      
+        Tencent /
+
+      WeKnora</a></p>
+				<p>
+      Open-source LLM knowledge platform: turn raw documents into a queryable RAG, an autonomous reasoning agent, and a self-maintaining Wiki.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Go</span>
+						<span>⭐ 31441</span>
+						<span>🔱 4200</span>
+					</div>
+				<div class="stars-today">⭐ 2397 stars this week</div>
 				</div>
 			</div>
 	
@@ -402,10 +336,74 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 5593</span>
-						<span>🔱 264</span>
+						<span>⭐ 5599</span>
+						<span>🔱 265</span>
 					</div>
 				<div class="stars-today">⭐ 502 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/alirezarezvani/claude-skills" target="_blank">
+    
+
+
+      
+        alirezarezvani /
+
+      claude-skills</a></p>
+				<p>
+      380 Claude Code skills & agent skills & plugins (30+ Agents, 70+ custom commands, 380+ skills, customizable references, scripts)for Claude Code, Codex, Gemini CLI, Cursor, and 8 more coding agents — engineering, marketing, product, compliance, C-level advisory, research, business operations, commercial & finance, and your daily productivity skills.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 26988</span>
+						<span>🔱 3816</span>
+					</div>
+				<div class="stars-today">⭐ 707 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/dream-num/univer" target="_blank">
+    
+
+
+      
+        dream-num /
+
+      univer</a></p>
+				<p>
+      The Office Harness for AI Agents — Spreadsheets, Docs, Slides, Canvas, Relational Tables, and PDF in one runtime.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 22124</span>
+						<span>🔱 1866</span>
+					</div>
+				<div class="stars-today">⭐ 6666 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/anthropics/claude-code-action" target="_blank">
+    
+
+
+      
+        anthropics /
+
+      claude-code-action</a></p>
+				<p></p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 9253</span>
+						<span>🔱 2176</span>
+					</div>
+				<div class="stars-today">⭐ 319 stars this week</div>
 				</div>
 			</div>
 	
