@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2026年第40周
-date: 2026-10-01T07:50:59Z
+date: 2026-10-01T14:49:34Z
 categories:
 - weekly
 keywords:
@@ -30,8 +30,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 95481</span>
-						<span>🔱 16197</span>
+						<span>⭐ 95630</span>
+						<span>🔱 16225</span>
 					</div>
 				<div class="stars-today">⭐ 13855 stars this week</div>
 				</div>
@@ -52,30 +52,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 44049</span>
-						<span>🔱 5854</span>
+						<span>⭐ 44166</span>
+						<span>🔱 5857</span>
 					</div>
 				<div class="stars-today">⭐ 18389 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/anthropics/financial-services" target="_blank">
-    
-
-
-      
-        anthropics /
-
-      financial-services</a></p>
-				<p></p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 38403</span>
-						<span>🔱 5526</span>
-					</div>
-				<div class="stars-today">⭐ 1637 stars this week</div>
 				</div>
 			</div>
 	
@@ -94,8 +74,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 50818</span>
-						<span>🔱 5632</span>
+						<span>⭐ 51125</span>
+						<span>🔱 5670</span>
 					</div>
 				<div class="stars-today">⭐ 15186 stars this week</div>
 				</div>
@@ -116,10 +96,30 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 62213</span>
-						<span>🔱 10639</span>
+						<span>⭐ 62305</span>
+						<span>🔱 10661</span>
 					</div>
 				<div class="stars-today">⭐ 6485 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/anthropics/financial-services" target="_blank">
+    
+
+
+      
+        anthropics /
+
+      financial-services</a></p>
+				<p></p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 38442</span>
+						<span>🔱 5531</span>
+					</div>
+				<div class="stars-today">⭐ 1637 stars this week</div>
 				</div>
 			</div>
 	
@@ -138,76 +138,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 JavaScript</span>
-						<span>⭐ 142961</span>
+						<span>⭐ 142967</span>
 						<span>🔱 33551</span>
 					</div>
 				<div class="stars-today">⭐ 595 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/HKUDS/CLI-Anything" target="_blank">
-    
-
-
-      
-        HKUDS /
-
-      CLI-Anything</a></p>
-				<p>
-      "CLI-Anything: Making ALL Software Agent-Native" -- CLI-Hub: https://clianything.cc/
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 51148</span>
-						<span>🔱 4665</span>
-					</div>
-				<div class="stars-today">⭐ 1371 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/davila7/claude-code-templates" target="_blank">
-    
-
-
-      
-        davila7 /
-
-      claude-code-templates</a></p>
-				<p>
-      CLI tool for configuring and monitoring Claude Code
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 32253</span>
-						<span>🔱 3662</span>
-					</div>
-				<div class="stars-today">⭐ 914 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/pytorch/pytorch" target="_blank">
-    
-
-
-      
-        pytorch /
-
-      pytorch</a></p>
-				<p>
-      Tensors and Dynamic neural networks in Python with strong GPU acceleration
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 103577</span>
-						<span>🔱 31024</span>
-					</div>
-				<div class="stars-today">⭐ 398 stars this week</div>
 				</div>
 			</div>
 	
@@ -226,120 +160,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 JavaScript</span>
-						<span>⭐ 73182</span>
-						<span>🔱 4422</span>
+						<span>⭐ 73385</span>
+						<span>🔱 4426</span>
 					</div>
 				<div class="stars-today">⭐ 2775 stars this week</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/TencentCloud/Octop" target="_blank">
+				<p><a href="https://github.com/HKUDS/CLI-Anything" target="_blank">
     
 
 
       
-        TencentCloud /
+        HKUDS /
 
-      Octop</a></p>
+      CLI-Anything</a></p>
 				<p>
-      A smarter, self-hosted AI assistant — multi-user, multi-agent.
+      "CLI-Anything: Making ALL Software Agent-Native" -- CLI-Hub: https://clianything.cc/
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 6145</span>
-						<span>🔱 777</span>
+						<span>⭐ 51177</span>
+						<span>🔱 4666</span>
 					</div>
-				<div class="stars-today">⭐ 1301 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/stablyai/orca" target="_blank">
-    
-
-
-      
-        stablyai /
-
-      orca</a></p>
-				<p>
-      Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 82613</span>
-						<span>🔱 5362</span>
-					</div>
-				<div class="stars-today">⭐ 5987 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/elastic/elasticsearch" target="_blank">
-    
-
-
-      
-        elastic /
-
-      elasticsearch</a></p>
-				<p>
-      Free and Open Source, Distributed, RESTful Search Engine
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Java</span>
-						<span>⭐ 78173</span>
-						<span>🔱 26098</span>
-					</div>
-				<div class="stars-today">⭐ 199 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/Tencent/WeKnora" target="_blank">
-    
-
-
-      
-        Tencent /
-
-      WeKnora</a></p>
-				<p>
-      Open-source LLM knowledge platform: turn raw documents into a queryable RAG, an autonomous reasoning agent, and a self-maintaining Wiki.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Go</span>
-						<span>⭐ 31561</span>
-						<span>🔱 4211</span>
-					</div>
-				<div class="stars-today">⭐ 2227 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/FxEmbed/FxEmbed" target="_blank">
-    
-
-
-      
-        FxEmbed /
-
-      FxEmbed</a></p>
-				<p>
-      Fix X/Twitter and Bluesky embeds! Use multiple images, videos, polls, translations and more on Discord, Telegram and others
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 5618</span>
-						<span>🔱 269</span>
-					</div>
-				<div class="stars-today">⭐ 520 stars this week</div>
+				<div class="stars-today">⭐ 1371 stars this week</div>
 				</div>
 			</div>
 	
@@ -358,10 +204,118 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 27083</span>
-						<span>🔱 3827</span>
+						<span>⭐ 27127</span>
+						<span>🔱 3834</span>
 					</div>
 				<div class="stars-today">⭐ 711 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/davila7/claude-code-templates" target="_blank">
+    
+
+
+      
+        davila7 /
+
+      claude-code-templates</a></p>
+				<p>
+      CLI tool for configuring and monitoring Claude Code
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 32263</span>
+						<span>🔱 3664</span>
+					</div>
+				<div class="stars-today">⭐ 914 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/TencentCloud/Octop" target="_blank">
+    
+
+
+      
+        TencentCloud /
+
+      Octop</a></p>
+				<p>
+      A smarter, self-hosted AI assistant — multi-user, multi-agent.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 6196</span>
+						<span>🔱 783</span>
+					</div>
+				<div class="stars-today">⭐ 1301 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/agent-substrate/substrate" target="_blank">
+    
+
+
+      
+        agent-substrate /
+
+      substrate</a></p>
+				<p>
+      Agent Substrate: the core system
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Go</span>
+						<span>⭐ 4065</span>
+						<span>🔱 486</span>
+					</div>
+				<div class="stars-today">⭐ 594 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/tile-ai/tilelang" target="_blank">
+    
+
+
+      
+        tile-ai /
+
+      tilelang</a></p>
+				<p>
+       Domain-specific language designed to streamline the development of high-performance GPU/CPU/Accelerators kernels
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 8009</span>
+						<span>🔱 808</span>
+					</div>
+				<div class="stars-today">⭐ 480 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/anthropics/claude-code-action" target="_blank">
+    
+
+
+      
+        anthropics /
+
+      claude-code-action</a></p>
+				<p></p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 9311</span>
+						<span>🔱 2181</span>
+					</div>
+				<div class="stars-today">⭐ 329 stars this week</div>
 				</div>
 			</div>
 	
@@ -380,30 +334,76 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 22200</span>
-						<span>🔱 1869</span>
+						<span>⭐ 22211</span>
+						<span>🔱 1868</span>
 					</div>
 				<div class="stars-today">⭐ 6091 stars this week</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/anthropics/claude-code-action" target="_blank">
+				<p><a href="https://github.com/FxEmbed/FxEmbed" target="_blank">
     
 
 
       
-        anthropics /
+        FxEmbed /
 
-      claude-code-action</a></p>
-				<p></p>
+      FxEmbed</a></p>
+				<p>
+      Fix X/Twitter and Bluesky embeds! Use multiple images, videos, polls, translations and more on Discord, Telegram and others
+    </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 9297</span>
-						<span>🔱 2181</span>
+						<span>⭐ 5624</span>
+						<span>🔱 269</span>
 					</div>
-				<div class="stars-today">⭐ 329 stars this week</div>
+				<div class="stars-today">⭐ 520 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/flutter/flutter" target="_blank">
+    
+
+
+      
+        flutter /
+
+      flutter</a></p>
+				<p>
+      Flutter makes it easy and fast to build beautiful apps for mobile and beyond
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Dart</span>
+						<span>⭐ 179179</span>
+						<span>🔱 32734</span>
+					</div>
+				<div class="stars-today">⭐ 150 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/androoAGI/starnet" target="_blank">
+    
+
+
+      
+        androoAGI /
+
+      starnet</a></p>
+				<p>
+      A living pixel-art station where real AI agents do real work. Local-first desktop agent harness - bring your own key, watch your crew actually run.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 JavaScript</span>
+						<span>⭐ 812</span>
+						<span>🔱 133</span>
+					</div>
+				<div class="stars-today">⭐ 659 stars this week</div>
 				</div>
 			</div>
 	

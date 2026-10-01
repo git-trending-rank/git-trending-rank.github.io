@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2026年10月
-date: 2026-10-01T07:50:59Z
+date: 2026-10-01T14:49:34Z
 categories:
 - monthly
 keywords:
@@ -30,8 +30,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 JavaScript</span>
-						<span>⭐ 45840</span>
-						<span>🔱 9375</span>
+						<span>⭐ 45988</span>
+						<span>🔱 9407</span>
 					</div>
 				<div class="stars-today">⭐ 31402 stars this month</div>
 				</div>
@@ -52,8 +52,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Go</span>
-						<span>⭐ 43011</span>
-						<span>🔱 3095</span>
+						<span>⭐ 43086</span>
+						<span>🔱 3099</span>
 					</div>
 				<div class="stars-today">⭐ 21460 stars this month</div>
 				</div>
@@ -74,8 +74,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 JavaScript</span>
-						<span>⭐ 270333</span>
-						<span>🔱 40411</span>
+						<span>⭐ 270485</span>
+						<span>🔱 40433</span>
 					</div>
 				<div class="stars-today">⭐ 26563 stars this month</div>
 				</div>
@@ -96,32 +96,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 52514</span>
-						<span>🔱 3027</span>
+						<span>⭐ 52609</span>
+						<span>🔱 3033</span>
 					</div>
 				<div class="stars-today">⭐ 26622 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/tt-a1i/archify" target="_blank">
-    
-
-
-      
-        tt-a1i /
-
-      archify</a></p>
-				<p>
-      Agent skill for beautiful, verifiable architecture, workflow, sequence, data-flow, and lifecycle diagrams—self-contained HTML with motion and crisp export.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 JavaScript</span>
-						<span>⭐ 75443</span>
-						<span>🔱 5070</span>
-					</div>
-				<div class="stars-today">⭐ 38190 stars this month</div>
 				</div>
 			</div>
 	
@@ -140,10 +118,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Go</span>
-						<span>⭐ 31561</span>
-						<span>🔱 4211</span>
+						<span>⭐ 31614</span>
+						<span>🔱 4216</span>
 					</div>
 				<div class="stars-today">⭐ 10658 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/tt-a1i/archify" target="_blank">
+    
+
+
+      
+        tt-a1i /
+
+      archify</a></p>
+				<p>
+      Agent skill for beautiful, verifiable architecture, workflow, sequence, data-flow, and lifecycle diagrams—self-contained HTML with motion and crisp export.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 JavaScript</span>
+						<span>⭐ 75626</span>
+						<span>🔱 5082</span>
+					</div>
+				<div class="stars-today">⭐ 38190 stars this month</div>
 				</div>
 			</div>
 	
@@ -162,7 +162,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 3959</span>
+						<span>⭐ 3975</span>
 						<span>🔱 328</span>
 					</div>
 				<div class="stars-today">⭐ 3214 stars this month</div>
@@ -182,32 +182,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 38403</span>
-						<span>🔱 5526</span>
+						<span>⭐ 38442</span>
+						<span>🔱 5531</span>
 					</div>
 				<div class="stars-today">⭐ 3839 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/mksglu/context-mode" target="_blank">
-    
-
-
-      
-        mksglu /
-
-      context-mode</a></p>
-				<p>
-      Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 24578</span>
-						<span>🔱 1773</span>
-					</div>
-				<div class="stars-today">⭐ 4165 stars this month</div>
 				</div>
 			</div>
 	
@@ -226,10 +204,54 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 95481</span>
-						<span>🔱 16197</span>
+						<span>⭐ 95630</span>
+						<span>🔱 16225</span>
 					</div>
 				<div class="stars-today">⭐ 15694 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/mksglu/context-mode" target="_blank">
+    
+
+
+      
+        mksglu /
+
+      context-mode</a></p>
+				<p>
+      Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 24685</span>
+						<span>🔱 1777</span>
+					</div>
+				<div class="stars-today">⭐ 4165 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/vectorize-io/hindsight" target="_blank">
+    
+
+
+      
+        vectorize-io /
+
+      hindsight</a></p>
+				<p>
+      Hindsight: Agent Memory That Learns
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 44166</span>
+						<span>🔱 5857</span>
+					</div>
+				<div class="stars-today">⭐ 21957 stars this month</div>
 				</div>
 			</div>
 	
@@ -248,8 +270,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 JavaScript</span>
-						<span>⭐ 149534</span>
-						<span>🔱 8033</span>
+						<span>⭐ 149965</span>
+						<span>🔱 8053</span>
 					</div>
 				<div class="stars-today">⭐ 31553 stars this month</div>
 				</div>
@@ -270,54 +292,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 54909</span>
-						<span>🔱 4991</span>
+						<span>⭐ 55112</span>
+						<span>🔱 5002</span>
 					</div>
 				<div class="stars-today">⭐ 11385 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/vectorize-io/hindsight" target="_blank">
-    
-
-
-      
-        vectorize-io /
-
-      hindsight</a></p>
-				<p>
-      Hindsight: Agent Memory That Learns
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 44049</span>
-						<span>🔱 5854</span>
-					</div>
-				<div class="stars-today">⭐ 21957 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/THU-MAIC/OpenMAIC" target="_blank">
-    
-
-
-      
-        THU-MAIC /
-
-      OpenMAIC</a></p>
-				<p>
-      Open Multi-Agent Interactive Classroom — Get an immersive, multi-agent learning experience in just one click
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 39701</span>
-						<span>🔱 6155</span>
-					</div>
-				<div class="stars-today">⭐ 13868 stars this month</div>
 				</div>
 			</div>
 	
@@ -336,76 +314,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 148759</span>
-						<span>🔱 25117</span>
+						<span>⭐ 148810</span>
+						<span>🔱 25126</span>
 					</div>
 				<div class="stars-today">⭐ 5807 stars this month</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/jingyaogong/minimind" target="_blank">
+				<p><a href="https://github.com/fmtlib/fmt" target="_blank">
     
 
 
       
-        jingyaogong /
+        fmtlib /
 
-      minimind</a></p>
+      fmt</a></p>
 				<p>
-      🧠 Train a 64M-parameter LLM from scratch in just 2h!
+      A modern formatting library
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 62995</span>
-						<span>🔱 8184</span>
+						<span>🔠 C++</span>
+						<span>⭐ 25852</span>
+						<span>🔱 3074</span>
 					</div>
-				<div class="stars-today">⭐ 7328 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/cursor/plugins" target="_blank">
-    
-
-
-      
-        cursor /
-
-      plugins</a></p>
-				<p>
-      Cursor plugin specification and official plugins
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 9209</span>
-						<span>🔱 865</span>
-					</div>
-				<div class="stars-today">⭐ 2959 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/trycua/cua" target="_blank">
-    
-
-
-      
-        trycua /
-
-      cua</a></p>
-				<p>
-      Scale computer-use 2.0 with open-source drivers, cross-OS fleets, and benchmarks for training, evaluation, and data generation.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 HTML</span>
-						<span>⭐ 27613</span>
-						<span>🔱 1944</span>
-					</div>
-				<div class="stars-today">⭐ 5559 stars this month</div>
+				<div class="stars-today">⭐ 2130 stars this month</div>
 				</div>
 			</div>
 	
@@ -424,32 +358,98 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 6145</span>
-						<span>🔱 777</span>
+						<span>⭐ 6196</span>
+						<span>🔱 783</span>
 					</div>
 				<div class="stars-today">⭐ 4729 stars this month</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/NVIDIA/SkillSpector" target="_blank">
+				<p><a href="https://github.com/trycua/cua" target="_blank">
     
 
 
       
-        NVIDIA /
+        trycua /
 
-      SkillSpector</a></p>
+      cua</a></p>
 				<p>
-      Security scanner for AI agent skills. Detect vulnerabilities, malicious patterns, security risks, prompt injection, data exfiltration, and supply-chain risks in Claude Code, Codex, and MCP skills before you install them.
+      Scale computer-use 2.0 with open-source drivers, cross-OS fleets, and benchmarks for training, evaluation, and data generation.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 HTML</span>
+						<span>⭐ 27652</span>
+						<span>🔱 1948</span>
+					</div>
+				<div class="stars-today">⭐ 5559 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/THU-MAIC/OpenMAIC" target="_blank">
+    
+
+
+      
+        THU-MAIC /
+
+      OpenMAIC</a></p>
+				<p>
+      Open Multi-Agent Interactive Classroom — Get an immersive, multi-agent learning experience in just one click
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 39727</span>
+						<span>🔱 6159</span>
+					</div>
+				<div class="stars-today">⭐ 13868 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/cursor/plugins" target="_blank">
+    
+
+
+      
+        cursor /
+
+      plugins</a></p>
+				<p>
+      Cursor plugin specification and official plugins
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 9266</span>
+						<span>🔱 874</span>
+					</div>
+				<div class="stars-today">⭐ 2959 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/jingyaogong/minimind" target="_blank">
+    
+
+
+      
+        jingyaogong /
+
+      minimind</a></p>
+				<p>
+      🧠 Train a 64M-parameter LLM from scratch in just 2h!
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 18841</span>
-						<span>🔱 1643</span>
+						<span>⭐ 63025</span>
+						<span>🔱 8186</span>
 					</div>
-				<div class="stars-today">⭐ 3388 stars this month</div>
+				<div class="stars-today">⭐ 7328 stars this month</div>
 				</div>
 			</div>
 	
@@ -468,32 +468,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Rust</span>
-						<span>⭐ 8574</span>
-						<span>🔱 305</span>
+						<span>⭐ 8589</span>
+						<span>🔱 306</span>
 					</div>
 				<div class="stars-today">⭐ 1884 stars this month</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/anthropics/knowledge-work-plugins" target="_blank">
+				<p><a href="https://github.com/NVIDIA/SkillSpector" target="_blank">
     
 
 
       
-        anthropics /
+        NVIDIA /
 
-      knowledge-work-plugins</a></p>
+      SkillSpector</a></p>
 				<p>
-      Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork
+      Security scanner for AI agent skills. Detect vulnerabilities, malicious patterns, security risks, prompt injection, data exfiltration, and supply-chain risks in Claude Code, Codex, and MCP skills before you install them.
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 25947</span>
-						<span>🔱 3049</span>
+						<span>⭐ 18894</span>
+						<span>🔱 1649</span>
 					</div>
-				<div class="stars-today">⭐ 2225 stars this month</div>
+				<div class="stars-today">⭐ 3388 stars this month</div>
 				</div>
 			</div>
 	
@@ -512,10 +512,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Rust</span>
-						<span>⭐ 15382</span>
-						<span>🔱 952</span>
+						<span>⭐ 15440</span>
+						<span>🔱 957</span>
 					</div>
 				<div class="stars-today">⭐ 1600 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/tashfeenahmed/freellmapi" target="_blank">
+    
+
+
+      
+        tashfeenahmed /
+
+      freellmapi</a></p>
+				<p>
+      7.4 billion tokens per month. 34 free LLM providers. 635 free model endpoints. All behind one /v1 endpoint, plus any custom OpenAI-compatible endpoint. Smart routing, automatic failover, encrypted keys. Personal experimentation only.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 29898</span>
+						<span>🔱 4177</span>
+					</div>
+				<div class="stars-today">⭐ 6620 stars this month</div>
 				</div>
 			</div>
 	

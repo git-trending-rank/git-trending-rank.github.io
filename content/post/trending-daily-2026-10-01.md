@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2026-10-01
-date: 2026-10-01T07:50:59Z
+date: 2026-10-01T14:49:33Z
 categories:
 - daily
 keywords:
@@ -14,94 +14,6 @@ keywords:
 	<main class="container">
         <div class="repo-list" id="repoList">
 
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/NVIDIA/OpenShell" target="_blank">
-    
-
-
-      
-        NVIDIA /
-
-      OpenShell</a></p>
-				<p>
-      OpenShell is the safe, private runtime for autonomous AI agents.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Rust</span>
-						<span>⭐ 13274</span>
-						<span>🔱 1575</span>
-					</div>
-				<div class="stars-today">⭐ 1281 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/debpalash/VoiceStudio" target="_blank">
-    
-
-
-      
-        debpalash /
-
-      VoiceStudio</a></p>
-				<p>
-      VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 50818</span>
-						<span>🔱 5632</span>
-					</div>
-				<div class="stars-today">⭐ 3483 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/mvschwarz/openrig" target="_blank">
-    
-
-
-      
-        mvschwarz /
-
-      openrig</a></p>
-				<p>
-      Multi-agent harness that runs Claude Code and Codex together as one system
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 3210</span>
-						<span>🔱 221</span>
-					</div>
-				<div class="stars-today">⭐ 624 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/mksglu/context-mode" target="_blank">
-    
-
-
-      
-        mksglu /
-
-      context-mode</a></p>
-				<p>
-      Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 24578</span>
-						<span>🔱 1773</span>
-					</div>
-				<div class="stars-today">⭐ 90 stars today</div>
-				</div>
-			</div>
 	
 			<div class="repo-card">
 				<p><a href="https://github.com/DietrichGebert/ponytail" target="_blank">
@@ -118,76 +30,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 JavaScript</span>
-						<span>⭐ 149534</span>
-						<span>🔱 8033</span>
+						<span>⭐ 149965</span>
+						<span>🔱 8053</span>
 					</div>
-				<div class="stars-today">⭐ 743 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/harry0703/MoneyPrinterTurbo" target="_blank">
-    
-
-
-      
-        harry0703 /
-
-      MoneyPrinterTurbo</a></p>
-				<p>
-      利用 AI 大模型和自动化工作流，根据主题或关键词一键生成高清短视频。Generate HD short videos from a topic or keyword with an automated AI workflow.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 127715</span>
-						<span>🔱 19976</span>
-					</div>
-				<div class="stars-today">⭐ 431 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/openclaw/openclaw" target="_blank">
-    
-
-
-      
-        openclaw /
-
-      openclaw</a></p>
-				<p>
-      The AI that really does things. Any OS. Any Platform. The lobster way. 🦞 
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 391070</span>
-						<span>🔱 82234</span>
-					</div>
-				<div class="stars-today">⭐ 136 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/ComposioHQ/awesome-claude-skills" target="_blank">
-    
-
-
-      
-        ComposioHQ /
-
-      awesome-claude-skills</a></p>
-				<p>
-      A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 76229</span>
-						<span>🔱 8886</span>
-					</div>
-				<div class="stars-today">⭐ 123 stars today</div>
+				<div class="stars-today">⭐ 1179 stars today</div>
 				</div>
 			</div>
 	
@@ -206,32 +52,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Shell</span>
-						<span>⭐ 273251</span>
-						<span>🔱 22968</span>
+						<span>⭐ 273539</span>
+						<span>🔱 22983</span>
 					</div>
-				<div class="stars-today">⭐ 876 stars today</div>
+				<div class="stars-today">⭐ 888 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/heygen-com/hyperframes" target="_blank">
+				<p><a href="https://github.com/NVIDIA/OpenShell" target="_blank">
     
 
 
       
-        heygen-com /
+        NVIDIA /
 
-      hyperframes</a></p>
+      OpenShell</a></p>
 				<p>
-      Write HTML. Render video. Built for agents.
+      OpenShell is the safe, private runtime for autonomous AI agents.
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 54909</span>
-						<span>🔱 4991</span>
+						<span>🔠 Rust</span>
+						<span>⭐ 13768</span>
+						<span>🔱 1606</span>
 					</div>
-				<div class="stars-today">⭐ 349 stars today</div>
+				<div class="stars-today">⭐ 2503 stars today</div>
 				</div>
 			</div>
 	
@@ -250,142 +96,252 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 C++</span>
-						<span>⭐ 6789</span>
-						<span>🔱 1801</span>
+						<span>⭐ 6826</span>
+						<span>🔱 1803</span>
 					</div>
-				<div class="stars-today">⭐ 8 stars today</div>
+				<div class="stars-today">⭐ 112 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/modelcontextprotocol/servers" target="_blank">
+				<p><a href="https://github.com/mvschwarz/openrig" target="_blank">
     
 
 
       
-        modelcontextprotocol /
+        mvschwarz /
 
-      servers</a></p>
+      openrig</a></p>
 				<p>
-      Model Context Protocol Servers
+      Build your own network of agents from Claude Code, Codex and Pi: persistent teams with roles, shared context and owned work.
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 90874</span>
-						<span>🔱 11732</span>
+						<span>⭐ 3434</span>
+						<span>🔱 232</span>
 					</div>
-				<div class="stars-today">⭐ 50 stars today</div>
+				<div class="stars-today">⭐ 640 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/byoungd/up" target="_blank">
+				<p><a href="https://github.com/cursor/plugins" target="_blank">
     
 
 
       
-        byoungd /
+        cursor /
 
-      up</a></p>
+      plugins</a></p>
 				<p>
-      An advanced guide which might benefit you a lot 🎉 . 韩先凯的人生进阶指南 人生进阶指南 离谱的人生 人生进阶 AI学习 AI指南 韩先凯的AI学习指南 英语学习指南/英语学习教程/英语学习/学英语
+      Cursor plugin specification and official plugins
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 JavaScript</span>
-						<span>⭐ 66512</span>
-						<span>🔱 6645</span>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 9266</span>
+						<span>🔱 874</span>
 					</div>
-				<div class="stars-today">⭐ 743 stars today</div>
+				<div class="stars-today">⭐ 157 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/colbymchenry/codegraph" target="_blank">
+				<p><a href="https://github.com/obra/superpowers" target="_blank">
     
 
 
       
-        colbymchenry /
+        obra /
 
-      codegraph</a></p>
+      superpowers</a></p>
 				<p>
-      Pre-indexed code knowledge graph, auto syncs on code changes, for Claude Code, Codex, Gemini, Cursor, OpenCode, AntiGravity, Kiro, CoPilot, and Hermes Agent — fewer tokens, fewer tool calls, 100% local
+      An agentic skills framework & software development methodology that works.
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 C</span>
-						<span>⭐ 72685</span>
-						<span>🔱 4665</span>
+						<span>🔠 Shell</span>
+						<span>⭐ 293751</span>
+						<span>🔱 26272</span>
 					</div>
-				<div class="stars-today">⭐ 118 stars today</div>
+				<div class="stars-today">⭐ 476 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/t8y2/dbx" target="_blank">
+				<p><a href="https://github.com/mksglu/context-mode" target="_blank">
     
 
 
       
-        t8y2 /
+        mksglu /
 
-      dbx</a></p>
+      context-mode</a></p>
 				<p>
-      25 MB lightweight cross-platform database client for 100+ databases, including MySQL, PostgreSQL, SQLite, Redis, MongoDB, DuckDB, SQL Server, and Dameng. Built-in AI, MCP Server, CLI, desktop and Docker. | 轻量级跨平台数据库管理工具，支持 MySQL、PostgreSQL、SQLite、Redis、MongoDB、达梦等 100+ 数据库，提供桌面端、Docker、CLI、内置 AI 助手和 MCP。
+      Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks.
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Rust</span>
-						<span>⭐ 23449</span>
-						<span>🔱 2163</span>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 24685</span>
+						<span>🔱 1777</span>
 					</div>
-				<div class="stars-today">⭐ 1138 stars today</div>
+				<div class="stars-today">⭐ 357 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/NawfalMotii79/PLFM_RADAR" target="_blank">
+				<p><a href="https://github.com/heygen-com/hyperframes" target="_blank">
     
 
 
       
-        NawfalMotii79 /
+        heygen-com /
 
-      PLFM_RADAR</a></p>
+      hyperframes</a></p>
 				<p>
-      Open-source, low-cost 10.5 GHz PLFM phased array RADAR system
+      Write HTML. Render video. Built for agents.
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 PLSQL</span>
-						<span>⭐ 26480</span>
-						<span>🔱 5980</span>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 55112</span>
+						<span>🔱 5002</span>
 					</div>
-				<div class="stars-today">⭐ 263 stars today</div>
+				<div class="stars-today">⭐ 624 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/VectifyAI/PageIndex" target="_blank">
+				<p><a href="https://github.com/earendil-works/pi" target="_blank">
     
 
 
       
-        VectifyAI /
+        earendil-works /
 
-      PageIndex</a></p>
+      pi</a></p>
 				<p>
-      📑 PageIndex: Document Index for Vectorless, Reasoning-based RAG
+      AI agent toolkit: unified LLM API, agent loop, TUI, coding agent CLI
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 110981</span>
+						<span>🔱 14114</span>
+					</div>
+				<div class="stars-today">⭐ 294 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/tile-ai/tilelang" target="_blank">
+    
+
+
+      
+        tile-ai /
+
+      tilelang</a></p>
+				<p>
+       Domain-specific language designed to streamline the development of high-performance GPU/CPU/Accelerators kernels
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 38262</span>
-						<span>🔱 3317</span>
+						<span>⭐ 8009</span>
+						<span>🔱 808</span>
 					</div>
-				<div class="stars-today">⭐ 1097 stars today</div>
+				<div class="stars-today">⭐ 157 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/pablostanley/yoinks" target="_blank">
+    
+
+
+      
+        pablostanley /
+
+      yoinks</a></p>
+				<p>
+      yoink any video from your terminal. no shady ads.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 2701</span>
+						<span>🔱 254</span>
+					</div>
+				<div class="stars-today">⭐ 356 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/HunxByts/GhostTrack" target="_blank">
+    
+
+
+      
+        HunxByts /
+
+      GhostTrack</a></p>
+				<p>
+      Useful tool to track location or mobile number
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 16225</span>
+						<span>🔱 2235</span>
+					</div>
+				<div class="stars-today">⭐ 635 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/pbakaus/impeccable" target="_blank">
+    
+
+
+      
+        pbakaus /
+
+      impeccable</a></p>
+				<p>
+      The design language that makes your AI harness better at design.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 JavaScript</span>
+						<span>⭐ 73385</span>
+						<span>🔱 4426</span>
+					</div>
+				<div class="stars-today">⭐ 463 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/Friedrich-M/UniMate" target="_blank">
+    
+
+
+      
+        Friedrich-M /
+
+      UniMate</a></p>
+				<p>
+      [SIGGRAPH Asia 2026] UniMate: One Unified Model to Animate Diverse Skeletons
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 982</span>
+						<span>🔱 95</span>
+					</div>
+				<div class="stars-today">⭐ 225 stars today</div>
 				</div>
 			</div>
 	
