@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2026年10月
-date: 2026-10-02T07:34:01Z
+date: 2026-10-02T14:10:18Z
 categories:
 - monthly
 keywords:
@@ -30,8 +30,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 JavaScript</span>
-						<span>⭐ 46307</span>
-						<span>🔱 9480</span>
+						<span>⭐ 46415</span>
+						<span>🔱 9501</span>
 					</div>
 				<div class="stars-today">⭐ 31240 stars this month</div>
 				</div>
@@ -52,8 +52,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Go</span>
-						<span>⭐ 43246</span>
-						<span>🔱 3114</span>
+						<span>⭐ 43298</span>
+						<span>🔱 3122</span>
 					</div>
 				<div class="stars-today">⭐ 21646 stars this month</div>
 				</div>
@@ -74,8 +74,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 JavaScript</span>
-						<span>⭐ 270839</span>
-						<span>🔱 40494</span>
+						<span>⭐ 270994</span>
+						<span>🔱 40509</span>
 					</div>
 				<div class="stars-today">⭐ 26450 stars this month</div>
 				</div>
@@ -96,8 +96,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 52775</span>
-						<span>🔱 3037</span>
+						<span>⭐ 52842</span>
+						<span>🔱 3043</span>
 					</div>
 				<div class="stars-today">⭐ 26584 stars this month</div>
 				</div>
@@ -118,8 +118,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Go</span>
-						<span>⭐ 31696</span>
-						<span>🔱 4232</span>
+						<span>⭐ 31728</span>
+						<span>🔱 4234</span>
 					</div>
 				<div class="stars-today">⭐ 10740 stars this month</div>
 				</div>
@@ -140,52 +140,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 JavaScript</span>
-						<span>⭐ 75986</span>
-						<span>🔱 5117</span>
+						<span>⭐ 76113</span>
+						<span>🔱 5122</span>
 					</div>
 				<div class="stars-today">⭐ 35068 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/superdesigndev/treg" target="_blank">
-    
-
-
-      
-        superdesigndev /
-
-      treg</a></p>
-				<p>
-      OpenRouter for agent tools. Join community here: https://discord.gg/6mQYYfFMAn
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 4003</span>
-						<span>🔱 331</span>
-					</div>
-				<div class="stars-today">⭐ 3249 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/anthropics/financial-services" target="_blank">
-    
-
-
-      
-        anthropics /
-
-      financial-services</a></p>
-				<p></p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 38499</span>
-						<span>🔱 5537</span>
-					</div>
-				<div class="stars-today">⭐ 3930 stars this month</div>
 				</div>
 			</div>
 	
@@ -204,10 +162,30 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 95965</span>
-						<span>🔱 16267</span>
+						<span>⭐ 96114</span>
+						<span>🔱 16288</span>
 					</div>
 				<div class="stars-today">⭐ 16130 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/anthropics/financial-services" target="_blank">
+    
+
+
+      
+        anthropics /
+
+      financial-services</a></p>
+				<p></p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 38515</span>
+						<span>🔱 5541</span>
+					</div>
+				<div class="stars-today">⭐ 3930 stars this month</div>
 				</div>
 			</div>
 	
@@ -226,10 +204,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 24863</span>
-						<span>🔱 1788</span>
+						<span>⭐ 24940</span>
+						<span>🔱 1794</span>
 					</div>
 				<div class="stars-today">⭐ 4470 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/superdesigndev/treg" target="_blank">
+    
+
+
+      
+        superdesigndev /
+
+      treg</a></p>
+				<p>
+      OpenRouter for agent tools. Join community here: https://discord.gg/6mQYYfFMAn
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 4022</span>
+						<span>🔱 332</span>
+					</div>
+				<div class="stars-today">⭐ 3249 stars this month</div>
 				</div>
 			</div>
 	
@@ -248,32 +248,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 44438</span>
-						<span>🔱 5861</span>
+						<span>⭐ 44542</span>
+						<span>🔱 5862</span>
 					</div>
 				<div class="stars-today">⭐ 22416 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/DietrichGebert/ponytail" target="_blank">
-    
-
-
-      
-        DietrichGebert /
-
-      ponytail</a></p>
-				<p>
-      Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 JavaScript</span>
-						<span>⭐ 150901</span>
-						<span>🔱 8099</span>
-					</div>
-				<div class="stars-today">⭐ 31160 stars this month</div>
 				</div>
 			</div>
 	
@@ -292,10 +270,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 55496</span>
-						<span>🔱 5025</span>
+						<span>⭐ 55665</span>
+						<span>🔱 5039</span>
 					</div>
 				<div class="stars-today">⭐ 11734 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/DietrichGebert/ponytail" target="_blank">
+    
+
+
+      
+        DietrichGebert /
+
+      ponytail</a></p>
+				<p>
+      Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 JavaScript</span>
+						<span>⭐ 151252</span>
+						<span>🔱 8119</span>
+					</div>
+				<div class="stars-today">⭐ 31160 stars this month</div>
 				</div>
 			</div>
 	
@@ -314,32 +314,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 148906</span>
-						<span>🔱 25140</span>
+						<span>⭐ 148941</span>
+						<span>🔱 25172</span>
 					</div>
 				<div class="stars-today">⭐ 5819 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/fmtlib/fmt" target="_blank">
-    
-
-
-      
-        fmtlib /
-
-      fmt</a></p>
-				<p>
-      A modern formatting library
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 C++</span>
-						<span>⭐ 25860</span>
-						<span>🔱 3076</span>
-					</div>
-				<div class="stars-today">⭐ 2130 stars this month</div>
 				</div>
 			</div>
 	
@@ -358,7 +336,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 6290</span>
+						<span>⭐ 6328</span>
 						<span>🔱 788</span>
 					</div>
 				<div class="stars-today">⭐ 4888 stars this month</div>
@@ -380,32 +358,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Rust</span>
-						<span>⭐ 27719</span>
-						<span>🔱 1951</span>
+						<span>⭐ 27760</span>
+						<span>🔱 1952</span>
 					</div>
 				<div class="stars-today">⭐ 5674 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/THU-MAIC/OpenMAIC" target="_blank">
-    
-
-
-      
-        THU-MAIC /
-
-      OpenMAIC</a></p>
-				<p>
-      Open Multi-Agent Interactive Classroom — Get an immersive, multi-agent learning experience in just one click
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 39785</span>
-						<span>🔱 6165</span>
-					</div>
-				<div class="stars-today">⭐ 11062 stars this month</div>
 				</div>
 			</div>
 	
@@ -424,32 +380,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 9364</span>
-						<span>🔱 887</span>
+						<span>⭐ 9408</span>
+						<span>🔱 891</span>
 					</div>
 				<div class="stars-today">⭐ 2977 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/jingyaogong/minimind" target="_blank">
-    
-
-
-      
-        jingyaogong /
-
-      minimind</a></p>
-				<p>
-      🧠 Train a 64M-parameter LLM from scratch in just 2h!
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 63067</span>
-						<span>🔱 8191</span>
-					</div>
-				<div class="stars-today">⭐ 6436 stars this month</div>
 				</div>
 			</div>
 	
@@ -468,10 +402,76 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Rust</span>
-						<span>⭐ 8635</span>
+						<span>⭐ 8647</span>
 						<span>🔱 309</span>
 					</div>
 				<div class="stars-today">⭐ 1903 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/tashfeenahmed/freellmapi" target="_blank">
+    
+
+
+      
+        tashfeenahmed /
+
+      freellmapi</a></p>
+				<p>
+      7.4 billion tokens per month. 34 free LLM providers. 635 free model endpoints. All behind one /v1 endpoint, plus any custom OpenAI-compatible endpoint. Smart routing, automatic failover, encrypted keys. Personal experimentation only.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 30098</span>
+						<span>🔱 4213</span>
+					</div>
+				<div class="stars-today">⭐ 6611 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/anthropics/knowledge-work-plugins" target="_blank">
+    
+
+
+      
+        anthropics /
+
+      knowledge-work-plugins</a></p>
+				<p>
+      Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 25965</span>
+						<span>🔱 3051</span>
+					</div>
+				<div class="stars-today">⭐ 2254 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/THU-MAIC/OpenMAIC" target="_blank">
+    
+
+
+      
+        THU-MAIC /
+
+      OpenMAIC</a></p>
+				<p>
+      Open Multi-Agent Interactive Classroom — Get an immersive, multi-agent learning experience in just one click
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 39805</span>
+						<span>🔱 6168</span>
+					</div>
+				<div class="stars-today">⭐ 11062 stars this month</div>
 				</div>
 			</div>
 	
@@ -490,8 +490,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 19005</span>
-						<span>🔱 1657</span>
+						<span>⭐ 19052</span>
+						<span>🔱 1660</span>
 					</div>
 				<div class="stars-today">⭐ 3423 stars this month</div>
 				</div>
@@ -512,32 +512,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Rust</span>
-						<span>⭐ 15568</span>
-						<span>🔱 961</span>
+						<span>⭐ 15620</span>
+						<span>🔱 968</span>
 					</div>
 				<div class="stars-today">⭐ 1786 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/tashfeenahmed/freellmapi" target="_blank">
-    
-
-
-      
-        tashfeenahmed /
-
-      freellmapi</a></p>
-				<p>
-      7.4 billion tokens per month. 34 free LLM providers. 635 free model endpoints. All behind one /v1 endpoint, plus any custom OpenAI-compatible endpoint. Smart routing, automatic failover, encrypted keys. Personal experimentation only.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 30041</span>
-						<span>🔱 4202</span>
-					</div>
-				<div class="stars-today">⭐ 6611 stars this month</div>
 				</div>
 			</div>
 	
