@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2026年第40周
-date: 2026-10-03T07:08:00Z
+date: 2026-10-03T12:46:18Z
 categories:
 - weekly
 keywords:
@@ -30,8 +30,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 96415</span>
-						<span>🔱 16329</span>
+						<span>⭐ 96537</span>
+						<span>🔱 16355</span>
 					</div>
 				<div class="stars-today">⭐ 12825 stars this week</div>
 				</div>
@@ -52,8 +52,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 44816</span>
-						<span>🔱 5875</span>
+						<span>⭐ 44898</span>
+						<span>🔱 5886</span>
 					</div>
 				<div class="stars-today">⭐ 16183 stars this week</div>
 				</div>
@@ -74,54 +74,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 52078</span>
-						<span>🔱 5802</span>
+						<span>⭐ 52249</span>
+						<span>🔱 5829</span>
 					</div>
 				<div class="stars-today">⭐ 16475 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/rohitg00/ai-engineering-from-scratch" target="_blank">
-    
-
-
-      
-        rohitg00 /
-
-      ai-engineering-from-scratch</a></p>
-				<p>
-      Learn it. Build it. Ship it for others.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 62753</span>
-						<span>🔱 10725</span>
-					</div>
-				<div class="stars-today">⭐ 5600 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/flutter/flutter" target="_blank">
-    
-
-
-      
-        flutter /
-
-      flutter</a></p>
-				<p>
-      Flutter makes it easy and fast to build beautiful apps for mobile and beyond
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Dart</span>
-						<span>⭐ 179270</span>
-						<span>🔱 32866</span>
-					</div>
-				<div class="stars-today">⭐ 228 stars this week</div>
 				</div>
 			</div>
 	
@@ -140,54 +96,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 JavaScript</span>
-						<span>⭐ 74497</span>
-						<span>🔱 4489</span>
+						<span>⭐ 74703</span>
+						<span>🔱 4494</span>
 					</div>
 				<div class="stars-today">⭐ 3124 stars this week</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/vercel/next.js" target="_blank">
+				<p><a href="https://github.com/rohitg00/ai-engineering-from-scratch" target="_blank">
     
 
 
       
-        vercel /
+        rohitg00 /
 
-      next.js</a></p>
+      ai-engineering-from-scratch</a></p>
 				<p>
-      The React Framework
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 JavaScript</span>
-						<span>⭐ 143024</span>
-						<span>🔱 33713</span>
-					</div>
-				<div class="stars-today">⭐ 658 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/alirezarezvani/claude-skills" target="_blank">
-    
-
-
-      
-        alirezarezvani /
-
-      claude-skills</a></p>
-				<p>
-      380 Claude Code skills & agent skills & plugins (30+ Agents, 70+ custom commands, 380+ skills, customizable references, scripts)for Claude Code, Codex, Gemini CLI, Cursor, and 8 more coding agents — engineering, marketing, product, compliance, C-level advisory, research, business operations, commercial & finance, and your daily productivity skills.
+      Learn it. Build it. Ship it for others.
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 27362</span>
-						<span>🔱 3856</span>
+						<span>⭐ 62866</span>
+						<span>🔱 10748</span>
 					</div>
-				<div class="stars-today">⭐ 832 stars this week</div>
+				<div class="stars-today">⭐ 5600 stars this week</div>
 				</div>
 			</div>
 	
@@ -206,10 +140,120 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 56008</span>
-						<span>🔱 5044</span>
+						<span>⭐ 56134</span>
+						<span>🔱 5053</span>
 					</div>
 				<div class="stars-today">⭐ 2661 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/vercel/next.js" target="_blank">
+    
+
+
+      
+        vercel /
+
+      next.js</a></p>
+				<p>
+      The React Framework
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 JavaScript</span>
+						<span>⭐ 143043</span>
+						<span>🔱 33718</span>
+					</div>
+				<div class="stars-today">⭐ 658 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/Effect-TS/effect" target="_blank">
+    
+
+
+      
+        Effect-TS /
+
+      effect</a></p>
+				<p>
+      Build production-ready applications in TypeScript
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 16692</span>
+						<span>🔱 809</span>
+					</div>
+				<div class="stars-today">⭐ 466 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/alirezarezvani/claude-skills" target="_blank">
+    
+
+
+      
+        alirezarezvani /
+
+      claude-skills</a></p>
+				<p>
+      380 Claude Code skills & agent skills & plugins (30+ Agents, 70+ custom commands, 380+ skills, customizable references, scripts)for Claude Code, Codex, Gemini CLI, Cursor, and 8 more coding agents — engineering, marketing, product, compliance, C-level advisory, research, business operations, commercial & finance, and your daily productivity skills.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 27408</span>
+						<span>🔱 3862</span>
+					</div>
+				<div class="stars-today">⭐ 832 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/flutter/flutter" target="_blank">
+    
+
+
+      
+        flutter /
+
+      flutter</a></p>
+				<p>
+      Flutter makes it easy and fast to build beautiful apps for mobile and beyond
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Dart</span>
+						<span>⭐ 179284</span>
+						<span>🔱 32867</span>
+					</div>
+				<div class="stars-today">⭐ 228 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/Panniantong/Agent-Reach" target="_blank">
+    
+
+
+      
+        Panniantong /
+
+      Agent-Reach</a></p>
+				<p>
+      Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 89380</span>
+						<span>🔱 7865</span>
+					</div>
+				<div class="stars-today">⭐ 3959 stars this week</div>
 				</div>
 			</div>
 	
@@ -228,52 +272,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 6443</span>
-						<span>🔱 794</span>
+						<span>⭐ 6501</span>
+						<span>🔱 801</span>
 					</div>
 				<div class="stars-today">⭐ 1425 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/google/ax" target="_blank">
-    
-
-
-      
-        google /
-
-      ax</a></p>
-				<p>
-      Google's open agentic orchestration runtime
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Go</span>
-						<span>⭐ 12940</span>
-						<span>🔱 644</span>
-					</div>
-				<div class="stars-today">⭐ 1783 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/anthropics/financial-services" target="_blank">
-    
-
-
-      
-        anthropics /
-
-      financial-services</a></p>
-				<p></p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 38579</span>
-						<span>🔱 5537</span>
-					</div>
-				<div class="stars-today">⭐ 1073 stars this week</div>
 				</div>
 			</div>
 	
@@ -292,30 +294,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 8264</span>
-						<span>🔱 832</span>
+						<span>⭐ 8278</span>
+						<span>🔱 834</span>
 					</div>
 				<div class="stars-today">⭐ 732 stars this week</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/anthropics/claude-code-action" target="_blank">
+				<p><a href="https://github.com/longbridge/gpui-kit" target="_blank">
     
 
 
       
-        anthropics /
+        longbridge /
 
-      claude-code-action</a></p>
-				<p></p>
+      gpui-kit</a></p>
+				<p>
+      Rust GUI components for building fantastic cross-platform desktop application by using GPUI.
+    </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 9389</span>
-						<span>🔱 2184</span>
+						<span>🔠 Rust</span>
+						<span>⭐ 15768</span>
+						<span>🔱 974</span>
 					</div>
-				<div class="stars-today">⭐ 417 stars this week</div>
+				<div class="stars-today">⭐ 877 stars this week</div>
 				</div>
 			</div>
 	
@@ -334,8 +338,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 103634</span>
-						<span>🔱 31176</span>
+						<span>⭐ 103646</span>
+						<span>🔱 31175</span>
 					</div>
 				<div class="stars-today">⭐ 369 stars this week</div>
 				</div>
@@ -356,8 +360,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 128131</span>
-						<span>🔱 20045</span>
+						<span>⭐ 128180</span>
+						<span>🔱 20052</span>
 					</div>
 				<div class="stars-today">⭐ 2533 stars this week</div>
 				</div>
@@ -378,10 +382,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 3620</span>
-						<span>🔱 316</span>
+						<span>⭐ 3700</span>
+						<span>🔱 323</span>
 					</div>
 				<div class="stars-today">⭐ 1415 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/HunxByts/GhostTrack" target="_blank">
+    
+
+
+      
+        HunxByts /
+
+      GhostTrack</a></p>
+				<p>
+      Useful tool to track location or mobile number
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 16770</span>
+						<span>🔱 2293</span>
+					</div>
+				<div class="stars-today">⭐ 1536 stars this week</div>
 				</div>
 			</div>
 	
