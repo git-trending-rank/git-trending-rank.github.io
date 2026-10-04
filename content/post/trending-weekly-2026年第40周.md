@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2026年第40周
-date: 2026-10-04T07:27:55Z
+date: 2026-10-04T13:29:51Z
 categories:
 - weekly
 keywords:
@@ -30,8 +30,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 96852</span>
-						<span>🔱 16394</span>
+						<span>⭐ 96962</span>
+						<span>🔱 16411</span>
 					</div>
 				<div class="stars-today">⭐ 10722 stars this week</div>
 				</div>
@@ -52,32 +52,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 45208</span>
-						<span>🔱 5899</span>
+						<span>⭐ 45320</span>
+						<span>🔱 5903</span>
 					</div>
 				<div class="stars-today">⭐ 14507 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/debpalash/VoiceStudio" target="_blank">
-    
-
-
-      
-        debpalash /
-
-      VoiceStudio</a></p>
-				<p>
-      VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 52764</span>
-						<span>🔱 5879</span>
-					</div>
-				<div class="stars-today">⭐ 16775 stars this week</div>
 				</div>
 			</div>
 	
@@ -96,32 +74,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 JavaScript</span>
-						<span>⭐ 75577</span>
-						<span>🔱 4528</span>
+						<span>⭐ 75868</span>
+						<span>🔱 4537</span>
 					</div>
 				<div class="stars-today">⭐ 3311 stars this week</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/rohitg00/ai-engineering-from-scratch" target="_blank">
+				<p><a href="https://github.com/debpalash/VoiceStudio" target="_blank">
     
 
 
       
-        rohitg00 /
+        debpalash /
 
-      ai-engineering-from-scratch</a></p>
+      VoiceStudio</a></p>
 				<p>
-      Learn it. Build it. Ship it for others.
+      VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 63327</span>
-						<span>🔱 10832</span>
+						<span>⭐ 52908</span>
+						<span>🔱 5892</span>
 					</div>
-				<div class="stars-today">⭐ 5059 stars this week</div>
+				<div class="stars-today">⭐ 16775 stars this week</div>
 				</div>
 			</div>
 	
@@ -140,32 +118,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 56389</span>
-						<span>🔱 5068</span>
+						<span>⭐ 56513</span>
+						<span>🔱 5076</span>
 					</div>
 				<div class="stars-today">⭐ 3011 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/vercel/next.js" target="_blank">
-    
-
-
-      
-        vercel /
-
-      next.js</a></p>
-				<p>
-      The React Framework
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 JavaScript</span>
-						<span>⭐ 143106</span>
-						<span>🔱 33831</span>
-					</div>
-				<div class="stars-today">⭐ 678 stars this week</div>
 				</div>
 			</div>
 	
@@ -184,54 +140,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 16886</span>
-						<span>🔱 816</span>
+						<span>⭐ 16928</span>
+						<span>🔱 818</span>
 					</div>
 				<div class="stars-today">⭐ 466 stars this week</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/alirezarezvani/claude-skills" target="_blank">
+				<p><a href="https://github.com/rohitg00/ai-engineering-from-scratch" target="_blank">
     
 
 
       
-        alirezarezvani /
+        rohitg00 /
 
-      claude-skills</a></p>
+      ai-engineering-from-scratch</a></p>
 				<p>
-      380 Claude Code skills & agent skills & plugins (30+ Agents, 70+ custom commands, 380+ skills, customizable references, scripts)for Claude Code, Codex, Gemini CLI, Cursor, and 8 more coding agents — engineering, marketing, product, compliance, C-level advisory, research, business operations, commercial & finance, and your daily productivity skills.
+      Learn it. Build it. Ship it for others.
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 27524</span>
-						<span>🔱 3877</span>
+						<span>⭐ 63549</span>
+						<span>🔱 10874</span>
 					</div>
-				<div class="stars-today">⭐ 948 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/flutter/flutter" target="_blank">
-    
-
-
-      
-        flutter /
-
-      flutter</a></p>
-				<p>
-      Flutter makes it easy and fast to build beautiful apps for mobile and beyond
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Dart</span>
-						<span>⭐ 179322</span>
-						<span>🔱 32971</span>
-					</div>
-				<div class="stars-today">⭐ 266 stars this week</div>
+				<div class="stars-today">⭐ 5059 stars this week</div>
 				</div>
 			</div>
 	
@@ -250,10 +184,52 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 90080</span>
-						<span>🔱 7924</span>
+						<span>⭐ 90395</span>
+						<span>🔱 7943</span>
 					</div>
 				<div class="stars-today">⭐ 3952 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/alirezarezvani/claude-skills" target="_blank">
+    
+
+
+      
+        alirezarezvani /
+
+      claude-skills</a></p>
+				<p>
+      380 Claude Code skills & agent skills & plugins (30+ Agents, 70+ custom commands, 380+ skills, customizable references, scripts)for Claude Code, Codex, Gemini CLI, Cursor, and 8 more coding agents — engineering, marketing, product, compliance, C-level advisory, research, business operations, commercial & finance, and your daily productivity skills.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 27558</span>
+						<span>🔱 3882</span>
+					</div>
+				<div class="stars-today">⭐ 948 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/pingdotgg/t3code" target="_blank">
+    
+
+
+      
+        pingdotgg /
+
+      t3code</a></p>
+				<p></p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 24946</span>
+						<span>🔱 6480</span>
+					</div>
+				<div class="stars-today">⭐ 975 stars this week</div>
 				</div>
 			</div>
 	
@@ -272,8 +248,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 6631</span>
-						<span>🔱 817</span>
+						<span>⭐ 6668</span>
+						<span>🔱 822</span>
 					</div>
 				<div class="stars-today">⭐ 1476 stars this week</div>
 				</div>
@@ -294,54 +270,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 8302</span>
+						<span>⭐ 8314</span>
 						<span>🔱 837</span>
 					</div>
 				<div class="stars-today">⭐ 800 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/longbridge/gpui-kit" target="_blank">
-    
-
-
-      
-        longbridge /
-
-      gpui-kit</a></p>
-				<p>
-      Rust GUI components for building fantastic cross-platform desktop application by using GPUI.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Rust</span>
-						<span>⭐ 15941</span>
-						<span>🔱 981</span>
-					</div>
-				<div class="stars-today">⭐ 960 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/pytorch/pytorch" target="_blank">
-    
-
-
-      
-        pytorch /
-
-      pytorch</a></p>
-				<p>
-      Tensors and Dynamic neural networks in Python with strong GPU acceleration
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 103713</span>
-						<span>🔱 31304</span>
-					</div>
-				<div class="stars-today">⭐ 346 stars this week</div>
 				</div>
 			</div>
 	
@@ -360,10 +292,76 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 128309</span>
-						<span>🔱 20078</span>
+						<span>⭐ 128362</span>
+						<span>🔱 20079</span>
 					</div>
 				<div class="stars-today">⭐ 2324 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/vercel/next.js" target="_blank">
+    
+
+
+      
+        vercel /
+
+      next.js</a></p>
+				<p>
+      The React Framework
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 JavaScript</span>
+						<span>⭐ 143130</span>
+						<span>🔱 33874</span>
+					</div>
+				<div class="stars-today">⭐ 678 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/cs341-illinois/coursebook" target="_blank">
+    
+
+
+      
+        cs341-illinois /
+
+      coursebook</a></p>
+				<p>
+      Open Source Introductory Systems Programming Textbook for the University of Illinois
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TeX</span>
+						<span>⭐ 3645</span>
+						<span>🔱 307</span>
+					</div>
+				<div class="stars-today">⭐ 1625 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/NVIDIA/OpenShell" target="_blank">
+    
+
+
+      
+        NVIDIA /
+
+      OpenShell</a></p>
+				<p>
+      OpenShell is the safe, private runtime for autonomous AI agents.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Rust</span>
+						<span>⭐ 14763</span>
+						<span>🔱 1689</span>
+					</div>
+				<div class="stars-today">⭐ 5854 stars this week</div>
 				</div>
 			</div>
 	
@@ -382,32 +380,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 4031</span>
-						<span>🔱 351</span>
+						<span>⭐ 4178</span>
+						<span>🔱 361</span>
 					</div>
 				<div class="stars-today">⭐ 1917 stars this week</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/boykopovar/AnyPS5" target="_blank">
+				<p><a href="https://github.com/mvschwarz/openrig" target="_blank">
     
 
 
       
-        boykopovar /
+        mvschwarz /
 
-      AnyPS5</a></p>
+      openrig</a></p>
 				<p>
-      Tool for automatic PS5 executables porting to Linux and Windows
+      Build your own network of agents from Claude Code, Codex and Pi: persistent teams with roles, shared context and owned work.
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 C++</span>
-						<span>⭐ 3340</span>
-						<span>🔱 285</span>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 4837</span>
+						<span>🔱 347</span>
 					</div>
-				<div class="stars-today">⭐ 1820 stars this week</div>
+				<div class="stars-today">⭐ 4245 stars this week</div>
 				</div>
 			</div>
 	
@@ -426,8 +424,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 16875</span>
-						<span>🔱 2302</span>
+						<span>⭐ 16922</span>
+						<span>🔱 2309</span>
 					</div>
 				<div class="stars-today">⭐ 1638 stars this week</div>
 				</div>

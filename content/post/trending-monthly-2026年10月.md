@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2026年10月
-date: 2026-10-04T07:27:55Z
+date: 2026-10-04T13:29:51Z
 categories:
 - monthly
 keywords:
@@ -30,8 +30,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 JavaScript</span>
-						<span>⭐ 47176</span>
-						<span>🔱 9622</span>
+						<span>⭐ 47297</span>
+						<span>🔱 9647</span>
 					</div>
 				<div class="stars-today">⭐ 30444 stars this month</div>
 				</div>
@@ -52,8 +52,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Go</span>
-						<span>⭐ 43586</span>
-						<span>🔱 3145</span>
+						<span>⭐ 43625</span>
+						<span>🔱 3147</span>
 					</div>
 				<div class="stars-today">⭐ 21959 stars this month</div>
 				</div>
@@ -74,8 +74,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 JavaScript</span>
-						<span>⭐ 272444</span>
-						<span>🔱 40681</span>
+						<span>⭐ 272619</span>
+						<span>🔱 40707</span>
 					</div>
 				<div class="stars-today">⭐ 26724 stars this month</div>
 				</div>
@@ -96,8 +96,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 53235</span>
-						<span>🔱 3067</span>
+						<span>⭐ 53375</span>
+						<span>🔱 3068</span>
 					</div>
 				<div class="stars-today">⭐ 26497 stars this month</div>
 				</div>
@@ -118,10 +118,30 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Go</span>
-						<span>⭐ 31933</span>
-						<span>🔱 4258</span>
+						<span>⭐ 31976</span>
+						<span>🔱 4263</span>
 					</div>
 				<div class="stars-today">⭐ 10856 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/anthropics/financial-services" target="_blank">
+    
+
+
+      
+        anthropics /
+
+      financial-services</a></p>
+				<p></p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 38684</span>
+						<span>🔱 5547</span>
+					</div>
+				<div class="stars-today">⭐ 4082 stars this month</div>
 				</div>
 			</div>
 	
@@ -140,30 +160,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 25310</span>
-						<span>🔱 1812</span>
+						<span>⭐ 25343</span>
+						<span>🔱 1813</span>
 					</div>
 				<div class="stars-today">⭐ 4978 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/anthropics/financial-services" target="_blank">
-    
-
-
-      
-        anthropics /
-
-      financial-services</a></p>
-				<p></p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 38668</span>
-						<span>🔱 5549</span>
-					</div>
-				<div class="stars-today">⭐ 4082 stars this month</div>
 				</div>
 			</div>
 	
@@ -182,8 +182,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 96852</span>
-						<span>🔱 16394</span>
+						<span>⭐ 96962</span>
+						<span>🔱 16411</span>
 					</div>
 				<div class="stars-today">⭐ 17030 stars this month</div>
 				</div>
@@ -204,8 +204,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 JavaScript</span>
-						<span>⭐ 76849</span>
-						<span>🔱 5190</span>
+						<span>⭐ 76973</span>
+						<span>🔱 5199</span>
 					</div>
 				<div class="stars-today">⭐ 31939 stars this month</div>
 				</div>
@@ -226,8 +226,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 45208</span>
-						<span>🔱 5899</span>
+						<span>⭐ 45320</span>
+						<span>🔱 5903</span>
 					</div>
 				<div class="stars-today">⭐ 23065 stars this month</div>
 				</div>
@@ -248,8 +248,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 56388</span>
-						<span>🔱 5068</span>
+						<span>⭐ 56513</span>
+						<span>🔱 5076</span>
 					</div>
 				<div class="stars-today">⭐ 12634 stars this month</div>
 				</div>
@@ -270,54 +270,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 149298</span>
-						<span>🔱 25420</span>
+						<span>⭐ 149361</span>
+						<span>🔱 25462</span>
 					</div>
 				<div class="stars-today">⭐ 5841 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/agent-substrate/substrate" target="_blank">
-    
-
-
-      
-        agent-substrate /
-
-      substrate</a></p>
-				<p>
-      Agent Substrate: the core system
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Go</span>
-						<span>⭐ 4234</span>
-						<span>🔱 500</span>
-					</div>
-				<div class="stars-today">⭐ 2460 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/DietrichGebert/ponytail" target="_blank">
-    
-
-
-      
-        DietrichGebert /
-
-      ponytail</a></p>
-				<p>
-      Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 JavaScript</span>
-						<span>⭐ 153832</span>
-						<span>🔱 8270</span>
-					</div>
-				<div class="stars-today">⭐ 30546 stars this month</div>
 				</div>
 			</div>
 	
@@ -336,30 +292,54 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 6631</span>
-						<span>🔱 817</span>
+						<span>⭐ 6668</span>
+						<span>🔱 822</span>
 					</div>
 				<div class="stars-today">⭐ 5183 stars this month</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/humanlayer/skills" target="_blank">
+				<p><a href="https://github.com/superdesigndev/treg" target="_blank">
     
 
 
       
-        humanlayer /
+        superdesigndev /
 
-      skills</a></p>
-				<p></p>
+      treg</a></p>
+				<p>
+      OpenRouter for agent tools. Join community here: https://discord.gg/6mQYYfFMAn
+    </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 4899</span>
-						<span>🔱 157</span>
+						<span>🔠 Python</span>
+						<span>⭐ 4107</span>
+						<span>🔱 342</span>
 					</div>
-				<div class="stars-today">⭐ 3934 stars this month</div>
+				<div class="stars-today">⭐ 2960 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/agent-substrate/substrate" target="_blank">
+    
+
+
+      
+        agent-substrate /
+
+      substrate</a></p>
+				<p>
+      Agent Substrate: the core system
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Go</span>
+						<span>⭐ 4250</span>
+						<span>🔱 502</span>
+					</div>
+				<div class="stars-today">⭐ 2460 stars this month</div>
 				</div>
 			</div>
 	
@@ -378,32 +358,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Rust</span>
-						<span>⭐ 14715</span>
-						<span>🔱 1683</span>
+						<span>⭐ 14763</span>
+						<span>🔱 1689</span>
 					</div>
 				<div class="stars-today">⭐ 6209 stars this month</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/trycua/cua" target="_blank">
+				<p><a href="https://github.com/DietrichGebert/ponytail" target="_blank">
     
 
 
       
-        trycua /
+        DietrichGebert /
 
-      cua</a></p>
+      ponytail</a></p>
 				<p>
-      Scale computer-use 2.0 with open-source drivers, cross-OS fleets, and benchmarks for training, evaluation, and data generation.
+      Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Rust</span>
-						<span>⭐ 27972</span>
-						<span>🔱 1980</span>
+						<span>🔠 JavaScript</span>
+						<span>⭐ 154287</span>
+						<span>🔱 8302</span>
 					</div>
-				<div class="stars-today">⭐ 5879 stars this month</div>
+				<div class="stars-today">⭐ 30546 stars this month</div>
 				</div>
 			</div>
 	
@@ -422,32 +402,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 9691</span>
-						<span>🔱 918</span>
+						<span>⭐ 9725</span>
+						<span>🔱 919</span>
 					</div>
 				<div class="stars-today">⭐ 3087 stars this month</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/anthropics/knowledge-work-plugins" target="_blank">
+				<p><a href="https://github.com/trycua/cua" target="_blank">
     
 
 
       
-        anthropics /
+        trycua /
 
-      knowledge-work-plugins</a></p>
+      cua</a></p>
 				<p>
-      Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork
+      Scale computer-use 2.0 with open-source drivers, cross-OS fleets, and benchmarks for training, evaluation, and data generation.
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 26050</span>
-						<span>🔱 3054</span>
+						<span>🔠 Rust</span>
+						<span>⭐ 27996</span>
+						<span>🔱 1985</span>
 					</div>
-				<div class="stars-today">⭐ 2272 stars this month</div>
+				<div class="stars-today">⭐ 5879 stars this month</div>
 				</div>
 			</div>
 	
@@ -466,10 +446,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Rust</span>
-						<span>⭐ 8756</span>
+						<span>⭐ 8769</span>
 						<span>🔱 315</span>
 					</div>
 				<div class="stars-today">⭐ 1999 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/anthropics/knowledge-work-plugins" target="_blank">
+    
+
+
+      
+        anthropics /
+
+      knowledge-work-plugins</a></p>
+				<p>
+      Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 26062</span>
+						<span>🔱 3052</span>
+					</div>
+				<div class="stars-today">⭐ 2272 stars this month</div>
 				</div>
 			</div>
 	
@@ -488,32 +490,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 30449</span>
-						<span>🔱 4271</span>
+						<span>⭐ 30506</span>
+						<span>🔱 4278</span>
 					</div>
 				<div class="stars-today">⭐ 6502 stars this month</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/NVIDIA/SkillSpector" target="_blank">
+				<p><a href="https://github.com/NationalSecurityAgency/ghidra" target="_blank">
     
 
 
       
-        NVIDIA /
+        NationalSecurityAgency /
 
-      SkillSpector</a></p>
+      ghidra</a></p>
 				<p>
-      Security scanner for AI agent skills. Detect vulnerabilities, malicious patterns, security risks, prompt injection, data exfiltration, and supply-chain risks in Claude Code, Codex, and MCP skills before you install them.
+      Ghidra is a software reverse engineering (SRE) framework
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 19313</span>
-						<span>🔱 1687</span>
+						<span>🔠 Java</span>
+						<span>⭐ 80502</span>
+						<span>🔱 8956</span>
 					</div>
-				<div class="stars-today">⭐ 3460 stars this month</div>
+				<div class="stars-today">⭐ 6293 stars this month</div>
 				</div>
 			</div>
 	

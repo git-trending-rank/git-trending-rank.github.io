@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2026-10-04
-date: 2026-10-04T07:27:55Z
+date: 2026-10-04T13:29:51Z
 categories:
 - daily
 keywords:
@@ -16,24 +16,24 @@ keywords:
 
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/DietrichGebert/ponytail" target="_blank">
+				<p><a href="https://github.com/tester-army/e2e" target="_blank">
     
 
 
       
-        DietrichGebert /
+        tester-army /
 
-      ponytail</a></p>
+      e2e</a></p>
 				<p>
-      Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.
+      Next generation e2e testing framework for web and mobile apps.
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 JavaScript</span>
-						<span>⭐ 153832</span>
-						<span>🔱 8270</span>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 2484</span>
+						<span>🔱 96</span>
 					</div>
-				<div class="stars-today">⭐ 1281 stars today</div>
+				<div class="stars-today">⭐ 344 stars today</div>
 				</div>
 			</div>
 	
@@ -52,76 +52,76 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 JavaScript</span>
-						<span>⭐ 75577</span>
-						<span>🔱 4528</span>
+						<span>⭐ 75868</span>
+						<span>🔱 4537</span>
 					</div>
-				<div class="stars-today">⭐ 699 stars today</div>
+				<div class="stars-today">⭐ 1170 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/affaan-m/ECC" target="_blank">
+				<p><a href="https://github.com/coreyhaines31/marketingskills" target="_blank">
     
 
 
       
-        affaan-m /
+        coreyhaines31 /
 
-      ECC</a></p>
+      marketingskills</a></p>
 				<p>
-      The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.
+      Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics, and growth engineering.
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 JavaScript</span>
-						<span>⭐ 272444</span>
-						<span>🔱 40681</span>
+						<span>⭐ 52808</span>
+						<span>🔱 7909</span>
 					</div>
-				<div class="stars-today">⭐ 897 stars today</div>
+				<div class="stars-today">⭐ 345 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/Effect-TS/effect" target="_blank">
+				<p><a href="https://github.com/DietrichGebert/ponytail" target="_blank">
     
 
 
       
-        Effect-TS /
+        DietrichGebert /
 
-      effect</a></p>
+      ponytail</a></p>
 				<p>
-      Build production-ready applications in TypeScript
+      Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 16886</span>
-						<span>🔱 816</span>
+						<span>🔠 JavaScript</span>
+						<span>⭐ 154287</span>
+						<span>🔱 8302</span>
 					</div>
-				<div class="stars-today">⭐ 302 stars today</div>
+				<div class="stars-today">⭐ 1894 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/JuliusBrussee/caveman" target="_blank">
+				<p><a href="https://github.com/earthtojake/text-to-cad" target="_blank">
     
 
 
       
-        JuliusBrussee /
+        earthtojake /
 
-      caveman</a></p>
+      text-to-cad</a></p>
 				<p>
-      🪨 why use many token when few token do trick. Viral skill + proxy for coding agents that cuts 65% of tokens by talking like a caveman.
+      Give your agent CAD superpowers.
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Go</span>
-						<span>⭐ 109640</span>
-						<span>🔱 6341</span>
+						<span>🔠 Python</span>
+						<span>⭐ 16680</span>
+						<span>🔱 1730</span>
 					</div>
-				<div class="stars-today">⭐ 507 stars today</div>
+				<div class="stars-today">⭐ 75 stars today</div>
 				</div>
 			</div>
 	
@@ -140,184 +140,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 90080</span>
-						<span>🔱 7924</span>
+						<span>⭐ 90395</span>
+						<span>🔱 7943</span>
 					</div>
-				<div class="stars-today">⭐ 1696 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/pingdotgg/t3code" target="_blank">
-    
-
-
-      
-        pingdotgg /
-
-      t3code</a></p>
-				<p></p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 24823</span>
-						<span>🔱 6462</span>
-					</div>
-				<div class="stars-today">⭐ 252 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/thedotmack/claude-mem" target="_blank">
-    
-
-
-      
-        thedotmack /
-
-      claude-mem</a></p>
-				<p>
-      Persistent Context Across Sessions for Every Agent – Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 95734</span>
-						<span>🔱 8468</span>
-					</div>
-				<div class="stars-today">⭐ 79 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/cloudflare/cloudflare-os" target="_blank">
-    
-
-
-      
-        cloudflare /
-
-      cloudflare-os</a></p>
-				<p>
-      Agent workspace built on Cloudflare Workers for creating documents, building apps, and running agents with your company’s context and systems.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 10656</span>
-						<span>🔱 1288</span>
-					</div>
-				<div class="stars-today">⭐ 85 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/addyosmani/agent-skills" target="_blank">
-    
-
-
-      
-        addyosmani /
-
-      agent-skills</a></p>
-				<p>
-      Production-grade engineering skills for AI coding agents.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 JavaScript</span>
-						<span>⭐ 100924</span>
-						<span>🔱 10604</span>
-					</div>
-				<div class="stars-today">⭐ 252 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/obra/superpowers" target="_blank">
-    
-
-
-      
-        obra /
-
-      superpowers</a></p>
-				<p>
-      An agentic skills framework & software development methodology that works.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Shell</span>
-						<span>⭐ 295001</span>
-						<span>🔱 26362</span>
-					</div>
-				<div class="stars-today">⭐ 577 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/mattpocock/skills" target="_blank">
-    
-
-
-      
-        mattpocock /
-
-      skills</a></p>
-				<p>
-      Skills for Real Engineers. Straight from my .agents directory.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Shell</span>
-						<span>⭐ 275534</span>
-						<span>🔱 23115</span>
-					</div>
-				<div class="stars-today">⭐ 751 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/mksglu/context-mode" target="_blank">
-    
-
-
-      
-        mksglu /
-
-      context-mode</a></p>
-				<p>
-      Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 25310</span>
-						<span>🔱 1812</span>
-					</div>
-				<div class="stars-today">⭐ 256 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/earendil-works/pi" target="_blank">
-    
-
-
-      
-        earendil-works /
-
-      pi</a></p>
-				<p>
-      AI agent toolkit: unified LLM API, agent loop, TUI, coding agent CLI
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 112261</span>
-						<span>🔱 14238</span>
-					</div>
-				<div class="stars-today">⭐ 408 stars today</div>
+				<div class="stars-today">⭐ 979 stars today</div>
 				</div>
 			</div>
 	
@@ -336,72 +162,140 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 45241</span>
+						<span>⭐ 45279</span>
 						<span>🔱 4899</span>
 					</div>
-				<div class="stars-today">⭐ 214 stars today</div>
+				<div class="stars-today">⭐ 152 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/anthropics/claude-code" target="_blank">
+				<p><a href="https://github.com/calesthio/OpenMontage" target="_blank">
     
 
 
       
-        anthropics /
+        calesthio /
 
-      claude-code</a></p>
+      OpenMontage</a></p>
 				<p>
-      Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.
+      World's first open-source, agentic video production system. 12 production pipelines, 100+ tools, 700+ agent skill and production-knowledge files. Turn your AI coding assistant into a full video production studio.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 62875</span>
+						<span>🔱 8027</span>
+					</div>
+				<div class="stars-today">⭐ 292 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/pingdotgg/t3code" target="_blank">
+    
+
+
+      
+        pingdotgg /
+
+      t3code</a></p>
+				<p></p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 24946</span>
+						<span>🔱 6480</span>
+					</div>
+				<div class="stars-today">⭐ 492 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/caddyserver/caddy" target="_blank">
+    
+
+
+      
+        caddyserver /
+
+      caddy</a></p>
+				<p>
+      Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Go</span>
+						<span>⭐ 76315</span>
+						<span>🔱 5034</span>
+					</div>
+				<div class="stars-today">⭐ 31 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/addyosmani/agent-skills" target="_blank">
+    
+
+
+      
+        addyosmani /
+
+      agent-skills</a></p>
+				<p>
+      Production-grade engineering skills for AI coding agents.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 JavaScript</span>
+						<span>⭐ 101010</span>
+						<span>🔱 10611</span>
+					</div>
+				<div class="stars-today">⭐ 336 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/thedotmack/claude-mem" target="_blank">
+    
+
+
+      
+        thedotmack /
+
+      claude-mem</a></p>
+				<p>
+      Persistent Context Across Sessions for Every Agent – Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 149298</span>
-						<span>🔱 25420</span>
+						<span>⭐ 95887</span>
+						<span>🔱 8472</span>
 					</div>
-				<div class="stars-today">⭐ 128 stars today</div>
+				<div class="stars-today">⭐ 627 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/jamwithai/production-agentic-rag-course" target="_blank">
+				<p><a href="https://github.com/garrytan/gstack" target="_blank">
     
 
 
       
-        jamwithai /
+        garrytan /
 
-      production-agentic-rag-course</a></p>
-				<p></p>
+      gstack</a></p>
+				<p>
+      Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, and QA
+    </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 9454</span>
-						<span>🔱 2073</span>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 135018</span>
+						<span>🔱 20080</span>
 					</div>
-				<div class="stars-today">⭐ 193 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/meituan-longcat/LongCat-Video" target="_blank">
-    
-
-
-      
-        meituan-longcat /
-
-      LongCat-Video</a></p>
-				<p></p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 8847</span>
-						<span>🔱 1531</span>
-					</div>
-				<div class="stars-today">⭐ 44 stars today</div>
+				<div class="stars-today">⭐ 121 stars today</div>
 				</div>
 			</div>
 	
@@ -420,10 +314,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 91735</span>
-						<span>🔱 9067</span>
+						<span>⭐ 91871</span>
+						<span>🔱 9071</span>
 					</div>
-				<div class="stars-today">⭐ 232 stars today</div>
+				<div class="stars-today">⭐ 512 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/antirez/ds4" target="_blank">
+    
+
+
+      
+        antirez /
+
+      ds4</a></p>
+				<p>
+      DeepSeek 4 Flash and PRO local inference engine for Metal, CUDA and ROCm
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 C</span>
+						<span>⭐ 23293</span>
+						<span>🔱 2239</span>
+					</div>
+				<div class="stars-today">⭐ 211 stars today</div>
 				</div>
 			</div>
 	
