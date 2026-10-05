@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2026年10月
-date: 2026-10-05T07:43:57Z
+date: 2026-10-05T16:26:14Z
 categories:
 - monthly
 keywords:
@@ -30,8 +30,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 JavaScript</span>
-						<span>⭐ 47647</span>
-						<span>🔱 9713</span>
+						<span>⭐ 47801</span>
+						<span>🔱 9747</span>
 					</div>
 				<div class="stars-today">⭐ 30324 stars this month</div>
 				</div>
@@ -52,8 +52,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Go</span>
-						<span>⭐ 43773</span>
-						<span>🔱 3155</span>
+						<span>⭐ 43828</span>
+						<span>🔱 3158</span>
 					</div>
 				<div class="stars-today">⭐ 22080 stars this month</div>
 				</div>
@@ -74,8 +74,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 JavaScript</span>
-						<span>⭐ 273152</span>
-						<span>🔱 40768</span>
+						<span>⭐ 273414</span>
+						<span>🔱 40799</span>
 					</div>
 				<div class="stars-today">⭐ 26306 stars this month</div>
 				</div>
@@ -96,32 +96,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 53719</span>
-						<span>🔱 3081</span>
+						<span>⭐ 53841</span>
+						<span>🔱 3090</span>
 					</div>
 				<div class="stars-today">⭐ 26627 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/Tencent/WeKnora" target="_blank">
-    
-
-
-      
-        Tencent /
-
-      WeKnora</a></p>
-				<p>
-      Open-source LLM knowledge platform: turn raw documents into a queryable RAG, an autonomous reasoning agent, and a self-maintaining Wiki.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Go</span>
-						<span>⭐ 32078</span>
-						<span>🔱 4277</span>
-					</div>
-				<div class="stars-today">⭐ 10912 stars this month</div>
 				</div>
 			</div>
 	
@@ -138,32 +116,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 38737</span>
-						<span>🔱 5555</span>
+						<span>⭐ 38772</span>
+						<span>🔱 5560</span>
 					</div>
 				<div class="stars-today">⭐ 4143 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/mksglu/context-mode" target="_blank">
-    
-
-
-      
-        mksglu /
-
-      context-mode</a></p>
-				<p>
-      Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 25435</span>
-						<span>🔱 1821</span>
-					</div>
-				<div class="stars-today">⭐ 5116 stars this month</div>
 				</div>
 			</div>
 	
@@ -182,32 +138,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 97312</span>
-						<span>🔱 16465</span>
+						<span>⭐ 97509</span>
+						<span>🔱 16484</span>
 					</div>
 				<div class="stars-today">⭐ 17361 stars this month</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/tt-a1i/archify" target="_blank">
+				<p><a href="https://github.com/Tencent/WeKnora" target="_blank">
     
 
 
       
-        tt-a1i /
+        Tencent /
 
-      archify</a></p>
+      WeKnora</a></p>
 				<p>
-      Turn any idea, plan, or codebase into a beautiful interactive diagram. An agent skill for Claude Code, Codex, and more.
+      Open-source LLM knowledge platform: turn raw documents into a queryable RAG, an autonomous reasoning agent, and a self-maintaining Wiki.
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 JavaScript</span>
-						<span>⭐ 77679</span>
-						<span>🔱 5220</span>
+						<span>🔠 Go</span>
+						<span>⭐ 32140</span>
+						<span>🔱 4284</span>
 					</div>
-				<div class="stars-today">⭐ 30184 stars this month</div>
+				<div class="stars-today">⭐ 10912 stars this month</div>
 				</div>
 			</div>
 	
@@ -226,10 +182,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 45622</span>
-						<span>🔱 5917</span>
+						<span>⭐ 45818</span>
+						<span>🔱 5922</span>
 					</div>
 				<div class="stars-today">⭐ 23232 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/mksglu/context-mode" target="_blank">
+    
+
+
+      
+        mksglu /
+
+      context-mode</a></p>
+				<p>
+      Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 25458</span>
+						<span>🔱 1823</span>
+					</div>
+				<div class="stars-today">⭐ 5116 stars this month</div>
 				</div>
 			</div>
 	
@@ -248,10 +226,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 56925</span>
-						<span>🔱 5105</span>
+						<span>⭐ 57129</span>
+						<span>🔱 5120</span>
 					</div>
 				<div class="stars-today">⭐ 12865 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/tt-a1i/archify" target="_blank">
+    
+
+
+      
+        tt-a1i /
+
+      archify</a></p>
+				<p>
+      Turn any idea, plan, or codebase into a beautiful interactive diagram. An agent skill for Claude Code, Codex, and more.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 JavaScript</span>
+						<span>⭐ 77949</span>
+						<span>🔱 5235</span>
+					</div>
+				<div class="stars-today">⭐ 30184 stars this month</div>
 				</div>
 			</div>
 	
@@ -270,8 +270,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 149454</span>
-						<span>🔱 25517</span>
+						<span>⭐ 149482</span>
+						<span>🔱 25578</span>
 					</div>
 				<div class="stars-today">⭐ 5996 stars this month</div>
 				</div>
@@ -292,32 +292,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 6798</span>
-						<span>🔱 841</span>
+						<span>⭐ 6939</span>
+						<span>🔱 860</span>
 					</div>
 				<div class="stars-today">⭐ 5298 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/superdesigndev/treg" target="_blank">
-    
-
-
-      
-        superdesigndev /
-
-      treg</a></p>
-				<p>
-      OpenRouter for agent tools. Join community here: https://discord.gg/6mQYYfFMAn
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 4156</span>
-						<span>🔱 347</span>
-					</div>
-				<div class="stars-today">⭐ 2955 stars this month</div>
 				</div>
 			</div>
 	
@@ -336,8 +314,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Go</span>
-						<span>⭐ 4314</span>
-						<span>🔱 506</span>
+						<span>⭐ 4332</span>
+						<span>🔱 510</span>
 					</div>
 				<div class="stars-today">⭐ 2515 stars this month</div>
 				</div>
@@ -358,8 +336,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Rust</span>
-						<span>⭐ 14920</span>
-						<span>🔱 1699</span>
+						<span>⭐ 14964</span>
+						<span>🔱 1704</span>
 					</div>
 				<div class="stars-today">⭐ 6356 stars this month</div>
 				</div>
@@ -380,10 +358,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 JavaScript</span>
-						<span>⭐ 155274</span>
-						<span>🔱 8346</span>
+						<span>⭐ 155741</span>
+						<span>🔱 8364</span>
 					</div>
 				<div class="stars-today">⭐ 30466 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/superdesigndev/treg" target="_blank">
+    
+
+
+      
+        superdesigndev /
+
+      treg</a></p>
+				<p>
+      OpenRouter for agent tools. Join community here: https://discord.gg/6mQYYfFMAn
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 4171</span>
+						<span>🔱 349</span>
+					</div>
+				<div class="stars-today">⭐ 2955 stars this month</div>
 				</div>
 			</div>
 	
@@ -402,8 +402,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 9846</span>
-						<span>🔱 928</span>
+						<span>⭐ 9922</span>
+						<span>🔱 935</span>
 					</div>
 				<div class="stars-today">⭐ 3095 stars this month</div>
 				</div>
@@ -424,54 +424,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Rust</span>
-						<span>⭐ 28091</span>
-						<span>🔱 1992</span>
+						<span>⭐ 28130</span>
+						<span>🔱 1996</span>
 					</div>
 				<div class="stars-today">⭐ 5942 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/max-sixty/worktrunk" target="_blank">
-    
-
-
-      
-        max-sixty /
-
-      worktrunk</a></p>
-				<p>
-      Worktrunk is a CLI for Git worktree management, designed for parallel AI agent workflows
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Rust</span>
-						<span>⭐ 8818</span>
-						<span>🔱 315</span>
-					</div>
-				<div class="stars-today">⭐ 2049 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/anthropics/knowledge-work-plugins" target="_blank">
-    
-
-
-      
-        anthropics /
-
-      knowledge-work-plugins</a></p>
-				<p>
-      Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 26105</span>
-						<span>🔱 3054</span>
-					</div>
-				<div class="stars-today">⭐ 2297 stars this month</div>
 				</div>
 			</div>
 	
@@ -490,10 +446,54 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 30737</span>
-						<span>🔱 4310</span>
+						<span>⭐ 30852</span>
+						<span>🔱 4323</span>
 					</div>
 				<div class="stars-today">⭐ 6502 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/anthropics/knowledge-work-plugins" target="_blank">
+    
+
+
+      
+        anthropics /
+
+      knowledge-work-plugins</a></p>
+				<p>
+      Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 26148</span>
+						<span>🔱 3058</span>
+					</div>
+				<div class="stars-today">⭐ 2297 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/max-sixty/worktrunk" target="_blank">
+    
+
+
+      
+        max-sixty /
+
+      worktrunk</a></p>
+				<p>
+      Worktrunk is a CLI for Git worktree management, designed for parallel AI agent workflows
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Rust</span>
+						<span>⭐ 8830</span>
+						<span>🔱 320</span>
+					</div>
+				<div class="stars-today">⭐ 2049 stars this month</div>
 				</div>
 			</div>
 	
@@ -512,8 +512,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Java</span>
-						<span>⭐ 80666</span>
-						<span>🔱 8972</span>
+						<span>⭐ 80740</span>
+						<span>🔱 8976</span>
 					</div>
 				<div class="stars-today">⭐ 6321 stars this month</div>
 				</div>

@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2026年第41周
-date: 2026-10-05T07:43:57Z
+date: 2026-10-05T16:26:14Z
 categories:
 - weekly
 keywords:
@@ -14,6 +14,28 @@ keywords:
 	<main class="container">
         <div class="repo-list" id="repoList">
 
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/pbakaus/impeccable" target="_blank">
+    
+
+
+      
+        pbakaus /
+
+      impeccable</a></p>
+				<p>
+      The design language that makes your AI harness better at design.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 JavaScript</span>
+						<span>⭐ 76904</span>
+						<span>🔱 4588</span>
+					</div>
+				<div class="stars-today">⭐ 4242 stars this week</div>
+				</div>
+			</div>
 	
 			<div class="repo-card">
 				<p><a href="https://github.com/paperclipai/paperclip" target="_blank">
@@ -30,8 +52,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 97312</span>
-						<span>🔱 16465</span>
+						<span>⭐ 97509</span>
+						<span>🔱 16484</span>
 					</div>
 				<div class="stars-today">⭐ 8732 stars this week</div>
 				</div>
@@ -52,54 +74,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 45622</span>
-						<span>🔱 5917</span>
+						<span>⭐ 45818</span>
+						<span>🔱 5922</span>
 					</div>
 				<div class="stars-today">⭐ 10623 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/pbakaus/impeccable" target="_blank">
-    
-
-
-      
-        pbakaus /
-
-      impeccable</a></p>
-				<p>
-      The design language that makes your AI harness better at design.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 JavaScript</span>
-						<span>⭐ 76580</span>
-						<span>🔱 4571</span>
-					</div>
-				<div class="stars-today">⭐ 4242 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/debpalash/VoiceStudio" target="_blank">
-    
-
-
-      
-        debpalash /
-
-      VoiceStudio</a></p>
-				<p>
-      VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 53333</span>
-						<span>🔱 5940</span>
-					</div>
-				<div class="stars-today">⭐ 14689 stars this week</div>
 				</div>
 			</div>
 	
@@ -118,54 +96,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 56925</span>
-						<span>🔱 5105</span>
+						<span>⭐ 57129</span>
+						<span>🔱 5120</span>
 					</div>
 				<div class="stars-today">⭐ 3096 stars this week</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/Effect-TS/effect" target="_blank">
+				<p><a href="https://github.com/debpalash/VoiceStudio" target="_blank">
     
 
 
       
-        Effect-TS /
+        debpalash /
 
-      effect</a></p>
+      VoiceStudio</a></p>
 				<p>
-      Build production-ready applications in TypeScript
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 17005</span>
-						<span>🔱 821</span>
-					</div>
-				<div class="stars-today">⭐ 702 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/rohitg00/ai-engineering-from-scratch" target="_blank">
-    
-
-
-      
-        rohitg00 /
-
-      ai-engineering-from-scratch</a></p>
-				<p>
-      Learn it. Build it. Ship it for others.
+      VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 64116</span>
-						<span>🔱 10987</span>
+						<span>⭐ 53563</span>
+						<span>🔱 5977</span>
 					</div>
-				<div class="stars-today">⭐ 4904 stars this week</div>
+				<div class="stars-today">⭐ 14689 stars this week</div>
 				</div>
 			</div>
 	
@@ -184,10 +140,118 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 91215</span>
-						<span>🔱 8009</span>
+						<span>⭐ 91639</span>
+						<span>🔱 8047</span>
 					</div>
 				<div class="stars-today">⭐ 4789 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/Effect-TS/effect" target="_blank">
+    
+
+
+      
+        Effect-TS /
+
+      effect</a></p>
+				<p>
+      Build production-ready applications in TypeScript
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 17026</span>
+						<span>🔱 823</span>
+					</div>
+				<div class="stars-today">⭐ 702 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/DietrichGebert/ponytail" target="_blank">
+    
+
+
+      
+        DietrichGebert /
+
+      ponytail</a></p>
+				<p>
+      Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 JavaScript</span>
+						<span>⭐ 155741</span>
+						<span>🔱 8364</span>
+					</div>
+				<div class="stars-today">⭐ 7948 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/Gaurav-Gosain/tuios" target="_blank">
+    
+
+
+      
+        Gaurav-Gosain /
+
+      tuios</a></p>
+				<p>
+      A terminal window manager that knows what your agents are doing. Tiling panes, workspaces, sessions that survive restarts, and one Inbox for every coding agent.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Go</span>
+						<span>⭐ 4773</span>
+						<span>🔱 209</span>
+					</div>
+				<div class="stars-today">⭐ 708 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/pingdotgg/t3code" target="_blank">
+    
+
+
+      
+        pingdotgg /
+
+      t3code</a></p>
+				<p></p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 25480</span>
+						<span>🔱 6573</span>
+					</div>
+				<div class="stars-today">⭐ 1304 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/rohitg00/ai-engineering-from-scratch" target="_blank">
+    
+
+
+      
+        rohitg00 /
+
+      ai-engineering-from-scratch</a></p>
+				<p>
+      Learn it. Build it. Ship it for others.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 64549</span>
+						<span>🔱 11085</span>
+					</div>
+				<div class="stars-today">⭐ 4904 stars this week</div>
 				</div>
 			</div>
 	
@@ -206,52 +270,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 27626</span>
-						<span>🔱 3892</span>
+						<span>⭐ 27664</span>
+						<span>🔱 3895</span>
 					</div>
 				<div class="stars-today">⭐ 1024 stars this week</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/pingdotgg/t3code" target="_blank">
+				<p><a href="https://github.com/cloudflare/cloudflare-os" target="_blank">
     
 
 
       
-        pingdotgg /
+        cloudflare /
 
-      t3code</a></p>
-				<p></p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 25316</span>
-						<span>🔱 6535</span>
-					</div>
-				<div class="stars-today">⭐ 1304 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/TencentCloud/Octop" target="_blank">
-    
-
-
-      
-        TencentCloud /
-
-      Octop</a></p>
+      cloudflare-os</a></p>
 				<p>
-      A smarter, self-hosted AI assistant — multi-user, multi-agent.
+      Agent workspace built on Cloudflare Workers for creating documents, building apps, and running agents with your company’s context and systems.
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 6798</span>
-						<span>🔱 841</span>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 10893</span>
+						<span>🔱 1302</span>
 					</div>
-				<div class="stars-today">⭐ 1496 stars this week</div>
+				<div class="stars-today">⭐ 655 stars this week</div>
 				</div>
 			</div>
 	
@@ -270,10 +314,54 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 8381</span>
-						<span>🔱 841</span>
+						<span>⭐ 8407</span>
+						<span>🔱 849</span>
 					</div>
 				<div class="stars-today">⭐ 839 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/cursor/plugins" target="_blank">
+    
+
+
+      
+        cursor /
+
+      plugins</a></p>
+				<p>
+      Cursor plugin specification and official plugins
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 9922</span>
+						<span>🔱 935</span>
+					</div>
+				<div class="stars-today">⭐ 994 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/TencentCloud/Octop" target="_blank">
+    
+
+
+      
+        TencentCloud /
+
+      Octop</a></p>
+				<p>
+      A smarter, self-hosted AI assistant — multi-user, multi-agent.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 6939</span>
+						<span>🔱 860</span>
+					</div>
+				<div class="stars-today">⭐ 1496 stars this week</div>
 				</div>
 			</div>
 	
@@ -292,76 +380,54 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 128523</span>
-						<span>🔱 20099</span>
+						<span>⭐ 128591</span>
+						<span>🔱 20117</span>
 					</div>
 				<div class="stars-today">⭐ 2291 stars this week</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/vercel/next.js" target="_blank">
+				<p><a href="https://github.com/caddyserver/caddy" target="_blank">
     
 
 
       
-        vercel /
+        caddyserver /
 
-      next.js</a></p>
+      caddy</a></p>
 				<p>
-      The React Framework
+      Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 JavaScript</span>
-						<span>⭐ 143182</span>
-						<span>🔱 33937</span>
+						<span>🔠 Go</span>
+						<span>⭐ 76929</span>
+						<span>🔱 5065</span>
 					</div>
-				<div class="stars-today">⭐ 477 stars this week</div>
+				<div class="stars-today">⭐ 358 stars this week</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/cs341-illinois/coursebook" target="_blank">
+				<p><a href="https://github.com/msitarzewski/agency-agents" target="_blank">
     
 
 
       
-        cs341-illinois /
+        msitarzewski /
 
-      coursebook</a></p>
+      agency-agents</a></p>
 				<p>
-      Open Source Introductory Systems Programming Textbook for the University of Illinois
+      A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 TeX</span>
-						<span>⭐ 3709</span>
-						<span>🔱 310</span>
+						<span>🔠 Shell</span>
+						<span>⭐ 157072</span>
+						<span>🔱 25346</span>
 					</div>
-				<div class="stars-today">⭐ 1626 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/NVIDIA/OpenShell" target="_blank">
-    
-
-
-      
-        NVIDIA /
-
-      OpenShell</a></p>
-				<p>
-      OpenShell is the safe, private runtime for autonomous AI agents.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Rust</span>
-						<span>⭐ 14920</span>
-						<span>🔱 1699</span>
-					</div>
-				<div class="stars-today">⭐ 5996 stars this week</div>
+				<div class="stars-today">⭐ 1866 stars this week</div>
 				</div>
 			</div>
 	
@@ -380,8 +446,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 4469</span>
-						<span>🔱 393</span>
+						<span>⭐ 4582</span>
+						<span>🔱 408</span>
 					</div>
 				<div class="stars-today">⭐ 2361 stars this week</div>
 				</div>
@@ -402,32 +468,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 5038</span>
-						<span>🔱 366</span>
+						<span>⭐ 5142</span>
+						<span>🔱 380</span>
 					</div>
 				<div class="stars-today">⭐ 4251 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/HunxByts/GhostTrack" target="_blank">
-    
-
-
-      
-        HunxByts /
-
-      GhostTrack</a></p>
-				<p>
-      Useful tool to track location or mobile number
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 17073</span>
-						<span>🔱 2329</span>
-					</div>
-				<div class="stars-today">⭐ 1778 stars this week</div>
 				</div>
 			</div>
 	

@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2026-10-05
-date: 2026-10-05T07:43:57Z
+date: 2026-10-05T16:26:14Z
 categories:
 - daily
 keywords:
@@ -30,250 +30,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 3540</span>
-						<span>🔱 136</span>
+						<span>⭐ 4187</span>
+						<span>🔱 173</span>
 					</div>
-				<div class="stars-today">⭐ 345 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/pbakaus/impeccable" target="_blank">
-    
-
-
-      
-        pbakaus /
-
-      impeccable</a></p>
-				<p>
-      The design language that makes your AI harness better at design.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 JavaScript</span>
-						<span>⭐ 76580</span>
-						<span>🔱 4571</span>
-					</div>
-				<div class="stars-today">⭐ 1171 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/coreyhaines31/marketingskills" target="_blank">
-    
-
-
-      
-        coreyhaines31 /
-
-      marketingskills</a></p>
-				<p>
-      Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics, and growth engineering.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 JavaScript</span>
-						<span>⭐ 53218</span>
-						<span>🔱 7927</span>
-					</div>
-				<div class="stars-today">⭐ 197 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/DietrichGebert/ponytail" target="_blank">
-    
-
-
-      
-        DietrichGebert /
-
-      ponytail</a></p>
-				<p>
-      Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 JavaScript</span>
-						<span>⭐ 155274</span>
-						<span>🔱 8346</span>
-					</div>
-				<div class="stars-today">⭐ 1894 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/earthtojake/text-to-cad" target="_blank">
-    
-
-
-      
-        earthtojake /
-
-      text-to-cad</a></p>
-				<p>
-      Give your agent CAD superpowers.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 17012</span>
-						<span>🔱 1751</span>
-					</div>
-				<div class="stars-today">⭐ 83 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/Panniantong/Agent-Reach" target="_blank">
-    
-
-
-      
-        Panniantong /
-
-      Agent-Reach</a></p>
-				<p>
-      Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 91215</span>
-						<span>🔱 8009</span>
-					</div>
-				<div class="stars-today">⭐ 980 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/getsentry/sentry" target="_blank">
-    
-
-
-      
-        getsentry /
-
-      sentry</a></p>
-				<p>
-      Developer-first error tracking and performance monitoring
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 45443</span>
-						<span>🔱 4907</span>
-					</div>
-				<div class="stars-today">⭐ 152 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/calesthio/OpenMontage" target="_blank">
-    
-
-
-      
-        calesthio /
-
-      OpenMontage</a></p>
-				<p>
-      World's first open-source, agentic video production system. 12 production pipelines, 100+ tools, 700+ agent skill and production-knowledge files. Turn your AI coding assistant into a full video production studio.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 63411</span>
-						<span>🔱 8075</span>
-					</div>
-				<div class="stars-today">⭐ 245 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/pingdotgg/t3code" target="_blank">
-    
-
-
-      
-        pingdotgg /
-
-      t3code</a></p>
-				<p></p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 25316</span>
-						<span>🔱 6535</span>
-					</div>
-				<div class="stars-today">⭐ 490 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/caddyserver/caddy" target="_blank">
-    
-
-
-      
-        caddyserver /
-
-      caddy</a></p>
-				<p>
-      Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Go</span>
-						<span>⭐ 76700</span>
-						<span>🔱 5053</span>
-					</div>
-				<div class="stars-today">⭐ 24 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/michael-denyer/pstack-claude" target="_blank">
-    
-
-
-      
-        michael-denyer /
-
-      pstack-claude</a></p>
-				<p>
-      Claude Code, Codex, Pi, OpenCode, Gemini, and Prime Agent versions of Poteto's pstack. Rigorous agent workflows with Cursor primitives translated for other harnesses.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 JavaScript</span>
-						<span>⭐ 1232</span>
-						<span>🔱 140</span>
-					</div>
-				<div class="stars-today">⭐ 232 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/addyosmani/agent-skills" target="_blank">
-    
-
-
-      
-        addyosmani /
-
-      agent-skills</a></p>
-				<p>
-      Production-grade engineering skills for AI coding agents.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 JavaScript</span>
-						<span>⭐ 101318</span>
-						<span>🔱 10624</span>
-					</div>
-				<div class="stars-today">⭐ 336 stars today</div>
+				<div class="stars-today">⭐ 1430 stars today</div>
 				</div>
 			</div>
 	
@@ -292,76 +52,250 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 96282</span>
-						<span>🔱 8500</span>
+						<span>⭐ 96470</span>
+						<span>🔱 8517</span>
 					</div>
-				<div class="stars-today">⭐ 628 stars today</div>
+				<div class="stars-today">⭐ 534 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/garrytan/gstack" target="_blank">
+				<p><a href="https://github.com/michael-denyer/pstack-claude" target="_blank">
     
 
 
       
-        garrytan /
+        michael-denyer /
 
-      gstack</a></p>
+      pstack-claude</a></p>
 				<p>
-      Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, and QA
+      Claude Code, Codex, Pi, OpenCode, Gemini, and Prime Agent versions of Poteto's pstack. Rigorous agent workflows with Cursor primitives translated for other harnesses.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 JavaScript</span>
+						<span>⭐ 1344</span>
+						<span>🔱 148</span>
+					</div>
+				<div class="stars-today">⭐ 222 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/earthtojake/text-to-cad" target="_blank">
+    
+
+
+      
+        earthtojake /
+
+      text-to-cad</a></p>
+				<p>
+      Give your agent CAD superpowers.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 17225</span>
+						<span>🔱 1758</span>
+					</div>
+				<div class="stars-today">⭐ 456 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/pingdotgg/t3code" target="_blank">
+    
+
+
+      
+        pingdotgg /
+
+      t3code</a></p>
+				<p></p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 25480</span>
+						<span>🔱 6573</span>
+					</div>
+				<div class="stars-today">⭐ 487 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/boykopovar/AnyPS5" target="_blank">
+    
+
+
+      
+        boykopovar /
+
+      AnyPS5</a></p>
+				<p>
+      Tool for automatic PS5 executables porting to Linux and Windows
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 C++</span>
+						<span>⭐ 4649</span>
+						<span>🔱 354</span>
+					</div>
+				<div class="stars-today">⭐ 994 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/Panniantong/Agent-Reach" target="_blank">
+    
+
+
+      
+        Panniantong /
+
+      Agent-Reach</a></p>
+				<p>
+      Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 91639</span>
+						<span>🔱 8047</span>
+					</div>
+				<div class="stars-today">⭐ 1156 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/calesthio/OpenMontage" target="_blank">
+    
+
+
+      
+        calesthio /
+
+      OpenMontage</a></p>
+				<p>
+      World's first open-source, agentic video production system. 12 production pipelines, 100+ tools, 700+ agent skill and production-knowledge files. Turn your AI coding assistant into a full video production studio.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 63736</span>
+						<span>🔱 8105</span>
+					</div>
+				<div class="stars-today">⭐ 758 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/caddyserver/caddy" target="_blank">
+    
+
+
+      
+        caddyserver /
+
+      caddy</a></p>
+				<p>
+      Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Go</span>
+						<span>⭐ 76929</span>
+						<span>🔱 5065</span>
+					</div>
+				<div class="stars-today">⭐ 526 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/DuarteSantos8/openGym" target="_blank">
+    
+
+
+      
+        DuarteSantos8 /
+
+      openGym</a></p>
+				<p>
+      Self-hosted gym & body-weight tracker — plan routines, log workouts (supersets, warm-ups, cardio), see which muscles are trained, fatigued or detrained, import from FitNotes/Strong/Hevy, passkey login. Your data, your server.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 JavaScript</span>
+						<span>⭐ 3779</span>
+						<span>🔱 612</span>
+					</div>
+				<div class="stars-today">⭐ 1444 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/cloudflare/cloudflare-os" target="_blank">
+    
+
+
+      
+        cloudflare /
+
+      cloudflare-os</a></p>
+				<p>
+      Agent workspace built on Cloudflare Workers for creating documents, building apps, and running agents with your company’s context and systems.
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 135243</span>
-						<span>🔱 20096</span>
+						<span>⭐ 10893</span>
+						<span>🔱 1302</span>
 					</div>
-				<div class="stars-today">⭐ 125 stars today</div>
+				<div class="stars-today">⭐ 102 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/OpenCut-app/OpenCut" target="_blank">
+				<p><a href="https://github.com/Stremio/stremio-web" target="_blank">
     
 
 
       
-        OpenCut-app /
+        Stremio /
 
-      OpenCut</a></p>
+      stremio-web</a></p>
 				<p>
-      The open-source CapCut alternative
+      Stremio - Freedom to Stream
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 92391</span>
-						<span>🔱 9096</span>
+						<span>🔠 JavaScript</span>
+						<span>⭐ 14187</span>
+						<span>🔱 1623</span>
 					</div>
-				<div class="stars-today">⭐ 512 stars today</div>
+				<div class="stars-today">⭐ 111 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/antirez/ds4" target="_blank">
+				<p><a href="https://github.com/msitarzewski/agency-agents" target="_blank">
     
 
 
       
-        antirez /
+        msitarzewski /
 
-      ds4</a></p>
+      agency-agents</a></p>
 				<p>
-      DeepSeek 4 Flash and PRO local inference engine for Metal, CUDA and ROCm
+      A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 C</span>
-						<span>⭐ 23501</span>
-						<span>🔱 2255</span>
+						<span>🔠 Shell</span>
+						<span>⭐ 157072</span>
+						<span>🔱 25346</span>
 					</div>
-				<div class="stars-today">⭐ 211 stars today</div>
+				<div class="stars-today">⭐ 595 stars today</div>
 				</div>
 			</div>
 	
