@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2026-10-05
-date: 2026-10-05T16:26:14Z
+date: 2026-10-05T23:22:21Z
 categories:
 - daily
 keywords:
@@ -30,8 +30,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 4187</span>
-						<span>🔱 173</span>
+						<span>⭐ 4714</span>
+						<span>🔱 196</span>
 					</div>
 				<div class="stars-today">⭐ 1430 stars today</div>
 				</div>
@@ -52,32 +52,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 96470</span>
-						<span>🔱 8517</span>
+						<span>⭐ 96612</span>
+						<span>🔱 8520</span>
 					</div>
 				<div class="stars-today">⭐ 534 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/michael-denyer/pstack-claude" target="_blank">
-    
-
-
-      
-        michael-denyer /
-
-      pstack-claude</a></p>
-				<p>
-      Claude Code, Codex, Pi, OpenCode, Gemini, and Prime Agent versions of Poteto's pstack. Rigorous agent workflows with Cursor primitives translated for other harnesses.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 JavaScript</span>
-						<span>⭐ 1344</span>
-						<span>🔱 148</span>
-					</div>
-				<div class="stars-today">⭐ 222 stars today</div>
 				</div>
 			</div>
 	
@@ -96,8 +74,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 17225</span>
-						<span>🔱 1758</span>
+						<span>⭐ 17382</span>
+						<span>🔱 1768</span>
 					</div>
 				<div class="stars-today">⭐ 456 stars today</div>
 				</div>
@@ -116,8 +94,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 25480</span>
-						<span>🔱 6573</span>
+						<span>⭐ 25591</span>
+						<span>🔱 6594</span>
 					</div>
 				<div class="stars-today">⭐ 487 stars today</div>
 				</div>
@@ -138,8 +116,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 C++</span>
-						<span>⭐ 4649</span>
-						<span>🔱 354</span>
+						<span>⭐ 4920</span>
+						<span>🔱 368</span>
 					</div>
 				<div class="stars-today">⭐ 994 stars today</div>
 				</div>
@@ -160,8 +138,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 91639</span>
-						<span>🔱 8047</span>
+						<span>⭐ 91849</span>
+						<span>🔱 8062</span>
 					</div>
 				<div class="stars-today">⭐ 1156 stars today</div>
 				</div>
@@ -182,8 +160,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 63736</span>
-						<span>🔱 8105</span>
+						<span>⭐ 63994</span>
+						<span>🔱 8124</span>
 					</div>
 				<div class="stars-today">⭐ 758 stars today</div>
 				</div>
@@ -204,8 +182,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Go</span>
-						<span>⭐ 76929</span>
-						<span>🔱 5065</span>
+						<span>⭐ 77088</span>
+						<span>🔱 5073</span>
 					</div>
 				<div class="stars-today">⭐ 526 stars today</div>
 				</div>
@@ -226,8 +204,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 JavaScript</span>
-						<span>⭐ 3779</span>
-						<span>🔱 612</span>
+						<span>⭐ 4158</span>
+						<span>🔱 651</span>
 					</div>
 				<div class="stars-today">⭐ 1444 stars today</div>
 				</div>
@@ -248,8 +226,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 10893</span>
-						<span>🔱 1302</span>
+						<span>⭐ 10992</span>
+						<span>🔱 1308</span>
 					</div>
 				<div class="stars-today">⭐ 102 stars today</div>
 				</div>
@@ -270,8 +248,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 JavaScript</span>
-						<span>⭐ 14187</span>
-						<span>🔱 1623</span>
+						<span>⭐ 14277</span>
+						<span>🔱 1628</span>
 					</div>
 				<div class="stars-today">⭐ 111 stars today</div>
 				</div>
@@ -292,10 +270,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Shell</span>
-						<span>⭐ 157072</span>
-						<span>🔱 25346</span>
+						<span>⭐ 157230</span>
+						<span>🔱 25366</span>
 					</div>
-				<div class="stars-today">⭐ 595 stars today</div>
+				<div class="stars-today">⭐ 687 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/M-Abozaid/esp32-c3-adblock" target="_blank">
+    
+
+
+      
+        M-Abozaid /
+
+      esp32-c3-adblock</a></p>
+				<p>
+      Pi-hole-class DNS ad-blocker on a $2 ESP32-C3 (no PSRAM): 537k domains as 40-bit FNV-1a hashes in flash, binary-searched. UDP DNS sinkhole + web dashboard. https://youtube.com/shorts/RaxszOUMi8E?feature=share
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 C++</span>
+						<span>⭐ 1317</span>
+						<span>🔱 120</span>
+					</div>
+				<div class="stars-today">⭐ 196 stars today</div>
 				</div>
 			</div>
 	
