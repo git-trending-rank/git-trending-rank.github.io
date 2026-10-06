@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2026年第41周
-date: 2026-10-06T17:25:50Z
+date: 2026-10-06T21:54:39Z
 categories:
 - weekly
 keywords:
@@ -30,8 +30,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 5440</span>
-						<span>🔱 398</span>
+						<span>⭐ 5482</span>
+						<span>🔱 401</span>
 					</div>
 				<div class="stars-today">⭐ 3776 stars this week</div>
 				</div>
@@ -52,8 +52,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 57772</span>
-						<span>🔱 5155</span>
+						<span>⭐ 57887</span>
+						<span>🔱 5159</span>
 					</div>
 				<div class="stars-today">⭐ 3342 stars this week</div>
 				</div>
@@ -74,8 +74,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 10070</span>
-						<span>🔱 954</span>
+						<span>⭐ 10092</span>
+						<span>🔱 957</span>
 					</div>
 				<div class="stars-today">⭐ 1042 stars this week</div>
 				</div>
@@ -96,8 +96,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Rust</span>
-						<span>⭐ 15091</span>
-						<span>🔱 1715</span>
+						<span>⭐ 15119</span>
+						<span>🔱 1716</span>
 					</div>
 				<div class="stars-today">⭐ 5915 stars this week</div>
 				</div>
@@ -118,8 +118,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 38756</span>
-						<span>🔱 3357</span>
+						<span>⭐ 38777</span>
+						<span>🔱 3358</span>
 					</div>
 				<div class="stars-today">⭐ 2860 stars this week</div>
 				</div>
@@ -140,8 +140,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 97011</span>
-						<span>🔱 8551</span>
+						<span>⭐ 97111</span>
+						<span>🔱 8555</span>
 					</div>
 				<div class="stars-today">⭐ 1759 stars this week</div>
 				</div>
@@ -162,8 +162,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 4799</span>
-						<span>🔱 419</span>
+						<span>⭐ 4841</span>
+						<span>🔱 421</span>
 					</div>
 				<div class="stars-today">⭐ 2741 stars this week</div>
 				</div>
@@ -184,8 +184,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 17183</span>
-						<span>🔱 2342</span>
+						<span>⭐ 17209</span>
+						<span>🔱 2347</span>
 					</div>
 				<div class="stars-today">⭐ 1985 stars this week</div>
 				</div>
@@ -206,8 +206,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 JavaScript</span>
-						<span>⭐ 5331</span>
-						<span>🔱 750</span>
+						<span>⭐ 5581</span>
+						<span>🔱 768</span>
 					</div>
 				<div class="stars-today">⭐ 2702 stars this week</div>
 				</div>
@@ -228,8 +228,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 C++</span>
-						<span>⭐ 5844</span>
-						<span>🔱 440</span>
+						<span>⭐ 6312</span>
+						<span>🔱 464</span>
 					</div>
 				<div class="stars-today">⭐ 2657 stars this week</div>
 				</div>
@@ -250,8 +250,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 92502</span>
-						<span>🔱 8112</span>
+						<span>⭐ 92590</span>
+						<span>🔱 8122</span>
 					</div>
 				<div class="stars-today">⭐ 5703 stars this week</div>
 				</div>
@@ -267,13 +267,13 @@ keywords:
 
       up</a></p>
 				<p>
-      An advanced guide which might benefit you a lot 🎉 . 韩先凯的人生进阶指南 人生进阶指南 离谱的人生 人生进阶 AI学习 AI指南 韩先凯的AI学习指南 英语学习指南/英语学习教程/英语学习/学英语
+      中英双语终身学习指南：英语学习、AI 协作、真实项目与成长证据。A bilingual guide to English learning and AI-era growth.
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 JavaScript</span>
-						<span>⭐ 67489</span>
-						<span>🔱 6694</span>
+						<span>⭐ 67496</span>
+						<span>🔱 6697</span>
 					</div>
 				<div class="stars-today">⭐ 2827 stars this week</div>
 				</div>
