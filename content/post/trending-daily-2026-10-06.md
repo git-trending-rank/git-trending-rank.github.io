@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2026-10-06
-date: 2026-10-06T10:48:42Z
+date: 2026-10-06T17:25:50Z
 categories:
 - daily
 keywords:
@@ -30,32 +30,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 5451</span>
-						<span>🔱 235</span>
+						<span>⭐ 5954</span>
+						<span>🔱 266</span>
 					</div>
-				<div class="stars-today">⭐ 1398 stars today</div>
+				<div class="stars-today">⭐ 1720 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/thedotmack/claude-mem" target="_blank">
+				<p><a href="https://github.com/mattpocock/skills" target="_blank">
     
 
 
       
-        thedotmack /
+        mattpocock /
 
-      claude-mem</a></p>
+      skills</a></p>
 				<p>
-      Persistent Context Across Sessions for Every Agent – Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More
+      Skills for Real Engineers. Straight from my .agents directory.
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 96844</span>
-						<span>🔱 8540</span>
+						<span>🔠 Shell</span>
+						<span>⭐ 277836</span>
+						<span>🔱 23269</span>
 					</div>
-				<div class="stars-today">⭐ 534 stars today</div>
+				<div class="stars-today">⭐ 972 stars today</div>
 				</div>
 			</div>
 	
@@ -74,30 +74,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 17674</span>
-						<span>🔱 1782</span>
+						<span>⭐ 17830</span>
+						<span>🔱 1795</span>
 					</div>
-				<div class="stars-today">⭐ 437 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/pingdotgg/t3code" target="_blank">
-    
-
-
-      
-        pingdotgg /
-
-      t3code</a></p>
-				<p></p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 25768</span>
-						<span>🔱 6633</span>
-					</div>
-				<div class="stars-today">⭐ 485 stars today</div>
+				<div class="stars-today">⭐ 620 stars today</div>
 				</div>
 			</div>
 	
@@ -116,142 +96,120 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 C++</span>
-						<span>⭐ 5292</span>
-						<span>🔱 393</span>
+						<span>⭐ 5844</span>
+						<span>🔱 440</span>
 					</div>
-				<div class="stars-today">⭐ 997 stars today</div>
+				<div class="stars-today">⭐ 943 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/Panniantong/Agent-Reach" target="_blank">
+				<p><a href="https://github.com/pbakaus/impeccable" target="_blank">
     
 
 
       
-        Panniantong /
+        pbakaus /
 
-      Agent-Reach</a></p>
+      impeccable</a></p>
 				<p>
-      Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 92314</span>
-						<span>🔱 8096</span>
-					</div>
-				<div class="stars-today">⭐ 1155 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/calesthio/OpenMontage" target="_blank">
-    
-
-
-      
-        calesthio /
-
-      OpenMontage</a></p>
-				<p>
-      World's first open-source, agentic video production system. 12 production pipelines, 100+ tools, 700+ agent skill and production-knowledge files. Turn your AI coding assistant into a full video production studio.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 64442</span>
-						<span>🔱 8161</span>
-					</div>
-				<div class="stars-today">⭐ 742 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/caddyserver/caddy" target="_blank">
-    
-
-
-      
-        caddyserver /
-
-      caddy</a></p>
-				<p>
-      Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Go</span>
-						<span>⭐ 77365</span>
-						<span>🔱 5086</span>
-					</div>
-				<div class="stars-today">⭐ 515 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/DuarteSantos8/openGym" target="_blank">
-    
-
-
-      
-        DuarteSantos8 /
-
-      openGym</a></p>
-				<p>
-      Self-hosted gym & body-weight tracker — plan routines, log workouts (supersets, warm-ups, cardio), see which muscles are trained, fatigued or detrained, import from FitNotes/Strong/Hevy, passkey login. Your data, your server.
+      The design language that makes your AI harness better at design.
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 JavaScript</span>
-						<span>⭐ 4791</span>
-						<span>🔱 708</span>
+						<span>⭐ 77528</span>
+						<span>🔱 4618</span>
 					</div>
-				<div class="stars-today">⭐ 1433 stars today</div>
+				<div class="stars-today">⭐ 609 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/cloudflare/cloudflare-os" target="_blank">
+				<p><a href="https://github.com/thedotmack/claude-mem" target="_blank">
     
 
 
       
-        cloudflare /
+        thedotmack /
 
-      cloudflare-os</a></p>
+      claude-mem</a></p>
 				<p>
-      Agent workspace built on Cloudflare Workers for creating documents, building apps, and running agents with your company’s context and systems.
+      Persistent Context Across Sessions for Every Agent – Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 11155</span>
-						<span>🔱 1319</span>
+						<span>⭐ 97011</span>
+						<span>🔱 8551</span>
 					</div>
-				<div class="stars-today">⭐ 101 stars today</div>
+				<div class="stars-today">⭐ 536 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/Stremio/stremio-web" target="_blank">
+				<p><a href="https://github.com/ayghri/i-have-adhd" target="_blank">
     
 
 
       
-        Stremio /
+        ayghri /
 
-      stremio-web</a></p>
+      i-have-adhd</a></p>
 				<p>
-      Stremio - Freedom to Stream
+      A skill to stop your coding agent from burying the answer. ADHD-friendly output.
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 JavaScript</span>
-						<span>⭐ 14396</span>
-						<span>🔱 1636</span>
+						<span>🔠 Python</span>
+						<span>⭐ 54252</span>
+						<span>🔱 3119</span>
 					</div>
-				<div class="stars-today">⭐ 111 stars today</div>
+				<div class="stars-today">⭐ 318 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/morluto/rea" target="_blank">
+    
+
+
+      
+        morluto /
+
+      rea</a></p>
+				<p>
+      Reverse engineer anything with agents, from app behavior down to native binaries.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 7951</span>
+						<span>🔱 884</span>
+					</div>
+				<div class="stars-today">⭐ 2963 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/deepseek-ai/DeepGEMM" target="_blank">
+    
+
+
+      
+        deepseek-ai /
+
+      DeepGEMM</a></p>
+				<p>
+      DeepGEMM: clean and efficient BLAS kernel library on GPU
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Cuda</span>
+						<span>⭐ 8628</span>
+						<span>🔱 1365</span>
+					</div>
+				<div class="stars-today">⭐ 363 stars today</div>
 				</div>
 			</div>
 	
@@ -270,32 +228,54 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Shell</span>
-						<span>⭐ 157515</span>
-						<span>🔱 25398</span>
+						<span>⭐ 157678</span>
+						<span>🔱 25415</span>
 					</div>
-				<div class="stars-today">⭐ 744 stars today</div>
+				<div class="stars-today">⭐ 621 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/M-Abozaid/esp32-c3-adblock" target="_blank">
+				<p><a href="https://github.com/DuarteSantos8/openGym" target="_blank">
     
 
 
       
-        M-Abozaid /
+        DuarteSantos8 /
 
-      esp32-c3-adblock</a></p>
+      openGym</a></p>
 				<p>
-      Pi-hole-class DNS ad-blocker on a $2 ESP32-C3 (no PSRAM): 537k domains as 40-bit FNV-1a hashes in flash, binary-searched. UDP DNS sinkhole + web dashboard. https://youtube.com/shorts/RaxszOUMi8E?feature=share
+      Self-hosted gym & body-weight tracker — plan routines, log workouts (supersets, warm-ups, cardio), see which muscles are trained, fatigued or detrained, import from FitNotes/Strong/Hevy, passkey login. Your data, your server.
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 C++</span>
-						<span>⭐ 1610</span>
-						<span>🔱 140</span>
+						<span>🔠 JavaScript</span>
+						<span>⭐ 5331</span>
+						<span>🔱 750</span>
 					</div>
-				<div class="stars-today">⭐ 196 stars today</div>
+				<div class="stars-today">⭐ 1419 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/cathrynlavery/diagram-design" target="_blank">
+    
+
+
+      
+        cathrynlavery /
+
+      diagram-design</a></p>
+				<p>
+      Editorial diagram design for Claude Code, Codex, GitHub Copilot, Factory Droid, and Pi. 42 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 HTML</span>
+						<span>⭐ 43824</span>
+						<span>🔱 2835</span>
+					</div>
+				<div class="stars-today">⭐ 227 stars today</div>
 				</div>
 			</div>
 	

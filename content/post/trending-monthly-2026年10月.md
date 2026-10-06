@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2026年10月
-date: 2026-10-06T10:48:43Z
+date: 2026-10-06T17:25:50Z
 categories:
 - monthly
 keywords:
@@ -14,28 +14,6 @@ keywords:
 	<main class="container">
         <div class="repo-list" id="repoList">
 
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/bilawalsidhu/gods-eye-view" target="_blank">
-    
-
-
-      
-        bilawalsidhu /
-
-      gods-eye-view</a></p>
-				<p>
-      A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 JavaScript</span>
-						<span>⭐ 48138</span>
-						<span>🔱 9796</span>
-					</div>
-				<div class="stars-today">⭐ 30235 stars this month</div>
-				</div>
-			</div>
 	
 			<div class="repo-card">
 				<p><a href="https://github.com/alibaba/open-code-review" target="_blank">
@@ -52,10 +30,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Go</span>
-						<span>⭐ 43946</span>
-						<span>🔱 3168</span>
+						<span>⭐ 44007</span>
+						<span>🔱 3176</span>
 					</div>
 				<div class="stars-today">⭐ 22242 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/bilawalsidhu/gods-eye-view" target="_blank">
+    
+
+
+      
+        bilawalsidhu /
+
+      gods-eye-view</a></p>
+				<p>
+      A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 JavaScript</span>
+						<span>⭐ 48270</span>
+						<span>🔱 9817</span>
+					</div>
+				<div class="stars-today">⭐ 30235 stars this month</div>
 				</div>
 			</div>
 	
@@ -74,8 +74,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 JavaScript</span>
-						<span>⭐ 273910</span>
-						<span>🔱 40873</span>
+						<span>⭐ 274128</span>
+						<span>🔱 40906</span>
 					</div>
 				<div class="stars-today">⭐ 25740 stars this month</div>
 				</div>
@@ -96,8 +96,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 54072</span>
-						<span>🔱 3105</span>
+						<span>⭐ 54252</span>
+						<span>🔱 3119</span>
 					</div>
 				<div class="stars-today">⭐ 26953 stars this month</div>
 				</div>
@@ -116,8 +116,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 38830</span>
-						<span>🔱 5561</span>
+						<span>⭐ 38848</span>
+						<span>🔱 5562</span>
 					</div>
 				<div class="stars-today">⭐ 4207 stars this month</div>
 				</div>
@@ -138,8 +138,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 97863</span>
-						<span>🔱 16535</span>
+						<span>⭐ 97972</span>
+						<span>🔱 16555</span>
 					</div>
 				<div class="stars-today">⭐ 17769 stars this month</div>
 				</div>
@@ -160,8 +160,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Go</span>
-						<span>⭐ 32247</span>
-						<span>🔱 4297</span>
+						<span>⭐ 32276</span>
+						<span>🔱 4301</span>
 					</div>
 				<div class="stars-today">⭐ 10976 stars this month</div>
 				</div>
@@ -182,10 +182,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 46128</span>
-						<span>🔱 5941</span>
+						<span>⭐ 46254</span>
+						<span>🔱 5942</span>
 					</div>
 				<div class="stars-today">⭐ 23453 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/anthropics/claude-code" target="_blank">
+    
+
+
+      
+        anthropics /
+
+      claude-code</a></p>
+				<p>
+      Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 149607</span>
+						<span>🔱 25619</span>
+					</div>
+				<div class="stars-today">⭐ 6009 stars this month</div>
 				</div>
 			</div>
 	
@@ -204,8 +226,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 25511</span>
-						<span>🔱 1831</span>
+						<span>⭐ 25536</span>
+						<span>🔱 1832</span>
 					</div>
 				<div class="stars-today">⭐ 5191 stars this month</div>
 				</div>
@@ -226,54 +248,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 57549</span>
-						<span>🔱 5149</span>
+						<span>⭐ 57772</span>
+						<span>🔱 5155</span>
 					</div>
 				<div class="stars-today">⭐ 13245 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/tt-a1i/archify" target="_blank">
-    
-
-
-      
-        tt-a1i /
-
-      archify</a></p>
-				<p>
-      Turn any idea, plan, or codebase into a beautiful interactive diagram. An agent skill for Claude Code, Codex, and more.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 JavaScript</span>
-						<span>⭐ 78390</span>
-						<span>🔱 5267</span>
-					</div>
-				<div class="stars-today">⭐ 29482 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/anthropics/claude-code" target="_blank">
-    
-
-
-      
-        anthropics /
-
-      claude-code</a></p>
-				<p>
-      Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 149565</span>
-						<span>🔱 25622</span>
-					</div>
-				<div class="stars-today">⭐ 6009 stars this month</div>
 				</div>
 			</div>
 	
@@ -292,32 +270,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 7165</span>
-						<span>🔱 885</span>
+						<span>⭐ 7353</span>
+						<span>🔱 903</span>
 					</div>
 				<div class="stars-today">⭐ 5450 stars this month</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/agent-substrate/substrate" target="_blank">
+				<p><a href="https://github.com/tt-a1i/archify" target="_blank">
     
 
 
       
-        agent-substrate /
+        tt-a1i /
 
-      substrate</a></p>
+      archify</a></p>
 				<p>
-      Agent Substrate: the core system
+      Turn any idea, plan, or codebase into a beautiful interactive diagram. An agent skill for Claude Code, Codex, and more.
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Go</span>
-						<span>⭐ 4395</span>
-						<span>🔱 514</span>
+						<span>🔠 JavaScript</span>
+						<span>⭐ 78565</span>
+						<span>🔱 5285</span>
 					</div>
-				<div class="stars-today">⭐ 2571 stars this month</div>
+				<div class="stars-today">⭐ 29482 stars this month</div>
 				</div>
 			</div>
 	
@@ -336,10 +314,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Rust</span>
-						<span>⭐ 15048</span>
-						<span>🔱 1711</span>
+						<span>⭐ 15091</span>
+						<span>🔱 1715</span>
 					</div>
 				<div class="stars-today">⭐ 6534 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/agent-substrate/substrate" target="_blank">
+    
+
+
+      
+        agent-substrate /
+
+      substrate</a></p>
+				<p>
+      Agent Substrate: the core system
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Go</span>
+						<span>⭐ 4412</span>
+						<span>🔱 515</span>
+					</div>
+				<div class="stars-today">⭐ 2571 stars this month</div>
 				</div>
 			</div>
 	
@@ -358,32 +358,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 JavaScript</span>
-						<span>⭐ 156358</span>
-						<span>🔱 8397</span>
+						<span>⭐ 156623</span>
+						<span>🔱 8409</span>
 					</div>
 				<div class="stars-today">⭐ 29162 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/superdesigndev/treg" target="_blank">
-    
-
-
-      
-        superdesigndev /
-
-      treg</a></p>
-				<p>
-      OpenRouter for agent tools. Join community here: https://discord.gg/6mQYYfFMAn
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 4208</span>
-						<span>🔱 353</span>
-					</div>
-				<div class="stars-today">⭐ 2992 stars this month</div>
 				</div>
 			</div>
 	
@@ -402,8 +380,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 10025</span>
-						<span>🔱 947</span>
+						<span>⭐ 10070</span>
+						<span>🔱 954</span>
 					</div>
 				<div class="stars-today">⭐ 3201 stars this month</div>
 				</div>
@@ -424,32 +402,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Rust</span>
-						<span>⭐ 28321</span>
-						<span>🔱 2011</span>
+						<span>⭐ 28414</span>
+						<span>🔱 2021</span>
 					</div>
 				<div class="stars-today">⭐ 6026 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/tashfeenahmed/freellmapi" target="_blank">
-    
-
-
-      
-        tashfeenahmed /
-
-      freellmapi</a></p>
-				<p>
-      7.4 billion tokens per month. 34 free LLM providers. 635 free model endpoints. All behind one /v1 endpoint, plus any custom OpenAI-compatible endpoint. Smart routing, automatic failover, encrypted keys. Personal experimentation only.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 31084</span>
-						<span>🔱 4352</span>
-					</div>
-				<div class="stars-today">⭐ 6667 stars this month</div>
 				</div>
 			</div>
 	
@@ -468,10 +424,54 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 26235</span>
-						<span>🔱 3066</span>
+						<span>⭐ 26315</span>
+						<span>🔱 3074</span>
 					</div>
 				<div class="stars-today">⭐ 2343 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/tashfeenahmed/freellmapi" target="_blank">
+    
+
+
+      
+        tashfeenahmed /
+
+      freellmapi</a></p>
+				<p>
+      7.4 billion tokens per month. 34 free LLM providers. 635 free model endpoints. All behind one /v1 endpoint, plus any custom OpenAI-compatible endpoint. Smart routing, automatic failover, encrypted keys. Personal experimentation only.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 31182</span>
+						<span>🔱 4366</span>
+					</div>
+				<div class="stars-today">⭐ 6667 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/JustVugg/colibri" target="_blank">
+    
+
+
+      
+        JustVugg /
+
+      colibri</a></p>
+				<p>
+      Run frontier MoE models on hardware you already own — pure C, zero deps, experts streamed from disk. Tiny engine, immense model. 🐦
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 C</span>
+						<span>⭐ 39951</span>
+						<span>🔱 4398</span>
+					</div>
+				<div class="stars-today">⭐ 13114 stars this month</div>
 				</div>
 			</div>
 	
@@ -490,8 +490,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Rust</span>
-						<span>⭐ 8882</span>
-						<span>🔱 323</span>
+						<span>⭐ 8900</span>
+						<span>🔱 322</span>
 					</div>
 				<div class="stars-today">⭐ 2098 stars this month</div>
 				</div>
@@ -512,8 +512,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Java</span>
-						<span>⭐ 80941</span>
-						<span>🔱 8995</span>
+						<span>⭐ 81030</span>
+						<span>🔱 9001</span>
 					</div>
 				<div class="stars-today">⭐ 6491 stars this month</div>
 				</div>
