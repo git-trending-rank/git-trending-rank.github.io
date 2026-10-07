@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2026-10-07
-date: 2026-10-07T07:44:31Z
+date: 2026-10-07T14:46:30Z
 categories:
 - daily
 keywords:
@@ -16,24 +16,24 @@ keywords:
 
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/tester-army/e2e" target="_blank">
+				<p><a href="https://github.com/morluto/rea" target="_blank">
     
 
 
       
-        tester-army /
+        morluto /
 
-      e2e</a></p>
+      rea</a></p>
 				<p>
-      Next generation e2e testing framework for web and mobile apps.
+      Reverse engineer anything with agents, from app behavior down to native binaries.
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 6667</span>
-						<span>🔱 294</span>
+						<span>⭐ 12448</span>
+						<span>🔱 1335</span>
 					</div>
-				<div class="stars-today">⭐ 1725 stars today</div>
+				<div class="stars-today">⭐ 4666 stars today</div>
 				</div>
 			</div>
 	
@@ -52,32 +52,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Shell</span>
-						<span>⭐ 278515</span>
-						<span>🔱 23328</span>
+						<span>⭐ 279049</span>
+						<span>🔱 23376</span>
 					</div>
-				<div class="stars-today">⭐ 889 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/earthtojake/text-to-cad" target="_blank">
-    
-
-
-      
-        earthtojake /
-
-      text-to-cad</a></p>
-				<p>
-      Give your agent CAD superpowers.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 18140</span>
-						<span>🔱 1812</span>
-					</div>
-				<div class="stars-today">⭐ 619 stars today</div>
+				<div class="stars-today">⭐ 1406 stars today</div>
 				</div>
 			</div>
 	
@@ -96,54 +74,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 C++</span>
-						<span>⭐ 7208</span>
-						<span>🔱 545</span>
+						<span>⭐ 8844</span>
+						<span>🔱 657</span>
 					</div>
-				<div class="stars-today">⭐ 949 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/pbakaus/impeccable" target="_blank">
-    
-
-
-      
-        pbakaus /
-
-      impeccable</a></p>
-				<p>
-      The design language that makes your AI harness better at design.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 JavaScript</span>
-						<span>⭐ 77909</span>
-						<span>🔱 4636</span>
-					</div>
-				<div class="stars-today">⭐ 616 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/thedotmack/claude-mem" target="_blank">
-    
-
-
-      
-        thedotmack /
-
-      claude-mem</a></p>
-				<p>
-      Persistent Context Across Sessions for Every Agent – Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 97318</span>
-						<span>🔱 8576</span>
-					</div>
-				<div class="stars-today">⭐ 534 stars today</div>
+				<div class="stars-today">⭐ 2725 stars today</div>
 				</div>
 			</div>
 	
@@ -162,98 +96,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 54583</span>
-						<span>🔱 3134</span>
+						<span>⭐ 54820</span>
+						<span>🔱 3143</span>
 					</div>
-				<div class="stars-today">⭐ 326 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/morluto/rea" target="_blank">
-    
-
-
-      
-        morluto /
-
-      rea</a></p>
-				<p>
-      Reverse engineer anything with agents, from app behavior down to native binaries.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 10764</span>
-						<span>🔱 1187</span>
-					</div>
-				<div class="stars-today">⭐ 2956 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/deepseek-ai/DeepGEMM" target="_blank">
-    
-
-
-      
-        deepseek-ai /
-
-      DeepGEMM</a></p>
-				<p>
-      DeepGEMM: clean and efficient BLAS kernel library on GPU
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Cuda</span>
-						<span>⭐ 8794</span>
-						<span>🔱 1387</span>
-					</div>
-				<div class="stars-today">⭐ 199 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/msitarzewski/agency-agents" target="_blank">
-    
-
-
-      
-        msitarzewski /
-
-      agency-agents</a></p>
-				<p>
-      A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Shell</span>
-						<span>⭐ 158004</span>
-						<span>🔱 25463</span>
-					</div>
-				<div class="stars-today">⭐ 623 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/DuarteSantos8/openGym" target="_blank">
-    
-
-
-      
-        DuarteSantos8 /
-
-      openGym</a></p>
-				<p>
-      Self-hosted gym & body-weight tracker — plan routines, log workouts (supersets, warm-ups, cardio), see which muscles are trained, fatigued or detrained, import from FitNotes/Strong/Hevy, passkey login. Your data, your server.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 JavaScript</span>
-						<span>⭐ 6072</span>
-						<span>🔱 824</span>
-					</div>
-				<div class="stars-today">⭐ 1419 stars today</div>
+				<div class="stars-today">⭐ 620 stars today</div>
 				</div>
 			</div>
 	
@@ -272,10 +118,186 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 HTML</span>
-						<span>⭐ 44269</span>
-						<span>🔱 2851</span>
+						<span>⭐ 44594</span>
+						<span>🔱 2866</span>
 					</div>
-				<div class="stars-today">⭐ 228 stars today</div>
+				<div class="stars-today">⭐ 828 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/addyosmani/agent-skills" target="_blank">
+    
+
+
+      
+        addyosmani /
+
+      agent-skills</a></p>
+				<p>
+      Production-grade engineering skills for AI coding agents.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 JavaScript</span>
+						<span>⭐ 102481</span>
+						<span>🔱 10739</span>
+					</div>
+				<div class="stars-today">⭐ 453 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/EpicGames/raddebugger" target="_blank">
+    
+
+
+      
+        EpicGames /
+
+      raddebugger</a></p>
+				<p>
+      A native, user-mode, multi-process, graphical debugger.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 C</span>
+						<span>⭐ 7744</span>
+						<span>🔱 376</span>
+					</div>
+				<div class="stars-today">⭐ 82 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/thedotmack/claude-mem" target="_blank">
+    
+
+
+      
+        thedotmack /
+
+      claude-mem</a></p>
+				<p>
+      Persistent Context Across Sessions for Every Agent – Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 97493</span>
+						<span>🔱 8584</span>
+					</div>
+				<div class="stars-today">⭐ 578 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/manaflow-ai/cmux" target="_blank">
+    
+
+
+      
+        manaflow-ai /
+
+      cmux</a></p>
+				<p>
+      Open source Ghostty-based macOS terminal with vertical tabs and notifications for AI coding agents. Built for multitasking, organization, and programmability.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Swift</span>
+						<span>⭐ 27730</span>
+						<span>🔱 2458</span>
+					</div>
+				<div class="stars-today">⭐ 50 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/trycua/cua" target="_blank">
+    
+
+
+      
+        trycua /
+
+      cua</a></p>
+				<p>
+      Scale computer-use 2.0 with open-source drivers, cross-OS fleets, and benchmarks for training, evaluation, and data generation.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Rust</span>
+						<span>⭐ 28611</span>
+						<span>🔱 2034</span>
+					</div>
+				<div class="stars-today">⭐ 229 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/cloudflare/security-audit-skill" target="_blank">
+    
+
+
+      
+        cloudflare /
+
+      security-audit-skill</a></p>
+				<p>
+      A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 JavaScript</span>
+						<span>⭐ 25733</span>
+						<span>🔱 1548</span>
+					</div>
+				<div class="stars-today">⭐ 538 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/tester-army/e2e" target="_blank">
+    
+
+
+      
+        tester-army /
+
+      e2e</a></p>
+				<p>
+      Next generation e2e testing framework for web and mobile apps.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 7043</span>
+						<span>🔱 312</span>
+					</div>
+				<div class="stars-today">⭐ 1391 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/DuarteSantos8/openGym" target="_blank">
+    
+
+
+      
+        DuarteSantos8 /
+
+      openGym</a></p>
+				<p>
+      Self-hosted gym & body-weight tracker — plan routines, log workouts (supersets, warm-ups, cardio), see which muscles are trained, fatigued or detrained, import from FitNotes/Strong/Hevy, passkey login. Your data, your server.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 JavaScript</span>
+						<span>⭐ 6510</span>
+						<span>🔱 873</span>
+					</div>
+				<div class="stars-today">⭐ 1494 stars today</div>
 				</div>
 			</div>
 	

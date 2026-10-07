@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2026年第41周
-date: 2026-10-07T07:44:31Z
+date: 2026-10-07T14:46:30Z
 categories:
 - weekly
 keywords:
@@ -30,10 +30,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 5582</span>
-						<span>🔱 405</span>
+						<span>⭐ 5655</span>
+						<span>🔱 415</span>
 					</div>
 				<div class="stars-today">⭐ 3327 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/boykopovar/AnyPS5" target="_blank">
+    
+
+
+      
+        boykopovar /
+
+      AnyPS5</a></p>
+				<p>
+      Tool for automatic PS5 executables porting to Linux and Windows
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 C++</span>
+						<span>⭐ 8844</span>
+						<span>🔱 657</span>
+					</div>
+				<div class="stars-today">⭐ 3073 stars this week</div>
 				</div>
 			</div>
 	
@@ -52,8 +74,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 58114</span>
-						<span>🔱 5175</span>
+						<span>⭐ 58333</span>
+						<span>🔱 5195</span>
 					</div>
 				<div class="stars-today">⭐ 3614 stars this week</div>
 				</div>
@@ -74,8 +96,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 10155</span>
-						<span>🔱 964</span>
+						<span>⭐ 10199</span>
+						<span>🔱 970</span>
 					</div>
 				<div class="stars-today">⭐ 1106 stars this week</div>
 				</div>
@@ -96,32 +118,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Rust</span>
-						<span>⭐ 15188</span>
-						<span>🔱 1718</span>
+						<span>⭐ 15229</span>
+						<span>🔱 1720</span>
 					</div>
 				<div class="stars-today">⭐ 5228 stars this week</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/VectifyAI/PageIndex" target="_blank">
+				<p><a href="https://github.com/Panniantong/Agent-Reach" target="_blank">
     
 
 
       
-        VectifyAI /
+        Panniantong /
 
-      PageIndex</a></p>
+      Agent-Reach</a></p>
 				<p>
-      📑 PageIndex: Document Index for Vectorless, Reasoning-based RAG
+      Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 38834</span>
-						<span>🔱 3363</span>
+						<span>⭐ 93018</span>
+						<span>🔱 8149</span>
 					</div>
-				<div class="stars-today">⭐ 2079 stars this week</div>
+				<div class="stars-today">⭐ 6454 stars this week</div>
 				</div>
 			</div>
 	
@@ -140,8 +162,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 97318</span>
-						<span>🔱 8576</span>
+						<span>⭐ 97493</span>
+						<span>🔱 8584</span>
 					</div>
 				<div class="stars-today">⭐ 2104 stars this week</div>
 				</div>
@@ -162,32 +184,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 4944</span>
-						<span>🔱 430</span>
+						<span>⭐ 5015</span>
+						<span>🔱 435</span>
 					</div>
 				<div class="stars-today">⭐ 2947 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/HunxByts/GhostTrack" target="_blank">
-    
-
-
-      
-        HunxByts /
-
-      GhostTrack</a></p>
-				<p>
-      Useful tool to track location or mobile number
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 17274</span>
-						<span>🔱 2349</span>
-					</div>
-				<div class="stars-today">⭐ 2017 stars this week</div>
 				</div>
 			</div>
 	
@@ -206,98 +206,54 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 JavaScript</span>
-						<span>⭐ 6072</span>
-						<span>🔱 824</span>
+						<span>⭐ 6510</span>
+						<span>🔱 873</span>
 					</div>
 				<div class="stars-today">⭐ 3318 stars this week</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/Anil-matcha/open-dots" target="_blank">
+				<p><a href="https://github.com/tile-ai/tilelang" target="_blank">
     
 
 
       
-        Anil-matcha /
+        tile-ai /
 
-      open-dots</a></p>
+      tilelang</a></p>
 				<p>
-      Open-source, self-hosted AI agent workspace and alternative to OpenAI Dots, Meta Muse, Grok Bot, Instinct, Manus Cue, Claude Cowork, and ChatGPT agent. MIT-licensed; includes chat, connectors, approvals, and optional computer use. Early prototype.
+       Domain-specific language designed to streamline the development of high-performance GPU/CPU/Accelerators kernels
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 5505</span>
-						<span>🔱 657</span>
+						<span>⭐ 8465</span>
+						<span>🔱 856</span>
 					</div>
-				<div class="stars-today">⭐ 901 stars this week</div>
+				<div class="stars-today">⭐ 675 stars this week</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/boykopovar/AnyPS5" target="_blank">
+				<p><a href="https://github.com/HunxByts/GhostTrack" target="_blank">
     
 
 
       
-        boykopovar /
+        HunxByts /
 
-      AnyPS5</a></p>
+      GhostTrack</a></p>
 				<p>
-      Tool for automatic PS5 executables porting to Linux and Windows
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 C++</span>
-						<span>⭐ 7208</span>
-						<span>🔱 545</span>
-					</div>
-				<div class="stars-today">⭐ 3073 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/Panniantong/Agent-Reach" target="_blank">
-    
-
-
-      
-        Panniantong /
-
-      Agent-Reach</a></p>
-				<p>
-      Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.
+      Useful tool to track location or mobile number
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 92817</span>
-						<span>🔱 8137</span>
+						<span>⭐ 17319</span>
+						<span>🔱 2353</span>
 					</div>
-				<div class="stars-today">⭐ 6454 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/byoungd/up" target="_blank">
-    
-
-
-      
-        byoungd /
-
-      up</a></p>
-				<p>
-      中英双语终身学习指南：英语学习、AI 协作、真实项目与成长证据。A bilingual guide to English learning and AI-era growth.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 JavaScript</span>
-						<span>⭐ 67581</span>
-						<span>🔱 6708</span>
-					</div>
-				<div class="stars-today">⭐ 2154 stars this week</div>
+				<div class="stars-today">⭐ 2017 stars this week</div>
 				</div>
 			</div>
 	
