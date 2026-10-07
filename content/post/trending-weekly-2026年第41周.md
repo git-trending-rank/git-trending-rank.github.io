@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2026年第41周
-date: 2026-10-07T01:09:25Z
+date: 2026-10-07T07:44:31Z
 categories:
 - weekly
 keywords:
@@ -30,8 +30,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 5521</span>
-						<span>🔱 403</span>
+						<span>⭐ 5582</span>
+						<span>🔱 405</span>
 					</div>
 				<div class="stars-today">⭐ 3327 stars this week</div>
 				</div>
@@ -52,8 +52,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 57956</span>
-						<span>🔱 5163</span>
+						<span>⭐ 58114</span>
+						<span>🔱 5175</span>
 					</div>
 				<div class="stars-today">⭐ 3614 stars this week</div>
 				</div>
@@ -74,8 +74,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 10109</span>
-						<span>🔱 960</span>
+						<span>⭐ 10155</span>
+						<span>🔱 964</span>
 					</div>
 				<div class="stars-today">⭐ 1106 stars this week</div>
 				</div>
@@ -96,8 +96,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Rust</span>
-						<span>⭐ 15144</span>
-						<span>🔱 1716</span>
+						<span>⭐ 15188</span>
+						<span>🔱 1718</span>
 					</div>
 				<div class="stars-today">⭐ 5228 stars this week</div>
 				</div>
@@ -118,8 +118,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 38796</span>
-						<span>🔱 3359</span>
+						<span>⭐ 38834</span>
+						<span>🔱 3363</span>
 					</div>
 				<div class="stars-today">⭐ 2079 stars this week</div>
 				</div>
@@ -140,8 +140,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 97186</span>
-						<span>🔱 8561</span>
+						<span>⭐ 97318</span>
+						<span>🔱 8576</span>
 					</div>
 				<div class="stars-today">⭐ 2104 stars this week</div>
 				</div>
@@ -162,8 +162,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 4872</span>
-						<span>🔱 423</span>
+						<span>⭐ 4944</span>
+						<span>🔱 430</span>
 					</div>
 				<div class="stars-today">⭐ 2947 stars this week</div>
 				</div>
@@ -184,8 +184,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 17222</span>
-						<span>🔱 2348</span>
+						<span>⭐ 17274</span>
+						<span>🔱 2349</span>
 					</div>
 				<div class="stars-today">⭐ 2017 stars this week</div>
 				</div>
@@ -206,10 +206,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 JavaScript</span>
-						<span>⭐ 5706</span>
-						<span>🔱 781</span>
+						<span>⭐ 6072</span>
+						<span>🔱 824</span>
 					</div>
 				<div class="stars-today">⭐ 3318 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/Anil-matcha/open-dots" target="_blank">
+    
+
+
+      
+        Anil-matcha /
+
+      open-dots</a></p>
+				<p>
+      Open-source, self-hosted AI agent workspace and alternative to OpenAI Dots, Meta Muse, Grok Bot, Instinct, Manus Cue, Claude Cowork, and ChatGPT agent. MIT-licensed; includes chat, connectors, approvals, and optional computer use. Early prototype.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 5505</span>
+						<span>🔱 657</span>
+					</div>
+				<div class="stars-today">⭐ 901 stars this week</div>
 				</div>
 			</div>
 	
@@ -228,8 +250,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 C++</span>
-						<span>⭐ 6560</span>
-						<span>🔱 487</span>
+						<span>⭐ 7208</span>
+						<span>🔱 545</span>
 					</div>
 				<div class="stars-today">⭐ 3073 stars this week</div>
 				</div>
@@ -250,8 +272,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 92641</span>
-						<span>🔱 8129</span>
+						<span>⭐ 92817</span>
+						<span>🔱 8137</span>
 					</div>
 				<div class="stars-today">⭐ 6454 stars this week</div>
 				</div>
@@ -272,8 +294,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 JavaScript</span>
-						<span>⭐ 67509</span>
-						<span>🔱 6700</span>
+						<span>⭐ 67581</span>
+						<span>🔱 6708</span>
 					</div>
 				<div class="stars-today">⭐ 2154 stars this week</div>
 				</div>
