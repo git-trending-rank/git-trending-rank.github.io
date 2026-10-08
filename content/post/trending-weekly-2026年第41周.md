@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2026年第41周
-date: 2026-10-07T20:49:21Z
+date: 2026-10-08T01:21:41Z
 categories:
 - weekly
 keywords:
@@ -30,10 +30,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 5729</span>
-						<span>🔱 425</span>
+						<span>⭐ 5789</span>
+						<span>🔱 428</span>
 					</div>
-				<div class="stars-today">⭐ 3327 stars this week</div>
+				<div class="stars-today">⭐ 2912 stars this week</div>
 				</div>
 			</div>
 	
@@ -52,10 +52,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 C++</span>
-						<span>⭐ 9987</span>
-						<span>🔱 751</span>
+						<span>⭐ 10664</span>
+						<span>🔱 804</span>
 					</div>
-				<div class="stars-today">⭐ 3073 stars this week</div>
+				<div class="stars-today">⭐ 6075 stars this week</div>
 				</div>
 			</div>
 	
@@ -74,10 +74,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 58460</span>
-						<span>🔱 5204</span>
+						<span>⭐ 58558</span>
+						<span>🔱 5209</span>
 					</div>
-				<div class="stars-today">⭐ 3614 stars this week</div>
+				<div class="stars-today">⭐ 3908 stars this week</div>
 				</div>
 			</div>
 	
@@ -96,10 +96,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 10237</span>
-						<span>🔱 972</span>
+						<span>⭐ 10258</span>
+						<span>🔱 974</span>
 					</div>
-				<div class="stars-today">⭐ 1106 stars this week</div>
+				<div class="stars-today">⭐ 1109 stars this week</div>
 				</div>
 			</div>
 	
@@ -118,10 +118,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Rust</span>
-						<span>⭐ 15275</span>
-						<span>🔱 1722</span>
+						<span>⭐ 15302</span>
+						<span>🔱 1727</span>
 					</div>
-				<div class="stars-today">⭐ 5228 stars this week</div>
+				<div class="stars-today">⭐ 3690 stars this week</div>
 				</div>
 			</div>
 	
@@ -140,10 +140,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 93153</span>
-						<span>🔱 8159</span>
+						<span>⭐ 93260</span>
+						<span>🔱 8171</span>
 					</div>
-				<div class="stars-today">⭐ 6454 stars this week</div>
+				<div class="stars-today">⭐ 6912 stars this week</div>
 				</div>
 			</div>
 	
@@ -162,10 +162,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 97629</span>
-						<span>🔱 8597</span>
+						<span>⭐ 97733</span>
+						<span>🔱 8605</span>
 					</div>
-				<div class="stars-today">⭐ 2104 stars this week</div>
+				<div class="stars-today">⭐ 2607 stars this week</div>
 				</div>
 			</div>
 	
@@ -184,10 +184,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 5065</span>
-						<span>🔱 437</span>
+						<span>⭐ 5104</span>
+						<span>🔱 442</span>
 					</div>
-				<div class="stars-today">⭐ 2947 stars this week</div>
+				<div class="stars-today">⭐ 2732 stars this week</div>
 				</div>
 			</div>
 	
@@ -206,10 +206,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 JavaScript</span>
-						<span>⭐ 6751</span>
-						<span>🔱 894</span>
+						<span>⭐ 6923</span>
+						<span>🔱 909</span>
 					</div>
-				<div class="stars-today">⭐ 3318 stars this week</div>
+				<div class="stars-today">⭐ 4906 stars this week</div>
 				</div>
 			</div>
 	
@@ -228,10 +228,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 8471</span>
+						<span>⭐ 8474</span>
 						<span>🔱 856</span>
 					</div>
-				<div class="stars-today">⭐ 675 stars this week</div>
+				<div class="stars-today">⭐ 639 stars this week</div>
 				</div>
 			</div>
 	
@@ -250,10 +250,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 17363</span>
-						<span>🔱 2354</span>
+						<span>⭐ 17390</span>
+						<span>🔱 2355</span>
 					</div>
-				<div class="stars-today">⭐ 2017 stars this week</div>
+				<div class="stars-today">⭐ 1534 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/Friedrich-M/UniMate" target="_blank">
+    
+
+
+      
+        Friedrich-M /
+
+      UniMate</a></p>
+				<p>
+      [SIGGRAPH Asia 2026] UniMate: One Unified Model to Animate Diverse Skeletons
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 1571</span>
+						<span>🔱 151</span>
+					</div>
+				<div class="stars-today">⭐ 716 stars this week</div>
 				</div>
 			</div>
 	
