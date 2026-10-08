@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2026年第41周
-date: 2026-10-08T08:02:41Z
+date: 2026-10-08T16:59:23Z
 categories:
 - weekly
 keywords:
@@ -14,28 +14,6 @@ keywords:
 	<main class="container">
         <div class="repo-list" id="repoList">
 
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/mvschwarz/openrig" target="_blank">
-    
-
-
-      
-        mvschwarz /
-
-      openrig</a></p>
-				<p>
-      Build your own network of agents from Claude Code, Codex and Pi: persistent teams with roles, shared context and owned work.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 5914</span>
-						<span>🔱 435</span>
-					</div>
-				<div class="stars-today">⭐ 2912 stars this week</div>
-				</div>
-			</div>
 	
 			<div class="repo-card">
 				<p><a href="https://github.com/boykopovar/AnyPS5" target="_blank">
@@ -52,10 +30,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 C++</span>
-						<span>⭐ 11878</span>
-						<span>🔱 906</span>
+						<span>⭐ 14183</span>
+						<span>🔱 1101</span>
 					</div>
 				<div class="stars-today">⭐ 6075 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/mvschwarz/openrig" target="_blank">
+    
+
+
+      
+        mvschwarz /
+
+      openrig</a></p>
+				<p>
+      Build your own network of agents from Claude Code, Codex and Pi: persistent teams with roles, shared context and owned work.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 6051</span>
+						<span>🔱 443</span>
+					</div>
+				<div class="stars-today">⭐ 2912 stars this week</div>
 				</div>
 			</div>
 	
@@ -74,10 +74,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 58777</span>
-						<span>🔱 5232</span>
+						<span>⭐ 59033</span>
+						<span>🔱 5264</span>
 					</div>
 				<div class="stars-today">⭐ 3908 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/EpicGames/raddebugger" target="_blank">
+    
+
+
+      
+        EpicGames /
+
+      raddebugger</a></p>
+				<p>
+      A native, user-mode, multi-process, graphical debugger.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 C</span>
+						<span>⭐ 8031</span>
+						<span>🔱 390</span>
+					</div>
+				<div class="stars-today">⭐ 257 stars this week</div>
 				</div>
 			</div>
 	
@@ -96,54 +118,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 10301</span>
-						<span>🔱 979</span>
+						<span>⭐ 10350</span>
+						<span>🔱 982</span>
 					</div>
 				<div class="stars-today">⭐ 1109 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/NVIDIA/OpenShell" target="_blank">
-    
-
-
-      
-        NVIDIA /
-
-      OpenShell</a></p>
-				<p>
-      OpenShell is the safe, private runtime for autonomous AI agents.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Rust</span>
-						<span>⭐ 15377</span>
-						<span>🔱 1733</span>
-					</div>
-				<div class="stars-today">⭐ 3690 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/Panniantong/Agent-Reach" target="_blank">
-    
-
-
-      
-        Panniantong /
-
-      Agent-Reach</a></p>
-				<p>
-      Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 93656</span>
-						<span>🔱 8195</span>
-					</div>
-				<div class="stars-today">⭐ 6912 stars this week</div>
 				</div>
 			</div>
 	
@@ -162,32 +140,76 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 97944</span>
-						<span>🔱 8613</span>
+						<span>⭐ 98227</span>
+						<span>🔱 8625</span>
 					</div>
 				<div class="stars-today">⭐ 2607 stars this week</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/pablostanley/yoinks" target="_blank">
+				<p><a href="https://github.com/mattpocock/skills" target="_blank">
     
 
 
       
-        pablostanley /
+        mattpocock /
 
-      yoinks</a></p>
+      skills</a></p>
 				<p>
-      yoink any video from your terminal. no shady ads.
+      Skills for Real Engineers. Straight from my .agents directory.
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 5217</span>
-						<span>🔱 453</span>
+						<span>🔠 Shell</span>
+						<span>⭐ 280719</span>
+						<span>🔱 23528</span>
 					</div>
-				<div class="stars-today">⭐ 2732 stars this week</div>
+				<div class="stars-today">⭐ 6869 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/Panniantong/Agent-Reach" target="_blank">
+    
+
+
+      
+        Panniantong /
+
+      Agent-Reach</a></p>
+				<p>
+      Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 93979</span>
+						<span>🔱 8221</span>
+					</div>
+				<div class="stars-today">⭐ 6912 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/earthtojake/text-to-cad" target="_blank">
+    
+
+
+      
+        earthtojake /
+
+      text-to-cad</a></p>
+				<p>
+      Give your agent CAD superpowers.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 18412</span>
+						<span>🔱 1830</span>
+					</div>
+				<div class="stars-today">⭐ 1800 stars this week</div>
 				</div>
 			</div>
 	
@@ -206,54 +228,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 JavaScript</span>
-						<span>⭐ 7445</span>
-						<span>🔱 964</span>
+						<span>⭐ 7791</span>
+						<span>🔱 997</span>
 					</div>
 				<div class="stars-today">⭐ 4906 stars this week</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/tile-ai/tilelang" target="_blank">
+				<p><a href="https://github.com/pablostanley/yoinks" target="_blank">
     
 
 
       
-        tile-ai /
+        pablostanley /
 
-      tilelang</a></p>
+      yoinks</a></p>
 				<p>
-       Domain-specific language designed to streamline the development of high-performance GPU/CPU/Accelerators kernels
+      yoink any video from your terminal. no shady ads.
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 8504</span>
-						<span>🔱 858</span>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 5317</span>
+						<span>🔱 458</span>
 					</div>
-				<div class="stars-today">⭐ 639 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/HunxByts/GhostTrack" target="_blank">
-    
-
-
-      
-        HunxByts /
-
-      GhostTrack</a></p>
-				<p>
-      Useful tool to track location or mobile number
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 17481</span>
-						<span>🔱 2361</span>
-					</div>
-				<div class="stars-today">⭐ 1534 stars this week</div>
+				<div class="stars-today">⭐ 2732 stars this week</div>
 				</div>
 			</div>
 	

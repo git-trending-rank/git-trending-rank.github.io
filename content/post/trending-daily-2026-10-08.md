@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2026-10-08
-date: 2026-10-08T08:02:42Z
+date: 2026-10-08T16:59:23Z
 categories:
 - daily
 keywords:
@@ -14,50 +14,6 @@ keywords:
 	<main class="container">
         <div class="repo-list" id="repoList">
 
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/morluto/rea" target="_blank">
-    
-
-
-      
-        morluto /
-
-      rea</a></p>
-				<p>
-      Reverse engineer anything with agents, from app behavior down to native binaries.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 17930</span>
-						<span>🔱 1879</span>
-					</div>
-				<div class="stars-today">⭐ 4655 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/mattpocock/skills" target="_blank">
-    
-
-
-      
-        mattpocock /
-
-      skills</a></p>
-				<p>
-      Skills for Real Engineers. Straight from my .agents directory.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Shell</span>
-						<span>⭐ 280185</span>
-						<span>🔱 23478</span>
-					</div>
-				<div class="stars-today">⭐ 1403 stars today</div>
-				</div>
-			</div>
 	
 			<div class="repo-card">
 				<p><a href="https://github.com/boykopovar/AnyPS5" target="_blank">
@@ -74,32 +30,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 C++</span>
-						<span>⭐ 11878</span>
-						<span>🔱 906</span>
+						<span>⭐ 14183</span>
+						<span>🔱 1101</span>
 					</div>
-				<div class="stars-today">⭐ 2716 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/ayghri/i-have-adhd" target="_blank">
-    
-
-
-      
-        ayghri /
-
-      i-have-adhd</a></p>
-				<p>
-      A skill to stop your coding agent from burying the answer. ADHD-friendly output.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 55433</span>
-						<span>🔱 3169</span>
-					</div>
-				<div class="stars-today">⭐ 619 stars today</div>
+				<div class="stars-today">⭐ 4640 stars today</div>
 				</div>
 			</div>
 	
@@ -118,54 +52,54 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 HTML</span>
-						<span>⭐ 45379</span>
-						<span>🔱 2914</span>
+						<span>⭐ 45918</span>
+						<span>🔱 2937</span>
 					</div>
-				<div class="stars-today">⭐ 825 stars today</div>
+				<div class="stars-today">⭐ 1163 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/addyosmani/agent-skills" target="_blank">
+				<p><a href="https://github.com/morluto/rea" target="_blank">
     
 
 
       
-        addyosmani /
+        morluto /
 
-      agent-skills</a></p>
+      rea</a></p>
 				<p>
-      Production-grade engineering skills for AI coding agents.
+      Reverse engineer anything with agents, from app behavior down to native binaries.
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 JavaScript</span>
-						<span>⭐ 103062</span>
-						<span>🔱 10790</span>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 20986</span>
+						<span>🔱 2257</span>
 					</div>
-				<div class="stars-today">⭐ 677 stars today</div>
+				<div class="stars-today">⭐ 7744 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/EpicGames/raddebugger" target="_blank">
+				<p><a href="https://github.com/mattpocock/skills" target="_blank">
     
 
 
       
-        EpicGames /
+        mattpocock /
 
-      raddebugger</a></p>
+      skills</a></p>
 				<p>
-      A native, user-mode, multi-process, graphical debugger.
+      Skills for Real Engineers. Straight from my .agents directory.
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 C</span>
-						<span>⭐ 7952</span>
-						<span>🔱 388</span>
+						<span>🔠 Shell</span>
+						<span>⭐ 280719</span>
+						<span>🔱 23528</span>
 					</div>
-				<div class="stars-today">⭐ 90 stars today</div>
+				<div class="stars-today">⭐ 1770 stars today</div>
 				</div>
 			</div>
 	
@@ -184,120 +118,98 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 97944</span>
-						<span>🔱 8613</span>
+						<span>⭐ 98227</span>
+						<span>🔱 8625</span>
 					</div>
-				<div class="stars-today">⭐ 578 stars today</div>
+				<div class="stars-today">⭐ 662 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/manaflow-ai/cmux" target="_blank">
+				<p><a href="https://github.com/EpicGames/raddebugger" target="_blank">
     
 
 
       
-        manaflow-ai /
+        EpicGames /
 
-      cmux</a></p>
+      raddebugger</a></p>
 				<p>
-      Open source Ghostty-based macOS terminal with vertical tabs and notifications for AI coding agents. Built for multitasking, organization, and programmability.
+      A native, user-mode, multi-process, graphical debugger.
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Swift</span>
-						<span>⭐ 27961</span>
-						<span>🔱 2467</span>
+						<span>🔠 C</span>
+						<span>⭐ 8031</span>
+						<span>🔱 390</span>
 					</div>
-				<div class="stars-today">⭐ 44 stars today</div>
+				<div class="stars-today">⭐ 283 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/trycua/cua" target="_blank">
+				<p><a href="https://github.com/anthropics/knowledge-work-plugins" target="_blank">
     
 
 
       
-        trycua /
+        anthropics /
 
-      cua</a></p>
+      knowledge-work-plugins</a></p>
 				<p>
-      Scale computer-use 2.0 with open-source drivers, cross-OS fleets, and benchmarks for training, evaluation, and data generation.
+      Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 27370</span>
+						<span>🔱 3186</span>
+					</div>
+				<div class="stars-today">⭐ 309 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/storytold/artcraft" target="_blank">
+    
+
+
+      
+        storytold /
+
+      artcraft</a></p>
+				<p>
+      ArtCraft is an intentional crafting engine for artists, designers, and filmmakers
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Rust</span>
-						<span>⭐ 28914</span>
-						<span>🔱 2043</span>
+						<span>⭐ 6818</span>
+						<span>🔱 897</span>
 					</div>
-				<div class="stars-today">⭐ 228 stars today</div>
+				<div class="stars-today">⭐ 2510 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/cloudflare/security-audit-skill" target="_blank">
+				<p><a href="https://github.com/liquidslr/system-design-notes" target="_blank">
     
 
 
       
-        cloudflare /
+        liquidslr /
 
-      security-audit-skill</a></p>
+      system-design-notes</a></p>
 				<p>
-      A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings
+      Notes of the book System Desgin Interview - An Insider's Guide
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 JavaScript</span>
-						<span>⭐ 26290</span>
-						<span>🔱 1580</span>
+						<span>🔠 </span>
+						<span>⭐ 24382</span>
+						<span>🔱 4586</span>
 					</div>
-				<div class="stars-today">⭐ 576 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/tester-army/e2e" target="_blank">
-    
-
-
-      
-        tester-army /
-
-      e2e</a></p>
-				<p>
-      Next generation e2e testing framework for web and mobile apps.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 7839</span>
-						<span>🔱 356</span>
-					</div>
-				<div class="stars-today">⭐ 1390 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/DuarteSantos8/openGym" target="_blank">
-    
-
-
-      
-        DuarteSantos8 /
-
-      openGym</a></p>
-				<p>
-      Self-hosted gym & body-weight tracker — plan routines, log workouts (supersets, warm-ups, cardio), see which muscles are trained, fatigued or detrained, import from FitNotes/Strong/Hevy, passkey login. Your data, your server.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 JavaScript</span>
-						<span>⭐ 7445</span>
-						<span>🔱 964</span>
-					</div>
-				<div class="stars-today">⭐ 1493 stars today</div>
+				<div class="stars-today">⭐ 398 stars today</div>
 				</div>
 			</div>
 	
