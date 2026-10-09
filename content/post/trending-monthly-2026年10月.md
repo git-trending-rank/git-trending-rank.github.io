@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2026年10月
-date: 2026-10-09T10:56:07Z
+date: 2026-10-09T17:33:51Z
 categories:
 - monthly
 keywords:
@@ -30,8 +30,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Go</span>
-						<span>⭐ 44768</span>
-						<span>🔱 3242</span>
+						<span>⭐ 44993</span>
+						<span>🔱 3256</span>
 					</div>
 				<div class="stars-today">⭐ 22779 stars this month</div>
 				</div>
@@ -52,32 +52,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 55705</span>
-						<span>🔱 6248</span>
+						<span>⭐ 56022</span>
+						<span>🔱 6289</span>
 					</div>
 				<div class="stars-today">⭐ 34334 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/bilawalsidhu/gods-eye-view" target="_blank">
-    
-
-
-      
-        bilawalsidhu /
-
-      gods-eye-view</a></p>
-				<p>
-      A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 JavaScript</span>
-						<span>⭐ 49391</span>
-						<span>🔱 9998</span>
-					</div>
-				<div class="stars-today">⭐ 30207 stars this month</div>
 				</div>
 			</div>
 	
@@ -94,8 +72,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 39109</span>
-						<span>🔱 5570</span>
+						<span>⭐ 39139</span>
+						<span>🔱 5569</span>
 					</div>
 				<div class="stars-today">⭐ 4400 stars this month</div>
 				</div>
@@ -116,8 +94,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 99027</span>
-						<span>🔱 16713</span>
+						<span>⭐ 99135</span>
+						<span>🔱 16735</span>
 					</div>
 				<div class="stars-today">⭐ 18863 stars this month</div>
 				</div>
@@ -138,10 +116,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 JavaScript</span>
-						<span>⭐ 275635</span>
-						<span>🔱 41140</span>
+						<span>⭐ 275804</span>
+						<span>🔱 41159</span>
 					</div>
 				<div class="stars-today">⭐ 23115 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/bilawalsidhu/gods-eye-view" target="_blank">
+    
+
+
+      
+        bilawalsidhu /
+
+      gods-eye-view</a></p>
+				<p>
+      A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 JavaScript</span>
+						<span>⭐ 49516</span>
+						<span>🔱 10015</span>
+					</div>
+				<div class="stars-today">⭐ 30207 stars this month</div>
 				</div>
 			</div>
 	
@@ -160,8 +160,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 47528</span>
-						<span>🔱 5978</span>
+						<span>⭐ 47644</span>
+						<span>🔱 5977</span>
 					</div>
 				<div class="stars-today">⭐ 24260 stars this month</div>
 				</div>
@@ -182,8 +182,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Go</span>
-						<span>⭐ 32779</span>
-						<span>🔱 4363</span>
+						<span>⭐ 32812</span>
+						<span>🔱 4364</span>
 					</div>
 				<div class="stars-today">⭐ 11015 stars this month</div>
 				</div>
@@ -204,8 +204,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 149800</span>
-						<span>🔱 25868</span>
+						<span>⭐ 149841</span>
+						<span>🔱 25896</span>
 					</div>
 				<div class="stars-today">⭐ 6111 stars this month</div>
 				</div>
@@ -226,10 +226,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 8151</span>
-						<span>🔱 987</span>
+						<span>⭐ 8213</span>
+						<span>🔱 992</span>
 					</div>
 				<div class="stars-today">⭐ 6497 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/anthropics/knowledge-work-plugins" target="_blank">
+    
+
+
+      
+        anthropics /
+
+      knowledge-work-plugins</a></p>
+				<p>
+      Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 28095</span>
+						<span>🔱 3238</span>
+					</div>
+				<div class="stars-today">⭐ 3453 stars this month</div>
 				</div>
 			</div>
 	
@@ -248,8 +270,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Go</span>
-						<span>⭐ 4659</span>
-						<span>🔱 532</span>
+						<span>⭐ 4679</span>
+						<span>🔱 534</span>
 					</div>
 				<div class="stars-today">⭐ 2793 stars this month</div>
 				</div>
@@ -270,32 +292,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Rust</span>
-						<span>⭐ 15549</span>
-						<span>🔱 1747</span>
+						<span>⭐ 15579</span>
+						<span>🔱 1748</span>
 					</div>
 				<div class="stars-today">⭐ 6997 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/mksglu/context-mode" target="_blank">
-    
-
-
-      
-        mksglu /
-
-      context-mode</a></p>
-				<p>
-      Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 25856</span>
-						<span>🔱 1868</span>
-					</div>
-				<div class="stars-today">⭐ 4606 stars this month</div>
 				</div>
 			</div>
 	
@@ -314,30 +314,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 59461</span>
-						<span>🔱 5303</span>
+						<span>⭐ 59644</span>
+						<span>🔱 5315</span>
 					</div>
 				<div class="stars-today">⭐ 11862 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/spotify/portal-ai-plugins" target="_blank">
-    
-
-
-      
-        spotify /
-
-      portal-ai-plugins</a></p>
-				<p></p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 2469</span>
-						<span>🔱 198</span>
-					</div>
-				<div class="stars-today">⭐ 1993 stars this month</div>
 				</div>
 			</div>
 	
@@ -356,54 +336,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 C</span>
-						<span>⭐ 40681</span>
-						<span>🔱 4471</span>
+						<span>⭐ 40752</span>
+						<span>🔱 4477</span>
 					</div>
 				<div class="stars-today">⭐ 13653 stars this month</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/anthropics/knowledge-work-plugins" target="_blank">
+				<p><a href="https://github.com/mksglu/context-mode" target="_blank">
     
 
 
       
-        anthropics /
+        mksglu /
 
-      knowledge-work-plugins</a></p>
+      context-mode</a></p>
 				<p>
-      Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork
+      Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks.
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 27943</span>
-						<span>🔱 3225</span>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 25917</span>
+						<span>🔱 1874</span>
 					</div>
-				<div class="stars-today">⭐ 3453 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/ayghri/i-have-adhd" target="_blank">
-    
-
-
-      
-        ayghri /
-
-      i-have-adhd</a></p>
-				<p>
-      A skill to stop your coding agent from burying the answer. ADHD-friendly output.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 55977</span>
-						<span>🔱 3193</span>
-					</div>
-				<div class="stars-today">⭐ 27656 stars this month</div>
+				<div class="stars-today">⭐ 4606 stars this month</div>
 				</div>
 			</div>
 	
@@ -422,32 +380,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Rust</span>
-						<span>⭐ 29125</span>
-						<span>🔱 2055</span>
+						<span>⭐ 29165</span>
+						<span>🔱 2062</span>
 					</div>
 				<div class="stars-today">⭐ 6777 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/cursor/plugins" target="_blank">
-    
-
-
-      
-        cursor /
-
-      plugins</a></p>
-				<p>
-      Cursor plugin specification and official plugins
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 10488</span>
-						<span>🔱 988</span>
-					</div>
-				<div class="stars-today">⭐ 3443 stars this month</div>
 				</div>
 			</div>
 	
@@ -466,32 +402,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 32339</span>
-						<span>🔱 4490</span>
+						<span>⭐ 32442</span>
+						<span>🔱 4499</span>
 					</div>
 				<div class="stars-today">⭐ 7238 stars this month</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/DietrichGebert/ponytail" target="_blank">
+				<p><a href="https://github.com/cursor/plugins" target="_blank">
     
 
 
       
-        DietrichGebert /
+        cursor /
 
-      ponytail</a></p>
+      plugins</a></p>
 				<p>
-      Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.
+      Cursor plugin specification and official plugins
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 JavaScript</span>
-						<span>⭐ 159087</span>
-						<span>🔱 8550</span>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 10539</span>
+						<span>🔱 994</span>
 					</div>
-				<div class="stars-today">⭐ 27284 stars this month</div>
+				<div class="stars-today">⭐ 3443 stars this month</div>
 				</div>
 			</div>
 	
@@ -510,10 +446,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 JavaScript</span>
-						<span>⭐ 103577</span>
-						<span>🔱 10838</span>
+						<span>⭐ 103792</span>
+						<span>🔱 10855</span>
 					</div>
 				<div class="stars-today">⭐ 10948 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/DietrichGebert/ponytail" target="_blank">
+    
+
+
+      
+        DietrichGebert /
+
+      ponytail</a></p>
+				<p>
+      Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 JavaScript</span>
+						<span>⭐ 159392</span>
+						<span>🔱 8569</span>
+					</div>
+				<div class="stars-today">⭐ 27284 stars this month</div>
 				</div>
 			</div>
 	
@@ -532,8 +490,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Rust</span>
-						<span>⭐ 9082</span>
-						<span>🔱 327</span>
+						<span>⭐ 9105</span>
+						<span>🔱 328</span>
 					</div>
 				<div class="stars-today">⭐ 2240 stars this month</div>
 				</div>

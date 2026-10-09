@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2026年第41周
-date: 2026-10-09T10:56:06Z
+date: 2026-10-09T17:33:50Z
 categories:
 - weekly
 keywords:
@@ -30,8 +30,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 C++</span>
-						<span>⭐ 18379</span>
-						<span>🔱 1457</span>
+						<span>⭐ 20598</span>
+						<span>🔱 1655</span>
 					</div>
 				<div class="stars-today">⭐ 10243 stars this week</div>
 				</div>
@@ -52,98 +52,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 6281</span>
-						<span>🔱 456</span>
+						<span>⭐ 6357</span>
+						<span>🔱 462</span>
 					</div>
 				<div class="stars-today">⭐ 2693 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/heygen-com/hyperframes" target="_blank">
-    
-
-
-      
-        heygen-com /
-
-      hyperframes</a></p>
-				<p>
-      Write HTML. Render video. Built for agents.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 59461</span>
-						<span>🔱 5303</span>
-					</div>
-				<div class="stars-today">⭐ 3996 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/EpicGames/raddebugger" target="_blank">
-    
-
-
-      
-        EpicGames /
-
-      raddebugger</a></p>
-				<p>
-      A native, user-mode, multi-process, graphical debugger.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 C</span>
-						<span>⭐ 8210</span>
-						<span>🔱 393</span>
-					</div>
-				<div class="stars-today">⭐ 448 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/cursor/plugins" target="_blank">
-    
-
-
-      
-        cursor /
-
-      plugins</a></p>
-				<p>
-      Cursor plugin specification and official plugins
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 10488</span>
-						<span>🔱 988</span>
-					</div>
-				<div class="stars-today">⭐ 1109 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/thedotmack/claude-mem" target="_blank">
-    
-
-
-      
-        thedotmack /
-
-      claude-mem</a></p>
-				<p>
-      Persistent Context Across Sessions for Every Agent – Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 98841</span>
-						<span>🔱 8660</span>
-					</div>
-				<div class="stars-today">⭐ 3153 stars this week</div>
 				</div>
 			</div>
 	
@@ -162,32 +74,98 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Shell</span>
-						<span>⭐ 281875</span>
-						<span>🔱 23618</span>
+						<span>⭐ 282330</span>
+						<span>🔱 23654</span>
 					</div>
 				<div class="stars-today">⭐ 7448 stars this week</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/Panniantong/Agent-Reach" target="_blank">
+				<p><a href="https://github.com/heygen-com/hyperframes" target="_blank">
     
 
 
       
-        Panniantong /
+        heygen-com /
 
-      Agent-Reach</a></p>
+      hyperframes</a></p>
 				<p>
-      Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.
+      Write HTML. Render video. Built for agents.
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 94532</span>
-						<span>🔱 8262</span>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 59644</span>
+						<span>🔱 5315</span>
 					</div>
-				<div class="stars-today">⭐ 6987 stars this week</div>
+				<div class="stars-today">⭐ 3996 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/cursor/plugins" target="_blank">
+    
+
+
+      
+        cursor /
+
+      plugins</a></p>
+				<p>
+      Cursor plugin specification and official plugins
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 10539</span>
+						<span>🔱 994</span>
+					</div>
+				<div class="stars-today">⭐ 1109 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/EpicGames/raddebugger" target="_blank">
+    
+
+
+      
+        EpicGames /
+
+      raddebugger</a></p>
+				<p>
+      A native, user-mode, multi-process, graphical debugger.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 C</span>
+						<span>⭐ 8239</span>
+						<span>🔱 394</span>
+					</div>
+				<div class="stars-today">⭐ 448 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/thedotmack/claude-mem" target="_blank">
+    
+
+
+      
+        thedotmack /
+
+      claude-mem</a></p>
+				<p>
+      Persistent Context Across Sessions for Every Agent – Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 98917</span>
+						<span>🔱 8668</span>
+					</div>
+				<div class="stars-today">⭐ 3153 stars this week</div>
 				</div>
 			</div>
 	
@@ -206,10 +184,52 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 18604</span>
-						<span>🔱 1849</span>
+						<span>⭐ 18685</span>
+						<span>🔱 1852</span>
 					</div>
 				<div class="stars-today">⭐ 1898 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/pingdotgg/t3code" target="_blank">
+    
+
+
+      
+        pingdotgg /
+
+      t3code</a></p>
+				<p></p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 26562</span>
+						<span>🔱 6926</span>
+					</div>
+				<div class="stars-today">⭐ 2317 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/Panniantong/Agent-Reach" target="_blank">
+    
+
+
+      
+        Panniantong /
+
+      Agent-Reach</a></p>
+				<p>
+      Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 94716</span>
+						<span>🔱 8279</span>
+					</div>
+				<div class="stars-today">⭐ 6987 stars this week</div>
 				</div>
 			</div>
 	
@@ -228,32 +248,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 JavaScript</span>
-						<span>⭐ 8316</span>
-						<span>🔱 1047</span>
+						<span>⭐ 8476</span>
+						<span>🔱 1062</span>
 					</div>
 				<div class="stars-today">⭐ 6086 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/pablostanley/yoinks" target="_blank">
-    
-
-
-      
-        pablostanley /
-
-      yoinks</a></p>
-				<p>
-      yoink any video from your terminal. no shady ads.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 5563</span>
-						<span>🔱 470</span>
-					</div>
-				<div class="stars-today">⭐ 2706 stars this week</div>
 				</div>
 			</div>
 	
