@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2026年第41周
-date: 2026-10-10T13:59:39Z
+date: 2026-10-10T19:33:39Z
 categories:
 - weekly
 keywords:
@@ -30,8 +30,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 C++</span>
-						<span>⭐ 24891</span>
-						<span>🔱 2063</span>
+						<span>⭐ 26016</span>
+						<span>🔱 2178</span>
 					</div>
 				<div class="stars-today">⭐ 15539 stars this week</div>
 				</div>
@@ -52,8 +52,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Shell</span>
-						<span>⭐ 283776</span>
-						<span>🔱 23769</span>
+						<span>⭐ 284180</span>
+						<span>🔱 23792</span>
 					</div>
 				<div class="stars-today">⭐ 8156 stars this week</div>
 				</div>
@@ -74,8 +74,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 C</span>
-						<span>⭐ 8307</span>
-						<span>🔱 398</span>
+						<span>⭐ 8321</span>
+						<span>🔱 403</span>
 					</div>
 				<div class="stars-today">⭐ 654 stars this week</div>
 				</div>
@@ -96,8 +96,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 99118</span>
-						<span>🔱 8680</span>
+						<span>⭐ 99177</span>
+						<span>🔱 8685</span>
 					</div>
 				<div class="stars-today">⭐ 3850 stars this week</div>
 				</div>
@@ -118,8 +118,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 60132</span>
-						<span>🔱 5371</span>
+						<span>⭐ 60280</span>
+						<span>🔱 5382</span>
 					</div>
 				<div class="stars-today">⭐ 4003 stars this week</div>
 				</div>
@@ -140,8 +140,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 6631</span>
-						<span>🔱 485</span>
+						<span>⭐ 6690</span>
+						<span>🔱 493</span>
 					</div>
 				<div class="stars-today">⭐ 2338 stars this week</div>
 				</div>
@@ -162,8 +162,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 10693</span>
-						<span>🔱 1015</span>
+						<span>⭐ 10728</span>
+						<span>🔱 1022</span>
 					</div>
 				<div class="stars-today">⭐ 1125 stars this week</div>
 				</div>
@@ -184,8 +184,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 18911</span>
-						<span>🔱 1865</span>
+						<span>⭐ 18955</span>
+						<span>🔱 1869</span>
 					</div>
 				<div class="stars-today">⭐ 2125 stars this week</div>
 				</div>
@@ -206,8 +206,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Dart</span>
-						<span>⭐ 179317</span>
-						<span>🔱 33542</span>
+						<span>⭐ 179425</span>
+						<span>🔱 33562</span>
 					</div>
 				<div class="stars-today">⭐ 259 stars this week</div>
 				</div>
@@ -226,8 +226,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 26743</span>
-						<span>🔱 6993</span>
+						<span>⭐ 26783</span>
+						<span>🔱 7013</span>
 					</div>
 				<div class="stars-today">⭐ 2379 stars this week</div>
 				</div>
@@ -243,13 +243,13 @@ keywords:
 
       billion-context</a></p>
 				<p>
-      稳定可用 A context-compression plugin for small context windows (a 100K context is enough), token savings (5x fewer tokens), and month-long single sessions (billions of tokens).上下文压缩插件，兼顾小窗口(100k上下文足矣)省token(省5倍token)和超长会话(数月级别几十亿token单会话)。billion-context is all you need
+      A context-compression plugin for small context windows (a 100K context is enough), token savings (5x fewer tokens), and month-long single sessions (billions of tokens).上下文压缩插件，兼顾小窗口(100k上下文足矣)省token(省5倍token)和超长会话(数月级别几十亿token单会话)。billion-context is all you need
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 747</span>
-						<span>🔱 73</span>
+						<span>⭐ 764</span>
+						<span>🔱 74</span>
 					</div>
 				<div class="stars-today">⭐ 246 stars this week</div>
 				</div>
@@ -270,8 +270,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 JavaScript</span>
-						<span>⭐ 9012</span>
-						<span>🔱 1117</span>
+						<span>⭐ 9141</span>
+						<span>🔱 1135</span>
 					</div>
 				<div class="stars-today">⭐ 6749 stars this week</div>
 				</div>
@@ -292,8 +292,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 8599</span>
-						<span>🔱 410</span>
+						<span>⭐ 8668</span>
+						<span>🔱 421</span>
 					</div>
 				<div class="stars-today">⭐ 6566 stars this week</div>
 				</div>
