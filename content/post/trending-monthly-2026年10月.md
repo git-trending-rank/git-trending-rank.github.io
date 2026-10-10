@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2026年10月
-date: 2026-10-10T07:46:28Z
+date: 2026-10-10T13:59:39Z
 categories:
 - monthly
 keywords:
@@ -30,8 +30,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Go</span>
-						<span>⭐ 45558</span>
-						<span>🔱 3288</span>
+						<span>⭐ 45764</span>
+						<span>🔱 3303</span>
 					</div>
 				<div class="stars-today">⭐ 23028 stars this month</div>
 				</div>
@@ -52,8 +52,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 56623</span>
-						<span>🔱 6347</span>
+						<span>⭐ 56868</span>
+						<span>🔱 6382</span>
 					</div>
 				<div class="stars-today">⭐ 34560 stars this month</div>
 				</div>
@@ -72,8 +72,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 39212</span>
-						<span>🔱 5571</span>
+						<span>⭐ 39243</span>
+						<span>🔱 5574</span>
 					</div>
 				<div class="stars-today">⭐ 4495 stars this month</div>
 				</div>
@@ -94,8 +94,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 99375</span>
-						<span>🔱 16770</span>
+						<span>⭐ 99495</span>
+						<span>🔱 16789</span>
 					</div>
 				<div class="stars-today">⭐ 19137 stars this month</div>
 				</div>
@@ -116,32 +116,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 JavaScript</span>
-						<span>⭐ 276126</span>
-						<span>🔱 41196</span>
+						<span>⭐ 276271</span>
+						<span>🔱 41213</span>
 					</div>
 				<div class="stars-today">⭐ 22710 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/bilawalsidhu/gods-eye-view" target="_blank">
-    
-
-
-      
-        bilawalsidhu /
-
-      gods-eye-view</a></p>
-				<p>
-      A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 JavaScript</span>
-						<span>⭐ 49766</span>
-						<span>🔱 10061</span>
-					</div>
-				<div class="stars-today">⭐ 29212 stars this month</div>
 				</div>
 			</div>
 	
@@ -160,8 +138,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 47836</span>
-						<span>🔱 5982</span>
+						<span>⭐ 47936</span>
+						<span>🔱 5988</span>
 					</div>
 				<div class="stars-today">⭐ 24617 stars this month</div>
 				</div>
@@ -182,8 +160,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Go</span>
-						<span>⭐ 32933</span>
-						<span>🔱 4379</span>
+						<span>⭐ 32998</span>
+						<span>🔱 4389</span>
 					</div>
 				<div class="stars-today">⭐ 11118 stars this month</div>
 				</div>
@@ -204,32 +182,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 149943</span>
-						<span>🔱 25994</span>
+						<span>⭐ 149994</span>
+						<span>🔱 26044</span>
 					</div>
 				<div class="stars-today">⭐ 6173 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/TencentCloud/Octop" target="_blank">
-    
-
-
-      
-        TencentCloud /
-
-      Octop</a></p>
-				<p>
-      A smarter, self-hosted AI assistant — multi-user, multi-agent.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 8362</span>
-						<span>🔱 1016</span>
-					</div>
-				<div class="stars-today">⭐ 6720 stars this month</div>
 				</div>
 			</div>
 	
@@ -248,10 +204,54 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 28455</span>
-						<span>🔱 3257</span>
+						<span>⭐ 28616</span>
+						<span>🔱 3267</span>
 					</div>
 				<div class="stars-today">⭐ 4131 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/TencentCloud/Octop" target="_blank">
+    
+
+
+      
+        TencentCloud /
+
+      Octop</a></p>
+				<p>
+      A smarter, self-hosted AI assistant — multi-user, multi-agent.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 8456</span>
+						<span>🔱 1032</span>
+					</div>
+				<div class="stars-today">⭐ 6720 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/bilawalsidhu/gods-eye-view" target="_blank">
+    
+
+
+      
+        bilawalsidhu /
+
+      gods-eye-view</a></p>
+				<p>
+      A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 JavaScript</span>
+						<span>⭐ 49886</span>
+						<span>🔱 10077</span>
+					</div>
+				<div class="stars-today">⭐ 29212 stars this month</div>
 				</div>
 			</div>
 	
@@ -270,32 +270,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Go</span>
-						<span>⭐ 4729</span>
-						<span>🔱 537</span>
+						<span>⭐ 4752</span>
+						<span>🔱 538</span>
 					</div>
 				<div class="stars-today">⭐ 2879 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/NVIDIA/OpenShell" target="_blank">
-    
-
-
-      
-        NVIDIA /
-
-      OpenShell</a></p>
-				<p>
-      OpenShell is the safe, private runtime for autonomous AI agents.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Rust</span>
-						<span>⭐ 15644</span>
-						<span>🔱 1751</span>
-					</div>
-				<div class="stars-today">⭐ 7118 stars this month</div>
 				</div>
 			</div>
 	
@@ -314,10 +292,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 59971</span>
-						<span>🔱 5353</span>
+						<span>⭐ 60132</span>
+						<span>🔱 5371</span>
 					</div>
 				<div class="stars-today">⭐ 11576 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/NVIDIA/OpenShell" target="_blank">
+    
+
+
+      
+        NVIDIA /
+
+      OpenShell</a></p>
+				<p>
+      OpenShell is the safe, private runtime for autonomous AI agents.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Rust</span>
+						<span>⭐ 15675</span>
+						<span>🔱 1753</span>
+					</div>
+				<div class="stars-today">⭐ 7118 stars this month</div>
 				</div>
 			</div>
 	
@@ -336,8 +336,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 C</span>
-						<span>⭐ 40876</span>
-						<span>🔱 4486</span>
+						<span>⭐ 40930</span>
+						<span>🔱 4490</span>
 					</div>
 				<div class="stars-today">⭐ 13755 stars this month</div>
 				</div>
@@ -358,8 +358,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 26018</span>
-						<span>🔱 1877</span>
+						<span>⭐ 26087</span>
+						<span>🔱 1879</span>
 					</div>
 				<div class="stars-today">⭐ 4398 stars this month</div>
 				</div>
@@ -380,8 +380,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Rust</span>
-						<span>⭐ 29221</span>
-						<span>🔱 2065</span>
+						<span>⭐ 29250</span>
+						<span>🔱 2067</span>
 					</div>
 				<div class="stars-today">⭐ 6877 stars this month</div>
 				</div>
@@ -402,32 +402,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 32649</span>
-						<span>🔱 4524</span>
+						<span>⭐ 32779</span>
+						<span>🔱 4537</span>
 					</div>
 				<div class="stars-today">⭐ 7455 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/cursor/plugins" target="_blank">
-    
-
-
-      
-        cursor /
-
-      plugins</a></p>
-				<p>
-      Cursor plugin specification and official plugins
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 10639</span>
-						<span>🔱 1008</span>
-					</div>
-				<div class="stars-today">⭐ 3503 stars this month</div>
 				</div>
 			</div>
 	
@@ -446,10 +424,54 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 JavaScript</span>
-						<span>⭐ 104206</span>
-						<span>🔱 10879</span>
+						<span>⭐ 104339</span>
+						<span>🔱 10892</span>
 					</div>
 				<div class="stars-today">⭐ 11155 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/cursor/plugins" target="_blank">
+    
+
+
+      
+        cursor /
+
+      plugins</a></p>
+				<p>
+      Cursor plugin specification and official plugins
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 10693</span>
+						<span>🔱 1015</span>
+					</div>
+				<div class="stars-today">⭐ 3503 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/NationalSecurityAgency/ghidra" target="_blank">
+    
+
+
+      
+        NationalSecurityAgency /
+
+      ghidra</a></p>
+				<p>
+      Ghidra is a software reverse engineering (SRE) framework
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Java</span>
+						<span>⭐ 82505</span>
+						<span>🔱 9169</span>
+					</div>
+				<div class="stars-today">⭐ 7474 stars this month</div>
 				</div>
 			</div>
 	
@@ -468,32 +490,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 JavaScript</span>
-						<span>⭐ 159895</span>
-						<span>🔱 8602</span>
+						<span>⭐ 160154</span>
+						<span>🔱 8614</span>
 					</div>
 				<div class="stars-today">⭐ 27290 stars this month</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/max-sixty/worktrunk" target="_blank">
+				<p><a href="https://github.com/longbridge/gpui-kit" target="_blank">
     
 
 
       
-        max-sixty /
+        longbridge /
 
-      worktrunk</a></p>
+      gpui-kit</a></p>
 				<p>
-      Worktrunk is a CLI for Git worktree management, designed for parallel AI agent workflows
+      Rust GUI components for building fantastic cross-platform desktop application by using GPUI.
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Rust</span>
-						<span>⭐ 9153</span>
-						<span>🔱 328</span>
+						<span>⭐ 16732</span>
+						<span>🔱 1029</span>
 					</div>
-				<div class="stars-today">⭐ 2301 stars this month</div>
+				<div class="stars-today">⭐ 2526 stars this month</div>
 				</div>
 			</div>
 	
