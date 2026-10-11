@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2026-10-11
-date: 2026-10-11T10:20:26Z
+date: 2026-10-11T16:48:04Z
 categories:
 - daily
 keywords:
@@ -30,10 +30,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 83982</span>
-						<span>🔱 18211</span>
+						<span>⭐ 94251</span>
+						<span>🔱 21051</span>
 					</div>
-				<div class="stars-today">⭐ 25793 stars today</div>
+				<div class="stars-today">⭐ 25585 stars today</div>
 				</div>
 			</div>
 	
@@ -52,10 +52,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 C++</span>
-						<span>⭐ 28048</span>
-						<span>🔱 2379</span>
+						<span>⭐ 29014</span>
+						<span>🔱 2488</span>
 					</div>
-				<div class="stars-today">⭐ 5805 stars today</div>
+				<div class="stars-today">⭐ 3977 stars today</div>
 				</div>
 			</div>
 	
@@ -74,10 +74,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Rust</span>
-						<span>⭐ 15596</span>
-						<span>🔱 2510</span>
+						<span>⭐ 16749</span>
+						<span>🔱 2722</span>
 					</div>
-				<div class="stars-today">⭐ 3222 stars today</div>
+				<div class="stars-today">⭐ 2956 stars today</div>
 				</div>
 			</div>
 	
@@ -96,120 +96,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 HTML</span>
-						<span>⭐ 49440</span>
-						<span>🔱 3137</span>
+						<span>⭐ 49904</span>
+						<span>🔱 3166</span>
 					</div>
-				<div class="stars-today">⭐ 1190 stars today</div>
+				<div class="stars-today">⭐ 1083 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/mksglu/context-mode" target="_blank">
+				<p><a href="https://github.com/bilawalsidhu/gods-eye-view" target="_blank">
     
 
 
       
-        mksglu /
+        bilawalsidhu /
 
-      context-mode</a></p>
+      gods-eye-view</a></p>
 				<p>
-      Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks.
+      A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe.
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 26528</span>
-						<span>🔱 1905</span>
+						<span>🔠 JavaScript</span>
+						<span>⭐ 51103</span>
+						<span>🔱 10289</span>
 					</div>
-				<div class="stars-today">⭐ 178 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/mattpocock/skills" target="_blank">
-    
-
-
-      
-        mattpocock /
-
-      skills</a></p>
-				<p>
-      Skills for Real Engineers. Straight from my .agents directory.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Shell</span>
-						<span>⭐ 285198</span>
-						<span>🔱 23868</span>
-					</div>
-				<div class="stars-today">⭐ 1736 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/flutter/flutter" target="_blank">
-    
-
-
-      
-        flutter /
-
-      flutter</a></p>
-				<p>
-      Flutter makes it easy and fast to build beautiful apps for mobile and beyond
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Dart</span>
-						<span>⭐ 179707</span>
-						<span>🔱 33666</span>
-					</div>
-				<div class="stars-today">⭐ 88 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/tensorflow/tensorflow" target="_blank">
-    
-
-
-      
-        tensorflow /
-
-      tensorflow</a></p>
-				<p>
-      An Open Source Machine Learning Framework for Everyone
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 C++</span>
-						<span>⭐ 200849</span>
-						<span>🔱 79037</span>
-					</div>
-				<div class="stars-today">⭐ 26 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/hugohe3/ppt-master" target="_blank">
-    
-
-
-      
-        hugohe3 /
-
-      ppt-master</a></p>
-				<p>
-      AI turns documents or topics into real, native PowerPoint decks—with native shapes, transitions and animations, data-backed charts and tables on demand, audio narration from speaker notes, and support for your own .pptx templates. · by Hugo He
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 59970</span>
-						<span>🔱 4722</span>
-					</div>
-				<div class="stars-today">⭐ 461 stars today</div>
+				<div class="stars-today">⭐ 872 stars today</div>
 				</div>
 			</div>
 	
@@ -228,76 +140,54 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 104246</span>
-						<span>🔱 32010</span>
+						<span>⭐ 104364</span>
+						<span>🔱 32074</span>
 					</div>
-				<div class="stars-today">⭐ 84 stars today</div>
+				<div class="stars-today">⭐ 314 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/huggingface/transformers" target="_blank">
+				<p><a href="https://github.com/lyogavin/airllm" target="_blank">
     
 
 
       
-        huggingface /
+        lyogavin /
 
-      transformers</a></p>
+      airllm</a></p>
 				<p>
-      🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio, and multimodal models, for both inference and training. 
+      AirLLM 70B inference with single 4GB GPU
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 167475</span>
-						<span>🔱 34816</span>
+						<span>🔠 Jupyter Notebook</span>
+						<span>⭐ 36251</span>
+						<span>🔱 3802</span>
 					</div>
-				<div class="stars-today">⭐ 96 stars today</div>
+				<div class="stars-today">⭐ 541 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/anthropics/knowledge-work-plugins" target="_blank">
+				<p><a href="https://github.com/chrislgarry/Apollo-11" target="_blank">
     
 
 
       
-        anthropics /
+        chrislgarry /
 
-      knowledge-work-plugins</a></p>
+      Apollo-11</a></p>
 				<p>
-      Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork
+      Original Apollo 11 Guidance Computer (AGC) source code for the command and lunar modules.
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 28981</span>
-						<span>🔱 3288</span>
+						<span>🔠 Assembly</span>
+						<span>⭐ 74013</span>
+						<span>🔱 8090</span>
 					</div>
-				<div class="stars-today">⭐ 625 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/multica-ai/andrej-karpathy-skills" target="_blank">
-    
-
-
-      
-        multica-ai /
-
-      andrej-karpathy-skills</a></p>
-				<p>
-      A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 </span>
-						<span>⭐ 218597</span>
-						<span>🔱 22006</span>
-					</div>
-				<div class="stars-today">⭐ 278 stars today</div>
+				<div class="stars-today">⭐ 496 stars today</div>
 				</div>
 			</div>
 	

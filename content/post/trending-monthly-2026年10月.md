@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2026年10月
-date: 2026-10-11T10:20:27Z
+date: 2026-10-11T16:48:04Z
 categories:
 - monthly
 keywords:
@@ -30,8 +30,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Go</span>
-						<span>⭐ 45985</span>
-						<span>🔱 3336</span>
+						<span>⭐ 46095</span>
+						<span>🔱 3344</span>
 					</div>
 				<div class="stars-today">⭐ 23947 stars this month</div>
 				</div>
@@ -52,8 +52,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 57860</span>
-						<span>🔱 6491</span>
+						<span>⭐ 58311</span>
+						<span>🔱 6543</span>
 					</div>
 				<div class="stars-today">⭐ 35194 stars this month</div>
 				</div>
@@ -72,8 +72,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 39325</span>
-						<span>🔱 5581</span>
+						<span>⭐ 39359</span>
+						<span>🔱 5583</span>
 					</div>
 				<div class="stars-today">⭐ 4607 stars this month</div>
 				</div>
@@ -94,32 +94,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 99981</span>
-						<span>🔱 16859</span>
+						<span>⭐ 100181</span>
+						<span>🔱 16885</span>
 					</div>
 				<div class="stars-today">⭐ 19499 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/affaan-m/ECC" target="_blank">
-    
-
-
-      
-        affaan-m /
-
-      ECC</a></p>
-				<p>
-      The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 JavaScript</span>
-						<span>⭐ 276776</span>
-						<span>🔱 41267</span>
-					</div>
-				<div class="stars-today">⭐ 22474 stars this month</div>
 				</div>
 			</div>
 	
@@ -138,54 +116,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 48219</span>
-						<span>🔱 5991</span>
+						<span>⭐ 48335</span>
+						<span>🔱 5997</span>
 					</div>
 				<div class="stars-today">⭐ 24928 stars this month</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/Tencent/WeKnora" target="_blank">
+				<p><a href="https://github.com/affaan-m/ECC" target="_blank">
     
 
 
       
-        Tencent /
+        affaan-m /
 
-      WeKnora</a></p>
+      ECC</a></p>
 				<p>
-      Open-source LLM knowledge platform: turn raw documents into a queryable RAG, an autonomous reasoning agent, and a self-maintaining Wiki.
+      The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Go</span>
-						<span>⭐ 33085</span>
-						<span>🔱 4403</span>
+						<span>🔠 JavaScript</span>
+						<span>⭐ 276982</span>
+						<span>🔱 41303</span>
 					</div>
-				<div class="stars-today">⭐ 11234 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/anthropics/claude-code" target="_blank">
-    
-
-
-      
-        anthropics /
-
-      claude-code</a></p>
-				<p>
-      Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 150123</span>
-						<span>🔱 26149</span>
-					</div>
-				<div class="stars-today">⭐ 6240 stars this month</div>
+				<div class="stars-today">⭐ 22474 stars this month</div>
 				</div>
 			</div>
 	
@@ -204,76 +160,54 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 28981</span>
-						<span>🔱 3288</span>
+						<span>⭐ 29071</span>
+						<span>🔱 3300</span>
 					</div>
 				<div class="stars-today">⭐ 4750 stars this month</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/TencentCloud/Octop" target="_blank">
+				<p><a href="https://github.com/anthropics/claude-code" target="_blank">
     
 
 
       
-        TencentCloud /
+        anthropics /
 
-      Octop</a></p>
+      claude-code</a></p>
 				<p>
-      A smarter, self-hosted AI assistant — multi-user, multi-agent.
+      Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 8593</span>
-						<span>🔱 1052</span>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 150182</span>
+						<span>🔱 26203</span>
 					</div>
-				<div class="stars-today">⭐ 7002 stars this month</div>
+				<div class="stars-today">⭐ 6240 stars this month</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/bilawalsidhu/gods-eye-view" target="_blank">
+				<p><a href="https://github.com/Tencent/WeKnora" target="_blank">
     
 
 
       
-        bilawalsidhu /
+        Tencent /
 
-      gods-eye-view</a></p>
+      WeKnora</a></p>
 				<p>
-      A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 JavaScript</span>
-						<span>⭐ 50674</span>
-						<span>🔱 10234</span>
-					</div>
-				<div class="stars-today">⭐ 27862 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/agent-substrate/substrate" target="_blank">
-    
-
-
-      
-        agent-substrate /
-
-      substrate</a></p>
-				<p>
-      Agent Substrate: the core system
+      Open-source LLM knowledge platform: turn raw documents into a queryable RAG, an autonomous reasoning agent, and a self-maintaining Wiki.
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Go</span>
-						<span>⭐ 4814</span>
-						<span>🔱 544</span>
+						<span>⭐ 33140</span>
+						<span>🔱 4414</span>
 					</div>
-				<div class="stars-today">⭐ 2956 stars this month</div>
+				<div class="stars-today">⭐ 11234 stars this month</div>
 				</div>
 			</div>
 	
@@ -292,10 +226,54 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 60548</span>
-						<span>🔱 5406</span>
+						<span>⭐ 60745</span>
+						<span>🔱 5434</span>
 					</div>
 				<div class="stars-today">⭐ 11826 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/TencentCloud/Octop" target="_blank">
+    
+
+
+      
+        TencentCloud /
+
+      Octop</a></p>
+				<p>
+      A smarter, self-hosted AI assistant — multi-user, multi-agent.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 8634</span>
+						<span>🔱 1058</span>
+					</div>
+				<div class="stars-today">⭐ 7002 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/agent-substrate/substrate" target="_blank">
+    
+
+
+      
+        agent-substrate /
+
+      substrate</a></p>
+				<p>
+      Agent Substrate: the core system
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Go</span>
+						<span>⭐ 4835</span>
+						<span>🔱 547</span>
+					</div>
+				<div class="stars-today">⭐ 2956 stars this month</div>
 				</div>
 			</div>
 	
@@ -314,8 +292,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Rust</span>
-						<span>⭐ 15766</span>
-						<span>🔱 1761</span>
+						<span>⭐ 15798</span>
+						<span>🔱 1763</span>
 					</div>
 				<div class="stars-today">⭐ 7234 stars this month</div>
 				</div>
@@ -336,32 +314,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 C</span>
-						<span>⭐ 41102</span>
-						<span>🔱 4519</span>
+						<span>⭐ 41173</span>
+						<span>🔱 4532</span>
 					</div>
 				<div class="stars-today">⭐ 13894 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/mksglu/context-mode" target="_blank">
-    
-
-
-      
-        mksglu /
-
-      context-mode</a></p>
-				<p>
-      Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 26528</span>
-						<span>🔱 1905</span>
-					</div>
-				<div class="stars-today">⭐ 4285 stars this month</div>
 				</div>
 			</div>
 	
@@ -380,32 +336,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Rust</span>
-						<span>⭐ 29323</span>
-						<span>🔱 2080</span>
+						<span>⭐ 29367</span>
+						<span>🔱 2081</span>
 					</div>
 				<div class="stars-today">⭐ 6950 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/tashfeenahmed/freellmapi" target="_blank">
-    
-
-
-      
-        tashfeenahmed /
-
-      freellmapi</a></p>
-				<p>
-      7.4 billion tokens per month. 34 free LLM providers. 635 free model endpoints. All behind one /v1 endpoint, plus any custom OpenAI-compatible endpoint. Smart routing, automatic failover, encrypted keys. Personal experimentation only.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 33090</span>
-						<span>🔱 4576</span>
-					</div>
-				<div class="stars-today">⭐ 7700 stars this month</div>
 				</div>
 			</div>
 	
@@ -424,10 +358,54 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 JavaScript</span>
-						<span>⭐ 104650</span>
-						<span>🔱 10921</span>
+						<span>⭐ 104809</span>
+						<span>🔱 10938</span>
 					</div>
 				<div class="stars-today">⭐ 11706 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/tashfeenahmed/freellmapi" target="_blank">
+    
+
+
+      
+        tashfeenahmed /
+
+      freellmapi</a></p>
+				<p>
+      7.4 billion tokens per month. 34 free LLM providers. 635 free model endpoints. All behind one /v1 endpoint, plus any custom OpenAI-compatible endpoint. Smart routing, automatic failover, encrypted keys. Personal experimentation only.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 33217</span>
+						<span>🔱 4592</span>
+					</div>
+				<div class="stars-today">⭐ 7700 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/mksglu/context-mode" target="_blank">
+    
+
+
+      
+        mksglu /
+
+      context-mode</a></p>
+				<p>
+      Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 26606</span>
+						<span>🔱 1915</span>
+					</div>
+				<div class="stars-today">⭐ 4285 stars this month</div>
 				</div>
 			</div>
 	
@@ -446,10 +424,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 10816</span>
-						<span>🔱 1028</span>
+						<span>⭐ 10860</span>
+						<span>🔱 1036</span>
 					</div>
 				<div class="stars-today">⭐ 3579 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/bilawalsidhu/gods-eye-view" target="_blank">
+    
+
+
+      
+        bilawalsidhu /
+
+      gods-eye-view</a></p>
+				<p>
+      A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 JavaScript</span>
+						<span>⭐ 51103</span>
+						<span>🔱 10289</span>
+					</div>
+				<div class="stars-today">⭐ 27862 stars this month</div>
 				</div>
 			</div>
 	
@@ -468,54 +468,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Java</span>
-						<span>⭐ 83003</span>
-						<span>🔱 9225</span>
+						<span>⭐ 83206</span>
+						<span>🔱 9252</span>
 					</div>
 				<div class="stars-today">⭐ 7897 stars this month</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/DietrichGebert/ponytail" target="_blank">
+				<p><a href="https://github.com/Panniantong/Agent-Reach" target="_blank">
     
 
 
       
-        DietrichGebert /
+        Panniantong /
 
-      ponytail</a></p>
+      Agent-Reach</a></p>
 				<p>
-      Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.
+      Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 JavaScript</span>
-						<span>⭐ 160736</span>
-						<span>🔱 8642</span>
+						<span>🔠 Python</span>
+						<span>⭐ 95839</span>
+						<span>🔱 8392</span>
 					</div>
-				<div class="stars-today">⭐ 26935 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/longbridge/gpui-kit" target="_blank">
-    
-
-
-      
-        longbridge /
-
-      gpui-kit</a></p>
-				<p>
-      Rust GUI components for building fantastic cross-platform desktop application by using GPUI.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Rust</span>
-						<span>⭐ 16885</span>
-						<span>🔱 1039</span>
-					</div>
-				<div class="stars-today">⭐ 2544 stars this month</div>
+				<div class="stars-today">⭐ 16725 stars this month</div>
 				</div>
 			</div>
 	
