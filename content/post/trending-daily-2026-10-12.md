@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2026-10-12
-date: 2026-10-12T08:06:29Z
+date: 2026-10-12T19:24:19Z
 categories:
 - daily
 keywords:
@@ -30,76 +30,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 122630</span>
-						<span>🔱 27531</span>
+						<span>⭐ 147674</span>
+						<span>🔱 34225</span>
 					</div>
-				<div class="stars-today">⭐ 25599 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/boykopovar/AnyPS5" target="_blank">
-    
-
-
-      
-        boykopovar /
-
-      AnyPS5</a></p>
-				<p>
-      Tool for automatic PS5 executables porting to Linux and Windows
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 C++</span>
-						<span>⭐ 31104</span>
-						<span>🔱 2674</span>
-					</div>
-				<div class="stars-today">⭐ 3952 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/storytold/artcraft" target="_blank">
-    
-
-
-      
-        storytold /
-
-      artcraft</a></p>
-				<p>
-      ArtCraft is an intentional crafting engine for artists, designers, and filmmakers
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Rust</span>
-						<span>⭐ 19259</span>
-						<span>🔱 3142</span>
-					</div>
-				<div class="stars-today">⭐ 2957 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/cathrynlavery/diagram-design" target="_blank">
-    
-
-
-      
-        cathrynlavery /
-
-      diagram-design</a></p>
-				<p>
-      Editorial diagram design for Claude Code, Codex, GitHub Copilot, Cursor, Factory Droid, and Pi. 44 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 HTML</span>
-						<span>⭐ 51188</span>
-						<span>🔱 3243</span>
-					</div>
-				<div class="stars-today">⭐ 1083 stars today</div>
+				<div class="stars-today">⭐ 45495 stars today</div>
 				</div>
 			</div>
 	
@@ -118,32 +52,98 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 JavaScript</span>
-						<span>⭐ 52329</span>
-						<span>🔱 10455</span>
+						<span>⭐ 53285</span>
+						<span>🔱 10575</span>
 					</div>
-				<div class="stars-today">⭐ 886 stars today</div>
+				<div class="stars-today">⭐ 1903 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/pytorch/pytorch" target="_blank">
+				<p><a href="https://github.com/mksglu/context-mode" target="_blank">
     
 
 
       
-        pytorch /
+        mksglu /
 
-      pytorch</a></p>
+      context-mode</a></p>
 				<p>
-      Tensors and Dynamic neural networks in Python with strong GPU acceleration
+      Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 27126</span>
+						<span>🔱 1938</span>
+					</div>
+				<div class="stars-today">⭐ 394 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/storytold/artcraft" target="_blank">
+    
+
+
+      
+        storytold /
+
+      artcraft</a></p>
+				<p>
+      ArtCraft is an intentional crafting engine for artists, designers, and filmmakers
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Rust</span>
+						<span>⭐ 21125</span>
+						<span>🔱 3435</span>
+					</div>
+				<div class="stars-today">⭐ 4106 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/open-webui/open-webui" target="_blank">
+    
+
+
+      
+        open-webui /
+
+      open-webui</a></p>
+				<p>
+      User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 104660</span>
-						<span>🔱 32186</span>
+						<span>⭐ 154788</span>
+						<span>🔱 22629</span>
 					</div>
-				<div class="stars-today">⭐ 315 stars today</div>
+				<div class="stars-today">⭐ 142 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/cathrynlavery/diagram-design" target="_blank">
+    
+
+
+      
+        cathrynlavery /
+
+      diagram-design</a></p>
+				<p>
+      Editorial diagram design for Claude Code, Codex, GitHub Copilot, Cursor, Factory Droid, and Pi. 44 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 HTML</span>
+						<span>⭐ 52297</span>
+						<span>🔱 3298</span>
+					</div>
+				<div class="stars-today">⭐ 2100 stars today</div>
 				</div>
 			</div>
 	
@@ -162,32 +162,54 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Jupyter Notebook</span>
-						<span>⭐ 36824</span>
-						<span>🔱 3834</span>
+						<span>⭐ 37359</span>
+						<span>🔱 3859</span>
 					</div>
-				<div class="stars-today">⭐ 548 stars today</div>
+				<div class="stars-today">⭐ 886 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/chrislgarry/Apollo-11" target="_blank">
+				<p><a href="https://github.com/microsoft/BitNet" target="_blank">
     
 
 
       
-        chrislgarry /
+        microsoft /
 
-      Apollo-11</a></p>
+      BitNet</a></p>
 				<p>
-      Original Apollo 11 Guidance Computer (AGC) source code for the command and lunar modules.
+      Official inference framework for 1-bit LLMs
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Assembly</span>
-						<span>⭐ 74456</span>
-						<span>🔱 8118</span>
+						<span>🔠 C++</span>
+						<span>⭐ 40836</span>
+						<span>🔱 3804</span>
 					</div>
-				<div class="stars-today">⭐ 466 stars today</div>
+				<div class="stars-today">⭐ 134 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/Alishahryar1/free-claude-code" target="_blank">
+    
+
+
+      
+        Alishahryar1 /
+
+      free-claude-code</a></p>
+				<p>
+      Use Claude Code, Codex, VSCode, Pi, and OpenCode (and 6 other harnesses) for free (1.3B+ free tokens) from your terminal, app, IDE, or phone, and now from the browser with native browser sessions (multi-harness + multi-model) like OpenClaw (voice supported + ToS friendly)
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 58819</span>
+						<span>🔱 9289</span>
+					</div>
+				<div class="stars-today">⭐ 705 stars today</div>
 				</div>
 			</div>
 	

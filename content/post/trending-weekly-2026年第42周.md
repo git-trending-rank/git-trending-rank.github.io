@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2026年第42周
-date: 2026-10-12T08:06:29Z
+date: 2026-10-12T19:24:20Z
 categories:
 - weekly
 keywords:
@@ -30,8 +30,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 C++</span>
-						<span>⭐ 31104</span>
-						<span>🔱 2674</span>
+						<span>⭐ 32388</span>
+						<span>🔱 2809</span>
 					</div>
 				<div class="stars-today">⭐ 25151 stars this week</div>
 				</div>
@@ -52,8 +52,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 9247</span>
-						<span>🔱 443</span>
+						<span>⭐ 9478</span>
+						<span>🔱 454</span>
 					</div>
 				<div class="stars-today">⭐ 6440 stars this week</div>
 				</div>
@@ -74,54 +74,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Shell</span>
-						<span>⭐ 286861</span>
-						<span>🔱 24066</span>
+						<span>⭐ 287712</span>
+						<span>🔱 24145</span>
 					</div>
 				<div class="stars-today">⭐ 10330 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/thedotmack/claude-mem" target="_blank">
-    
-
-
-      
-        thedotmack /
-
-      claude-mem</a></p>
-				<p>
-      Persistent Context Across Sessions for Every Agent – Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 99861</span>
-						<span>🔱 8756</span>
-					</div>
-				<div class="stars-today">⭐ 3803 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/EpicGames/raddebugger" target="_blank">
-    
-
-
-      
-        EpicGames /
-
-      raddebugger</a></p>
-				<p>
-      A native, user-mode, multi-process, graphical debugger.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 C</span>
-						<span>⭐ 8419</span>
-						<span>🔱 407</span>
-					</div>
-				<div class="stars-today">⭐ 794 stars this week</div>
 				</div>
 			</div>
 	
@@ -140,32 +96,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 61255</span>
-						<span>🔱 5477</span>
+						<span>⭐ 61668</span>
+						<span>🔱 5517</span>
 					</div>
 				<div class="stars-today">⭐ 4223 stars this week</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/cursor/plugins" target="_blank">
+				<p><a href="https://github.com/thedotmack/claude-mem" target="_blank">
     
 
 
       
-        cursor /
+        thedotmack /
 
-      plugins</a></p>
+      claude-mem</a></p>
 				<p>
-      Cursor plugin specification and official plugins
+      Persistent Context Across Sessions for Every Agent – Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 10968</span>
-						<span>🔱 1056</span>
+						<span>⭐ 100039</span>
+						<span>🔱 8776</span>
 					</div>
-				<div class="stars-today">⭐ 1140 stars this week</div>
+				<div class="stars-today">⭐ 3803 stars this week</div>
 				</div>
 			</div>
 	
@@ -184,10 +140,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Dart</span>
-						<span>⭐ 179857</span>
-						<span>🔱 33833</span>
+						<span>⭐ 179929</span>
+						<span>🔱 33838</span>
 					</div>
 				<div class="stars-today">⭐ 680 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/cursor/plugins" target="_blank">
+    
+
+
+      
+        cursor /
+
+      plugins</a></p>
+				<p>
+      Cursor plugin specification and official plugins
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 11037</span>
+						<span>🔱 1067</span>
+					</div>
+				<div class="stars-today">⭐ 1140 stars this week</div>
 				</div>
 			</div>
 	
@@ -206,8 +184,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 19415</span>
-						<span>🔱 1913</span>
+						<span>⭐ 19586</span>
+						<span>🔱 1927</span>
 					</div>
 				<div class="stars-today">⭐ 2508 stars this week</div>
 				</div>
@@ -228,54 +206,54 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 7067</span>
-						<span>🔱 533</span>
+						<span>⭐ 7197</span>
+						<span>🔱 544</span>
 					</div>
 				<div class="stars-today">⭐ 2028 stars this week</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/danyuchn/asd-ste100-skill" target="_blank">
+				<p><a href="https://github.com/morluto/rea" target="_blank">
     
 
 
       
-        danyuchn /
+        morluto /
 
-      asd-ste100-skill</a></p>
+      rea</a></p>
 				<p>
-      ASD-STE100 Simplified Technical English rules, repurposed as a Claude Code skill for rewriting ambiguous agent-facing English.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 4601</span>
-						<span>🔱 266</span>
-					</div>
-				<div class="stars-today">⭐ 936 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/ranxianglei/billion-context" target="_blank">
-    
-
-
-      
-        ranxianglei /
-
-      billion-context</a></p>
-				<p>
-      A context-compression plugin for small context windows (a 100K context is enough), token savings (5x fewer tokens), and month-long single sessions (billions of tokens).上下文压缩插件，兼顾小窗口(100k上下文足矣)省token(省5倍token)和超长会话(数月级别几十亿token单会话)。billion-context is all you need
+      Reverse engineer anything with agents, from app behavior down to native binaries.
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 1005</span>
-						<span>🔱 87</span>
+						<span>⭐ 147690</span>
+						<span>🔱 34227</span>
 					</div>
-				<div class="stars-today">⭐ 337 stars this week</div>
+				<div class="stars-today">⭐ 126976 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/DuarteSantos8/openGym" target="_blank">
+    
+
+
+      
+        DuarteSantos8 /
+
+      openGym</a></p>
+				<p>
+      Self-hosted gym & body-weight tracker — plan routines, log workouts (supersets, warm-ups, cardio), see which muscles are trained, fatigued or detrained, import from FitNotes/Strong/Hevy, passkey login. Your data, your server.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 JavaScript</span>
+						<span>⭐ 10323</span>
+						<span>🔱 1266</span>
+					</div>
+				<div class="stars-today">⭐ 7383 stars this week</div>
 				</div>
 			</div>
 	

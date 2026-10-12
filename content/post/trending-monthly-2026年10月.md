@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2026年10月
-date: 2026-10-12T08:06:29Z
+date: 2026-10-12T19:24:20Z
 categories:
 - monthly
 keywords:
@@ -30,8 +30,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Go</span>
-						<span>⭐ 46333</span>
-						<span>🔱 3366</span>
+						<span>⭐ 46493</span>
+						<span>🔱 3385</span>
 					</div>
 				<div class="stars-today">⭐ 24146 stars this month</div>
 				</div>
@@ -52,30 +52,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 59331</span>
-						<span>🔱 6650</span>
+						<span>⭐ 60122</span>
+						<span>🔱 6741</span>
 					</div>
 				<div class="stars-today">⭐ 36012 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/anthropics/financial-services" target="_blank">
-    
-
-
-      
-        anthropics /
-
-      financial-services</a></p>
-				<p></p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 39449</span>
-						<span>🔱 5586</span>
-					</div>
-				<div class="stars-today">⭐ 4698 stars this month</div>
 				</div>
 			</div>
 	
@@ -94,10 +74,30 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 100547</span>
-						<span>🔱 16929</span>
+						<span>⭐ 100857</span>
+						<span>🔱 16967</span>
 					</div>
 				<div class="stars-today">⭐ 19987 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/anthropics/financial-services" target="_blank">
+    
+
+
+      
+        anthropics /
+
+      financial-services</a></p>
+				<p></p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 39529</span>
+						<span>🔱 5590</span>
+					</div>
+				<div class="stars-today">⭐ 4698 stars this month</div>
 				</div>
 			</div>
 	
@@ -116,8 +116,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 48571</span>
-						<span>🔱 6007</span>
+						<span>⭐ 48781</span>
+						<span>🔱 6009</span>
 					</div>
 				<div class="stars-today">⭐ 25187 stars this month</div>
 				</div>
@@ -138,8 +138,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 JavaScript</span>
-						<span>⭐ 277435</span>
-						<span>🔱 41375</span>
+						<span>⭐ 277759</span>
+						<span>🔱 41421</span>
 					</div>
 				<div class="stars-today">⭐ 22438 stars this month</div>
 				</div>
@@ -160,8 +160,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 29179</span>
-						<span>🔱 3313</span>
+						<span>⭐ 29299</span>
+						<span>🔱 3321</span>
 					</div>
 				<div class="stars-today">⭐ 5173 stars this month</div>
 				</div>
@@ -182,8 +182,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 150286</span>
-						<span>🔱 26297</span>
+						<span>⭐ 150395</span>
+						<span>🔱 26310</span>
 					</div>
 				<div class="stars-today">⭐ 6290 stars this month</div>
 				</div>
@@ -204,32 +204,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Go</span>
-						<span>⭐ 33360</span>
-						<span>🔱 4446</span>
+						<span>⭐ 33497</span>
+						<span>🔱 4461</span>
 					</div>
 				<div class="stars-today">⭐ 11116 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/heygen-com/hyperframes" target="_blank">
-    
-
-
-      
-        heygen-com /
-
-      hyperframes</a></p>
-				<p>
-      Write HTML. Render video. Built for agents.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 61255</span>
-						<span>🔱 5477</span>
-					</div>
-				<div class="stars-today">⭐ 11993 stars this month</div>
 				</div>
 			</div>
 	
@@ -248,10 +226,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 8787</span>
-						<span>🔱 1077</span>
+						<span>⭐ 8873</span>
+						<span>🔱 1092</span>
 					</div>
 				<div class="stars-today">⭐ 7118 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/heygen-com/hyperframes" target="_blank">
+    
+
+
+      
+        heygen-com /
+
+      hyperframes</a></p>
+				<p>
+      Write HTML. Render video. Built for agents.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 61668</span>
+						<span>🔱 5517</span>
+					</div>
+				<div class="stars-today">⭐ 11993 stars this month</div>
 				</div>
 			</div>
 	
@@ -270,8 +270,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Go</span>
-						<span>⭐ 4901</span>
-						<span>🔱 550</span>
+						<span>⭐ 4945</span>
+						<span>🔱 556</span>
 					</div>
 				<div class="stars-today">⭐ 3014 stars this month</div>
 				</div>
@@ -292,8 +292,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Rust</span>
-						<span>⭐ 15904</span>
-						<span>🔱 1767</span>
+						<span>⭐ 15958</span>
+						<span>🔱 1770</span>
 					</div>
 				<div class="stars-today">⭐ 7318 stars this month</div>
 				</div>
@@ -314,54 +314,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 C</span>
-						<span>⭐ 41333</span>
-						<span>🔱 4554</span>
+						<span>⭐ 41475</span>
+						<span>🔱 4580</span>
 					</div>
 				<div class="stars-today">⭐ 13726 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/trycua/cua" target="_blank">
-    
-
-
-      
-        trycua /
-
-      cua</a></p>
-				<p>
-      Scale computer-use 2.0 with open-source drivers, cross-OS fleets, and benchmarks for training, evaluation, and data generation.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Rust</span>
-						<span>⭐ 29432</span>
-						<span>🔱 2097</span>
-					</div>
-				<div class="stars-today">⭐ 6994 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/addyosmani/agent-skills" target="_blank">
-    
-
-
-      
-        addyosmani /
-
-      agent-skills</a></p>
-				<p>
-      Production-grade engineering skills for AI coding agents.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 JavaScript</span>
-						<span>⭐ 105224</span>
-						<span>🔱 10982</span>
-					</div>
-				<div class="stars-today">⭐ 11891 stars this month</div>
 				</div>
 			</div>
 	
@@ -380,10 +336,54 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 33491</span>
-						<span>🔱 4615</span>
+						<span>⭐ 33888</span>
+						<span>🔱 4653</span>
 					</div>
 				<div class="stars-today">⭐ 7925 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/addyosmani/agent-skills" target="_blank">
+    
+
+
+      
+        addyosmani /
+
+      agent-skills</a></p>
+				<p>
+      Production-grade engineering skills for AI coding agents.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 JavaScript</span>
+						<span>⭐ 105506</span>
+						<span>🔱 11006</span>
+					</div>
+				<div class="stars-today">⭐ 11891 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/trycua/cua" target="_blank">
+    
+
+
+      
+        trycua /
+
+      cua</a></p>
+				<p>
+      Scale computer-use 2.0 with open-source drivers, cross-OS fleets, and benchmarks for training, evaluation, and data generation.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Rust</span>
+						<span>⭐ 29496</span>
+						<span>🔱 2102</span>
+					</div>
+				<div class="stars-today">⭐ 6994 stars this month</div>
 				</div>
 			</div>
 	
@@ -402,8 +402,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 26742</span>
-						<span>🔱 1918</span>
+						<span>⭐ 27126</span>
+						<span>🔱 1938</span>
 					</div>
 				<div class="stars-today">⭐ 4584 stars this month</div>
 				</div>
@@ -424,32 +424,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 10968</span>
-						<span>🔱 1056</span>
+						<span>⭐ 11037</span>
+						<span>🔱 1067</span>
 					</div>
 				<div class="stars-today">⭐ 3610 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/bilawalsidhu/gods-eye-view" target="_blank">
-    
-
-
-      
-        bilawalsidhu /
-
-      gods-eye-view</a></p>
-				<p>
-      A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 JavaScript</span>
-						<span>⭐ 52329</span>
-						<span>🔱 10455</span>
-					</div>
-				<div class="stars-today">⭐ 25143 stars this month</div>
 				</div>
 			</div>
 	
@@ -468,32 +446,54 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Java</span>
-						<span>⭐ 83942</span>
-						<span>🔱 9333</span>
+						<span>⭐ 84864</span>
+						<span>🔱 9413</span>
 					</div>
 				<div class="stars-today">⭐ 8451 stars this month</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/Panniantong/Agent-Reach" target="_blank">
+				<p><a href="https://github.com/bilawalsidhu/gods-eye-view" target="_blank">
     
 
 
       
-        Panniantong /
+        bilawalsidhu /
 
-      Agent-Reach</a></p>
+      gods-eye-view</a></p>
 				<p>
-      Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.
+      A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 JavaScript</span>
+						<span>⭐ 53285</span>
+						<span>🔱 10575</span>
+					</div>
+				<div class="stars-today">⭐ 25143 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/rohitg00/ai-engineering-from-scratch" target="_blank">
+    
+
+
+      
+        rohitg00 /
+
+      ai-engineering-from-scratch</a></p>
+				<p>
+      Learn AI Engineering! Learn it. Build it. Ship it for others.
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 96271</span>
-						<span>🔱 8426</span>
+						<span>⭐ 67995</span>
+						<span>🔱 11919</span>
 					</div>
-				<div class="stars-today">⭐ 16862 stars this month</div>
+				<div class="stars-today">⭐ 13378 stars this month</div>
 				</div>
 			</div>
 	
