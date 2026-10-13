@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2026年10月
-date: 2026-10-13T08:32:03Z
+date: 2026-10-13T17:10:04Z
 categories:
 - monthly
 keywords:
@@ -30,32 +30,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Go</span>
-						<span>⭐ 46684</span>
-						<span>🔱 3391</span>
+						<span>⭐ 46840</span>
+						<span>🔱 3402</span>
 					</div>
 				<div class="stars-today">⭐ 24317 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/debpalash/VoiceStudio" target="_blank">
-    
-
-
-      
-        debpalash /
-
-      VoiceStudio</a></p>
-				<p>
-      VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 61038</span>
-						<span>🔱 6848</span>
-					</div>
-				<div class="stars-today">⭐ 37110 stars this month</div>
 				</div>
 			</div>
 	
@@ -74,8 +52,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 101169</span>
-						<span>🔱 16995</span>
+						<span>⭐ 101428</span>
+						<span>🔱 17030</span>
 					</div>
 				<div class="stars-today">⭐ 20601 stars this month</div>
 				</div>
@@ -94,10 +72,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 39605</span>
-						<span>🔱 5594</span>
+						<span>⭐ 39670</span>
+						<span>🔱 5596</span>
 					</div>
 				<div class="stars-today">⭐ 4838 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/debpalash/VoiceStudio" target="_blank">
+    
+
+
+      
+        debpalash /
+
+      VoiceStudio</a></p>
+				<p>
+      VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 62297</span>
+						<span>🔱 6953</span>
+					</div>
+				<div class="stars-today">⭐ 37110 stars this month</div>
 				</div>
 			</div>
 	
@@ -116,8 +116,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 48966</span>
-						<span>🔱 6019</span>
+						<span>⭐ 49152</span>
+						<span>🔱 6026</span>
 					</div>
 				<div class="stars-today">⭐ 25557 stars this month</div>
 				</div>
@@ -138,8 +138,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 JavaScript</span>
-						<span>⭐ 278130</span>
-						<span>🔱 41448</span>
+						<span>⭐ 278398</span>
+						<span>🔱 41473</span>
 					</div>
 				<div class="stars-today">⭐ 22583 stars this month</div>
 				</div>
@@ -160,76 +160,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 29412</span>
-						<span>🔱 3333</span>
+						<span>⭐ 29488</span>
+						<span>🔱 3345</span>
 					</div>
 				<div class="stars-today">⭐ 5365 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/anthropics/claude-code" target="_blank">
-    
-
-
-      
-        anthropics /
-
-      claude-code</a></p>
-				<p>
-      Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 150514</span>
-						<span>🔱 26334</span>
-					</div>
-				<div class="stars-today">⭐ 6422 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/Tencent/WeKnora" target="_blank">
-    
-
-
-      
-        Tencent /
-
-      WeKnora</a></p>
-				<p>
-      Open-source LLM knowledge platform: turn raw documents into a queryable RAG, an autonomous reasoning agent, and a self-maintaining Wiki.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Go</span>
-						<span>⭐ 33646</span>
-						<span>🔱 4480</span>
-					</div>
-				<div class="stars-today">⭐ 11159 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/TencentCloud/Octop" target="_blank">
-    
-
-
-      
-        TencentCloud /
-
-      Octop</a></p>
-				<p>
-      A smarter, self-hosted AI assistant — multi-user, multi-agent.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 9017</span>
-						<span>🔱 1109</span>
-					</div>
-				<div class="stars-today">⭐ 7333 stars this month</div>
 				</div>
 			</div>
 	
@@ -248,10 +182,76 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 62091</span>
-						<span>🔱 5561</span>
+						<span>⭐ 62464</span>
+						<span>🔱 5596</span>
 					</div>
 				<div class="stars-today">⭐ 12662 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/anthropics/claude-code" target="_blank">
+    
+
+
+      
+        anthropics /
+
+      claude-code</a></p>
+				<p>
+      Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 150602</span>
+						<span>🔱 26402</span>
+					</div>
+				<div class="stars-today">⭐ 6422 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/TencentCloud/Octop" target="_blank">
+    
+
+
+      
+        TencentCloud /
+
+      Octop</a></p>
+				<p>
+      A smarter, self-hosted AI assistant — multi-user, multi-agent.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 9110</span>
+						<span>🔱 1122</span>
+					</div>
+				<div class="stars-today">⭐ 7333 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/Tencent/WeKnora" target="_blank">
+    
+
+
+      
+        Tencent /
+
+      WeKnora</a></p>
+				<p>
+      Open-source LLM knowledge platform: turn raw documents into a queryable RAG, an autonomous reasoning agent, and a self-maintaining Wiki.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Go</span>
+						<span>⭐ 33730</span>
+						<span>🔱 4489</span>
+					</div>
+				<div class="stars-today">⭐ 11159 stars this month</div>
 				</div>
 			</div>
 	
@@ -270,8 +270,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Go</span>
-						<span>⭐ 4990</span>
-						<span>🔱 557</span>
+						<span>⭐ 5027</span>
+						<span>🔱 563</span>
 					</div>
 				<div class="stars-today">⭐ 3104 stars this month</div>
 				</div>
@@ -292,54 +292,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Rust</span>
-						<span>⭐ 16030</span>
+						<span>⭐ 16075</span>
 						<span>🔱 1775</span>
 					</div>
 				<div class="stars-today">⭐ 7457 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/JustVugg/colibri" target="_blank">
-    
-
-
-      
-        JustVugg /
-
-      colibri</a></p>
-				<p>
-      Run frontier MoE models on hardware you already own — pure C, zero deps, experts streamed from disk. Tiny engine, immense model. 🐦
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 C</span>
-						<span>⭐ 41598</span>
-						<span>🔱 4596</span>
-					</div>
-				<div class="stars-today">⭐ 13470 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/tashfeenahmed/freellmapi" target="_blank">
-    
-
-
-      
-        tashfeenahmed /
-
-      freellmapi</a></p>
-				<p>
-      7.4 billion tokens per month. 34 free LLM providers. 635 free model endpoints. All behind one /v1 endpoint, plus any custom OpenAI-compatible endpoint. Smart routing, automatic failover, encrypted keys. Personal experimentation only.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 34307</span>
-						<span>🔱 4689</span>
-					</div>
-				<div class="stars-today">⭐ 8213 stars this month</div>
 				</div>
 			</div>
 	
@@ -358,10 +314,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 JavaScript</span>
-						<span>⭐ 105831</span>
-						<span>🔱 11041</span>
+						<span>⭐ 106067</span>
+						<span>🔱 11062</span>
 					</div>
 				<div class="stars-today">⭐ 12396 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/tashfeenahmed/freellmapi" target="_blank">
+    
+
+
+      
+        tashfeenahmed /
+
+      freellmapi</a></p>
+				<p>
+      7.4 billion tokens per month. 34 free LLM providers. 635 free model endpoints. All behind one /v1 endpoint, plus any custom OpenAI-compatible endpoint. Smart routing, automatic failover, encrypted keys. Personal experimentation only.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 34528</span>
+						<span>🔱 4712</span>
+					</div>
+				<div class="stars-today">⭐ 8213 stars this month</div>
 				</div>
 			</div>
 	
@@ -380,8 +358,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Rust</span>
-						<span>⭐ 29554</span>
-						<span>🔱 2104</span>
+						<span>⭐ 29600</span>
+						<span>🔱 2112</span>
 					</div>
 				<div class="stars-today">⭐ 7084 stars this month</div>
 				</div>
@@ -402,8 +380,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 27622</span>
-						<span>🔱 1960</span>
+						<span>⭐ 27985</span>
+						<span>🔱 1982</span>
 					</div>
 				<div class="stars-today">⭐ 4706 stars this month</div>
 				</div>
@@ -424,8 +402,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 11123</span>
-						<span>🔱 1083</span>
+						<span>⭐ 11186</span>
+						<span>🔱 1087</span>
 					</div>
 				<div class="stars-today">⭐ 3707 stars this month</div>
 				</div>
@@ -446,32 +424,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Java</span>
-						<span>⭐ 85649</span>
-						<span>🔱 9516</span>
+						<span>⭐ 86067</span>
+						<span>🔱 9578</span>
 					</div>
 				<div class="stars-today">⭐ 9722 stars this month</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/bilawalsidhu/gods-eye-view" target="_blank">
+				<p><a href="https://github.com/JustVugg/colibri" target="_blank">
     
 
 
       
-        bilawalsidhu /
+        JustVugg /
 
-      gods-eye-view</a></p>
+      colibri</a></p>
 				<p>
-      A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe.
+      Run frontier MoE models on hardware you already own — pure C, zero deps, experts streamed from disk. Tiny engine, immense model. 🐦
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 JavaScript</span>
-						<span>⭐ 54299</span>
-						<span>🔱 10688</span>
+						<span>🔠 C</span>
+						<span>⭐ 41693</span>
+						<span>🔱 4611</span>
 					</div>
-				<div class="stars-today">⭐ 24627 stars this month</div>
+				<div class="stars-today">⭐ 13470 stars this month</div>
 				</div>
 			</div>
 	
@@ -490,10 +468,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 68306</span>
-						<span>🔱 11962</span>
+						<span>⭐ 68547</span>
+						<span>🔱 11998</span>
 					</div>
 				<div class="stars-today">⭐ 13880 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/longbridge/gpui-kit" target="_blank">
+    
+
+
+      
+        longbridge /
+
+      gpui-kit</a></p>
+				<p>
+      Rust GUI components for building fantastic cross-platform desktop application by using GPUI.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Rust</span>
+						<span>⭐ 17118</span>
+						<span>🔱 1054</span>
+					</div>
+				<div class="stars-today">⭐ 2736 stars this month</div>
 				</div>
 			</div>
 	

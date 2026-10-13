@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2026-10-13
-date: 2026-10-13T08:32:03Z
+date: 2026-10-13T17:10:04Z
 categories:
 - daily
 keywords:
@@ -30,10 +30,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 178215</span>
-						<span>🔱 42900</span>
+						<span>⭐ 197992</span>
+						<span>🔱 48437</span>
 					</div>
-				<div class="stars-today">⭐ 45327 stars today</div>
+				<div class="stars-today">⭐ 54706 stars today</div>
 				</div>
 			</div>
 	
@@ -52,10 +52,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 JavaScript</span>
-						<span>⭐ 54299</span>
-						<span>🔱 10688</span>
+						<span>⭐ 54931</span>
+						<span>🔱 10770</span>
 					</div>
-				<div class="stars-today">⭐ 1895 stars today</div>
+				<div class="stars-today">⭐ 1961 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/debpalash/VoiceStudio" target="_blank">
+    
+
+
+      
+        debpalash /
+
+      VoiceStudio</a></p>
+				<p>
+      VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 62297</span>
+						<span>🔱 6953</span>
+					</div>
+				<div class="stars-today">⭐ 2277 stars today</div>
 				</div>
 			</div>
 	
@@ -74,54 +96,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 27622</span>
-						<span>🔱 1960</span>
+						<span>⭐ 27985</span>
+						<span>🔱 1982</span>
 					</div>
-				<div class="stars-today">⭐ 246 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/storytold/artcraft" target="_blank">
-    
-
-
-      
-        storytold /
-
-      artcraft</a></p>
-				<p>
-      ArtCraft is an intentional crafting engine for artists, designers, and filmmakers
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Rust</span>
-						<span>⭐ 23373</span>
-						<span>🔱 3731</span>
-					</div>
-				<div class="stars-today">⭐ 4095 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/open-webui/open-webui" target="_blank">
-    
-
-
-      
-        open-webui /
-
-      open-webui</a></p>
-				<p>
-      User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 155402</span>
-						<span>🔱 22664</span>
-					</div>
-				<div class="stars-today">⭐ 157 stars today</div>
+				<div class="stars-today">⭐ 978 stars today</div>
 				</div>
 			</div>
 	
@@ -140,10 +118,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 HTML</span>
-						<span>⭐ 53161</span>
-						<span>🔱 3362</span>
+						<span>⭐ 53759</span>
+						<span>🔱 3412</span>
 					</div>
-				<div class="stars-today">⭐ 2081 stars today</div>
+				<div class="stars-today">⭐ 1813 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/vercel-labs/skills" target="_blank">
+    
+
+
+      
+        vercel-labs /
+
+      skills</a></p>
+				<p>
+      The open agent skills tool - npx skills
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 34301</span>
+						<span>🔱 2936</span>
+					</div>
+				<div class="stars-today">⭐ 187 stars today</div>
 				</div>
 			</div>
 	
@@ -162,54 +162,54 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Jupyter Notebook</span>
-						<span>⭐ 37837</span>
-						<span>🔱 3890</span>
+						<span>⭐ 38137</span>
+						<span>🔱 3902</span>
 					</div>
-				<div class="stars-today">⭐ 879 stars today</div>
+				<div class="stars-today">⭐ 1004 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/microsoft/BitNet" target="_blank">
+				<p><a href="https://github.com/storytold/artcraft" target="_blank">
     
 
 
       
-        microsoft /
+        storytold /
 
-      BitNet</a></p>
+      artcraft</a></p>
 				<p>
-      Official inference framework for 1-bit LLMs
+      ArtCraft is an intentional crafting engine for artists, designers, and filmmakers
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 C++</span>
-						<span>⭐ 41045</span>
-						<span>🔱 3819</span>
+						<span>🔠 Rust</span>
+						<span>⭐ 24815</span>
+						<span>🔱 3905</span>
 					</div>
-				<div class="stars-today">⭐ 97 stars today</div>
+				<div class="stars-today">⭐ 4078 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/Alishahryar1/free-claude-code" target="_blank">
+				<p><a href="https://github.com/xtool-org/xtool" target="_blank">
     
 
 
       
-        Alishahryar1 /
+        xtool-org /
 
-      free-claude-code</a></p>
+      xtool</a></p>
 				<p>
-      Use Claude Code, Codex, VSCode, Pi, and OpenCode (and 6 other harnesses) for free (1.3B+ free tokens) from your terminal, app, IDE, or phone, and now from the browser with native browser sessions (multi-harness + multi-model) like OpenClaw (voice supported + ToS friendly)
+      Cross-platform Xcode replacement. Build and deploy iOS apps with SwiftPM on Linux, Windows, macOS.
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 59626</span>
-						<span>🔱 9366</span>
+						<span>🔠 Swift</span>
+						<span>⭐ 8932</span>
+						<span>🔱 373</span>
 					</div>
-				<div class="stars-today">⭐ 626 stars today</div>
+				<div class="stars-today">⭐ 1182 stars today</div>
 				</div>
 			</div>
 	

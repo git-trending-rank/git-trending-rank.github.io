@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2026年第42周
-date: 2026-10-13T08:32:03Z
+date: 2026-10-13T17:10:04Z
 categories:
 - weekly
 keywords:
@@ -30,32 +30,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 C++</span>
-						<span>⭐ 33563</span>
-						<span>🔱 2899</span>
+						<span>⭐ 34578</span>
+						<span>🔱 2995</span>
 					</div>
 				<div class="stars-today">⭐ 27263 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/tester-army/e2e" target="_blank">
-    
-
-
-      
-        tester-army /
-
-      e2e</a></p>
-				<p>
-      Next generation e2e testing framework for web and mobile apps.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 9780</span>
-						<span>🔱 471</span>
-					</div>
-				<div class="stars-today">⭐ 5582 stars this week</div>
 				</div>
 			</div>
 	
@@ -74,10 +52,54 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Shell</span>
-						<span>⭐ 288542</span>
-						<span>🔱 24226</span>
+						<span>⭐ 289228</span>
+						<span>🔱 24285</span>
 					</div>
 				<div class="stars-today">⭐ 11139 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/tester-army/e2e" target="_blank">
+    
+
+
+      
+        tester-army /
+
+      e2e</a></p>
+				<p>
+      Next generation e2e testing framework for web and mobile apps.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 9982</span>
+						<span>🔱 484</span>
+					</div>
+				<div class="stars-today">⭐ 5582 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/EpicGames/raddebugger" target="_blank">
+    
+
+
+      
+        EpicGames /
+
+      raddebugger</a></p>
+				<p>
+      A native, user-mode, multi-process, graphical debugger.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 C</span>
+						<span>⭐ 8469</span>
+						<span>🔱 411</span>
+					</div>
+				<div class="stars-today">⭐ 845 stars this week</div>
 				</div>
 			</div>
 	
@@ -96,8 +118,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 62091</span>
-						<span>🔱 5561</span>
+						<span>⭐ 62464</span>
+						<span>🔱 5596</span>
 					</div>
 				<div class="stars-today">⭐ 4482 stars this week</div>
 				</div>
@@ -118,32 +140,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 100212</span>
-						<span>🔱 8785</span>
+						<span>⭐ 100351</span>
+						<span>🔱 8796</span>
 					</div>
 				<div class="stars-today">⭐ 3762 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/flutter/flutter" target="_blank">
-    
-
-
-      
-        flutter /
-
-      flutter</a></p>
-				<p>
-      Flutter makes it easy and fast to build beautiful apps for mobile and beyond
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Dart</span>
-						<span>⭐ 180017</span>
-						<span>🔱 33864</span>
-					</div>
-				<div class="stars-today">⭐ 806 stars this week</div>
 				</div>
 			</div>
 	
@@ -162,8 +162,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 11123</span>
-						<span>🔱 1083</span>
+						<span>⭐ 11186</span>
+						<span>🔱 1087</span>
 					</div>
 				<div class="stars-today">⭐ 1144 stars this week</div>
 				</div>
@@ -184,76 +184,54 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 19765</span>
-						<span>🔱 1944</span>
+						<span>⭐ 19901</span>
+						<span>🔱 1952</span>
 					</div>
 				<div class="stars-today">⭐ 2441 stars this week</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/mvschwarz/openrig" target="_blank">
+				<p><a href="https://github.com/flutter/flutter" target="_blank">
     
 
 
       
-        mvschwarz /
+        flutter /
 
-      openrig</a></p>
+      flutter</a></p>
 				<p>
-      Build your own network of agents from Claude Code, Codex and Pi: persistent teams with roles, shared context and owned work.
+      Flutter makes it easy and fast to build beautiful apps for mobile and beyond
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 7338</span>
-						<span>🔱 555</span>
+						<span>🔠 Dart</span>
+						<span>⭐ 180077</span>
+						<span>🔱 33951</span>
 					</div>
-				<div class="stars-today">⭐ 2056 stars this week</div>
+				<div class="stars-today">⭐ 806 stars this week</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/morluto/rea" target="_blank">
+				<p><a href="https://github.com/cathrynlavery/diagram-design" target="_blank">
     
 
 
       
-        morluto /
+        cathrynlavery /
 
-      rea</a></p>
+      diagram-design</a></p>
 				<p>
-      Reverse engineer anything with agents, from app behavior down to native binaries.
+      Editorial diagram design for Claude Code, Codex, GitHub Copilot, Cursor, Factory Droid, and Pi. 44 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 178215</span>
-						<span>🔱 42900</span>
+						<span>🔠 HTML</span>
+						<span>⭐ 53759</span>
+						<span>🔱 3412</span>
 					</div>
-				<div class="stars-today">⭐ 130471 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/DuarteSantos8/openGym" target="_blank">
-    
-
-
-      
-        DuarteSantos8 /
-
-      openGym</a></p>
-				<p>
-      Self-hosted gym & body-weight tracker — plan routines, log workouts (supersets, warm-ups, cardio), see which muscles are trained, fatigued or detrained, import from FitNotes/Strong/Hevy, passkey login. Your data, your server.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 JavaScript</span>
-						<span>⭐ 10758</span>
-						<span>🔱 1300</span>
-					</div>
-				<div class="stars-today">⭐ 6621 stars this week</div>
+				<div class="stars-today">⭐ 9237 stars this week</div>
 				</div>
 			</div>
 	
