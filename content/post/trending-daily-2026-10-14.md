@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2026-10-14
-date: 2026-10-14T09:03:00Z
+date: 2026-10-14T14:42:14Z
 categories:
 - daily
 keywords:
@@ -30,32 +30,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 222056</span>
-						<span>🔱 55061</span>
+						<span>⭐ 230810</span>
+						<span>🔱 57492</span>
 					</div>
-				<div class="stars-today">⭐ 54679 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/bilawalsidhu/gods-eye-view" target="_blank">
-    
-
-
-      
-        bilawalsidhu /
-
-      gods-eye-view</a></p>
-				<p>
-      A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 JavaScript</span>
-						<span>⭐ 56004</span>
-						<span>🔱 10909</span>
-					</div>
-				<div class="stars-today">⭐ 1961 stars today</div>
+				<div class="stars-today">⭐ 41187 stars today</div>
 				</div>
 			</div>
 	
@@ -74,10 +52,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 64514</span>
-						<span>🔱 7162</span>
+						<span>⭐ 65201</span>
+						<span>🔱 7219</span>
 					</div>
-				<div class="stars-today">⭐ 1748 stars today</div>
+				<div class="stars-today">⭐ 3547 stars today</div>
 				</div>
 			</div>
 	
@@ -96,98 +74,142 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 28591</span>
-						<span>🔱 2012</span>
+						<span>⭐ 28806</span>
+						<span>🔱 2020</span>
 					</div>
-				<div class="stars-today">⭐ 969 stars today</div>
+				<div class="stars-today">⭐ 946 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/cathrynlavery/diagram-design" target="_blank">
+				<p><a href="https://github.com/nvm-sh/nvm" target="_blank">
     
 
 
       
-        cathrynlavery /
+        nvm-sh /
 
-      diagram-design</a></p>
+      nvm</a></p>
 				<p>
-      Editorial diagram design for Claude Code, Codex, GitHub Copilot, Cursor, Factory Droid, and Pi. 44 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.
+      Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions.
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 HTML</span>
-						<span>⭐ 54805</span>
-						<span>🔱 3458</span>
+						<span>🔠 Shell</span>
+						<span>⭐ 95386</span>
+						<span>🔱 10508</span>
 					</div>
-				<div class="stars-today">⭐ 1815 stars today</div>
+				<div class="stars-today">⭐ 45 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/vercel-labs/skills" target="_blank">
+				<p><a href="https://github.com/K-Dense-AI/scientific-agent-skills" target="_blank">
     
 
 
       
-        vercel-labs /
+        K-Dense-AI /
 
-      skills</a></p>
+      scientific-agent-skills</a></p>
 				<p>
-      The open agent skills tool - npx skills
+      Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 250,000+ scientists worldwide. 177 ready-to-use validated skills plus 100+ scientific databases covering biology, chemistry, medicine, and drug discovery. Compatible with Cursor, Claude Code, Codex, Pi, Antigravity, and the open Agent Skills standard.
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 34782</span>
-						<span>🔱 2967</span>
+						<span>🔠 Python</span>
+						<span>⭐ 48997</span>
+						<span>🔱 4398</span>
 					</div>
-				<div class="stars-today">⭐ 190 stars today</div>
+				<div class="stars-today">⭐ 146 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/lyogavin/airllm" target="_blank">
+				<p><a href="https://github.com/HKUDS/CLI-Anything" target="_blank">
     
 
 
       
-        lyogavin /
+        HKUDS /
 
-      airllm</a></p>
+      CLI-Anything</a></p>
 				<p>
-      AirLLM 2.8T LLM inference with single 4GB GPU
+      "CLI-Anything: Making ALL Software Agent-Native" -- CLI-Hub: https://clianything.cc/
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Jupyter Notebook</span>
-						<span>⭐ 38550</span>
-						<span>🔱 3938</span>
+						<span>🔠 Python</span>
+						<span>⭐ 52251</span>
+						<span>🔱 4761</span>
 					</div>
-				<div class="stars-today">⭐ 1001 stars today</div>
+				<div class="stars-today">⭐ 94 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/storytold/artcraft" target="_blank">
+				<p><a href="https://github.com/ifixai-ai/iFixAi" target="_blank">
     
 
 
       
-        storytold /
+        ifixai-ai /
 
-      artcraft</a></p>
+      iFixAi</a></p>
 				<p>
-      ArtCraft is an intentional crafting engine for artists, designers, and filmmakers
+      Independent Auditing of AI Agents. Run by human or the agent itself, to answer the most crucial question in the AI Agent Economy. Is the agent doing what is supposed to do? With iFixAi you can have this answer in less than 120 seconds.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 26761</span>
+						<span>🔱 1480</span>
+					</div>
+				<div class="stars-today">⭐ 2143 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/vxcontrol/pentagi" target="_blank">
+    
+
+
+      
+        vxcontrol /
+
+      pentagi</a></p>
+				<p>
+      Fully autonomous AI Agents system capable of performing complex penetration testing tasks
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Go</span>
+						<span>⭐ 28898</span>
+						<span>🔱 4342</span>
+					</div>
+				<div class="stars-today">⭐ 1819 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/rust-lang/rust" target="_blank">
+    
+
+
+      
+        rust-lang /
+
+      rust</a></p>
+				<p>
+      Empowering everyone to build reliable and efficient software.
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Rust</span>
-						<span>⭐ 26704</span>
-						<span>🔱 4169</span>
+						<span>⭐ 119806</span>
+						<span>🔱 18658</span>
 					</div>
-				<div class="stars-today">⭐ 4081 stars today</div>
+				<div class="stars-today">⭐ 205 stars today</div>
 				</div>
 			</div>
 	
@@ -206,10 +228,54 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Swift</span>
-						<span>⭐ 9917</span>
-						<span>🔱 415</span>
+						<span>⭐ 10209</span>
+						<span>🔱 441</span>
 					</div>
-				<div class="stars-today">⭐ 1198 stars today</div>
+				<div class="stars-today">⭐ 1510 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/ntdevlabs/tiny11builder" target="_blank">
+    
+
+
+      
+        ntdevlabs /
+
+      tiny11builder</a></p>
+				<p>
+      WinUI app for building smaller, customized Windows 11 images.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 C#</span>
+						<span>⭐ 20071</span>
+						<span>🔱 1544</span>
+					</div>
+				<div class="stars-today">⭐ 132 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/NationalSecurityAgency/ghidra" target="_blank">
+    
+
+
+      
+        NationalSecurityAgency /
+
+      ghidra</a></p>
+				<p>
+      Ghidra is a software reverse engineering (SRE) framework
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Java</span>
+						<span>⭐ 86958</span>
+						<span>🔱 9715</span>
+					</div>
+				<div class="stars-today">⭐ 1002 stars today</div>
 				</div>
 			</div>
 	
