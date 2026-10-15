@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2026-10-15
-date: 2026-10-15T06:44:04Z
+date: 2026-10-15T12:52:55Z
 categories:
 - daily
 keywords:
@@ -30,76 +30,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 250917</span>
-						<span>🔱 63006</span>
+						<span>⭐ 259243</span>
+						<span>🔱 65196</span>
 					</div>
-				<div class="stars-today">⭐ 41034 stars today</div>
+				<div class="stars-today">⭐ 32282 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/debpalash/VoiceStudio" target="_blank">
+				<p><a href="https://github.com/anthropics/claude-plugins-official" target="_blank">
     
 
 
       
-        debpalash /
+        anthropics /
 
-      VoiceStudio</a></p>
+      claude-plugins-official</a></p>
 				<p>
-      VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.
+      Official, Anthropic-managed directory of high quality Claude Code Plugins.
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 67163</span>
-						<span>🔱 7382</span>
+						<span>⭐ 38369</span>
+						<span>🔱 4286</span>
 					</div>
-				<div class="stars-today">⭐ 3538 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/mksglu/context-mode" target="_blank">
-    
-
-
-      
-        mksglu /
-
-      context-mode</a></p>
-				<p>
-      Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 29365</span>
-						<span>🔱 2056</span>
-					</div>
-				<div class="stars-today">⭐ 947 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/nvm-sh/nvm" target="_blank">
-    
-
-
-      
-        nvm-sh /
-
-      nvm</a></p>
-				<p>
-      Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Shell</span>
-						<span>⭐ 95501</span>
-						<span>🔱 10523</span>
-					</div>
-				<div class="stars-today">⭐ 52 stars today</div>
+				<div class="stars-today">⭐ 181 stars today</div>
 				</div>
 			</div>
 	
@@ -118,142 +74,120 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 49647</span>
-						<span>🔱 4440</span>
+						<span>⭐ 50002</span>
+						<span>🔱 4459</span>
 					</div>
-				<div class="stars-today">⭐ 163 stars today</div>
+				<div class="stars-today">⭐ 1091 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/HKUDS/CLI-Anything" target="_blank">
+				<p><a href="https://github.com/JuliusBrussee/caveman" target="_blank">
     
 
 
       
-        HKUDS /
+        JuliusBrussee /
 
-      CLI-Anything</a></p>
+      caveman</a></p>
 				<p>
-      "CLI-Anything: Making ALL Software Agent-Native" -- CLI-Hub: https://clianything.cc/
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 52732</span>
-						<span>🔱 4785</span>
-					</div>
-				<div class="stars-today">⭐ 103 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/ifixai-ai/iFixAi" target="_blank">
-    
-
-
-      
-        ifixai-ai /
-
-      iFixAi</a></p>
-				<p>
-      Independent Auditing of AI Agents. Run by human or the agent itself, to answer the most crucial question in the AI Agent Economy. Is the agent doing what is supposed to do? With iFixAi you can have this answer in less than 120 seconds.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 27830</span>
-						<span>🔱 1519</span>
-					</div>
-				<div class="stars-today">⭐ 2109 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/vxcontrol/pentagi" target="_blank">
-    
-
-
-      
-        vxcontrol /
-
-      pentagi</a></p>
-				<p>
-      Fully autonomous AI Agents system capable of performing complex penetration testing tasks
+      🪨 why use many token when few token do trick. Viral skill + proxy for coding agents that cuts 65% of tokens by talking like a caveman.
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Go</span>
-						<span>⭐ 29919</span>
-						<span>🔱 4485</span>
+						<span>⭐ 112117</span>
+						<span>🔱 6502</span>
 					</div>
-				<div class="stars-today">⭐ 1025 stars today</div>
+				<div class="stars-today">⭐ 398 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/rust-lang/rust" target="_blank">
+				<p><a href="https://github.com/debpalash/VoiceStudio" target="_blank">
     
 
 
       
-        rust-lang /
+        debpalash /
 
-      rust</a></p>
+      VoiceStudio</a></p>
 				<p>
-      Empowering everyone to build reliable and efficient software.
+      VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Rust</span>
-						<span>⭐ 120166</span>
-						<span>🔱 18708</span>
+						<span>🔠 Python</span>
+						<span>⭐ 67965</span>
+						<span>🔱 7448</span>
 					</div>
-				<div class="stars-today">⭐ 207 stars today</div>
+				<div class="stars-today">⭐ 3027 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/xtool-org/xtool" target="_blank">
+				<p><a href="https://github.com/obra/superpowers" target="_blank">
     
 
 
       
-        xtool-org /
+        obra /
 
-      xtool</a></p>
+      superpowers</a></p>
 				<p>
-      Cross-platform Xcode replacement. Build and deploy iOS apps with SwiftPM on Linux, Windows, macOS.
+      An agentic skills framework & software development methodology that works.
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Swift</span>
-						<span>⭐ 11159</span>
-						<span>🔱 511</span>
+						<span>🔠 Shell</span>
+						<span>⭐ 299500</span>
+						<span>🔱 26753</span>
 					</div>
-				<div class="stars-today">⭐ 1502 stars today</div>
+				<div class="stars-today">⭐ 534 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/ntdevlabs/tiny11builder" target="_blank">
+				<p><a href="https://github.com/ruvnet/ruflo" target="_blank">
     
 
 
       
-        ntdevlabs /
+        ruvnet /
 
-      tiny11builder</a></p>
+      ruflo</a></p>
 				<p>
-      WinUI app for building smaller, customized Windows 11 images.
+      🌊 The original agent harness. Deploy intelligent multi-player swarms, coordinate autonomous workflows, and build conversational AI systems. Features adaptive memory, self-learning intelligence, federation, vector RAG integration, and native Claude Code / Codex / Hermes and many more Integrated
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 C#</span>
-						<span>⭐ 20360</span>
-						<span>🔱 1560</span>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 74803</span>
+						<span>🔱 8899</span>
 					</div>
-				<div class="stars-today">⭐ 139 stars today</div>
+				<div class="stars-today">⭐ 146 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/mksglu/context-mode" target="_blank">
+    
+
+
+      
+        mksglu /
+
+      context-mode</a></p>
+				<p>
+      Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 29588</span>
+						<span>🔱 2064</span>
+					</div>
+				<div class="stars-today">⭐ 902 stars today</div>
 				</div>
 			</div>
 	
@@ -272,10 +206,76 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Java</span>
-						<span>⭐ 87856</span>
-						<span>🔱 9801</span>
+						<span>⭐ 88195</span>
+						<span>🔱 9839</span>
 					</div>
-				<div class="stars-today">⭐ 1008 stars today</div>
+				<div class="stars-today">⭐ 1366 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/affaan-m/ECC" target="_blank">
+    
+
+
+      
+        affaan-m /
+
+      ECC</a></p>
+				<p>
+      The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 JavaScript</span>
+						<span>⭐ 279900</span>
+						<span>🔱 41637</span>
+					</div>
+				<div class="stars-today">⭐ 1015 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/lightseekorg/tokenspeed" target="_blank">
+    
+
+
+      
+        lightseekorg /
+
+      tokenspeed</a></p>
+				<p>
+      TokenSpeed is a speed-of-light LLM inference engine.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 2309</span>
+						<span>🔱 331</span>
+					</div>
+				<div class="stars-today">⭐ 25 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/xerj-org/xerj" target="_blank">
+    
+
+
+      
+        xerj-org /
+
+      xerj</a></p>
+				<p>
+      XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token waste of grep and sed. One command indexes code, docs, logs and PDFs for search, RAG, security audits and agent memory, using 40x fewer tokens than grep. Elasticsearch compatible, so existing clients just work.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Rust</span>
+						<span>⭐ 4828</span>
+						<span>🔱 296</span>
+					</div>
+				<div class="stars-today">⭐ 725 stars today</div>
 				</div>
 			</div>
 	

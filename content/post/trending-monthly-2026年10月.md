@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2026年10月
-date: 2026-10-15T06:44:05Z
+date: 2026-10-15T12:52:55Z
 categories:
 - monthly
 keywords:
@@ -30,8 +30,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 102292</span>
-						<span>🔱 17140</span>
+						<span>⭐ 102456</span>
+						<span>🔱 17165</span>
 					</div>
 				<div class="stars-today">⭐ 21643 stars this month</div>
 				</div>
@@ -50,32 +50,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 39896</span>
-						<span>🔱 5612</span>
+						<span>⭐ 39938</span>
+						<span>🔱 5620</span>
 					</div>
 				<div class="stars-today">⭐ 5122 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/alibaba/open-code-review" target="_blank">
-    
-
-
-      
-        alibaba /
-
-      open-code-review</a></p>
-				<p>
-      Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Go</span>
-						<span>⭐ 47245</span>
-						<span>🔱 3441</span>
-					</div>
-				<div class="stars-today">⭐ 23047 stars this month</div>
 				</div>
 			</div>
 	
@@ -94,8 +72,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 49793</span>
-						<span>🔱 6071</span>
+						<span>⭐ 49925</span>
+						<span>🔱 6076</span>
 					</div>
 				<div class="stars-today">⭐ 26274 stars this month</div>
 				</div>
@@ -116,8 +94,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 67163</span>
-						<span>🔱 7382</span>
+						<span>⭐ 67965</span>
+						<span>🔱 7448</span>
 					</div>
 				<div class="stars-today">⭐ 37181 stars this month</div>
 				</div>
@@ -138,8 +116,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 63912</span>
-						<span>🔱 5737</span>
+						<span>⭐ 64167</span>
+						<span>🔱 5760</span>
 					</div>
 				<div class="stars-today">⭐ 13722 stars this month</div>
 				</div>
@@ -160,8 +138,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 JavaScript</span>
-						<span>⭐ 279643</span>
-						<span>🔱 41609</span>
+						<span>⭐ 279900</span>
+						<span>🔱 41637</span>
 					</div>
 				<div class="stars-today">⭐ 22689 stars this month</div>
 				</div>
@@ -182,8 +160,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 29709</span>
-						<span>🔱 3364</span>
+						<span>⭐ 29742</span>
+						<span>🔱 3369</span>
 					</div>
 				<div class="stars-today">⭐ 5727 stars this month</div>
 				</div>
@@ -204,10 +182,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Go</span>
-						<span>⭐ 5175</span>
-						<span>🔱 570</span>
+						<span>⭐ 5202</span>
+						<span>🔱 571</span>
 					</div>
 				<div class="stars-today">⭐ 3286 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/alibaba/open-code-review" target="_blank">
+    
+
+
+      
+        alibaba /
+
+      open-code-review</a></p>
+				<p>
+      Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Go</span>
+						<span>⭐ 47299</span>
+						<span>🔱 3443</span>
+					</div>
+				<div class="stars-today">⭐ 23047 stars this month</div>
 				</div>
 			</div>
 	
@@ -226,32 +226,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Rust</span>
-						<span>⭐ 16269</span>
-						<span>🔱 1789</span>
+						<span>⭐ 16303</span>
+						<span>🔱 1791</span>
 					</div>
 				<div class="stars-today">⭐ 7698 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/anthropics/claude-code" target="_blank">
-    
-
-
-      
-        anthropics /
-
-      claude-code</a></p>
-				<p>
-      Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 150934</span>
-						<span>🔱 26583</span>
-					</div>
-				<div class="stars-today">⭐ 6685 stars this month</div>
 				</div>
 			</div>
 	
@@ -270,76 +248,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 9396</span>
-						<span>🔱 1168</span>
+						<span>⭐ 9479</span>
+						<span>🔱 1178</span>
 					</div>
 				<div class="stars-today">⭐ 7717 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/Tencent/WeKnora" target="_blank">
-    
-
-
-      
-        Tencent /
-
-      WeKnora</a></p>
-				<p>
-      Open-source LLM knowledge platform: turn raw documents into a queryable RAG, an autonomous reasoning agent, and a self-maintaining Wiki.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Go</span>
-						<span>⭐ 34074</span>
-						<span>🔱 4541</span>
-					</div>
-				<div class="stars-today">⭐ 11112 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/tashfeenahmed/freellmapi" target="_blank">
-    
-
-
-      
-        tashfeenahmed /
-
-      freellmapi</a></p>
-				<p>
-      7.4 billion tokens per month. 34 free LLM providers. 635 free model endpoints. All behind one /v1 endpoint, plus any custom OpenAI-compatible endpoint. Smart routing, automatic failover, encrypted keys. Personal experimentation only.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 35432</span>
-						<span>🔱 4803</span>
-					</div>
-				<div class="stars-today">⭐ 9154 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/addyosmani/agent-skills" target="_blank">
-    
-
-
-      
-        addyosmani /
-
-      agent-skills</a></p>
-				<p>
-      Production-grade engineering skills for AI coding agents.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 JavaScript</span>
-						<span>⭐ 106776</span>
-						<span>🔱 11109</span>
-					</div>
-				<div class="stars-today">⭐ 12981 stars this month</div>
 				</div>
 			</div>
 	
@@ -358,10 +270,54 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 29365</span>
-						<span>🔱 2056</span>
+						<span>⭐ 29588</span>
+						<span>🔱 2064</span>
 					</div>
 				<div class="stars-today">⭐ 6067 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/tashfeenahmed/freellmapi" target="_blank">
+    
+
+
+      
+        tashfeenahmed /
+
+      freellmapi</a></p>
+				<p>
+      7.4 billion tokens per month. 34 free LLM providers. 635 free model endpoints. All behind one /v1 endpoint, plus any custom OpenAI-compatible endpoint. Smart routing, automatic failover, encrypted keys. Personal experimentation only.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 35560</span>
+						<span>🔱 4817</span>
+					</div>
+				<div class="stars-today">⭐ 9154 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/Tencent/WeKnora" target="_blank">
+    
+
+
+      
+        Tencent /
+
+      WeKnora</a></p>
+				<p>
+      Open-source LLM knowledge platform: turn raw documents into a queryable RAG, an autonomous reasoning agent, and a self-maintaining Wiki.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Go</span>
+						<span>⭐ 34145</span>
+						<span>🔱 4546</span>
+					</div>
+				<div class="stars-today">⭐ 11112 stars this month</div>
 				</div>
 			</div>
 	
@@ -380,10 +336,54 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Rust</span>
-						<span>⭐ 29782</span>
-						<span>🔱 2132</span>
+						<span>⭐ 29822</span>
+						<span>🔱 2134</span>
 					</div>
 				<div class="stars-today">⭐ 7248 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/addyosmani/agent-skills" target="_blank">
+    
+
+
+      
+        addyosmani /
+
+      agent-skills</a></p>
+				<p>
+      Production-grade engineering skills for AI coding agents.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 JavaScript</span>
+						<span>⭐ 106872</span>
+						<span>🔱 11115</span>
+					</div>
+				<div class="stars-today">⭐ 12981 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/anthropics/claude-code" target="_blank">
+    
+
+
+      
+        anthropics /
+
+      claude-code</a></p>
+				<p>
+      Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 150994</span>
+						<span>🔱 26588</span>
+					</div>
+				<div class="stars-today">⭐ 6685 stars this month</div>
 				</div>
 			</div>
 	
@@ -402,32 +402,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Java</span>
-						<span>⭐ 87856</span>
-						<span>🔱 9801</span>
+						<span>⭐ 88195</span>
+						<span>🔱 9839</span>
 					</div>
 				<div class="stars-today">⭐ 11461 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/cursor/plugins" target="_blank">
-    
-
-
-      
-        cursor /
-
-      plugins</a></p>
-				<p>
-      Cursor plugin specification and official plugins
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 11457</span>
-						<span>🔱 1123</span>
-					</div>
-				<div class="stars-today">⭐ 3840 stars this month</div>
 				</div>
 			</div>
 	
@@ -446,10 +424,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 69268</span>
-						<span>🔱 12136</span>
+						<span>⭐ 69489</span>
+						<span>🔱 12192</span>
 					</div>
 				<div class="stars-today">⭐ 14754 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/cursor/plugins" target="_blank">
+    
+
+
+      
+        cursor /
+
+      plugins</a></p>
+				<p>
+      Cursor plugin specification and official plugins
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 11510</span>
+						<span>🔱 1128</span>
+					</div>
+				<div class="stars-today">⭐ 3840 stars this month</div>
 				</div>
 			</div>
 	
@@ -468,7 +468,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Rust</span>
-						<span>⭐ 17476</span>
+						<span>⭐ 17536</span>
 						<span>🔱 1074</span>
 					</div>
 				<div class="stars-today">⭐ 3043 stars this month</div>
@@ -476,24 +476,24 @@ keywords:
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/Gaurav-Gosain/tuios" target="_blank">
+				<p><a href="https://github.com/thedotmack/claude-mem" target="_blank">
     
 
 
       
-        Gaurav-Gosain /
+        thedotmack /
 
-      tuios</a></p>
+      claude-mem</a></p>
 				<p>
-      A terminal window manager that knows what your agents are doing. Tiling panes, workspaces, sessions that survive restarts, and one Inbox for every coding agent.
+      Persistent Context Across Sessions for Every Agent – Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Go</span>
-						<span>⭐ 5364</span>
-						<span>🔱 251</span>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 100903</span>
+						<span>🔱 8835</span>
 					</div>
-				<div class="stars-today">⭐ 1670 stars this month</div>
+				<div class="stars-today">⭐ 7332 stars this month</div>
 				</div>
 			</div>
 	

@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2026年第42周
-date: 2026-10-15T06:44:05Z
+date: 2026-10-15T12:52:55Z
 categories:
 - weekly
 keywords:
@@ -30,8 +30,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 250923</span>
-						<span>🔱 63013</span>
+						<span>⭐ 259243</span>
+						<span>🔱 65196</span>
 					</div>
 				<div class="stars-today">⭐ 214837 stars this week</div>
 				</div>
@@ -52,8 +52,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 C++</span>
-						<span>⭐ 37486</span>
-						<span>🔱 3315</span>
+						<span>⭐ 37858</span>
+						<span>🔱 3352</span>
 					</div>
 				<div class="stars-today">⭐ 28240 stars this week</div>
 				</div>
@@ -74,8 +74,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Shell</span>
-						<span>⭐ 291681</span>
-						<span>🔱 24455</span>
+						<span>⭐ 292167</span>
+						<span>🔱 24497</span>
 					</div>
 				<div class="stars-today">⭐ 12292 stars this week</div>
 				</div>
@@ -96,76 +96,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 63912</span>
-						<span>🔱 5737</span>
+						<span>⭐ 64167</span>
+						<span>🔱 5760</span>
 					</div>
 				<div class="stars-today">⭐ 5123 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/EpicGames/raddebugger" target="_blank">
-    
-
-
-      
-        EpicGames /
-
-      raddebugger</a></p>
-				<p>
-      A native, user-mode, multi-process, graphical debugger.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 C</span>
-						<span>⭐ 8550</span>
-						<span>🔱 415</span>
-					</div>
-				<div class="stars-today">⭐ 814 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/tester-army/e2e" target="_blank">
-    
-
-
-      
-        tester-army /
-
-      e2e</a></p>
-				<p>
-      Next generation e2e testing framework for web and mobile apps.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 10603</span>
-						<span>🔱 514</span>
-					</div>
-				<div class="stars-today">⭐ 3505 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/thedotmack/claude-mem" target="_blank">
-    
-
-
-      
-        thedotmack /
-
-      claude-mem</a></p>
-				<p>
-      Persistent Context Across Sessions for Every Agent – Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 100831</span>
-						<span>🔱 8834</span>
-					</div>
-				<div class="stars-today">⭐ 3371 stars this week</div>
 				</div>
 			</div>
 	
@@ -184,76 +118,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 HTML</span>
-						<span>⭐ 55501</span>
-						<span>🔱 3504</span>
+						<span>⭐ 55678</span>
+						<span>🔱 3519</span>
 					</div>
 				<div class="stars-today">⭐ 10706 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/twostraws/SwiftUI-Agent-Skill" target="_blank">
-    
-
-
-      
-        twostraws /
-
-      SwiftUI-Agent-Skill</a></p>
-				<p>
-      SwiftUI agent skill for Claude Code, Codex, and other AI tools.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 </span>
-						<span>⭐ 6006</span>
-						<span>🔱 218</span>
-					</div>
-				<div class="stars-today">⭐ 930 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/earthtojake/text-to-cad" target="_blank">
-    
-
-
-      
-        earthtojake /
-
-      text-to-cad</a></p>
-				<p>
-      Give your agent CAD superpowers.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 20476</span>
-						<span>🔱 2021</span>
-					</div>
-				<div class="stars-today">⭐ 1994 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/flutter/flutter" target="_blank">
-    
-
-
-      
-        flutter /
-
-      flutter</a></p>
-				<p>
-      Flutter makes it easy and fast to build beautiful apps for mobile and beyond
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Dart</span>
-						<span>⭐ 180195</span>
-						<span>🔱 34107</span>
-					</div>
-				<div class="stars-today">⭐ 1117 stars this week</div>
 				</div>
 			</div>
 	
@@ -272,10 +140,120 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Java</span>
-						<span>⭐ 87856</span>
-						<span>🔱 9801</span>
+						<span>⭐ 88195</span>
+						<span>🔱 9839</span>
 					</div>
 				<div class="stars-today">⭐ 5613 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/ranxianglei/billion-context" target="_blank">
+    
+
+
+      
+        ranxianglei /
+
+      billion-context</a></p>
+				<p>
+      A context-compression plugin for small context windows (a 100K context is enough), token savings (5x fewer tokens), and month-long single sessions (billions of tokens).上下文压缩插件，兼顾小窗口(100k上下文足矣)省token(省5倍token)和超长会话(数月级别几十亿token单会话)。billion-context is all you need
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 1315</span>
+						<span>🔱 112</span>
+					</div>
+				<div class="stars-today">⭐ 628 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/earthtojake/text-to-cad" target="_blank">
+    
+
+
+      
+        earthtojake /
+
+      text-to-cad</a></p>
+				<p>
+      Give your agent CAD superpowers.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 20568</span>
+						<span>🔱 2032</span>
+					</div>
+				<div class="stars-today">⭐ 1994 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/twostraws/SwiftUI-Agent-Skill" target="_blank">
+    
+
+
+      
+        twostraws /
+
+      SwiftUI-Agent-Skill</a></p>
+				<p>
+      SwiftUI agent skill for Claude Code, Codex, and other AI tools.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 </span>
+						<span>⭐ 6035</span>
+						<span>🔱 220</span>
+					</div>
+				<div class="stars-today">⭐ 930 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/DuarteSantos8/openGym" target="_blank">
+    
+
+
+      
+        DuarteSantos8 /
+
+      openGym</a></p>
+				<p>
+      Self-hosted gym & body-weight tracker — plan routines, log workouts (supersets, warm-ups, cardio), see which muscles are trained, fatigued or detrained, import from FitNotes/Strong/Hevy, passkey login. Your data, your server.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 JavaScript</span>
+						<span>⭐ 12097</span>
+						<span>🔱 1475</span>
+					</div>
+				<div class="stars-today">⭐ 5132 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/cursor/plugins" target="_blank">
+    
+
+
+      
+        cursor /
+
+      plugins</a></p>
+				<p>
+      Cursor plugin specification and official plugins
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 11510</span>
+						<span>🔱 1128</span>
+					</div>
+				<div class="stars-today">⭐ 1155 stars this week</div>
 				</div>
 			</div>
 	
