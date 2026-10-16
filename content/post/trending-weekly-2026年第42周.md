@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2026年第42周
-date: 2026-10-16T06:27:12Z
+date: 2026-10-16T12:45:16Z
 categories:
 - weekly
 keywords:
@@ -30,10 +30,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 276870</span>
-						<span>🔱 69769</span>
+						<span>⭐ 283298</span>
+						<span>🔱 71370</span>
 					</div>
 				<div class="stars-today">⭐ 239477 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/storytold/artcraft" target="_blank">
+    
+
+
+      
+        storytold /
+
+      artcraft</a></p>
+				<p>
+      ArtCraft is an intentional crafting engine for artists, designers, and filmmakers
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Rust</span>
+						<span>⭐ 29943</span>
+						<span>🔱 4757</span>
+					</div>
+				<div class="stars-today">⭐ 22319 stars this week</div>
 				</div>
 			</div>
 	
@@ -52,54 +74,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 C++</span>
-						<span>⭐ 38981</span>
-						<span>🔱 3478</span>
+						<span>⭐ 39344</span>
+						<span>🔱 3516</span>
 					</div>
 				<div class="stars-today">⭐ 25174 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/mattpocock/skills" target="_blank">
-    
-
-
-      
-        mattpocock /
-
-      skills</a></p>
-				<p>
-      Skills for Real Engineers. Straight from my .agents directory.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Shell</span>
-						<span>⭐ 293169</span>
-						<span>🔱 24584</span>
-					</div>
-				<div class="stars-today">⭐ 12147 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/heygen-com/hyperframes" target="_blank">
-    
-
-
-      
-        heygen-com /
-
-      hyperframes</a></p>
-				<p>
-      Write HTML. Render video. Built for agents.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 64763</span>
-						<span>🔱 5830</span>
-					</div>
-				<div class="stars-today">⭐ 5318 stars this week</div>
 				</div>
 			</div>
 	
@@ -118,10 +96,54 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 HTML</span>
-						<span>⭐ 56065</span>
-						<span>🔱 3549</span>
+						<span>⭐ 56208</span>
+						<span>🔱 3561</span>
 					</div>
 				<div class="stars-today">⭐ 10237 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/heygen-com/hyperframes" target="_blank">
+    
+
+
+      
+        heygen-com /
+
+      hyperframes</a></p>
+				<p>
+      Write HTML. Render video. Built for agents.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 64981</span>
+						<span>🔱 5854</span>
+					</div>
+				<div class="stars-today">⭐ 5318 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/mattpocock/skills" target="_blank">
+    
+
+
+      
+        mattpocock /
+
+      skills</a></p>
+				<p>
+      Skills for Real Engineers. Straight from my .agents directory.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Shell</span>
+						<span>⭐ 293576</span>
+						<span>🔱 24615</span>
+					</div>
+				<div class="stars-today">⭐ 12147 stars this week</div>
 				</div>
 			</div>
 	
@@ -140,10 +162,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Java</span>
-						<span>⭐ 89028</span>
-						<span>🔱 9942</span>
+						<span>⭐ 89297</span>
+						<span>🔱 9976</span>
 					</div>
 				<div class="stars-today">⭐ 6614 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/mksglu/context-mode" target="_blank">
+    
+
+
+      
+        mksglu /
+
+      context-mode</a></p>
+				<p>
+      Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 30013</span>
+						<span>🔱 2112</span>
+					</div>
+				<div class="stars-today">⭐ 4038 stars this week</div>
 				</div>
 			</div>
 	
@@ -162,10 +206,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 1426</span>
+						<span>⭐ 1472</span>
 						<span>🔱 116</span>
 					</div>
 				<div class="stars-today">⭐ 659 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/anthropics/claude-plugins-official" target="_blank">
+    
+
+
+      
+        anthropics /
+
+      claude-plugins-official</a></p>
+				<p>
+      Official, Anthropic-managed directory of high quality Claude Code Plugins.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 39858</span>
+						<span>🔱 4361</span>
+					</div>
+				<div class="stars-today">⭐ 2217 stars this week</div>
 				</div>
 			</div>
 	
@@ -184,76 +250,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 20782</span>
-						<span>🔱 2052</span>
+						<span>⭐ 20872</span>
+						<span>🔱 2060</span>
 					</div>
 				<div class="stars-today">⭐ 2244 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/twostraws/SwiftUI-Agent-Skill" target="_blank">
-    
-
-
-      
-        twostraws /
-
-      SwiftUI-Agent-Skill</a></p>
-				<p>
-      SwiftUI agent skill for Claude Code, Codex, and other AI tools.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 </span>
-						<span>⭐ 6125</span>
-						<span>🔱 222</span>
-					</div>
-				<div class="stars-today">⭐ 900 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/DuarteSantos8/openGym" target="_blank">
-    
-
-
-      
-        DuarteSantos8 /
-
-      openGym</a></p>
-				<p>
-      Self-hosted gym & body-weight tracker — plan routines, log workouts (supersets, warm-ups, cardio), see which muscles are trained, fatigued or detrained, import from FitNotes/Strong/Hevy, passkey login. Your data, your server.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 JavaScript</span>
-						<span>⭐ 12501</span>
-						<span>🔱 1532</span>
-					</div>
-				<div class="stars-today">⭐ 4471 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/cursor/plugins" target="_blank">
-    
-
-
-      
-        cursor /
-
-      plugins</a></p>
-				<p>
-      Cursor plugin specification and official plugins
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 11700</span>
-						<span>🔱 1140</span>
-					</div>
-				<div class="stars-today">⭐ 1214 stars this week</div>
 				</div>
 			</div>
 	

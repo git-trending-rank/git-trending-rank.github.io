@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2026年10月
-date: 2026-10-16T06:27:12Z
+date: 2026-10-16T12:45:16Z
 categories:
 - monthly
 keywords:
@@ -14,6 +14,28 @@ keywords:
 	<main class="container">
         <div class="repo-list" id="repoList">
 
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/cloudflare/security-audit-skill" target="_blank">
+    
+
+
+      
+        cloudflare /
+
+      security-audit-skill</a></p>
+				<p>
+      A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 JavaScript</span>
+						<span>⭐ 30043</span>
+						<span>🔱 1866</span>
+					</div>
+				<div class="stars-today">⭐ 25242 stars this month</div>
+				</div>
+			</div>
 	
 			<div class="repo-card">
 				<p><a href="https://github.com/paperclipai/paperclip" target="_blank">
@@ -30,8 +52,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 102855</span>
-						<span>🔱 17220</span>
+						<span>⭐ 102991</span>
+						<span>🔱 17233</span>
 					</div>
 				<div class="stars-today">⭐ 22181 stars this month</div>
 				</div>
@@ -50,10 +72,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 40028</span>
-						<span>🔱 5625</span>
+						<span>⭐ 40051</span>
+						<span>🔱 5626</span>
 					</div>
 				<div class="stars-today">⭐ 5252 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/heygen-com/hyperframes" target="_blank">
+    
+
+
+      
+        heygen-com /
+
+      hyperframes</a></p>
+				<p>
+      Write HTML. Render video. Built for agents.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 64981</span>
+						<span>🔱 5854</span>
+					</div>
+				<div class="stars-today">⭐ 14246 stars this month</div>
 				</div>
 			</div>
 	
@@ -72,8 +116,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 50167</span>
-						<span>🔱 6089</span>
+						<span>⭐ 50311</span>
+						<span>🔱 6096</span>
 					</div>
 				<div class="stars-today">⭐ 26652 stars this month</div>
 				</div>
@@ -94,32 +138,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 69586</span>
-						<span>🔱 7613</span>
+						<span>⭐ 70135</span>
+						<span>🔱 7687</span>
 					</div>
 				<div class="stars-today">⭐ 38181 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/heygen-com/hyperframes" target="_blank">
-    
-
-
-      
-        heygen-com /
-
-      hyperframes</a></p>
-				<p>
-      Write HTML. Render video. Built for agents.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 64763</span>
-						<span>🔱 5830</span>
-					</div>
-				<div class="stars-today">⭐ 14246 stars this month</div>
 				</div>
 			</div>
 	
@@ -138,32 +160,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 JavaScript</span>
-						<span>⭐ 280624</span>
-						<span>🔱 41730</span>
+						<span>⭐ 280913</span>
+						<span>🔱 41775</span>
 					</div>
 				<div class="stars-today">⭐ 22953 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/anthropics/knowledge-work-plugins" target="_blank">
-    
-
-
-      
-        anthropics /
-
-      knowledge-work-plugins</a></p>
-				<p>
-      Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 29824</span>
-						<span>🔱 3373</span>
-					</div>
-				<div class="stars-today">⭐ 5835 stars this month</div>
 				</div>
 			</div>
 	
@@ -182,76 +182,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Go</span>
-						<span>⭐ 5249</span>
-						<span>🔱 582</span>
+						<span>⭐ 5272</span>
+						<span>🔱 583</span>
 					</div>
 				<div class="stars-today">⭐ 3368 stars this month</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/alibaba/open-code-review" target="_blank">
+				<p><a href="https://github.com/anthropics/knowledge-work-plugins" target="_blank">
     
 
 
       
-        alibaba /
+        anthropics /
 
-      open-code-review</a></p>
+      knowledge-work-plugins</a></p>
 				<p>
-      Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Go</span>
-						<span>⭐ 47431</span>
-						<span>🔱 3455</span>
-					</div>
-				<div class="stars-today">⭐ 20351 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/NVIDIA/OpenShell" target="_blank">
-    
-
-
-      
-        NVIDIA /
-
-      OpenShell</a></p>
-				<p>
-      OpenShell is the safe, private runtime for autonomous AI agents.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Rust</span>
-						<span>⭐ 16371</span>
-						<span>🔱 1798</span>
-					</div>
-				<div class="stars-today">⭐ 7813 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/TencentCloud/Octop" target="_blank">
-    
-
-
-      
-        TencentCloud /
-
-      Octop</a></p>
-				<p>
-      A smarter, self-hosted AI assistant — multi-user, multi-agent.
+      Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 9602</span>
-						<span>🔱 1201</span>
+						<span>⭐ 29847</span>
+						<span>🔱 3374</span>
 					</div>
-				<div class="stars-today">⭐ 7082 stars this month</div>
+				<div class="stars-today">⭐ 5835 stars this month</div>
 				</div>
 			</div>
 	
@@ -270,10 +226,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 29901</span>
-						<span>🔱 2090</span>
+						<span>⭐ 30013</span>
+						<span>🔱 2112</span>
 					</div>
 				<div class="stars-today">⭐ 6744 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/NVIDIA/OpenShell" target="_blank">
+    
+
+
+      
+        NVIDIA /
+
+      OpenShell</a></p>
+				<p>
+      OpenShell is the safe, private runtime for autonomous AI agents.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Rust</span>
+						<span>⭐ 16399</span>
+						<span>🔱 1799</span>
+					</div>
+				<div class="stars-today">⭐ 7813 stars this month</div>
 				</div>
 			</div>
 	
@@ -292,32 +270,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 35874</span>
-						<span>🔱 4843</span>
+						<span>⭐ 36007</span>
+						<span>🔱 4853</span>
 					</div>
 				<div class="stars-today">⭐ 9499 stars this month</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/Tencent/WeKnora" target="_blank">
+				<p><a href="https://github.com/TencentCloud/Octop" target="_blank">
     
 
 
       
-        Tencent /
+        TencentCloud /
 
-      WeKnora</a></p>
+      Octop</a></p>
 				<p>
-      Open-source LLM knowledge platform: turn raw documents into a queryable RAG, an autonomous reasoning agent, and a self-maintaining Wiki.
+      A smarter, self-hosted AI assistant — multi-user, multi-agent.
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Go</span>
-						<span>⭐ 34273</span>
-						<span>🔱 4569</span>
+						<span>🔠 Python</span>
+						<span>⭐ 9655</span>
+						<span>🔱 1214</span>
 					</div>
-				<div class="stars-today">⭐ 10698 stars this month</div>
+				<div class="stars-today">⭐ 7082 stars this month</div>
 				</div>
 			</div>
 	
@@ -336,10 +314,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Rust</span>
-						<span>⭐ 29894</span>
+						<span>⭐ 29931</span>
 						<span>🔱 2142</span>
 					</div>
 				<div class="stars-today">⭐ 7322 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/NationalSecurityAgency/ghidra" target="_blank">
+    
+
+
+      
+        NationalSecurityAgency /
+
+      ghidra</a></p>
+				<p>
+      Ghidra is a software reverse engineering (SRE) framework
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Java</span>
+						<span>⭐ 89297</span>
+						<span>🔱 9976</span>
+					</div>
+				<div class="stars-today">⭐ 12092 stars this month</div>
 				</div>
 			</div>
 	
@@ -358,8 +358,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 JavaScript</span>
-						<span>⭐ 107123</span>
-						<span>🔱 11148</span>
+						<span>⭐ 107237</span>
+						<span>🔱 11156</span>
 					</div>
 				<div class="stars-today">⭐ 13095 stars this month</div>
 				</div>
@@ -380,32 +380,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 151116</span>
-						<span>🔱 26732</span>
+						<span>⭐ 151177</span>
+						<span>🔱 26791</span>
 					</div>
 				<div class="stars-today">⭐ 6760 stars this month</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/NationalSecurityAgency/ghidra" target="_blank">
+				<p><a href="https://github.com/Tencent/WeKnora" target="_blank">
     
 
 
       
-        NationalSecurityAgency /
+        Tencent /
 
-      ghidra</a></p>
+      WeKnora</a></p>
 				<p>
-      Ghidra is a software reverse engineering (SRE) framework
+      Open-source LLM knowledge platform: turn raw documents into a queryable RAG, an autonomous reasoning agent, and a self-maintaining Wiki.
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Java</span>
-						<span>⭐ 89028</span>
-						<span>🔱 9942</span>
+						<span>🔠 Go</span>
+						<span>⭐ 34353</span>
+						<span>🔱 4581</span>
 					</div>
-				<div class="stars-today">⭐ 12092 stars this month</div>
+				<div class="stars-today">⭐ 10698 stars this month</div>
 				</div>
 			</div>
 	
@@ -424,8 +424,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 69900</span>
-						<span>🔱 12286</span>
+						<span>⭐ 70049</span>
+						<span>🔱 12312</span>
 					</div>
 				<div class="stars-today">⭐ 15242 stars this month</div>
 				</div>
@@ -446,8 +446,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 11700</span>
-						<span>🔱 1140</span>
+						<span>⭐ 11781</span>
+						<span>🔱 1142</span>
 					</div>
 				<div class="stars-today">⭐ 3928 stars this month</div>
 				</div>
@@ -468,32 +468,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Rust</span>
-						<span>⭐ 17679</span>
-						<span>🔱 1075</span>
+						<span>⭐ 17723</span>
+						<span>🔱 1078</span>
 					</div>
 				<div class="stars-today">⭐ 3233 stars this month</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/thedotmack/claude-mem" target="_blank">
+				<p><a href="https://github.com/VectifyAI/PageIndex" target="_blank">
     
 
 
       
-        thedotmack /
+        VectifyAI /
 
-      claude-mem</a></p>
+      PageIndex</a></p>
 				<p>
-      Persistent Context Across Sessions for Every Agent – Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More
+      📑 PageIndex: Document Index for Vectorless, Reasoning-based RAG
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 101110</span>
-						<span>🔱 8849</span>
+						<span>🔠 Python</span>
+						<span>⭐ 39161</span>
+						<span>🔱 3400</span>
 					</div>
-				<div class="stars-today">⭐ 7470 stars this month</div>
+				<div class="stars-today">⭐ 3625 stars this month</div>
 				</div>
 			</div>
 	
