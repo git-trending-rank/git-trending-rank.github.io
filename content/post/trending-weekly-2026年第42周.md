@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2026年第42周
-date: 2026-10-17T06:16:10Z
+date: 2026-10-17T11:46:10Z
 categories:
 - weekly
 keywords:
@@ -30,8 +30,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 294458</span>
-						<span>🔱 74282</span>
+						<span>⭐ 298705</span>
+						<span>🔱 75488</span>
 					</div>
 				<div class="stars-today">⭐ 248962 stars this week</div>
 				</div>
@@ -52,8 +52,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Rust</span>
-						<span>⭐ 30862</span>
-						<span>🔱 4901</span>
+						<span>⭐ 31155</span>
+						<span>🔱 4946</span>
 					</div>
 				<div class="stars-today">⭐ 20267 stars this week</div>
 				</div>
@@ -74,8 +74,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 C++</span>
-						<span>⭐ 40097</span>
-						<span>🔱 3593</span>
+						<span>⭐ 40367</span>
+						<span>🔱 3620</span>
 					</div>
 				<div class="stars-today">⭐ 20518 stars this week</div>
 				</div>
@@ -96,120 +96,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 HTML</span>
-						<span>⭐ 56551</span>
-						<span>🔱 3593</span>
+						<span>⭐ 56672</span>
+						<span>🔱 3606</span>
 					</div>
 				<div class="stars-today">⭐ 9024 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/heygen-com/hyperframes" target="_blank">
-    
-
-
-      
-        heygen-com /
-
-      hyperframes</a></p>
-				<p>
-      Write HTML. Render video. Built for agents.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 65462</span>
-						<span>🔱 5900</span>
-					</div>
-				<div class="stars-today">⭐ 5601 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/mattpocock/skills" target="_blank">
-    
-
-
-      
-        mattpocock /
-
-      skills</a></p>
-				<p>
-      Skills for Real Engineers. Straight from my .agents directory.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Shell</span>
-						<span>⭐ 294278</span>
-						<span>🔱 24669</span>
-					</div>
-				<div class="stars-today">⭐ 11937 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/NationalSecurityAgency/ghidra" target="_blank">
-    
-
-
-      
-        NationalSecurityAgency /
-
-      ghidra</a></p>
-				<p>
-      Ghidra is a software reverse engineering (SRE) framework
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Java</span>
-						<span>⭐ 89765</span>
-						<span>🔱 10038</span>
-					</div>
-				<div class="stars-today">⭐ 7510 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/mksglu/context-mode" target="_blank">
-    
-
-
-      
-        mksglu /
-
-      context-mode</a></p>
-				<p>
-      Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 30311</span>
-						<span>🔱 2151</span>
-					</div>
-				<div class="stars-today">⭐ 4207 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/ranxianglei/billion-context" target="_blank">
-    
-
-
-      
-        ranxianglei /
-
-      billion-context</a></p>
-				<p>
-      A context-compression plugin for small context windows (a 100K context is enough), token savings (5x fewer tokens), and month-long single sessions (billions of tokens).上下文压缩插件，兼顾小窗口(100k上下文足矣)省token(省5倍token)和超长会话(数月级别几十亿token单会话)。billion-context is all you need
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 1575</span>
-						<span>🔱 125</span>
-					</div>
-				<div class="stars-today">⭐ 779 stars this week</div>
 				</div>
 			</div>
 	
@@ -228,32 +118,120 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 40850</span>
-						<span>🔱 4416</span>
+						<span>⭐ 41121</span>
+						<span>🔱 4431</span>
 					</div>
 				<div class="stars-today">⭐ 2328 stars this week</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/earthtojake/text-to-cad" target="_blank">
+				<p><a href="https://github.com/heygen-com/hyperframes" target="_blank">
     
 
 
       
-        earthtojake /
+        heygen-com /
 
-      text-to-cad</a></p>
+      hyperframes</a></p>
 				<p>
-      Give your agent CAD superpowers.
+      Write HTML. Render video. Built for agents.
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 21064</span>
-						<span>🔱 2078</span>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 65605</span>
+						<span>🔱 5917</span>
 					</div>
-				<div class="stars-today">⭐ 2286 stars this week</div>
+				<div class="stars-today">⭐ 5601 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/mksglu/context-mode" target="_blank">
+    
+
+
+      
+        mksglu /
+
+      context-mode</a></p>
+				<p>
+      Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 30396</span>
+						<span>🔱 2184</span>
+					</div>
+				<div class="stars-today">⭐ 4207 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/NationalSecurityAgency/ghidra" target="_blank">
+    
+
+
+      
+        NationalSecurityAgency /
+
+      ghidra</a></p>
+				<p>
+      Ghidra is a software reverse engineering (SRE) framework
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Java</span>
+						<span>⭐ 89925</span>
+						<span>🔱 10057</span>
+					</div>
+				<div class="stars-today">⭐ 7510 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/mattpocock/skills" target="_blank">
+    
+
+
+      
+        mattpocock /
+
+      skills</a></p>
+				<p>
+      Skills for Real Engineers. Straight from my .agents directory.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Shell</span>
+						<span>⭐ 294513</span>
+						<span>🔱 24698</span>
+					</div>
+				<div class="stars-today">⭐ 11937 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/ranxianglei/billion-context" target="_blank">
+    
+
+
+      
+        ranxianglei /
+
+      billion-context</a></p>
+				<p>
+      A context-compression plugin for small context windows (a 100K context is enough), token savings (5x fewer tokens), and month-long single sessions (billions of tokens).上下文压缩插件，兼顾小窗口(100k上下文足矣)省token(省5倍token)和超长会话(数月级别几十亿token单会话)。billion-context is all you need
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 1612</span>
+						<span>🔱 130</span>
+					</div>
+				<div class="stars-today">⭐ 779 stars this week</div>
 				</div>
 			</div>
 	

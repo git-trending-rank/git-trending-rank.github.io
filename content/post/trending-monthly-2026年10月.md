@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2026年10月
-date: 2026-10-17T06:16:10Z
+date: 2026-10-17T11:46:10Z
 categories:
 - monthly
 keywords:
@@ -30,8 +30,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 JavaScript</span>
-						<span>⭐ 30326</span>
-						<span>🔱 1886</span>
+						<span>⭐ 30426</span>
+						<span>🔱 1896</span>
 					</div>
 				<div class="stars-today">⭐ 24844 stars this month</div>
 				</div>
@@ -52,8 +52,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 103263</span>
-						<span>🔱 17273</span>
+						<span>⭐ 103362</span>
+						<span>🔱 17283</span>
 					</div>
 				<div class="stars-today">⭐ 22617 stars this month</div>
 				</div>
@@ -72,8 +72,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 40115</span>
-						<span>🔱 5633</span>
+						<span>⭐ 40141</span>
+						<span>🔱 5634</span>
 					</div>
 				<div class="stars-today">⭐ 5343 stars this month</div>
 				</div>
@@ -94,32 +94,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 65462</span>
-						<span>🔱 5900</span>
+						<span>⭐ 65605</span>
+						<span>🔱 5917</span>
 					</div>
 				<div class="stars-today">⭐ 14754 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/vectorize-io/hindsight" target="_blank">
-    
-
-
-      
-        vectorize-io /
-
-      hindsight</a></p>
-				<p>
-      Hindsight: Agent Memory That Learns
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 50585</span>
-						<span>🔱 6114</span>
-					</div>
-				<div class="stars-today">⭐ 26912 stars this month</div>
 				</div>
 			</div>
 	
@@ -138,32 +116,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 71649</span>
-						<span>🔱 7835</span>
+						<span>⭐ 72148</span>
+						<span>🔱 7882</span>
 					</div>
 				<div class="stars-today">⭐ 38923 stars this month</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/affaan-m/ECC" target="_blank">
+				<p><a href="https://github.com/vectorize-io/hindsight" target="_blank">
     
 
 
       
-        affaan-m /
+        vectorize-io /
 
-      ECC</a></p>
+      hindsight</a></p>
 				<p>
-      The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.
+      Hindsight: Agent Memory That Learns
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 JavaScript</span>
-						<span>⭐ 281695</span>
-						<span>🔱 41887</span>
+						<span>🔠 Python</span>
+						<span>⭐ 50666</span>
+						<span>🔱 6120</span>
 					</div>
-				<div class="stars-today">⭐ 23005 stars this month</div>
+				<div class="stars-today">⭐ 26912 stars this month</div>
 				</div>
 			</div>
 	
@@ -182,32 +160,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Go</span>
-						<span>⭐ 5342</span>
-						<span>🔱 587</span>
+						<span>⭐ 5368</span>
+						<span>🔱 589</span>
 					</div>
 				<div class="stars-today">⭐ 3417 stars this month</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/anthropics/knowledge-work-plugins" target="_blank">
+				<p><a href="https://github.com/affaan-m/ECC" target="_blank">
     
 
 
       
-        anthropics /
+        affaan-m /
 
-      knowledge-work-plugins</a></p>
+      ECC</a></p>
 				<p>
-      Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork
+      The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 29912</span>
-						<span>🔱 3380</span>
+						<span>🔠 JavaScript</span>
+						<span>⭐ 281919</span>
+						<span>🔱 41927</span>
 					</div>
-				<div class="stars-today">⭐ 5827 stars this month</div>
+				<div class="stars-today">⭐ 23005 stars this month</div>
 				</div>
 			</div>
 	
@@ -226,10 +204,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 30311</span>
-						<span>🔱 2151</span>
+						<span>⭐ 30396</span>
+						<span>🔱 2184</span>
 					</div>
 				<div class="stars-today">⭐ 6983 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/anthropics/knowledge-work-plugins" target="_blank">
+    
+
+
+      
+        anthropics /
+
+      knowledge-work-plugins</a></p>
+				<p>
+      Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 29926</span>
+						<span>🔱 3383</span>
+					</div>
+				<div class="stars-today">⭐ 5827 stars this month</div>
 				</div>
 			</div>
 	
@@ -248,8 +248,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Rust</span>
-						<span>⭐ 16473</span>
-						<span>🔱 1805</span>
+						<span>⭐ 16490</span>
+						<span>🔱 1806</span>
 					</div>
 				<div class="stars-today">⭐ 7885 stars this month</div>
 				</div>
@@ -270,10 +270,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 36305</span>
-						<span>🔱 4897</span>
+						<span>⭐ 36394</span>
+						<span>🔱 4913</span>
 					</div>
 				<div class="stars-today">⭐ 9724 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/NationalSecurityAgency/ghidra" target="_blank">
+    
+
+
+      
+        NationalSecurityAgency /
+
+      ghidra</a></p>
+				<p>
+      Ghidra is a software reverse engineering (SRE) framework
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Java</span>
+						<span>⭐ 89925</span>
+						<span>🔱 10057</span>
+					</div>
+				<div class="stars-today">⭐ 12214 stars this month</div>
 				</div>
 			</div>
 	
@@ -292,8 +314,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 9706</span>
-						<span>🔱 1228</span>
+						<span>⭐ 9725</span>
+						<span>🔱 1241</span>
 					</div>
 				<div class="stars-today">⭐ 6877 stars this month</div>
 				</div>
@@ -314,98 +336,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Rust</span>
-						<span>⭐ 29981</span>
-						<span>🔱 2148</span>
+						<span>⭐ 29995</span>
+						<span>🔱 2150</span>
 					</div>
 				<div class="stars-today">⭐ 7397 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/NationalSecurityAgency/ghidra" target="_blank">
-    
-
-
-      
-        NationalSecurityAgency /
-
-      ghidra</a></p>
-				<p>
-      Ghidra is a software reverse engineering (SRE) framework
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Java</span>
-						<span>⭐ 89765</span>
-						<span>🔱 10038</span>
-					</div>
-				<div class="stars-today">⭐ 12214 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/addyosmani/agent-skills" target="_blank">
-    
-
-
-      
-        addyosmani /
-
-      agent-skills</a></p>
-				<p>
-      Production-grade engineering skills for AI coding agents.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 JavaScript</span>
-						<span>⭐ 107484</span>
-						<span>🔱 11192</span>
-					</div>
-				<div class="stars-today">⭐ 12847 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/anthropics/claude-code" target="_blank">
-    
-
-
-      
-        anthropics /
-
-      claude-code</a></p>
-				<p>
-      Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 151288</span>
-						<span>🔱 26852</span>
-					</div>
-				<div class="stars-today">⭐ 6803 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/Tencent/WeKnora" target="_blank">
-    
-
-
-      
-        Tencent /
-
-      WeKnora</a></p>
-				<p>
-      Open-source LLM knowledge platform: turn raw documents into a queryable RAG, an autonomous reasoning agent, and a self-maintaining Wiki.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Go</span>
-						<span>⭐ 34425</span>
-						<span>🔱 4591</span>
-					</div>
-				<div class="stars-today">⭐ 9769 stars this month</div>
 				</div>
 			</div>
 	
@@ -424,8 +358,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 70396</span>
-						<span>🔱 12376</span>
+						<span>⭐ 70485</span>
+						<span>🔱 12401</span>
 					</div>
 				<div class="stars-today">⭐ 15672 stars this month</div>
 				</div>
@@ -446,10 +380,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 12061</span>
-						<span>🔱 1172</span>
+						<span>⭐ 12156</span>
+						<span>🔱 1182</span>
 					</div>
 				<div class="stars-today">⭐ 4016 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/addyosmani/agent-skills" target="_blank">
+    
+
+
+      
+        addyosmani /
+
+      agent-skills</a></p>
+				<p>
+      Production-grade engineering skills for AI coding agents.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 JavaScript</span>
+						<span>⭐ 107603</span>
+						<span>🔱 11204</span>
+					</div>
+				<div class="stars-today">⭐ 12847 stars this month</div>
 				</div>
 			</div>
 	
@@ -468,32 +424,54 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Rust</span>
-						<span>⭐ 17842</span>
-						<span>🔱 1080</span>
+						<span>⭐ 17876</span>
+						<span>🔱 1082</span>
 					</div>
 				<div class="stars-today">⭐ 3384 stars this month</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/VectifyAI/PageIndex" target="_blank">
+				<p><a href="https://github.com/Tencent/WeKnora" target="_blank">
     
 
 
       
-        VectifyAI /
+        Tencent /
 
-      PageIndex</a></p>
+      WeKnora</a></p>
 				<p>
-      📑 PageIndex: Document Index for Vectorless, Reasoning-based RAG
+      Open-source LLM knowledge platform: turn raw documents into a queryable RAG, an autonomous reasoning agent, and a self-maintaining Wiki.
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 39214</span>
-						<span>🔱 3404</span>
+						<span>🔠 Go</span>
+						<span>⭐ 34461</span>
+						<span>🔱 4594</span>
 					</div>
-				<div class="stars-today">⭐ 3642 stars this month</div>
+				<div class="stars-today">⭐ 9769 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/anthropics/claude-code" target="_blank">
+    
+
+
+      
+        anthropics /
+
+      claude-code</a></p>
+				<p>
+      Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 151352</span>
+						<span>🔱 26856</span>
+					</div>
+				<div class="stars-today">⭐ 6803 stars this month</div>
 				</div>
 			</div>
 	

@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2026-10-17
-date: 2026-10-17T06:16:10Z
+date: 2026-10-17T11:46:10Z
 categories:
 - daily
 keywords:
@@ -30,206 +30,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 40850</span>
-						<span>🔱 4416</span>
+						<span>⭐ 41121</span>
+						<span>🔱 4431</span>
 					</div>
-				<div class="stars-today">⭐ 1552 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/K-Dense-AI/scientific-agent-skills" target="_blank">
-    
-
-
-      
-        K-Dense-AI /
-
-      scientific-agent-skills</a></p>
-				<p>
-      Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 250,000+ scientists worldwide. 177 ready-to-use validated skills plus 100+ scientific databases covering biology, chemistry, medicine, and drug discovery. Compatible with Cursor, Claude Code, Codex, Pi, Antigravity, and the open Agent Skills standard.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 51692</span>
-						<span>🔱 4577</span>
-					</div>
-				<div class="stars-today">⭐ 1158 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/affaan-m/ECC" target="_blank">
-    
-
-
-      
-        affaan-m /
-
-      ECC</a></p>
-				<p>
-      The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 JavaScript</span>
-						<span>⭐ 281695</span>
-						<span>🔱 41887</span>
-					</div>
-				<div class="stars-today">⭐ 1057 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/HKUDS/CLI-Anything" target="_blank">
-    
-
-
-      
-        HKUDS /
-
-      CLI-Anything</a></p>
-				<p>
-      "CLI-Anything: Making ALL Software Agent-Native" -- CLI-Hub: https://clianything.cc/
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 53622</span>
-						<span>🔱 4867</span>
-					</div>
-				<div class="stars-today">⭐ 281 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/mksglu/context-mode" target="_blank">
-    
-
-
-      
-        mksglu /
-
-      context-mode</a></p>
-				<p>
-      Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 30311</span>
-						<span>🔱 2151</span>
-					</div>
-				<div class="stars-today">⭐ 449 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/ruvnet/ruflo" target="_blank">
-    
-
-
-      
-        ruvnet /
-
-      ruflo</a></p>
-				<p>
-      🌊 The original agent harness. Deploy intelligent multi-player swarms, coordinate autonomous workflows, and build conversational AI systems. Features adaptive memory, self-learning intelligence, federation, vector RAG integration, and native Claude Code / Codex / Hermes and many more Integrated
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 75723</span>
-						<span>🔱 8972</span>
-					</div>
-				<div class="stars-today">⭐ 672 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/android/skills" target="_blank">
-    
-
-
-      
-        android /
-
-      skills</a></p>
-				<p></p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Kotlin</span>
-						<span>⭐ 8151</span>
-						<span>🔱 540</span>
-					</div>
-				<div class="stars-today">⭐ 36 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/obra/superpowers" target="_blank">
-    
-
-
-      
-        obra /
-
-      superpowers</a></p>
-				<p>
-      An agentic skills framework & software development methodology that works.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Shell</span>
-						<span>⭐ 300793</span>
-						<span>🔱 26851</span>
-					</div>
-				<div class="stars-today">⭐ 973 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/cursor/plugins" target="_blank">
-    
-
-
-      
-        cursor /
-
-      plugins</a></p>
-				<p>
-      Cursor plugin specification and official plugins
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 12061</span>
-						<span>🔱 1172</span>
-					</div>
-				<div class="stars-today">⭐ 278 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/debpalash/VoiceStudio" target="_blank">
-    
-
-
-      
-        debpalash /
-
-      VoiceStudio</a></p>
-				<p>
-      VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 71649</span>
-						<span>🔱 7835</span>
-					</div>
-				<div class="stars-today">⭐ 2301 stars today</div>
+				<div class="stars-today">⭐ 1383 stars today</div>
 				</div>
 			</div>
 	
@@ -248,32 +52,228 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 48807</span>
-						<span>🔱 16690</span>
+						<span>⭐ 49180</span>
+						<span>🔱 16741</span>
 					</div>
-				<div class="stars-today">⭐ 898 stars today</div>
+				<div class="stars-today">⭐ 1397 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/hmjz100/LinkSwift" target="_blank">
+				<p><a href="https://github.com/affaan-m/ECC" target="_blank">
     
 
 
       
-        hmjz100 /
+        affaan-m /
 
-      LinkSwift</a></p>
+      ECC</a></p>
 				<p>
-      一个基于 JavaScript 的网盘文件下载地址获取工具。基于【网盘直链下载助手】修改 ，支持 百度网盘 / 阿里云盘 / 中国移动云盘 / 天翼云盘 / 迅雷云盘 / 夸克网盘 / UC网盘 / 123云盘 八大网盘
+      The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 JavaScript</span>
-						<span>⭐ 23971</span>
-						<span>🔱 1459</span>
+						<span>⭐ 281919</span>
+						<span>🔱 41927</span>
 					</div>
-				<div class="stars-today">⭐ 538 stars today</div>
+				<div class="stars-today">⭐ 1145 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/HKUDS/CLI-Anything" target="_blank">
+    
+
+
+      
+        HKUDS /
+
+      CLI-Anything</a></p>
+				<p>
+      "CLI-Anything: Making ALL Software Agent-Native" -- CLI-Hub: https://clianything.cc/
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 53750</span>
+						<span>🔱 4881</span>
+					</div>
+				<div class="stars-today">⭐ 580 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/K-Dense-AI/scientific-agent-skills" target="_blank">
+    
+
+
+      
+        K-Dense-AI /
+
+      scientific-agent-skills</a></p>
+				<p>
+      Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 250,000+ scientists worldwide. 177 ready-to-use validated skills plus 100+ scientific databases covering biology, chemistry, medicine, and drug discovery. Compatible with Cursor, Claude Code, Codex, Pi, Antigravity, and the open Agent Skills standard.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 51909</span>
+						<span>🔱 4597</span>
+					</div>
+				<div class="stars-today">⭐ 879 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/akitaonrails/ai-memory" target="_blank">
+    
+
+
+      
+        akitaonrails /
+
+      ai-memory</a></p>
+				<p>
+      Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Rust</span>
+						<span>⭐ 9671</span>
+						<span>🔱 693</span>
+					</div>
+				<div class="stars-today">⭐ 159 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/android/skills" target="_blank">
+    
+
+
+      
+        android /
+
+      skills</a></p>
+				<p></p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Kotlin</span>
+						<span>⭐ 8240</span>
+						<span>🔱 542</span>
+					</div>
+				<div class="stars-today">⭐ 368 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/stablyai/orca" target="_blank">
+    
+
+
+      
+        stablyai /
+
+      orca</a></p>
+				<p>
+      Orca is the place for working with a fleet of agents (e.g. Grok Bot, Codex). Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 94813</span>
+						<span>🔱 6066</span>
+					</div>
+				<div class="stars-today">⭐ 1102 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/anthropics/claude-code" target="_blank">
+    
+
+
+      
+        anthropics /
+
+      claude-code</a></p>
+				<p>
+      Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 151352</span>
+						<span>🔱 26856</span>
+					</div>
+				<div class="stars-today">⭐ 168 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/debpalash/VoiceStudio" target="_blank">
+    
+
+
+      
+        debpalash /
+
+      VoiceStudio</a></p>
+				<p>
+      VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 72148</span>
+						<span>🔱 7882</span>
+					</div>
+				<div class="stars-today">⭐ 2135 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/anomalyco/opencode" target="_blank">
+    
+
+
+      
+        anomalyco /
+
+      opencode</a></p>
+				<p>
+      The open source coding agent.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 214560</span>
+						<span>🔱 28800</span>
+					</div>
+				<div class="stars-today">⭐ 488 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/ruvnet/ruflo" target="_blank">
+    
+
+
+      
+        ruvnet /
+
+      ruflo</a></p>
+				<p>
+      🌊 The original agent harness. Deploy intelligent multi-player swarms, coordinate autonomous workflows, and build conversational AI systems. Features adaptive memory, self-learning intelligence, federation, vector RAG integration, and native Claude Code / Codex / Hermes and many more Integrated
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 75805</span>
+						<span>🔱 8981</span>
+					</div>
+				<div class="stars-today">⭐ 406 stars today</div>
 				</div>
 			</div>
 	
@@ -292,10 +292,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Rust</span>
-						<span>⭐ 7130</span>
-						<span>🔱 365</span>
+						<span>⭐ 7346</span>
+						<span>🔱 382</span>
 					</div>
-				<div class="stars-today">⭐ 1648 stars today</div>
+				<div class="stars-today">⭐ 1102 stars today</div>
 				</div>
 			</div>
 	
