@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2026年10月
-date: 2026-10-18T06:38:39Z
+date: 2026-10-18T12:11:28Z
 categories:
 - monthly
 keywords:
@@ -14,28 +14,6 @@ keywords:
 	<main class="container">
         <div class="repo-list" id="repoList">
 
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/cloudflare/security-audit-skill" target="_blank">
-    
-
-
-      
-        cloudflare /
-
-      security-audit-skill</a></p>
-				<p>
-      A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 JavaScript</span>
-						<span>⭐ 30791</span>
-						<span>🔱 1926</span>
-					</div>
-				<div class="stars-today">⭐ 22054 stars this month</div>
-				</div>
-			</div>
 	
 			<div class="repo-card">
 				<p><a href="https://github.com/paperclipai/paperclip" target="_blank">
@@ -52,52 +30,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 103759</span>
-						<span>🔱 17352</span>
+						<span>⭐ 103867</span>
+						<span>🔱 17366</span>
 					</div>
 				<div class="stars-today">⭐ 22891 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/anthropics/financial-services" target="_blank">
-    
-
-
-      
-        anthropics /
-
-      financial-services</a></p>
-				<p></p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 40215</span>
-						<span>🔱 5640</span>
-					</div>
-				<div class="stars-today">⭐ 5410 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/heygen-com/hyperframes" target="_blank">
-    
-
-
-      
-        heygen-com /
-
-      hyperframes</a></p>
-				<p>
-      Write HTML. Render video. Built for agents.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 66141</span>
-						<span>🔱 5975</span>
-					</div>
-				<div class="stars-today">⭐ 15041 stars this month</div>
 				</div>
 			</div>
 	
@@ -116,10 +52,52 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 73804</span>
-						<span>🔱 8074</span>
+						<span>⭐ 74214</span>
+						<span>🔱 8122</span>
 					</div>
 				<div class="stars-today">⭐ 40333 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/heygen-com/hyperframes" target="_blank">
+    
+
+
+      
+        heygen-com /
+
+      hyperframes</a></p>
+				<p>
+      Write HTML. Render video. Built for agents.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 66315</span>
+						<span>🔱 5992</span>
+					</div>
+				<div class="stars-today">⭐ 15041 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/anthropics/financial-services" target="_blank">
+    
+
+
+      
+        anthropics /
+
+      financial-services</a></p>
+				<p></p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 40230</span>
+						<span>🔱 5644</span>
+					</div>
+				<div class="stars-today">⭐ 5410 stars this month</div>
 				</div>
 			</div>
 	
@@ -138,10 +116,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 50951</span>
-						<span>🔱 6134</span>
+						<span>⭐ 51023</span>
+						<span>🔱 6137</span>
 					</div>
 				<div class="stars-today">⭐ 27228 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/cloudflare/security-audit-skill" target="_blank">
+    
+
+
+      
+        cloudflare /
+
+      security-audit-skill</a></p>
+				<p>
+      A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 JavaScript</span>
+						<span>⭐ 30907</span>
+						<span>🔱 1935</span>
+					</div>
+				<div class="stars-today">⭐ 22054 stars this month</div>
 				</div>
 			</div>
 	
@@ -160,32 +160,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Go</span>
-						<span>⭐ 5441</span>
-						<span>🔱 594</span>
+						<span>⭐ 5456</span>
+						<span>🔱 595</span>
 					</div>
 				<div class="stars-today">⭐ 3487 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/affaan-m/ECC" target="_blank">
-    
-
-
-      
-        affaan-m /
-
-      ECC</a></p>
-				<p>
-      The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 JavaScript</span>
-						<span>⭐ 282718</span>
-						<span>🔱 42004</span>
-					</div>
-				<div class="stars-today">⭐ 23023 stars this month</div>
 				</div>
 			</div>
 	
@@ -204,32 +182,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 30559</span>
-						<span>🔱 2218</span>
+						<span>⭐ 30611</span>
+						<span>🔱 2243</span>
 					</div>
 				<div class="stars-today">⭐ 7235 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/anthropics/knowledge-work-plugins" target="_blank">
-    
-
-
-      
-        anthropics /
-
-      knowledge-work-plugins</a></p>
-				<p>
-      Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 30045</span>
-						<span>🔱 3392</span>
-					</div>
-				<div class="stars-today">⭐ 5654 stars this month</div>
 				</div>
 			</div>
 	
@@ -248,10 +204,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Rust</span>
-						<span>⭐ 16565</span>
-						<span>🔱 1809</span>
+						<span>⭐ 16584</span>
+						<span>🔱 1811</span>
 					</div>
 				<div class="stars-today">⭐ 7956 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/affaan-m/ECC" target="_blank">
+    
+
+
+      
+        affaan-m /
+
+      ECC</a></p>
+				<p>
+      The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 JavaScript</span>
+						<span>⭐ 282957</span>
+						<span>🔱 42019</span>
+					</div>
+				<div class="stars-today">⭐ 23023 stars this month</div>
 				</div>
 			</div>
 	
@@ -270,10 +248,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 36720</span>
-						<span>🔱 4974</span>
+						<span>⭐ 36844</span>
+						<span>🔱 4982</span>
 					</div>
 				<div class="stars-today">⭐ 9863 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/anthropics/knowledge-work-plugins" target="_blank">
+    
+
+
+      
+        anthropics /
+
+      knowledge-work-plugins</a></p>
+				<p>
+      Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 30078</span>
+						<span>🔱 3396</span>
+					</div>
+				<div class="stars-today">⭐ 5654 stars this month</div>
 				</div>
 			</div>
 	
@@ -292,10 +292,76 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Java</span>
-						<span>⭐ 90410</span>
-						<span>🔱 10121</span>
+						<span>⭐ 90531</span>
+						<span>🔱 10137</span>
 					</div>
 				<div class="stars-today">⭐ 12003 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/cursor/plugins" target="_blank">
+    
+
+
+      
+        cursor /
+
+      plugins</a></p>
+				<p>
+      Cursor plugin specification and official plugins
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 12507</span>
+						<span>🔱 1228</span>
+					</div>
+				<div class="stars-today">⭐ 4213 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/rohitg00/ai-engineering-from-scratch" target="_blank">
+    
+
+
+      
+        rohitg00 /
+
+      ai-engineering-from-scratch</a></p>
+				<p>
+      Learn AI Engineering! Learn it. Build it. Ship it for others.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 70841</span>
+						<span>🔱 12461</span>
+					</div>
+				<div class="stars-today">⭐ 16014 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/anthropics/claude-plugins-official" target="_blank">
+    
+
+
+      
+        anthropics /
+
+      claude-plugins-official</a></p>
+				<p>
+      Official, Anthropic-managed directory of high quality Claude Code Plugins.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 42280</span>
+						<span>🔱 4503</span>
+					</div>
+				<div class="stars-today">⭐ 5112 stars this month</div>
 				</div>
 			</div>
 	
@@ -314,8 +380,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 9809</span>
-						<span>🔱 1256</span>
+						<span>⭐ 9838</span>
+						<span>🔱 1265</span>
 					</div>
 				<div class="stars-today">⭐ 6631 stars this month</div>
 				</div>
@@ -336,76 +402,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Rust</span>
-						<span>⭐ 30054</span>
-						<span>🔱 2157</span>
+						<span>⭐ 30082</span>
+						<span>🔱 2159</span>
 					</div>
 				<div class="stars-today">⭐ 7435 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/rohitg00/ai-engineering-from-scratch" target="_blank">
-    
-
-
-      
-        rohitg00 /
-
-      ai-engineering-from-scratch</a></p>
-				<p>
-      Learn AI Engineering! Learn it. Build it. Ship it for others.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 70754</span>
-						<span>🔱 12451</span>
-					</div>
-				<div class="stars-today">⭐ 16014 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/cursor/plugins" target="_blank">
-    
-
-
-      
-        cursor /
-
-      plugins</a></p>
-				<p>
-      Cursor plugin specification and official plugins
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 12434</span>
-						<span>🔱 1218</span>
-					</div>
-				<div class="stars-today">⭐ 4213 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/addyosmani/agent-skills" target="_blank">
-    
-
-
-      
-        addyosmani /
-
-      agent-skills</a></p>
-				<p>
-      Production-grade engineering skills for AI coding agents.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 JavaScript</span>
-						<span>⭐ 107927</span>
-						<span>🔱 11247</span>
-					</div>
-				<div class="stars-today">⭐ 12605 stars this month</div>
 				</div>
 			</div>
 	
@@ -424,54 +424,30 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Rust</span>
-						<span>⭐ 18005</span>
-						<span>🔱 1095</span>
+						<span>⭐ 18038</span>
+						<span>🔱 1096</span>
 					</div>
 				<div class="stars-today">⭐ 3500 stars this month</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/Tencent/WeKnora" target="_blank">
+				<p><a href="https://github.com/pingdotgg/t3code" target="_blank">
     
 
 
       
-        Tencent /
+        pingdotgg /
 
-      WeKnora</a></p>
-				<p>
-      Open-source LLM knowledge platform: turn raw documents into a queryable RAG, an autonomous reasoning agent, and a self-maintaining Wiki.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Go</span>
-						<span>⭐ 34551</span>
-						<span>🔱 4599</span>
-					</div>
-				<div class="stars-today">⭐ 8870 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/anthropics/claude-code" target="_blank">
-    
-
-
-      
-        anthropics /
-
-      claude-code</a></p>
-				<p>
-      Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.
-    </p>
+      t3code</a></p>
+				<p></p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 152013</span>
-						<span>🔱 26932</span>
+						<span>⭐ 28216</span>
+						<span>🔱 7523</span>
 					</div>
-				<div class="stars-today">⭐ 6460 stars this month</div>
+				<div class="stars-today">⭐ 5326 stars this month</div>
 				</div>
 			</div>
 	

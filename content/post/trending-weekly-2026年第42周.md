@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2026年第42周
-date: 2026-10-18T06:38:38Z
+date: 2026-10-18T12:11:28Z
 categories:
 - weekly
 keywords:
@@ -30,8 +30,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 311364</span>
-						<span>🔱 78876</span>
+						<span>⭐ 315187</span>
+						<span>🔱 79893</span>
 					</div>
 				<div class="stars-today">⭐ 239923 stars this week</div>
 				</div>
@@ -52,8 +52,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Rust</span>
-						<span>⭐ 32010</span>
-						<span>🔱 5071</span>
+						<span>⭐ 32245</span>
+						<span>🔱 5110</span>
 					</div>
 				<div class="stars-today">⭐ 18479 stars this week</div>
 				</div>
@@ -74,32 +74,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 C++</span>
-						<span>⭐ 42090</span>
-						<span>🔱 3814</span>
+						<span>⭐ 42481</span>
+						<span>🔱 3850</span>
 					</div>
 				<div class="stars-today">⭐ 16250 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/cathrynlavery/diagram-design" target="_blank">
-    
-
-
-      
-        cathrynlavery /
-
-      diagram-design</a></p>
-				<p>
-      Editorial diagram design for Claude Code, Codex, GitHub Copilot, Cursor, Factory Droid, and Pi. 44 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 HTML</span>
-						<span>⭐ 57181</span>
-						<span>🔱 3643</span>
-					</div>
-				<div class="stars-today">⭐ 8382 stars this week</div>
 				</div>
 			</div>
 	
@@ -118,32 +96,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 42020</span>
-						<span>🔱 4481</span>
+						<span>⭐ 42280</span>
+						<span>🔱 4503</span>
 					</div>
 				<div class="stars-today">⭐ 3581 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/heygen-com/hyperframes" target="_blank">
-    
-
-
-      
-        heygen-com /
-
-      hyperframes</a></p>
-				<p>
-      Write HTML. Render video. Built for agents.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 66141</span>
-						<span>🔱 5975</span>
-					</div>
-				<div class="stars-today">⭐ 5639 stars this week</div>
 				</div>
 			</div>
 	
@@ -162,10 +118,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 30559</span>
-						<span>🔱 2218</span>
+						<span>⭐ 30611</span>
+						<span>🔱 2243</span>
 					</div>
 				<div class="stars-today">⭐ 4438 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/cathrynlavery/diagram-design" target="_blank">
+    
+
+
+      
+        cathrynlavery /
+
+      diagram-design</a></p>
+				<p>
+      Editorial diagram design for Claude Code, Codex, GitHub Copilot, Cursor, Factory Droid, and Pi. 44 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 HTML</span>
+						<span>⭐ 57363</span>
+						<span>🔱 3656</span>
+					</div>
+				<div class="stars-today">⭐ 8382 stars this week</div>
 				</div>
 			</div>
 	
@@ -184,54 +162,76 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Java</span>
-						<span>⭐ 90410</span>
-						<span>🔱 10121</span>
+						<span>⭐ 90531</span>
+						<span>🔱 10137</span>
 					</div>
 				<div class="stars-today">⭐ 7608 stars this week</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/mattpocock/skills" target="_blank">
+				<p><a href="https://github.com/heygen-com/hyperframes" target="_blank">
     
 
 
       
-        mattpocock /
+        heygen-com /
 
-      skills</a></p>
+      hyperframes</a></p>
 				<p>
-      Skills for Real Engineers. Straight from my .agents directory.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Shell</span>
-						<span>⭐ 295342</span>
-						<span>🔱 24774</span>
-					</div>
-				<div class="stars-today">⭐ 11272 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/ranxianglei/billion-context" target="_blank">
-    
-
-
-      
-        ranxianglei /
-
-      billion-context</a></p>
-				<p>
-      A context-compression plugin for small context windows (a 100K context is enough), token savings (5x fewer tokens), and month-long single sessions (billions of tokens).上下文压缩插件，兼顾小窗口(100k上下文足矣)省token(省5倍token)和超长会话(数月级别几十亿token单会话)。billion-context is all you need
+      Write HTML. Render video. Built for agents.
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 1782</span>
-						<span>🔱 143</span>
+						<span>⭐ 66315</span>
+						<span>🔱 5992</span>
 					</div>
-				<div class="stars-today">⭐ 888 stars this week</div>
+				<div class="stars-today">⭐ 5639 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/cursor/plugins" target="_blank">
+    
+
+
+      
+        cursor /
+
+      plugins</a></p>
+				<p>
+      Cursor plugin specification and official plugins
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 12507</span>
+						<span>🔱 1228</span>
+					</div>
+				<div class="stars-today">⭐ 1536 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/MadsLorentzen/ai-job-search" target="_blank">
+    
+
+
+      
+        MadsLorentzen /
+
+      ai-job-search</a></p>
+				<p>
+      The job search that runs on your machine. AI job application framework built on Claude Code: evaluate postings, tailor CVs, write cover letters, prep interviews. Fork it and own it.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 51426</span>
+						<span>🔱 17079</span>
+					</div>
+				<div class="stars-today">⭐ 4200 stars this week</div>
 				</div>
 			</div>
 	
