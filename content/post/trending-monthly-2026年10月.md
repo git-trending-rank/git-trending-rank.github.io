@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2026年10月
-date: 2026-10-19T06:59:03Z
+date: 2026-10-19T15:00:39Z
 categories:
 - monthly
 keywords:
@@ -30,8 +30,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 104285</span>
-						<span>🔱 17413</span>
+						<span>⭐ 104519</span>
+						<span>🔱 17439</span>
 					</div>
 				<div class="stars-today">⭐ 23340 stars this month</div>
 				</div>
@@ -52,8 +52,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 76133</span>
-						<span>🔱 8329</span>
+						<span>⭐ 76915</span>
+						<span>🔱 8414</span>
 					</div>
 				<div class="stars-today">⭐ 42036 stars this month</div>
 				</div>
@@ -74,30 +74,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 66995</span>
-						<span>🔱 6072</span>
+						<span>⭐ 67343</span>
+						<span>🔱 6096</span>
 					</div>
 				<div class="stars-today">⭐ 15429 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/anthropics/financial-services" target="_blank">
-    
-
-
-      
-        anthropics /
-
-      financial-services</a></p>
-				<p></p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 40312</span>
-						<span>🔱 5654</span>
-					</div>
-				<div class="stars-today">⭐ 5498 stars this month</div>
 				</div>
 			</div>
 	
@@ -116,10 +96,30 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 51356</span>
-						<span>🔱 6156</span>
+						<span>⭐ 51551</span>
+						<span>🔱 6159</span>
 					</div>
 				<div class="stars-today">⭐ 27550 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/anthropics/financial-services" target="_blank">
+    
+
+
+      
+        anthropics /
+
+      financial-services</a></p>
+				<p></p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 40372</span>
+						<span>🔱 5655</span>
+					</div>
+				<div class="stars-today">⭐ 5498 stars this month</div>
 				</div>
 			</div>
 	
@@ -138,32 +138,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 JavaScript</span>
-						<span>⭐ 31278</span>
-						<span>🔱 1960</span>
+						<span>⭐ 31684</span>
+						<span>🔱 1981</span>
 					</div>
 				<div class="stars-today">⭐ 19109 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/agent-substrate/substrate" target="_blank">
-    
-
-
-      
-        agent-substrate /
-
-      substrate</a></p>
-				<p>
-      Agent Substrate: the core system
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Go</span>
-						<span>⭐ 5534</span>
-						<span>🔱 605</span>
-					</div>
-				<div class="stars-today">⭐ 3533 stars this month</div>
 				</div>
 			</div>
 	
@@ -182,8 +160,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 30856</span>
-						<span>🔱 2297</span>
+						<span>⭐ 30970</span>
+						<span>🔱 2308</span>
 					</div>
 				<div class="stars-today">⭐ 7319 stars this month</div>
 				</div>
@@ -204,32 +182,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Rust</span>
-						<span>⭐ 16650</span>
-						<span>🔱 1814</span>
+						<span>⭐ 16684</span>
+						<span>🔱 1815</span>
 					</div>
 				<div class="stars-today">⭐ 7995 stars this month</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/affaan-m/ECC" target="_blank">
+				<p><a href="https://github.com/agent-substrate/substrate" target="_blank">
     
 
 
       
-        affaan-m /
+        agent-substrate /
 
-      ECC</a></p>
+      substrate</a></p>
 				<p>
-      The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.
+      Agent Substrate: the core system
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 JavaScript</span>
-						<span>⭐ 283474</span>
-						<span>🔱 42105</span>
+						<span>🔠 Go</span>
+						<span>⭐ 5559</span>
+						<span>🔱 604</span>
 					</div>
-				<div class="stars-today">⭐ 23080 stars this month</div>
+				<div class="stars-today">⭐ 3533 stars this month</div>
 				</div>
 			</div>
 	
@@ -248,8 +226,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 37219</span>
-						<span>🔱 5026</span>
+						<span>⭐ 37424</span>
+						<span>🔱 5051</span>
 					</div>
 				<div class="stars-today">⭐ 10063 stars this month</div>
 				</div>
@@ -270,32 +248,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 30280</span>
-						<span>🔱 3426</span>
+						<span>⭐ 30408</span>
+						<span>🔱 3435</span>
 					</div>
 				<div class="stars-today">⭐ 5493 stars this month</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/NationalSecurityAgency/ghidra" target="_blank">
+				<p><a href="https://github.com/affaan-m/ECC" target="_blank">
     
 
 
       
-        NationalSecurityAgency /
+        affaan-m /
 
-      ghidra</a></p>
+      ECC</a></p>
 				<p>
-      Ghidra is a software reverse engineering (SRE) framework
+      The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Java</span>
-						<span>⭐ 91100</span>
-						<span>🔱 10196</span>
+						<span>🔠 JavaScript</span>
+						<span>⭐ 283779</span>
+						<span>🔱 42149</span>
 					</div>
-				<div class="stars-today">⭐ 12009 stars this month</div>
+				<div class="stars-today">⭐ 23080 stars this month</div>
 				</div>
 			</div>
 	
@@ -314,32 +292,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 12864</span>
-						<span>🔱 1266</span>
+						<span>⭐ 12971</span>
+						<span>🔱 1274</span>
 					</div>
 				<div class="stars-today">⭐ 4507 stars this month</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/rohitg00/ai-engineering-from-scratch" target="_blank">
+				<p><a href="https://github.com/NationalSecurityAgency/ghidra" target="_blank">
     
 
 
       
-        rohitg00 /
+        NationalSecurityAgency /
 
-      ai-engineering-from-scratch</a></p>
+      ghidra</a></p>
 				<p>
-      Learn AI Engineering! Learn it. Build it. Ship it for others.
+      Ghidra is a software reverse engineering (SRE) framework
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 71145</span>
-						<span>🔱 12515</span>
+						<span>🔠 Java</span>
+						<span>⭐ 91356</span>
+						<span>🔱 10222</span>
 					</div>
-				<div class="stars-today">⭐ 16300 stars this month</div>
+				<div class="stars-today">⭐ 12009 stars this month</div>
 				</div>
 			</div>
 	
@@ -358,10 +336,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 42896</span>
-						<span>🔱 4545</span>
+						<span>⭐ 43080</span>
+						<span>🔱 4555</span>
 					</div>
 				<div class="stars-today">⭐ 6015 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/rohitg00/ai-engineering-from-scratch" target="_blank">
+    
+
+
+      
+        rohitg00 /
+
+      ai-engineering-from-scratch</a></p>
+				<p>
+      Learn AI Engineering! Learn it. Build it. Ship it for others.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 71329</span>
+						<span>🔱 12545</span>
+					</div>
+				<div class="stars-today">⭐ 16300 stars this month</div>
 				</div>
 			</div>
 	
@@ -380,32 +380,76 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 9975</span>
-						<span>🔱 1279</span>
+						<span>⭐ 10181</span>
+						<span>🔱 1292</span>
 					</div>
 				<div class="stars-today">⭐ 6138 stars this month</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/trycua/cua" target="_blank">
+				<p><a href="https://github.com/earthtojake/text-to-cad" target="_blank">
     
 
 
       
-        trycua /
+        earthtojake /
 
-      cua</a></p>
+      text-to-cad</a></p>
 				<p>
-      Scale computer-use 2.0 with open-source drivers, cross-OS sandboxes, and benchmarks for training, evaluation, and data generation.
+      Give your agent CAD superpowers.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 21642</span>
+						<span>🔱 2135</span>
+					</div>
+				<div class="stars-today">⭐ 5476 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/HKUDS/CLI-Anything" target="_blank">
+    
+
+
+      
+        HKUDS /
+
+      CLI-Anything</a></p>
+				<p>
+      "CLI-Anything: Making ALL Software Agent-Native" -- CLI-Hub: https://clianything.cc/
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 55008</span>
+						<span>🔱 4968</span>
+					</div>
+				<div class="stars-today">⭐ 5051 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/pbakaus/impeccable" target="_blank">
+    
+
+
+      
+        pbakaus /
+
+      impeccable</a></p>
+				<p>
+      The design language that makes your AI harness better at design.
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Rust</span>
-						<span>⭐ 30174</span>
-						<span>🔱 2170</span>
+						<span>⭐ 83012</span>
+						<span>🔱 5020</span>
 					</div>
-				<div class="stars-today">⭐ 7211 stars this month</div>
+				<div class="stars-today">⭐ 14068 stars this month</div>
 				</div>
 			</div>
 	
@@ -424,30 +468,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Rust</span>
-						<span>⭐ 18176</span>
-						<span>🔱 1104</span>
+						<span>⭐ 18252</span>
+						<span>🔱 1107</span>
 					</div>
 				<div class="stars-today">⭐ 3632 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/pingdotgg/t3code" target="_blank">
-    
-
-
-      
-        pingdotgg /
-
-      t3code</a></p>
-				<p></p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 28434</span>
-						<span>🔱 7594</span>
-					</div>
-				<div class="stars-today">⭐ 5415 stars this month</div>
 				</div>
 			</div>
 	
