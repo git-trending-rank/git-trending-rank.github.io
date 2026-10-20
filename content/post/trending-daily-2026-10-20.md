@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2026-10-20
-date: 2026-10-20T06:43:18Z
+date: 2026-10-20T13:03:01Z
 categories:
 - daily
 keywords:
@@ -30,98 +30,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 58197</span>
-						<span>🔱 18404</span>
+						<span>⭐ 59241</span>
+						<span>🔱 18576</span>
 					</div>
-				<div class="stars-today">⭐ 3856 stars today</div>
+				<div class="stars-today">⭐ 3890 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/anomalyco/opencode" target="_blank">
+				<p><a href="https://github.com/cloudflare/security-audit-skill" target="_blank">
     
 
 
       
-        anomalyco /
+        cloudflare /
 
-      opencode</a></p>
+      security-audit-skill</a></p>
 				<p>
-      The open source coding agent.
+      A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 218104</span>
-						<span>🔱 29142</span>
+						<span>🔠 JavaScript</span>
+						<span>⭐ 33182</span>
+						<span>🔱 2076</span>
 					</div>
-				<div class="stars-today">⭐ 1311 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/akitaonrails/ai-memory" target="_blank">
-    
-
-
-      
-        akitaonrails /
-
-      ai-memory</a></p>
-				<p>
-      Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Rust</span>
-						<span>⭐ 11559</span>
-						<span>🔱 819</span>
-					</div>
-				<div class="stars-today">⭐ 666 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/Comfy-Org/ComfyUI" target="_blank">
-    
-
-
-      
-        Comfy-Org /
-
-      ComfyUI</a></p>
-				<p>
-      The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface. The fastest local inference engine in the world.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 140034</span>
-						<span>🔱 16605</span>
-					</div>
-				<div class="stars-today">⭐ 1011 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/ruvnet/ruflo" target="_blank">
-    
-
-
-      
-        ruvnet /
-
-      ruflo</a></p>
-				<p>
-      🌊 The original agent harness. Deploy intelligent multi-player swarms, coordinate autonomous workflows, and build conversational AI systems. Features adaptive memory, self-learning intelligence, federation, vector RAG integration, and native Claude Code / Codex / Hermes and many more Integrated
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 77372</span>
-						<span>🔱 9116</span>
-					</div>
-				<div class="stars-today">⭐ 564 stars today</div>
+				<div class="stars-today">⭐ 849 stars today</div>
 				</div>
 			</div>
 	
@@ -140,10 +74,164 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 98658</span>
-						<span>🔱 6293</span>
+						<span>⭐ 99111</span>
+						<span>🔱 6314</span>
 					</div>
-				<div class="stars-today">⭐ 1590 stars today</div>
+				<div class="stars-today">⭐ 1559 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/DietrichGebert/ponytail" target="_blank">
+    
+
+
+      
+        DietrichGebert /
+
+      ponytail</a></p>
+				<p>
+      Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 JavaScript</span>
+						<span>⭐ 168781</span>
+						<span>🔱 9175</span>
+					</div>
+				<div class="stars-today">⭐ 1007 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/Comfy-Org/ComfyUI" target="_blank">
+    
+
+
+      
+        Comfy-Org /
+
+      ComfyUI</a></p>
+				<p>
+      The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface. The fastest local inference engine in the world.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 140374</span>
+						<span>🔱 16627</span>
+					</div>
+				<div class="stars-today">⭐ 1201 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/ruvnet/ruflo" target="_blank">
+    
+
+
+      
+        ruvnet /
+
+      ruflo</a></p>
+				<p>
+      🌊 The original agent harness. Deploy intelligent multi-player swarms, coordinate autonomous workflows, and build conversational AI systems. Features adaptive memory, self-learning intelligence, federation, vector RAG integration, and native Claude Code / Codex / Hermes and many more Integrated
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 77536</span>
+						<span>🔱 9125</span>
+					</div>
+				<div class="stars-today">⭐ 683 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/Graphify-Labs/graphify" target="_blank">
+    
+
+
+      
+        Graphify-Labs /
+
+      graphify</a></p>
+				<p>
+      Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a queryable knowledge graph. A /graphify skill for Claude Code, Cursor, Codex, and Gemini CLI: local deterministic AST parsing, every edge explained, no vector store.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 129596</span>
+						<span>🔱 12488</span>
+					</div>
+				<div class="stars-today">⭐ 751 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/YuJunZhiXue/dsh-purge" target="_blank">
+    
+
+
+      
+        YuJunZhiXue /
+
+      dsh-purge</a></p>
+				<p>
+      DeepSeek Harness 破甲：让所有模型都能破甲，不同模型可换不同提示词；默认提示词面向国模「小码酱」。Jailbreak for every model — swap prompts per model. 求 Star 收藏 ⭐ 如要二开，请查看署名要求部分
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 JavaScript</span>
+						<span>⭐ 10541</span>
+						<span>🔱 2257</span>
+					</div>
+				<div class="stars-today">⭐ 1168 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/anomalyco/opencode" target="_blank">
+    
+
+
+      
+        anomalyco /
+
+      opencode</a></p>
+				<p>
+      The open source coding agent.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 218421</span>
+						<span>🔱 29166</span>
+					</div>
+				<div class="stars-today">⭐ 1256 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/msitarzewski/agency-agents" target="_blank">
+    
+
+
+      
+        msitarzewski /
+
+      agency-agents</a></p>
+				<p>
+      A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Shell</span>
+						<span>⭐ 162003</span>
+						<span>🔱 26223</span>
+					</div>
+				<div class="stars-today">⭐ 590 stars today</div>
 				</div>
 			</div>
 	
@@ -162,96 +250,54 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 76390</span>
-						<span>🔱 5931</span>
+						<span>⭐ 76532</span>
+						<span>🔱 5939</span>
 					</div>
-				<div class="stars-today">⭐ 310 stars today</div>
+				<div class="stars-today">⭐ 555 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/withmarbleapp/os-taxonomy" target="_blank">
-    
-
-
-      
-        withmarbleapp /
-
-      os-taxonomy</a></p>
-				<p></p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 JavaScript</span>
-						<span>⭐ 6302</span>
-						<span>🔱 1023</span>
-					</div>
-				<div class="stars-today">⭐ 284 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/Kruk2/jasna" target="_blank">
-    
-
-
-      
-        Kruk2 /
-
-      jasna</a></p>
-				<p>
-      Video restoration tool
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 3055</span>
-						<span>🔱 222</span>
-					</div>
-				<div class="stars-today">⭐ 498 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/HKUDS/CLI-Anything" target="_blank">
-    
-
-
-      
-        HKUDS /
-
-      CLI-Anything</a></p>
-				<p>
-      "CLI-Anything: Making ALL Software Agent-Native" -- CLI-Hub: https://clianything.cc/
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 55409</span>
-						<span>🔱 4997</span>
-					</div>
-				<div class="stars-today">⭐ 606 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/anthropics/claude-code" target="_blank">
+				<p><a href="https://github.com/anthropics/knowledge-work-plugins" target="_blank">
     
 
 
       
         anthropics /
 
-      claude-code</a></p>
+      knowledge-work-plugins</a></p>
 				<p>
-      Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.
+      Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 152780</span>
-						<span>🔱 27146</span>
+						<span>🔠 Python</span>
+						<span>⭐ 30620</span>
+						<span>🔱 3456</span>
 					</div>
-				<div class="stars-today">⭐ 167 stars today</div>
+				<div class="stars-today">⭐ 262 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/sickn33/agentic-awesome-skills" target="_blank">
+    
+
+
+      
+        sickn33 /
+
+      agentic-awesome-skills</a></p>
+				<p>
+      AAS Core is the local, agent-first control plane for complete catalog discovery, agent-owned selection, stack validation, and planning, backed by 2,600+ agentic skills. Includes CLI, local MCP, catalog, plugins, and Workbench.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 48019</span>
+						<span>🔱 7009</span>
+					</div>
+				<div class="stars-today">⭐ 58 stars today</div>
 				</div>
 			</div>
 	
@@ -270,10 +316,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 41858</span>
-						<span>🔱 6947</span>
+						<span>⭐ 42067</span>
+						<span>🔱 6970</span>
 					</div>
-				<div class="stars-today">⭐ 363 stars today</div>
+				<div class="stars-today">⭐ 719 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/vllm-project/vllm" target="_blank">
+    
+
+
+      
+        vllm-project /
+
+      vllm</a></p>
+				<p>
+      A high-throughput and memory-efficient inference and serving engine for LLMs
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 94256</span>
+						<span>🔱 23642</span>
+					</div>
+				<div class="stars-today">⭐ 98 stars today</div>
 				</div>
 			</div>
 	
