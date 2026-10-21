@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2026-10-21
-date: 2026-10-21T02:04:13Z
+date: 2026-10-21T08:54:13Z
 categories:
 - daily
 keywords:
@@ -30,8 +30,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 60760</span>
-						<span>🔱 18925</span>
+						<span>⭐ 61736</span>
+						<span>🔱 19119</span>
 					</div>
 				<div class="stars-today">⭐ 3861 stars today</div>
 				</div>
@@ -52,8 +52,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 JavaScript</span>
-						<span>⭐ 34343</span>
-						<span>🔱 2148</span>
+						<span>⭐ 34860</span>
+						<span>🔱 2194</span>
 					</div>
 				<div class="stars-today">⭐ 1712 stars today</div>
 				</div>
@@ -74,8 +74,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 99821</span>
-						<span>🔱 6327</span>
+						<span>⭐ 100309</span>
+						<span>🔱 6354</span>
 					</div>
 				<div class="stars-today">⭐ 1565 stars today</div>
 				</div>
@@ -96,8 +96,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 JavaScript</span>
-						<span>⭐ 169796</span>
-						<span>🔱 9233</span>
+						<span>⭐ 170443</span>
+						<span>🔱 9275</span>
 					</div>
 				<div class="stars-today">⭐ 1208 stars today</div>
 				</div>
@@ -118,8 +118,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 140821</span>
-						<span>🔱 16666</span>
+						<span>⭐ 141096</span>
+						<span>🔱 16691</span>
 					</div>
 				<div class="stars-today">⭐ 1206 stars today</div>
 				</div>
@@ -140,8 +140,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 77876</span>
-						<span>🔱 9160</span>
+						<span>⭐ 78017</span>
+						<span>🔱 9177</span>
 					</div>
 				<div class="stars-today">⭐ 684 stars today</div>
 				</div>
@@ -162,8 +162,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 130322</span>
-						<span>🔱 12545</span>
+						<span>⭐ 130730</span>
+						<span>🔱 12568</span>
 					</div>
 				<div class="stars-today">⭐ 802 stars today</div>
 				</div>
@@ -184,8 +184,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 218988</span>
-						<span>🔱 29213</span>
+						<span>⭐ 219387</span>
+						<span>🔱 29296</span>
 					</div>
 				<div class="stars-today">⭐ 1240 stars today</div>
 				</div>
@@ -206,8 +206,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Shell</span>
-						<span>⭐ 162396</span>
-						<span>🔱 26231</span>
+						<span>⭐ 162656</span>
+						<span>🔱 26248</span>
 					</div>
 				<div class="stars-today">⭐ 562 stars today</div>
 				</div>
@@ -228,8 +228,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 76790</span>
-						<span>🔱 5960</span>
+						<span>⭐ 76922</span>
+						<span>🔱 5969</span>
 					</div>
 				<div class="stars-today">⭐ 549 stars today</div>
 				</div>
@@ -250,8 +250,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 30813</span>
-						<span>🔱 3464</span>
+						<span>⭐ 30937</span>
+						<span>🔱 3473</span>
 					</div>
 				<div class="stars-today">⭐ 267 stars today</div>
 				</div>
@@ -272,32 +272,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 41273</span>
-						<span>🔱 4393</span>
+						<span>⭐ 41375</span>
+						<span>🔱 4400</span>
 					</div>
 				<div class="stars-today">⭐ 93 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/sickn33/agentic-awesome-skills" target="_blank">
-    
-
-
-      
-        sickn33 /
-
-      agentic-awesome-skills</a></p>
-				<p>
-      AAS Core is the local, agent-first control plane for complete catalog discovery, agent-owned selection, stack validation, and planning, backed by 2,600+ agentic skills. Includes CLI, local MCP, catalog, plugins, and Workbench.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 48120</span>
-						<span>🔱 7022</span>
-					</div>
-				<div class="stars-today">⭐ 83 stars today</div>
 				</div>
 			</div>
 	
@@ -316,8 +294,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 42377</span>
-						<span>🔱 7014</span>
+						<span>⭐ 42516</span>
+						<span>🔱 7033</span>
 					</div>
 				<div class="stars-today">⭐ 733 stars today</div>
 				</div>
@@ -338,8 +316,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 94458</span>
-						<span>🔱 23675</span>
+						<span>⭐ 94609</span>
+						<span>🔱 23700</span>
 					</div>
 				<div class="stars-today">⭐ 128 stars today</div>
 				</div>
