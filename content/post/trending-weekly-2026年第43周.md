@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2026年第43周
-date: 2026-10-22T08:56:38Z
+date: 2026-10-22T14:42:20Z
 categories:
 - weekly
 keywords:
@@ -30,8 +30,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 361073</span>
-						<span>🔱 90612</span>
+						<span>⭐ 363325</span>
+						<span>🔱 91119</span>
 					</div>
 				<div class="stars-today">⭐ 129417 stars this week</div>
 				</div>
@@ -52,32 +52,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 43736</span>
-						<span>🔱 4607</span>
+						<span>⭐ 43792</span>
+						<span>🔱 4611</span>
 					</div>
 				<div class="stars-today">⭐ 5703 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/K-Dense-AI/scientific-agent-skills" target="_blank">
-    
-
-
-      
-        K-Dense-AI /
-
-      scientific-agent-skills</a></p>
-				<p>
-      Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 250,000+ scientists worldwide. 177 ready-to-use validated skills plus 100+ scientific databases covering biology, chemistry, medicine, and drug discovery. Compatible with Cursor, Claude Code, Codex, Pi, Antigravity, and the open Agent Skills standard.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 53725</span>
-						<span>🔱 4738</span>
-					</div>
-				<div class="stars-today">⭐ 4719 stars this week</div>
 				</div>
 			</div>
 	
@@ -96,7 +74,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 78300</span>
+						<span>⭐ 78369</span>
 						<span>🔱 9211</span>
 					</div>
 				<div class="stars-today">⭐ 3590 stars this week</div>
@@ -116,7 +94,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Kotlin</span>
-						<span>⭐ 9183</span>
+						<span>⭐ 9207</span>
 						<span>🔱 592</span>
 					</div>
 				<div class="stars-today">⭐ 1332 stars this week</div>
@@ -124,156 +102,24 @@ keywords:
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/NationalSecurityAgency/ghidra" target="_blank">
+				<p><a href="https://github.com/K-Dense-AI/scientific-agent-skills" target="_blank">
     
 
 
       
-        NationalSecurityAgency /
+        K-Dense-AI /
 
-      ghidra</a></p>
+      scientific-agent-skills</a></p>
 				<p>
-      Ghidra is a software reverse engineering (SRE) framework
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Java</span>
-						<span>⭐ 92809</span>
-						<span>🔱 10409</span>
-					</div>
-				<div class="stars-today">⭐ 5769 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/debpalash/VoiceStudio" target="_blank">
-    
-
-
-      
-        debpalash /
-
-      VoiceStudio</a></p>
-				<p>
-      VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.
+      Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 250,000+ scientists worldwide. 177 ready-to-use validated skills plus 100+ scientific databases covering biology, chemistry, medicine, and drug discovery. Compatible with Cursor, Claude Code, Codex, Pi, Antigravity, and the open Agent Skills standard.
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 80942</span>
-						<span>🔱 8934</span>
+						<span>⭐ 53820</span>
+						<span>🔱 4749</span>
 					</div>
-				<div class="stars-today">⭐ 15125 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/mksglu/context-mode" target="_blank">
-    
-
-
-      
-        mksglu /
-
-      context-mode</a></p>
-				<p>
-      Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 31728</span>
-						<span>🔱 2184</span>
-					</div>
-				<div class="stars-today">⭐ 2968 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/heygen-com/hyperframes" target="_blank">
-    
-
-
-      
-        heygen-com /
-
-      hyperframes</a></p>
-				<p>
-      Write HTML. Render video. Built for agents.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 69530</span>
-						<span>🔱 6294</span>
-					</div>
-				<div class="stars-today">⭐ 5740 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/cursor/plugins" target="_blank">
-    
-
-
-      
-        cursor /
-
-      plugins</a></p>
-				<p>
-      Cursor plugin specification and official plugins
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 13488</span>
-						<span>🔱 1343</span>
-					</div>
-				<div class="stars-today">⭐ 2049 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/HKUDS/CLI-Anything" target="_blank">
-    
-
-
-      
-        HKUDS /
-
-      CLI-Anything</a></p>
-				<p>
-      "CLI-Anything: Making ALL Software Agent-Native" -- CLI-Hub: https://clianything.cc/
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 56064</span>
-						<span>🔱 5057</span>
-					</div>
-				<div class="stars-today">⭐ 3681 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/akitaonrails/ai-memory" target="_blank">
-    
-
-
-      
-        akitaonrails /
-
-      ai-memory</a></p>
-				<p>
-      Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Rust</span>
-						<span>⭐ 12564</span>
-						<span>🔱 889</span>
-					</div>
-				<div class="stars-today">⭐ 2833 stars this week</div>
+				<div class="stars-today">⭐ 4719 stars this week</div>
 				</div>
 			</div>
 	
@@ -292,54 +138,142 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 219903</span>
-						<span>🔱 29384</span>
+						<span>⭐ 220023</span>
+						<span>🔱 29398</span>
 					</div>
 				<div class="stars-today">⭐ 6545 stars this week</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/wshobson/agents" target="_blank">
+				<p><a href="https://github.com/HKUDS/CLI-Anything" target="_blank">
     
 
 
       
-        wshobson /
+        HKUDS /
 
-      agents</a></p>
+      CLI-Anything</a></p>
 				<p>
-      Multi-harness agentic plugin marketplace for Claude Code, Codex, Cursor, OpenCode, GitHub Copilot, Google Antigravity, and Pi
+      "CLI-Anything: Making ALL Software Agent-Native" -- CLI-Hub: https://clianything.cc/
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 41522</span>
-						<span>🔱 4405</span>
+						<span>⭐ 56133</span>
+						<span>🔱 5061</span>
 					</div>
-				<div class="stars-today">⭐ 785 stars this week</div>
+				<div class="stars-today">⭐ 3681 stars this week</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/earthtojake/text-to-cad" target="_blank">
+				<p><a href="https://github.com/cursor/plugins" target="_blank">
     
 
 
       
-        earthtojake /
+        cursor /
 
-      text-to-cad</a></p>
+      plugins</a></p>
 				<p>
-      Give your agent CAD superpowers.
+      Cursor plugin specification and official plugins
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 13541</span>
+						<span>🔱 1347</span>
+					</div>
+				<div class="stars-today">⭐ 2049 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/akitaonrails/ai-memory" target="_blank">
+    
+
+
+      
+        akitaonrails /
+
+      ai-memory</a></p>
+				<p>
+      Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Rust</span>
+						<span>⭐ 12660</span>
+						<span>🔱 891</span>
+					</div>
+				<div class="stars-today">⭐ 2833 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/debpalash/VoiceStudio" target="_blank">
+    
+
+
+      
+        debpalash /
+
+      VoiceStudio</a></p>
+				<p>
+      VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 22409</span>
-						<span>🔱 2195</span>
+						<span>⭐ 81286</span>
+						<span>🔱 8983</span>
 					</div>
-				<div class="stars-today">⭐ 2000 stars this week</div>
+				<div class="stars-today">⭐ 15125 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/heygen-com/hyperframes" target="_blank">
+    
+
+
+      
+        heygen-com /
+
+      hyperframes</a></p>
+				<p>
+      Write HTML. Render video. Built for agents.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 69740</span>
+						<span>🔱 6314</span>
+					</div>
+				<div class="stars-today">⭐ 5740 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/NationalSecurityAgency/ghidra" target="_blank">
+    
+
+
+      
+        NationalSecurityAgency /
+
+      ghidra</a></p>
+				<p>
+      Ghidra is a software reverse engineering (SRE) framework
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Java</span>
+						<span>⭐ 92954</span>
+						<span>🔱 10422</span>
+					</div>
+				<div class="stars-today">⭐ 5769 stars this week</div>
 				</div>
 			</div>
 	
@@ -358,32 +292,54 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 101917</span>
-						<span>🔱 6442</span>
+						<span>⭐ 102369</span>
+						<span>🔱 6464</span>
 					</div>
 				<div class="stars-today">⭐ 8705 stars this week</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/hugohe3/ppt-master" target="_blank">
+				<p><a href="https://github.com/Comfy-Org/ComfyUI" target="_blank">
     
 
 
       
-        hugohe3 /
+        Comfy-Org /
 
-      ppt-master</a></p>
+      ComfyUI</a></p>
 				<p>
-      AI turns documents or topics into real, native PowerPoint decks—with native shapes, transitions and animations, data-backed charts and tables on demand, audio narration from speaker notes, and support for your own .pptx templates. · by Hugo He
+      The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface. The fastest local inference engine in the world.
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 65596</span>
-						<span>🔱 5157</span>
+						<span>⭐ 141917</span>
+						<span>🔱 16731</span>
 					</div>
-				<div class="stars-today">⭐ 3270 stars this week</div>
+				<div class="stars-today">⭐ 3948 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/mksglu/context-mode" target="_blank">
+    
+
+
+      
+        mksglu /
+
+      context-mode</a></p>
+				<p>
+      Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 31777</span>
+						<span>🔱 2189</span>
+					</div>
+				<div class="stars-today">⭐ 2968 stars this week</div>
 				</div>
 			</div>
 	

@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2026-10-22
-date: 2026-10-22T08:56:38Z
+date: 2026-10-22T14:42:19Z
 categories:
 - daily
 keywords:
@@ -16,90 +16,46 @@ keywords:
 
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/cloudflare/security-audit-skill" target="_blank">
+				<p><a href="https://github.com/php/php-src" target="_blank">
     
 
 
       
-        cloudflare /
+        php /
 
-      security-audit-skill</a></p>
+      php-src</a></p>
 				<p>
-      A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings
+      The PHP Interpreter
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 JavaScript</span>
-						<span>⭐ 37677</span>
-						<span>🔱 2352</span>
+						<span>🔠 C</span>
+						<span>⭐ 40900</span>
+						<span>🔱 8280</span>
 					</div>
-				<div class="stars-today">⭐ 2012 stars today</div>
+				<div class="stars-today">⭐ 110 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/vllm-project/vllm" target="_blank">
+				<p><a href="https://github.com/anthropics/knowledge-work-plugins" target="_blank">
     
 
 
       
-        vllm-project /
+        anthropics /
 
-      vllm</a></p>
+      knowledge-work-plugins</a></p>
 				<p>
-      A high-throughput and memory-efficient inference and serving engine for LLMs
+      Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 95062</span>
-						<span>🔱 23785</span>
+						<span>⭐ 31364</span>
+						<span>🔱 3517</span>
 					</div>
-				<div class="stars-today">⭐ 441 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/stablyai/orca" target="_blank">
-    
-
-
-      
-        stablyai /
-
-      orca</a></p>
-				<p>
-      Orca is the place for working with a fleet of agents (e.g. Grok Bot, Claude Code). Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 101917</span>
-						<span>🔱 6442</span>
-					</div>
-				<div class="stars-today">⭐ 1541 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/headroomlabs-ai/headroom" target="_blank">
-    
-
-
-      
-        headroomlabs-ai /
-
-      headroom</a></p>
-				<p>
-      Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 20% fewer tokens for coding agents, 60-95% fewer tokens for JSON, same answers. Library, proxy, MCP server.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 77451</span>
-						<span>🔱 6014</span>
-					</div>
-				<div class="stars-today">⭐ 474 stars today</div>
+				<div class="stars-today">⭐ 303 stars today</div>
 				</div>
 			</div>
 	
@@ -118,142 +74,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 JavaScript</span>
-						<span>⭐ 172329</span>
-						<span>🔱 9381</span>
+						<span>⭐ 172816</span>
+						<span>🔱 9407</span>
 					</div>
-				<div class="stars-today">⭐ 2079 stars today</div>
+				<div class="stars-today">⭐ 1949 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/Comfy-Org/ComfyUI" target="_blank">
+				<p><a href="https://github.com/cloudflare/security-audit-skill" target="_blank">
     
 
 
       
-        Comfy-Org /
+        cloudflare /
 
-      ComfyUI</a></p>
+      security-audit-skill</a></p>
 				<p>
-      The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface. The fastest local inference engine in the world.
+      A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 141792</span>
-						<span>🔱 16755</span>
+						<span>🔠 JavaScript</span>
+						<span>⭐ 38450</span>
+						<span>🔱 2393</span>
 					</div>
-				<div class="stars-today">⭐ 939 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/supabase/supabase" target="_blank">
-    
-
-
-      
-        supabase /
-
-      supabase</a></p>
-				<p>
-      The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 113213</span>
-						<span>🔱 16987</span>
-					</div>
-				<div class="stars-today">⭐ 504 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/twentyhq/twenty" target="_blank">
-    
-
-
-      
-        twentyhq /
-
-      twenty</a></p>
-				<p>
-      The open alternative to Salesforce, designed for AI.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 59433</span>
-						<span>🔱 9682</span>
-					</div>
-				<div class="stars-today">⭐ 112 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/shiyu-coder/Kronos" target="_blank">
-    
-
-
-      
-        shiyu-coder /
-
-      Kronos</a></p>
-				<p>
-      Kronos: A Foundation Model for the Language of Financial Markets
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 43026</span>
-						<span>🔱 7094</span>
-					</div>
-				<div class="stars-today">⭐ 575 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/strelov1/freehire" target="_blank">
-    
-
-
-      
-        strelov1 /
-
-      freehire</a></p>
-				<p>
-      freehire — the open-source search engine for job seekers
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Go</span>
-						<span>⭐ 2624</span>
-						<span>🔱 260</span>
-					</div>
-				<div class="stars-today">⭐ 360 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/akitaonrails/ai-memory" target="_blank">
-    
-
-
-      
-        akitaonrails /
-
-      ai-memory</a></p>
-				<p>
-      Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Rust</span>
-						<span>⭐ 12564</span>
-						<span>🔱 889</span>
-					</div>
-				<div class="stars-today">⭐ 286 stars today</div>
+				<div class="stars-today">⭐ 2979 stars today</div>
 				</div>
 			</div>
 	
@@ -272,10 +118,98 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 132099</span>
-						<span>🔱 12667</span>
+						<span>⭐ 132469</span>
+						<span>🔱 12695</span>
 					</div>
-				<div class="stars-today">⭐ 1433 stars today</div>
+				<div class="stars-today">⭐ 1407 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/supabase/supabase" target="_blank">
+    
+
+
+      
+        supabase /
+
+      supabase</a></p>
+				<p>
+      The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 113321</span>
+						<span>🔱 16991</span>
+					</div>
+				<div class="stars-today">⭐ 683 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/fastapi/fastapi" target="_blank">
+    
+
+
+      
+        fastapi /
+
+      fastapi</a></p>
+				<p>
+      FastAPI framework, high performance, easy to learn, fast to code, ready for production
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 103509</span>
+						<span>🔱 10076</span>
+					</div>
+				<div class="stars-today">⭐ 96 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/luongnv89/claude-howto" target="_blank">
+    
+
+
+      
+        luongnv89 /
+
+      claude-howto</a></p>
+				<p>
+      A visual, example-driven guide to Claude Code — from basic concepts to advanced agents, with copy-paste templates that bring immediate value.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 42758</span>
+						<span>🔱 5360</span>
+					</div>
+				<div class="stars-today">⭐ 428 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/Meloong-Git/PCL" target="_blank">
+    
+
+
+      
+        Meloong-Git /
+
+      PCL</a></p>
+				<p>
+      Minecraft 启动器 Plain Craft Launcher（PCL）。
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Visual Basic .NET</span>
+						<span>⭐ 8597</span>
+						<span>🔱 1187</span>
+					</div>
+				<div class="stars-today">⭐ 115 stars today</div>
 				</div>
 			</div>
 	
