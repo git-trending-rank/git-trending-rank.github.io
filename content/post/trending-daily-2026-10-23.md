@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2026-10-23
-date: 2026-10-23T08:51:27Z
+date: 2026-10-23T14:28:31Z
 categories:
 - daily
 keywords:
@@ -14,6 +14,28 @@ keywords:
 	<main class="container">
         <div class="repo-list" id="repoList">
 
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/cloudflare/security-audit-skill" target="_blank">
+    
+
+
+      
+        cloudflare /
+
+      security-audit-skill</a></p>
+				<p>
+      A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 JavaScript</span>
+						<span>⭐ 41125</span>
+						<span>🔱 2564</span>
+					</div>
+				<div class="stars-today">⭐ 2706 stars today</div>
+				</div>
+			</div>
 	
 			<div class="repo-card">
 				<p><a href="https://github.com/php/php-src" target="_blank">
@@ -30,10 +52,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 C</span>
-						<span>⭐ 41381</span>
-						<span>🔱 8333</span>
+						<span>⭐ 41480</span>
+						<span>🔱 8345</span>
 					</div>
-				<div class="stars-today">⭐ 287 stars today</div>
+				<div class="stars-today">⭐ 722 stars today</div>
 				</div>
 			</div>
 	
@@ -52,164 +74,120 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 31844</span>
-						<span>🔱 3546</span>
+						<span>⭐ 31996</span>
+						<span>🔱 3557</span>
 					</div>
-				<div class="stars-today">⭐ 303 stars today</div>
+				<div class="stars-today">⭐ 643 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/DietrichGebert/ponytail" target="_blank">
+				<p><a href="https://github.com/NVIDIA/OpenShell" target="_blank">
     
 
 
       
-        DietrichGebert /
+        NVIDIA /
 
-      ponytail</a></p>
+      OpenShell</a></p>
 				<p>
-      Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.
+      OpenShell is the safe, private runtime for autonomous AI agents.
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 JavaScript</span>
-						<span>⭐ 174145</span>
-						<span>🔱 9481</span>
+						<span>🔠 Rust</span>
+						<span>⭐ 18398</span>
+						<span>🔱 1856</span>
 					</div>
-				<div class="stars-today">⭐ 1948 stars today</div>
+				<div class="stars-today">⭐ 1240 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/cloudflare/security-audit-skill" target="_blank">
+				<p><a href="https://github.com/Renhuai123/ziwei-doushu" target="_blank">
     
 
 
       
-        cloudflare /
+        Renhuai123 /
 
-      security-audit-skill</a></p>
+      ziwei-doushu</a></p>
 				<p>
-      A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 JavaScript</span>
-						<span>⭐ 40382</span>
-						<span>🔱 2520</span>
-					</div>
-				<div class="stars-today">⭐ 2979 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/Graphify-Labs/graphify" target="_blank">
-    
-
-
-      
-        Graphify-Labs /
-
-      graphify</a></p>
-				<p>
-      Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a queryable knowledge graph. A /graphify skill for Claude Code, Cursor, Codex, and Gemini CLI: local deterministic AST parsing, every edge explained, no vector store.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 133427</span>
-						<span>🔱 12746</span>
-					</div>
-				<div class="stars-today">⭐ 1408 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/supabase/supabase" target="_blank">
-    
-
-
-      
-        supabase /
-
-      supabase</a></p>
-				<p>
-      The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.
+      紫微斗数开源排盘引擎 — 基于倪海厦《天纪》体系，含完整排盘算法、四化系统、格局知识库、古籍原文数据
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 113641</span>
-						<span>🔱 17019</span>
+						<span>⭐ 6666</span>
+						<span>🔱 1366</span>
 					</div>
-				<div class="stars-today">⭐ 693 stars today</div>
+				<div class="stars-today">⭐ 547 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/fastapi/fastapi" target="_blank">
+				<p><a href="https://github.com/SnailSploit/Claude-Red" target="_blank">
     
 
 
       
-        fastapi /
+        SnailSploit /
 
-      fastapi</a></p>
+      Claude-Red</a></p>
 				<p>
-      FastAPI framework, high performance, easy to learn, fast to code, ready for production
+      claude-red is a curated library of offensive security skills designed for the Claude skills system. Each skill is a structured SKILL.md file that primes Claude with expert-level methodology for a specific attack surface — from SQLi to shellcode, EDR evasion to exploit development.
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 103992</span>
-						<span>🔱 10103</span>
+						<span>⭐ 8129</span>
+						<span>🔱 1075</span>
 					</div>
-				<div class="stars-today">⭐ 101 stars today</div>
+				<div class="stars-today">⭐ 209 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/luongnv89/claude-howto" target="_blank">
+				<p><a href="https://github.com/OpenBMB/VoxCPM" target="_blank">
     
 
 
       
-        luongnv89 /
+        OpenBMB /
 
-      claude-howto</a></p>
+      VoxCPM</a></p>
 				<p>
-      A visual, example-driven guide to Claude Code — from basic concepts to advanced agents, with copy-paste templates that bring immediate value.
+      VoxCPM2: Tokenizer-Free TTS for Multilingual Speech Generation, Creative Voice Design, and True-to-Life Cloning
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 43630</span>
-						<span>🔱 5417</span>
+						<span>⭐ 40063</span>
+						<span>🔱 4557</span>
 					</div>
-				<div class="stars-today">⭐ 177 stars today</div>
+				<div class="stars-today">⭐ 144 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/Meloong-Git/PCL" target="_blank">
+				<p><a href="https://github.com/nodejs/node" target="_blank">
     
 
 
       
-        Meloong-Git /
+        nodejs /
 
-      PCL</a></p>
+      node</a></p>
 				<p>
-      Minecraft 启动器 Plain Craft Launcher（PCL）。
+      Node.js JavaScript runtime ✨🐢🚀✨
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Visual Basic .NET</span>
-						<span>⭐ 8838</span>
-						<span>🔱 1231</span>
+						<span>🔠 JavaScript</span>
+						<span>⭐ 122649</span>
+						<span>🔱 39937</span>
 					</div>
-				<div class="stars-today">⭐ 119 stars today</div>
+				<div class="stars-today">⭐ 93 stars today</div>
 				</div>
 			</div>
 	
