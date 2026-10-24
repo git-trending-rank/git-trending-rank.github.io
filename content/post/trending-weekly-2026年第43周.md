@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2026年第43周
-date: 2026-10-24T08:25:20Z
+date: 2026-10-24T13:39:01Z
 categories:
 - weekly
 keywords:
@@ -14,6 +14,28 @@ keywords:
 	<main class="container">
         <div class="repo-list" id="repoList">
 
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/cloudflare/security-audit-skill" target="_blank">
+    
+
+
+      
+        cloudflare /
+
+      security-audit-skill</a></p>
+				<p>
+      A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 JavaScript</span>
+						<span>⭐ 43180</span>
+						<span>🔱 2696</span>
+					</div>
+				<div class="stars-today">⭐ 11223 stars this week</div>
+				</div>
+			</div>
 	
 			<div class="repo-card">
 				<p><a href="https://github.com/morluto/rea" target="_blank">
@@ -30,8 +52,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 374808</span>
-						<span>🔱 93736</span>
+						<span>⭐ 376142</span>
+						<span>🔱 94016</span>
 					</div>
 				<div class="stars-today">⭐ 88243 stars this week</div>
 				</div>
@@ -52,8 +74,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 44202</span>
-						<span>🔱 4646</span>
+						<span>⭐ 44267</span>
+						<span>🔱 4649</span>
 					</div>
 				<div class="stars-today">⭐ 4250 stars this week</div>
 				</div>
@@ -74,52 +96,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 78859</span>
-						<span>🔱 9258</span>
+						<span>⭐ 78912</span>
+						<span>🔱 9266</span>
 					</div>
 				<div class="stars-today">⭐ 3349 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/android/skills" target="_blank">
-    
-
-
-      
-        android /
-
-      skills</a></p>
-				<p></p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Kotlin</span>
-						<span>⭐ 9499</span>
-						<span>🔱 612</span>
-					</div>
-				<div class="stars-today">⭐ 1471 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/anomalyco/opencode" target="_blank">
-    
-
-
-      
-        anomalyco /
-
-      opencode</a></p>
-				<p>
-      The open source coding agent.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 220852</span>
-						<span>🔱 29518</span>
-					</div>
-				<div class="stars-today">⭐ 6765 stars this week</div>
 				</div>
 			</div>
 	
@@ -138,10 +118,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 104233</span>
-						<span>🔱 6583</span>
+						<span>⭐ 104507</span>
+						<span>🔱 6601</span>
 					</div>
 				<div class="stars-today">⭐ 9545 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/anomalyco/opencode" target="_blank">
+    
+
+
+      
+        anomalyco /
+
+      opencode</a></p>
+				<p>
+      The open source coding agent.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 220928</span>
+						<span>🔱 29536</span>
+					</div>
+				<div class="stars-today">⭐ 6765 stars this week</div>
 				</div>
 			</div>
 	
@@ -160,98 +162,52 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 13832</span>
-						<span>🔱 1367</span>
+						<span>⭐ 13865</span>
+						<span>🔱 1370</span>
 					</div>
 				<div class="stars-today">⭐ 1946 stars this week</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/akitaonrails/ai-memory" target="_blank">
+				<p><a href="https://github.com/android/skills" target="_blank">
     
 
 
       
-        akitaonrails /
+        android /
 
-      ai-memory</a></p>
-				<p>
-      Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors
-    </p>
+      skills</a></p>
+				<p></p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Rust</span>
-						<span>⭐ 13131</span>
-						<span>🔱 915</span>
+						<span>🔠 Kotlin</span>
+						<span>⭐ 9539</span>
+						<span>🔱 615</span>
 					</div>
-				<div class="stars-today">⭐ 3449 stars this week</div>
+				<div class="stars-today">⭐ 1471 stars this week</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/HKUDS/CLI-Anything" target="_blank">
+				<p><a href="https://github.com/anthropics/knowledge-work-plugins" target="_blank">
     
 
 
       
-        HKUDS /
+        anthropics /
 
-      CLI-Anything</a></p>
+      knowledge-work-plugins</a></p>
 				<p>
-      "CLI-Anything: Making ALL Software Agent-Native" -- CLI-Hub: https://clianything.cc/
+      Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 56696</span>
-						<span>🔱 5087</span>
+						<span>⭐ 32515</span>
+						<span>🔱 3591</span>
 					</div>
-				<div class="stars-today">⭐ 3303 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/Comfy-Org/ComfyUI" target="_blank">
-    
-
-
-      
-        Comfy-Org /
-
-      ComfyUI</a></p>
-				<p>
-      The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface. The fastest local inference engine in the world.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 142437</span>
-						<span>🔱 16798</span>
-					</div>
-				<div class="stars-today">⭐ 4531 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/debpalash/VoiceStudio" target="_blank">
-    
-
-
-      
-        debpalash /
-
-      VoiceStudio</a></p>
-				<p>
-      VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 83843</span>
-						<span>🔱 9255</span>
-					</div>
-				<div class="stars-today">⭐ 12526 stars this week</div>
+				<div class="stars-today">⭐ 2625 stars this week</div>
 				</div>
 			</div>
 	
@@ -270,76 +226,120 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 71010</span>
-						<span>🔱 6415</span>
+						<span>⭐ 71164</span>
+						<span>🔱 6426</span>
 					</div>
 				<div class="stars-today">⭐ 5553 stars this week</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/K-Dense-AI/scientific-agent-skills" target="_blank">
+				<p><a href="https://github.com/Comfy-Org/ComfyUI" target="_blank">
     
 
 
       
-        K-Dense-AI /
+        Comfy-Org /
 
-      scientific-agent-skills</a></p>
+      ComfyUI</a></p>
 				<p>
-      Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 250,000+ scientists worldwide. 177 ready-to-use validated skills plus 100+ scientific databases covering biology, chemistry, medicine, and drug discovery. Compatible with Cursor, Claude Code, Codex, Pi, Antigravity, and the open Agent Skills standard.
+      The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface. The fastest local inference engine in the world.
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 54321</span>
-						<span>🔱 4787</span>
+						<span>⭐ 142516</span>
+						<span>🔱 16803</span>
 					</div>
-				<div class="stars-today">⭐ 3077 stars this week</div>
+				<div class="stars-today">⭐ 4531 stars this week</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/NationalSecurityAgency/ghidra" target="_blank">
+				<p><a href="https://github.com/akitaonrails/ai-memory" target="_blank">
     
 
 
       
-        NationalSecurityAgency /
+        akitaonrails /
 
-      ghidra</a></p>
+      ai-memory</a></p>
 				<p>
-      Ghidra is a software reverse engineering (SRE) framework
+      Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Java</span>
-						<span>⭐ 93753</span>
-						<span>🔱 10533</span>
+						<span>🔠 Rust</span>
+						<span>⭐ 13169</span>
+						<span>🔱 918</span>
 					</div>
-				<div class="stars-today">⭐ 4221 stars this week</div>
+				<div class="stars-today">⭐ 3449 stars this week</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/elie222/rakazo" target="_blank">
+				<p><a href="https://github.com/Graphify-Labs/graphify" target="_blank">
     
 
 
       
-        elie222 /
+        Graphify-Labs /
 
-      rakazo</a></p>
+      graphify</a></p>
 				<p>
-      Open-source Grok Bot alternative. Choose your own model and sandbox.
+      Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a queryable knowledge graph. A /graphify skill for Claude Code, Cursor, Codex, and Gemini CLI: local deterministic AST parsing, every edge explained, no vector store.
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 5509</span>
-						<span>🔱 969</span>
+						<span>🔠 Python</span>
+						<span>⭐ 134180</span>
+						<span>🔱 12811</span>
 					</div>
-				<div class="stars-today">⭐ 1094 stars this week</div>
+				<div class="stars-today">⭐ 6875 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/HKUDS/CLI-Anything" target="_blank">
+    
+
+
+      
+        HKUDS /
+
+      CLI-Anything</a></p>
+				<p>
+      "CLI-Anything: Making ALL Software Agent-Native" -- CLI-Hub: https://clianything.cc/
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 56752</span>
+						<span>🔱 5086</span>
+					</div>
+				<div class="stars-today">⭐ 3303 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/vllm-project/vllm" target="_blank">
+    
+
+
+      
+        vllm-project /
+
+      vllm</a></p>
+				<p>
+      A high-throughput and memory-efficient inference and serving engine for LLMs
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 95291</span>
+						<span>🔱 23882</span>
+					</div>
+				<div class="stars-today">⭐ 1363 stars this week</div>
 				</div>
 			</div>
 	

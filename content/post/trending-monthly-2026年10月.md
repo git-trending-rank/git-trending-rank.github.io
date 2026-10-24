@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2026年10月
-date: 2026-10-24T08:25:20Z
+date: 2026-10-24T13:39:01Z
 categories:
 - monthly
 keywords:
@@ -30,8 +30,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 83843</span>
-						<span>🔱 9255</span>
+						<span>⭐ 84261</span>
+						<span>🔱 9310</span>
 					</div>
 				<div class="stars-today">⭐ 48343 stars this month</div>
 				</div>
@@ -52,32 +52,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 71010</span>
-						<span>🔱 6415</span>
+						<span>⭐ 71164</span>
+						<span>🔱 6426</span>
 					</div>
 				<div class="stars-today">⭐ 18268 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/paperclipai/paperclip" target="_blank">
-    
-
-
-      
-        paperclipai /
-
-      paperclip</a></p>
-				<p>
-      The open-source app everyone uses to manage agents at work
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 106697</span>
-						<span>🔱 17728</span>
-					</div>
-				<div class="stars-today">⭐ 25543 stars this month</div>
 				</div>
 			</div>
 	
@@ -96,54 +74,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 JavaScript</span>
-						<span>⭐ 42701</span>
-						<span>🔱 2664</span>
+						<span>⭐ 43180</span>
+						<span>🔱 2696</span>
 					</div>
 				<div class="stars-today">⭐ 20554 stars this month</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/vectorize-io/hindsight" target="_blank">
+				<p><a href="https://github.com/paperclipai/paperclip" target="_blank">
     
 
 
       
-        vectorize-io /
+        paperclipai /
 
-      hindsight</a></p>
+      paperclip</a></p>
 				<p>
-      Hindsight: Agent Memory That Learns
+      The open-source app everyone uses to manage agents at work
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 53245</span>
-						<span>🔱 6232</span>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 106770</span>
+						<span>🔱 17736</span>
 					</div>
-				<div class="stars-today">⭐ 28115 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/NVIDIA/OpenShell" target="_blank">
-    
-
-
-      
-        NVIDIA /
-
-      OpenShell</a></p>
-				<p>
-      OpenShell is the safe, private runtime for autonomous AI agents.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Rust</span>
-						<span>⭐ 18998</span>
-						<span>🔱 1899</span>
-					</div>
-				<div class="stars-today">⭐ 9666 stars this month</div>
+				<div class="stars-today">⭐ 25543 stars this month</div>
 				</div>
 			</div>
 	
@@ -162,10 +118,54 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 32417</span>
-						<span>🔱 3584</span>
+						<span>⭐ 32515</span>
+						<span>🔱 3591</span>
 					</div>
 				<div class="stars-today">⭐ 6635 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/NVIDIA/OpenShell" target="_blank">
+    
+
+
+      
+        NVIDIA /
+
+      OpenShell</a></p>
+				<p>
+      OpenShell is the safe, private runtime for autonomous AI agents.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Rust</span>
+						<span>⭐ 19168</span>
+						<span>🔱 1909</span>
+					</div>
+				<div class="stars-today">⭐ 9666 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/vectorize-io/hindsight" target="_blank">
+    
+
+
+      
+        vectorize-io /
+
+      hindsight</a></p>
+				<p>
+      Hindsight: Agent Memory That Learns
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 53323</span>
+						<span>🔱 6234</span>
+					</div>
+				<div class="stars-today">⭐ 28115 stars this month</div>
 				</div>
 			</div>
 	
@@ -184,8 +184,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 32035</span>
-						<span>🔱 2207</span>
+						<span>⭐ 32077</span>
+						<span>🔱 2210</span>
 					</div>
 				<div class="stars-today">⭐ 8135 stars this month</div>
 				</div>
@@ -206,8 +206,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 13832</span>
-						<span>🔱 1367</span>
+						<span>⭐ 13865</span>
+						<span>🔱 1370</span>
 					</div>
 				<div class="stars-today">⭐ 5333 stars this month</div>
 				</div>
@@ -228,8 +228,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Java</span>
-						<span>⭐ 93753</span>
-						<span>🔱 10533</span>
+						<span>⭐ 93840</span>
+						<span>🔱 10540</span>
 					</div>
 				<div class="stars-today">⭐ 14248 stars this month</div>
 				</div>
@@ -250,32 +250,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 44202</span>
-						<span>🔱 4646</span>
+						<span>⭐ 44267</span>
+						<span>🔱 4649</span>
 					</div>
 				<div class="stars-today">⭐ 7614 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/tashfeenahmed/freellmapi" target="_blank">
-    
-
-
-      
-        tashfeenahmed /
-
-      freellmapi</a></p>
-				<p>
-      7.4 billion tokens per month. 34 free LLM providers. 635 free model endpoints. All behind one /v1 endpoint, plus any custom OpenAI-compatible endpoint. Smart routing, automatic failover, encrypted keys. Personal experimentation only.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 40453</span>
-						<span>🔱 5459</span>
-					</div>
-				<div class="stars-today">⭐ 12006 stars this month</div>
 				</div>
 			</div>
 	
@@ -294,32 +272,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 22819</span>
-						<span>🔱 2222</span>
+						<span>⭐ 22861</span>
+						<span>🔱 2226</span>
 					</div>
 				<div class="stars-today">⭐ 6519 stars this month</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/rohitg00/ai-engineering-from-scratch" target="_blank">
+				<p><a href="https://github.com/tashfeenahmed/freellmapi" target="_blank">
     
 
 
       
-        rohitg00 /
+        tashfeenahmed /
 
-      ai-engineering-from-scratch</a></p>
+      freellmapi</a></p>
 				<p>
-      Learn AI Engineering! Learn it. Build it. Ship it for others.
+      7.4 billion tokens per month. 34 free LLM providers. 635 free model endpoints. All behind one /v1 endpoint, plus any custom OpenAI-compatible endpoint. Smart routing, automatic failover, encrypted keys. Personal experimentation only.
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 72909</span>
-						<span>🔱 12808</span>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 40636</span>
+						<span>🔱 5481</span>
 					</div>
-				<div class="stars-today">⭐ 17479 stars this month</div>
+				<div class="stars-today">⭐ 12006 stars this month</div>
 				</div>
 			</div>
 	
@@ -338,10 +316,30 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Rust</span>
-						<span>⭐ 85736</span>
-						<span>🔱 5129</span>
+						<span>⭐ 85925</span>
+						<span>🔱 5139</span>
 					</div>
 				<div class="stars-today">⭐ 15614 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/pingdotgg/t3code" target="_blank">
+    
+
+
+      
+        pingdotgg /
+
+      t3code</a></p>
+				<p></p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 29764</span>
+						<span>🔱 7999</span>
+					</div>
+				<div class="stars-today">⭐ 6387 stars this month</div>
 				</div>
 			</div>
 	
@@ -360,30 +358,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 JavaScript</span>
-						<span>⭐ 287523</span>
-						<span>🔱 42635</span>
+						<span>⭐ 287716</span>
+						<span>🔱 42649</span>
 					</div>
 				<div class="stars-today">⭐ 22804 stars this month</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/pingdotgg/t3code" target="_blank">
+				<p><a href="https://github.com/rohitg00/ai-engineering-from-scratch" target="_blank">
     
 
 
       
-        pingdotgg /
+        rohitg00 /
 
-      t3code</a></p>
-				<p></p>
+      ai-engineering-from-scratch</a></p>
+				<p>
+      Learn AI Engineering! Learn it. Build it. Ship it for others.
+    </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 29716</span>
-						<span>🔱 7990</span>
+						<span>🔠 Python</span>
+						<span>⭐ 72997</span>
+						<span>🔱 12822</span>
 					</div>
-				<div class="stars-today">⭐ 6387 stars this month</div>
+				<div class="stars-today">⭐ 17479 stars this month</div>
 				</div>
 			</div>
 	
@@ -402,32 +402,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 10896</span>
-						<span>🔱 1396</span>
+						<span>⭐ 10919</span>
+						<span>🔱 1404</span>
 					</div>
 				<div class="stars-today">⭐ 6225 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/VectifyAI/PageIndex" target="_blank">
-    
-
-
-      
-        VectifyAI /
-
-      PageIndex</a></p>
-				<p>
-      📑 PageIndex: Document Index for Vectorless, Reasoning-based RAG
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 39590</span>
-						<span>🔱 3428</span>
-					</div>
-				<div class="stars-today">⭐ 3867 stars this month</div>
 				</div>
 			</div>
 	
@@ -446,32 +424,54 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 102637</span>
-						<span>🔱 9068</span>
+						<span>⭐ 102704</span>
+						<span>🔱 9071</span>
 					</div>
 				<div class="stars-today">⭐ 8445 stars this month</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/supabase/supabase" target="_blank">
+				<p><a href="https://github.com/VectifyAI/PageIndex" target="_blank">
     
 
 
       
-        supabase /
+        VectifyAI /
 
-      supabase</a></p>
+      PageIndex</a></p>
 				<p>
-      The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.
+      📑 PageIndex: Document Index for Vectorless, Reasoning-based RAG
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 113841</span>
-						<span>🔱 16938</span>
+						<span>🔠 Python</span>
+						<span>⭐ 39599</span>
+						<span>🔱 3426</span>
 					</div>
-				<div class="stars-today">⭐ 3317 stars this month</div>
+				<div class="stars-today">⭐ 3867 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/Gaurav-Gosain/tuios" target="_blank">
+    
+
+
+      
+        Gaurav-Gosain /
+
+      tuios</a></p>
+				<p>
+      A terminal window manager that knows what your agents are doing. Tiling panes, workspaces, sessions that survive restarts, and one Inbox for every coding agent. Official only at tuios.dev and this repo. tuios has no X/Twitter account.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Go</span>
+						<span>⭐ 5705</span>
+						<span>🔱 268</span>
+					</div>
+				<div class="stars-today">⭐ 1954 stars this month</div>
 				</div>
 			</div>
 	

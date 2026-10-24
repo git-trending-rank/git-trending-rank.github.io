@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2026-10-24
-date: 2026-10-24T08:25:19Z
+date: 2026-10-24T13:39:01Z
 categories:
 - daily
 keywords:
@@ -30,54 +30,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 JavaScript</span>
-						<span>⭐ 42701</span>
-						<span>🔱 2664</span>
+						<span>⭐ 43180</span>
+						<span>🔱 2696</span>
 					</div>
-				<div class="stars-today">⭐ 2716 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/php/php-src" target="_blank">
-    
-
-
-      
-        php /
-
-      php-src</a></p>
-				<p>
-      The PHP Interpreter
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 C</span>
-						<span>⭐ 41615</span>
-						<span>🔱 8366</span>
-					</div>
-				<div class="stars-today">⭐ 716 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/anthropics/knowledge-work-plugins" target="_blank">
-    
-
-
-      
-        anthropics /
-
-      knowledge-work-plugins</a></p>
-				<p>
-      Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 32417</span>
-						<span>🔱 3584</span>
-					</div>
-				<div class="stars-today">⭐ 635 stars today</div>
+				<div class="stars-today">⭐ 2271 stars today</div>
 				</div>
 			</div>
 	
@@ -96,98 +52,186 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Rust</span>
-						<span>⭐ 18998</span>
-						<span>🔱 1899</span>
+						<span>⭐ 19168</span>
+						<span>🔱 1909</span>
 					</div>
-				<div class="stars-today">⭐ 1119 stars today</div>
+				<div class="stars-today">⭐ 893 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/Renhuai123/ziwei-doushu" target="_blank">
+				<p><a href="https://github.com/aws/agent-toolkit-for-aws" target="_blank">
     
 
 
       
-        Renhuai123 /
+        aws /
 
-      ziwei-doushu</a></p>
+      agent-toolkit-for-aws</a></p>
 				<p>
-      紫微斗数开源排盘引擎 — 基于倪海厦《天纪》体系，含完整排盘算法、四化系统、格局知识库、古籍原文数据
+      Official, AWS-supported MCP servers, skills, and plugins to help AI agents build on AWS
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 2991</span>
+						<span>🔱 392</span>
+					</div>
+				<div class="stars-today">⭐ 11 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/Nutlope/hallmark" target="_blank">
+    
+
+
+      
+        Nutlope /
+
+      hallmark</a></p>
+				<p>
+      Anti-AI-slop design skill for Claude Code, Cursor, and Codex.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 CSS</span>
+						<span>⭐ 31585</span>
+						<span>🔱 1629</span>
+					</div>
+				<div class="stars-today">⭐ 567 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/luongnv89/claude-howto" target="_blank">
+    
+
+
+      
+        luongnv89 /
+
+      claude-howto</a></p>
+				<p>
+      A visual, example-driven guide to Claude Code — from basic concepts to advanced agents, with copy-paste templates that bring immediate value.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 44206</span>
+						<span>🔱 5470</span>
+					</div>
+				<div class="stars-today">⭐ 1053 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/pbakaus/impeccable" target="_blank">
+    
+
+
+      
+        pbakaus /
+
+      impeccable</a></p>
+				<p>
+      The design language that makes your AI harness better at design.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Rust</span>
+						<span>⭐ 85925</span>
+						<span>🔱 5139</span>
+					</div>
+				<div class="stars-today">⭐ 541 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/pollen-robotics/microduck" target="_blank">
+    
+
+
+      
+        pollen-robotics /
+
+      microduck</a></p>
+				<p>
+      A Tiny biped duck robot 🦆
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Rust</span>
+						<span>⭐ 10675</span>
+						<span>🔱 1384</span>
+					</div>
+				<div class="stars-today">⭐ 421 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/google-gemini/gemini-cli" target="_blank">
+    
+
+
+      
+        google-gemini /
+
+      gemini-cli</a></p>
+				<p>
+      An open-source AI agent that brings the power of Gemini directly into your terminal.
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 7095</span>
-						<span>🔱 1443</span>
+						<span>⭐ 107659</span>
+						<span>🔱 14783</span>
 					</div>
-				<div class="stars-today">⭐ 546 stars today</div>
+				<div class="stars-today">⭐ 38 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/SnailSploit/Claude-Red" target="_blank">
+				<p><a href="https://github.com/jbiaojerry/ebook-treasure-chest" target="_blank">
     
 
 
       
-        SnailSploit /
+        jbiaojerry /
 
-      Claude-Red</a></p>
+      ebook-treasure-chest</a></p>
 				<p>
-      claude-red is a curated library of offensive security skills designed for the Claude skills system. Each skill is a structured SKILL.md file that primes Claude with expert-level methodology for a specific attack surface — from SQLi to shellcode, EDR evasion to exploit development.
+      欢迎来到电子书下载宝库，一个汇聚了各类电子书下载链接的地方。无论你是喜欢阅读经典文学、经管励志、终身学习、职场创业、技术手册还是其他类型的书籍，这里都能满足你的需求。 该库涵盖了帆书app(原樊登读书)、微信读书、京东读书、喜马拉雅等读书app的大部分电子书。
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 8687</span>
-						<span>🔱 1115</span>
+						<span>⭐ 22347</span>
+						<span>🔱 3174</span>
 					</div>
-				<div class="stars-today">⭐ 226 stars today</div>
+				<div class="stars-today">⭐ 220 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/OpenBMB/VoxCPM" target="_blank">
+				<p><a href="https://github.com/makecindy/cindy" target="_blank">
     
 
 
       
-        OpenBMB /
+        makecindy /
 
-      VoxCPM</a></p>
+      cindy</a></p>
 				<p>
-      VoxCPM2: Tokenizer-Free TTS for Multilingual Speech Generation, Creative Voice Design, and True-to-Life Cloning
+      Consider it done. The open-source AI agent that works out of the box · 想到，就能做到。开源、开箱即用的 AI Agent。
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 40406</span>
-						<span>🔱 4591</span>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 3800</span>
+						<span>🔱 566</span>
 					</div>
-				<div class="stars-today">⭐ 150 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/nodejs/node" target="_blank">
-    
-
-
-      
-        nodejs /
-
-      node</a></p>
-				<p>
-      Node.js JavaScript runtime ✨🐢🚀✨
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 JavaScript</span>
-						<span>⭐ 122991</span>
-						<span>🔱 39841</span>
-					</div>
-				<div class="stars-today">⭐ 66 stars today</div>
+				<div class="stars-today">⭐ 471 stars today</div>
 				</div>
 			</div>
 	
