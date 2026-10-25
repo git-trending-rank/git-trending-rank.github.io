@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2026年10月
-date: 2026-10-25T06:59:29Z
+date: 2026-10-25T12:47:20Z
 categories:
 - monthly
 keywords:
@@ -14,28 +14,6 @@ keywords:
 	<main class="container">
         <div class="repo-list" id="repoList">
 
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/debpalash/VoiceStudio" target="_blank">
-    
-
-
-      
-        debpalash /
-
-      VoiceStudio</a></p>
-				<p>
-      VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 85319</span>
-						<span>🔱 9453</span>
-					</div>
-				<div class="stars-today">⭐ 49780 stars this month</div>
-				</div>
-			</div>
 	
 			<div class="repo-card">
 				<p><a href="https://github.com/heygen-com/hyperframes" target="_blank">
@@ -52,10 +30,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 71622</span>
-						<span>🔱 6472</span>
+						<span>⭐ 71810</span>
+						<span>🔱 6488</span>
 					</div>
 				<div class="stars-today">⭐ 18759 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/debpalash/VoiceStudio" target="_blank">
+    
+
+
+      
+        debpalash /
+
+      VoiceStudio</a></p>
+				<p>
+      VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 85754</span>
+						<span>🔱 9510</span>
+					</div>
+				<div class="stars-today">⭐ 49780 stars this month</div>
 				</div>
 			</div>
 	
@@ -74,32 +74,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 JavaScript</span>
-						<span>⭐ 45203</span>
-						<span>🔱 2806</span>
+						<span>⭐ 45877</span>
+						<span>🔱 2849</span>
 					</div>
 				<div class="stars-today">⭐ 22219 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/paperclipai/paperclip" target="_blank">
-    
-
-
-      
-        paperclipai /
-
-      paperclip</a></p>
-				<p>
-      The open-source app everyone uses to manage agents at work
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 107048</span>
-						<span>🔱 17778</span>
-					</div>
-				<div class="stars-today">⭐ 25709 stars this month</div>
 				</div>
 			</div>
 	
@@ -118,10 +96,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 32725</span>
-						<span>🔱 3615</span>
+						<span>⭐ 32819</span>
+						<span>🔱 3623</span>
 					</div>
 				<div class="stars-today">⭐ 7138 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/paperclipai/paperclip" target="_blank">
+    
+
+
+      
+        paperclipai /
+
+      paperclip</a></p>
+				<p>
+      The open-source app everyone uses to manage agents at work
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 107132</span>
+						<span>🔱 17797</span>
+					</div>
+				<div class="stars-today">⭐ 25709 stars this month</div>
 				</div>
 			</div>
 	
@@ -140,32 +140,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Rust</span>
-						<span>⭐ 19628</span>
-						<span>🔱 1940</span>
+						<span>⭐ 19741</span>
+						<span>🔱 1953</span>
 					</div>
 				<div class="stars-today">⭐ 10495 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/vectorize-io/hindsight" target="_blank">
-    
-
-
-      
-        vectorize-io /
-
-      hindsight</a></p>
-				<p>
-      Hindsight: Agent Memory That Learns
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 53511</span>
-						<span>🔱 6239</span>
-					</div>
-				<div class="stars-today">⭐ 26766 stars this month</div>
 				</div>
 			</div>
 	
@@ -184,8 +162,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 32149</span>
-						<span>🔱 2224</span>
+						<span>⭐ 32176</span>
+						<span>🔱 2226</span>
 					</div>
 				<div class="stars-today">⭐ 8261 stars this month</div>
 				</div>
@@ -206,32 +184,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 13936</span>
-						<span>🔱 1391</span>
+						<span>⭐ 13974</span>
+						<span>🔱 1396</span>
 					</div>
 				<div class="stars-today">⭐ 5402 stars this month</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/NationalSecurityAgency/ghidra" target="_blank">
+				<p><a href="https://github.com/vectorize-io/hindsight" target="_blank">
     
 
 
       
-        NationalSecurityAgency /
+        vectorize-io /
 
-      ghidra</a></p>
+      hindsight</a></p>
 				<p>
-      Ghidra is a software reverse engineering (SRE) framework
+      Hindsight: Agent Memory That Learns
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Java</span>
-						<span>⭐ 94053</span>
-						<span>🔱 10562</span>
+						<span>🔠 Python</span>
+						<span>⭐ 53575</span>
+						<span>🔱 6241</span>
 					</div>
-				<div class="stars-today">⭐ 14582 stars this month</div>
+				<div class="stars-today">⭐ 26766 stars this month</div>
 				</div>
 			</div>
 	
@@ -250,7 +228,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 44408</span>
+						<span>⭐ 44459</span>
 						<span>🔱 4658</span>
 					</div>
 				<div class="stars-today">⭐ 7817 stars this month</div>
@@ -272,32 +250,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 22988</span>
-						<span>🔱 2239</span>
+						<span>⭐ 23030</span>
+						<span>🔱 2241</span>
 					</div>
 				<div class="stars-today">⭐ 6675 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/tashfeenahmed/freellmapi" target="_blank">
-    
-
-
-      
-        tashfeenahmed /
-
-      freellmapi</a></p>
-				<p>
-      7.4 billion tokens per month. 34 free LLM providers. 635 free model endpoints. All behind one /v1 endpoint, plus any custom OpenAI-compatible endpoint. Smart routing, automatic failover, encrypted keys. Personal experimentation only.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 41121</span>
-						<span>🔱 5551</span>
-					</div>
-				<div class="stars-today">⭐ 12538 stars this month</div>
 				</div>
 			</div>
 	
@@ -316,30 +272,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Rust</span>
-						<span>⭐ 86664</span>
-						<span>🔱 5173</span>
+						<span>⭐ 87036</span>
+						<span>🔱 5196</span>
 					</div>
 				<div class="stars-today">⭐ 15700 stars this month</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/pingdotgg/t3code" target="_blank">
+				<p><a href="https://github.com/NationalSecurityAgency/ghidra" target="_blank">
     
 
 
       
-        pingdotgg /
+        NationalSecurityAgency /
 
-      t3code</a></p>
-				<p></p>
+      ghidra</a></p>
+				<p>
+      Ghidra is a software reverse engineering (SRE) framework
+    </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 29894</span>
-						<span>🔱 8030</span>
+						<span>🔠 Java</span>
+						<span>⭐ 94140</span>
+						<span>🔱 10565</span>
 					</div>
-				<div class="stars-today">⭐ 6492 stars this month</div>
+				<div class="stars-today">⭐ 14582 stars this month</div>
 				</div>
 			</div>
 	
@@ -358,54 +316,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 JavaScript</span>
-						<span>⭐ 288270</span>
-						<span>🔱 42735</span>
+						<span>⭐ 288434</span>
+						<span>🔱 42763</span>
 					</div>
 				<div class="stars-today">⭐ 22855 stars this month</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/rohitg00/ai-engineering-from-scratch" target="_blank">
+				<p><a href="https://github.com/tashfeenahmed/freellmapi" target="_blank">
     
 
 
       
-        rohitg00 /
+        tashfeenahmed /
 
-      ai-engineering-from-scratch</a></p>
+      freellmapi</a></p>
 				<p>
-      Learn AI Engineering! Learn it. Build it. Ship it for others.
+      7.4 billion tokens per month. 34 free LLM providers. 635 free model endpoints. All behind one /v1 endpoint, plus any custom OpenAI-compatible endpoint. Smart routing, automatic failover, encrypted keys. Personal experimentation only.
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 73403</span>
-						<span>🔱 12875</span>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 41289</span>
+						<span>🔱 5563</span>
 					</div>
-				<div class="stars-today">⭐ 17406 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/TencentCloud/Octop" target="_blank">
-    
-
-
-      
-        TencentCloud /
-
-      Octop</a></p>
-				<p>
-      A smarter, self-hosted AI assistant — multi-user, multi-agent.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 10954</span>
-						<span>🔱 1410</span>
-					</div>
-				<div class="stars-today">⭐ 6206 stars this month</div>
+				<div class="stars-today">⭐ 12538 stars this month</div>
 				</div>
 			</div>
 	
@@ -424,10 +360,52 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 102893</span>
-						<span>🔱 9087</span>
+						<span>⭐ 102965</span>
+						<span>🔱 9099</span>
 					</div>
 				<div class="stars-today">⭐ 8637 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/pingdotgg/t3code" target="_blank">
+    
+
+
+      
+        pingdotgg /
+
+      t3code</a></p>
+				<p></p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 29946</span>
+						<span>🔱 8043</span>
+					</div>
+				<div class="stars-today">⭐ 6492 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/rohitg00/ai-engineering-from-scratch" target="_blank">
+    
+
+
+      
+        rohitg00 /
+
+      ai-engineering-from-scratch</a></p>
+				<p>
+      Learn AI Engineering! Learn it. Build it. Ship it for others.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 73535</span>
+						<span>🔱 12895</span>
+					</div>
+				<div class="stars-today">⭐ 17406 stars this month</div>
 				</div>
 			</div>
 	
@@ -446,10 +424,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 39649</span>
-						<span>🔱 3428</span>
+						<span>⭐ 39662</span>
+						<span>🔱 3429</span>
 					</div>
 				<div class="stars-today">⭐ 3908 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/TencentCloud/Octop" target="_blank">
+    
+
+
+      
+        TencentCloud /
+
+      Octop</a></p>
+				<p>
+      A smarter, self-hosted AI assistant — multi-user, multi-agent.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 10978</span>
+						<span>🔱 1411</span>
+					</div>
+				<div class="stars-today">⭐ 6206 stars this month</div>
 				</div>
 			</div>
 	
@@ -468,8 +468,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Go</span>
-						<span>⭐ 5852</span>
-						<span>🔱 272</span>
+						<span>⭐ 5896</span>
+						<span>🔱 274</span>
 					</div>
 				<div class="stars-today">⭐ 2036 stars this month</div>
 				</div>

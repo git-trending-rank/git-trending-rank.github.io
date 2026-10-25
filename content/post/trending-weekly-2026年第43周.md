@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2026年第43周
-date: 2026-10-25T06:59:29Z
+date: 2026-10-25T12:47:20Z
 categories:
 - weekly
 keywords:
@@ -30,54 +30,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 JavaScript</span>
-						<span>⭐ 45203</span>
-						<span>🔱 2806</span>
+						<span>⭐ 45877</span>
+						<span>🔱 2849</span>
 					</div>
 				<div class="stars-today">⭐ 12680 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/morluto/rea" target="_blank">
-    
-
-
-      
-        morluto /
-
-      rea</a></p>
-				<p>
-      Reverse engineer anything with agents, from app behavior down to native binaries.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 380041</span>
-						<span>🔱 95001</span>
-					</div>
-				<div class="stars-today">⭐ 78562 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/anthropics/claude-plugins-official" target="_blank">
-    
-
-
-      
-        anthropics /
-
-      claude-plugins-official</a></p>
-				<p>
-      Official, Anthropic-managed directory of high quality Claude Code Plugins.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 44408</span>
-						<span>🔱 4658</span>
-					</div>
-				<div class="stars-today">⭐ 3232 stars this week</div>
 				</div>
 			</div>
 	
@@ -96,96 +52,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 79102</span>
-						<span>🔱 9287</span>
+						<span>⭐ 79160</span>
+						<span>🔱 9292</span>
 					</div>
 				<div class="stars-today">⭐ 3241 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/stablyai/orca" target="_blank">
-    
-
-
-      
-        stablyai /
-
-      orca</a></p>
-				<p>
-      Orca is the place for working with a fleet of agents (e.g. Grok Bot, Claude Code). Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 105135</span>
-						<span>🔱 6639</span>
-					</div>
-				<div class="stars-today">⭐ 9828 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/anomalyco/opencode" target="_blank">
-    
-
-
-      
-        anomalyco /
-
-      opencode</a></p>
-				<p>
-      The open source coding agent.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 221269</span>
-						<span>🔱 29607</span>
-					</div>
-				<div class="stars-today">⭐ 6857 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/cursor/plugins" target="_blank">
-    
-
-
-      
-        cursor /
-
-      plugins</a></p>
-				<p>
-      Cursor plugin specification and official plugins
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 13936</span>
-						<span>🔱 1391</span>
-					</div>
-				<div class="stars-today">⭐ 1729 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/android/skills" target="_blank">
-    
-
-
-      
-        android /
-
-      skills</a></p>
-				<p></p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Kotlin</span>
-						<span>⭐ 9625</span>
-						<span>🔱 621</span>
-					</div>
-				<div class="stars-today">⭐ 1317 stars this week</div>
 				</div>
 			</div>
 	
@@ -204,10 +74,54 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 32725</span>
-						<span>🔱 3615</span>
+						<span>⭐ 32819</span>
+						<span>🔱 3623</span>
 					</div>
 				<div class="stars-today">⭐ 2631 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/anomalyco/opencode" target="_blank">
+    
+
+
+      
+        anomalyco /
+
+      opencode</a></p>
+				<p>
+      The open source coding agent.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 221370</span>
+						<span>🔱 29626</span>
+					</div>
+				<div class="stars-today">⭐ 6857 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/stablyai/orca" target="_blank">
+    
+
+
+      
+        stablyai /
+
+      orca</a></p>
+				<p>
+      Orca is the place for working with a fleet of agents (e.g. Grok Bot, Claude Code). Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 105350</span>
+						<span>🔱 6656</span>
+					</div>
+				<div class="stars-today">⭐ 9828 stars this week</div>
 				</div>
 			</div>
 	
@@ -226,54 +140,30 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 71622</span>
-						<span>🔱 6472</span>
+						<span>⭐ 71810</span>
+						<span>🔱 6488</span>
 					</div>
 				<div class="stars-today">⭐ 5633 stars this week</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/Comfy-Org/ComfyUI" target="_blank">
+				<p><a href="https://github.com/android/skills" target="_blank">
     
 
 
       
-        Comfy-Org /
+        android /
 
-      ComfyUI</a></p>
-				<p>
-      The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface. The fastest local inference engine in the world.
-    </p>
+      skills</a></p>
+				<p></p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 142715</span>
-						<span>🔱 16834</span>
+						<span>🔠 Kotlin</span>
+						<span>⭐ 9658</span>
+						<span>🔱 624</span>
 					</div>
-				<div class="stars-today">⭐ 4648 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/akitaonrails/ai-memory" target="_blank">
-    
-
-
-      
-        akitaonrails /
-
-      ai-memory</a></p>
-				<p>
-      Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Rust</span>
-						<span>⭐ 13337</span>
-						<span>🔱 944</span>
-					</div>
-				<div class="stars-today">⭐ 3541 stars this week</div>
+				<div class="stars-today">⭐ 1317 stars this week</div>
 				</div>
 			</div>
 	
@@ -292,32 +182,76 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 134586</span>
-						<span>🔱 12847</span>
+						<span>⭐ 134747</span>
+						<span>🔱 12864</span>
 					</div>
 				<div class="stars-today">⭐ 6868 stars this week</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/HKUDS/CLI-Anything" target="_blank">
+				<p><a href="https://github.com/akitaonrails/ai-memory" target="_blank">
     
 
 
       
-        HKUDS /
+        akitaonrails /
 
-      CLI-Anything</a></p>
+      ai-memory</a></p>
 				<p>
-      "CLI-Anything: Making ALL Software Agent-Native" -- CLI-Hub: https://clianything.cc/
+      Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Rust</span>
+						<span>⭐ 13399</span>
+						<span>🔱 947</span>
+					</div>
+				<div class="stars-today">⭐ 3541 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/Comfy-Org/ComfyUI" target="_blank">
+    
+
+
+      
+        Comfy-Org /
+
+      ComfyUI</a></p>
+				<p>
+      The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface. The fastest local inference engine in the world.
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 56897</span>
-						<span>🔱 5101</span>
+						<span>⭐ 142798</span>
+						<span>🔱 16849</span>
 					</div>
-				<div class="stars-today">⭐ 3069 stars this week</div>
+				<div class="stars-today">⭐ 4648 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/anthropics/claude-plugins-official" target="_blank">
+    
+
+
+      
+        anthropics /
+
+      claude-plugins-official</a></p>
+				<p>
+      Official, Anthropic-managed directory of high quality Claude Code Plugins.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 44459</span>
+						<span>🔱 4658</span>
+					</div>
+				<div class="stars-today">⭐ 3232 stars this week</div>
 				</div>
 			</div>
 	
@@ -336,10 +270,52 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 95387</span>
-						<span>🔱 23914</span>
+						<span>⭐ 95432</span>
+						<span>🔱 23927</span>
 					</div>
 				<div class="stars-today">⭐ 1371 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/multica-ai/andrej-karpathy-skills" target="_blank">
+    
+
+
+      
+        multica-ai /
+
+      andrej-karpathy-skills</a></p>
+				<p>
+      A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 </span>
+						<span>⭐ 223548</span>
+						<span>🔱 22393</span>
+					</div>
+				<div class="stars-today">⭐ 2981 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/pingdotgg/t3code" target="_blank">
+    
+
+
+      
+        pingdotgg /
+
+      t3code</a></p>
+				<p></p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 29946</span>
+						<span>🔱 8043</span>
+					</div>
+				<div class="stars-today">⭐ 1778 stars this week</div>
 				</div>
 			</div>
 	
