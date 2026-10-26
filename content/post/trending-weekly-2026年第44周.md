@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2026年第44周
-date: 2026-10-26T07:05:50Z
+date: 2026-10-26T14:35:14Z
 categories:
 - weekly
 keywords:
@@ -30,32 +30,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 JavaScript</span>
-						<span>⭐ 47397</span>
-						<span>🔱 2944</span>
+						<span>⭐ 47985</span>
+						<span>🔱 2992</span>
 					</div>
 				<div class="stars-today">⭐ 15072 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/ruvnet/ruflo" target="_blank">
-    
-
-
-      
-        ruvnet /
-
-      ruflo</a></p>
-				<p>
-      🌊 The original agent harness. Deploy intelligent multi-player swarms, coordinate autonomous workflows, and build conversational AI systems. Features adaptive memory, self-learning intelligence, federation, vector RAG integration, and native Claude Code / Codex / Hermes and many more Integrated
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 79342</span>
-						<span>🔱 9317</span>
-					</div>
-				<div class="stars-today">⭐ 2987 stars this week</div>
 				</div>
 			</div>
 	
@@ -74,10 +52,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 33054</span>
-						<span>🔱 3643</span>
+						<span>⭐ 33133</span>
+						<span>🔱 3652</span>
 					</div>
 				<div class="stars-today">⭐ 2790 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/ruvnet/ruflo" target="_blank">
+    
+
+
+      
+        ruvnet /
+
+      ruflo</a></p>
+				<p>
+      🌊 The original agent harness. Deploy intelligent multi-player swarms, coordinate autonomous workflows, and build conversational AI systems. Features adaptive memory, self-learning intelligence, federation, vector RAG integration, and native Claude Code / Codex / Hermes and many more Integrated
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 79424</span>
+						<span>🔱 9320</span>
+					</div>
+				<div class="stars-today">⭐ 2987 stars this week</div>
 				</div>
 			</div>
 	
@@ -96,8 +96,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 221651</span>
-						<span>🔱 29636</span>
+						<span>⭐ 221796</span>
+						<span>🔱 29660</span>
 					</div>
 				<div class="stars-today">⭐ 5921 stars this week</div>
 				</div>
@@ -118,52 +118,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 106194</span>
-						<span>🔱 6710</span>
+						<span>⭐ 106642</span>
+						<span>🔱 6730</span>
 					</div>
 				<div class="stars-today">⭐ 9622 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/heygen-com/hyperframes" target="_blank">
-    
-
-
-      
-        heygen-com /
-
-      hyperframes</a></p>
-				<p>
-      Write HTML. Render video. Built for agents.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 72416</span>
-						<span>🔱 6540</span>
-					</div>
-				<div class="stars-today">⭐ 5612 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/android/skills" target="_blank">
-    
-
-
-      
-        android /
-
-      skills</a></p>
-				<p></p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Kotlin</span>
-						<span>⭐ 9755</span>
-						<span>🔱 629</span>
-					</div>
-				<div class="stars-today">⭐ 1070 stars this week</div>
 				</div>
 			</div>
 	
@@ -182,10 +140,30 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 135506</span>
-						<span>🔱 12928</span>
+						<span>⭐ 135830</span>
+						<span>🔱 12956</span>
 					</div>
 				<div class="stars-today">⭐ 6903 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/android/skills" target="_blank">
+    
+
+
+      
+        android /
+
+      skills</a></p>
+				<p></p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Kotlin</span>
+						<span>⭐ 9790</span>
+						<span>🔱 632</span>
+					</div>
+				<div class="stars-today">⭐ 1070 stars this week</div>
 				</div>
 			</div>
 	
@@ -204,76 +182,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Rust</span>
-						<span>⭐ 13593</span>
-						<span>🔱 962</span>
+						<span>⭐ 13693</span>
+						<span>🔱 968</span>
 					</div>
 				<div class="stars-today">⭐ 3254 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/Comfy-Org/ComfyUI" target="_blank">
-    
-
-
-      
-        Comfy-Org /
-
-      ComfyUI</a></p>
-				<p>
-      The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface. The fastest local inference engine in the world.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 143041</span>
-						<span>🔱 16883</span>
-					</div>
-				<div class="stars-today">⭐ 4790 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/anthropics/claude-plugins-official" target="_blank">
-    
-
-
-      
-        anthropics /
-
-      claude-plugins-official</a></p>
-				<p>
-      Official, Anthropic-managed directory of high quality Claude Code Plugins.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 44620</span>
-						<span>🔱 4668</span>
-					</div>
-				<div class="stars-today">⭐ 2245 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/vllm-project/vllm" target="_blank">
-    
-
-
-      
-        vllm-project /
-
-      vllm</a></p>
-				<p>
-      A high-throughput and memory-efficient inference and serving engine for LLMs
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 95539</span>
-						<span>🔱 23964</span>
-					</div>
-				<div class="stars-today">⭐ 1445 stars this week</div>
 				</div>
 			</div>
 	
@@ -292,10 +204,120 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 </span>
-						<span>⭐ 224001</span>
-						<span>🔱 22416</span>
+						<span>⭐ 224252</span>
+						<span>🔱 22442</span>
 					</div>
 				<div class="stars-today">⭐ 2937 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/TauricResearch/TradingAgents" target="_blank">
+    
+
+
+      
+        TauricResearch /
+
+      TradingAgents</a></p>
+				<p>
+      TradingAgents: Multi-Agents LLM Financial Trading Framework
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 115464</span>
+						<span>🔱 22203</span>
+					</div>
+				<div class="stars-today">⭐ 2461 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/wshobson/agents" target="_blank">
+    
+
+
+      
+        wshobson /
+
+      agents</a></p>
+				<p>
+      Multi-harness agentic plugin marketplace for Claude Code, Codex, Cursor, OpenCode, GitHub Copilot, Google Antigravity, and Pi
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 41755</span>
+						<span>🔱 4429</span>
+					</div>
+				<div class="stars-today">⭐ 726 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/heygen-com/hyperframes" target="_blank">
+    
+
+
+      
+        heygen-com /
+
+      hyperframes</a></p>
+				<p>
+      Write HTML. Render video. Built for agents.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 72707</span>
+						<span>🔱 6570</span>
+					</div>
+				<div class="stars-today">⭐ 5612 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/AgriciDaniel/claude-seo" target="_blank">
+    
+
+
+      
+        AgriciDaniel /
+
+      claude-seo</a></p>
+				<p>
+      Universal SEO skill for Claude Code. 26 sub-skills + 19 sub-agents covering technical SEO, E-E-A-T, schema, GEO/AEO, agent readiness (Lighthouse Agentic Browsing, WebMCP, llms.txt), backlinks, local SEO, e-commerce, international SEO, Google APIs, and PDF/Excel reporting. 9 optional extensions for live SEO data.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 21817</span>
+						<span>🔱 3007</span>
+					</div>
+				<div class="stars-today">⭐ 2492 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/Comfy-Org/ComfyUI" target="_blank">
+    
+
+
+      
+        Comfy-Org /
+
+      ComfyUI</a></p>
+				<p>
+      The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface. The fastest local inference engine in the world.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 143159</span>
+						<span>🔱 16903</span>
+					</div>
+				<div class="stars-today">⭐ 4790 stars this week</div>
 				</div>
 			</div>
 	
@@ -312,8 +334,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 30231</span>
-						<span>🔱 8097</span>
+						<span>⭐ 30380</span>
+						<span>🔱 8119</span>
 					</div>
 				<div class="stars-today">⭐ 1770 stars this week</div>
 				</div>
