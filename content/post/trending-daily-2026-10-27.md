@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2026-10-27
-date: 2026-10-27T06:52:13Z
+date: 2026-10-27T13:38:51Z
 categories:
 - daily
 keywords:
@@ -30,164 +30,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 CSS</span>
-						<span>⭐ 37146</span>
-						<span>🔱 1936</span>
+						<span>⭐ 38085</span>
+						<span>🔱 1981</span>
 					</div>
-				<div class="stars-today">⭐ 2244 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/TauricResearch/TradingAgents" target="_blank">
-    
-
-
-      
-        TauricResearch /
-
-      TradingAgents</a></p>
-				<p>
-      TradingAgents: Multi-Agents LLM Financial Trading Framework
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 116566</span>
-						<span>🔱 22337</span>
-					</div>
-				<div class="stars-today">⭐ 1395 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/JetBrains/thinkrail" target="_blank">
-    
-
-
-      
-        JetBrains /
-
-      thinkrail</a></p>
-				<p>
-      Vibe code with pi in a lightweight, real IDE that customises itself around the way you work — The Vibe You Need
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 3236</span>
-						<span>🔱 177</span>
-					</div>
-				<div class="stars-today">⭐ 1173 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/makecindy/cindy" target="_blank">
-    
-
-
-      
-        makecindy /
-
-      cindy</a></p>
-				<p>
-      Consider it done. The open-source AI agent that works out of the box · 想到，就能做到。开源、开箱即用的 AI Agent。
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 6862</span>
-						<span>🔱 825</span>
-					</div>
-				<div class="stars-today">⭐ 1296 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/affaan-m/ECC" target="_blank">
-    
-
-
-      
-        affaan-m /
-
-      ECC</a></p>
-				<p>
-      The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 JavaScript</span>
-						<span>⭐ 290085</span>
-						<span>🔱 42993</span>
-					</div>
-				<div class="stars-today">⭐ 896 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/pbakaus/impeccable" target="_blank">
-    
-
-
-      
-        pbakaus /
-
-      impeccable</a></p>
-				<p>
-      The design language that makes your AI harness better at design.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Rust</span>
-						<span>⭐ 89535</span>
-						<span>🔱 5326</span>
-					</div>
-				<div class="stars-today">⭐ 1506 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/NVIDIA/SkillSpector" target="_blank">
-    
-
-
-      
-        NVIDIA /
-
-      SkillSpector</a></p>
-				<p>
-      Security scanner for AI agent skills. Detect vulnerabilities, malicious patterns, security risks, prompt injection, data exfiltration, and supply-chain risks in Claude Code, Codex, and MCP skills before you install them.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 22458</span>
-						<span>🔱 1955</span>
-					</div>
-				<div class="stars-today">⭐ 214 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/pollen-robotics/microduck" target="_blank">
-    
-
-
-      
-        pollen-robotics /
-
-      microduck</a></p>
-				<p>
-      A Tiny biped duck robot 🦆
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Rust</span>
-						<span>⭐ 12562</span>
-						<span>🔱 1561</span>
-					</div>
-				<div class="stars-today">⭐ 843 stars today</div>
+				<div class="stars-today">⭐ 2859 stars today</div>
 				</div>
 			</div>
 	
@@ -206,54 +52,76 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 1695</span>
-						<span>🔱 204</span>
+						<span>⭐ 1950</span>
+						<span>🔱 220</span>
 					</div>
-				<div class="stars-today">⭐ 176 stars today</div>
+				<div class="stars-today">⭐ 794 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/Panniantong/Agent-Reach" target="_blank">
+				<p><a href="https://github.com/obra/superpowers" target="_blank">
     
 
 
       
-        Panniantong /
+        obra /
 
-      Agent-Reach</a></p>
+      superpowers</a></p>
 				<p>
-      Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.
+      An agentic skills framework & software development methodology that works.
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 104108</span>
-						<span>🔱 9232</span>
+						<span>🔠 Shell</span>
+						<span>⭐ 305972</span>
+						<span>🔱 27249</span>
 					</div>
-				<div class="stars-today">⭐ 746 stars today</div>
+				<div class="stars-today">⭐ 608 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/debpalash/VoiceStudio" target="_blank">
+				<p><a href="https://github.com/pbakaus/impeccable" target="_blank">
     
 
 
       
-        debpalash /
+        pbakaus /
 
-      VoiceStudio</a></p>
+      impeccable</a></p>
 				<p>
-      VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.
+      The design language that makes your AI harness better at design.
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 89888</span>
-						<span>🔱 9904</span>
+						<span>🔠 Rust</span>
+						<span>⭐ 89962</span>
+						<span>🔱 5348</span>
 					</div>
-				<div class="stars-today">⭐ 2297 stars today</div>
+				<div class="stars-today">⭐ 1458 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/makecindy/cindy" target="_blank">
+    
+
+
+      
+        makecindy /
+
+      cindy</a></p>
+				<p>
+      Consider it done. The open-source AI agent that works out of the box · 想到，就能做到。开源、开箱即用的 AI Agent。
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 7180</span>
+						<span>🔱 859</span>
+					</div>
+				<div class="stars-today">⭐ 1446 stars today</div>
 				</div>
 			</div>
 	
@@ -272,54 +140,98 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 38677</span>
-						<span>🔱 7465</span>
+						<span>⭐ 38946</span>
+						<span>🔱 7475</span>
 					</div>
-				<div class="stars-today">⭐ 188 stars today</div>
+				<div class="stars-today">⭐ 953 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/alchaincyf/huashu-design" target="_blank">
+				<p><a href="https://github.com/affaan-m/ECC" target="_blank">
     
 
 
       
-        alchaincyf /
+        affaan-m /
 
-      huashu-design</a></p>
+      ECC</a></p>
 				<p>
-      Huashu Design 3.0 · 在 agent 里打一句话，拿回能交付的设计：网页 / App 原型 / 可编辑 PPTX / 动画 / 信息图 · 六个候选挑三个方向 · 84 种带样张的风格库 · 越用越懂你的外观账本与设计体检 · HTML-native design skill for Claude Code, Codex, Cursor & any agent
+      The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 HTML</span>
-						<span>⭐ 27276</span>
-						<span>🔱 2986</span>
+						<span>🔠 JavaScript</span>
+						<span>⭐ 290428</span>
+						<span>🔱 43023</span>
 					</div>
-				<div class="stars-today">⭐ 251 stars today</div>
+				<div class="stars-today">⭐ 1183 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/multica-ai/andrej-karpathy-skills" target="_blank">
+				<p><a href="https://github.com/HKUDS/DeepTutor" target="_blank">
     
 
 
       
-        multica-ai /
+        HKUDS /
 
-      andrej-karpathy-skills</a></p>
+      DeepTutor</a></p>
 				<p>
-      A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.
+      DeepTutor: Lifelong Personalized Tutoring. https://deeptutor.info/.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 45031</span>
+						<span>🔱 5681</span>
+					</div>
+				<div class="stars-today">⭐ 1587 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/JetBrains/thinkrail" target="_blank">
+    
+
+
+      
+        JetBrains /
+
+      thinkrail</a></p>
+				<p>
+      Vibe code with pi in a lightweight, real IDE that customises itself around the way you work — The Vibe You Need
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 3594</span>
+						<span>🔱 189</span>
+					</div>
+				<div class="stars-today">⭐ 1211 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/togg53192-cmd/jailbreaks" target="_blank">
+    
+
+
+      
+        togg53192-cmd /
+
+      jailbreaks</a></p>
+				<p>
+      LIST OF ALL MY JAILBREAKS
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 </span>
-						<span>⭐ 224922</span>
-						<span>🔱 22493</span>
+						<span>⭐ 4973</span>
+						<span>🔱 784</span>
 					</div>
-				<div class="stars-today">⭐ 638 stars today</div>
+				<div class="stars-today">⭐ 890 stars today</div>
 				</div>
 			</div>
 	

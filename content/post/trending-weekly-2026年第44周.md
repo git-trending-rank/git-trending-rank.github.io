@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2026年第44周
-date: 2026-10-27T06:52:13Z
+date: 2026-10-27T13:38:52Z
 categories:
 - weekly
 keywords:
@@ -30,8 +30,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 JavaScript</span>
-						<span>⭐ 48898</span>
-						<span>🔱 3055</span>
+						<span>⭐ 49438</span>
+						<span>🔱 3090</span>
 					</div>
 				<div class="stars-today">⭐ 16593 stars this week</div>
 				</div>
@@ -52,140 +52,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 33287</span>
-						<span>🔱 3662</span>
+						<span>⭐ 33353</span>
+						<span>🔱 3665</span>
 					</div>
 				<div class="stars-today">⭐ 2822 stars this week</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/ruvnet/ruflo" target="_blank">
+				<p><a href="https://github.com/AgriciDaniel/claude-seo" target="_blank">
     
 
 
       
-        ruvnet /
+        AgriciDaniel /
 
-      ruflo</a></p>
+      claude-seo</a></p>
 				<p>
-      🌊 The original agent harness. Deploy intelligent multi-player swarms, coordinate autonomous workflows, and build conversational AI systems. Features adaptive memory, self-learning intelligence, federation, vector RAG integration, and native Claude Code / Codex / Hermes and many more Integrated
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 79614</span>
-						<span>🔱 9350</span>
-					</div>
-				<div class="stars-today">⭐ 2683 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/anomalyco/opencode" target="_blank">
-    
-
-
-      
-        anomalyco /
-
-      opencode</a></p>
-				<p>
-      The open source coding agent.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 222076</span>
-						<span>🔱 29711</span>
-					</div>
-				<div class="stars-today">⭐ 5070 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/stablyai/orca" target="_blank">
-    
-
-
-      
-        stablyai /
-
-      orca</a></p>
-				<p>
-      Orca is the place for working with a fleet of agents (e.g. Grok Bot, Claude Code). Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 107345</span>
-						<span>🔱 6771</span>
-					</div>
-				<div class="stars-today">⭐ 9241 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/Graphify-Labs/graphify" target="_blank">
-    
-
-
-      
-        Graphify-Labs /
-
-      graphify</a></p>
-				<p>
-      Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a queryable knowledge graph. A /graphify skill for Claude Code, Cursor, Codex, and Gemini CLI: local deterministic AST parsing, every edge explained, no vector store.
+      Universal SEO skill for Claude Code. 26 sub-skills + 19 sub-agents covering technical SEO, E-E-A-T, schema, GEO/AEO, agent readiness (Lighthouse Agentic Browsing, WebMCP, llms.txt), backlinks, local SEO, e-commerce, international SEO, Google APIs, and PDF/Excel reporting. 9 optional extensions for live SEO data.
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 136372</span>
-						<span>🔱 13015</span>
+						<span>⭐ 22495</span>
+						<span>🔱 3084</span>
 					</div>
-				<div class="stars-today">⭐ 7183 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/android/skills" target="_blank">
-    
-
-
-      
-        android /
-
-      skills</a></p>
-				<p></p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Kotlin</span>
-						<span>⭐ 9857</span>
-						<span>🔱 637</span>
-					</div>
-				<div class="stars-today">⭐ 823 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/akitaonrails/ai-memory" target="_blank">
-    
-
-
-      
-        akitaonrails /
-
-      ai-memory</a></p>
-				<p>
-      Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Rust</span>
-						<span>⭐ 13879</span>
-						<span>🔱 989</span>
-					</div>
-				<div class="stars-today">⭐ 2838 stars this week</div>
+				<div class="stars-today">⭐ 2546 stars this week</div>
 				</div>
 			</div>
 	
@@ -204,8 +96,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 </span>
-						<span>⭐ 224922</span>
-						<span>🔱 22493</span>
+						<span>⭐ 225225</span>
+						<span>🔱 22511</span>
 					</div>
 				<div class="stars-today">⭐ 3286 stars this week</div>
 				</div>
@@ -226,98 +118,140 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 116566</span>
-						<span>🔱 22337</span>
+						<span>⭐ 117009</span>
+						<span>🔱 22408</span>
 					</div>
 				<div class="stars-today">⭐ 3437 stars this week</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/wshobson/agents" target="_blank">
+				<p><a href="https://github.com/Graphify-Labs/graphify" target="_blank">
     
 
 
       
-        wshobson /
+        Graphify-Labs /
 
-      agents</a></p>
+      graphify</a></p>
 				<p>
-      Multi-harness agentic plugin marketplace for Claude Code, Codex, Cursor, OpenCode, GitHub Copilot, Google Antigravity, and Pi
+      Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a queryable knowledge graph. A /graphify skill for Claude Code, Cursor, Codex, and Gemini CLI: local deterministic AST parsing, every edge explained, no vector store.
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 41841</span>
-						<span>🔱 4435</span>
+						<span>⭐ 136640</span>
+						<span>🔱 13042</span>
 					</div>
-				<div class="stars-today">⭐ 689 stars this week</div>
+				<div class="stars-today">⭐ 7183 stars this week</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/heygen-com/hyperframes" target="_blank">
+				<p><a href="https://github.com/ruvnet/ruflo" target="_blank">
     
 
 
       
-        heygen-com /
+        ruvnet /
 
-      hyperframes</a></p>
+      ruflo</a></p>
 				<p>
-      Write HTML. Render video. Built for agents.
+      🌊 The original agent harness. Deploy intelligent multi-player swarms, coordinate autonomous workflows, and build conversational AI systems. Features adaptive memory, self-learning intelligence, federation, vector RAG integration, and native Claude Code / Codex / Hermes and many more Integrated
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 73333</span>
-						<span>🔱 6641</span>
+						<span>⭐ 79681</span>
+						<span>🔱 9355</span>
 					</div>
-				<div class="stars-today">⭐ 5540 stars this week</div>
+				<div class="stars-today">⭐ 2683 stars this week</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/AgriciDaniel/claude-seo" target="_blank">
+				<p><a href="https://github.com/anomalyco/opencode" target="_blank">
     
 
 
       
-        AgriciDaniel /
+        anomalyco /
 
-      claude-seo</a></p>
+      opencode</a></p>
 				<p>
-      Universal SEO skill for Claude Code. 26 sub-skills + 19 sub-agents covering technical SEO, E-E-A-T, schema, GEO/AEO, agent readiness (Lighthouse Agentic Browsing, WebMCP, llms.txt), backlinks, local SEO, e-commerce, international SEO, Google APIs, and PDF/Excel reporting. 9 optional extensions for live SEO data.
+      The open source coding agent.
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 22315</span>
-						<span>🔱 3060</span>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 222207</span>
+						<span>🔱 29734</span>
 					</div>
-				<div class="stars-today">⭐ 2546 stars this week</div>
+				<div class="stars-today">⭐ 5070 stars this week</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/Comfy-Org/ComfyUI" target="_blank">
+				<p><a href="https://github.com/stablyai/orca" target="_blank">
     
 
 
       
-        Comfy-Org /
+        stablyai /
 
-      ComfyUI</a></p>
+      orca</a></p>
 				<p>
-      The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface. The fastest local inference engine in the world.
+      Orca is the place for working with a fleet of agents (e.g. Grok Bot, Claude Code). Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime.
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 143375</span>
-						<span>🔱 16934</span>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 107683</span>
+						<span>🔱 6792</span>
 					</div>
-				<div class="stars-today">⭐ 4109 stars this week</div>
+				<div class="stars-today">⭐ 9241 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/android/skills" target="_blank">
+    
+
+
+      
+        android /
+
+      skills</a></p>
+				<p></p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Kotlin</span>
+						<span>⭐ 9882</span>
+						<span>🔱 639</span>
+					</div>
+				<div class="stars-today">⭐ 823 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/akitaonrails/ai-memory" target="_blank">
+    
+
+
+      
+        akitaonrails /
+
+      ai-memory</a></p>
+				<p>
+      Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Rust</span>
+						<span>⭐ 13962</span>
+						<span>🔱 994</span>
+					</div>
+				<div class="stars-today">⭐ 2838 stars this week</div>
 				</div>
 			</div>
 	
@@ -334,10 +268,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 30571</span>
-						<span>🔱 8174</span>
+						<span>⭐ 30680</span>
+						<span>🔱 8208</span>
 					</div>
 				<div class="stars-today">⭐ 1881 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/fastapi/fastapi" target="_blank">
+    
+
+
+      
+        fastapi /
+
+      fastapi</a></p>
+				<p>
+      FastAPI framework, high performance, easy to learn, fast to code, ready for production
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 104260</span>
+						<span>🔱 10135</span>
+					</div>
+				<div class="stars-today">⭐ 1066 stars this week</div>
 				</div>
 			</div>
 	

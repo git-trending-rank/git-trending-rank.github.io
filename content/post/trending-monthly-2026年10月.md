@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2026年10月
-date: 2026-10-27T06:52:13Z
+date: 2026-10-27T13:38:52Z
 categories:
 - monthly
 keywords:
@@ -30,8 +30,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 73333</span>
-						<span>🔱 6641</span>
+						<span>⭐ 73597</span>
+						<span>🔱 6672</span>
 					</div>
 				<div class="stars-today">⭐ 19856 stars this month</div>
 				</div>
@@ -52,8 +52,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 JavaScript</span>
-						<span>⭐ 48898</span>
-						<span>🔱 3055</span>
+						<span>⭐ 49438</span>
+						<span>🔱 3090</span>
 					</div>
 				<div class="stars-today">⭐ 26289 stars this month</div>
 				</div>
@@ -74,8 +74,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 89888</span>
-						<span>🔱 9904</span>
+						<span>⭐ 90604</span>
+						<span>🔱 9983</span>
 					</div>
 				<div class="stars-today">⭐ 53014 stars this month</div>
 				</div>
@@ -96,10 +96,54 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 33287</span>
-						<span>🔱 3662</span>
+						<span>⭐ 33353</span>
+						<span>🔱 3665</span>
 					</div>
 				<div class="stars-today">⭐ 7617 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/pbakaus/impeccable" target="_blank">
+    
+
+
+      
+        pbakaus /
+
+      impeccable</a></p>
+				<p>
+      The design language that makes your AI harness better at design.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Rust</span>
+						<span>⭐ 89962</span>
+						<span>🔱 5348</span>
+					</div>
+				<div class="stars-today">⭐ 17522 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/earthtojake/text-to-cad" target="_blank">
+    
+
+
+      
+        earthtojake /
+
+      text-to-cad</a></p>
+				<p>
+      Give your agent CAD superpowers.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 23466</span>
+						<span>🔱 2277</span>
+					</div>
+				<div class="stars-today">⭐ 7011 stars this month</div>
 				</div>
 			</div>
 	
@@ -118,8 +162,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 32467</span>
-						<span>🔱 2248</span>
+						<span>⭐ 32510</span>
+						<span>🔱 2249</span>
 					</div>
 				<div class="stars-today">⭐ 8483 stars this month</div>
 				</div>
@@ -140,32 +184,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 14249</span>
-						<span>🔱 1429</span>
+						<span>⭐ 14288</span>
+						<span>🔱 1434</span>
 					</div>
 				<div class="stars-today">⭐ 5517 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/pbakaus/impeccable" target="_blank">
-    
-
-
-      
-        pbakaus /
-
-      impeccable</a></p>
-				<p>
-      The design language that makes your AI harness better at design.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Rust</span>
-						<span>⭐ 89535</span>
-						<span>🔱 5326</span>
-					</div>
-				<div class="stars-today">⭐ 17522 stars this month</div>
 				</div>
 			</div>
 	
@@ -184,8 +206,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 44799</span>
-						<span>🔱 4677</span>
+						<span>⭐ 44859</span>
+						<span>🔱 4683</span>
 					</div>
 				<div class="stars-today">⭐ 7876 stars this month</div>
 				</div>
@@ -206,54 +228,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Rust</span>
-						<span>⭐ 20133</span>
-						<span>🔱 1986</span>
+						<span>⭐ 20210</span>
+						<span>🔱 1989</span>
 					</div>
 				<div class="stars-today">⭐ 11321 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/earthtojake/text-to-cad" target="_blank">
-    
-
-
-      
-        earthtojake /
-
-      text-to-cad</a></p>
-				<p>
-      Give your agent CAD superpowers.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 23396</span>
-						<span>🔱 2268</span>
-					</div>
-				<div class="stars-today">⭐ 7011 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/paperclipai/paperclip" target="_blank">
-    
-
-
-      
-        paperclipai /
-
-      paperclip</a></p>
-				<p>
-      The open-source app everyone uses to manage agents at work
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 107758</span>
-						<span>🔱 17873</span>
-					</div>
-				<div class="stars-today">⭐ 21863 stars this month</div>
 				</div>
 			</div>
 	
@@ -272,8 +250,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 JavaScript</span>
-						<span>⭐ 290085</span>
-						<span>🔱 42993</span>
+						<span>⭐ 290428</span>
+						<span>🔱 43023</span>
 					</div>
 				<div class="stars-today">⭐ 23245 stars this month</div>
 				</div>
@@ -294,8 +272,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 103511</span>
-						<span>🔱 9135</span>
+						<span>⭐ 103581</span>
+						<span>🔱 9138</span>
 					</div>
 				<div class="stars-today">⭐ 9085 stars this month</div>
 				</div>
@@ -316,32 +294,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Java</span>
-						<span>⭐ 94817</span>
-						<span>🔱 10656</span>
+						<span>⭐ 94928</span>
+						<span>🔱 10664</span>
 					</div>
 				<div class="stars-today">⭐ 15099 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/tashfeenahmed/freellmapi" target="_blank">
-    
-
-
-      
-        tashfeenahmed /
-
-      freellmapi</a></p>
-				<p>
-      7.4 billion tokens per month. 34 free LLM providers. 635 free model endpoints. All behind one /v1 endpoint, plus any custom OpenAI-compatible endpoint. Smart routing, automatic failover, encrypted keys. Personal experimentation only.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 42330</span>
-						<span>🔱 5720</span>
-					</div>
-				<div class="stars-today">⭐ 13270 stars this month</div>
 				</div>
 			</div>
 	
@@ -358,8 +314,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 30571</span>
-						<span>🔱 8174</span>
+						<span>⭐ 30680</span>
+						<span>🔱 8208</span>
 					</div>
 				<div class="stars-today">⭐ 6921 stars this month</div>
 				</div>
@@ -380,10 +336,54 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 JavaScript</span>
-						<span>⭐ 177422</span>
-						<span>🔱 9704</span>
+						<span>⭐ 177753</span>
+						<span>🔱 9726</span>
 					</div>
 				<div class="stars-today">⭐ 31644 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/tashfeenahmed/freellmapi" target="_blank">
+    
+
+
+      
+        tashfeenahmed /
+
+      freellmapi</a></p>
+				<p>
+      7.4 billion tokens per month. 34 free LLM providers. 635 free model endpoints. All behind one /v1 endpoint, plus any custom OpenAI-compatible endpoint. Smart routing, automatic failover, encrypted keys. Personal experimentation only.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 42499</span>
+						<span>🔱 5739</span>
+					</div>
+				<div class="stars-today">⭐ 13270 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/paperclipai/paperclip" target="_blank">
+    
+
+
+      
+        paperclipai /
+
+      paperclip</a></p>
+				<p>
+      The open-source app everyone uses to manage agents at work
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 107854</span>
+						<span>🔱 17883</span>
+					</div>
+				<div class="stars-today">⭐ 21863 stars this month</div>
 				</div>
 			</div>
 	
@@ -402,54 +402,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 104108</span>
-						<span>🔱 9232</span>
+						<span>⭐ 104553</span>
+						<span>🔱 9265</span>
 					</div>
 				<div class="stars-today">⭐ 18035 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/VectifyAI/PageIndex" target="_blank">
-    
-
-
-      
-        VectifyAI /
-
-      PageIndex</a></p>
-				<p>
-      📑 PageIndex: Document Index for Vectorless, Reasoning-based RAG
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 39812</span>
-						<span>🔱 3432</span>
-					</div>
-				<div class="stars-today">⭐ 4054 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/rohitg00/ai-engineering-from-scratch" target="_blank">
-    
-
-
-      
-        rohitg00 /
-
-      ai-engineering-from-scratch</a></p>
-				<p>
-      Learn AI Engineering! Learn it. Build it. Ship it for others.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 74484</span>
-						<span>🔱 13055</span>
-					</div>
-				<div class="stars-today">⭐ 16611 stars this month</div>
 				</div>
 			</div>
 	
@@ -468,10 +424,54 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 114077</span>
+						<span>⭐ 114125</span>
 						<span>🔱 16309</span>
 					</div>
 				<div class="stars-today">⭐ 3505 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/HKUDS/CLI-Anything" target="_blank">
+    
+
+
+      
+        HKUDS /
+
+      CLI-Anything</a></p>
+				<p>
+      "CLI-Anything: Making ALL Software Agent-Native" -- CLI-Hub: https://clianything.cc/
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 57336</span>
+						<span>🔱 5160</span>
+					</div>
+				<div class="stars-today">⭐ 6869 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/flutter/flutter" target="_blank">
+    
+
+
+      
+        flutter /
+
+      flutter</a></p>
+				<p>
+      Flutter makes it easy and fast to build beautiful apps for mobile and beyond
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Dart</span>
+						<span>⭐ 180401</span>
+						<span>🔱 33318</span>
+					</div>
+				<div class="stars-today">⭐ 1863 stars this month</div>
 				</div>
 			</div>
 	
