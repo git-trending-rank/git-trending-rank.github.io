@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2026年10月
-date: 2026-10-28T10:02:52Z
+date: 2026-10-28T17:26:26Z
 categories:
 - monthly
 keywords:
@@ -30,8 +30,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 74280</span>
-						<span>🔱 6747</span>
+						<span>⭐ 74551</span>
+						<span>🔱 6773</span>
 					</div>
 				<div class="stars-today">⭐ 20501 stars this month</div>
 				</div>
@@ -52,32 +52,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 JavaScript</span>
-						<span>⭐ 50773</span>
-						<span>🔱 3198</span>
+						<span>⭐ 51290</span>
+						<span>🔱 3248</span>
 					</div>
 				<div class="stars-today">⭐ 27415 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/debpalash/VoiceStudio" target="_blank">
-    
-
-
-      
-        debpalash /
-
-      VoiceStudio</a></p>
-				<p>
-      VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 92125</span>
-						<span>🔱 10195</span>
-					</div>
-				<div class="stars-today">⭐ 52726 stars this month</div>
 				</div>
 			</div>
 	
@@ -96,32 +74,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 33533</span>
-						<span>🔱 3684</span>
+						<span>⭐ 33592</span>
+						<span>🔱 3694</span>
 					</div>
 				<div class="stars-today">⭐ 7792 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/pbakaus/impeccable" target="_blank">
-    
-
-
-      
-        pbakaus /
-
-      impeccable</a></p>
-				<p>
-      The design vocabulary for your coding agent. Steer with polish and bolder, review with critique and audit, catch AI slop before it ships.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Rust</span>
-						<span>⭐ 91186</span>
-						<span>🔱 5399</span>
-					</div>
-				<div class="stars-today">⭐ 18683 stars this month</div>
 				</div>
 			</div>
 	
@@ -140,32 +96,54 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 23715</span>
-						<span>🔱 2290</span>
+						<span>⭐ 23826</span>
+						<span>🔱 2301</span>
 					</div>
 				<div class="stars-today">⭐ 7192 stars this month</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/mksglu/context-mode" target="_blank">
+				<p><a href="https://github.com/pbakaus/impeccable" target="_blank">
     
 
 
       
-        mksglu /
+        pbakaus /
 
-      context-mode</a></p>
+      impeccable</a></p>
 				<p>
-      Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks.
+      The design vocabulary for your coding agent. Steer with polish and bolder, review with critique and audit, catch AI slop before it ships.
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 32614</span>
-						<span>🔱 2254</span>
+						<span>🔠 Rust</span>
+						<span>⭐ 92139</span>
+						<span>🔱 5445</span>
 					</div>
-				<div class="stars-today">⭐ 8586 stars this month</div>
+				<div class="stars-today">⭐ 18683 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/debpalash/VoiceStudio" target="_blank">
+    
+
+
+      
+        debpalash /
+
+      VoiceStudio</a></p>
+				<p>
+      VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 92664</span>
+						<span>🔱 10244</span>
+					</div>
+				<div class="stars-today">⭐ 52726 stars this month</div>
 				</div>
 			</div>
 	
@@ -184,8 +162,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 14409</span>
-						<span>🔱 1448</span>
+						<span>⭐ 14451</span>
+						<span>🔱 1454</span>
 					</div>
 				<div class="stars-today">⭐ 5597 stars this month</div>
 				</div>
@@ -206,54 +184,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 45022</span>
-						<span>🔱 4698</span>
+						<span>⭐ 45081</span>
+						<span>🔱 4700</span>
 					</div>
 				<div class="stars-today">⭐ 8017 stars this month</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/NVIDIA/OpenShell" target="_blank">
+				<p><a href="https://github.com/mksglu/context-mode" target="_blank">
     
 
 
       
-        NVIDIA /
+        mksglu /
 
-      OpenShell</a></p>
+      context-mode</a></p>
 				<p>
-      OpenShell is the safe, private runtime for autonomous AI agents.
+      Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks.
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Rust</span>
-						<span>⭐ 20401</span>
-						<span>🔱 2005</span>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 32667</span>
+						<span>🔱 2258</span>
 					</div>
-				<div class="stars-today">⭐ 11510 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/affaan-m/ECC" target="_blank">
-    
-
-
-      
-        affaan-m /
-
-      ECC</a></p>
-				<p>
-      The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 JavaScript</span>
-						<span>⭐ 291258</span>
-						<span>🔱 43118</span>
-					</div>
-				<div class="stars-today">⭐ 23998 stars this month</div>
+				<div class="stars-today">⭐ 8586 stars this month</div>
 				</div>
 			</div>
 	
@@ -272,10 +228,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 103841</span>
-						<span>🔱 9166</span>
+						<span>⭐ 103959</span>
+						<span>🔱 9175</span>
 					</div>
 				<div class="stars-today">⭐ 9345 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/affaan-m/ECC" target="_blank">
+    
+
+
+      
+        affaan-m /
+
+      ECC</a></p>
+				<p>
+      The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 JavaScript</span>
+						<span>⭐ 291540</span>
+						<span>🔱 43158</span>
+					</div>
+				<div class="stars-today">⭐ 23998 stars this month</div>
 				</div>
 			</div>
 	
@@ -294,8 +272,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Java</span>
-						<span>⭐ 95190</span>
-						<span>🔱 10705</span>
+						<span>⭐ 95385</span>
+						<span>🔱 10731</span>
 					</div>
 				<div class="stars-today">⭐ 15456 stars this month</div>
 				</div>
@@ -314,10 +292,54 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 30953</span>
-						<span>🔱 8286</span>
+						<span>⭐ 31078</span>
+						<span>🔱 8325</span>
 					</div>
 				<div class="stars-today">⭐ 7188 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/NVIDIA/OpenShell" target="_blank">
+    
+
+
+      
+        NVIDIA /
+
+      OpenShell</a></p>
+				<p>
+      OpenShell is the safe, private runtime for autonomous AI agents.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Rust</span>
+						<span>⭐ 20496</span>
+						<span>🔱 2013</span>
+					</div>
+				<div class="stars-today">⭐ 11510 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/Panniantong/Agent-Reach" target="_blank">
+    
+
+
+      
+        Panniantong /
+
+      Agent-Reach</a></p>
+				<p>
+      Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 105465</span>
+						<span>🔱 9351</span>
+					</div>
+				<div class="stars-today">⭐ 19461 stars this month</div>
 				</div>
 			</div>
 	
@@ -336,8 +358,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 JavaScript</span>
-						<span>⭐ 178545</span>
-						<span>🔱 9775</span>
+						<span>⭐ 178931</span>
+						<span>🔱 9800</span>
 					</div>
 				<div class="stars-today">⭐ 32214 stars this month</div>
 				</div>
@@ -358,120 +380,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 42946</span>
-						<span>🔱 5793</span>
+						<span>⭐ 43173</span>
+						<span>🔱 5837</span>
 					</div>
 				<div class="stars-today">⭐ 13636 stars this month</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/paperclipai/paperclip" target="_blank">
+				<p><a href="https://github.com/Nutlope/hallmark" target="_blank">
     
 
 
       
-        paperclipai /
+        Nutlope /
 
-      paperclip</a></p>
+      hallmark</a></p>
 				<p>
-      The open-source app everyone uses to manage agents at work
+      Anti-AI-slop design skill for Claude Code, Cursor, and Codex.
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 108132</span>
-						<span>🔱 17922</span>
+						<span>🔠 CSS</span>
+						<span>⭐ 40362</span>
+						<span>🔱 2099</span>
 					</div>
-				<div class="stars-today">⭐ 19922 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/Panniantong/Agent-Reach" target="_blank">
-    
-
-
-      
-        Panniantong /
-
-      Agent-Reach</a></p>
-				<p>
-      Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 105228</span>
-						<span>🔱 9324</span>
-					</div>
-				<div class="stars-today">⭐ 19461 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/supabase/supabase" target="_blank">
-    
-
-
-      
-        supabase /
-
-      supabase</a></p>
-				<p>
-      The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 114234</span>
-						<span>🔱 16321</span>
-					</div>
-				<div class="stars-today">⭐ 3634 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/HKUDS/CLI-Anything" target="_blank">
-    
-
-
-      
-        HKUDS /
-
-      CLI-Anything</a></p>
-				<p>
-      "CLI-Anything: Making ALL Software Agent-Native" -- CLI-Hub: https://clianything.cc/
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 57524</span>
-						<span>🔱 5178</span>
-					</div>
-				<div class="stars-today">⭐ 6879 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/flutter/flutter" target="_blank">
-    
-
-
-      
-        flutter /
-
-      flutter</a></p>
-				<p>
-      Flutter makes it easy and fast to build beautiful apps for mobile and beyond
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Dart</span>
-						<span>⭐ 180507</span>
-						<span>🔱 33333</span>
-					</div>
-				<div class="stars-today">⭐ 1855 stars this month</div>
+				<div class="stars-today">⭐ 9965 stars this month</div>
 				</div>
 			</div>
 	

@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2026年第44周
-date: 2026-10-28T10:02:52Z
+date: 2026-10-28T17:26:26Z
 categories:
 - weekly
 keywords:
@@ -30,32 +30,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 JavaScript</span>
-						<span>⭐ 50773</span>
-						<span>🔱 3198</span>
+						<span>⭐ 51290</span>
+						<span>🔱 3248</span>
 					</div>
 				<div class="stars-today">⭐ 16388 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/anthropics/knowledge-work-plugins" target="_blank">
-    
-
-
-      
-        anthropics /
-
-      knowledge-work-plugins</a></p>
-				<p>
-      Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 33533</span>
-						<span>🔱 3684</span>
-					</div>
-				<div class="stars-today">⭐ 2789 stars this week</div>
 				</div>
 			</div>
 	
@@ -74,8 +52,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 22956</span>
-						<span>🔱 3120</span>
+						<span>⭐ 23195</span>
+						<span>🔱 3141</span>
 					</div>
 				<div class="stars-today">⭐ 3081 stars this week</div>
 				</div>
@@ -96,10 +74,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 </span>
-						<span>⭐ 225700</span>
-						<span>🔱 22548</span>
+						<span>⭐ 225859</span>
+						<span>🔱 22562</span>
 					</div>
 				<div class="stars-today">⭐ 4039 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/anthropics/knowledge-work-plugins" target="_blank">
+    
+
+
+      
+        anthropics /
+
+      knowledge-work-plugins</a></p>
+				<p>
+      Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 33592</span>
+						<span>🔱 3694</span>
+					</div>
+				<div class="stars-today">⭐ 2789 stars this week</div>
 				</div>
 			</div>
 	
@@ -118,10 +118,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 117583</span>
-						<span>🔱 22507</span>
+						<span>⭐ 117755</span>
+						<span>🔱 22536</span>
 					</div>
 				<div class="stars-today">⭐ 4882 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/pbakaus/impeccable" target="_blank">
+    
+
+
+      
+        pbakaus /
+
+      impeccable</a></p>
+				<p>
+      The design vocabulary for your coding agent. Steer with polish and bolder, review with critique and audit, catch AI slop before it ships.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Rust</span>
+						<span>⭐ 92139</span>
+						<span>🔱 5445</span>
+					</div>
+				<div class="stars-today">⭐ 6713 stars this week</div>
 				</div>
 			</div>
 	
@@ -140,8 +162,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 137287</span>
-						<span>🔱 13101</span>
+						<span>⭐ 137592</span>
+						<span>🔱 13119</span>
 					</div>
 				<div class="stars-today">⭐ 7268 stars this week</div>
 				</div>
@@ -162,8 +184,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 79866</span>
-						<span>🔱 9369</span>
+						<span>⭐ 79929</span>
+						<span>🔱 9376</span>
 					</div>
 				<div class="stars-today">⭐ 2296 stars this week</div>
 				</div>
@@ -184,116 +206,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 222537</span>
-						<span>🔱 29790</span>
+						<span>⭐ 222667</span>
+						<span>🔱 29813</span>
 					</div>
 				<div class="stars-today">⭐ 4334 stars this week</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/stablyai/orca" target="_blank">
+				<p><a href="https://github.com/jakubkrehel/skills" target="_blank">
     
 
 
       
-        stablyai /
-
-      orca</a></p>
-				<p>
-      Orca is the place for working with a fleet of agents (e.g. Grok Bot, Claude Code). Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 108489</span>
-						<span>🔱 6852</span>
-					</div>
-				<div class="stars-today">⭐ 8802 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/android/skills" target="_blank">
-    
-
-
-      
-        android /
+        jakubkrehel /
 
       skills</a></p>
-				<p></p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Kotlin</span>
-						<span>⭐ 9953</span>
-						<span>🔱 643</span>
-					</div>
-				<div class="stars-today">⭐ 873 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/akitaonrails/ai-memory" target="_blank">
-    
-
-
-      
-        akitaonrails /
-
-      ai-memory</a></p>
 				<p>
-      Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors
+      A collection of agent skills that help you build great interfaces.
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Rust</span>
-						<span>⭐ 14192</span>
-						<span>🔱 1010</span>
+						<span>🔠 Markdown</span>
+						<span>⭐ 8917</span>
+						<span>🔱 340</span>
 					</div>
-				<div class="stars-today">⭐ 2239 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/pingdotgg/t3code" target="_blank">
-    
-
-
-      
-        pingdotgg /
-
-      t3code</a></p>
-				<p></p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 30953</span>
-						<span>🔱 8286</span>
-					</div>
-				<div class="stars-today">⭐ 1988 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/fastapi/fastapi" target="_blank">
-    
-
-
-      
-        fastapi /
-
-      fastapi</a></p>
-				<p>
-      FastAPI framework, high performance, easy to learn, fast to code, ready for production
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 104229</span>
-						<span>🔱 10135</span>
-					</div>
-				<div class="stars-today">⭐ 1089 stars this week</div>
+				<div class="stars-today">⭐ 746 stars this week</div>
 				</div>
 			</div>
 	
