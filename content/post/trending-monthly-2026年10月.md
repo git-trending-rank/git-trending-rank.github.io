@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2026年10月
-date: 2026-10-29T07:41:31Z
+date: 2026-10-29T14:41:13Z
 categories:
 - monthly
 keywords:
@@ -14,28 +14,6 @@ keywords:
 	<main class="container">
         <div class="repo-list" id="repoList">
 
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/heygen-com/hyperframes" target="_blank">
-    
-
-
-      
-        heygen-com /
-
-      hyperframes</a></p>
-				<p>
-      Write HTML. Render video. Built for agents.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 74968</span>
-						<span>🔱 6813</span>
-					</div>
-				<div class="stars-today">⭐ 21015 stars this month</div>
-				</div>
-			</div>
 	
 			<div class="repo-card">
 				<p><a href="https://github.com/cloudflare/security-audit-skill" target="_blank">
@@ -52,10 +30,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 JavaScript</span>
-						<span>⭐ 52013</span>
-						<span>🔱 3325</span>
+						<span>⭐ 52407</span>
+						<span>🔱 3352</span>
 					</div>
 				<div class="stars-today">⭐ 28617 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/heygen-com/hyperframes" target="_blank">
+    
+
+
+      
+        heygen-com /
+
+      hyperframes</a></p>
+				<p>
+      Write HTML. Render video. Built for agents.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 75236</span>
+						<span>🔱 6842</span>
+					</div>
+				<div class="stars-today">⭐ 21015 stars this month</div>
 				</div>
 			</div>
 	
@@ -74,8 +74,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 33718</span>
-						<span>🔱 3710</span>
+						<span>⭐ 33780</span>
+						<span>🔱 3714</span>
 					</div>
 				<div class="stars-today">⭐ 7899 stars this month</div>
 				</div>
@@ -96,8 +96,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 23971</span>
-						<span>🔱 2310</span>
+						<span>⭐ 24063</span>
+						<span>🔱 2314</span>
 					</div>
 				<div class="stars-today">⭐ 7453 stars this month</div>
 				</div>
@@ -118,8 +118,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Rust</span>
-						<span>⭐ 93584</span>
-						<span>🔱 5526</span>
+						<span>⭐ 94530</span>
+						<span>🔱 5584</span>
 					</div>
 				<div class="stars-today">⭐ 19821 stars this month</div>
 				</div>
@@ -140,32 +140,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 93390</span>
-						<span>🔱 10330</span>
+						<span>⭐ 93834</span>
+						<span>🔱 10377</span>
 					</div>
 				<div class="stars-today">⭐ 51430 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/cursor/plugins" target="_blank">
-    
-
-
-      
-        cursor /
-
-      plugins</a></p>
-				<p>
-      Cursor plugin specification and official plugins
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 14516</span>
-						<span>🔱 1472</span>
-					</div>
-				<div class="stars-today">⭐ 5652 stars this month</div>
 				</div>
 			</div>
 	
@@ -184,8 +162,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 45180</span>
-						<span>🔱 4716</span>
+						<span>⭐ 45224</span>
+						<span>🔱 4719</span>
 					</div>
 				<div class="stars-today">⭐ 8154 stars this month</div>
 				</div>
@@ -206,10 +184,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 32756</span>
-						<span>🔱 2264</span>
+						<span>⭐ 32802</span>
+						<span>🔱 2266</span>
 					</div>
 				<div class="stars-today">⭐ 8679 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/cursor/plugins" target="_blank">
+    
+
+
+      
+        cursor /
+
+      plugins</a></p>
+				<p>
+      Cursor plugin specification and official plugins
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 14548</span>
+						<span>🔱 1481</span>
+					</div>
+				<div class="stars-today">⭐ 5652 stars this month</div>
 				</div>
 			</div>
 	
@@ -228,32 +228,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 104124</span>
-						<span>🔱 9188</span>
+						<span>⭐ 104324</span>
+						<span>🔱 9207</span>
 					</div>
 				<div class="stars-today">⭐ 9592 stars this month</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/affaan-m/ECC" target="_blank">
+				<p><a href="https://github.com/Nutlope/hallmark" target="_blank">
     
 
 
       
-        affaan-m /
+        Nutlope /
 
-      ECC</a></p>
+      hallmark</a></p>
 				<p>
-      The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.
+      Anti-AI-slop design skill for Claude Code, Cursor, and Codex.
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 JavaScript</span>
-						<span>⭐ 292028</span>
-						<span>🔱 43235</span>
+						<span>🔠 CSS</span>
+						<span>⭐ 41657</span>
+						<span>🔱 2161</span>
 					</div>
-				<div class="stars-today">⭐ 24428 stars this month</div>
+				<div class="stars-today">⭐ 10841 stars this month</div>
 				</div>
 			</div>
 	
@@ -272,8 +272,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Java</span>
-						<span>⭐ 95624</span>
-						<span>🔱 10778</span>
+						<span>⭐ 95742</span>
+						<span>🔱 10792</span>
 					</div>
 				<div class="stars-today">⭐ 15700 stars this month</div>
 				</div>
@@ -292,32 +292,54 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 31254</span>
-						<span>🔱 8360</span>
+						<span>⭐ 31403</span>
+						<span>🔱 8394</span>
 					</div>
 				<div class="stars-today">⭐ 7410 stars this month</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/NVIDIA/OpenShell" target="_blank">
+				<p><a href="https://github.com/flutter/flutter" target="_blank">
     
 
 
       
-        NVIDIA /
+        flutter /
 
-      OpenShell</a></p>
+      flutter</a></p>
 				<p>
-      OpenShell is the safe, private runtime for autonomous AI agents.
+      Flutter makes it easy and fast to build beautiful apps for mobile and beyond
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Rust</span>
-						<span>⭐ 20626</span>
-						<span>🔱 2022</span>
+						<span>🔠 Dart</span>
+						<span>⭐ 180548</span>
+						<span>🔱 33357</span>
 					</div>
-				<div class="stars-today">⭐ 11650 stars this month</div>
+				<div class="stars-today">⭐ 1977 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/affaan-m/ECC" target="_blank">
+    
+
+
+      
+        affaan-m /
+
+      ECC</a></p>
+				<p>
+      The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 JavaScript</span>
+						<span>⭐ 292347</span>
+						<span>🔱 43268</span>
+					</div>
+				<div class="stars-today">⭐ 24428 stars this month</div>
 				</div>
 			</div>
 	
@@ -336,8 +358,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 JavaScript</span>
-						<span>⭐ 104840</span>
-						<span>🔱 7090</span>
+						<span>⭐ 105188</span>
+						<span>🔱 7113</span>
 					</div>
 				<div class="stars-today">⭐ 13933 stars this month</div>
 				</div>
@@ -358,8 +380,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 105842</span>
-						<span>🔱 9385</span>
+						<span>⭐ 106071</span>
+						<span>🔱 9409</span>
 					</div>
 				<div class="stars-today">⭐ 20047 stars this month</div>
 				</div>
@@ -380,8 +402,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 JavaScript</span>
-						<span>⭐ 179456</span>
-						<span>🔱 9835</span>
+						<span>⭐ 179794</span>
+						<span>🔱 9859</span>
 					</div>
 				<div class="stars-today">⭐ 32691 stars this month</div>
 				</div>
@@ -402,32 +424,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 43547</span>
-						<span>🔱 5896</span>
+						<span>⭐ 43742</span>
+						<span>🔱 5924</span>
 					</div>
 				<div class="stars-today">⭐ 13983 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/Nutlope/hallmark" target="_blank">
-    
-
-
-      
-        Nutlope /
-
-      hallmark</a></p>
-				<p>
-      Anti-AI-slop design skill for Claude Code, Cursor, and Codex.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 CSS</span>
-						<span>⭐ 41140</span>
-						<span>🔱 2136</span>
-					</div>
-				<div class="stars-today">⭐ 10841 stars this month</div>
 				</div>
 			</div>
 	

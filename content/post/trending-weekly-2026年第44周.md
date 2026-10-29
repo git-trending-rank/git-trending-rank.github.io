@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2026年第44周
-date: 2026-10-29T07:41:31Z
+date: 2026-10-29T14:41:13Z
 categories:
 - weekly
 keywords:
@@ -30,10 +30,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 JavaScript</span>
-						<span>⭐ 52013</span>
-						<span>🔱 3325</span>
+						<span>⭐ 52407</span>
+						<span>🔱 3352</span>
 					</div>
 				<div class="stars-today">⭐ 16002 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/php/php-src" target="_blank">
+    
+
+
+      
+        php /
+
+      php-src</a></p>
+				<p>
+      The PHP Interpreter
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 C</span>
+						<span>⭐ 41709</span>
+						<span>🔱 8482</span>
+					</div>
+				<div class="stars-today">⭐ 1201 stars this week</div>
 				</div>
 			</div>
 	
@@ -52,76 +74,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 23563</span>
-						<span>🔱 3171</span>
+						<span>⭐ 23783</span>
+						<span>🔱 3197</span>
 					</div>
 				<div class="stars-today">⭐ 3516 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/multica-ai/andrej-karpathy-skills" target="_blank">
-    
-
-
-      
-        multica-ai /
-
-      andrej-karpathy-skills</a></p>
-				<p>
-      A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 </span>
-						<span>⭐ 226105</span>
-						<span>🔱 22584</span>
-					</div>
-				<div class="stars-today">⭐ 4293 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/anthropics/knowledge-work-plugins" target="_blank">
-    
-
-
-      
-        anthropics /
-
-      knowledge-work-plugins</a></p>
-				<p>
-      Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 33718</span>
-						<span>🔱 3710</span>
-					</div>
-				<div class="stars-today">⭐ 2612 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/TauricResearch/TradingAgents" target="_blank">
-    
-
-
-      
-        TauricResearch /
-
-      TradingAgents</a></p>
-				<p>
-      TradingAgents: Multi-Agents LLM Financial Trading Framework
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 118032</span>
-						<span>🔱 22574</span>
-					</div>
-				<div class="stars-today">⭐ 5322 stars this week</div>
 				</div>
 			</div>
 	
@@ -140,32 +96,98 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Rust</span>
-						<span>⭐ 93584</span>
-						<span>🔱 5526</span>
+						<span>⭐ 94530</span>
+						<span>🔱 5584</span>
 					</div>
 				<div class="stars-today">⭐ 7283 stars this week</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/Graphify-Labs/graphify" target="_blank">
+				<p><a href="https://github.com/multica-ai/andrej-karpathy-skills" target="_blank">
     
 
 
       
-        Graphify-Labs /
+        multica-ai /
 
-      graphify</a></p>
+      andrej-karpathy-skills</a></p>
 				<p>
-      Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a queryable knowledge graph. A /graphify skill for Claude Code, Cursor, Codex, and Gemini CLI: local deterministic AST parsing, every edge explained, no vector store.
+      A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 </span>
+						<span>⭐ 226259</span>
+						<span>🔱 22598</span>
+					</div>
+				<div class="stars-today">⭐ 4293 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/TauricResearch/TradingAgents" target="_blank">
+    
+
+
+      
+        TauricResearch /
+
+      TradingAgents</a></p>
+				<p>
+      TradingAgents: Multi-Agents LLM Financial Trading Framework
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 138093</span>
-						<span>🔱 13167</span>
+						<span>⭐ 118164</span>
+						<span>🔱 22600</span>
 					</div>
-				<div class="stars-today">⭐ 6662 stars this week</div>
+				<div class="stars-today">⭐ 5322 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/obra/superpowers" target="_blank">
+    
+
+
+      
+        obra /
+
+      superpowers</a></p>
+				<p>
+      An agentic skills framework & software development methodology that works.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Shell</span>
+						<span>⭐ 308073</span>
+						<span>🔱 27399</span>
+					</div>
+				<div class="stars-today">⭐ 4655 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/anthropics/knowledge-work-plugins" target="_blank">
+    
+
+
+      
+        anthropics /
+
+      knowledge-work-plugins</a></p>
+				<p>
+      Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 33780</span>
+						<span>🔱 3714</span>
+					</div>
+				<div class="stars-today">⭐ 2612 stars this week</div>
 				</div>
 			</div>
 	
@@ -184,54 +206,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 JavaScript</span>
-						<span>⭐ 104840</span>
-						<span>🔱 7090</span>
+						<span>⭐ 105188</span>
+						<span>🔱 7113</span>
 					</div>
 				<div class="stars-today">⭐ 3940 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/ruvnet/ruflo" target="_blank">
-    
-
-
-      
-        ruvnet /
-
-      ruflo</a></p>
-				<p>
-      🌊 The original agent harness. Deploy intelligent multi-player swarms, coordinate autonomous workflows, and build conversational AI systems. Features adaptive memory, self-learning intelligence, federation, vector RAG integration, and native Claude Code / Codex / Hermes and many more Integrated
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 80030</span>
-						<span>🔱 9387</span>
-					</div>
-				<div class="stars-today">⭐ 1930 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/anomalyco/opencode" target="_blank">
-    
-
-
-      
-        anomalyco /
-
-      opencode</a></p>
-				<p>
-      The open source coding agent.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 222852</span>
-						<span>🔱 29864</span>
-					</div>
-				<div class="stars-today">⭐ 3498 stars this week</div>
 				</div>
 			</div>
 	
@@ -250,10 +228,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Markdown</span>
-						<span>⭐ 9061</span>
-						<span>🔱 344</span>
+						<span>⭐ 9116</span>
+						<span>🔱 347</span>
 					</div>
 				<div class="stars-today">⭐ 776 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/ruvnet/ruflo" target="_blank">
+    
+
+
+      
+        ruvnet /
+
+      ruflo</a></p>
+				<p>
+      🌊 The original agent harness. Deploy intelligent multi-player swarms, coordinate autonomous workflows, and build conversational AI systems. Features adaptive memory, self-learning intelligence, federation, vector RAG integration, and native Claude Code / Codex / Hermes and many more Integrated
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 80078</span>
+						<span>🔱 9395</span>
+					</div>
+				<div class="stars-today">⭐ 1930 stars this week</div>
 				</div>
 			</div>
 	

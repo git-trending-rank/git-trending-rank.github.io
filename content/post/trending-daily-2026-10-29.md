@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2026-10-29
-date: 2026-10-29T07:41:31Z
+date: 2026-10-29T14:41:12Z
 categories:
 - daily
 keywords:
@@ -16,44 +16,24 @@ keywords:
 
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/JetBrains/thinkrail" target="_blank">
+				<p><a href="https://github.com/HKUDS/DeepTutor" target="_blank">
     
 
 
       
-        JetBrains /
+        HKUDS /
 
-      thinkrail</a></p>
+      DeepTutor</a></p>
 				<p>
-      Vibe code with pi in a lightweight, real IDE that customises itself around the way you work — The Vibe You Need
+      DeepTutor: Lifelong Personalized Tutoring. https://deeptutor.info/.
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 5453</span>
-						<span>🔱 273</span>
+						<span>🔠 Python</span>
+						<span>⭐ 49313</span>
+						<span>🔱 6081</span>
 					</div>
-				<div class="stars-today">⭐ 1068 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/elayadesign/ai-design-skills" target="_blank">
-    
-
-
-      
-        elayadesign /
-
-      ai-design-skills</a></p>
-				<p></p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 </span>
-						<span>⭐ 11476</span>
-						<span>🔱 826</span>
-					</div>
-				<div class="stars-today">⭐ 2139 stars today</div>
+				<div class="stars-today">⭐ 1926 stars today</div>
 				</div>
 			</div>
 	
@@ -72,76 +52,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Shell</span>
-						<span>⭐ 307710</span>
-						<span>🔱 27371</span>
+						<span>⭐ 308073</span>
+						<span>🔱 27399</span>
 					</div>
-				<div class="stars-today">⭐ 1095 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/HKUDS/DeepTutor" target="_blank">
-    
-
-
-      
-        HKUDS /
-
-      DeepTutor</a></p>
-				<p>
-      DeepTutor: Lifelong Personalized Tutoring. https://deeptutor.info/.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 48665</span>
-						<span>🔱 6025</span>
-					</div>
-				<div class="stars-today">⭐ 2371 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/macro-inc/macro" target="_blank">
-    
-
-
-      
-        macro-inc /
-
-      macro</a></p>
-				<p>
-      Macro is a unified workspace for teams: email, chat, docs, tasks, agents, calls, and CRM — @-linked together with shared AI memory.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Rust</span>
-						<span>⭐ 5573</span>
-						<span>🔱 527</span>
-					</div>
-				<div class="stars-today">⭐ 117 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/Nutlope/hallmark" target="_blank">
-    
-
-
-      
-        Nutlope /
-
-      hallmark</a></p>
-				<p>
-      Anti-AI-slop design skill for Claude Code, Cursor, and Codex.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 CSS</span>
-						<span>⭐ 41140</span>
-						<span>🔱 2136</span>
-					</div>
-				<div class="stars-today">⭐ 2110 stars today</div>
+				<div class="stars-today">⭐ 1037 stars today</div>
 				</div>
 			</div>
 	
@@ -160,32 +74,54 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Rust</span>
-						<span>⭐ 93584</span>
-						<span>🔱 5526</span>
+						<span>⭐ 94530</span>
+						<span>🔱 5584</span>
 					</div>
-				<div class="stars-today">⭐ 1472 stars today</div>
+				<div class="stars-today">⭐ 2881 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/makecindy/cindy" target="_blank">
+				<p><a href="https://github.com/JetBrains/thinkrail" target="_blank">
     
 
 
       
-        makecindy /
+        JetBrains /
 
-      cindy</a></p>
+      thinkrail</a></p>
 				<p>
-      Consider it done. The open-source AI agent that works out of the box · 想到，就能做到。开源、开箱即用的 AI Agent。
+      Vibe code with pi in a lightweight, real IDE that customises itself around the way you work — The Vibe You Need
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 8342</span>
-						<span>🔱 976</span>
+						<span>⭐ 5749</span>
+						<span>🔱 301</span>
 					</div>
-				<div class="stars-today">⭐ 728 stars today</div>
+				<div class="stars-today">⭐ 1116 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/milind-soni/OpenMausBot" target="_blank">
+    
+
+
+      
+        milind-soni /
+
+      OpenMausBot</a></p>
+				<p>
+      Open-source Grok Bot alternative with a virtual machine that bots can use
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 7148</span>
+						<span>🔱 1085</span>
+					</div>
+				<div class="stars-today">⭐ 1190 stars today</div>
 				</div>
 			</div>
 	
@@ -204,10 +140,74 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 3472</span>
-						<span>🔱 331</span>
+						<span>⭐ 3646</span>
+						<span>🔱 339</span>
 					</div>
-				<div class="stars-today">⭐ 1054 stars today</div>
+				<div class="stars-today">⭐ 705 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/elayadesign/ai-design-skills" target="_blank">
+    
+
+
+      
+        elayadesign /
+
+      ai-design-skills</a></p>
+				<p></p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 </span>
+						<span>⭐ 11810</span>
+						<span>🔱 853</span>
+					</div>
+				<div class="stars-today">⭐ 1178 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/thedotmack/claude-mem" target="_blank">
+    
+
+
+      
+        thedotmack /
+
+      claude-mem</a></p>
+				<p>
+      Persistent Context Across Sessions for Every Agent – Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 104324</span>
+						<span>🔱 9207</span>
+					</div>
+				<div class="stars-today">⭐ 324 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/CopilotKit/OpenBot" target="_blank">
+    
+
+
+      
+        CopilotKit /
+
+      OpenBot</a></p>
+				<p>
+      Open-source AI coworkers that each get a computer of their own: a browser, files and tools, with every action decided before it happens and recorded after. Bring any AG-UI agent.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 7849</span>
+						<span>🔱 1034</span>
+					</div>
+				<div class="stars-today">⭐ 240 stars today</div>
 				</div>
 			</div>
 	
@@ -226,98 +226,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 </span>
-						<span>⭐ 7598</span>
-						<span>🔱 1076</span>
+						<span>⭐ 8189</span>
+						<span>🔱 1152</span>
 					</div>
-				<div class="stars-today">⭐ 1477 stars today</div>
+				<div class="stars-today">⭐ 1610 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/hmjz100/LinkSwift" target="_blank">
+				<p><a href="https://github.com/Donchitos/Claude-Code-Game-Studios" target="_blank">
     
 
 
       
-        hmjz100 /
+        Donchitos /
 
-      LinkSwift</a></p>
+      Claude-Code-Game-Studios</a></p>
 				<p>
-      一个基于 JavaScript 的网盘文件下载地址获取工具。基于【网盘直链下载助手】修改 ，支持 百度网盘 / 阿里云盘 / 中国移动云盘 / 天翼云盘 / 迅雷云盘 / 夸克网盘 / UC网盘 / 123云盘 八大网盘
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 JavaScript</span>
-						<span>⭐ 35614</span>
-						<span>🔱 2527</span>
-					</div>
-				<div class="stars-today">⭐ 1616 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/expo/skills" target="_blank">
-    
-
-
-      
-        expo /
-
-      skills</a></p>
-				<p>
-      A collection of AI agent skills for working with Expo projects and Expo Application Services
+      Turn Claude Code into a full game dev studio — 49 AI agents, 72 workflow skills, and a complete coordination system mirroring real studio hierarchy.
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Shell</span>
-						<span>⭐ 3684</span>
-						<span>🔱 234</span>
+						<span>⭐ 28756</span>
+						<span>🔱 4022</span>
 					</div>
-				<div class="stars-today">⭐ 90 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/ruvnet/RuView" target="_blank">
-    
-
-
-      
-        ruvnet /
-
-      RuView</a></p>
-				<p>
-      π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Rust</span>
-						<span>⭐ 101315</span>
-						<span>🔱 13177</span>
-					</div>
-				<div class="stars-today">⭐ 557 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/xiaolai/the-craft-of-selfteaching" target="_blank">
-    
-
-
-      
-        xiaolai /
-
-      the-craft-of-selfteaching</a></p>
-				<p>
-      One has no future if one couldn't teach themself.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Jupyter Notebook</span>
-						<span>⭐ 18717</span>
-						<span>🔱 17912</span>
-					</div>
-				<div class="stars-today">⭐ 148 stars today</div>
+				<div class="stars-today">⭐ 538 stars today</div>
 				</div>
 			</div>
 	
