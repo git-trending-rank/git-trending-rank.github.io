@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2026年第44周
-date: 2026-10-30T07:45:35Z
+date: 2026-10-30T14:35:24Z
 categories:
 - weekly
 keywords:
@@ -30,32 +30,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 JavaScript</span>
-						<span>⭐ 53181</span>
-						<span>🔱 3417</span>
+						<span>⭐ 53500</span>
+						<span>🔱 3440</span>
 					</div>
 				<div class="stars-today">⭐ 14320 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/php/php-src" target="_blank">
-    
-
-
-      
-        php /
-
-      php-src</a></p>
-				<p>
-      The PHP Interpreter
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 C</span>
-						<span>⭐ 41730</span>
-						<span>🔱 8495</span>
-					</div>
-				<div class="stars-today">⭐ 960 stars this week</div>
 				</div>
 			</div>
 	
@@ -74,8 +52,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 24146</span>
-						<span>🔱 3234</span>
+						<span>⭐ 24286</span>
+						<span>🔱 3250</span>
 					</div>
 				<div class="stars-today">⭐ 4110 stars this week</div>
 				</div>
@@ -96,54 +74,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Rust</span>
-						<span>⭐ 95993</span>
-						<span>🔱 5652</span>
+						<span>⭐ 96538</span>
+						<span>🔱 5684</span>
 					</div>
 				<div class="stars-today">⭐ 9713 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/multica-ai/andrej-karpathy-skills" target="_blank">
-    
-
-
-      
-        multica-ai /
-
-      andrej-karpathy-skills</a></p>
-				<p>
-      A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 </span>
-						<span>⭐ 226572</span>
-						<span>🔱 22628</span>
-					</div>
-				<div class="stars-today">⭐ 4250 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/TauricResearch/TradingAgents" target="_blank">
-    
-
-
-      
-        TauricResearch /
-
-      TradingAgents</a></p>
-				<p>
-      TradingAgents: Multi-Agents LLM Financial Trading Framework
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 118453</span>
-						<span>🔱 22654</span>
-					</div>
-				<div class="stars-today">⭐ 5557 stars this week</div>
 				</div>
 			</div>
 	
@@ -162,32 +96,54 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Shell</span>
-						<span>⭐ 308894</span>
-						<span>🔱 27475</span>
+						<span>⭐ 309156</span>
+						<span>🔱 27496</span>
 					</div>
 				<div class="stars-today">⭐ 4894 stars this week</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/anthropics/knowledge-work-plugins" target="_blank">
+				<p><a href="https://github.com/TauricResearch/TradingAgents" target="_blank">
     
 
 
       
-        anthropics /
+        TauricResearch /
 
-      knowledge-work-plugins</a></p>
+      TradingAgents</a></p>
 				<p>
-      Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork
+      TradingAgents: Multi-Agents LLM Financial Trading Framework
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 33908</span>
-						<span>🔱 3728</span>
+						<span>⭐ 118562</span>
+						<span>🔱 22670</span>
 					</div>
-				<div class="stars-today">⭐ 2504 stars this week</div>
+				<div class="stars-today">⭐ 5557 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/multica-ai/andrej-karpathy-skills" target="_blank">
+    
+
+
+      
+        multica-ai /
+
+      andrej-karpathy-skills</a></p>
+				<p>
+      A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 </span>
+						<span>⭐ 226671</span>
+						<span>🔱 22636</span>
+					</div>
+				<div class="stars-today">⭐ 4250 stars this week</div>
 				</div>
 			</div>
 	
@@ -206,8 +162,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 JavaScript</span>
-						<span>⭐ 105799</span>
-						<span>🔱 7150</span>
+						<span>⭐ 106058</span>
+						<span>🔱 7169</span>
 					</div>
 				<div class="stars-today">⭐ 4359 stars this week</div>
 				</div>
@@ -228,10 +184,96 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Markdown</span>
-						<span>⭐ 9243</span>
-						<span>🔱 349</span>
+						<span>⭐ 9289</span>
+						<span>🔱 351</span>
 					</div>
 				<div class="stars-today">⭐ 980 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/pingdotgg/t3code" target="_blank">
+    
+
+
+      
+        pingdotgg /
+
+      t3code</a></p>
+				<p></p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 32398</span>
+						<span>🔱 8583</span>
+					</div>
+				<div class="stars-today">⭐ 2142 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/anthropics/knowledge-work-plugins" target="_blank">
+    
+
+
+      
+        anthropics /
+
+      knowledge-work-plugins</a></p>
+				<p>
+      Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 33965</span>
+						<span>🔱 3739</span>
+					</div>
+				<div class="stars-today">⭐ 2504 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/affaan-m/ECC" target="_blank">
+    
+
+
+      
+        affaan-m /
+
+      ECC</a></p>
+				<p>
+      The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 JavaScript</span>
+						<span>⭐ 293114</span>
+						<span>🔱 43370</span>
+					</div>
+				<div class="stars-today">⭐ 6594 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/anthropics/skills" target="_blank">
+    
+
+
+      
+        anthropics /
+
+      skills</a></p>
+				<p>
+      Public repository for Agent Skills
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 185022</span>
+						<span>🔱 21879</span>
+					</div>
+				<div class="stars-today">⭐ 1877 stars this week</div>
 				</div>
 			</div>
 	
@@ -250,8 +292,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 80196</span>
-						<span>🔱 9403</span>
+						<span>⭐ 80247</span>
+						<span>🔱 9411</span>
 					</div>
 				<div class="stars-today">⭐ 1854 stars this week</div>
 				</div>

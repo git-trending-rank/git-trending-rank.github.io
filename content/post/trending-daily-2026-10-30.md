@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2026-10-30
-date: 2026-10-30T07:45:35Z
+date: 2026-10-30T14:35:24Z
 categories:
 - daily
 keywords:
@@ -16,90 +16,24 @@ keywords:
 
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/HKUDS/DeepTutor" target="_blank">
+				<p><a href="https://github.com/thedotmack/claude-mem" target="_blank">
     
 
 
       
-        HKUDS /
+        thedotmack /
 
-      DeepTutor</a></p>
+      claude-mem</a></p>
 				<p>
-      DeepTutor: Lifelong Personalized Tutoring. https://deeptutor.info/.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 50901</span>
-						<span>🔱 6250</span>
-					</div>
-				<div class="stars-today">⭐ 1930 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/obra/superpowers" target="_blank">
-    
-
-
-      
-        obra /
-
-      superpowers</a></p>
-				<p>
-      An agentic skills framework & software development methodology that works.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Shell</span>
-						<span>⭐ 308894</span>
-						<span>🔱 27475</span>
-					</div>
-				<div class="stars-today">⭐ 1034 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/pbakaus/impeccable" target="_blank">
-    
-
-
-      
-        pbakaus /
-
-      impeccable</a></p>
-				<p>
-      The design vocabulary for your coding agent. Steer with polish and bolder, review with critique and audit, catch AI slop before it ships.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Rust</span>
-						<span>⭐ 95993</span>
-						<span>🔱 5652</span>
-					</div>
-				<div class="stars-today">⭐ 2870 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/JetBrains/thinkrail" target="_blank">
-    
-
-
-      
-        JetBrains /
-
-      thinkrail</a></p>
-				<p>
-      Vibe code with pi in a lightweight, real IDE that customises itself around the way you work — The Vibe You Need
+      Persistent Context Across Sessions for Every Agent – Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 6219</span>
-						<span>🔱 337</span>
+						<span>⭐ 105553</span>
+						<span>🔱 9302</span>
 					</div>
-				<div class="stars-today">⭐ 1117 stars today</div>
+				<div class="stars-today">⭐ 1145 stars today</div>
 				</div>
 			</div>
 	
@@ -118,74 +52,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 7737</span>
-						<span>🔱 1137</span>
+						<span>⭐ 8089</span>
+						<span>🔱 1162</span>
 					</div>
-				<div class="stars-today">⭐ 1199 stars today</div>
+				<div class="stars-today">⭐ 899 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/nightly-labs/openbot" target="_blank">
+				<p><a href="https://github.com/pbakaus/impeccable" target="_blank">
     
 
 
       
-        nightly-labs /
+        pbakaus /
 
-      openbot</a></p>
+      impeccable</a></p>
 				<p>
-      A local-first desktop workspace for persistent AI teammates. Run Codex, Claude, and Grok with dedicated workspaces, task queues, file sharing, browser control, and agent-to-agent collaboration.
+      The design vocabulary for your coding agent. Steer with polish and bolder, review with critique and audit, catch AI slop before it ships.
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 4053</span>
-						<span>🔱 373</span>
+						<span>🔠 Rust</span>
+						<span>⭐ 96538</span>
+						<span>🔱 5684</span>
 					</div>
-				<div class="stars-today">⭐ 709 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/elayadesign/ai-design-skills" target="_blank">
-    
-
-
-      
-        elayadesign /
-
-      ai-design-skills</a></p>
-				<p></p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 </span>
-						<span>⭐ 12517</span>
-						<span>🔱 913</span>
-					</div>
-				<div class="stars-today">⭐ 1187 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/thedotmack/claude-mem" target="_blank">
-    
-
-
-      
-        thedotmack /
-
-      claude-mem</a></p>
-				<p>
-      Persistent Context Across Sessions for Every Agent – Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 105103</span>
-						<span>🔱 9263</span>
-					</div>
-				<div class="stars-today">⭐ 336 stars today</div>
+				<div class="stars-today">⭐ 2299 stars today</div>
 				</div>
 			</div>
 	
@@ -204,10 +96,184 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 8351</span>
-						<span>🔱 1060</span>
+						<span>⭐ 8522</span>
+						<span>🔱 1079</span>
 					</div>
-				<div class="stars-today">⭐ 247 stars today</div>
+				<div class="stars-today">⭐ 707 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/Renhuai123/ziwei-doushu" target="_blank">
+    
+
+
+      
+        Renhuai123 /
+
+      ziwei-doushu</a></p>
+				<p>
+      紫微斗数开源排盘引擎 — 基于倪海厦《天纪》体系，含完整排盘算法、四化系统、格局知识库、古籍原文数据
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 10902</span>
+						<span>🔱 2184</span>
+					</div>
+				<div class="stars-today">⭐ 1146 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/expo/skills" target="_blank">
+    
+
+
+      
+        expo /
+
+      skills</a></p>
+				<p>
+      A collection of AI agent skills for working with Expo projects and Expo Application Services
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Shell</span>
+						<span>⭐ 3806</span>
+						<span>🔱 241</span>
+					</div>
+				<div class="stars-today">⭐ 233 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/macro-inc/macro" target="_blank">
+    
+
+
+      
+        macro-inc /
+
+      macro</a></p>
+				<p>
+      Macro is a unified workspace for teams: email, chat, docs, tasks, agents, calls, and CRM — @-linked together with shared AI memory.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Rust</span>
+						<span>⭐ 5730</span>
+						<span>🔱 536</span>
+					</div>
+				<div class="stars-today">⭐ 379 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/mattpocock/skills" target="_blank">
+    
+
+
+      
+        mattpocock /
+
+      skills</a></p>
+				<p>
+      Skills for Real Engineers. Straight from my .agents directory.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Shell</span>
+						<span>⭐ 307121</span>
+						<span>🔱 25838</span>
+					</div>
+				<div class="stars-today">⭐ 882 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/pingdotgg/t3code" target="_blank">
+    
+
+
+      
+        pingdotgg /
+
+      t3code</a></p>
+				<p></p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 32398</span>
+						<span>🔱 8583</span>
+					</div>
+				<div class="stars-today">⭐ 920 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/HKUDS/DeepTutor" target="_blank">
+    
+
+
+      
+        HKUDS /
+
+      DeepTutor</a></p>
+				<p>
+      DeepTutor: Lifelong Personalized Tutoring. https://deeptutor.info/.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 51415</span>
+						<span>🔱 6296</span>
+					</div>
+				<div class="stars-today">⭐ 2282 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/anthropics/skills" target="_blank">
+    
+
+
+      
+        anthropics /
+
+      skills</a></p>
+				<p>
+      Public repository for Agent Skills
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 185022</span>
+						<span>🔱 21879</span>
+					</div>
+				<div class="stars-today">⭐ 287 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/JetBrains/thinkrail" target="_blank">
+    
+
+
+      
+        JetBrains /
+
+      thinkrail</a></p>
+				<p>
+      Vibe code with pi in a lightweight, real IDE that customises itself around the way you work — The Vibe You Need
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 6403</span>
+						<span>🔱 350</span>
+					</div>
+				<div class="stars-today">⭐ 717 stars today</div>
 				</div>
 			</div>
 	
@@ -226,32 +292,54 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 </span>
-						<span>⭐ 9618</span>
-						<span>🔱 1339</span>
+						<span>⭐ 10178</span>
+						<span>🔱 1458</span>
 					</div>
-				<div class="stars-today">⭐ 1594 stars today</div>
+				<div class="stars-today">⭐ 2053 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/Donchitos/Claude-Code-Game-Studios" target="_blank">
+				<p><a href="https://github.com/obra/superpowers" target="_blank">
     
 
 
       
-        Donchitos /
+        obra /
 
-      Claude-Code-Game-Studios</a></p>
+      superpowers</a></p>
 				<p>
-      Turn Claude Code into a full game dev studio — 49 AI agents, 72 workflow skills, and a complete coordination system mirroring real studio hierarchy.
+      An agentic skills framework & software development methodology that works.
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Shell</span>
-						<span>⭐ 29657</span>
-						<span>🔱 4072</span>
+						<span>⭐ 309156</span>
+						<span>🔱 27496</span>
 					</div>
-				<div class="stars-today">⭐ 353 stars today</div>
+				<div class="stars-today">⭐ 1255 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/lightpanda-io/browser" target="_blank">
+    
+
+
+      
+        lightpanda-io /
+
+      browser</a></p>
+				<p>
+      Lightpanda: the headless browser designed for AI and automation
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Zig</span>
+						<span>⭐ 37968</span>
+						<span>🔱 1849</span>
+					</div>
+				<div class="stars-today">⭐ 559 stars today</div>
 				</div>
 			</div>
 	
