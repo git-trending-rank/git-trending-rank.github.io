@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2026年第44周
-date: 2026-10-30T01:22:09Z
+date: 2026-10-30T07:45:35Z
 categories:
 - weekly
 keywords:
@@ -30,8 +30,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 JavaScript</span>
-						<span>⭐ 52879</span>
-						<span>🔱 3390</span>
+						<span>⭐ 53181</span>
+						<span>🔱 3417</span>
 					</div>
 				<div class="stars-today">⭐ 14320 stars this week</div>
 				</div>
@@ -52,8 +52,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 C</span>
-						<span>⭐ 41723</span>
-						<span>🔱 8490</span>
+						<span>⭐ 41730</span>
+						<span>🔱 8495</span>
 					</div>
 				<div class="stars-today">⭐ 960 stars this week</div>
 				</div>
@@ -74,8 +74,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 24017</span>
-						<span>🔱 3224</span>
+						<span>⭐ 24146</span>
+						<span>🔱 3234</span>
 					</div>
 				<div class="stars-today">⭐ 4110 stars this week</div>
 				</div>
@@ -96,8 +96,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Rust</span>
-						<span>⭐ 95375</span>
-						<span>🔱 5624</span>
+						<span>⭐ 95993</span>
+						<span>🔱 5652</span>
 					</div>
 				<div class="stars-today">⭐ 9713 stars this week</div>
 				</div>
@@ -118,8 +118,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 </span>
-						<span>⭐ 226456</span>
-						<span>🔱 22611</span>
+						<span>⭐ 226572</span>
+						<span>🔱 22628</span>
 					</div>
 				<div class="stars-today">⭐ 4250 stars this week</div>
 				</div>
@@ -140,32 +140,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 118339</span>
-						<span>🔱 22634</span>
+						<span>⭐ 118453</span>
+						<span>🔱 22654</span>
 					</div>
 				<div class="stars-today">⭐ 5557 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/hugohe3/ppt-master" target="_blank">
-    
-
-
-      
-        hugohe3 /
-
-      ppt-master</a></p>
-				<p>
-      AI turns documents or topics into real, native PowerPoint decks—with native shapes, transitions and animations, data-backed charts and tables on demand, audio narration from speaker notes, and support for your own .pptx templates. · by Hugo He
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 70843</span>
-						<span>🔱 5528</span>
-					</div>
-				<div class="stars-today">⭐ 4980 stars this week</div>
 				</div>
 			</div>
 	
@@ -184,8 +162,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Shell</span>
-						<span>⭐ 308573</span>
-						<span>🔱 27447</span>
+						<span>⭐ 308894</span>
+						<span>🔱 27475</span>
 					</div>
 				<div class="stars-today">⭐ 4894 stars this week</div>
 				</div>
@@ -206,8 +184,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 33855</span>
-						<span>🔱 3723</span>
+						<span>⭐ 33908</span>
+						<span>🔱 3728</span>
 					</div>
 				<div class="stars-today">⭐ 2504 stars this week</div>
 				</div>
@@ -228,8 +206,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 JavaScript</span>
-						<span>⭐ 105571</span>
-						<span>🔱 7129</span>
+						<span>⭐ 105799</span>
+						<span>🔱 7150</span>
 					</div>
 				<div class="stars-today">⭐ 4359 stars this week</div>
 				</div>
@@ -250,8 +228,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Markdown</span>
-						<span>⭐ 9179</span>
-						<span>🔱 348</span>
+						<span>⭐ 9243</span>
+						<span>🔱 349</span>
 					</div>
 				<div class="stars-today">⭐ 980 stars this week</div>
 				</div>
@@ -272,8 +250,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 80153</span>
-						<span>🔱 9400</span>
+						<span>⭐ 80196</span>
+						<span>🔱 9403</span>
 					</div>
 				<div class="stars-today">⭐ 1854 stars this week</div>
 				</div>
