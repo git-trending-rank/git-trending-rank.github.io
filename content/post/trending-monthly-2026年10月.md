@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2026年10月
-date: 2026-10-31T07:34:03Z
+date: 2026-10-31T13:55:09Z
 categories:
 - monthly
 keywords:
@@ -30,8 +30,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 JavaScript</span>
-						<span>⭐ 54434</span>
-						<span>🔱 3531</span>
+						<span>⭐ 54813</span>
+						<span>🔱 3564</span>
 					</div>
 				<div class="stars-today">⭐ 30721 stars this month</div>
 				</div>
@@ -52,98 +52,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 76187</span>
-						<span>🔱 6950</span>
+						<span>⭐ 76340</span>
+						<span>🔱 6975</span>
 					</div>
 				<div class="stars-today">⭐ 22149 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/anthropics/knowledge-work-plugins" target="_blank">
-    
-
-
-      
-        anthropics /
-
-      knowledge-work-plugins</a></p>
-				<p>
-      Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 34088</span>
-						<span>🔱 3757</span>
-					</div>
-				<div class="stars-today">⭐ 8279 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/pbakaus/impeccable" target="_blank">
-    
-
-
-      
-        pbakaus /
-
-      impeccable</a></p>
-				<p>
-      The design vocabulary for your coding agent. Steer with polish and bolder, review with critique and audit, catch AI slop before it ships.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Rust</span>
-						<span>⭐ 97429</span>
-						<span>🔱 5741</span>
-					</div>
-				<div class="stars-today">⭐ 24624 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/debpalash/VoiceStudio" target="_blank">
-    
-
-
-      
-        debpalash /
-
-      VoiceStudio</a></p>
-				<p>
-      VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 96042</span>
-						<span>🔱 10638</span>
-					</div>
-				<div class="stars-today">⭐ 49116 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/earthtojake/text-to-cad" target="_blank">
-    
-
-
-      
-        earthtojake /
-
-      text-to-cad</a></p>
-				<p>
-      Design physical products with AI
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 24392</span>
-						<span>🔱 2341</span>
-					</div>
-				<div class="stars-today">⭐ 7976 stars this month</div>
 				</div>
 			</div>
 	
@@ -162,140 +74,98 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 CSS</span>
-						<span>⭐ 43249</span>
-						<span>🔱 2266</span>
+						<span>⭐ 43496</span>
+						<span>🔱 2280</span>
 					</div>
 				<div class="stars-today">⭐ 13397 stars this month</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/mvschwarz/openrig" target="_blank">
-    
-
-
-      
-        mvschwarz /
-
-      openrig</a></p>
-				<p>
-      Build your own network of agents from Claude Code, Codex and Pi: persistent teams with roles, shared context and owned work.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 8410</span>
-						<span>🔱 694</span>
-					</div>
-				<div class="stars-today">⭐ 6245 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/anthropics/claude-plugins-official" target="_blank">
+				<p><a href="https://github.com/anthropics/knowledge-work-plugins" target="_blank">
     
 
 
       
         anthropics /
 
-      claude-plugins-official</a></p>
+      knowledge-work-plugins</a></p>
 				<p>
-      Official, Anthropic-managed directory of high quality Claude Code Plugins.
+      Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 45475</span>
-						<span>🔱 4742</span>
+						<span>⭐ 34129</span>
+						<span>🔱 3763</span>
 					</div>
-				<div class="stars-today">⭐ 8442 stars this month</div>
+				<div class="stars-today">⭐ 8279 stars this month</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/thedotmack/claude-mem" target="_blank">
+				<p><a href="https://github.com/debpalash/VoiceStudio" target="_blank">
     
 
 
       
-        thedotmack /
+        debpalash /
 
-      claude-mem</a></p>
+      VoiceStudio</a></p>
 				<p>
-      Persistent Context Across Sessions for Every Agent – Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More
+      VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 106726</span>
-						<span>🔱 9390</span>
+						<span>🔠 Python</span>
+						<span>⭐ 96364</span>
+						<span>🔱 10691</span>
 					</div>
-				<div class="stars-today">⭐ 11124 stars this month</div>
+				<div class="stars-today">⭐ 49116 stars this month</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/mksglu/context-mode" target="_blank">
+				<p><a href="https://github.com/pbakaus/impeccable" target="_blank">
     
 
 
       
-        mksglu /
+        pbakaus /
 
-      context-mode</a></p>
+      impeccable</a></p>
 				<p>
-      Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks.
+      The design vocabulary for your coding agent. Steer with polish and bolder, review with critique and audit, catch AI slop before it ships.
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 32971</span>
-						<span>🔱 2279</span>
+						<span>🔠 Rust</span>
+						<span>⭐ 97769</span>
+						<span>🔱 5767</span>
 					</div>
-				<div class="stars-today">⭐ 8913 stars this month</div>
+				<div class="stars-today">⭐ 24624 stars this month</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/pingdotgg/t3code" target="_blank">
+				<p><a href="https://github.com/earthtojake/text-to-cad" target="_blank">
     
 
 
       
-        pingdotgg /
+        earthtojake /
 
-      t3code</a></p>
-				<p></p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 33095</span>
-						<span>🔱 8686</span>
-					</div>
-				<div class="stars-today">⭐ 8676 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/cursor/plugins" target="_blank">
-    
-
-
-      
-        cursor /
-
-      plugins</a></p>
+      text-to-cad</a></p>
 				<p>
-      Cursor plugin specification and official plugins
+      Design physical products with AI
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 14770</span>
-						<span>🔱 1521</span>
+						<span>🔠 Python</span>
+						<span>⭐ 24439</span>
+						<span>🔱 2345</span>
 					</div>
-				<div class="stars-today">⭐ 5817 stars this month</div>
+				<div class="stars-today">⭐ 7976 stars this month</div>
 				</div>
 			</div>
 	
@@ -314,10 +184,140 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Java</span>
-						<span>⭐ 96276</span>
-						<span>🔱 10863</span>
+						<span>⭐ 96356</span>
+						<span>🔱 10873</span>
 					</div>
 				<div class="stars-today">⭐ 16470 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/pingdotgg/t3code" target="_blank">
+    
+
+
+      
+        pingdotgg /
+
+      t3code</a></p>
+				<p></p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 33889</span>
+						<span>🔱 8716</span>
+					</div>
+				<div class="stars-today">⭐ 8676 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/thedotmack/claude-mem" target="_blank">
+    
+
+
+      
+        thedotmack /
+
+      claude-mem</a></p>
+				<p>
+      Persistent Context Across Sessions for Every Agent – Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 107142</span>
+						<span>🔱 9415</span>
+					</div>
+				<div class="stars-today">⭐ 11124 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/anthropics/claude-plugins-official" target="_blank">
+    
+
+
+      
+        anthropics /
+
+      claude-plugins-official</a></p>
+				<p>
+      Official, Anthropic-managed directory of high quality Claude Code Plugins.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 45509</span>
+						<span>🔱 4744</span>
+					</div>
+				<div class="stars-today">⭐ 8442 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/mksglu/context-mode" target="_blank">
+    
+
+
+      
+        mksglu /
+
+      context-mode</a></p>
+				<p>
+      Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 32992</span>
+						<span>🔱 2278</span>
+					</div>
+				<div class="stars-today">⭐ 8913 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/mvschwarz/openrig" target="_blank">
+    
+
+
+      
+        mvschwarz /
+
+      openrig</a></p>
+				<p>
+      Build your own network of agents from Claude Code, Codex and Pi: persistent teams with roles, shared context and owned work.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 8436</span>
+						<span>🔱 694</span>
+					</div>
+				<div class="stars-today">⭐ 6245 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/cursor/plugins" target="_blank">
+    
+
+
+      
+        cursor /
+
+      plugins</a></p>
+				<p>
+      Cursor plugin specification and official plugins
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 14808</span>
+						<span>🔱 1525</span>
+					</div>
+				<div class="stars-today">⭐ 5817 stars this month</div>
 				</div>
 			</div>
 	
@@ -336,8 +336,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 JavaScript</span>
-						<span>⭐ 106503</span>
-						<span>🔱 7206</span>
+						<span>⭐ 106707</span>
+						<span>🔱 7217</span>
 					</div>
 				<div class="stars-today">⭐ 15496 stars this month</div>
 				</div>
@@ -358,10 +358,30 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Dart</span>
-						<span>⭐ 180765</span>
-						<span>🔱 33393</span>
+						<span>⭐ 180794</span>
+						<span>🔱 33402</span>
 					</div>
 				<div class="stars-today">⭐ 2145 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/android/skills" target="_blank">
+    
+
+
+      
+        android /
+
+      skills</a></p>
+				<p></p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Kotlin</span>
+						<span>⭐ 10138</span>
+						<span>🔱 661</span>
+					</div>
+				<div class="stars-today">⭐ 2506 stars this month</div>
 				</div>
 			</div>
 	
@@ -380,8 +400,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 JavaScript</span>
-						<span>⭐ 293551</span>
-						<span>🔱 43443</span>
+						<span>⭐ 293736</span>
+						<span>🔱 43467</span>
 					</div>
 				<div class="stars-today">⭐ 25494 stars this month</div>
 				</div>
@@ -402,96 +422,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 24654</span>
-						<span>🔱 3281</span>
+						<span>⭐ 24811</span>
+						<span>🔱 3299</span>
 					</div>
 				<div class="stars-today">⭐ 6415 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/android/skills" target="_blank">
-    
-
-
-      
-        android /
-
-      skills</a></p>
-				<p></p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Kotlin</span>
-						<span>⭐ 10116</span>
-						<span>🔱 660</span>
-					</div>
-				<div class="stars-today">⭐ 2506 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/Panniantong/Agent-Reach" target="_blank">
-    
-
-
-      
-        Panniantong /
-
-      Agent-Reach</a></p>
-				<p>
-      Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 106943</span>
-						<span>🔱 9506</span>
-					</div>
-				<div class="stars-today">⭐ 21207 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/vercel-labs/skills" target="_blank">
-    
-
-
-      
-        vercel-labs /
-
-      skills</a></p>
-				<p>
-      The open agent skills tool - npx skills
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 37347</span>
-						<span>🔱 3222</span>
-					</div>
-				<div class="stars-today">⭐ 4626 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/tashfeenahmed/freellmapi" target="_blank">
-    
-
-
-      
-        tashfeenahmed /
-
-      freellmapi</a></p>
-				<p>
-      7.4 billion tokens per month. 34 free LLM providers. 635 free model endpoints. All behind one /v1 endpoint, plus any custom OpenAI-compatible endpoint. Smart routing, automatic failover, encrypted keys. Personal experimentation only.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 44827</span>
-						<span>🔱 6099</span>
-					</div>
-				<div class="stars-today">⭐ 15157 stars this month</div>
 				</div>
 			</div>
 	
