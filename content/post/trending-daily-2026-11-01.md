@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2026-11-01
-date: 2026-11-01T02:39:58Z
+date: 2026-11-01T10:49:27Z
 categories:
 - daily
 keywords:
@@ -30,162 +30,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 107963</span>
-						<span>🔱 9477</span>
+						<span>⭐ 108404</span>
+						<span>🔱 9509</span>
 					</div>
 				<div class="stars-today">⭐ 1723 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/mattpocock/skills" target="_blank">
-    
-
-
-      
-        mattpocock /
-
-      skills</a></p>
-				<p>
-      Skills for Real Engineers. Straight from my .agents directory.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Shell</span>
-						<span>⭐ 308479</span>
-						<span>🔱 25962</span>
-					</div>
-				<div class="stars-today">⭐ 883 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/Donchitos/Claude-Code-Game-Studios" target="_blank">
-    
-
-
-      
-        Donchitos /
-
-      Claude-Code-Game-Studios</a></p>
-				<p>
-      Turn Claude Code into a full game dev studio — 49 AI agents, 72 workflow skills, and a complete coordination system mirroring real studio hierarchy.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Shell</span>
-						<span>⭐ 31232</span>
-						<span>🔱 4280</span>
-					</div>
-				<div class="stars-today">⭐ 742 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/pingdotgg/t3code" target="_blank">
-    
-
-
-      
-        pingdotgg /
-
-      t3code</a></p>
-				<p></p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 35731</span>
-						<span>🔱 8799</span>
-					</div>
-				<div class="stars-today">⭐ 1148 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/Renhuai123/ziwei-doushu" target="_blank">
-    
-
-
-      
-        Renhuai123 /
-
-      ziwei-doushu</a></p>
-				<p>
-      紫微斗数开源排盘引擎 — 基于倪海厦《天纪》体系，含完整排盘算法、四化系统、格局知识库、古籍原文数据
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 12334</span>
-						<span>🔱 2422</span>
-					</div>
-				<div class="stars-today">⭐ 1092 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/milind-soni/OpenMausBot" target="_blank">
-    
-
-
-      
-        milind-soni /
-
-      OpenMausBot</a></p>
-				<p>
-      Open-source Grok Bot alternative with a virtual machine that bots can use
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 9704</span>
-						<span>🔱 1347</span>
-					</div>
-				<div class="stars-today">⭐ 1303 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/pbakaus/impeccable" target="_blank">
-    
-
-
-      
-        pbakaus /
-
-      impeccable</a></p>
-				<p>
-      The design vocabulary for your coding agent. Steer with polish and bolder, review with critique and audit, catch AI slop before it ships.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Rust</span>
-						<span>⭐ 98365</span>
-						<span>🔱 5804</span>
-					</div>
-				<div class="stars-today">⭐ 1338 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/obra/superpowers" target="_blank">
-    
-
-
-      
-        obra /
-
-      superpowers</a></p>
-				<p>
-      An agentic skills framework & software development methodology that works.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Shell</span>
-						<span>⭐ 310103</span>
-						<span>🔱 27592</span>
-					</div>
-				<div class="stars-today">⭐ 665 stars today</div>
 				</div>
 			</div>
 	
@@ -204,120 +52,338 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Zig</span>
-						<span>⭐ 39294</span>
-						<span>🔱 1911</span>
+						<span>⭐ 39549</span>
+						<span>🔱 1932</span>
 					</div>
 				<div class="stars-today">⭐ 929 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/HKUDS/DeepTutor" target="_blank">
+				<p><a href="https://github.com/shiyu-coder/Kronos" target="_blank">
     
 
 
       
-        HKUDS /
+        shiyu-coder /
 
-      DeepTutor</a></p>
+      Kronos</a></p>
 				<p>
-      DeepTutor: Lifelong Personalized Tutoring. https://deeptutor.info/.
+      Kronos: A Foundation Model for the Language of Financial Markets
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 52900</span>
-						<span>🔱 6474</span>
+						<span>⭐ 44890</span>
+						<span>🔱 7421</span>
 					</div>
-				<div class="stars-today">⭐ 1034 stars today</div>
+				<div class="stars-today">⭐ 611 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/Orkas-AI/Orkas" target="_blank">
+				<p><a href="https://github.com/pingdotgg/t3code" target="_blank">
     
 
 
       
-        Orkas-AI /
+        pingdotgg /
 
-      Orkas</a></p>
-				<p>
-      Orkas is an open-source (MIT), local-first AI team for your desktop: a Commander turns your goal into to-dos and coordinates 16 built-in specialist agents plus Claude Code, Codex, OpenCode, OpenClaw and Hermes, with projects, scheduled automations and connectors. Free app for macOS & Windows; built-in models or your own keys.
-    </p>
+      t3code</a></p>
+				<p></p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 JavaScript</span>
-						<span>⭐ 6409</span>
-						<span>🔱 388</span>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 36411</span>
+						<span>🔱 8840</span>
 					</div>
-				<div class="stars-today">⭐ 1044 stars today</div>
+				<div class="stars-today">⭐ 1148 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/THU-MAIC/OpenMAIC" target="_blank">
+				<p><a href="https://github.com/milind-soni/OpenMausBot" target="_blank">
     
 
 
       
-        THU-MAIC /
+        milind-soni /
 
-      OpenMAIC</a></p>
+      OpenMausBot</a></p>
 				<p>
-      Open Multi-Agent Interactive Classroom — Get an immersive, multi-agent learning experience in just one click
+      Open-source Grok Bot alternative with a virtual machine that bots can use
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 42212</span>
-						<span>🔱 6515</span>
+						<span>⭐ 10057</span>
+						<span>🔱 1394</span>
 					</div>
-				<div class="stars-today">⭐ 116 stars today</div>
+				<div class="stars-today">⭐ 1303 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/bregman-arie/devops-exercises" target="_blank">
+				<p><a href="https://github.com/public-apis/public-apis" target="_blank">
     
 
 
       
-        bregman-arie /
+        public-apis /
 
-      devops-exercises</a></p>
+      public-apis</a></p>
 				<p>
-      Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualization. DevOps Interview Questions
+      A collective list of free APIs
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 86032</span>
-						<span>🔱 20550</span>
+						<span>⭐ 493924</span>
+						<span>🔱 55147</span>
 					</div>
-				<div class="stars-today">⭐ 342 stars today</div>
+				<div class="stars-today">⭐ 298 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/vorssaint/vorssaint-utils" target="_blank">
+				<p><a href="https://github.com/cjpais/Handy" target="_blank">
     
 
 
       
-        vorssaint /
+        cjpais /
 
-      vorssaint-utils</a></p>
+      Handy</a></p>
 				<p>
-      Free and open-source macOS menu bar toolkit.
+      A free, open source, and extensible speech-to-text application that works completely offline.
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Swift</span>
-						<span>⭐ 31946</span>
-						<span>🔱 1541</span>
+						<span>🔠 Rust</span>
+						<span>⭐ 36006</span>
+						<span>🔱 3423</span>
 					</div>
-				<div class="stars-today">⭐ 501 stars today</div>
+				<div class="stars-today">⭐ 611 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/Donchitos/Claude-Code-Game-Studios" target="_blank">
+    
+
+
+      
+        Donchitos /
+
+      Claude-Code-Game-Studios</a></p>
+				<p>
+      Turn Claude Code into a full game dev studio — 49 AI agents, 72 workflow skills, and a complete coordination system mirroring real studio hierarchy.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Shell</span>
+						<span>⭐ 31572</span>
+						<span>🔱 4316</span>
+					</div>
+				<div class="stars-today">⭐ 742 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/kornia/kornia" target="_blank">
+    
+
+
+      
+        kornia /
+
+      kornia</a></p>
+				<p>
+      🐍 Geometric Computer Vision Library for Spatial AI
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 11560</span>
+						<span>🔱 1456</span>
+					</div>
+				<div class="stars-today">⭐ 88 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/beenuar/AiSOC" target="_blank">
+    
+
+
+      
+        beenuar /
+
+      AiSOC</a></p>
+				<p>
+      Open-source AI Security Operations Center: alert fusion, LLM-agent triage, MITRE ATT&CK investigation, and a replayable decision ledger for every agent step. Self-hostable, runs with no API keys, MIT licensed. Ships an MCP server for Claude, Cursor and Continue.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 5821</span>
+						<span>🔱 612</span>
+					</div>
+				<div class="stars-today">⭐ 436 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/Renhuai123/ziwei-doushu" target="_blank">
+    
+
+
+      
+        Renhuai123 /
+
+      ziwei-doushu</a></p>
+				<p>
+      紫微斗数开源排盘引擎 — 基于倪海厦《天纪》体系，含完整排盘算法、四化系统、格局知识库、古籍原文数据
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 12703</span>
+						<span>🔱 2490</span>
+					</div>
+				<div class="stars-today">⭐ 1092 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/anomalyco/hex" target="_blank">
+    
+
+
+      
+        anomalyco /
+
+      hex</a></p>
+				<p>
+      Local-first voice dictation for macOS. Hold a shortcut, speak, and paste into any app. Native Rust, on-device speech recognition, and a Linux beta.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Rust</span>
+						<span>⭐ 2441</span>
+						<span>🔱 156</span>
+					</div>
+				<div class="stars-today">⭐ 172 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/CopilotKit/OpenBot" target="_blank">
+    
+
+
+      
+        CopilotKit /
+
+      OpenBot</a></p>
+				<p>
+      Open-source AI coworkers that each get a computer of their own: a browser, files and tools, with every action decided before it happens and recorded after. Bring any AG-UI agent.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 9202</span>
+						<span>🔱 1159</span>
+					</div>
+				<div class="stars-today">⭐ 608 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/togg53192-cmd/jailbreaks" target="_blank">
+    
+
+
+      
+        togg53192-cmd /
+
+      jailbreaks</a></p>
+				<p>
+      LIST OF ALL MY JAILBREAKS
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 </span>
+						<span>⭐ 12480</span>
+						<span>🔱 1883</span>
+					</div>
+				<div class="stars-today">⭐ 1924 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/patchy631/ai-engineering-hub" target="_blank">
+    
+
+
+      
+        patchy631 /
+
+      ai-engineering-hub</a></p>
+				<p>
+      In-depth tutorials on LLMs, RAGs and real-world AI agent applications.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Jupyter Notebook</span>
+						<span>⭐ 39705</span>
+						<span>🔱 6439</span>
+					</div>
+				<div class="stars-today">⭐ 573 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/FlashML-org/FreeToken" target="_blank">
+    
+
+
+      
+        FlashML-org /
+
+      FreeToken</a></p>
+				<p>
+      FreeToken brings datacenter-scale model serving to your desktop. Run massive models locally, fast and efficiently.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 15071</span>
+						<span>🔱 1532</span>
+					</div>
+				<div class="stars-today">⭐ 232 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/hyprwm/Hyprland" target="_blank">
+    
+
+
+      
+        hyprwm /
+
+      Hyprland</a></p>
+				<p>
+      Hyprland is an independent, highly customizable, dynamic tiling Wayland compositor that doesn't sacrifice on its looks.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 C++</span>
+						<span>⭐ 39111</span>
+						<span>🔱 2111</span>
+					</div>
+				<div class="stars-today">⭐ 37 stars today</div>
 				</div>
 			</div>
 	

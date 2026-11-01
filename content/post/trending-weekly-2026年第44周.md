@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2026年第44周
-date: 2026-11-01T02:39:58Z
+date: 2026-11-01T10:49:29Z
 categories:
 - weekly
 keywords:
@@ -30,54 +30,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 CSS</span>
-						<span>⭐ 43983</span>
-						<span>🔱 2318</span>
+						<span>⭐ 44298</span>
+						<span>🔱 2340</span>
 					</div>
 				<div class="stars-today">⭐ 12062 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/cloudflare/security-audit-skill" target="_blank">
-    
-
-
-      
-        cloudflare /
-
-      security-audit-skill</a></p>
-				<p>
-      A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 JavaScript</span>
-						<span>⭐ 55404</span>
-						<span>🔱 3612</span>
-					</div>
-				<div class="stars-today">⭐ 11908 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/AgriciDaniel/claude-seo" target="_blank">
-    
-
-
-      
-        AgriciDaniel /
-
-      claude-seo</a></p>
-				<p>
-      Universal SEO skill for Claude Code. 26 sub-skills + 19 sub-agents covering technical SEO, E-E-A-T, schema, GEO/AEO, agent readiness (Lighthouse Agentic Browsing, WebMCP, llms.txt), backlinks, local SEO, e-commerce, international SEO, Google APIs, and PDF/Excel reporting. 9 optional extensions for live SEO data.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 25076</span>
-						<span>🔱 3319</span>
-					</div>
-				<div class="stars-today">⭐ 4814 stars this week</div>
 				</div>
 			</div>
 	
@@ -96,140 +52,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Rust</span>
-						<span>⭐ 98365</span>
-						<span>🔱 5804</span>
+						<span>⭐ 98750</span>
+						<span>🔱 5824</span>
 					</div>
 				<div class="stars-today">⭐ 12031 stars this week</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/obra/superpowers" target="_blank">
+				<p><a href="https://github.com/AgriciDaniel/claude-seo" target="_blank">
     
 
 
       
-        obra /
+        AgriciDaniel /
 
-      superpowers</a></p>
+      claude-seo</a></p>
 				<p>
-      An agentic skills framework & software development methodology that works.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Shell</span>
-						<span>⭐ 310103</span>
-						<span>🔱 27592</span>
-					</div>
-				<div class="stars-today">⭐ 5636 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/multica-ai/andrej-karpathy-skills" target="_blank">
-    
-
-
-      
-        multica-ai /
-
-      andrej-karpathy-skills</a></p>
-				<p>
-      A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 </span>
-						<span>⭐ 227536</span>
-						<span>🔱 22707</span>
-					</div>
-				<div class="stars-today">⭐ 4277 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/TauricResearch/TradingAgents" target="_blank">
-    
-
-
-      
-        TauricResearch /
-
-      TradingAgents</a></p>
-				<p>
-      TradingAgents: Multi-Agents LLM Financial Trading Framework
+      Universal SEO skill for Claude Code. 26 sub-skills + 19 sub-agents covering technical SEO, E-E-A-T, schema, GEO/AEO, agent readiness (Lighthouse Agentic Browsing, WebMCP, llms.txt), backlinks, local SEO, e-commerce, international SEO, Google APIs, and PDF/Excel reporting. 9 optional extensions for live SEO data.
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 119078</span>
-						<span>🔱 22780</span>
+						<span>⭐ 25241</span>
+						<span>🔱 3335</span>
 					</div>
-				<div class="stars-today">⭐ 5483 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/jakubkrehel/skills" target="_blank">
-    
-
-
-      
-        jakubkrehel /
-
-      skills</a></p>
-				<p>
-      A collection of agent skills that help you build great interfaces.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Markdown</span>
-						<span>⭐ 9626</span>
-						<span>🔱 369</span>
-					</div>
-				<div class="stars-today">⭐ 1272 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/Leonxlnx/taste-skill" target="_blank">
-    
-
-
-      
-        Leonxlnx /
-
-      taste-skill</a></p>
-				<p>
-      Agent skills that give coding agents taste: art direction, reference images and a browser check instead of generic AI pages
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 JavaScript</span>
-						<span>⭐ 107094</span>
-						<span>🔱 7244</span>
-					</div>
-				<div class="stars-today">⭐ 4975 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/pingdotgg/t3code" target="_blank">
-    
-
-
-      
-        pingdotgg /
-
-      t3code</a></p>
-				<p></p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 35731</span>
-						<span>🔱 8799</span>
-					</div>
-				<div class="stars-today">⭐ 3718 stars this week</div>
+				<div class="stars-today">⭐ 4814 stars this week</div>
 				</div>
 			</div>
 	
@@ -248,10 +96,184 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 107963</span>
-						<span>🔱 9477</span>
+						<span>⭐ 108404</span>
+						<span>🔱 9509</span>
 					</div>
 				<div class="stars-today">⭐ 4575 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/cloudflare/security-audit-skill" target="_blank">
+    
+
+
+      
+        cloudflare /
+
+      security-audit-skill</a></p>
+				<p>
+      A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 JavaScript</span>
+						<span>⭐ 55783</span>
+						<span>🔱 3644</span>
+					</div>
+				<div class="stars-today">⭐ 11908 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/obra/superpowers" target="_blank">
+    
+
+
+      
+        obra /
+
+      superpowers</a></p>
+				<p>
+      An agentic skills framework & software development methodology that works.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Shell</span>
+						<span>⭐ 310311</span>
+						<span>🔱 27612</span>
+					</div>
+				<div class="stars-today">⭐ 5636 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/JetBrains/thinkrail" target="_blank">
+    
+
+
+      
+        JetBrains /
+
+      thinkrail</a></p>
+				<p>
+      Vibe code with pi in a lightweight, real IDE that customises itself around the way you work — The Vibe You Need
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 6862</span>
+						<span>🔱 380</span>
+					</div>
+				<div class="stars-today">⭐ 5738 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/pingdotgg/t3code" target="_blank">
+    
+
+
+      
+        pingdotgg /
+
+      t3code</a></p>
+				<p></p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 36411</span>
+						<span>🔱 8840</span>
+					</div>
+				<div class="stars-today">⭐ 3718 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/multica-ai/andrej-karpathy-skills" target="_blank">
+    
+
+
+      
+        multica-ai /
+
+      andrej-karpathy-skills</a></p>
+				<p>
+      A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 </span>
+						<span>⭐ 227704</span>
+						<span>🔱 22716</span>
+					</div>
+				<div class="stars-today">⭐ 4277 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/jakubkrehel/skills" target="_blank">
+    
+
+
+      
+        jakubkrehel /
+
+      skills</a></p>
+				<p>
+      A collection of agent skills that help you build great interfaces.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Markdown</span>
+						<span>⭐ 9748</span>
+						<span>🔱 375</span>
+					</div>
+				<div class="stars-today">⭐ 1272 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/TauricResearch/TradingAgents" target="_blank">
+    
+
+
+      
+        TauricResearch /
+
+      TradingAgents</a></p>
+				<p>
+      TradingAgents: Multi-Agents LLM Financial Trading Framework
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 119235</span>
+						<span>🔱 22814</span>
+					</div>
+				<div class="stars-today">⭐ 5483 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/Leonxlnx/taste-skill" target="_blank">
+    
+
+
+      
+        Leonxlnx /
+
+      taste-skill</a></p>
+				<p>
+      Agent skills that give coding agents taste: art direction, reference images and a browser check instead of generic AI pages
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 JavaScript</span>
+						<span>⭐ 107358</span>
+						<span>🔱 7257</span>
+					</div>
+				<div class="stars-today">⭐ 4975 stars this week</div>
 				</div>
 			</div>
 	
@@ -270,8 +292,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 185919</span>
-						<span>🔱 21948</span>
+						<span>⭐ 186077</span>
+						<span>🔱 21972</span>
 					</div>
 				<div class="stars-today">⭐ 2389 stars this week</div>
 				</div>
@@ -292,8 +314,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 JavaScript</span>
-						<span>⭐ 294116</span>
-						<span>🔱 43535</span>
+						<span>⭐ 294353</span>
+						<span>🔱 43582</span>
 					</div>
 				<div class="stars-today">⭐ 6380 stars this week</div>
 				</div>
@@ -314,32 +336,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 JavaScript</span>
-						<span>⭐ 14634</span>
-						<span>🔱 3386</span>
+						<span>⭐ 14960</span>
+						<span>🔱 3452</span>
 					</div>
 				<div class="stars-today">⭐ 6641 stars this week</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/AstrBotDevs/AstrBot" target="_blank">
+				<p><a href="https://github.com/ghostty-org/ghostty" target="_blank">
     
 
 
       
-        AstrBotDevs /
+        ghostty-org /
 
-      AstrBot</a></p>
+      ghostty</a></p>
 				<p>
-      AI Agent Assistant & development framework that integrates lots of IM platforms, LLMs, plugins and AI feature, and can be your openclaw alternative. ✨
+      👻 Ghostty is a fast, feature-rich, and cross-platform terminal emulator that uses platform-native UI and GPU acceleration.
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 45348</span>
-						<span>🔱 3323</span>
+						<span>🔠 Zig</span>
+						<span>⭐ 63117</span>
+						<span>🔱 3808</span>
 					</div>
-				<div class="stars-today">⭐ 2137 stars this week</div>
+				<div class="stars-today">⭐ 556 stars this week</div>
 				</div>
 			</div>
 	

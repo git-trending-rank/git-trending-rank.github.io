@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2026年11月
-date: 2026-11-01T02:39:58Z
+date: 2026-11-01T10:49:29Z
 categories:
 - monthly
 keywords:
@@ -30,8 +30,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 JavaScript</span>
-						<span>⭐ 55404</span>
-						<span>🔱 3612</span>
+						<span>⭐ 55783</span>
+						<span>🔱 3644</span>
 					</div>
 				<div class="stars-today">⭐ 31731 stars this month</div>
 				</div>
@@ -52,8 +52,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 76609</span>
-						<span>🔱 7005</span>
+						<span>⭐ 76767</span>
+						<span>🔱 7031</span>
 					</div>
 				<div class="stars-today">⭐ 22303 stars this month</div>
 				</div>
@@ -74,32 +74,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 CSS</span>
-						<span>⭐ 43983</span>
-						<span>🔱 2318</span>
+						<span>⭐ 44298</span>
+						<span>🔱 2340</span>
 					</div>
 				<div class="stars-today">⭐ 14378 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/anthropics/knowledge-work-plugins" target="_blank">
-    
-
-
-      
-        anthropics /
-
-      knowledge-work-plugins</a></p>
-				<p>
-      Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 34207</span>
-						<span>🔱 3771</span>
-					</div>
-				<div class="stars-today">⭐ 8375 stars this month</div>
 				</div>
 			</div>
 	
@@ -118,10 +96,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 96931</span>
-						<span>🔱 10747</span>
+						<span>⭐ 97265</span>
+						<span>🔱 10790</span>
 					</div>
 				<div class="stars-today">⭐ 47234 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/anthropics/knowledge-work-plugins" target="_blank">
+    
+
+
+      
+        anthropics /
+
+      knowledge-work-plugins</a></p>
+				<p>
+      Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 34278</span>
+						<span>🔱 3785</span>
+					</div>
+				<div class="stars-today">⭐ 8375 stars this month</div>
 				</div>
 			</div>
 	
@@ -140,8 +140,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Rust</span>
-						<span>⭐ 98365</span>
-						<span>🔱 5804</span>
+						<span>⭐ 98750</span>
+						<span>🔱 5824</span>
 					</div>
 				<div class="stars-today">⭐ 25479 stars this month</div>
 				</div>
@@ -162,52 +162,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 24539</span>
-						<span>🔱 2350</span>
+						<span>⭐ 24591</span>
+						<span>🔱 2357</span>
 					</div>
 				<div class="stars-today">⭐ 8092 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/NationalSecurityAgency/ghidra" target="_blank">
-    
-
-
-      
-        NationalSecurityAgency /
-
-      ghidra</a></p>
-				<p>
-      Ghidra is a software reverse engineering (SRE) framework
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Java</span>
-						<span>⭐ 96506</span>
-						<span>🔱 10891</span>
-					</div>
-				<div class="stars-today">⭐ 16685 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/pingdotgg/t3code" target="_blank">
-    
-
-
-      
-        pingdotgg /
-
-      t3code</a></p>
-				<p></p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 35731</span>
-						<span>🔱 8799</span>
-					</div>
-				<div class="stars-today">⭐ 9973 stars this month</div>
 				</div>
 			</div>
 	
@@ -226,10 +184,52 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 107963</span>
-						<span>🔱 9477</span>
+						<span>⭐ 108404</span>
+						<span>🔱 9509</span>
 					</div>
 				<div class="stars-today">⭐ 12705 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/NationalSecurityAgency/ghidra" target="_blank">
+    
+
+
+      
+        NationalSecurityAgency /
+
+      ghidra</a></p>
+				<p>
+      Ghidra is a software reverse engineering (SRE) framework
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Java</span>
+						<span>⭐ 96605</span>
+						<span>🔱 10907</span>
+					</div>
+				<div class="stars-today">⭐ 16685 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/pingdotgg/t3code" target="_blank">
+    
+
+
+      
+        pingdotgg /
+
+      t3code</a></p>
+				<p></p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 36411</span>
+						<span>🔱 8840</span>
+					</div>
+				<div class="stars-today">⭐ 9973 stars this month</div>
 				</div>
 			</div>
 	
@@ -248,8 +248,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 45583</span>
-						<span>🔱 4748</span>
+						<span>⭐ 45632</span>
+						<span>🔱 4749</span>
 					</div>
 				<div class="stars-today">⭐ 8525 stars this month</div>
 				</div>
@@ -270,54 +270,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 33048</span>
-						<span>🔱 2280</span>
+						<span>⭐ 33078</span>
+						<span>🔱 2281</span>
 					</div>
 				<div class="stars-today">⭐ 8881 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/mvschwarz/openrig" target="_blank">
-    
-
-
-      
-        mvschwarz /
-
-      openrig</a></p>
-				<p>
-      Build your own network of agents from Claude Code, Codex and Pi: persistent teams with roles, shared context and owned work.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 8494</span>
-						<span>🔱 697</span>
-					</div>
-				<div class="stars-today">⭐ 5747 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/cursor/plugins" target="_blank">
-    
-
-
-      
-        cursor /
-
-      plugins</a></p>
-				<p>
-      Cursor plugin specification and official plugins
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 14884</span>
-						<span>🔱 1532</span>
-					</div>
-				<div class="stars-today">⭐ 5799 stars this month</div>
 				</div>
 			</div>
 	
@@ -336,8 +292,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 JavaScript</span>
-						<span>⭐ 107094</span>
-						<span>🔱 7244</span>
+						<span>⭐ 107358</span>
+						<span>🔱 7257</span>
 					</div>
 				<div class="stars-today">⭐ 15847 stars this month</div>
 				</div>
@@ -358,10 +314,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Dart</span>
-						<span>⭐ 180851</span>
-						<span>🔱 32831</span>
+						<span>⭐ 180886</span>
+						<span>🔱 32836</span>
 					</div>
 				<div class="stars-today">⭐ 2257 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/cursor/plugins" target="_blank">
+    
+
+
+      
+        cursor /
+
+      plugins</a></p>
+				<p>
+      Cursor plugin specification and official plugins
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 14934</span>
+						<span>🔱 1539</span>
+					</div>
+				<div class="stars-today">⭐ 5799 stars this month</div>
 				</div>
 			</div>
 	
@@ -378,32 +356,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Kotlin</span>
-						<span>⭐ 10175</span>
-						<span>🔱 664</span>
+						<span>⭐ 10191</span>
+						<span>🔱 665</span>
 					</div>
 				<div class="stars-today">⭐ 2568 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/affaan-m/ECC" target="_blank">
-    
-
-
-      
-        affaan-m /
-
-      ECC</a></p>
-				<p>
-      The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 JavaScript</span>
-						<span>⭐ 294116</span>
-						<span>🔱 43535</span>
-					</div>
-				<div class="stars-today">⭐ 25494 stars this month</div>
 				</div>
 			</div>
 	
@@ -422,10 +378,54 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 25076</span>
-						<span>🔱 3319</span>
+						<span>⭐ 25241</span>
+						<span>🔱 3335</span>
 					</div>
 				<div class="stars-today">⭐ 6891 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/vercel-labs/skills" target="_blank">
+    
+
+
+      
+        vercel-labs /
+
+      skills</a></p>
+				<p>
+      The open agent skills tool - npx skills
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 37476</span>
+						<span>🔱 3238</span>
+					</div>
+				<div class="stars-today">⭐ 4721 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/tashfeenahmed/freellmapi" target="_blank">
+    
+
+
+      
+        tashfeenahmed /
+
+      freellmapi</a></p>
+				<p>
+      7.4 billion tokens per month. 34 free LLM providers. 635 free model endpoints. All behind one /v1 endpoint, plus any custom OpenAI-compatible endpoint. Smart routing, automatic failover, encrypted keys. Personal experimentation only.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 45379</span>
+						<span>🔱 6197</span>
+					</div>
+				<div class="stars-today">⭐ 15643 stars this month</div>
 				</div>
 			</div>
 	
