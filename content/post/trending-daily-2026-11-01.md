@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2026-11-01
-date: 2026-11-01T17:15:35Z
+date: 2026-11-01T21:23:03Z
 categories:
 - daily
 keywords:
@@ -30,8 +30,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 108831</span>
-						<span>🔱 9535</span>
+						<span>⭐ 109071</span>
+						<span>🔱 9554</span>
 					</div>
 				<div class="stars-today">⭐ 1527 stars today</div>
 				</div>
@@ -52,8 +52,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Zig</span>
-						<span>⭐ 39863</span>
-						<span>🔱 1947</span>
+						<span>⭐ 40003</span>
+						<span>🔱 1957</span>
 					</div>
 				<div class="stars-today">⭐ 827 stars today</div>
 				</div>
@@ -74,8 +74,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 45148</span>
-						<span>🔱 7462</span>
+						<span>⭐ 45290</span>
+						<span>🔱 7491</span>
 					</div>
 				<div class="stars-today">⭐ 611 stars today</div>
 				</div>
@@ -94,8 +94,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 37167</span>
-						<span>🔱 8874</span>
+						<span>⭐ 37630</span>
+						<span>🔱 8897</span>
 					</div>
 				<div class="stars-today">⭐ 3100 stars today</div>
 				</div>
@@ -116,8 +116,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 10336</span>
-						<span>🔱 1428</span>
+						<span>⭐ 10431</span>
+						<span>🔱 1444</span>
 					</div>
 				<div class="stars-today">⭐ 919 stars today</div>
 				</div>
@@ -138,8 +138,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 494279</span>
-						<span>🔱 55175</span>
+						<span>⭐ 494461</span>
+						<span>🔱 55193</span>
 					</div>
 				<div class="stars-today">⭐ 298 stars today</div>
 				</div>
@@ -160,8 +160,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Rust</span>
-						<span>⭐ 36281</span>
-						<span>🔱 3432</span>
+						<span>⭐ 36442</span>
+						<span>🔱 3446</span>
 					</div>
 				<div class="stars-today">⭐ 383 stars today</div>
 				</div>
@@ -182,8 +182,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Shell</span>
-						<span>⭐ 31939</span>
-						<span>🔱 4362</span>
+						<span>⭐ 32128</span>
+						<span>🔱 4379</span>
 					</div>
 				<div class="stars-today">⭐ 970 stars today</div>
 				</div>
@@ -204,8 +204,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 11680</span>
-						<span>🔱 1461</span>
+						<span>⭐ 11740</span>
+						<span>🔱 1465</span>
 					</div>
 				<div class="stars-today">⭐ 88 stars today</div>
 				</div>
@@ -226,8 +226,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 6016</span>
-						<span>🔱 627</span>
+						<span>⭐ 6140</span>
+						<span>🔱 641</span>
 					</div>
 				<div class="stars-today">⭐ 436 stars today</div>
 				</div>
@@ -248,8 +248,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 12956</span>
-						<span>🔱 2542</span>
+						<span>⭐ 13033</span>
+						<span>🔱 2550</span>
 					</div>
 				<div class="stars-today">⭐ 953 stars today</div>
 				</div>
@@ -265,13 +265,13 @@ keywords:
 
       hex</a></p>
 				<p>
-      Local-first voice dictation for macOS. Hold a shortcut, speak, and paste into any app. Native Rust, on-device speech recognition, and a Linux beta.
+      Local voice dictation for mac, windows and linux
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Rust</span>
-						<span>⭐ 2908</span>
-						<span>🔱 173</span>
+						<span>⭐ 3136</span>
+						<span>🔱 186</span>
 					</div>
 				<div class="stars-today">⭐ 1329 stars today</div>
 				</div>
@@ -292,8 +292,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 9363</span>
-						<span>🔱 1173</span>
+						<span>⭐ 9457</span>
+						<span>🔱 1182</span>
 					</div>
 				<div class="stars-today">⭐ 178 stars today</div>
 				</div>
@@ -314,8 +314,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 </span>
-						<span>⭐ 12739</span>
-						<span>🔱 1921</span>
+						<span>⭐ 12864</span>
+						<span>🔱 1937</span>
 					</div>
 				<div class="stars-today">⭐ 730 stars today</div>
 				</div>
@@ -336,8 +336,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Jupyter Notebook</span>
-						<span>⭐ 40007</span>
-						<span>🔱 6465</span>
+						<span>⭐ 40140</span>
+						<span>🔱 6478</span>
 					</div>
 				<div class="stars-today">⭐ 573 stars today</div>
 				</div>
@@ -358,8 +358,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 15222</span>
-						<span>🔱 1536</span>
+						<span>⭐ 15327</span>
+						<span>🔱 1547</span>
 					</div>
 				<div class="stars-today">⭐ 232 stars today</div>
 				</div>
@@ -380,8 +380,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 C++</span>
-						<span>⭐ 39240</span>
-						<span>🔱 2120</span>
+						<span>⭐ 39317</span>
+						<span>🔱 2126</span>
 					</div>
 				<div class="stars-today">⭐ 91 stars today</div>
 				</div>
