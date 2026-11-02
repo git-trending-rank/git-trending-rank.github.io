@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2026年11月
-date: 2026-11-02T08:24:26Z
+date: 2026-11-02T19:50:17Z
 categories:
 - monthly
 keywords:
@@ -14,6 +14,28 @@ keywords:
 	<main class="container">
         <div class="repo-list" id="repoList">
 
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/morluto/rea" target="_blank">
+    
+
+
+      
+        morluto /
+
+      rea</a></p>
+				<p>
+      Reverse engineer anything with agents, from app behavior down to native binaries.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 422330</span>
+						<span>🔱 105324</span>
+					</div>
+				<div class="stars-today">⭐ 422016 stars this month</div>
+				</div>
+			</div>
 	
 			<div class="repo-card">
 				<p><a href="https://github.com/cloudflare/security-audit-skill" target="_blank">
@@ -30,10 +52,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 JavaScript</span>
-						<span>⭐ 56689</span>
-						<span>🔱 3695</span>
+						<span>⭐ 57240</span>
+						<span>🔱 3719</span>
 					</div>
 				<div class="stars-today">⭐ 32599 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/tester-army/e2e" target="_blank">
+    
+
+
+      
+        tester-army /
+
+      e2e</a></p>
+				<p>
+      Next generation e2e testing framework for web and mobile apps.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 12595</span>
+						<span>🔱 652</span>
+					</div>
+				<div class="stars-today">⭐ 12433 stars this month</div>
 				</div>
 			</div>
 	
@@ -52,8 +96,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 77322</span>
-						<span>🔱 7088</span>
+						<span>⭐ 77632</span>
+						<span>🔱 7133</span>
 					</div>
 				<div class="stars-today">⭐ 22225 stars this month</div>
 				</div>
@@ -74,8 +118,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 CSS</span>
-						<span>⭐ 45275</span>
-						<span>🔱 2406</span>
+						<span>⭐ 45834</span>
+						<span>🔱 2432</span>
 					</div>
 				<div class="stars-today">⭐ 15201 stars this month</div>
 				</div>
@@ -96,8 +140,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 98320</span>
-						<span>🔱 10914</span>
+						<span>⭐ 98857</span>
+						<span>🔱 10965</span>
 					</div>
 				<div class="stars-today">⭐ 47055 stars this month</div>
 				</div>
@@ -118,76 +162,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 34414</span>
-						<span>🔱 3807</span>
+						<span>⭐ 34470</span>
+						<span>🔱 3811</span>
 					</div>
 				<div class="stars-today">⭐ 8486 stars this month</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/pbakaus/impeccable" target="_blank">
+				<p><a href="https://github.com/ranxianglei/billion-context" target="_blank">
     
 
 
       
-        pbakaus /
+        ranxianglei /
 
-      impeccable</a></p>
+      billion-context</a></p>
 				<p>
-      The design vocabulary for your coding agent. Steer with polish and bolder, review with critique and audit, catch AI slop before it ships.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Rust</span>
-						<span>⭐ 99764</span>
-						<span>🔱 5900</span>
-					</div>
-				<div class="stars-today">⭐ 26119 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/earthtojake/text-to-cad" target="_blank">
-    
-
-
-      
-        earthtojake /
-
-      text-to-cad</a></p>
-				<p>
-      Design physical products with AI
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 24862</span>
-						<span>🔱 2378</span>
-					</div>
-				<div class="stars-today">⭐ 8238 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/thedotmack/claude-mem" target="_blank">
-    
-
-
-      
-        thedotmack /
-
-      claude-mem</a></p>
-				<p>
-      Persistent Context Across Sessions for Every Agent – Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More
+      A context-compression plugin for month-long single sessions (billions of tokens) ,small context windows (a 100K context is enough) and token savings (5x fewer tokens) .上下文压缩插件，月级长会话会话， 兼顾小窗口(100k上下文足矣)省token(省5倍token) . billion-context is all you need
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 109936</span>
-						<span>🔱 9596</span>
+						<span>⭐ 3696</span>
+						<span>🔱 310</span>
 					</div>
-				<div class="stars-today">⭐ 14011 stars this month</div>
+				<div class="stars-today">⭐ 3150 stars this month</div>
 				</div>
 			</div>
 	
@@ -206,10 +206,54 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Java</span>
-						<span>⭐ 96941</span>
-						<span>🔱 10953</span>
+						<span>⭐ 97121</span>
+						<span>🔱 10981</span>
 					</div>
 				<div class="stars-today">⭐ 16858 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/thedotmack/claude-mem" target="_blank">
+    
+
+
+      
+        thedotmack /
+
+      claude-mem</a></p>
+				<p>
+      Persistent Context Across Sessions for Every Agent – Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 110559</span>
+						<span>🔱 9645</span>
+					</div>
+				<div class="stars-today">⭐ 14011 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/pbakaus/impeccable" target="_blank">
+    
+
+
+      
+        pbakaus /
+
+      impeccable</a></p>
+				<p>
+      The design vocabulary for your coding agent. Steer with polish and bolder, review with critique and audit, catch AI slop before it ships.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Rust</span>
+						<span>⭐ 100310</span>
+						<span>🔱 5933</span>
+					</div>
+				<div class="stars-today">⭐ 26119 stars this month</div>
 				</div>
 			</div>
 	
@@ -226,10 +270,54 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 39023</span>
-						<span>🔱 8974</span>
+						<span>⭐ 41304</span>
+						<span>🔱 9067</span>
 					</div>
 				<div class="stars-today">⭐ 12629 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/earthtojake/text-to-cad" target="_blank">
+    
+
+
+      
+        earthtojake /
+
+      text-to-cad</a></p>
+				<p>
+      Design physical products with AI
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 24983</span>
+						<span>🔱 2386</span>
+					</div>
+				<div class="stars-today">⭐ 8238 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/michael-denyer/pstack-claude" target="_blank">
+    
+
+
+      
+        michael-denyer /
+
+      pstack-claude</a></p>
+				<p>
+      Claude Code, Codex, Copilot, Pi, OpenCode, Muse, Gemini, and Prime Agent versions of Poteto's pstack. Rigorous agent workflows with Cursor primitives translated for other harnesses.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 3787</span>
+						<span>🔱 346</span>
+					</div>
+				<div class="stars-today">⭐ 2996 stars this month</div>
 				</div>
 			</div>
 	
@@ -248,8 +336,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 45759</span>
-						<span>🔱 4764</span>
+						<span>⭐ 45829</span>
+						<span>🔱 4771</span>
 					</div>
 				<div class="stars-today">⭐ 8625 stars this month</div>
 				</div>
@@ -265,145 +353,15 @@ keywords:
 
       context-mode</a></p>
 				<p>
-      Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks.
+      Free, local plugin that keeps tool output out of your coding agent's context window. Sandbox and SQLite FTS5 search, 99% fewer bytes in context. Works with Claude Code, Codex, Pi, OpenCode, Gemini CLI, Copilot CLI and 4 more agents. Zero telemetry.
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 33206</span>
-						<span>🔱 2292</span>
+						<span>⭐ 33265</span>
+						<span>🔱 2295</span>
 					</div>
 				<div class="stars-today">⭐ 8666 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/Leonxlnx/taste-skill" target="_blank">
-    
-
-
-      
-        Leonxlnx /
-
-      taste-skill</a></p>
-				<p>
-      Agent skills that give coding agents taste: art direction, reference images and a browser check instead of generic AI pages
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 JavaScript</span>
-						<span>⭐ 108122</span>
-						<span>🔱 7294</span>
-					</div>
-				<div class="stars-today">⭐ 16333 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/flutter/flutter" target="_blank">
-    
-
-
-      
-        flutter /
-
-      flutter</a></p>
-				<p>
-      Flutter makes it easy and fast to build beautiful apps for mobile and beyond
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Dart</span>
-						<span>⭐ 181006</span>
-						<span>🔱 32868</span>
-					</div>
-				<div class="stars-today">⭐ 2343 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/cursor/plugins" target="_blank">
-    
-
-
-      
-        cursor /
-
-      plugins</a></p>
-				<p>
-      Cursor plugin specification and official plugins
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 15071</span>
-						<span>🔱 1555</span>
-					</div>
-				<div class="stars-today">⭐ 5809 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/android/skills" target="_blank">
-    
-
-
-      
-        android /
-
-      skills</a></p>
-				<p></p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Kotlin</span>
-						<span>⭐ 10267</span>
-						<span>🔱 668</span>
-					</div>
-				<div class="stars-today">⭐ 2618 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/AgriciDaniel/claude-seo" target="_blank">
-    
-
-
-      
-        AgriciDaniel /
-
-      claude-seo</a></p>
-				<p>
-      Universal SEO skill for Claude Code. 26 sub-skills + 19 sub-agents covering technical SEO, E-E-A-T, schema, GEO/AEO, agent readiness (Lighthouse Agentic Browsing, WebMCP, llms.txt), backlinks, local SEO, e-commerce, international SEO, Google APIs, and PDF/Excel reporting. 9 optional extensions for live SEO data.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 25713</span>
-						<span>🔱 3370</span>
-					</div>
-				<div class="stars-today">⭐ 7274 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/vercel-labs/skills" target="_blank">
-    
-
-
-      
-        vercel-labs /
-
-      skills</a></p>
-				<p>
-      The open agent skills tool - npx skills
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 37691</span>
-						<span>🔱 3259</span>
-					</div>
-				<div class="stars-today">⭐ 4758 stars this month</div>
 				</div>
 			</div>
 	
@@ -422,10 +380,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 45953</span>
-						<span>🔱 6275</span>
+						<span>⭐ 46275</span>
+						<span>🔱 6318</span>
 					</div>
 				<div class="stars-today">⭐ 15908 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/Leonxlnx/taste-skill" target="_blank">
+    
+
+
+      
+        Leonxlnx /
+
+      taste-skill</a></p>
+				<p>
+      Agent skills that give coding agents taste: art direction, reference images and a browser check instead of generic AI pages
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 JavaScript</span>
+						<span>⭐ 108577</span>
+						<span>🔱 7313</span>
+					</div>
+				<div class="stars-today">⭐ 16333 stars this month</div>
 				</div>
 			</div>
 	
