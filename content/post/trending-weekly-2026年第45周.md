@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2026年第45周
-date: 2026-11-03T08:40:32Z
+date: 2026-11-03T17:22:35Z
 categories:
 - weekly
 keywords:
@@ -30,8 +30,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 CSS</span>
-						<span>⭐ 46318</span>
-						<span>🔱 2454</span>
+						<span>⭐ 46735</span>
+						<span>🔱 2475</span>
 					</div>
 				<div class="stars-today">⭐ 10517 stars this week</div>
 				</div>
@@ -52,10 +52,52 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 111134</span>
-						<span>🔱 9684</span>
+						<span>⭐ 111581</span>
+						<span>🔱 9720</span>
 					</div>
 				<div class="stars-today">⭐ 7255 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/pingdotgg/t3code" target="_blank">
+    
+
+
+      
+        pingdotgg /
+
+      t3code</a></p>
+				<p></p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 43775</span>
+						<span>🔱 9199</span>
+					</div>
+				<div class="stars-today">⭐ 9770 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/obra/superpowers" target="_blank">
+    
+
+
+      
+        obra /
+
+      superpowers</a></p>
+				<p>
+      An agentic skills framework & software development methodology that works.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Shell</span>
+						<span>⭐ 311714</span>
+						<span>🔱 27733</span>
+					</div>
+				<div class="stars-today">⭐ 5956 stars this week</div>
 				</div>
 			</div>
 	
@@ -74,8 +116,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Rust</span>
-						<span>⭐ 100884</span>
-						<span>🔱 5963</span>
+						<span>⭐ 101275</span>
+						<span>🔱 5990</span>
 					</div>
 				<div class="stars-today">⭐ 11754 stars this week</div>
 				</div>
@@ -96,52 +138,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 26108</span>
-						<span>🔱 3410</span>
+						<span>⭐ 26231</span>
+						<span>🔱 3422</span>
 					</div>
 				<div class="stars-today">⭐ 4091 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/obra/superpowers" target="_blank">
-    
-
-
-      
-        obra /
-
-      superpowers</a></p>
-				<p>
-      An agentic skills framework & software development methodology that works.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Shell</span>
-						<span>⭐ 311432</span>
-						<span>🔱 27713</span>
-					</div>
-				<div class="stars-today">⭐ 5956 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/pingdotgg/t3code" target="_blank">
-    
-
-
-      
-        pingdotgg /
-
-      t3code</a></p>
-				<p></p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 42712</span>
-						<span>🔱 9148</span>
-					</div>
-				<div class="stars-today">⭐ 9770 stars this week</div>
 				</div>
 			</div>
 	
@@ -160,32 +160,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 7288</span>
-						<span>🔱 430</span>
+						<span>⭐ 7367</span>
+						<span>🔱 440</span>
 					</div>
 				<div class="stars-today">⭐ 4812 stars this week</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/cloudflare/security-audit-skill" target="_blank">
+				<p><a href="https://github.com/anthropics/skills" target="_blank">
     
 
 
       
-        cloudflare /
+        anthropics /
 
-      security-audit-skill</a></p>
+      skills</a></p>
 				<p>
-      A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings
+      Public repository for Agent Skills
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 JavaScript</span>
-						<span>⭐ 57677</span>
-						<span>🔱 3758</span>
+						<span>🔠 Python</span>
+						<span>⭐ 187026</span>
+						<span>🔱 22088</span>
 					</div>
-				<div class="stars-today">⭐ 9155 stars this week</div>
+				<div class="stars-today">⭐ 2828 stars this week</div>
 				</div>
 			</div>
 	
@@ -204,8 +204,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Markdown</span>
-						<span>⭐ 10443</span>
-						<span>🔱 403</span>
+						<span>⭐ 10553</span>
+						<span>🔱 405</span>
 					</div>
 				<div class="stars-today">⭐ 1707 stars this week</div>
 				</div>
@@ -226,76 +226,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 </span>
-						<span>⭐ 228741</span>
-						<span>🔱 22810</span>
+						<span>⭐ 228960</span>
+						<span>🔱 22828</span>
 					</div>
 				<div class="stars-today">⭐ 4397 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/anthropics/skills" target="_blank">
-    
-
-
-      
-        anthropics /
-
-      skills</a></p>
-				<p>
-      Public repository for Agent Skills
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 186907</span>
-						<span>🔱 22071</span>
-					</div>
-				<div class="stars-today">⭐ 2828 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/Leonxlnx/taste-skill" target="_blank">
-    
-
-
-      
-        Leonxlnx /
-
-      taste-skill</a></p>
-				<p>
-      Agent skills that give coding agents taste: art direction, reference images and a browser check instead of generic AI pages
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 JavaScript</span>
-						<span>⭐ 109054</span>
-						<span>🔱 7344</span>
-					</div>
-				<div class="stars-today">⭐ 5729 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/TauricResearch/TradingAgents" target="_blank">
-    
-
-
-      
-        TauricResearch /
-
-      TradingAgents</a></p>
-				<p>
-      TradingAgents: Multi-Agents LLM Financial Trading Framework
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 120103</span>
-						<span>🔱 22971</span>
-					</div>
-				<div class="stars-today">⭐ 4603 stars this week</div>
 				</div>
 			</div>
 	
@@ -314,10 +248,98 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Zig</span>
-						<span>⭐ 63358</span>
-						<span>🔱 3813</span>
+						<span>⭐ 63405</span>
+						<span>🔱 3822</span>
 					</div>
 				<div class="stars-today">⭐ 687 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/cloudflare/security-audit-skill" target="_blank">
+    
+
+
+      
+        cloudflare /
+
+      security-audit-skill</a></p>
+				<p>
+      A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 JavaScript</span>
+						<span>⭐ 57995</span>
+						<span>🔱 3779</span>
+					</div>
+				<div class="stars-today">⭐ 9155 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/hyprwm/Hyprland" target="_blank">
+    
+
+
+      
+        hyprwm /
+
+      Hyprland</a></p>
+				<p>
+      Hyprland is an independent, highly customizable, dynamic tiling Wayland compositor that doesn't sacrifice on its looks.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 C++</span>
+						<span>⭐ 40192</span>
+						<span>🔱 2164</span>
+					</div>
+				<div class="stars-today">⭐ 662 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/TauricResearch/TradingAgents" target="_blank">
+    
+
+
+      
+        TauricResearch /
+
+      TradingAgents</a></p>
+				<p>
+      TradingAgents: Multi-Agents LLM Financial Trading Framework
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 120241</span>
+						<span>🔱 23000</span>
+					</div>
+				<div class="stars-today">⭐ 4603 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/max-sixty/worktrunk" target="_blank">
+    
+
+
+      
+        max-sixty /
+
+      worktrunk</a></p>
+				<p>
+      Worktrunk is a CLI for Git worktree management, designed for parallel AI agent workflows
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Rust</span>
+						<span>⭐ 10359</span>
+						<span>🔱 373</span>
+					</div>
+				<div class="stars-today">⭐ 406 stars this week</div>
 				</div>
 			</div>
 	
@@ -336,32 +358,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 JavaScript</span>
-						<span>⭐ 295951</span>
-						<span>🔱 43786</span>
+						<span>⭐ 296313</span>
+						<span>🔱 43825</span>
 					</div>
 				<div class="stars-today">⭐ 6201 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/heygen-com/hyperframes" target="_blank">
-    
-
-
-      
-        heygen-com /
-
-      hyperframes</a></p>
-				<p>
-      Write HTML. Render video. Built for agents.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 77953</span>
-						<span>🔱 7176</span>
-					</div>
-				<div class="stars-today">⭐ 4924 stars this week</div>
 				</div>
 			</div>
 	

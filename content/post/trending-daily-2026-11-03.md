@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2026-11-03
-date: 2026-11-03T08:40:32Z
+date: 2026-11-03T17:22:35Z
 categories:
 - daily
 keywords:
@@ -14,28 +14,6 @@ keywords:
 	<main class="container">
         <div class="repo-list" id="repoList">
 
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/vercel-labs/agent-desktop" target="_blank">
-    
-
-
-      
-        vercel-labs /
-
-      agent-desktop</a></p>
-				<p>
-      Computer use CLI for AI agents
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Rust</span>
-						<span>⭐ 11094</span>
-						<span>🔱 760</span>
-					</div>
-				<div class="stars-today">⭐ 2275 stars today</div>
-				</div>
-			</div>
 	
 			<div class="repo-card">
 				<p><a href="https://github.com/thedotmack/claude-mem" target="_blank">
@@ -52,206 +30,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 111134</span>
-						<span>🔱 9684</span>
+						<span>⭐ 111581</span>
+						<span>🔱 9720</span>
 					</div>
-				<div class="stars-today">⭐ 1803 stars today</div>
+				<div class="stars-today">⭐ 1138 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/D4Vinci/Scrapling" target="_blank">
+				<p><a href="https://github.com/vercel-labs/agent-desktop" target="_blank">
     
 
 
       
-        D4Vinci /
+        vercel-labs /
 
-      Scrapling</a></p>
+      agent-desktop</a></p>
 				<p>
-      🕷️ The BEST Web Scraping framework that handles everything from a single request to a full-scale crawl! Don't be shy, join here: https://discord.gg/EMgGbDceNQ and follow here for daily tips and tricks: https://x.com/Scrapling_dev
+      Computer use CLI for AI agents
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 93506</span>
-						<span>🔱 9829</span>
+						<span>🔠 Rust</span>
+						<span>⭐ 12139</span>
+						<span>🔱 833</span>
 					</div>
-				<div class="stars-today">⭐ 706 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/hyprwm/Hyprland" target="_blank">
-    
-
-
-      
-        hyprwm /
-
-      Hyprland</a></p>
-				<p>
-      Hyprland is an independent, highly customizable, dynamic tiling Wayland compositor that doesn't sacrifice on its looks.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 C++</span>
-						<span>⭐ 40121</span>
-						<span>🔱 2160</span>
-					</div>
-				<div class="stars-today">⭐ 509 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/Donchitos/Claude-Code-Game-Studios" target="_blank">
-    
-
-
-      
-        Donchitos /
-
-      Claude-Code-Game-Studios</a></p>
-				<p>
-      Turn Claude Code into a full game dev studio — 49 AI agents, 72 workflow skills, and a complete coordination system mirroring real studio hierarchy.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Shell</span>
-						<span>⭐ 33983</span>
-						<span>🔱 4553</span>
-					</div>
-				<div class="stars-today">⭐ 1379 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/FlashML-org/FreeToken" target="_blank">
-    
-
-
-      
-        FlashML-org /
-
-      FreeToken</a></p>
-				<p>
-      FreeToken brings datacenter-scale model serving to your desktop. Run massive models locally, fast and efficiently.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 16330</span>
-						<span>🔱 1601</span>
-					</div>
-				<div class="stars-today">⭐ 653 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/pingdotgg/t3code" target="_blank">
-    
-
-
-      
-        pingdotgg /
-
-      t3code</a></p>
-				<p></p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 42712</span>
-						<span>🔱 9148</span>
-					</div>
-				<div class="stars-today">⭐ 3229 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/shiyu-coder/Kronos" target="_blank">
-    
-
-
-      
-        shiyu-coder /
-
-      Kronos</a></p>
-				<p>
-      Kronos: A Foundation Model for the Language of Financial Markets
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 46152</span>
-						<span>🔱 7605</span>
-					</div>
-				<div class="stars-today">⭐ 857 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/kornia/kornia" target="_blank">
-    
-
-
-      
-        kornia /
-
-      kornia</a></p>
-				<p>
-      🐍 Geometric Computer Vision Library for Spatial AI
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 12251</span>
-						<span>🔱 1504</span>
-					</div>
-				<div class="stars-today">⭐ 412 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/JustVugg/colibri" target="_blank">
-    
-
-
-      
-        JustVugg /
-
-      colibri</a></p>
-				<p>
-      Run frontier MoE models on hardware you already own — pure C, zero deps, experts streamed from disk. Tiny engine, immense model. 🐦
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 C</span>
-						<span>⭐ 46816</span>
-						<span>🔱 5405</span>
-					</div>
-				<div class="stars-today">⭐ 675 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/mattpocock/skills" target="_blank">
-    
-
-
-      
-        mattpocock /
-
-      skills</a></p>
-				<p>
-      Skills for Real Engineers. Straight from my .agents directory.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Shell</span>
-						<span>⭐ 310618</span>
-						<span>🔱 26131</span>
-					</div>
-				<div class="stars-today">⭐ 858 stars today</div>
+				<div class="stars-today">⭐ 3792 stars today</div>
 				</div>
 			</div>
 	
@@ -270,54 +74,54 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Rust</span>
-						<span>⭐ 10184</span>
-						<span>🔱 368</span>
+						<span>⭐ 10359</span>
+						<span>🔱 373</span>
 					</div>
-				<div class="stars-today">⭐ 77 stars today</div>
+				<div class="stars-today">⭐ 437 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/paperclipai/paperclip" target="_blank">
+				<p><a href="https://github.com/JustVugg/colibri" target="_blank">
     
 
 
       
-        paperclipai /
+        JustVugg /
 
-      paperclip</a></p>
+      colibri</a></p>
 				<p>
-      The open-source app everyone uses to manage agents at work
+      A hierarchical inference engine for frontier MoE models: hot experts on the GPU (CUDA, Vulkan), warm ones in RAM, cold ones streamed from NVMe. Written in C, runs on the hardware you already own.
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 110618</span>
-						<span>🔱 18309</span>
+						<span>🔠 C</span>
+						<span>⭐ 47092</span>
+						<span>🔱 5440</span>
 					</div>
-				<div class="stars-today">⭐ 412 stars today</div>
+				<div class="stars-today">⭐ 803 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/karpathy/nanochat" target="_blank">
+				<p><a href="https://github.com/mattpocock/skills" target="_blank">
     
 
 
       
-        karpathy /
+        mattpocock /
 
-      nanochat</a></p>
+      skills</a></p>
 				<p>
-      The best ChatGPT that $100 can buy.
+      Skills for Real Engineers. Straight from my .agents directory.
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 60078</span>
-						<span>🔱 8426</span>
+						<span>🔠 Shell</span>
+						<span>⭐ 311117</span>
+						<span>🔱 26165</span>
 					</div>
-				<div class="stars-today">⭐ 321 stars today</div>
+				<div class="stars-today">⭐ 1164 stars today</div>
 				</div>
 			</div>
 	
@@ -336,10 +140,162 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 38334</span>
-						<span>🔱 4341</span>
+						<span>⭐ 38601</span>
+						<span>🔱 4360</span>
 					</div>
-				<div class="stars-today">⭐ 420 stars today</div>
+				<div class="stars-today">⭐ 699 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/spotify/portal-ai-plugins" target="_blank">
+    
+
+
+      
+        spotify /
+
+      portal-ai-plugins</a></p>
+				<p></p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 2964</span>
+						<span>🔱 232</span>
+					</div>
+				<div class="stars-today">⭐ 94 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/floci-io/floci" target="_blank">
+    
+
+
+      
+        floci-io /
+
+      floci</a></p>
+				<p>
+      Light, fluffy, and always free - The AWS Local Emulator alternative
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Java</span>
+						<span>⭐ 28474</span>
+						<span>🔱 3183</span>
+					</div>
+				<div class="stars-today">⭐ 679 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/Usagi-org/ai-goofish-monitor" target="_blank">
+    
+
+
+      
+        Usagi-org /
+
+      ai-goofish-monitor</a></p>
+				<p>
+      基于 Playwright 和AI实现的闲鱼多任务实时/定时监控与智能分析系统，配备了功能完善的后台管理UI。帮助用户从闲鱼海量商品中，找到心仪产品。
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 16284</span>
+						<span>🔱 2834</span>
+					</div>
+				<div class="stars-today">⭐ 204 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/anomalyco/hex" target="_blank">
+    
+
+
+      
+        anomalyco /
+
+      hex</a></p>
+				<p>
+      Local voice dictation for mac, windows and linux
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Rust</span>
+						<span>⭐ 4385</span>
+						<span>🔱 251</span>
+					</div>
+				<div class="stars-today">⭐ 410 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/D4Vinci/Scrapling" target="_blank">
+    
+
+
+      
+        D4Vinci /
+
+      Scrapling</a></p>
+				<p>
+      🕷️ The BEST Web Scraping framework that handles everything from a single request to a full-scale crawl! Don't be shy, join here: https://discord.gg/EMgGbDceNQ and follow here for daily tips and tricks: https://x.com/Scrapling_dev
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 94186</span>
+						<span>🔱 9886</span>
+					</div>
+				<div class="stars-today">⭐ 1658 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/shiyu-coder/Kronos" target="_blank">
+    
+
+
+      
+        shiyu-coder /
+
+      Kronos</a></p>
+				<p>
+      Kronos: A Foundation Model for the Language of Financial Markets
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 46383</span>
+						<span>🔱 7643</span>
+					</div>
+				<div class="stars-today">⭐ 503 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/Donchitos/Claude-Code-Game-Studios" target="_blank">
+    
+
+
+      
+        Donchitos /
+
+      Claude-Code-Game-Studios</a></p>
+				<p>
+      Turn Claude Code into a full game dev studio — 49 AI agents, 72 workflow skills, and a complete coordination system mirroring real studio hierarchy.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Shell</span>
+						<span>⭐ 34422</span>
+						<span>🔱 4577</span>
+					</div>
+				<div class="stars-today">⭐ 1181 stars today</div>
 				</div>
 			</div>
 	

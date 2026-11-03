@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2026年11月
-date: 2026-11-03T08:40:32Z
+date: 2026-11-03T17:22:35Z
 categories:
 - monthly
 keywords:
@@ -30,8 +30,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 424408</span>
-						<span>🔱 105759</span>
+						<span>⭐ 426149</span>
+						<span>🔱 106111</span>
 					</div>
 				<div class="stars-today">⭐ 422104 stars this month</div>
 				</div>
@@ -52,54 +52,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 JavaScript</span>
-						<span>⭐ 57677</span>
-						<span>🔱 3758</span>
+						<span>⭐ 57995</span>
+						<span>🔱 3779</span>
 					</div>
 				<div class="stars-today">⭐ 33474 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/tester-army/e2e" target="_blank">
-    
-
-
-      
-        tester-army /
-
-      e2e</a></p>
-				<p>
-      Next generation e2e testing framework for web and mobile apps.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 12710</span>
-						<span>🔱 660</span>
-					</div>
-				<div class="stars-today">⭐ 11344 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/heygen-com/hyperframes" target="_blank">
-    
-
-
-      
-        heygen-com /
-
-      hyperframes</a></p>
-				<p>
-      Write HTML. Render video. Built for agents.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 77953</span>
-						<span>🔱 7176</span>
-					</div>
-				<div class="stars-today">⭐ 22290 stars this month</div>
 				</div>
 			</div>
 	
@@ -118,10 +74,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 CSS</span>
-						<span>⭐ 46318</span>
-						<span>🔱 2454</span>
+						<span>⭐ 46735</span>
+						<span>🔱 2475</span>
 					</div>
 				<div class="stars-today">⭐ 16306 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/heygen-com/hyperframes" target="_blank">
+    
+
+
+      
+        heygen-com /
+
+      hyperframes</a></p>
+				<p>
+      Write HTML. Render video. Built for agents.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 78201</span>
+						<span>🔱 7207</span>
+					</div>
+				<div class="stars-today">⭐ 22290 stars this month</div>
 				</div>
 			</div>
 	
@@ -140,8 +118,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 99464</span>
-						<span>🔱 11032</span>
+						<span>⭐ 99828</span>
+						<span>🔱 11066</span>
 					</div>
 				<div class="stars-today">⭐ 47605 stars this month</div>
 				</div>
@@ -162,32 +140,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 34527</span>
-						<span>🔱 3821</span>
+						<span>⭐ 34581</span>
+						<span>🔱 3827</span>
 					</div>
 				<div class="stars-today">⭐ 8614 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/ranxianglei/billion-context" target="_blank">
-    
-
-
-      
-        ranxianglei /
-
-      billion-context</a></p>
-				<p>
-      A context-compression plugin for month-long single sessions (billions of tokens) ,small context windows (a 100K context is enough) and token savings (5x fewer tokens) .上下文压缩插件，月级长会话会话， 兼顾小窗口(100k上下文足矣)省token(省5倍token) . billion-context is all you need
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 3788</span>
-						<span>🔱 314</span>
-					</div>
-				<div class="stars-today">⭐ 3213 stars this month</div>
 				</div>
 			</div>
 	
@@ -206,10 +162,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Java</span>
-						<span>⭐ 97334</span>
-						<span>🔱 11014</span>
+						<span>⭐ 97463</span>
+						<span>🔱 11032</span>
 					</div>
 				<div class="stars-today">⭐ 17043 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/ranxianglei/billion-context" target="_blank">
+    
+
+
+      
+        ranxianglei /
+
+      billion-context</a></p>
+				<p>
+      A context-compression plugin for month-long single sessions (billions of tokens) ,small context windows (a 100K context is enough) and token savings (5x fewer tokens) .上下文压缩插件，月级长会话会话， 兼顾小窗口(100k上下文足矣)省token(省5倍token) . billion-context is all you need
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 3864</span>
+						<span>🔱 323</span>
+					</div>
+				<div class="stars-today">⭐ 3213 stars this month</div>
 				</div>
 			</div>
 	
@@ -228,10 +206,52 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 111134</span>
-						<span>🔱 9684</span>
+						<span>⭐ 111581</span>
+						<span>🔱 9720</span>
 					</div>
 				<div class="stars-today">⭐ 15681 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/pingdotgg/t3code" target="_blank">
+    
+
+
+      
+        pingdotgg /
+
+      t3code</a></p>
+				<p></p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 43775</span>
+						<span>🔱 9199</span>
+					</div>
+				<div class="stars-today">⭐ 15731 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/tester-army/e2e" target="_blank">
+    
+
+
+      
+        tester-army /
+
+      e2e</a></p>
+				<p>
+      Next generation e2e testing framework for web and mobile apps.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 12794</span>
+						<span>🔱 668</span>
+					</div>
+				<div class="stars-today">⭐ 11344 stars this month</div>
 				</div>
 			</div>
 	
@@ -250,30 +270,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Rust</span>
-						<span>⭐ 100884</span>
-						<span>🔱 5963</span>
+						<span>⭐ 101275</span>
+						<span>🔱 5990</span>
 					</div>
 				<div class="stars-today">⭐ 26586 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/pingdotgg/t3code" target="_blank">
-    
-
-
-      
-        pingdotgg /
-
-      t3code</a></p>
-				<p></p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 42712</span>
-						<span>🔱 9148</span>
-					</div>
-				<div class="stars-today">⭐ 15731 stars this month</div>
 				</div>
 			</div>
 	
@@ -292,54 +292,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 25101</span>
-						<span>🔱 2391</span>
+						<span>⭐ 25175</span>
+						<span>🔱 2394</span>
 					</div>
 				<div class="stars-today">⭐ 8535 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/michael-denyer/pstack-claude" target="_blank">
-    
-
-
-      
-        michael-denyer /
-
-      pstack-claude</a></p>
-				<p>
-      Claude Code, Codex, Copilot, Pi, OpenCode, Muse, Gemini, and Prime Agent versions of Poteto's pstack. Rigorous agent workflows with Cursor primitives translated for other harnesses.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 3836</span>
-						<span>🔱 349</span>
-					</div>
-				<div class="stars-today">⭐ 3018 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/anthropics/claude-plugins-official" target="_blank">
-    
-
-
-      
-        anthropics /
-
-      claude-plugins-official</a></p>
-				<p>
-      Official, Anthropic-managed directory of high quality Claude Code Plugins.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 45902</span>
-						<span>🔱 4781</span>
-					</div>
-				<div class="stars-today">⭐ 8715 stars this month</div>
 				</div>
 			</div>
 	
@@ -358,10 +314,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 33320</span>
-						<span>🔱 2295</span>
+						<span>⭐ 33354</span>
+						<span>🔱 2298</span>
 					</div>
 				<div class="stars-today">⭐ 8531 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/anthropics/claude-plugins-official" target="_blank">
+    
+
+
+      
+        anthropics /
+
+      claude-plugins-official</a></p>
+				<p>
+      Official, Anthropic-managed directory of high quality Claude Code Plugins.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 45951</span>
+						<span>🔱 4784</span>
+					</div>
+				<div class="stars-today">⭐ 8715 stars this month</div>
 				</div>
 			</div>
 	
@@ -380,32 +358,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 46635</span>
-						<span>🔱 6367</span>
+						<span>⭐ 46891</span>
+						<span>🔱 6407</span>
 					</div>
 				<div class="stars-today">⭐ 16329 stars this month</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/Leonxlnx/taste-skill" target="_blank">
+				<p><a href="https://github.com/michael-denyer/pstack-claude" target="_blank">
     
 
 
       
-        Leonxlnx /
+        michael-denyer /
 
-      taste-skill</a></p>
+      pstack-claude</a></p>
 				<p>
-      Agent skills that give coding agents taste: art direction, reference images and a browser check instead of generic AI pages
+      Claude Code, Codex, Copilot, Pi, OpenCode, Muse, Gemini, and Prime Agent versions of Poteto's pstack. Rigorous agent workflows with Cursor primitives translated for other harnesses.
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 JavaScript</span>
-						<span>⭐ 109054</span>
-						<span>🔱 7344</span>
+						<span>⭐ 3872</span>
+						<span>🔱 352</span>
 					</div>
-				<div class="stars-today">⭐ 16952 stars this month</div>
+				<div class="stars-today">⭐ 3018 stars this month</div>
 				</div>
 			</div>
 	
