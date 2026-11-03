@@ -5,23 +5,23 @@
         <description>Recent content in Categories on Git Trending Rank</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en</language>
-        <lastBuildDate>Mon, 02 Nov 2026 19:50:18 +0000</lastBuildDate><atom:link href="https://git-trending-rank.github.io/categories/index.xml" rel="self" type="application/rss+xml" /><item>
-            <title>Weekly</title>
-            <link>https://git-trending-rank.github.io/categories/weekly/</link>
-            <pubDate>Mon, 02 Nov 2026 19:50:18 +0000</pubDate>
-            <guid>https://git-trending-rank.github.io/categories/weekly/</guid>
+        <lastBuildDate>Tue, 03 Nov 2026 01:52:05 +0000</lastBuildDate><atom:link href="https://git-trending-rank.github.io/categories/index.xml" rel="self" type="application/rss+xml" /><item>
+            <title>Daily</title>
+            <link>https://git-trending-rank.github.io/categories/daily/</link>
+            <pubDate>Tue, 03 Nov 2026 01:52:05 +0000</pubDate>
+            <guid>https://git-trending-rank.github.io/categories/daily/</guid>
             <description></description>
         </item><item>
             <title>Monthly</title>
             <link>https://git-trending-rank.github.io/categories/monthly/</link>
-            <pubDate>Mon, 02 Nov 2026 19:50:17 +0000</pubDate>
+            <pubDate>Tue, 03 Nov 2026 01:52:05 +0000</pubDate>
             <guid>https://git-trending-rank.github.io/categories/monthly/</guid>
             <description></description>
         </item><item>
-            <title>Daily</title>
-            <link>https://git-trending-rank.github.io/categories/daily/</link>
-            <pubDate>Mon, 02 Nov 2026 19:50:16 +0000</pubDate>
-            <guid>https://git-trending-rank.github.io/categories/daily/</guid>
+            <title>Weekly</title>
+            <link>https://git-trending-rank.github.io/categories/weekly/</link>
+            <pubDate>Tue, 03 Nov 2026 01:52:05 +0000</pubDate>
+            <guid>https://git-trending-rank.github.io/categories/weekly/</guid>
             <description></description>
         </item><item>
             <title>Test</title>
