@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2026年11月
-date: 2026-11-04T11:37:40Z
+date: 2026-11-04T18:53:38Z
 categories:
 - monthly
 keywords:
@@ -30,10 +30,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 429009</span>
-						<span>🔱 106714</span>
+						<span>⭐ 430220</span>
+						<span>🔱 106966</span>
 					</div>
 				<div class="stars-today">⭐ 426427 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/boykopovar/AnyPS5" target="_blank">
+    
+
+
+      
+        boykopovar /
+
+      AnyPS5</a></p>
+				<p>
+      Tool for automatic PS5 executables porting to Linux and Windows
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 C++</span>
+						<span>⭐ 51125</span>
+						<span>🔱 4868</span>
+					</div>
+				<div class="stars-today">⭐ 47969 stars this month</div>
 				</div>
 			</div>
 	
@@ -52,8 +74,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 JavaScript</span>
-						<span>⭐ 58528</span>
-						<span>🔱 3811</span>
+						<span>⭐ 58888</span>
+						<span>🔱 3831</span>
 					</div>
 				<div class="stars-today">⭐ 34248 stars this month</div>
 				</div>
@@ -74,8 +96,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 CSS</span>
-						<span>⭐ 47409</span>
-						<span>🔱 2506</span>
+						<span>⭐ 47754</span>
+						<span>🔱 2524</span>
 					</div>
 				<div class="stars-today">⭐ 17314 stars this month</div>
 				</div>
@@ -96,8 +118,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 78633</span>
-						<span>🔱 7237</span>
+						<span>⭐ 78833</span>
+						<span>🔱 7258</span>
 					</div>
 				<div class="stars-today">⭐ 22387 stars this month</div>
 				</div>
@@ -118,32 +140,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 100512</span>
-						<span>🔱 11130</span>
+						<span>⭐ 100817</span>
+						<span>🔱 11162</span>
 					</div>
 				<div class="stars-today">⭐ 48168 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/anthropics/knowledge-work-plugins" target="_blank">
-    
-
-
-      
-        anthropics /
-
-      knowledge-work-plugins</a></p>
-				<p>
-      Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 34670</span>
-						<span>🔱 3830</span>
-					</div>
-				<div class="stars-today">⭐ 8685 stars this month</div>
 				</div>
 			</div>
 	
@@ -162,32 +162,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Java</span>
-						<span>⭐ 97671</span>
-						<span>🔱 11045</span>
+						<span>⭐ 97775</span>
+						<span>🔱 11056</span>
 					</div>
 				<div class="stars-today">⭐ 17325 stars this month</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/ranxianglei/billion-context" target="_blank">
+				<p><a href="https://github.com/anthropics/knowledge-work-plugins" target="_blank">
     
 
 
       
-        ranxianglei /
+        anthropics /
 
-      billion-context</a></p>
+      knowledge-work-plugins</a></p>
 				<p>
-      A context-compression plugin for month-long single sessions (billions of tokens) ,small context windows (a 100K context is enough) and token savings (5x fewer tokens) .上下文压缩插件，月级长会话会话， 兼顾小窗口(100k上下文足矣)省token(省5倍token) . billion-context is all you need
+      Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 3989</span>
-						<span>🔱 326</span>
+						<span>🔠 Python</span>
+						<span>⭐ 34709</span>
+						<span>🔱 3831</span>
 					</div>
-				<div class="stars-today">⭐ 3363 stars this month</div>
+				<div class="stars-today">⭐ 8685 stars this month</div>
 				</div>
 			</div>
 	
@@ -206,8 +206,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 112410</span>
-						<span>🔱 9772</span>
+						<span>⭐ 112657</span>
+						<span>🔱 9791</span>
 					</div>
 				<div class="stars-today">⭐ 16740 stars this month</div>
 				</div>
@@ -226,32 +226,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 45381</span>
-						<span>🔱 9340</span>
+						<span>⭐ 46151</span>
+						<span>🔱 9422</span>
 					</div>
 				<div class="stars-today">⭐ 18907 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/tester-army/e2e" target="_blank">
-    
-
-
-      
-        tester-army /
-
-      e2e</a></p>
-				<p>
-      Next generation e2e testing framework for web and mobile apps.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 13056</span>
-						<span>🔱 682</span>
-					</div>
-				<div class="stars-today">⭐ 10768 stars this month</div>
 				</div>
 			</div>
 	
@@ -270,8 +248,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Rust</span>
-						<span>⭐ 101987</span>
-						<span>🔱 6010</span>
+						<span>⭐ 102564</span>
+						<span>🔱 6060</span>
 					</div>
 				<div class="stars-today">⭐ 26980 stars this month</div>
 				</div>
@@ -292,8 +270,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 25327</span>
-						<span>🔱 2404</span>
+						<span>⭐ 25393</span>
+						<span>🔱 2409</span>
 					</div>
 				<div class="stars-today">⭐ 8708 stars this month</div>
 				</div>
@@ -313,9 +291,9 @@ keywords:
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 33425</span>
-						<span>🔱 2302</span>
+						<span>🔠 JavaScript</span>
+						<span>⭐ 33459</span>
+						<span>🔱 2303</span>
 					</div>
 				<div class="stars-today">⭐ 8397 stars this month</div>
 				</div>
@@ -336,54 +314,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 46052</span>
-						<span>🔱 4789</span>
+						<span>⭐ 46099</span>
+						<span>🔱 4794</span>
 					</div>
 				<div class="stars-today">⭐ 8845 stars this month</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/tashfeenahmed/freellmapi" target="_blank">
+				<p><a href="https://github.com/tester-army/e2e" target="_blank">
     
 
 
       
-        tashfeenahmed /
+        tester-army /
 
-      freellmapi</a></p>
+      e2e</a></p>
 				<p>
-      7.4 billion tokens per month. 34 free LLM providers. 635 free model endpoints. All behind one /v1 endpoint, plus any custom OpenAI-compatible endpoint. Smart routing, automatic failover, encrypted keys. Personal experimentation only.
+      Next generation e2e testing framework for web and mobile apps.
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 47314</span>
-						<span>🔱 6461</span>
+						<span>⭐ 13125</span>
+						<span>🔱 686</span>
 					</div>
-				<div class="stars-today">⭐ 16812 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/michael-denyer/pstack-claude" target="_blank">
-    
-
-
-      
-        michael-denyer /
-
-      pstack-claude</a></p>
-				<p>
-      Claude Code, Codex, Copilot, Pi, OpenCode, Muse, Gemini, and Prime Agent versions of Poteto's pstack. Rigorous agent workflows with Cursor primitives translated for other harnesses.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 JavaScript</span>
-						<span>⭐ 3945</span>
-						<span>🔱 358</span>
-					</div>
-				<div class="stars-today">⭐ 3026 stars this month</div>
+				<div class="stars-today">⭐ 10768 stars this month</div>
 				</div>
 			</div>
 	

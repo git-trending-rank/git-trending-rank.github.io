@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2026-11-04
-date: 2026-11-04T11:37:40Z
+date: 2026-11-04T18:53:37Z
 categories:
 - daily
 keywords:
@@ -14,6 +14,94 @@ keywords:
 	<main class="container">
         <div class="repo-list" id="repoList">
 
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/NVIDIA/auto-ontology" target="_blank">
+    
+
+
+      
+        NVIDIA /
+
+      auto-ontology</a></p>
+				<p>
+      Auto Ontology is a Python framework for building semantic, graph-based reasoning layers over data. It enables deterministic query generation, better context retrieval, and more explainable AI for LLM and agent workflows.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 4498</span>
+						<span>🔱 370</span>
+					</div>
+				<div class="stars-today">⭐ 2053 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/max-sixty/worktrunk" target="_blank">
+    
+
+
+      
+        max-sixty /
+
+      worktrunk</a></p>
+				<p>
+      Worktrunk is a CLI for Git worktree management, designed for parallel AI agent workflows
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Rust</span>
+						<span>⭐ 10929</span>
+						<span>🔱 407</span>
+					</div>
+				<div class="stars-today">⭐ 524 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/mattpocock/skills" target="_blank">
+    
+
+
+      
+        mattpocock /
+
+      skills</a></p>
+				<p>
+      Skills for Real Engineers. Straight from my .agents directory.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Shell</span>
+						<span>⭐ 312926</span>
+						<span>🔱 26262</span>
+					</div>
+				<div class="stars-today">⭐ 1376 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/floci-io/floci" target="_blank">
+    
+
+
+      
+        floci-io /
+
+      floci</a></p>
+				<p>
+      Light, fluffy, and always free - The AWS Local Emulator alternative
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Java</span>
+						<span>⭐ 29463</span>
+						<span>🔱 3265</span>
+					</div>
+				<div class="stars-today">⭐ 1082 stars today</div>
+				</div>
+			</div>
 	
 			<div class="repo-card">
 				<p><a href="https://github.com/thedotmack/claude-mem" target="_blank">
@@ -30,8 +118,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 112410</span>
-						<span>🔱 9772</span>
+						<span>⭐ 112657</span>
+						<span>🔱 9791</span>
 					</div>
 				<div class="stars-today">⭐ 1165 stars today</div>
 				</div>
@@ -52,184 +140,162 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Rust</span>
-						<span>⭐ 13953</span>
-						<span>🔱 954</span>
+						<span>⭐ 14659</span>
+						<span>🔱 1013</span>
 					</div>
 				<div class="stars-today">⭐ 2463 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/max-sixty/worktrunk" target="_blank">
+				<p><a href="https://github.com/github/spec-kit" target="_blank">
     
 
 
       
-        max-sixty /
+        github /
 
-      worktrunk</a></p>
+      spec-kit</a></p>
 				<p>
-      Worktrunk is a CLI for Git worktree management, designed for parallel AI agent workflows
+      💫 Toolkit to help you get started with SDD or any other process!
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Rust</span>
-						<span>⭐ 10764</span>
-						<span>🔱 396</span>
+						<span>🔠 Python</span>
+						<span>⭐ 147169</span>
+						<span>🔱 13209</span>
 					</div>
-				<div class="stars-today">⭐ 524 stars today</div>
+				<div class="stars-today">⭐ 810 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/JustVugg/colibri" target="_blank">
+				<p><a href="https://github.com/The-PR-Agent/pr-agent" target="_blank">
     
 
 
       
-        JustVugg /
+        The-PR-Agent /
 
-      colibri</a></p>
+      pr-agent</a></p>
 				<p>
-      A hierarchical inference engine for frontier MoE models: hot experts on the GPU (CUDA, Vulkan), warm ones in RAM, cold ones streamed from NVMe. Written in C, runs on the hardware you already own.
+      🚀 PR Agent: The Original Open-Source PR Reviewer. This project is not the Qodo free tier.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 14651</span>
+						<span>🔱 2086</span>
+					</div>
+				<div class="stars-today">⭐ 279 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/harry0703/MoneyPrinterTurbo" target="_blank">
+    
+
+
+      
+        harry0703 /
+
+      MoneyPrinterTurbo</a></p>
+				<p>
+      利用 AI 大模型和自动化工作流，根据主题或关键词一键生成高清短视频。Generate HD short videos from a topic or keyword with an automated AI workflow.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 138804</span>
+						<span>🔱 22153</span>
+					</div>
+				<div class="stars-today">⭐ 615 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/garrytan/gstack" target="_blank">
+    
+
+
+      
+        garrytan /
+
+      gstack</a></p>
+				<p>
+      Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, and QA
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 139209</span>
+						<span>🔱 20627</span>
+					</div>
+				<div class="stars-today">⭐ 285 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/FareedKhan-dev/kimi-k3-in-c" target="_blank">
+    
+
+
+      
+        FareedKhan-dev /
+
+      kimi-k3-in-c</a></p>
+				<p>
+      A 2.78-trillion-parameter Kimi K3 running inference on a single CPU in 8.24 GB of RAM. Portable C99: no BLAS, no framework, no GPU.
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 C</span>
-						<span>⭐ 47531</span>
-						<span>🔱 5487</span>
+						<span>⭐ 10157</span>
+						<span>🔱 1619</span>
 					</div>
-				<div class="stars-today">⭐ 635 stars today</div>
+				<div class="stars-today">⭐ 351 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/mattpocock/skills" target="_blank">
+				<p><a href="https://github.com/JiaFeiMiao-K-Cat/DiscImageStudio" target="_blank">
     
 
 
       
-        mattpocock /
+        JiaFeiMiao-K-Cat /
 
-      skills</a></p>
+      DiscImageStudio</a></p>
+				<p></p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 C#</span>
+						<span>⭐ 6350</span>
+						<span>🔱 227</span>
+					</div>
+				<div class="stars-today">⭐ 1792 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/MichaelCade/90DaysOfDevOps" target="_blank">
+    
+
+
+      
+        MichaelCade /
+
+      90DaysOfDevOps</a></p>
 				<p>
-      Skills for Real Engineers. Straight from my .agents directory.
+      This repository started out as a learning in public project for myself and has now become a structured learning map for many in the community. We have 3 years under our belt covering all things DevOps, including Principles, Processes, Tooling and Use Cases surrounding this vast topic. 
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Shell</span>
-						<span>⭐ 312099</span>
-						<span>🔱 26221</span>
+						<span>⭐ 30299</span>
+						<span>🔱 6789</span>
 					</div>
-				<div class="stars-today">⭐ 1376 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/p-e-w/heretic" target="_blank">
-    
-
-
-      
-        p-e-w /
-
-      heretic</a></p>
-				<p>
-      Training-free language model modification: Remove censorship, suppress slop, reduce sycophancy, and more
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 39157</span>
-						<span>🔱 4414</span>
-					</div>
-				<div class="stars-today">⭐ 726 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/spotify/portal-ai-plugins" target="_blank">
-    
-
-
-      
-        spotify /
-
-      portal-ai-plugins</a></p>
-				<p></p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 3131</span>
-						<span>🔱 246</span>
-					</div>
-				<div class="stars-today">⭐ 227 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/floci-io/floci" target="_blank">
-    
-
-
-      
-        floci-io /
-
-      floci</a></p>
-				<p>
-      Light, fluffy, and always free - The AWS Local Emulator alternative
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Java</span>
-						<span>⭐ 29209</span>
-						<span>🔱 3246</span>
-					</div>
-				<div class="stars-today">⭐ 1082 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/Usagi-org/ai-goofish-monitor" target="_blank">
-    
-
-
-      
-        Usagi-org /
-
-      ai-goofish-monitor</a></p>
-				<p>
-      基于 Playwright 和AI实现的闲鱼多任务实时/定时监控与智能分析系统，配备了功能完善的后台管理UI。帮助用户从闲鱼海量商品中，找到心仪产品。
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 17050</span>
-						<span>🔱 2899</span>
-					</div>
-				<div class="stars-today">⭐ 979 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/anomalyco/hex" target="_blank">
-    
-
-
-      
-        anomalyco /
-
-      hex</a></p>
-				<p>
-      Local voice dictation for mac, windows and linux
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Rust</span>
-						<span>⭐ 4893</span>
-						<span>🔱 277</span>
-					</div>
-				<div class="stars-today">⭐ 682 stars today</div>
+				<div class="stars-today">⭐ 156 stars today</div>
 				</div>
 			</div>
 	
@@ -248,54 +314,54 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 95680</span>
-						<span>🔱 10027</span>
+						<span>⭐ 96245</span>
+						<span>🔱 10085</span>
 					</div>
 				<div class="stars-today">⭐ 2006 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/shiyu-coder/Kronos" target="_blank">
+				<p><a href="https://github.com/Thysrael/Horizon" target="_blank">
     
 
 
       
-        shiyu-coder /
+        Thysrael /
 
-      Kronos</a></p>
+      Horizon</a></p>
 				<p>
-      Kronos: A Foundation Model for the Language of Financial Markets
+      📡 Your own AI-powered news radar. Generates daily briefings in English & Chinese. | 用 AI 构建你专属的新闻雷达
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 46704</span>
-						<span>🔱 7684</span>
+						<span>⭐ 12411</span>
+						<span>🔱 1814</span>
 					</div>
-				<div class="stars-today">⭐ 506 stars today</div>
+				<div class="stars-today">⭐ 121 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/Donchitos/Claude-Code-Game-Studios" target="_blank">
+				<p><a href="https://github.com/scenario-labs/skills" target="_blank">
     
 
 
       
-        Donchitos /
+        scenario-labs /
 
-      Claude-Code-Game-Studios</a></p>
+      skills</a></p>
 				<p>
-      Turn Claude Code into a full game dev studio — 49 AI agents, 72 workflow skills, and a complete coordination system mirroring real studio hierarchy.
+      Get production-ready images, video, audio, and 3D from any AI agent: skills that pick the right model, price before spending, and keep characters and brands consistent through the Scenario MCP, plus expert teams that drive Blender, Maya, ZBrush, Unreal, and Unity.
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Shell</span>
-						<span>⭐ 35150</span>
-						<span>🔱 4646</span>
+						<span>🔠 Python</span>
+						<span>⭐ 2295</span>
+						<span>🔱 244</span>
 					</div>
-				<div class="stars-today">⭐ 1032 stars today</div>
+				<div class="stars-today">⭐ 224 stars today</div>
 				</div>
 			</div>
 	
