@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2026年11月
-date: 2026-11-05T00:32:34Z
+date: 2026-11-05T08:35:04Z
 categories:
 - monthly
 keywords:
@@ -30,8 +30,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 430849</span>
-						<span>🔱 107081</span>
+						<span>⭐ 432228</span>
+						<span>🔱 107384</span>
 					</div>
 				<div class="stars-today">⭐ 430285 stars this month</div>
 				</div>
@@ -52,8 +52,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 C++</span>
-						<span>⭐ 51180</span>
-						<span>🔱 4873</span>
+						<span>⭐ 51279</span>
+						<span>🔱 4880</span>
 					</div>
 				<div class="stars-today">⭐ 47878 stars this month</div>
 				</div>
@@ -74,8 +74,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 JavaScript</span>
-						<span>⭐ 59373</span>
-						<span>🔱 3855</span>
+						<span>⭐ 59919</span>
+						<span>🔱 3898</span>
 					</div>
 				<div class="stars-today">⭐ 34859 stars this month</div>
 				</div>
@@ -96,8 +96,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 CSS</span>
-						<span>⭐ 47921</span>
-						<span>🔱 2531</span>
+						<span>⭐ 48241</span>
+						<span>🔱 2559</span>
 					</div>
 				<div class="stars-today">⭐ 18210 stars this month</div>
 				</div>
@@ -118,8 +118,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 78940</span>
-						<span>🔱 7267</span>
+						<span>⭐ 79160</span>
+						<span>🔱 7289</span>
 					</div>
 				<div class="stars-today">⭐ 22621 stars this month</div>
 				</div>
@@ -140,8 +140,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 100992</span>
-						<span>🔱 11180</span>
+						<span>⭐ 101323</span>
+						<span>🔱 11222</span>
 					</div>
 				<div class="stars-today">⭐ 48420 stars this month</div>
 				</div>
@@ -162,8 +162,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Java</span>
-						<span>⭐ 97839</span>
-						<span>🔱 11062</span>
+						<span>⭐ 97941</span>
+						<span>🔱 11077</span>
 					</div>
 				<div class="stars-today">⭐ 17528 stars this month</div>
 				</div>
@@ -184,8 +184,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 34735</span>
-						<span>🔱 3832</span>
+						<span>⭐ 34783</span>
+						<span>🔱 3833</span>
 					</div>
 				<div class="stars-today">⭐ 8764 stars this month</div>
 				</div>
@@ -206,8 +206,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 112839</span>
-						<span>🔱 9800</span>
+						<span>⭐ 113156</span>
+						<span>🔱 9821</span>
 					</div>
 				<div class="stars-today">⭐ 17262 stars this month</div>
 				</div>
@@ -226,8 +226,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 46598</span>
-						<span>🔱 9456</span>
+						<span>⭐ 47103</span>
+						<span>🔱 9506</span>
 					</div>
 				<div class="stars-today">⭐ 20763 stars this month</div>
 				</div>
@@ -248,8 +248,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Rust</span>
-						<span>⭐ 102805</span>
-						<span>🔱 6081</span>
+						<span>⭐ 103213</span>
+						<span>🔱 6111</span>
 					</div>
 				<div class="stars-today">⭐ 26803 stars this month</div>
 				</div>
@@ -270,10 +270,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 25423</span>
-						<span>🔱 2410</span>
+						<span>⭐ 25528</span>
+						<span>🔱 2419</span>
 					</div>
 				<div class="stars-today">⭐ 8831 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/mksglu/context-mode" target="_blank">
+    
+
+
+      
+        mksglu /
+
+      context-mode</a></p>
+				<p>
+      Free, local plugin that keeps tool output out of your coding agent's context window. Sandbox and SQLite FTS5 search, 99% fewer bytes in context. Works with Claude Code, Codex, Pi, OpenCode, Gemini CLI, Copilot CLI and 4 more agents. Zero telemetry.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 JavaScript</span>
+						<span>⭐ 33514</span>
+						<span>🔱 2303</span>
+					</div>
+				<div class="stars-today">⭐ 8322 stars this month</div>
 				</div>
 			</div>
 	
@@ -292,8 +314,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 46120</span>
-						<span>🔱 4796</span>
+						<span>⭐ 46179</span>
+						<span>🔱 4798</span>
 					</div>
 				<div class="stars-today">⭐ 8948 stars this month</div>
 				</div>
@@ -314,8 +336,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 13174</span>
-						<span>🔱 686</span>
+						<span>⭐ 13258</span>
+						<span>🔱 689</span>
 					</div>
 				<div class="stars-today">⭐ 10748 stars this month</div>
 				</div>
