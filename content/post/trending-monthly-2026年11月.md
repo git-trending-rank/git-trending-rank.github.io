@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2026年11月
-date: 2026-11-05T08:35:04Z
+date: 2026-11-05T17:40:50Z
 categories:
 - monthly
 keywords:
@@ -30,8 +30,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 432228</span>
-						<span>🔱 107384</span>
+						<span>⭐ 433644</span>
+						<span>🔱 107668</span>
 					</div>
 				<div class="stars-today">⭐ 430285 stars this month</div>
 				</div>
@@ -52,8 +52,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 C++</span>
-						<span>⭐ 51279</span>
-						<span>🔱 4880</span>
+						<span>⭐ 51407</span>
+						<span>🔱 4892</span>
 					</div>
 				<div class="stars-today">⭐ 47878 stars this month</div>
 				</div>
@@ -74,8 +74,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 JavaScript</span>
-						<span>⭐ 59919</span>
-						<span>🔱 3898</span>
+						<span>⭐ 60909</span>
+						<span>🔱 3955</span>
 					</div>
 				<div class="stars-today">⭐ 34859 stars this month</div>
 				</div>
@@ -96,8 +96,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 CSS</span>
-						<span>⭐ 48241</span>
-						<span>🔱 2559</span>
+						<span>⭐ 48565</span>
+						<span>🔱 2576</span>
 					</div>
 				<div class="stars-today">⭐ 18210 stars this month</div>
 				</div>
@@ -118,8 +118,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 79160</span>
-						<span>🔱 7289</span>
+						<span>⭐ 79408</span>
+						<span>🔱 7310</span>
 					</div>
 				<div class="stars-today">⭐ 22621 stars this month</div>
 				</div>
@@ -140,8 +140,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 101323</span>
-						<span>🔱 11222</span>
+						<span>⭐ 101699</span>
+						<span>🔱 11283</span>
 					</div>
 				<div class="stars-today">⭐ 48420 stars this month</div>
 				</div>
@@ -162,32 +162,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Java</span>
-						<span>⭐ 97941</span>
-						<span>🔱 11077</span>
+						<span>⭐ 98056</span>
+						<span>🔱 11097</span>
 					</div>
 				<div class="stars-today">⭐ 17528 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/anthropics/knowledge-work-plugins" target="_blank">
-    
-
-
-      
-        anthropics /
-
-      knowledge-work-plugins</a></p>
-				<p>
-      Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 34783</span>
-						<span>🔱 3833</span>
-					</div>
-				<div class="stars-today">⭐ 8764 stars this month</div>
 				</div>
 			</div>
 	
@@ -206,8 +184,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 113156</span>
-						<span>🔱 9821</span>
+						<span>⭐ 113409</span>
+						<span>🔱 9844</span>
 					</div>
 				<div class="stars-today">⭐ 17262 stars this month</div>
 				</div>
@@ -226,8 +204,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 47103</span>
-						<span>🔱 9506</span>
+						<span>⭐ 47866</span>
+						<span>🔱 9581</span>
 					</div>
 				<div class="stars-today">⭐ 20763 stars this month</div>
 				</div>
@@ -248,98 +226,54 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Rust</span>
-						<span>⭐ 103213</span>
-						<span>🔱 6111</span>
+						<span>⭐ 103672</span>
+						<span>🔱 6136</span>
 					</div>
 				<div class="stars-today">⭐ 26803 stars this month</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/earthtojake/text-to-cad" target="_blank">
-    
-
-
-      
-        earthtojake /
-
-      text-to-cad</a></p>
-				<p>
-      Design physical products with AI
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 25528</span>
-						<span>🔱 2419</span>
-					</div>
-				<div class="stars-today">⭐ 8831 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/mksglu/context-mode" target="_blank">
-    
-
-
-      
-        mksglu /
-
-      context-mode</a></p>
-				<p>
-      Free, local plugin that keeps tool output out of your coding agent's context window. Sandbox and SQLite FTS5 search, 99% fewer bytes in context. Works with Claude Code, Codex, Pi, OpenCode, Gemini CLI, Copilot CLI and 4 more agents. Zero telemetry.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 JavaScript</span>
-						<span>⭐ 33514</span>
-						<span>🔱 2303</span>
-					</div>
-				<div class="stars-today">⭐ 8322 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/anthropics/claude-plugins-official" target="_blank">
+				<p><a href="https://github.com/anthropics/knowledge-work-plugins" target="_blank">
     
 
 
       
         anthropics /
 
-      claude-plugins-official</a></p>
+      knowledge-work-plugins</a></p>
 				<p>
-      Official, Anthropic-managed directory of high quality Claude Code Plugins.
+      Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 46179</span>
-						<span>🔱 4798</span>
+						<span>⭐ 34835</span>
+						<span>🔱 3836</span>
 					</div>
-				<div class="stars-today">⭐ 8948 stars this month</div>
+				<div class="stars-today">⭐ 8764 stars this month</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/tester-army/e2e" target="_blank">
+				<p><a href="https://github.com/HKUDS/DeepTutor" target="_blank">
     
 
 
       
-        tester-army /
+        HKUDS /
 
-      e2e</a></p>
+      DeepTutor</a></p>
 				<p>
-      Next generation e2e testing framework for web and mobile apps.
+      DeepTutor: Lifelong Personalized Tutoring. https://deeptutor.info/.
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 13258</span>
-						<span>🔱 689</span>
+						<span>🔠 Python</span>
+						<span>⭐ 55354</span>
+						<span>🔱 6784</span>
 					</div>
-				<div class="stars-today">⭐ 10748 stars this month</div>
+				<div class="stars-today">⭐ 14543 stars this month</div>
 				</div>
 			</div>
 	
