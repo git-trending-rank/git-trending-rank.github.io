@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2026年11月
-date: 2026-11-06T03:43:57Z
+date: 2026-11-06T11:37:26Z
 categories:
 - monthly
 keywords:
@@ -30,10 +30,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 434884</span>
-						<span>🔱 107922</span>
+						<span>⭐ 436187</span>
+						<span>🔱 108197</span>
 					</div>
 				<div class="stars-today">⭐ 430792 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/storytold/artcraft" target="_blank">
+    
+
+
+      
+        storytold /
+
+      artcraft</a></p>
+				<p>
+      ArtCraft is an intentional crafting engine for artists, designers, and filmmakers
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Rust</span>
+						<span>⭐ 39082</span>
+						<span>🔱 6170</span>
+					</div>
+				<div class="stars-today">⭐ 36681 stars this month</div>
 				</div>
 			</div>
 	
@@ -52,32 +74,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 C++</span>
-						<span>⭐ 51519</span>
-						<span>🔱 4903</span>
+						<span>⭐ 51622</span>
+						<span>🔱 4915</span>
 					</div>
 				<div class="stars-today">⭐ 47184 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/cloudflare/security-audit-skill" target="_blank">
-    
-
-
-      
-        cloudflare /
-
-      security-audit-skill</a></p>
-				<p>
-      A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 JavaScript</span>
-						<span>⭐ 61827</span>
-						<span>🔱 4011</span>
-					</div>
-				<div class="stars-today">⭐ 35956 stars this month</div>
 				</div>
 			</div>
 	
@@ -96,32 +96,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 CSS</span>
-						<span>⭐ 48879</span>
-						<span>🔱 2589</span>
+						<span>⭐ 49182</span>
+						<span>🔱 2608</span>
 					</div>
 				<div class="stars-today">⭐ 19070 stars this month</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/heygen-com/hyperframes" target="_blank">
+				<p><a href="https://github.com/cloudflare/security-audit-skill" target="_blank">
     
 
 
       
-        heygen-com /
+        cloudflare /
 
-      hyperframes</a></p>
+      security-audit-skill</a></p>
 				<p>
-      Write HTML. Render video. Built for agents.
+      A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 79640</span>
-						<span>🔱 7331</span>
+						<span>🔠 JavaScript</span>
+						<span>⭐ 62683</span>
+						<span>🔱 4065</span>
 					</div>
-				<div class="stars-today">⭐ 22694 stars this month</div>
+				<div class="stars-today">⭐ 35956 stars this month</div>
 				</div>
 			</div>
 	
@@ -140,32 +140,52 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 102061</span>
-						<span>🔱 11316</span>
+						<span>⭐ 102366</span>
+						<span>🔱 11344</span>
 					</div>
 				<div class="stars-today">⭐ 48803 stars this month</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/NationalSecurityAgency/ghidra" target="_blank">
+				<p><a href="https://github.com/heygen-com/hyperframes" target="_blank">
     
 
 
       
-        NationalSecurityAgency /
+        heygen-com /
 
-      ghidra</a></p>
+      hyperframes</a></p>
 				<p>
-      Ghidra is a software reverse engineering (SRE) framework
+      Write HTML. Render video. Built for agents.
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Java</span>
-						<span>⭐ 98169</span>
-						<span>🔱 11111</span>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 79849</span>
+						<span>🔱 7349</span>
 					</div>
-				<div class="stars-today">⭐ 17641 stars this month</div>
+				<div class="stars-today">⭐ 22694 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/pingdotgg/t3code" target="_blank">
+    
+
+
+      
+        pingdotgg /
+
+      t3code</a></p>
+				<p></p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 48919</span>
+						<span>🔱 9680</span>
+					</div>
+				<div class="stars-today">⭐ 22239 stars this month</div>
 				</div>
 			</div>
 	
@@ -184,30 +204,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 113617</span>
-						<span>🔱 9854</span>
+						<span>⭐ 113764</span>
+						<span>🔱 9868</span>
 					</div>
 				<div class="stars-today">⭐ 17621 stars this month</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/pingdotgg/t3code" target="_blank">
+				<p><a href="https://github.com/NationalSecurityAgency/ghidra" target="_blank">
     
 
 
       
-        pingdotgg /
+        NationalSecurityAgency /
 
-      t3code</a></p>
-				<p></p>
+      ghidra</a></p>
+				<p>
+      Ghidra is a software reverse engineering (SRE) framework
+    </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 48496</span>
-						<span>🔱 9637</span>
+						<span>🔠 Java</span>
+						<span>⭐ 98258</span>
+						<span>🔱 11120</span>
 					</div>
-				<div class="stars-today">⭐ 22239 stars this month</div>
+				<div class="stars-today">⭐ 17641 stars this month</div>
 				</div>
 			</div>
 	
@@ -226,32 +248,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Rust</span>
-						<span>⭐ 104058</span>
-						<span>🔱 6165</span>
+						<span>⭐ 104348</span>
+						<span>🔱 6189</span>
 					</div>
 				<div class="stars-today">⭐ 27205 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/anthropics/knowledge-work-plugins" target="_blank">
-    
-
-
-      
-        anthropics /
-
-      knowledge-work-plugins</a></p>
-				<p>
-      Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 34886</span>
-						<span>🔱 3842</span>
-					</div>
-				<div class="stars-today">⭐ 8823 stars this month</div>
 				</div>
 			</div>
 	
@@ -270,10 +270,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 55532</span>
-						<span>🔱 6807</span>
+						<span>⭐ 55716</span>
+						<span>🔱 6827</span>
 					</div>
 				<div class="stars-today">⭐ 14748 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/anthropics/knowledge-work-plugins" target="_blank">
+    
+
+
+      
+        anthropics /
+
+      knowledge-work-plugins</a></p>
+				<p>
+      Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 34932</span>
+						<span>🔱 3850</span>
+					</div>
+				<div class="stars-today">⭐ 8823 stars this month</div>
 				</div>
 			</div>
 	

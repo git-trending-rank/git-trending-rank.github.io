@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2026年第45周
-date: 2026-11-06T03:43:57Z
+date: 2026-11-06T11:37:26Z
 categories:
 - weekly
 keywords:
@@ -30,32 +30,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 113617</span>
-						<span>🔱 9854</span>
+						<span>⭐ 113764</span>
+						<span>🔱 9868</span>
 					</div>
 				<div class="stars-today">⭐ 9318 stars this week</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/Nutlope/hallmark" target="_blank">
+				<p><a href="https://github.com/Donchitos/Claude-Code-Game-Studios" target="_blank">
     
 
 
       
-        Nutlope /
+        Donchitos /
 
-      hallmark</a></p>
+      Claude-Code-Game-Studios</a></p>
 				<p>
-      Anti-AI-slop design skill for Claude Code, Cursor, and Codex.
+      Turn Claude Code into a full game dev studio — 49 AI agents, 72 workflow skills, and a complete coordination system mirroring real studio hierarchy.
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 CSS</span>
-						<span>⭐ 48879</span>
-						<span>🔱 2589</span>
+						<span>🔠 Shell</span>
+						<span>⭐ 35870</span>
+						<span>🔱 4745</span>
 					</div>
-				<div class="stars-today">⭐ 6994 stars this week</div>
+				<div class="stars-today">⭐ 6685 stars this week</div>
 				</div>
 			</div>
 	
@@ -72,54 +72,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 48496</span>
-						<span>🔱 9637</span>
+						<span>⭐ 48919</span>
+						<span>🔱 9680</span>
 					</div>
 				<div class="stars-today">⭐ 16235 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/anthropics/skills" target="_blank">
-    
-
-
-      
-        anthropics /
-
-      skills</a></p>
-				<p>
-      Public repository for Agent Skills
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 187808</span>
-						<span>🔱 22154</span>
-					</div>
-				<div class="stars-today">⭐ 3072 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/HKUDS/DeepTutor" target="_blank">
-    
-
-
-      
-        HKUDS /
-
-      DeepTutor</a></p>
-				<p>
-      DeepTutor: Lifelong Personalized Tutoring. https://deeptutor.info/.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 55532</span>
-						<span>🔱 6807</span>
-					</div>
-				<div class="stars-today">⭐ 6229 stars this week</div>
 				</div>
 			</div>
 	
@@ -138,10 +94,54 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Rust</span>
-						<span>⭐ 11577</span>
-						<span>🔱 440</span>
+						<span>⭐ 11721</span>
+						<span>🔱 449</span>
 					</div>
 				<div class="stars-today">⭐ 1802 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/Nutlope/hallmark" target="_blank">
+    
+
+
+      
+        Nutlope /
+
+      hallmark</a></p>
+				<p>
+      Anti-AI-slop design skill for Claude Code, Cursor, and Codex.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 CSS</span>
+						<span>⭐ 49182</span>
+						<span>🔱 2608</span>
+					</div>
+				<div class="stars-today">⭐ 6994 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/anthropics/skills" target="_blank">
+    
+
+
+      
+        anthropics /
+
+      skills</a></p>
+				<p>
+      Public repository for Agent Skills
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 187970</span>
+						<span>🔱 22164</span>
+					</div>
+				<div class="stars-today">⭐ 3072 stars this week</div>
 				</div>
 			</div>
 	
@@ -160,32 +160,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 13622</span>
-						<span>🔱 1884</span>
+						<span>⭐ 14233</span>
+						<span>🔱 1959</span>
 					</div>
 				<div class="stars-today">⭐ 5580 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/obra/superpowers" target="_blank">
-    
-
-
-      
-        obra /
-
-      superpowers</a></p>
-				<p>
-      An agentic skills framework & software development methodology that works.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Shell</span>
-						<span>⭐ 313087</span>
-						<span>🔱 27855</span>
-					</div>
-				<div class="stars-today">⭐ 5131 stars this week</div>
 				</div>
 			</div>
 	
@@ -204,10 +182,54 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Rust</span>
-						<span>⭐ 104058</span>
-						<span>🔱 6165</span>
+						<span>⭐ 104348</span>
+						<span>🔱 6189</span>
 					</div>
 				<div class="stars-today">⭐ 9303 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/obra/superpowers" target="_blank">
+    
+
+
+      
+        obra /
+
+      superpowers</a></p>
+				<p>
+      An agentic skills framework & software development methodology that works.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Shell</span>
+						<span>⭐ 313302</span>
+						<span>🔱 27871</span>
+					</div>
+				<div class="stars-today">⭐ 5131 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/HKUDS/DeepTutor" target="_blank">
+    
+
+
+      
+        HKUDS /
+
+      DeepTutor</a></p>
+				<p>
+      DeepTutor: Lifelong Personalized Tutoring. https://deeptutor.info/.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 55716</span>
+						<span>🔱 6827</span>
+					</div>
+				<div class="stars-today">⭐ 6229 stars this week</div>
 				</div>
 			</div>
 	
@@ -226,7 +248,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 C++</span>
-						<span>⭐ 40376</span>
+						<span>⭐ 40405</span>
 						<span>🔱 2169</span>
 					</div>
 				<div class="stars-today">⭐ 1371 stars this week</div>
@@ -248,8 +270,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Markdown</span>
-						<span>⭐ 11063</span>
-						<span>🔱 426</span>
+						<span>⭐ 11161</span>
+						<span>🔱 431</span>
 					</div>
 				<div class="stars-today">⭐ 1840 stars this week</div>
 				</div>
@@ -270,76 +292,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 77254</span>
-						<span>🔱 10264</span>
+						<span>⭐ 77441</span>
+						<span>🔱 10292</span>
 					</div>
 				<div class="stars-today">⭐ 4132 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/multica-ai/andrej-karpathy-skills" target="_blank">
-    
-
-
-      
-        multica-ai /
-
-      andrej-karpathy-skills</a></p>
-				<p>
-      A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 </span>
-						<span>⭐ 229922</span>
-						<span>🔱 22886</span>
-					</div>
-				<div class="stars-today">⭐ 3713 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/ghostty-org/ghostty" target="_blank">
-    
-
-
-      
-        ghostty-org /
-
-      ghostty</a></p>
-				<p>
-      👻 Ghostty is a fast, feature-rich, and cross-platform terminal emulator that uses platform-native UI and GPU acceleration.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Zig</span>
-						<span>⭐ 63661</span>
-						<span>🔱 3831</span>
-					</div>
-				<div class="stars-today">⭐ 726 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/Leonxlnx/taste-skill" target="_blank">
-    
-
-
-      
-        Leonxlnx /
-
-      taste-skill</a></p>
-				<p>
-      Agent skills that give coding agents taste: art direction, reference images and a browser check instead of generic AI pages
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 JavaScript</span>
-						<span>⭐ 110761</span>
-						<span>🔱 7438</span>
-					</div>
-				<div class="stars-today">⭐ 5426 stars this week</div>
 				</div>
 			</div>
 	
@@ -358,10 +314,98 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 15117</span>
-						<span>🔱 2114</span>
+						<span>⭐ 15192</span>
+						<span>🔱 2119</span>
 					</div>
 				<div class="stars-today">⭐ 1355 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/nightly-labs/openbot" target="_blank">
+    
+
+
+      
+        nightly-labs /
+
+      openbot</a></p>
+				<p>
+      A local-first desktop workspace for persistent AI teammates. Run Codex, Claude, and Grok with dedicated workspaces, task queues, file sharing, browser control, and agent-to-agent collaboration.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 5907</span>
+						<span>🔱 608</span>
+					</div>
+				<div class="stars-today">⭐ 2085 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/D4Vinci/Scrapling" target="_blank">
+    
+
+
+      
+        D4Vinci /
+
+      Scrapling</a></p>
+				<p>
+      🕷️ The BEST Web Scraping framework that handles everything from a single request to a full-scale crawl! Don't be shy, join here: https://discord.gg/EMgGbDceNQ and follow here for daily tips and tricks: https://x.com/Scrapling_dev
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 98559</span>
+						<span>🔱 10315</span>
+					</div>
+				<div class="stars-today">⭐ 7487 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/multica-ai/andrej-karpathy-skills" target="_blank">
+    
+
+
+      
+        multica-ai /
+
+      andrej-karpathy-skills</a></p>
+				<p>
+      A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 </span>
+						<span>⭐ 230071</span>
+						<span>🔱 22900</span>
+					</div>
+				<div class="stars-today">⭐ 3713 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/shiyu-coder/Kronos" target="_blank">
+    
+
+
+      
+        shiyu-coder /
+
+      Kronos</a></p>
+				<p>
+      Kronos: A Foundation Model for the Language of Financial Markets
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 46990</span>
+						<span>🔱 7770</span>
+					</div>
+				<div class="stars-today">⭐ 2979 stars this week</div>
 				</div>
 			</div>
 	
