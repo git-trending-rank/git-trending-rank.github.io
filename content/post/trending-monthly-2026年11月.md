@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2026年11月
-date: 2026-11-07T03:16:22Z
+date: 2026-11-07T10:42:55Z
 categories:
 - monthly
 keywords:
@@ -30,54 +30,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 438323</span>
-						<span>🔱 108599</span>
+						<span>⭐ 439254</span>
+						<span>🔱 108800</span>
 					</div>
 				<div class="stars-today">⭐ 431436 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/storytold/artcraft" target="_blank">
-    
-
-
-      
-        storytold /
-
-      artcraft</a></p>
-				<p>
-      ArtCraft is an intentional crafting engine for artists, designers, and filmmakers
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Rust</span>
-						<span>⭐ 39284</span>
-						<span>🔱 6193</span>
-					</div>
-				<div class="stars-today">⭐ 36600 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/boykopovar/AnyPS5" target="_blank">
-    
-
-
-      
-        boykopovar /
-
-      AnyPS5</a></p>
-				<p>
-      Tool for automatic PS5 executables porting to Linux and Windows
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 C++</span>
-						<span>⭐ 51824</span>
-						<span>🔱 4933</span>
-					</div>
-				<div class="stars-today">⭐ 46561 stars this month</div>
 				</div>
 			</div>
 	
@@ -96,10 +52,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 CSS</span>
-						<span>⭐ 49681</span>
-						<span>🔱 2634</span>
+						<span>⭐ 49874</span>
+						<span>🔱 2643</span>
 					</div>
 				<div class="stars-today">⭐ 19792 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/storytold/artcraft" target="_blank">
+    
+
+
+      
+        storytold /
+
+      artcraft</a></p>
+				<p>
+      ArtCraft is an intentional crafting engine for artists, designers, and filmmakers
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Rust</span>
+						<span>⭐ 39383</span>
+						<span>🔱 6204</span>
+					</div>
+				<div class="stars-today">⭐ 36600 stars this month</div>
 				</div>
 			</div>
 	
@@ -118,10 +96,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 JavaScript</span>
-						<span>⭐ 64202</span>
-						<span>🔱 4161</span>
+						<span>⭐ 64676</span>
+						<span>🔱 4201</span>
 					</div>
 				<div class="stars-today">⭐ 38004 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/boykopovar/AnyPS5" target="_blank">
+    
+
+
+      
+        boykopovar /
+
+      AnyPS5</a></p>
+				<p>
+      Tool for automatic PS5 executables porting to Linux and Windows
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 C++</span>
+						<span>⭐ 51891</span>
+						<span>🔱 4941</span>
+					</div>
+				<div class="stars-today">⭐ 46561 stars this month</div>
 				</div>
 			</div>
 	
@@ -140,8 +140,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 102990</span>
-						<span>🔱 11430</span>
+						<span>⭐ 103262</span>
+						<span>🔱 11467</span>
 					</div>
 				<div class="stars-today">⭐ 49078 stars this month</div>
 				</div>
@@ -162,8 +162,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 80159</span>
-						<span>🔱 7394</span>
+						<span>⭐ 80278</span>
+						<span>🔱 7406</span>
 					</div>
 				<div class="stars-today">⭐ 22718 stars this month</div>
 				</div>
@@ -182,8 +182,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 49929</span>
-						<span>🔱 9755</span>
+						<span>⭐ 50381</span>
+						<span>🔱 9804</span>
 					</div>
 				<div class="stars-today">⭐ 23406 stars this month</div>
 				</div>
@@ -204,32 +204,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 114066</span>
-						<span>🔱 9893</span>
+						<span>⭐ 114200</span>
+						<span>🔱 9911</span>
 					</div>
 				<div class="stars-today">⭐ 17612 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/NationalSecurityAgency/ghidra" target="_blank">
-    
-
-
-      
-        NationalSecurityAgency /
-
-      ghidra</a></p>
-				<p>
-      Ghidra is a software reverse engineering (SRE) framework
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Java</span>
-						<span>⭐ 98405</span>
-						<span>🔱 11140</span>
-					</div>
-				<div class="stars-today">⭐ 17642 stars this month</div>
 				</div>
 			</div>
 	
@@ -248,54 +226,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Rust</span>
-						<span>⭐ 104883</span>
-						<span>🔱 6233</span>
+						<span>⭐ 105079</span>
+						<span>🔱 6242</span>
 					</div>
 				<div class="stars-today">⭐ 27610 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/HKUDS/DeepTutor" target="_blank">
-    
-
-
-      
-        HKUDS /
-
-      DeepTutor</a></p>
-				<p>
-      DeepTutor: Lifelong Personalized Tutoring. https://deeptutor.info/.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 55996</span>
-						<span>🔱 6849</span>
-					</div>
-				<div class="stars-today">⭐ 15214 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/anthropics/knowledge-work-plugins" target="_blank">
-    
-
-
-      
-        anthropics /
-
-      knowledge-work-plugins</a></p>
-				<p>
-      Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 35017</span>
-						<span>🔱 3854</span>
-					</div>
-				<div class="stars-today">⭐ 8836 stars this month</div>
 				</div>
 			</div>
 	
