@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2026-11-08
-date: 2026-11-08T08:03:17Z
+date: 2026-11-08T16:23:05Z
 categories:
 - daily
 keywords:
@@ -14,160 +14,6 @@ keywords:
 	<main class="container">
         <div class="repo-list" id="repoList">
 
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/vercel-labs/agent-browser" target="_blank">
-    
-
-
-      
-        vercel-labs /
-
-      agent-browser</a></p>
-				<p>
-      Browser automation CLI for AI agents
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Rust</span>
-						<span>⭐ 47065</span>
-						<span>🔱 3227</span>
-					</div>
-				<div class="stars-today">⭐ 190 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/cloudflare/security-audit-skill" target="_blank">
-    
-
-
-      
-        cloudflare /
-
-      security-audit-skill</a></p>
-				<p>
-      A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 JavaScript</span>
-						<span>⭐ 66111</span>
-						<span>🔱 4300</span>
-					</div>
-				<div class="stars-today">⭐ 2085 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/google/skills" target="_blank">
-    
-
-
-      
-        google /
-
-      skills</a></p>
-				<p>
-      Agent Skills for Google products and technologies
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 23553</span>
-						<span>🔱 1967</span>
-					</div>
-				<div class="stars-today">⭐ 443 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/mattpocock/skills" target="_blank">
-    
-
-
-      
-        mattpocock /
-
-      skills</a></p>
-				<p>
-      Skills for Real Engineers. Straight from my .agents directory.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Shell</span>
-						<span>⭐ 317993</span>
-						<span>🔱 26607</span>
-					</div>
-				<div class="stars-today">⭐ 1100 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/anthropics/skills" target="_blank">
-    
-
-
-      
-        anthropics /
-
-      skills</a></p>
-				<p>
-      Public repository for Agent Skills
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 188983</span>
-						<span>🔱 22277</span>
-					</div>
-				<div class="stars-today">⭐ 390 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/meta/astryx" target="_blank">
-    
-
-
-      
-        meta /
-
-      astryx</a></p>
-				<p>
-      An open source design system that's fully customizable and agent ready
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 14813</span>
-						<span>🔱 1212</span>
-					</div>
-				<div class="stars-today">⭐ 96 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/prometheus/prometheus" target="_blank">
-    
-
-
-      
-        prometheus /
-
-      prometheus</a></p>
-				<p>
-      The Prometheus monitoring system and time series database.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Go</span>
-						<span>⭐ 67504</span>
-						<span>🔱 11011</span>
-					</div>
-				<div class="stars-today">⭐ 322 stars today</div>
-				</div>
-			</div>
 	
 			<div class="repo-card">
 				<p><a href="https://github.com/sherlock-project/sherlock" target="_blank">
@@ -184,142 +30,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 101224</span>
-						<span>🔱 11964</span>
+						<span>⭐ 102552</span>
+						<span>🔱 12069</span>
 					</div>
-				<div class="stars-today">⭐ 1766 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/milind-soni/OpenMausBot" target="_blank">
-    
-
-
-      
-        milind-soni /
-
-      OpenMausBot</a></p>
-				<p>
-      Open-source Grok Bot alternative with a virtual machine that bots can use
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 17396</span>
-						<span>🔱 2447</span>
-					</div>
-				<div class="stars-today">⭐ 1955 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/astral-sh/ruff" target="_blank">
-    
-
-
-      
-        astral-sh /
-
-      ruff</a></p>
-				<p>
-      An extremely fast Python linter and code formatter, written in Rust.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Rust</span>
-						<span>⭐ 51047</span>
-						<span>🔱 2634</span>
-					</div>
-				<div class="stars-today">⭐ 350 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/tailwindlabs/tailwindcss" target="_blank">
-    
-
-
-      
-        tailwindlabs /
-
-      tailwindcss</a></p>
-				<p>
-      A utility-first CSS framework for rapid UI development.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 98593</span>
-						<span>🔱 7119</span>
-					</div>
-				<div class="stars-today">⭐ 122 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/mbillow/localthings" target="_blank">
-    
-
-
-      
-        mbillow /
-
-      localthings</a></p>
-				<p>
-      Control your Samsung appliances from Home Assistant over your home network, with no cloud account.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 1109</span>
-						<span>🔱 114</span>
-					</div>
-				<div class="stars-today">⭐ 186 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/zed-industries/zed" target="_blank">
-    
-
-
-      
-        zed-industries /
-
-      zed</a></p>
-				<p>
-      Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Rust</span>
-						<span>⭐ 94376</span>
-						<span>🔱 11558</span>
-					</div>
-				<div class="stars-today">⭐ 1114 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/ranxianglei/billion-context" target="_blank">
-    
-
-
-      
-        ranxianglei /
-
-      billion-context</a></p>
-				<p>
-      A context-compression plugin for month-long single sessions (billions of tokens) ,small context windows (a 100K context is enough) and token savings (5x fewer tokens) .上下文压缩插件，月级长会话会话， 兼顾小窗口(100k上下文足矣)省token(省5倍token) . billion-context is all you need
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 4760</span>
-						<span>🔱 382</span>
-					</div>
-				<div class="stars-today">⭐ 191 stars today</div>
+				<div class="stars-today">⭐ 2372 stars today</div>
 				</div>
 			</div>
 	
@@ -338,10 +52,164 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Go</span>
-						<span>⭐ 629</span>
-						<span>🔱 96</span>
+						<span>⭐ 744</span>
+						<span>🔱 106</span>
 					</div>
-				<div class="stars-today">⭐ 123 stars today</div>
+				<div class="stars-today">⭐ 345 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/milind-soni/OpenMausBot" target="_blank">
+    
+
+
+      
+        milind-soni /
+
+      OpenMausBot</a></p>
+				<p>
+      Open-source Grok Bot alternative with a virtual machine that bots can use
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 17911</span>
+						<span>🔱 2501</span>
+					</div>
+				<div class="stars-today">⭐ 1437 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/anthropics/claude-quickstarts" target="_blank">
+    
+
+
+      
+        anthropics /
+
+      claude-quickstarts</a></p>
+				<p>
+      A collection of projects designed to help developers quickly get started with building deployable applications using the Claude API
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 19266</span>
+						<span>🔱 3268</span>
+					</div>
+				<div class="stars-today">⭐ 28 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/vercel-labs/agent-browser" target="_blank">
+    
+
+
+      
+        vercel-labs /
+
+      agent-browser</a></p>
+				<p>
+      Browser automation CLI for AI agents
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Rust</span>
+						<span>⭐ 47373</span>
+						<span>🔱 3244</span>
+					</div>
+				<div class="stars-today">⭐ 812 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/meta/astryx" target="_blank">
+    
+
+
+      
+        meta /
+
+      astryx</a></p>
+				<p>
+      An open source design system that's fully customizable and agent ready
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 15685</span>
+						<span>🔱 1261</span>
+					</div>
+				<div class="stars-today">⭐ 863 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/anthropics/skills" target="_blank">
+    
+
+
+      
+        anthropics /
+
+      skills</a></p>
+				<p>
+      Public repository for Agent Skills
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 189313</span>
+						<span>🔱 22312</span>
+					</div>
+				<div class="stars-today">⭐ 793 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/google-deepmind/mujoco" target="_blank">
+    
+
+
+      
+        google-deepmind /
+
+      mujoco</a></p>
+				<p>
+      Multi-Joint dynamics with Contact. A general purpose physics simulator.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 C++</span>
+						<span>⭐ 16239</span>
+						<span>🔱 1942</span>
+					</div>
+				<div class="stars-today">⭐ 26 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/ranxianglei/billion-context" target="_blank">
+    
+
+
+      
+        ranxianglei /
+
+      billion-context</a></p>
+				<p>
+      A context-compression plugin for month-long single sessions (billions of tokens) ,small context windows (a 100K context is enough) and token savings (5x fewer tokens) .上下文压缩插件，月级长会话会话， 兼顾小窗口(100k上下文足矣)省token(省5倍token) . billion-context is all you need
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 4962</span>
+						<span>🔱 397</span>
+					</div>
+				<div class="stars-today">⭐ 460 stars today</div>
 				</div>
 			</div>
 	

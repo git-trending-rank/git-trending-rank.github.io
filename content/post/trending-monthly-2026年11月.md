@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2026年11月
-date: 2026-11-08T08:03:17Z
+date: 2026-11-08T16:23:05Z
 categories:
 - monthly
 keywords:
@@ -30,8 +30,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 441806</span>
-						<span>🔱 109274</span>
+						<span>⭐ 442888</span>
+						<span>🔱 109464</span>
 					</div>
 				<div class="stars-today">⭐ 429845 stars this month</div>
 				</div>
@@ -52,32 +52,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 CSS</span>
-						<span>⭐ 50464</span>
-						<span>🔱 2676</span>
+						<span>⭐ 50727</span>
+						<span>🔱 2691</span>
 					</div>
 				<div class="stars-today">⭐ 20523 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/storytold/artcraft" target="_blank">
-    
-
-
-      
-        storytold /
-
-      artcraft</a></p>
-				<p>
-      ArtCraft is an intentional crafting engine for artists, designers, and filmmakers
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Rust</span>
-						<span>⭐ 39655</span>
-						<span>🔱 6232</span>
-					</div>
-				<div class="stars-today">⭐ 35633 stars this month</div>
 				</div>
 			</div>
 	
@@ -96,54 +74,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 JavaScript</span>
-						<span>⭐ 66111</span>
-						<span>🔱 4300</span>
+						<span>⭐ 66516</span>
+						<span>🔱 4336</span>
 					</div>
 				<div class="stars-today">⭐ 39571 stars this month</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/boykopovar/AnyPS5" target="_blank">
+				<p><a href="https://github.com/storytold/artcraft" target="_blank">
     
 
 
       
-        boykopovar /
+        storytold /
 
-      AnyPS5</a></p>
+      artcraft</a></p>
 				<p>
-      Tool for automatic PS5 executables porting to Linux and Windows
+      ArtCraft is an intentional crafting engine for artists, designers, and filmmakers
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 C++</span>
-						<span>⭐ 52135</span>
-						<span>🔱 4964</span>
+						<span>🔠 Rust</span>
+						<span>⭐ 39801</span>
+						<span>🔱 6244</span>
 					</div>
-				<div class="stars-today">⭐ 43690 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/debpalash/VoiceStudio" target="_blank">
-    
-
-
-      
-        debpalash /
-
-      VoiceStudio</a></p>
-				<p>
-      VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 104181</span>
-						<span>🔱 11589</span>
-					</div>
-				<div class="stars-today">⭐ 49671 stars this month</div>
+				<div class="stars-today">⭐ 35633 stars this month</div>
 				</div>
 			</div>
 	
@@ -162,10 +118,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 80702</span>
-						<span>🔱 7449</span>
+						<span>⭐ 80917</span>
+						<span>🔱 7468</span>
 					</div>
 				<div class="stars-today">⭐ 22531 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/debpalash/VoiceStudio" target="_blank">
+    
+
+
+      
+        debpalash /
+
+      VoiceStudio</a></p>
+				<p>
+      VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 104567</span>
+						<span>🔱 11635</span>
+					</div>
+				<div class="stars-today">⭐ 49671 stars this month</div>
 				</div>
 			</div>
 	
@@ -182,8 +160,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 51567</span>
-						<span>🔱 9916</span>
+						<span>⭐ 52108</span>
+						<span>🔱 9971</span>
 					</div>
 				<div class="stars-today">⭐ 24785 stars this month</div>
 				</div>
@@ -204,10 +182,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 114614</span>
-						<span>🔱 9942</span>
+						<span>⭐ 114757</span>
+						<span>🔱 9961</span>
 					</div>
 				<div class="stars-today">⭐ 17493 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/boykopovar/AnyPS5" target="_blank">
+    
+
+
+      
+        boykopovar /
+
+      AnyPS5</a></p>
+				<p>
+      Tool for automatic PS5 executables porting to Linux and Windows
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 C++</span>
+						<span>⭐ 52230</span>
+						<span>🔱 4970</span>
+					</div>
+				<div class="stars-today">⭐ 43690 stars this month</div>
 				</div>
 			</div>
 	
@@ -226,10 +226,54 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Rust</span>
-						<span>⭐ 105750</span>
-						<span>🔱 6286</span>
+						<span>⭐ 105991</span>
+						<span>🔱 6304</span>
 					</div>
 				<div class="stars-today">⭐ 27680 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/HKUDS/DeepTutor" target="_blank">
+    
+
+
+      
+        HKUDS /
+
+      DeepTutor</a></p>
+				<p>
+      DeepTutor: Lifelong Personalized Tutoring. https://deeptutor.info/.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 56816</span>
+						<span>🔱 6935</span>
+					</div>
+				<div class="stars-today">⭐ 15721 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/NationalSecurityAgency/ghidra" target="_blank">
+    
+
+
+      
+        NationalSecurityAgency /
+
+      ghidra</a></p>
+				<p>
+      Ghidra is a software reverse engineering (SRE) framework
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Java</span>
+						<span>⭐ 98685</span>
+						<span>🔱 11199</span>
+					</div>
+				<div class="stars-today">⭐ 17554 stars this month</div>
 				</div>
 			</div>
 	

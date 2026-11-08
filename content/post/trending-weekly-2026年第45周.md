@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2026年第45周
-date: 2026-11-08T08:03:18Z
+date: 2026-11-08T16:23:06Z
 categories:
 - weekly
 keywords:
@@ -14,6 +14,28 @@ keywords:
 	<main class="container">
         <div class="repo-list" id="repoList">
 
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/NVIDIA/auto-ontology" target="_blank">
+    
+
+
+      
+        NVIDIA /
+
+      auto-ontology</a></p>
+				<p>
+      Auto Ontology is a Python framework for building semantic, graph-based reasoning layers over data. It enables deterministic query generation, better context retrieval, and more explainable AI for LLM and agent workflows.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 10103</span>
+						<span>🔱 821</span>
+					</div>
+				<div class="stars-today">⭐ 9044 stars this week</div>
+				</div>
+			</div>
 	
 			<div class="repo-card">
 				<p><a href="https://github.com/thedotmack/claude-mem" target="_blank">
@@ -30,8 +52,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 114614</span>
-						<span>🔱 9942</span>
+						<span>⭐ 114757</span>
+						<span>🔱 9961</span>
 					</div>
 				<div class="stars-today">⭐ 7482 stars this week</div>
 				</div>
@@ -52,74 +74,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Rust</span>
-						<span>⭐ 11991</span>
-						<span>🔱 464</span>
+						<span>⭐ 12069</span>
+						<span>🔱 466</span>
 					</div>
 				<div class="stars-today">⭐ 2292 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/Donchitos/Claude-Code-Game-Studios" target="_blank">
-    
-
-
-      
-        Donchitos /
-
-      Claude-Code-Game-Studios</a></p>
-				<p>
-      Turn Claude Code into a full game dev studio — 49 AI agents, 72 workflow skills, and a complete coordination system mirroring real studio hierarchy.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Shell</span>
-						<span>⭐ 36719</span>
-						<span>🔱 4845</span>
-					</div>
-				<div class="stars-today">⭐ 5719 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/Renhuai123/ziwei-doushu" target="_blank">
-    
-
-
-      
-        Renhuai123 /
-
-      ziwei-doushu</a></p>
-				<p>
-      紫微斗数开源排盘引擎 — 基于倪海厦《天纪》体系，含完整排盘算法、四化系统、格局知识库、古籍原文数据
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 16795</span>
-						<span>🔱 3251</span>
-					</div>
-				<div class="stars-today">⭐ 4906 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/pingdotgg/t3code" target="_blank">
-    
-
-
-      
-        pingdotgg /
-
-      t3code</a></p>
-				<p></p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 51567</span>
-						<span>🔱 9916</span>
-					</div>
-				<div class="stars-today">⭐ 17100 stars this week</div>
 				</div>
 			</div>
 	
@@ -138,32 +96,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 188983</span>
-						<span>🔱 22277</span>
+						<span>⭐ 189313</span>
+						<span>🔱 22312</span>
 					</div>
 				<div class="stars-today">⭐ 2796 stars this week</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/Nutlope/hallmark" target="_blank">
+				<p><a href="https://github.com/Donchitos/Claude-Code-Game-Studios" target="_blank">
     
 
 
       
-        Nutlope /
+        Donchitos /
 
-      hallmark</a></p>
+      Claude-Code-Game-Studios</a></p>
 				<p>
-      Anti-AI-slop design skill for Claude Code, Cursor, and Codex.
+      Turn Claude Code into a full game dev studio — 49 AI agents, 72 workflow skills, and a complete coordination system mirroring real studio hierarchy.
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 CSS</span>
-						<span>⭐ 50464</span>
-						<span>🔱 2676</span>
+						<span>🔠 Shell</span>
+						<span>⭐ 36857</span>
+						<span>🔱 4861</span>
 					</div>
-				<div class="stars-today">⭐ 6624 stars this week</div>
+				<div class="stars-today">⭐ 5719 stars this week</div>
 				</div>
 			</div>
 	
@@ -182,10 +140,74 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 17396</span>
-						<span>🔱 2447</span>
+						<span>⭐ 17911</span>
+						<span>🔱 2501</span>
 					</div>
 				<div class="stars-today">⭐ 7077 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/pingdotgg/t3code" target="_blank">
+    
+
+
+      
+        pingdotgg /
+
+      t3code</a></p>
+				<p></p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 52108</span>
+						<span>🔱 9971</span>
+					</div>
+				<div class="stars-today">⭐ 17100 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/Nutlope/hallmark" target="_blank">
+    
+
+
+      
+        Nutlope /
+
+      hallmark</a></p>
+				<p>
+      Anti-AI-slop design skill for Claude Code, Cursor, and Codex.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 CSS</span>
+						<span>⭐ 50727</span>
+						<span>🔱 2691</span>
+					</div>
+				<div class="stars-today">⭐ 6624 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/Renhuai123/ziwei-doushu" target="_blank">
+    
+
+
+      
+        Renhuai123 /
+
+      ziwei-doushu</a></p>
+				<p>
+      紫微斗数开源排盘引擎 — 基于倪海厦《天纪》体系，含完整排盘算法、四化系统、格局知识库、古籍原文数据
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 16892</span>
+						<span>🔱 3266</span>
+					</div>
+				<div class="stars-today">⭐ 4906 stars this week</div>
 				</div>
 			</div>
 	
@@ -204,32 +226,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 99459</span>
-						<span>🔱 10413</span>
+						<span>⭐ 99688</span>
+						<span>🔱 10429</span>
 					</div>
 				<div class="stars-today">⭐ 8712 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/jakubkrehel/skills" target="_blank">
-    
-
-
-      
-        jakubkrehel /
-
-      skills</a></p>
-				<p>
-      A collection of agent skills that help you build great interfaces.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Markdown</span>
-						<span>⭐ 11567</span>
-						<span>🔱 450</span>
-					</div>
-				<div class="stars-today">⭐ 1938 stars this week</div>
 				</div>
 			</div>
 	
@@ -248,8 +248,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Rust</span>
-						<span>⭐ 47065</span>
-						<span>🔱 3227</span>
+						<span>⭐ 47373</span>
+						<span>🔱 3244</span>
 					</div>
 				<div class="stars-today">⭐ 1476 stars this week</div>
 				</div>
@@ -270,32 +270,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Shell</span>
-						<span>⭐ 317993</span>
-						<span>🔱 26607</span>
+						<span>⭐ 318284</span>
+						<span>🔱 26635</span>
 					</div>
 				<div class="stars-today">⭐ 9664 stars this week</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/hyprwm/Hyprland" target="_blank">
+				<p><a href="https://github.com/jakubkrehel/skills" target="_blank">
     
 
 
       
-        hyprwm /
+        jakubkrehel /
 
-      Hyprland</a></p>
+      skills</a></p>
 				<p>
-      Hyprland is an independent, highly customizable, dynamic tiling Wayland compositor that doesn't sacrifice on its looks.
+      A collection of agent skills that help you build great interfaces.
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 C++</span>
-						<span>⭐ 40512</span>
-						<span>🔱 2163</span>
+						<span>🔠 Markdown</span>
+						<span>⭐ 11644</span>
+						<span>🔱 452</span>
 					</div>
-				<div class="stars-today">⭐ 1436 stars this week</div>
+				<div class="stars-today">⭐ 1938 stars this week</div>
 				</div>
 			</div>
 	
@@ -314,32 +314,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 148506</span>
-						<span>🔱 13350</span>
+						<span>⭐ 148627</span>
+						<span>🔱 13354</span>
 					</div>
 				<div class="stars-today">⭐ 4280 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/obra/superpowers" target="_blank">
-    
-
-
-      
-        obra /
-
-      superpowers</a></p>
-				<p>
-      An agentic skills framework & software development methodology that works.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Shell</span>
-						<span>⭐ 314257</span>
-						<span>🔱 27965</span>
-					</div>
-				<div class="stars-today">⭐ 4466 stars this week</div>
 				</div>
 			</div>
 	
@@ -358,54 +336,54 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 15499</span>
-						<span>🔱 2144</span>
+						<span>⭐ 15549</span>
+						<span>🔱 2147</span>
 					</div>
 				<div class="stars-today">⭐ 1576 stars this week</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/pbakaus/impeccable" target="_blank">
+				<p><a href="https://github.com/hyprwm/Hyprland" target="_blank">
     
 
 
       
-        pbakaus /
+        hyprwm /
 
-      impeccable</a></p>
+      Hyprland</a></p>
 				<p>
-      The design vocabulary for your coding agent. Steer with polish and bolder, review with critique and audit, catch AI slop before it ships.
+      Hyprland is an independent, highly customizable, dynamic tiling Wayland compositor that doesn't sacrifice on its looks.
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Rust</span>
-						<span>⭐ 105750</span>
-						<span>🔱 6286</span>
+						<span>🔠 C++</span>
+						<span>⭐ 40539</span>
+						<span>🔱 2167</span>
 					</div>
-				<div class="stars-today">⭐ 7623 stars this week</div>
+				<div class="stars-today">⭐ 1436 stars this week</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/shiyu-coder/Kronos" target="_blank">
+				<p><a href="https://github.com/blader/humanizer" target="_blank">
     
 
 
       
-        shiyu-coder /
+        blader /
 
-      Kronos</a></p>
+      humanizer</a></p>
 				<p>
-      Kronos: A Foundation Model for the Language of Financial Markets
+      Agent skill that removes signs of AI-generated writing from text
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 47282</span>
-						<span>🔱 7817</span>
+						<span>⭐ 66284</span>
+						<span>🔱 5227</span>
 					</div>
-				<div class="stars-today">⭐ 2937 stars this week</div>
+				<div class="stars-today">⭐ 3067 stars this week</div>
 				</div>
 			</div>
 	
