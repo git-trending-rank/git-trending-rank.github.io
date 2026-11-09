@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2026年第46周
-date: 2026-11-09T08:43:34Z
+date: 2026-11-09T20:11:59Z
 categories:
 - weekly
 keywords:
@@ -30,54 +30,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 10674</span>
-						<span>🔱 874</span>
+						<span>⭐ 10968</span>
+						<span>🔱 894</span>
 					</div>
 				<div class="stars-today">⭐ 9327 stars this week</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/thedotmack/claude-mem" target="_blank">
+				<p><a href="https://github.com/vercel-labs/agent-desktop" target="_blank">
     
 
 
       
-        thedotmack /
+        vercel-labs /
 
-      claude-mem</a></p>
+      agent-desktop</a></p>
 				<p>
-      Persistent Context Across Sessions for Every Agent – Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 115087</span>
-						<span>🔱 10001</span>
-					</div>
-				<div class="stars-today">⭐ 6443 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/max-sixty/worktrunk" target="_blank">
-    
-
-
-      
-        max-sixty /
-
-      worktrunk</a></p>
-				<p>
-      Worktrunk is a CLI for Git worktree management, designed for parallel AI agent workflows
+      Computer use CLI for AI agents
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Rust</span>
-						<span>⭐ 12179</span>
-						<span>🔱 472</span>
+						<span>⭐ 20339</span>
+						<span>🔱 1507</span>
 					</div>
-				<div class="stars-today">⭐ 2313 stars this week</div>
+				<div class="stars-today">⭐ 13712 stars this week</div>
 				</div>
 			</div>
 	
@@ -96,32 +74,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 189989</span>
-						<span>🔱 22382</span>
+						<span>⭐ 190741</span>
+						<span>🔱 22431</span>
 					</div>
 				<div class="stars-today">⭐ 3169 stars this week</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/Donchitos/Claude-Code-Game-Studios" target="_blank">
+				<p><a href="https://github.com/max-sixty/worktrunk" target="_blank">
     
 
 
       
-        Donchitos /
+        max-sixty /
 
-      Claude-Code-Game-Studios</a></p>
+      worktrunk</a></p>
 				<p>
-      Turn Claude Code into a full game dev studio — 49 AI agents, 72 workflow skills, and a complete coordination system mirroring real studio hierarchy.
+      Worktrunk is a CLI for Git worktree management, designed for parallel AI agent workflows
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Shell</span>
-						<span>⭐ 37177</span>
-						<span>🔱 4893</span>
+						<span>🔠 Rust</span>
+						<span>⭐ 12252</span>
+						<span>🔱 475</span>
 					</div>
-				<div class="stars-today">⭐ 5235 stars this week</div>
+				<div class="stars-today">⭐ 2313 stars this week</div>
 				</div>
 			</div>
 	
@@ -140,96 +118,54 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 18934</span>
-						<span>🔱 2608</span>
+						<span>⭐ 19542</span>
+						<span>🔱 2681</span>
 					</div>
 				<div class="stars-today">⭐ 7621 stars this week</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/pingdotgg/t3code" target="_blank">
+				<p><a href="https://github.com/thedotmack/claude-mem" target="_blank">
     
 
 
       
-        pingdotgg /
+        thedotmack /
 
-      t3code</a></p>
-				<p></p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 53019</span>
-						<span>🔱 10078</span>
-					</div>
-				<div class="stars-today">⭐ 15379 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/Nutlope/hallmark" target="_blank">
-    
-
-
-      
-        Nutlope /
-
-      hallmark</a></p>
+      claude-mem</a></p>
 				<p>
-      Anti-AI-slop design skill for Claude Code, Cursor, and Codex.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 CSS</span>
-						<span>⭐ 51244</span>
-						<span>🔱 2730</span>
-					</div>
-				<div class="stars-today">⭐ 6356 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/Renhuai123/ziwei-doushu" target="_blank">
-    
-
-
-      
-        Renhuai123 /
-
-      ziwei-doushu</a></p>
-				<p>
-      紫微斗数开源排盘引擎 — 基于倪海厦《天纪》体系，含完整排盘算法、四化系统、格局知识库、古籍原文数据
+      Persistent Context Across Sessions for Every Agent – Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 17161</span>
-						<span>🔱 3320</span>
+						<span>⭐ 115341</span>
+						<span>🔱 10018</span>
 					</div>
-				<div class="stars-today">⭐ 4191 stars this week</div>
+				<div class="stars-today">⭐ 6443 stars this week</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/D4Vinci/Scrapling" target="_blank">
+				<p><a href="https://github.com/Donchitos/Claude-Code-Game-Studios" target="_blank">
     
 
 
       
-        D4Vinci /
+        Donchitos /
 
-      Scrapling</a></p>
+      Claude-Code-Game-Studios</a></p>
 				<p>
-      🕷️ The BEST Web Scraping framework that handles everything from a single request to a full-scale crawl! Don't be shy, join here: https://discord.gg/EMgGbDceNQ and follow here for daily tips and tricks: https://x.com/Scrapling_dev
+      Turn Claude Code into a full game dev studio — 49 AI agents, 72 workflow skills, and a complete coordination system mirroring real studio hierarchy.
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 100136</span>
-						<span>🔱 10463</span>
+						<span>🔠 Shell</span>
+						<span>⭐ 37478</span>
+						<span>🔱 4921</span>
 					</div>
-				<div class="stars-today">⭐ 8342 stars this week</div>
+				<div class="stars-today">⭐ 5235 stars this week</div>
 				</div>
 			</div>
 	
@@ -248,76 +184,52 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Rust</span>
-						<span>⭐ 47985</span>
-						<span>🔱 3277</span>
+						<span>⭐ 48360</span>
+						<span>🔱 3296</span>
 					</div>
 				<div class="stars-today">⭐ 2190 stars this week</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/mattpocock/skills" target="_blank">
+				<p><a href="https://github.com/pingdotgg/t3code" target="_blank">
     
 
 
       
-        mattpocock /
+        pingdotgg /
 
-      skills</a></p>
-				<p>
-      Skills for Real Engineers. Straight from my .agents directory.
-    </p>
+      t3code</a></p>
+				<p></p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Shell</span>
-						<span>⭐ 318967</span>
-						<span>🔱 26695</span>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 53864</span>
+						<span>🔱 10149</span>
 					</div>
-				<div class="stars-today">⭐ 9635 stars this week</div>
+				<div class="stars-today">⭐ 15379 stars this week</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/jakubkrehel/skills" target="_blank">
+				<p><a href="https://github.com/D4Vinci/Scrapling" target="_blank">
     
 
 
       
-        jakubkrehel /
+        D4Vinci /
 
-      skills</a></p>
+      Scrapling</a></p>
 				<p>
-      A collection of agent skills that help you build great interfaces.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Markdown</span>
-						<span>⭐ 11811</span>
-						<span>🔱 460</span>
-					</div>
-				<div class="stars-today">⭐ 1857 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/github/spec-kit" target="_blank">
-    
-
-
-      
-        github /
-
-      spec-kit</a></p>
-				<p>
-      💫 Toolkit to help you get started with SDD or any other process!
+      🕷️ The BEST Web Scraping framework that handles everything from a single request to a full-scale crawl! Don't be shy, join here: https://discord.gg/EMgGbDceNQ and follow here for daily tips and tricks: https://x.com/Scrapling_dev
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 148829</span>
-						<span>🔱 13363</span>
+						<span>⭐ 100460</span>
+						<span>🔱 10500</span>
 					</div>
-				<div class="stars-today">⭐ 4045 stars this week</div>
+				<div class="stars-today">⭐ 8342 stars this week</div>
 				</div>
 			</div>
 	
@@ -336,54 +248,76 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 15648</span>
-						<span>🔱 2155</span>
+						<span>⭐ 15707</span>
+						<span>🔱 2161</span>
 					</div>
 				<div class="stars-today">⭐ 1706 stars this week</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/hyprwm/Hyprland" target="_blank">
+				<p><a href="https://github.com/cloudflare/security-audit-skill" target="_blank">
     
 
 
       
-        hyprwm /
+        cloudflare /
 
-      Hyprland</a></p>
+      security-audit-skill</a></p>
 				<p>
-      Hyprland is an independent, highly customizable, dynamic tiling Wayland compositor that doesn't sacrifice on its looks.
+      A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 C++</span>
-						<span>⭐ 40588</span>
-						<span>🔱 2169</span>
+						<span>🔠 JavaScript</span>
+						<span>⭐ 67878</span>
+						<span>🔱 4442</span>
 					</div>
-				<div class="stars-today">⭐ 1465 stars this week</div>
+				<div class="stars-today">⭐ 10600 stars this week</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/blader/humanizer" target="_blank">
+				<p><a href="https://github.com/Nutlope/hallmark" target="_blank">
     
 
 
       
-        blader /
+        Nutlope /
 
-      humanizer</a></p>
+      hallmark</a></p>
 				<p>
-      Agent skill that removes signs of AI-generated writing from text
+      Anti-AI-slop design skill for Claude Code, Cursor, and Codex.
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 66777</span>
-						<span>🔱 5251</span>
+						<span>🔠 CSS</span>
+						<span>⭐ 51679</span>
+						<span>🔱 2748</span>
 					</div>
-				<div class="stars-today">⭐ 3118 stars this week</div>
+				<div class="stars-today">⭐ 6356 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/mattpocock/skills" target="_blank">
+    
+
+
+      
+        mattpocock /
+
+      skills</a></p>
+				<p>
+      Skills for Real Engineers. Straight from my .agents directory.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Shell</span>
+						<span>⭐ 319567</span>
+						<span>🔱 26756</span>
+					</div>
+				<div class="stars-today">⭐ 9635 stars this week</div>
 				</div>
 			</div>
 	

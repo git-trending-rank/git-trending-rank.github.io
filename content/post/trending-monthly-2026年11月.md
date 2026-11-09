@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2026年11月
-date: 2026-11-09T08:43:34Z
+date: 2026-11-09T20:11:58Z
 categories:
 - monthly
 keywords:
@@ -30,8 +30,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 444940</span>
-						<span>🔱 109860</span>
+						<span>⭐ 446517</span>
+						<span>🔱 110179</span>
 					</div>
 				<div class="stars-today">⭐ 425123 stars this month</div>
 				</div>
@@ -52,8 +52,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 CSS</span>
-						<span>⭐ 51244</span>
-						<span>🔱 2730</span>
+						<span>⭐ 51679</span>
+						<span>🔱 2748</span>
 					</div>
 				<div class="stars-today">⭐ 21146 stars this month</div>
 				</div>
@@ -74,32 +74,30 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 JavaScript</span>
-						<span>⭐ 67266</span>
-						<span>🔱 4393</span>
+						<span>⭐ 67878</span>
+						<span>🔱 4442</span>
 					</div>
 				<div class="stars-today">⭐ 40289 stars this month</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/storytold/artcraft" target="_blank">
+				<p><a href="https://github.com/pingdotgg/t3code" target="_blank">
     
 
 
       
-        storytold /
+        pingdotgg /
 
-      artcraft</a></p>
-				<p>
-      ArtCraft is an intentional crafting engine for artists, designers, and filmmakers
-    </p>
+      t3code</a></p>
+				<p></p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Rust</span>
-						<span>⭐ 40056</span>
-						<span>🔱 6262</span>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 53864</span>
+						<span>🔱 10149</span>
 					</div>
-				<div class="stars-today">⭐ 33780 stars this month</div>
+				<div class="stars-today">⭐ 25840 stars this month</div>
 				</div>
 			</div>
 	
@@ -118,52 +116,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 81298</span>
-						<span>🔱 7497</span>
+						<span>⭐ 81594</span>
+						<span>🔱 7535</span>
 					</div>
 				<div class="stars-today">⭐ 22360 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/debpalash/VoiceStudio" target="_blank">
-    
-
-
-      
-        debpalash /
-
-      VoiceStudio</a></p>
-				<p>
-      VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 105408</span>
-						<span>🔱 11718</span>
-					</div>
-				<div class="stars-today">⭐ 50169 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/pingdotgg/t3code" target="_blank">
-    
-
-
-      
-        pingdotgg /
-
-      t3code</a></p>
-				<p></p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 53019</span>
-						<span>🔱 10078</span>
-					</div>
-				<div class="stars-today">⭐ 25840 stars this month</div>
 				</div>
 			</div>
 	
@@ -182,54 +138,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 115087</span>
-						<span>🔱 10001</span>
+						<span>⭐ 115341</span>
+						<span>🔱 10018</span>
 					</div>
 				<div class="stars-today">⭐ 17296 stars this month</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/boykopovar/AnyPS5" target="_blank">
+				<p><a href="https://github.com/debpalash/VoiceStudio" target="_blank">
     
 
 
       
-        boykopovar /
+        debpalash /
 
-      AnyPS5</a></p>
+      VoiceStudio</a></p>
 				<p>
-      Tool for automatic PS5 executables porting to Linux and Windows
+      VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 C++</span>
-						<span>⭐ 52424</span>
-						<span>🔱 4980</span>
+						<span>🔠 Python</span>
+						<span>⭐ 105991</span>
+						<span>🔱 11771</span>
 					</div>
-				<div class="stars-today">⭐ 39354 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/pbakaus/impeccable" target="_blank">
-    
-
-
-      
-        pbakaus /
-
-      impeccable</a></p>
-				<p>
-      The design vocabulary for your coding agent. Steer with polish and bolder, review with critique and audit, catch AI slop before it ships.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Rust</span>
-						<span>⭐ 106446</span>
-						<span>🔱 6327</span>
-					</div>
-				<div class="stars-today">⭐ 28008 stars this month</div>
+				<div class="stars-today">⭐ 50169 stars this month</div>
 				</div>
 			</div>
 	
@@ -248,10 +182,54 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 57280</span>
-						<span>🔱 6987</span>
+						<span>⭐ 57564</span>
+						<span>🔱 7018</span>
 					</div>
 				<div class="stars-today">⭐ 16065 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/pbakaus/impeccable" target="_blank">
+    
+
+
+      
+        pbakaus /
+
+      impeccable</a></p>
+				<p>
+      The design vocabulary for your coding agent. Steer with polish and bolder, review with critique and audit, catch AI slop before it ships.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Rust</span>
+						<span>⭐ 106774</span>
+						<span>🔱 6346</span>
+					</div>
+				<div class="stars-today">⭐ 28008 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/storytold/artcraft" target="_blank">
+    
+
+
+      
+        storytold /
+
+      artcraft</a></p>
+				<p>
+      ArtCraft is an intentional crafting engine for artists, designers, and filmmakers
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Rust</span>
+						<span>⭐ 40213</span>
+						<span>🔱 6269</span>
+					</div>
+				<div class="stars-today">⭐ 33780 stars this month</div>
 				</div>
 			</div>
 	
@@ -270,10 +248,54 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Java</span>
-						<span>⭐ 98900</span>
-						<span>🔱 11229</span>
+						<span>⭐ 99058</span>
+						<span>🔱 11244</span>
 					</div>
 				<div class="stars-today">⭐ 17344 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/boykopovar/AnyPS5" target="_blank">
+    
+
+
+      
+        boykopovar /
+
+      AnyPS5</a></p>
+				<p>
+      Tool for automatic PS5 executables porting to Linux and Windows
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 C++</span>
+						<span>⭐ 52580</span>
+						<span>🔱 4992</span>
+					</div>
+				<div class="stars-today">⭐ 39354 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/anthropics/claude-plugins-official" target="_blank">
+    
+
+
+      
+        anthropics /
+
+      claude-plugins-official</a></p>
+				<p>
+      Official, Anthropic-managed directory of high quality Claude Code Plugins.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 46605</span>
+						<span>🔱 4857</span>
+					</div>
+				<div class="stars-today">⭐ 9152 stars this month</div>
 				</div>
 			</div>
 	
