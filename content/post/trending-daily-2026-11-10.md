@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2026-11-10
-date: 2026-11-10T03:50:44Z
+date: 2026-11-10T11:52:08Z
 categories:
 - daily
 keywords:
@@ -14,28 +14,6 @@ keywords:
 	<main class="container">
         <div class="repo-list" id="repoList">
 
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/anthropics/skills" target="_blank">
-    
-
-
-      
-        anthropics /
-
-      skills</a></p>
-				<p>
-      Public repository for Agent Skills
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 191205</span>
-						<span>🔱 22462</span>
-					</div>
-				<div class="stars-today">⭐ 1038 stars today</div>
-				</div>
-			</div>
 	
 			<div class="repo-card">
 				<p><a href="https://github.com/meta/astryx" target="_blank">
@@ -52,54 +30,54 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 20492</span>
-						<span>🔱 1553</span>
+						<span>⭐ 21392</span>
+						<span>🔱 1660</span>
 					</div>
-				<div class="stars-today">⭐ 3278 stars today</div>
+				<div class="stars-today">⭐ 3111 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/sherlock-project/sherlock" target="_blank">
+				<p><a href="https://github.com/anthropics/skills" target="_blank">
     
 
 
       
-        sherlock-project /
+        anthropics /
 
-      sherlock</a></p>
+      skills</a></p>
 				<p>
-      Hunt down social media accounts by username across social networks
+      Public repository for Agent Skills
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 107428</span>
-						<span>🔱 12432</span>
+						<span>⭐ 191749</span>
+						<span>🔱 22531</span>
 					</div>
-				<div class="stars-today">⭐ 4267 stars today</div>
+				<div class="stars-today">⭐ 1676 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/google-deepmind/mujoco" target="_blank">
+				<p><a href="https://github.com/addyosmani/agent-skills" target="_blank">
     
 
 
       
-        google-deepmind /
+        addyosmani /
 
-      mujoco</a></p>
+      agent-skills</a></p>
 				<p>
-      Multi-Joint dynamics with Contact. A general purpose physics simulator.
+      Production-grade engineering skills for AI coding agents.
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 C++</span>
-						<span>⭐ 16994</span>
-						<span>🔱 2000</span>
+						<span>🔠 JavaScript</span>
+						<span>⭐ 114782</span>
+						<span>🔱 11997</span>
 					</div>
-				<div class="stars-today">⭐ 574 stars today</div>
+				<div class="stars-today">⭐ 465 stars today</div>
 				</div>
 			</div>
 	
@@ -118,98 +96,54 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 20098</span>
-						<span>🔱 3319</span>
+						<span>⭐ 20250</span>
+						<span>🔱 3386</span>
 					</div>
-				<div class="stars-today">⭐ 551 stars today</div>
+				<div class="stars-today">⭐ 530 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/garrytan/gbrain" target="_blank">
+				<p><a href="https://github.com/google-deepmind/mujoco" target="_blank">
     
 
 
       
-        garrytan /
+        google-deepmind /
 
-      gbrain</a></p>
+      mujoco</a></p>
 				<p>
-      Garry's Opinionated OpenClaw/Hermes Agent Brain
+      Multi-Joint dynamics with Contact. A general purpose physics simulator.
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 32240</span>
-						<span>🔱 4774</span>
+						<span>🔠 C++</span>
+						<span>⭐ 17157</span>
+						<span>🔱 2068</span>
 					</div>
-				<div class="stars-today">⭐ 216 stars today</div>
+				<div class="stars-today">⭐ 453 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/vercel-labs/agent-browser" target="_blank">
+				<p><a href="https://github.com/we-promise/sure" target="_blank">
     
 
 
       
-        vercel-labs /
+        we-promise /
 
-      agent-browser</a></p>
+      sure</a></p>
 				<p>
-      Browser automation CLI for AI agents
+      The personal finance app for everyone (by everyone)
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Rust</span>
-						<span>⭐ 48605</span>
-						<span>🔱 3309</span>
+						<span>🔠 Ruby</span>
+						<span>⭐ 11407</span>
+						<span>🔱 798</span>
 					</div>
-				<div class="stars-today">⭐ 916 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/ruvnet/RuView" target="_blank">
-    
-
-
-      
-        ruvnet /
-
-      RuView</a></p>
-				<p>
-      π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Rust</span>
-						<span>⭐ 103557</span>
-						<span>🔱 13417</span>
-					</div>
-				<div class="stars-today">⭐ 172 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/ZhuLinsen/daily_stock_analysis" target="_blank">
-    
-
-
-      
-        ZhuLinsen /
-
-      daily_stock_analysis</a></p>
-				<p>
-      LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。 LLM-powered multi-market stock analysis system with multi-source market data, real-time news, decision dashboard, automated notifications, and cost-free scheduled runs.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 69071</span>
-						<span>🔱 56442</span>
-					</div>
-				<div class="stars-today">⭐ 506 stars today</div>
+				<div class="stars-today">⭐ 184 stars today</div>
 				</div>
 			</div>
 	
@@ -228,32 +162,120 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 6082</span>
-						<span>🔱 296</span>
+						<span>⭐ 6323</span>
+						<span>🔱 348</span>
 					</div>
-				<div class="stars-today">⭐ 31 stars today</div>
+				<div class="stars-today">⭐ 792 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/milind-soni/OpenMausBot" target="_blank">
+				<p><a href="https://github.com/vercel-labs/agent-browser" target="_blank">
     
 
 
       
-        milind-soni /
+        vercel-labs /
 
-      OpenMausBot</a></p>
+      agent-browser</a></p>
 				<p>
-      Open-source Grok Bot alternative with a virtual machine that bots can use
+      Browser automation CLI for AI agents
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Rust</span>
+						<span>⭐ 48880</span>
+						<span>🔱 3386</span>
+					</div>
+				<div class="stars-today">⭐ 775 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/sherlock-project/sherlock" target="_blank">
+    
+
+
+      
+        sherlock-project /
+
+      sherlock</a></p>
+				<p>
+      Hunt down social media accounts by username across social networks
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 108185</span>
+						<span>🔱 12537</span>
+					</div>
+				<div class="stars-today">⭐ 2387 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/tokio-rs/topcoat" target="_blank">
+    
+
+
+      
+        tokio-rs /
+
+      topcoat</a></p>
+				<p>
+      A batteries-included framework for building web apps
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Rust</span>
+						<span>⭐ 6587</span>
+						<span>🔱 236</span>
+					</div>
+				<div class="stars-today">⭐ 192 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/ranxianglei/billion-context" target="_blank">
+    
+
+
+      
+        ranxianglei /
+
+      billion-context</a></p>
+				<p>
+      A context-compression plugin for month-long single sessions (billions of tokens) ,small context windows (a 100K context is enough) and token savings (5x fewer tokens) .上下文压缩插件，月级长会话会话， 兼顾小窗口(100k上下文足矣)省token(省5倍token) . billion-context is all you need
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 19899</span>
-						<span>🔱 2713</span>
+						<span>⭐ 5947</span>
+						<span>🔱 449</span>
 					</div>
-				<div class="stars-today">⭐ 1587 stars today</div>
+				<div class="stars-today">⭐ 374 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/mattpocock/skills" target="_blank">
+    
+
+
+      
+        mattpocock /
+
+      skills</a></p>
+				<p>
+      Skills for Real Engineers. Straight from my .agents directory.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Shell</span>
+						<span>⭐ 320305</span>
+						<span>🔱 26822</span>
+					</div>
+				<div class="stars-today">⭐ 1223 stars today</div>
 				</div>
 			</div>
 	

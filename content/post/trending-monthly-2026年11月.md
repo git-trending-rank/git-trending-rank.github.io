@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2026年11月
-date: 2026-11-10T03:50:44Z
+date: 2026-11-10T11:52:09Z
 categories:
 - monthly
 keywords:
@@ -30,8 +30,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 447396</span>
-						<span>🔱 110324</span>
+						<span>⭐ 448549</span>
+						<span>🔱 110540</span>
 					</div>
 				<div class="stars-today">⭐ 413718 stars this month</div>
 				</div>
@@ -52,8 +52,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 CSS</span>
-						<span>⭐ 51885</span>
-						<span>🔱 2763</span>
+						<span>⭐ 52143</span>
+						<span>🔱 2777</span>
 					</div>
 				<div class="stars-today">⭐ 21862 stars this month</div>
 				</div>
@@ -74,8 +74,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 JavaScript</span>
-						<span>⭐ 68210</span>
-						<span>🔱 4480</span>
+						<span>⭐ 68586</span>
+						<span>🔱 4518</span>
 					</div>
 				<div class="stars-today">⭐ 40994 stars this month</div>
 				</div>
@@ -94,32 +94,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 54366</span>
-						<span>🔱 10207</span>
+						<span>⭐ 54967</span>
+						<span>🔱 10263</span>
 					</div>
 				<div class="stars-today">⭐ 26993 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/heygen-com/hyperframes" target="_blank">
-    
-
-
-      
-        heygen-com /
-
-      hyperframes</a></p>
-				<p>
-      Write HTML. Render video. Built for agents.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 81778</span>
-						<span>🔱 7555</span>
-					</div>
-				<div class="stars-today">⭐ 22344 stars this month</div>
 				</div>
 			</div>
 	
@@ -138,32 +116,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 115448</span>
-						<span>🔱 10024</span>
+						<span>⭐ 115606</span>
+						<span>🔱 10038</span>
 					</div>
 				<div class="stars-today">⭐ 17008 stars this month</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/debpalash/VoiceStudio" target="_blank">
+				<p><a href="https://github.com/heygen-com/hyperframes" target="_blank">
     
 
 
       
-        debpalash /
+        heygen-com /
 
-      VoiceStudio</a></p>
+      hyperframes</a></p>
 				<p>
-      VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.
+      Write HTML. Render video. Built for agents.
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 106305</span>
-						<span>🔱 11800</span>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 81994</span>
+						<span>🔱 7580</span>
 					</div>
-				<div class="stars-today">⭐ 50585 stars this month</div>
+				<div class="stars-today">⭐ 22344 stars this month</div>
 				</div>
 			</div>
 	
@@ -182,10 +160,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 57678</span>
-						<span>🔱 7033</span>
+						<span>⭐ 57823</span>
+						<span>🔱 7046</span>
 					</div>
 				<div class="stars-today">⭐ 16710 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/debpalash/VoiceStudio" target="_blank">
+    
+
+
+      
+        debpalash /
+
+      VoiceStudio</a></p>
+				<p>
+      VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 106748</span>
+						<span>🔱 11834</span>
+					</div>
+				<div class="stars-today">⭐ 50585 stars this month</div>
 				</div>
 			</div>
 	
@@ -204,76 +204,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Rust</span>
-						<span>⭐ 106988</span>
-						<span>🔱 6355</span>
+						<span>⭐ 107219</span>
+						<span>🔱 6368</span>
 					</div>
 				<div class="stars-today">⭐ 28285 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/storytold/artcraft" target="_blank">
-    
-
-
-      
-        storytold /
-
-      artcraft</a></p>
-				<p>
-      ArtCraft is an intentional crafting engine for artists, designers, and filmmakers
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Rust</span>
-						<span>⭐ 40303</span>
-						<span>🔱 6275</span>
-					</div>
-				<div class="stars-today">⭐ 30753 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/NationalSecurityAgency/ghidra" target="_blank">
-    
-
-
-      
-        NationalSecurityAgency /
-
-      ghidra</a></p>
-				<p>
-      Ghidra is a software reverse engineering (SRE) framework
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Java</span>
-						<span>⭐ 99131</span>
-						<span>🔱 11257</span>
-					</div>
-				<div class="stars-today">⭐ 17387 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/boykopovar/AnyPS5" target="_blank">
-    
-
-
-      
-        boykopovar /
-
-      AnyPS5</a></p>
-				<p>
-      Tool for automatic PS5 executables porting to Linux and Windows
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 C++</span>
-						<span>⭐ 52685</span>
-						<span>🔱 4997</span>
-					</div>
-				<div class="stars-today">⭐ 34260 stars this month</div>
 				</div>
 			</div>
 	
@@ -292,10 +226,98 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 46652</span>
-						<span>🔱 4858</span>
+						<span>⭐ 46698</span>
+						<span>🔱 4861</span>
 					</div>
 				<div class="stars-today">⭐ 9215 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/NationalSecurityAgency/ghidra" target="_blank">
+    
+
+
+      
+        NationalSecurityAgency /
+
+      ghidra</a></p>
+				<p>
+      Ghidra is a software reverse engineering (SRE) framework
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Java</span>
+						<span>⭐ 99217</span>
+						<span>🔱 11269</span>
+					</div>
+				<div class="stars-today">⭐ 17387 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/ranxianglei/billion-context" target="_blank">
+    
+
+
+      
+        ranxianglei /
+
+      billion-context</a></p>
+				<p>
+      A context-compression plugin for month-long single sessions (billions of tokens) ,small context windows (a 100K context is enough) and token savings (5x fewer tokens) .上下文压缩插件，月级长会话会话， 兼顾小窗口(100k上下文足矣)省token(省5倍token) . billion-context is all you need
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 5947</span>
+						<span>🔱 449</span>
+					</div>
+				<div class="stars-today">⭐ 5243 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/anthropics/knowledge-work-plugins" target="_blank">
+    
+
+
+      
+        anthropics /
+
+      knowledge-work-plugins</a></p>
+				<p>
+      Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 35300</span>
+						<span>🔱 3914</span>
+					</div>
+				<div class="stars-today">⭐ 7322 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/tashfeenahmed/freellmapi" target="_blank">
+    
+
+
+      
+        tashfeenahmed /
+
+      freellmapi</a></p>
+				<p>
+      7.4 billion tokens per month. 34 free LLM providers. 635 free model endpoints. All behind one /v1 endpoint, plus any custom OpenAI-compatible endpoint. Smart routing, automatic failover, encrypted keys. Personal experimentation only.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 49936</span>
+						<span>🔱 6921</span>
+					</div>
+				<div class="stars-today">⭐ 17544 stars this month</div>
 				</div>
 			</div>
 	
