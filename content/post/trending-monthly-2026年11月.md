@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2026年11月
-date: 2026-11-11T08:27:28Z
+date: 2026-11-11T17:28:45Z
 categories:
 - monthly
 keywords:
@@ -30,8 +30,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 450986</span>
-						<span>🔱 110978</span>
+						<span>⭐ 452118</span>
+						<span>🔱 111194</span>
 					</div>
 				<div class="stars-today">⭐ 389832 stars this month</div>
 				</div>
@@ -52,8 +52,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 CSS</span>
-						<span>⭐ 52886</span>
-						<span>🔱 2807</span>
+						<span>⭐ 53225</span>
+						<span>🔱 2834</span>
 					</div>
 				<div class="stars-today">⭐ 22624 stars this month</div>
 				</div>
@@ -74,30 +74,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 JavaScript</span>
-						<span>⭐ 69673</span>
-						<span>🔱 4612</span>
+						<span>⭐ 70075</span>
+						<span>🔱 4646</span>
 					</div>
 				<div class="stars-today">⭐ 41811 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/pingdotgg/t3code" target="_blank">
-    
-
-
-      
-        pingdotgg /
-
-      t3code</a></p>
-				<p></p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 56148</span>
-						<span>🔱 10388</span>
-					</div>
-				<div class="stars-today">⭐ 28609 stars this month</div>
 				</div>
 			</div>
 	
@@ -116,10 +96,30 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 115973</span>
-						<span>🔱 10057</span>
+						<span>⭐ 116122</span>
+						<span>🔱 10078</span>
 					</div>
 				<div class="stars-today">⭐ 17223 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/pingdotgg/t3code" target="_blank">
+    
+
+
+      
+        pingdotgg /
+
+      t3code</a></p>
+				<p></p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 56667</span>
+						<span>🔱 10466</span>
+					</div>
+				<div class="stars-today">⭐ 28609 stars this month</div>
 				</div>
 			</div>
 	
@@ -138,10 +138,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 82470</span>
-						<span>🔱 7624</span>
+						<span>⭐ 82722</span>
+						<span>🔱 7647</span>
 					</div>
 				<div class="stars-today">⭐ 22380 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/pbakaus/impeccable" target="_blank">
+    
+
+
+      
+        pbakaus /
+
+      impeccable</a></p>
+				<p>
+      The design vocabulary for your coding agent. Steer with polish and bolder, review with critique and audit, catch AI slop before it ships.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Rust</span>
+						<span>⭐ 108132</span>
+						<span>🔱 6429</span>
+					</div>
+				<div class="stars-today">⭐ 28598 stars this month</div>
 				</div>
 			</div>
 	
@@ -160,8 +182,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 58124</span>
-						<span>🔱 7072</span>
+						<span>⭐ 58254</span>
+						<span>🔱 7080</span>
 					</div>
 				<div class="stars-today">⭐ 17107 stars this month</div>
 				</div>
@@ -182,32 +204,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 107632</span>
-						<span>🔱 11922</span>
+						<span>⭐ 108073</span>
+						<span>🔱 11979</span>
 					</div>
 				<div class="stars-today">⭐ 50753 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/pbakaus/impeccable" target="_blank">
-    
-
-
-      
-        pbakaus /
-
-      impeccable</a></p>
-				<p>
-      The design vocabulary for your coding agent. Steer with polish and bolder, review with critique and audit, catch AI slop before it ships.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Rust</span>
-						<span>⭐ 107820</span>
-						<span>🔱 6410</span>
-					</div>
-				<div class="stars-today">⭐ 28598 stars this month</div>
 				</div>
 			</div>
 	
@@ -226,54 +226,54 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 46821</span>
-						<span>🔱 4867</span>
+						<span>⭐ 46876</span>
+						<span>🔱 4874</span>
 					</div>
 				<div class="stars-today">⭐ 9346 stars this month</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/NationalSecurityAgency/ghidra" target="_blank">
+				<p><a href="https://github.com/anthropics/skills" target="_blank">
     
 
 
       
-        NationalSecurityAgency /
+        anthropics /
 
-      ghidra</a></p>
+      skills</a></p>
 				<p>
-      Ghidra is a software reverse engineering (SRE) framework
+      Public repository for Agent Skills
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Java</span>
-						<span>⭐ 99441</span>
-						<span>🔱 11285</span>
+						<span>🔠 Python</span>
+						<span>⭐ 192951</span>
+						<span>🔱 22707</span>
 					</div>
-				<div class="stars-today">⭐ 17106 stars this month</div>
+				<div class="stars-today">⭐ 12271 stars this month</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/ranxianglei/billion-context" target="_blank">
+				<p><a href="https://github.com/sherlock-project/sherlock" target="_blank">
     
 
 
       
-        ranxianglei /
+        sherlock-project /
 
-      billion-context</a></p>
+      sherlock</a></p>
 				<p>
-      A context-compression plugin for month-long single sessions (billions of tokens) ,small context windows (a 100K context is enough) and token savings (5x fewer tokens) .上下文压缩插件，月级长会话会话， 兼顾小窗口(100k上下文足矣)省token(省5倍token) . billion-context is all you need
+      Hunt down social media accounts by username across social networks
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 6591</span>
-						<span>🔱 542</span>
+						<span>🔠 Python</span>
+						<span>⭐ 109919</span>
+						<span>🔱 12732</span>
 					</div>
-				<div class="stars-today">⭐ 5300 stars this month</div>
+				<div class="stars-today">⭐ 15143 stars this month</div>
 				</div>
 			</div>
 	
@@ -292,8 +292,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 JavaScript</span>
-						<span>⭐ 113144</span>
-						<span>🔱 7618</span>
+						<span>⭐ 113405</span>
+						<span>🔱 7637</span>
 					</div>
 				<div class="stars-today">⭐ 19249 stars this month</div>
 				</div>
@@ -314,32 +314,54 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 35409</span>
-						<span>🔱 3922</span>
+						<span>⭐ 35444</span>
+						<span>🔱 3925</span>
 					</div>
 				<div class="stars-today">⭐ 6844 stars this month</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/tashfeenahmed/freellmapi" target="_blank">
+				<p><a href="https://github.com/AgriciDaniel/claude-seo" target="_blank">
     
 
 
       
-        tashfeenahmed /
+        AgriciDaniel /
 
-      freellmapi</a></p>
+      claude-seo</a></p>
 				<p>
-      7.4 billion tokens per month. 34 free LLM providers. 635 free model endpoints. All behind one /v1 endpoint, plus any custom OpenAI-compatible endpoint. Smart routing, automatic failover, encrypted keys. Personal experimentation only.
+      Universal SEO skill for Claude Code. 26 sub-skills + 19 sub-agents covering technical SEO, E-E-A-T, schema, GEO/AEO, agent readiness (Lighthouse Agentic Browsing, WebMCP, llms.txt), backlinks, local SEO, e-commerce, international SEO, Google APIs, and PDF/Excel reporting. 9 optional extensions for live SEO data.
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 50424</span>
-						<span>🔱 7002</span>
+						<span>🔠 Python</span>
+						<span>⭐ 28123</span>
+						<span>🔱 3643</span>
 					</div>
-				<div class="stars-today">⭐ 17591 stars this month</div>
+				<div class="stars-today">⭐ 9322 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/NationalSecurityAgency/ghidra" target="_blank">
+    
+
+
+      
+        NationalSecurityAgency /
+
+      ghidra</a></p>
+				<p>
+      Ghidra is a software reverse engineering (SRE) framework
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Java</span>
+						<span>⭐ 99556</span>
+						<span>🔱 11292</span>
+					</div>
+				<div class="stars-today">⭐ 17106 stars this month</div>
 				</div>
 			</div>
 	

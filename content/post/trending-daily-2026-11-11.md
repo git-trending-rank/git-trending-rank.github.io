@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2026-11-11
-date: 2026-11-11T08:27:27Z
+date: 2026-11-11T17:28:44Z
 categories:
 - daily
 keywords:
@@ -30,32 +30,74 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 23781</span>
-						<span>🔱 1867</span>
+						<span>⭐ 24567</span>
+						<span>🔱 1918</span>
 					</div>
-				<div class="stars-today">⭐ 3108 stars today</div>
+				<div class="stars-today">⭐ 2842 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/anthropics/skills" target="_blank">
+				<p><a href="https://github.com/ZhuLinsen/daily_stock_analysis" target="_blank">
     
 
 
       
-        anthropics /
+        ZhuLinsen /
 
-      skills</a></p>
+      daily_stock_analysis</a></p>
 				<p>
-      Public repository for Agent Skills
+      LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。 LLM-powered multi-market stock analysis system with multi-source market data, real-time news, decision dashboard, automated notifications, and cost-free scheduled runs.
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 192678</span>
-						<span>🔱 22678</span>
+						<span>⭐ 70013</span>
+						<span>🔱 56805</span>
 					</div>
-				<div class="stars-today">⭐ 1679 stars today</div>
+				<div class="stars-today">⭐ 429 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/GoogleChrome/modern-web-guidance-src" target="_blank">
+    
+
+
+      
+        GoogleChrome /
+
+      modern-web-guidance-src</a></p>
+				<p></p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 1586</span>
+						<span>🔱 134</span>
+					</div>
+				<div class="stars-today">⭐ 133 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/shadcn/improve" target="_blank">
+    
+
+
+      
+        shadcn /
+
+      improve</a></p>
+				<p>
+      Use your most capable model to audit your codebase and write plans for cheaper models to execute.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 </span>
+						<span>⭐ 10627</span>
+						<span>🔱 433</span>
+					</div>
+				<div class="stars-today">⭐ 333 stars today</div>
 				</div>
 			</div>
 	
@@ -74,98 +116,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 JavaScript</span>
-						<span>⭐ 115425</span>
-						<span>🔱 12113</span>
+						<span>⭐ 115723</span>
+						<span>🔱 12138</span>
 					</div>
-				<div class="stars-today">⭐ 465 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/anthropics/claude-quickstarts" target="_blank">
-    
-
-
-      
-        anthropics /
-
-      claude-quickstarts</a></p>
-				<p>
-      A collection of projects designed to help developers quickly get started with building deployable applications using the Claude API
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 20659</span>
-						<span>🔱 3478</span>
-					</div>
-				<div class="stars-today">⭐ 531 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/google-deepmind/mujoco" target="_blank">
-    
-
-
-      
-        google-deepmind /
-
-      mujoco</a></p>
-				<p>
-      Multi-Joint dynamics with Contact. A general purpose physics simulator.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 C++</span>
-						<span>⭐ 17519</span>
-						<span>🔱 2160</span>
-					</div>
-				<div class="stars-today">⭐ 456 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/we-promise/sure" target="_blank">
-    
-
-
-      
-        we-promise /
-
-      sure</a></p>
-				<p>
-      The personal finance app for everyone (by everyone)
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Ruby</span>
-						<span>⭐ 12322</span>
-						<span>🔱 914</span>
-					</div>
-				<div class="stars-today">⭐ 159 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/homeassistant-ai/ha-mcp" target="_blank">
-    
-
-
-      
-        homeassistant-ai /
-
-      ha-mcp</a></p>
-				<p>
-      Configure and automate Home Assistant with Claude, ChatGPT, and other AI assistants.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 6866</span>
-						<span>🔱 440</span>
-					</div>
-				<div class="stars-today">⭐ 790 stars today</div>
+				<div class="stars-today">⭐ 788 stars today</div>
 				</div>
 			</div>
 	
@@ -184,98 +138,98 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Rust</span>
-						<span>⭐ 49478</span>
-						<span>🔱 3466</span>
+						<span>⭐ 49722</span>
+						<span>🔱 3480</span>
 					</div>
-				<div class="stars-today">⭐ 780 stars today</div>
+				<div class="stars-today">⭐ 712 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/sherlock-project/sherlock" target="_blank">
+				<p><a href="https://github.com/we-promise/sure" target="_blank">
     
 
 
       
-        sherlock-project /
+        we-promise /
 
-      sherlock</a></p>
+      sure</a></p>
 				<p>
-      Hunt down social media accounts by username across social networks
+      The personal finance app for everyone (by everyone)
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Ruby</span>
+						<span>⭐ 12713</span>
+						<span>🔱 941</span>
+					</div>
+				<div class="stars-today">⭐ 1079 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/homeassistant-ai/ha-mcp" target="_blank">
+    
+
+
+      
+        homeassistant-ai /
+
+      ha-mcp</a></p>
+				<p>
+      Configure and automate Home Assistant with Claude, ChatGPT, and other AI assistants.
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 109525</span>
-						<span>🔱 12700</span>
+						<span>⭐ 7133</span>
+						<span>🔱 446</span>
 					</div>
-				<div class="stars-today">⭐ 2393 stars today</div>
+				<div class="stars-today">⭐ 640 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/tokio-rs/topcoat" target="_blank">
+				<p><a href="https://github.com/openai/codex-security" target="_blank">
     
 
 
       
-        tokio-rs /
+        openai /
 
-      topcoat</a></p>
+      codex-security</a></p>
 				<p>
-      A batteries-included framework for building web apps
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Rust</span>
-						<span>⭐ 6997</span>
-						<span>🔱 310</span>
-					</div>
-				<div class="stars-today">⭐ 192 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/ranxianglei/billion-context" target="_blank">
-    
-
-
-      
-        ranxianglei /
-
-      billion-context</a></p>
-				<p>
-      A context-compression plugin for month-long single sessions (billions of tokens) ,small context windows (a 100K context is enough) and token savings (5x fewer tokens) .上下文压缩插件，月级长会话会话， 兼顾小窗口(100k上下文足矣)省token(省5倍token) . billion-context is all you need
+      OpenAI's Codex Security CLI and TypeScript SDK for finding, validating, and fixing security vulnerabilities. npm: https://www.npmjs.com/package/@openai/codex-security
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 6591</span>
-						<span>🔱 542</span>
+						<span>⭐ 11549</span>
+						<span>🔱 919</span>
 					</div>
-				<div class="stars-today">⭐ 375 stars today</div>
+				<div class="stars-today">⭐ 20 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/mattpocock/skills" target="_blank">
+				<p><a href="https://github.com/TheAlgorithms/Java" target="_blank">
     
 
 
       
-        mattpocock /
+        TheAlgorithms /
 
-      skills</a></p>
+      Java</a></p>
 				<p>
-      Skills for Real Engineers. Straight from my .agents directory.
+      All Algorithms implemented in Java
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Shell</span>
-						<span>⭐ 321315</span>
-						<span>🔱 26936</span>
+						<span>🔠 Java</span>
+						<span>⭐ 66931</span>
+						<span>🔱 21497</span>
 					</div>
-				<div class="stars-today">⭐ 1225 stars today</div>
+				<div class="stars-today">⭐ 108 stars today</div>
 				</div>
 			</div>
 	
