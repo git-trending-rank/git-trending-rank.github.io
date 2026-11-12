@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2026年11月
-date: 2026-11-12T04:23:00Z
+date: 2026-11-12T14:00:22Z
 categories:
 - monthly
 keywords:
@@ -30,8 +30,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 453166</span>
-						<span>🔱 111408</span>
+						<span>⭐ 454348</span>
+						<span>🔱 111625</span>
 					</div>
 				<div class="stars-today">⭐ 366818 stars this month</div>
 				</div>
@@ -52,8 +52,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 CSS</span>
-						<span>⭐ 53508</span>
-						<span>🔱 2852</span>
+						<span>⭐ 53778</span>
+						<span>🔱 2862</span>
 					</div>
 				<div class="stars-today">⭐ 23478 stars this month</div>
 				</div>
@@ -74,8 +74,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 JavaScript</span>
-						<span>⭐ 70476</span>
-						<span>🔱 4671</span>
+						<span>⭐ 70833</span>
+						<span>🔱 4710</span>
 					</div>
 				<div class="stars-today">⭐ 42138 stars this month</div>
 				</div>
@@ -96,8 +96,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 116295</span>
-						<span>🔱 10092</span>
+						<span>⭐ 116429</span>
+						<span>🔱 10102</span>
 					</div>
 				<div class="stars-today">⭐ 17247 stars this month</div>
 				</div>
@@ -112,36 +112,16 @@ keywords:
         pingdotgg /
 
       t3code</a></p>
-				<p></p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 57246</span>
-						<span>🔱 10541</span>
-					</div>
-				<div class="stars-today">⭐ 29814 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/heygen-com/hyperframes" target="_blank">
-    
-
-
-      
-        heygen-com /
-
-      hyperframes</a></p>
 				<p>
-      Write HTML. Render video. Built for agents.
+      The best way to control Claude Code, Codex and more from any computer or phone
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 82998</span>
-						<span>🔱 7656</span>
+						<span>⭐ 57850</span>
+						<span>🔱 10602</span>
 					</div>
-				<div class="stars-today">⭐ 22422 stars this month</div>
+				<div class="stars-today">⭐ 29814 stars this month</div>
 				</div>
 			</div>
 	
@@ -160,10 +140,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Rust</span>
-						<span>⭐ 108426</span>
-						<span>🔱 6447</span>
+						<span>⭐ 108737</span>
+						<span>🔱 6469</span>
 					</div>
 				<div class="stars-today">⭐ 28902 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/heygen-com/hyperframes" target="_blank">
+    
+
+
+      
+        heygen-com /
+
+      hyperframes</a></p>
+				<p>
+      Write HTML. Render video. Built for agents.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 83230</span>
+						<span>🔱 7681</span>
+					</div>
+				<div class="stars-today">⭐ 22422 stars this month</div>
 				</div>
 			</div>
 	
@@ -182,10 +184,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 58402</span>
-						<span>🔱 7100</span>
+						<span>⭐ 58561</span>
+						<span>🔱 7113</span>
 					</div>
 				<div class="stars-today">⭐ 17406 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/anthropics/skills" target="_blank">
+    
+
+
+      
+        anthropics /
+
+      skills</a></p>
+				<p>
+      Public repository for Agent Skills
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 193503</span>
+						<span>🔱 22766</span>
+					</div>
+				<div class="stars-today">⭐ 13018 stars this month</div>
 				</div>
 			</div>
 	
@@ -204,8 +228,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 108462</span>
-						<span>🔱 12020</span>
+						<span>⭐ 108830</span>
+						<span>🔱 12051</span>
 					</div>
 				<div class="stars-today">⭐ 50619 stars this month</div>
 				</div>
@@ -226,54 +250,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 46937</span>
-						<span>🔱 4879</span>
+						<span>⭐ 46996</span>
+						<span>🔱 4885</span>
 					</div>
 				<div class="stars-today">⭐ 9448 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/anthropics/skills" target="_blank">
-    
-
-
-      
-        anthropics /
-
-      skills</a></p>
-				<p>
-      Public repository for Agent Skills
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 193243</span>
-						<span>🔱 22738</span>
-					</div>
-				<div class="stars-today">⭐ 13018 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/sherlock-project/sherlock" target="_blank">
-    
-
-
-      
-        sherlock-project /
-
-      sherlock</a></p>
-				<p>
-      Hunt down social media accounts by username across social networks
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 110192</span>
-						<span>🔱 12764</span>
-					</div>
-				<div class="stars-today">⭐ 16350 stars this month</div>
 				</div>
 			</div>
 	
@@ -292,32 +272,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 JavaScript</span>
-						<span>⭐ 113694</span>
-						<span>🔱 7652</span>
+						<span>⭐ 113972</span>
+						<span>🔱 7668</span>
 					</div>
 				<div class="stars-today">⭐ 19310 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/anthropics/knowledge-work-plugins" target="_blank">
-    
-
-
-      
-        anthropics /
-
-      knowledge-work-plugins</a></p>
-				<p>
-      Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 35492</span>
-						<span>🔱 3927</span>
-					</div>
-				<div class="stars-today">⭐ 6534 stars this month</div>
 				</div>
 			</div>
 	
@@ -336,32 +294,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 28317</span>
-						<span>🔱 3650</span>
+						<span>⭐ 28475</span>
+						<span>🔱 3663</span>
 					</div>
 				<div class="stars-today">⭐ 9470 stars this month</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/NationalSecurityAgency/ghidra" target="_blank">
+				<p><a href="https://github.com/anthropics/knowledge-work-plugins" target="_blank">
     
 
 
       
-        NationalSecurityAgency /
+        anthropics /
 
-      ghidra</a></p>
+      knowledge-work-plugins</a></p>
 				<p>
-      Ghidra is a software reverse engineering (SRE) framework
+      Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Java</span>
-						<span>⭐ 99654</span>
-						<span>🔱 11298</span>
+						<span>🔠 Python</span>
+						<span>⭐ 35538</span>
+						<span>🔱 3933</span>
 					</div>
-				<div class="stars-today">⭐ 16749 stars this month</div>
+				<div class="stars-today">⭐ 6534 stars this month</div>
 				</div>
 			</div>
 	
