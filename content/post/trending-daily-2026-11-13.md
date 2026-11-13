@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2026-11-13
-date: 2026-11-13T03:39:45Z
+date: 2026-11-13T11:38:01Z
 categories:
 - daily
 keywords:
@@ -14,6 +14,28 @@ keywords:
 	<main class="container">
         <div class="repo-list" id="repoList">
 
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/alibaba/open-code-review" target="_blank">
+    
+
+
+      
+        alibaba /
+
+      open-code-review</a></p>
+				<p>
+      Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Go</span>
+						<span>⭐ 50136</span>
+						<span>🔱 3722</span>
+					</div>
+				<div class="stars-today">⭐ 206 stars today</div>
+				</div>
+			</div>
 	
 			<div class="repo-card">
 				<p><a href="https://github.com/GoogleChrome/modern-web-guidance-src" target="_blank">
@@ -30,10 +52,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 3303</span>
-						<span>🔱 210</span>
+						<span>⭐ 4099</span>
+						<span>🔱 240</span>
 					</div>
-				<div class="stars-today">⭐ 739 stars today</div>
+				<div class="stars-today">⭐ 1875 stars today</div>
 				</div>
 			</div>
 	
@@ -52,54 +74,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 12551</span>
-						<span>🔱 981</span>
+						<span>⭐ 12792</span>
+						<span>🔱 1002</span>
 					</div>
-				<div class="stars-today">⭐ 643 stars today</div>
+				<div class="stars-today">⭐ 754 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/nvm-sh/nvm" target="_blank">
+				<p><a href="https://github.com/ZhuLinsen/daily_stock_analysis" target="_blank">
     
 
 
       
-        nvm-sh /
+        ZhuLinsen /
 
-      nvm</a></p>
+      daily_stock_analysis</a></p>
 				<p>
-      Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions.
+      LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。 LLM-powered multi-market stock analysis system with multi-source market data, real-time news, decision dashboard, automated notifications, and cost-free scheduled runs.
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Shell</span>
-						<span>⭐ 96034</span>
-						<span>🔱 10760</span>
+						<span>🔠 Python</span>
+						<span>⭐ 71216</span>
+						<span>🔱 57204</span>
 					</div>
-				<div class="stars-today">⭐ 63 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/pookjw/HermesEnabler" target="_blank">
-    
-
-
-      
-        pookjw /
-
-      HermesEnabler</a></p>
-				<p>
-      Enable Hermès Watch Faces on any Apple Watch devices
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Objective-C</span>
-						<span>⭐ 1592</span>
-						<span>🔱 143</span>
-					</div>
-				<div class="stars-today">⭐ 218 stars today</div>
+				<div class="stars-today">⭐ 272 stars today</div>
 				</div>
 			</div>
 	
@@ -118,186 +118,164 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Ruby</span>
-						<span>⭐ 14040</span>
-						<span>🔱 1055</span>
+						<span>⭐ 14340</span>
+						<span>🔱 1080</span>
 					</div>
-				<div class="stars-today">⭐ 967 stars today</div>
+				<div class="stars-today">⭐ 944 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/QwenLM/qwen-code" target="_blank">
+				<p><a href="https://github.com/backnotprop/plannotator" target="_blank">
     
 
 
       
-        QwenLM /
+        backnotprop /
 
-      qwen-code</a></p>
+      plannotator</a></p>
 				<p>
-      An open-source AI coding agent that lives in your terminal.
+      The workspace to stay in the loop and on top of agents - shape, decide, plan, annotate, review code, share with team, and send all feedback to agents with one click. 
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 29887</span>
-						<span>🔱 3403</span>
+						<span>⭐ 10246</span>
+						<span>🔱 776</span>
 					</div>
-				<div class="stars-today">⭐ 151 stars today</div>
+				<div class="stars-today">⭐ 100 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/ashhart/TensorFold" target="_blank">
+				<p><a href="https://github.com/louislam/uptime-kuma" target="_blank">
     
 
 
       
-        ashhart /
+        louislam /
 
-      TensorFold</a></p>
+      uptime-kuma</a></p>
 				<p>
-      LLM Inference Engine for Metal, CUDA and Vulkan.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Zig</span>
-						<span>⭐ 1978</span>
-						<span>🔱 394</span>
-					</div>
-				<div class="stars-today">⭐ 54 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/nodejs/node" target="_blank">
-    
-
-
-      
-        nodejs /
-
-      node</a></p>
-				<p>
-      Node.js JavaScript runtime ✨🐢🚀✨
+      A fancy self-hosted monitoring tool
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 JavaScript</span>
-						<span>⭐ 123619</span>
-						<span>🔱 38058</span>
+						<span>⭐ 93620</span>
+						<span>🔱 8706</span>
 					</div>
-				<div class="stars-today">⭐ 62 stars today</div>
+				<div class="stars-today">⭐ 61 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/addyosmani/agent-skills" target="_blank">
+				<p><a href="https://github.com/block/buzz" target="_blank">
     
 
 
       
-        addyosmani /
+        block /
 
-      agent-skills</a></p>
+      buzz</a></p>
 				<p>
-      Production-grade engineering skills for AI coding agents.
+      A hive mind communication platform
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 JavaScript</span>
-						<span>⭐ 116766</span>
-						<span>🔱 12213</span>
+						<span>🔠 Rust</span>
+						<span>⭐ 37142</span>
+						<span>🔱 4930</span>
 					</div>
-				<div class="stars-today">⭐ 816 stars today</div>
+				<div class="stars-today">⭐ 95 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/meta/astryx" target="_blank">
+				<p><a href="https://github.com/tradermonty/claude-trading-skills" target="_blank">
     
 
 
       
-        meta /
+        tradermonty /
 
-      astryx</a></p>
+      claude-trading-skills</a></p>
 				<p>
-      An open source design system that's fully customizable and agent ready
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 26722</span>
-						<span>🔱 2072</span>
-					</div>
-				<div class="stars-today">⭐ 1830 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/CopilotKit/OpenBot" target="_blank">
-    
-
-
-      
-        CopilotKit /
-
-      OpenBot</a></p>
-				<p>
-      Open-source AI coworkers that each get a computer of their own: a browser, files and tools, with every action decided before it happens and recorded after. Bring any AG-UI agent.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 11708</span>
-						<span>🔱 1448</span>
-					</div>
-				<div class="stars-today">⭐ 298 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/Alishahryar1/free-claude-code" target="_blank">
-    
-
-
-      
-        Alishahryar1 /
-
-      free-claude-code</a></p>
-				<p>
-      Use Claude Code, Codex, Antigravity, VSCode, Pi, and OpenCode (and 6 other harnesses) for free (1.3B+ free tokens) from your terminal, app, IDE, or phone, and now from the browser with native browser sessions (multi-harness + multi-model) like OpenClaw (voice supported + ToS friendly)
+      Claude Code skills for equity investors and traders — market analysis, technical charting, economic calendars, screeners, and trading strategy development.
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 69421</span>
-						<span>🔱 10773</span>
+						<span>⭐ 3854</span>
+						<span>🔱 842</span>
 					</div>
-				<div class="stars-today">⭐ 415 stars today</div>
+				<div class="stars-today">⭐ 60 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/ggml-org/llama.cpp" target="_blank">
+				<p><a href="https://github.com/tailscale/tailcat" target="_blank">
     
 
 
       
-        ggml-org /
+        tailscale /
 
-      llama.cpp</a></p>
+      tailcat</a></p>
 				<p>
-      LLM inference in C/C++
+      like netcat, but over Tailscale's data plane, without Tailscale's control plane
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Go</span>
+						<span>⭐ 9173</span>
+						<span>🔱 421</span>
+					</div>
+				<div class="stars-today">⭐ 173 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/Likely7/Veyra-NRVideo" target="_blank">
+    
+
+
+      
+        Likely7 /
+
+      Veyra-NRVideo</a></p>
+				<p>
+      Bring PS5 GTA6 to 120FPS with DLSS 5. An advanced Windows video player and capture enhancement tool featuring real-time preview for videos, images, and capture card sources. Combine AI-powered Super Resolution, DLSS5 image enhancement, and Frame Generation to deliver a next-generation visual experience.
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 C++</span>
-						<span>⭐ 134624</span>
-						<span>🔱 25514</span>
+						<span>⭐ 1395</span>
+						<span>🔱 65</span>
 					</div>
-				<div class="stars-today">⭐ 176 stars today</div>
+				<div class="stars-today">⭐ 245 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/ChromeDevTools/chrome-devtools-mcp" target="_blank">
+    
+
+
+      
+        ChromeDevTools /
+
+      chrome-devtools-mcp</a></p>
+				<p>
+      Chrome DevTools for coding agents
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 55213</span>
+						<span>🔱 4606</span>
+					</div>
+				<div class="stars-today">⭐ 60 stars today</div>
 				</div>
 			</div>
 	

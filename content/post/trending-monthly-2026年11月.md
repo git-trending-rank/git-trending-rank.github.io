@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2026年11月
-date: 2026-11-13T03:39:45Z
+date: 2026-11-13T11:38:01Z
 categories:
 - monthly
 keywords:
@@ -14,28 +14,6 @@ keywords:
 	<main class="container">
         <div class="repo-list" id="repoList">
 
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/morluto/rea" target="_blank">
-    
-
-
-      
-        morluto /
-
-      rea</a></p>
-				<p>
-      Reverse engineer anything with agents, from app behavior down to native binaries.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 455590</span>
-						<span>🔱 111893</span>
-					</div>
-				<div class="stars-today">⭐ 325178 stars this month</div>
-				</div>
-			</div>
 	
 			<div class="repo-card">
 				<p><a href="https://github.com/Nutlope/hallmark" target="_blank">
@@ -52,10 +30,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 CSS</span>
-						<span>⭐ 54080</span>
-						<span>🔱 2887</span>
+						<span>⭐ 54269</span>
+						<span>🔱 2893</span>
 					</div>
 				<div class="stars-today">⭐ 24106 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/morluto/rea" target="_blank">
+    
+
+
+      
+        morluto /
+
+      rea</a></p>
+				<p>
+      Reverse engineer anything with agents, from app behavior down to native binaries.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 456448</span>
+						<span>🔱 112074</span>
+					</div>
+				<div class="stars-today">⭐ 325178 stars this month</div>
 				</div>
 			</div>
 	
@@ -74,8 +74,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 JavaScript</span>
-						<span>⭐ 71292</span>
-						<span>🔱 4741</span>
+						<span>⭐ 71507</span>
+						<span>🔱 4763</span>
 					</div>
 				<div class="stars-today">⭐ 42602 stars this month</div>
 				</div>
@@ -96,8 +96,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 116616</span>
-						<span>🔱 10114</span>
+						<span>⭐ 116706</span>
+						<span>🔱 10123</span>
 					</div>
 				<div class="stars-today">⭐ 17162 stars this month</div>
 				</div>
@@ -118,8 +118,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 58544</span>
-						<span>🔱 10694</span>
+						<span>⭐ 58976</span>
+						<span>🔱 10745</span>
 					</div>
 				<div class="stars-today">⭐ 30926 stars this month</div>
 				</div>
@@ -140,8 +140,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Rust</span>
-						<span>⭐ 109078</span>
-						<span>🔱 6501</span>
+						<span>⭐ 109267</span>
+						<span>🔱 6513</span>
 					</div>
 				<div class="stars-today">⭐ 29165 stars this month</div>
 				</div>
@@ -162,8 +162,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 83493</span>
-						<span>🔱 7705</span>
+						<span>⭐ 83659</span>
+						<span>🔱 7720</span>
 					</div>
 				<div class="stars-today">⭐ 22251 stars this month</div>
 				</div>
@@ -184,8 +184,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 58695</span>
-						<span>🔱 7131</span>
+						<span>⭐ 58812</span>
+						<span>🔱 7140</span>
 					</div>
 				<div class="stars-today">⭐ 17692 stars this month</div>
 				</div>
@@ -206,76 +206,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 193754</span>
-						<span>🔱 22797</span>
+						<span>⭐ 193922</span>
+						<span>🔱 22811</span>
 					</div>
 				<div class="stars-today">⭐ 13440 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/debpalash/VoiceStudio" target="_blank">
-    
-
-
-      
-        debpalash /
-
-      VoiceStudio</a></p>
-				<p>
-      VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 109306</span>
-						<span>🔱 12113</span>
-					</div>
-				<div class="stars-today">⭐ 49960 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/anthropics/claude-plugins-official" target="_blank">
-    
-
-
-      
-        anthropics /
-
-      claude-plugins-official</a></p>
-				<p>
-      Official, Anthropic-managed directory of high quality Claude Code Plugins.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 47069</span>
-						<span>🔱 4883</span>
-					</div>
-				<div class="stars-today">⭐ 9515 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/Leonxlnx/taste-skill" target="_blank">
-    
-
-
-      
-        Leonxlnx /
-
-      taste-skill</a></p>
-				<p>
-      Agent skills that give coding agents taste: art direction, reference images and a browser check instead of generic AI pages
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 JavaScript</span>
-						<span>⭐ 114405</span>
-						<span>🔱 7696</span>
-					</div>
-				<div class="stars-today">⭐ 19580 stars this month</div>
 				</div>
 			</div>
 	
@@ -294,10 +228,54 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 28729</span>
-						<span>🔱 3676</span>
+						<span>⭐ 28861</span>
+						<span>🔱 3683</span>
 					</div>
 				<div class="stars-today">⭐ 9819 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/debpalash/VoiceStudio" target="_blank">
+    
+
+
+      
+        debpalash /
+
+      VoiceStudio</a></p>
+				<p>
+      VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 109561</span>
+						<span>🔱 12147</span>
+					</div>
+				<div class="stars-today">⭐ 49960 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/Leonxlnx/taste-skill" target="_blank">
+    
+
+
+      
+        Leonxlnx /
+
+      taste-skill</a></p>
+				<p>
+      Agent skills that give coding agents taste: art direction, reference images and a browser check instead of generic AI pages
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 JavaScript</span>
+						<span>⭐ 114661</span>
+						<span>🔱 7707</span>
+					</div>
+				<div class="stars-today">⭐ 19580 stars this month</div>
 				</div>
 			</div>
 	
@@ -316,10 +294,54 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 35596</span>
-						<span>🔱 3936</span>
+						<span>⭐ 35618</span>
+						<span>🔱 3939</span>
 					</div>
 				<div class="stars-today">⭐ 6451 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/anthropics/claude-plugins-official" target="_blank">
+    
+
+
+      
+        anthropics /
+
+      claude-plugins-official</a></p>
+				<p>
+      Official, Anthropic-managed directory of high quality Claude Code Plugins.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 47104</span>
+						<span>🔱 4890</span>
+					</div>
+				<div class="stars-today">⭐ 9515 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/vercel-labs/agent-browser" target="_blank">
+    
+
+
+      
+        vercel-labs /
+
+      agent-browser</a></p>
+				<p>
+      Browser automation CLI for AI agents
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Rust</span>
+						<span>⭐ 50503</span>
+						<span>🔱 3513</span>
+					</div>
+				<div class="stars-today">⭐ 6529 stars this month</div>
 				</div>
 			</div>
 	
