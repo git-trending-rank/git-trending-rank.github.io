@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2026-11-14
-date: 2026-11-14T08:07:55Z
+date: 2026-11-14T16:09:15Z
 categories:
 - daily
 keywords:
@@ -16,24 +16,24 @@ keywords:
 
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/alibaba/open-code-review" target="_blank">
+				<p><a href="https://github.com/backnotprop/plannotator" target="_blank">
     
 
 
       
-        alibaba /
+        backnotprop /
 
-      open-code-review</a></p>
+      plannotator</a></p>
 				<p>
-      Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.
+      The workspace to stay in the loop and on top of agents - shape, decide, plan, annotate, review code, share with team, and send all feedback to agents with one click. 
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Go</span>
-						<span>⭐ 50883</span>
-						<span>🔱 3792</span>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 10824</span>
+						<span>🔱 803</span>
 					</div>
-				<div class="stars-today">⭐ 215 stars today</div>
+				<div class="stars-today">⭐ 412 stars today</div>
 				</div>
 			</div>
 	
@@ -52,142 +52,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 5132</span>
-						<span>🔱 282</span>
+						<span>⭐ 5573</span>
+						<span>🔱 298</span>
 					</div>
-				<div class="stars-today">⭐ 1925 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/openai/codex-security" target="_blank">
-    
-
-
-      
-        openai /
-
-      codex-security</a></p>
-				<p>
-      OpenAI's Codex Security CLI and TypeScript SDK for finding, validating, and fixing security vulnerabilities. npm: https://www.npmjs.com/package/@openai/codex-security
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 13300</span>
-						<span>🔱 1031</span>
-					</div>
-				<div class="stars-today">⭐ 751 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/ZhuLinsen/daily_stock_analysis" target="_blank">
-    
-
-
-      
-        ZhuLinsen /
-
-      daily_stock_analysis</a></p>
-				<p>
-      LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。 LLM-powered multi-market stock analysis system with multi-source market data, real-time news, decision dashboard, automated notifications, and cost-free scheduled runs.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 71912</span>
-						<span>🔱 57373</span>
-					</div>
-				<div class="stars-today">⭐ 256 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/we-promise/sure" target="_blank">
-    
-
-
-      
-        we-promise /
-
-      sure</a></p>
-				<p>
-      The personal finance app for everyone (by everyone)
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Ruby</span>
-						<span>⭐ 14915</span>
-						<span>🔱 1135</span>
-					</div>
-				<div class="stars-today">⭐ 925 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/backnotprop/plannotator" target="_blank">
-    
-
-
-      
-        backnotprop /
-
-      plannotator</a></p>
-				<p>
-      The workspace to stay in the loop and on top of agents - shape, decide, plan, annotate, review code, share with team, and send all feedback to agents with one click. 
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 10584</span>
-						<span>🔱 791</span>
-					</div>
-				<div class="stars-today">⭐ 108 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/louislam/uptime-kuma" target="_blank">
-    
-
-
-      
-        louislam /
-
-      uptime-kuma</a></p>
-				<p>
-      A fancy self-hosted monitoring tool
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 JavaScript</span>
-						<span>⭐ 93976</span>
-						<span>🔱 8729</span>
-					</div>
-				<div class="stars-today">⭐ 71 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/block/buzz" target="_blank">
-    
-
-
-      
-        block /
-
-      buzz</a></p>
-				<p>
-      A hive mind communication platform
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Rust</span>
-						<span>⭐ 37372</span>
-						<span>🔱 4944</span>
-					</div>
-				<div class="stars-today">⭐ 97 stars today</div>
+				<div class="stars-today">⭐ 1225 stars today</div>
 				</div>
 			</div>
 	
@@ -206,54 +74,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 4329</span>
-						<span>🔱 882</span>
+						<span>⭐ 4554</span>
+						<span>🔱 896</span>
 					</div>
-				<div class="stars-today">⭐ 69 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/tailscale/tailcat" target="_blank">
-    
-
-
-      
-        tailscale /
-
-      tailcat</a></p>
-				<p>
-      like netcat, but over Tailscale's data plane, without Tailscale's control plane
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Go</span>
-						<span>⭐ 9595</span>
-						<span>🔱 437</span>
-					</div>
-				<div class="stars-today">⭐ 256 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/Likely7/Veyra-NRVideo" target="_blank">
-    
-
-
-      
-        Likely7 /
-
-      Veyra-NRVideo</a></p>
-				<p>
-      Bring PS5 GTA6 to 120FPS with DLSS 5. An advanced Windows video player and capture enhancement tool featuring real-time preview for videos, images, and capture card sources. Combine AI-powered Super Resolution, DLSS5 image enhancement, and Frame Generation to deliver a next-generation visual experience.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 C++</span>
-						<span>⭐ 1740</span>
-						<span>🔱 77</span>
-					</div>
-				<div class="stars-today">⭐ 256 stars today</div>
+				<div class="stars-today">⭐ 556 stars today</div>
 				</div>
 			</div>
 	
@@ -272,10 +96,252 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 55724</span>
-						<span>🔱 4616</span>
+						<span>⭐ 56090</span>
+						<span>🔱 4646</span>
 					</div>
-				<div class="stars-today">⭐ 67 stars today</div>
+				<div class="stars-today">⭐ 673 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/alibaba/open-code-review" target="_blank">
+    
+
+
+      
+        alibaba /
+
+      open-code-review</a></p>
+				<p>
+      Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Go</span>
+						<span>⭐ 51196</span>
+						<span>🔱 3816</span>
+					</div>
+				<div class="stars-today">⭐ 897 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/QwenLM/qwen-code" target="_blank">
+    
+
+
+      
+        QwenLM /
+
+      qwen-code</a></p>
+				<p>
+      An open-source AI coding agent that lives in your terminal.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 30201</span>
+						<span>🔱 3423</span>
+					</div>
+				<div class="stars-today">⭐ 462 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/dream-num/univer" target="_blank">
+    
+
+
+      
+        dream-num /
+
+      univer</a></p>
+				<p>
+      Build your own AI office with Univer Office SDK. Bring editing, calculation, collaboration, and file processing into your product for people and AI agents. Built on an extensible open-source core.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 24308</span>
+						<span>🔱 2104</span>
+					</div>
+				<div class="stars-today">⭐ 495 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/ag-ui-protocol/ag-ui" target="_blank">
+    
+
+
+      
+        ag-ui-protocol /
+
+      ag-ui</a></p>
+				<p>
+      AG-UI: the Agent-User Interaction Protocol. Bring Agents into Frontend Applications.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 17240</span>
+						<span>🔱 1582</span>
+					</div>
+				<div class="stars-today">⭐ 9 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/ashhart/TensorFold" target="_blank">
+    
+
+
+      
+        ashhart /
+
+      TensorFold</a></p>
+				<p>
+      LLM Inference Engine for Metal, CUDA and Vulkan.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Zig</span>
+						<span>⭐ 2113</span>
+						<span>🔱 407</span>
+					</div>
+				<div class="stars-today">⭐ 188 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/JuliusBrussee/caveman" target="_blank">
+    
+
+
+      
+        JuliusBrussee /
+
+      caveman</a></p>
+				<p>
+      🪨 why use many token when few token do trick. Viral skill + proxy for coding agents that cuts 65% of tokens by talking like a caveman.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Go</span>
+						<span>⭐ 119878</span>
+						<span>🔱 6991</span>
+					</div>
+				<div class="stars-today">⭐ 227 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/louislam/uptime-kuma" target="_blank">
+    
+
+
+      
+        louislam /
+
+      uptime-kuma</a></p>
+				<p>
+      A fancy self-hosted monitoring tool
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 JavaScript</span>
+						<span>⭐ 94113</span>
+						<span>🔱 8734</span>
+					</div>
+				<div class="stars-today">⭐ 432 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/we-promise/sure" target="_blank">
+    
+
+
+      
+        we-promise /
+
+      sure</a></p>
+				<p>
+      The personal finance app for everyone (by everyone)
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Ruby</span>
+						<span>⭐ 15111</span>
+						<span>🔱 1147</span>
+					</div>
+				<div class="stars-today">⭐ 659 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/Tencent/LoopForge" target="_blank">
+    
+
+
+      
+        Tencent /
+
+      LoopForge</a></p>
+				<p>
+      Self-hosted workflows for coding-agent delivery. Orchestrate CodeBuddy, Codex and Claude Code with scripts and human approval gates. Includes Local workflows for coding assistants.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Go</span>
+						<span>⭐ 769</span>
+						<span>🔱 117</span>
+					</div>
+				<div class="stars-today">⭐ 101 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/Likely7/Veyra-NRVideo" target="_blank">
+    
+
+
+      
+        Likely7 /
+
+      Veyra-NRVideo</a></p>
+				<p>
+      Bring PS5 GTA6 to 120FPS with DLSS 5. An advanced Windows video player and capture enhancement tool featuring real-time preview for videos, images, and capture card sources. Combine AI-powered Super Resolution, DLSS5 image enhancement, and Frame Generation to deliver a next-generation visual experience.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 C++</span>
+						<span>⭐ 1925</span>
+						<span>🔱 88</span>
+					</div>
+				<div class="stars-today">⭐ 423 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/martin-olivier/airgorah" target="_blank">
+    
+
+
+      
+        martin-olivier /
+
+      airgorah</a></p>
+				<p>
+      A WiFi security auditing software
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Rust</span>
+						<span>⭐ 5596</span>
+						<span>🔱 929</span>
+					</div>
+				<div class="stars-today">⭐ 269 stars today</div>
 				</div>
 			</div>
 	

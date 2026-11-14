@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2026年第46周
-date: 2026-11-14T08:07:56Z
+date: 2026-11-14T16:09:15Z
 categories:
 - weekly
 keywords:
@@ -14,6 +14,28 @@ keywords:
 	<main class="container">
         <div class="repo-list" id="repoList">
 
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/meta/astryx" target="_blank">
+    
+
+
+      
+        meta /
+
+      astryx</a></p>
+				<p>
+      An open source design system that's fully customizable and agent ready
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 27839</span>
+						<span>🔱 2166</span>
+					</div>
+				<div class="stars-today">⭐ 13375 stars this week</div>
+				</div>
+			</div>
 	
 			<div class="repo-card">
 				<p><a href="https://github.com/sherlock-project/sherlock" target="_blank">
@@ -30,8 +52,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 111361</span>
-						<span>🔱 12891</span>
+						<span>⭐ 111616</span>
+						<span>🔱 12922</span>
 					</div>
 				<div class="stars-today">⭐ 13364 stars this week</div>
 				</div>
@@ -52,32 +74,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 194269</span>
-						<span>🔱 22858</span>
+						<span>⭐ 194455</span>
+						<span>🔱 22879</span>
 					</div>
 				<div class="stars-today">⭐ 6169 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/milind-soni/OpenMausBot" target="_blank">
-    
-
-
-      
-        milind-soni /
-
-      OpenMausBot</a></p>
-				<p>
-      Open-source Grok Bot alternative with a virtual machine that bots can use
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 22355</span>
-						<span>🔱 3111</span>
-					</div>
-				<div class="stars-today">⭐ 7763 stars this week</div>
 				</div>
 			</div>
 	
@@ -96,8 +96,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Rust</span>
-						<span>⭐ 50855</span>
-						<span>🔱 3540</span>
+						<span>⭐ 51038</span>
+						<span>🔱 3556</span>
 					</div>
 				<div class="stars-today">⭐ 4360 stars this week</div>
 				</div>
@@ -118,10 +118,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 18749</span>
-						<span>🔱 1399</span>
+						<span>⭐ 18962</span>
+						<span>🔱 1411</span>
 					</div>
 				<div class="stars-today">⭐ 5560 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/milind-soni/OpenMausBot" target="_blank">
+    
+
+
+      
+        milind-soni /
+
+      OpenMausBot</a></p>
+				<p>
+      Open-source Grok Bot alternative with a virtual machine that bots can use
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 22624</span>
+						<span>🔱 3141</span>
+					</div>
+				<div class="stars-today">⭐ 7763 stars this week</div>
 				</div>
 			</div>
 	
@@ -140,32 +162,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 71912</span>
-						<span>🔱 57373</span>
+						<span>⭐ 72176</span>
+						<span>🔱 57452</span>
 					</div>
 				<div class="stars-today">⭐ 3778 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/NVIDIA/auto-ontology" target="_blank">
-    
-
-
-      
-        NVIDIA /
-
-      auto-ontology</a></p>
-				<p>
-      Auto Ontology is a Python framework for building semantic, graph-based reasoning layers over data. It enables deterministic query generation, better context retrieval, and more explainable AI for LLM and agent workflows.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 12653</span>
-						<span>🔱 1041</span>
-					</div>
-				<div class="stars-today">⭐ 4108 stars this week</div>
 				</div>
 			</div>
 	
@@ -184,32 +184,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 C++</span>
-						<span>⭐ 17911</span>
-						<span>🔱 2188</span>
+						<span>⭐ 17952</span>
+						<span>🔱 2193</span>
 					</div>
 				<div class="stars-today">⭐ 1764 stars this week</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/mattpocock/skills" target="_blank">
+				<p><a href="https://github.com/backnotprop/plannotator" target="_blank">
     
 
 
       
-        mattpocock /
+        backnotprop /
 
-      skills</a></p>
+      plannotator</a></p>
 				<p>
-      Skills for Real Engineers. Straight from my .agents directory.
+      The workspace to stay in the loop and on top of agents - shape, decide, plan, annotate, review code, share with team, and send all feedback to agents with one click. 
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Shell</span>
-						<span>⭐ 324004</span>
-						<span>🔱 27198</span>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 10824</span>
+						<span>🔱 803</span>
 					</div>
-				<div class="stars-today">⭐ 7599 stars this week</div>
+				<div class="stars-today">⭐ 511 stars this week</div>
 				</div>
 			</div>
 	
@@ -228,54 +228,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 JavaScript</span>
-						<span>⭐ 117267</span>
-						<span>🔱 12267</span>
+						<span>⭐ 117432</span>
+						<span>🔱 12284</span>
 					</div>
 				<div class="stars-today">⭐ 3502 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/cloudflare/security-audit-skill" target="_blank">
-    
-
-
-      
-        cloudflare /
-
-      security-audit-skill</a></p>
-				<p>
-      A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 JavaScript</span>
-						<span>⭐ 72103</span>
-						<span>🔱 4806</span>
-					</div>
-				<div class="stars-today">⭐ 8829 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/zed-industries/zed" target="_blank">
-    
-
-
-      
-        zed-industries /
-
-      zed</a></p>
-				<p>
-      Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Rust</span>
-						<span>⭐ 94990</span>
-						<span>🔱 11698</span>
-					</div>
-				<div class="stars-today">⭐ 2117 stars this week</div>
 				</div>
 			</div>
 	
@@ -294,54 +250,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 20894</span>
-						<span>🔱 3491</span>
+						<span>⭐ 20941</span>
+						<span>🔱 3495</span>
 					</div>
 				<div class="stars-today">⭐ 1731 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/vercel-labs/agent-desktop" target="_blank">
-    
-
-
-      
-        vercel-labs /
-
-      agent-desktop</a></p>
-				<p>
-      Computer use CLI for AI agents
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Rust</span>
-						<span>⭐ 23468</span>
-						<span>🔱 1740</span>
-					</div>
-				<div class="stars-today">⭐ 5408 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/lobehub/lobehub" target="_blank">
-    
-
-
-      
-        lobehub /
-
-      lobehub</a></p>
-				<p>
-      🤯 LobeHub - Super-Agents on Your Team. Add super-agents to the chats your team already uses.They take on work by themselves and get better every week.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 85468</span>
-						<span>🔱 16305</span>
-					</div>
-				<div class="stars-today">⭐ 1126 stars this week</div>
 				</div>
 			</div>
 	

@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2026年11月
-date: 2026-11-14T08:07:56Z
+date: 2026-11-14T16:09:15Z
 categories:
 - monthly
 keywords:
@@ -30,32 +30,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 CSS</span>
-						<span>⭐ 54655</span>
-						<span>🔱 2919</span>
+						<span>⭐ 54835</span>
+						<span>🔱 2929</span>
 					</div>
 				<div class="stars-today">⭐ 24631 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/morluto/rea" target="_blank">
-    
-
-
-      
-        morluto /
-
-      rea</a></p>
-				<p>
-      Reverse engineer anything with agents, from app behavior down to native binaries.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 458288</span>
-						<span>🔱 112415</span>
-					</div>
-				<div class="stars-today">⭐ 271084 stars this month</div>
 				</div>
 			</div>
 	
@@ -74,32 +52,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 JavaScript</span>
-						<span>⭐ 72103</span>
-						<span>🔱 4806</span>
+						<span>⭐ 72377</span>
+						<span>🔱 4829</span>
 					</div>
 				<div class="stars-today">⭐ 42839 stars this month</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/thedotmack/claude-mem" target="_blank">
+				<p><a href="https://github.com/morluto/rea" target="_blank">
     
 
 
       
-        thedotmack /
+        morluto /
 
-      claude-mem</a></p>
+      rea</a></p>
 				<p>
-      Persistent Context Across Sessions for Every Agent – Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More
+      Reverse engineer anything with agents, from app behavior down to native binaries.
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 116916</span>
-						<span>🔱 10146</span>
+						<span>⭐ 459164</span>
+						<span>🔱 112560</span>
 					</div>
-				<div class="stars-today">⭐ 17120 stars this month</div>
+				<div class="stars-today">⭐ 271084 stars this month</div>
 				</div>
 			</div>
 	
@@ -118,10 +96,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 59867</span>
-						<span>🔱 10831</span>
+						<span>⭐ 60269</span>
+						<span>🔱 10862</span>
 					</div>
 				<div class="stars-today">⭐ 32057 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/thedotmack/claude-mem" target="_blank">
+    
+
+
+      
+        thedotmack /
+
+      claude-mem</a></p>
+				<p>
+      Persistent Context Across Sessions for Every Agent – Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 117012</span>
+						<span>🔱 10154</span>
+					</div>
+				<div class="stars-today">⭐ 17120 stars this month</div>
 				</div>
 			</div>
 	
@@ -140,10 +140,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Rust</span>
-						<span>⭐ 109794</span>
-						<span>🔱 6549</span>
+						<span>⭐ 110022</span>
+						<span>🔱 6559</span>
 					</div>
 				<div class="stars-today">⭐ 29328 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/anthropics/skills" target="_blank">
+    
+
+
+      
+        anthropics /
+
+      skills</a></p>
+				<p>
+      Public repository for Agent Skills
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 194455</span>
+						<span>🔱 22879</span>
+					</div>
+				<div class="stars-today">⭐ 13734 stars this month</div>
 				</div>
 			</div>
 	
@@ -162,8 +184,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 84068</span>
-						<span>🔱 7773</span>
+						<span>⭐ 84215</span>
+						<span>🔱 7788</span>
 					</div>
 				<div class="stars-today">⭐ 21924 stars this month</div>
 				</div>
@@ -184,76 +206,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 59037</span>
-						<span>🔱 7162</span>
+						<span>⭐ 59159</span>
+						<span>🔱 7172</span>
 					</div>
 				<div class="stars-today">⭐ 17913 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/anthropics/skills" target="_blank">
-    
-
-
-      
-        anthropics /
-
-      skills</a></p>
-				<p>
-      Public repository for Agent Skills
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 194269</span>
-						<span>🔱 22858</span>
-					</div>
-				<div class="stars-today">⭐ 13734 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/AgriciDaniel/claude-seo" target="_blank">
-    
-
-
-      
-        AgriciDaniel /
-
-      claude-seo</a></p>
-				<p>
-      Universal SEO skill for Claude Code. 26 sub-skills + 19 sub-agents covering technical SEO, E-E-A-T, schema, GEO/AEO, agent readiness (Lighthouse Agentic Browsing, WebMCP, llms.txt), backlinks, local SEO, e-commerce, international SEO, Google APIs, and PDF/Excel reporting. 9 optional extensions for live SEO data.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 29139</span>
-						<span>🔱 3706</span>
-					</div>
-				<div class="stars-today">⭐ 10190 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/debpalash/VoiceStudio" target="_blank">
-    
-
-
-      
-        debpalash /
-
-      VoiceStudio</a></p>
-				<p>
-      VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 110180</span>
-						<span>🔱 12213</span>
-					</div>
-				<div class="stars-today">⭐ 48848 stars this month</div>
 				</div>
 			</div>
 	
@@ -272,10 +228,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 JavaScript</span>
-						<span>⭐ 115206</span>
-						<span>🔱 7725</span>
+						<span>⭐ 115455</span>
+						<span>🔱 7746</span>
 					</div>
 				<div class="stars-today">⭐ 19948 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/AgriciDaniel/claude-seo" target="_blank">
+    
+
+
+      
+        AgriciDaniel /
+
+      claude-seo</a></p>
+				<p>
+      Universal SEO skill for Claude Code. 26 sub-skills + 19 sub-agents covering technical SEO, E-E-A-T, schema, GEO/AEO, agent readiness (Lighthouse Agentic Browsing, WebMCP, llms.txt), backlinks, local SEO, e-commerce, international SEO, Google APIs, and PDF/Excel reporting. 9 optional extensions for live SEO data.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 29247</span>
+						<span>🔱 3715</span>
+					</div>
+				<div class="stars-today">⭐ 10190 stars this month</div>
 				</div>
 			</div>
 	
@@ -294,32 +272,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 35688</span>
-						<span>🔱 3952</span>
+						<span>⭐ 35732</span>
+						<span>🔱 3955</span>
 					</div>
 				<div class="stars-today">⭐ 6311 stars this month</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/anthropics/claude-plugins-official" target="_blank">
+				<p><a href="https://github.com/debpalash/VoiceStudio" target="_blank">
     
 
 
       
-        anthropics /
+        debpalash /
 
-      claude-plugins-official</a></p>
+      VoiceStudio</a></p>
 				<p>
-      Official, Anthropic-managed directory of high quality Claude Code Plugins.
+      VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 47236</span>
-						<span>🔱 4903</span>
+						<span>⭐ 110469</span>
+						<span>🔱 12236</span>
 					</div>
-				<div class="stars-today">⭐ 9580 stars this month</div>
+				<div class="stars-today">⭐ 48848 stars this month</div>
 				</div>
 			</div>
 	
@@ -338,8 +316,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 19257</span>
-						<span>🔱 1818</span>
+						<span>⭐ 19446</span>
+						<span>🔱 1830</span>
 					</div>
 				<div class="stars-today">⭐ 7584 stars this month</div>
 				</div>
@@ -360,8 +338,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Rust</span>
-						<span>⭐ 50855</span>
-						<span>🔱 3540</span>
+						<span>⭐ 51038</span>
+						<span>🔱 3556</span>
 					</div>
 				<div class="stars-today">⭐ 6810 stars this month</div>
 				</div>
