@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2026年11月
-date: 2026-11-15T12:42:58Z
+date: 2026-11-15T16:38:44Z
 categories:
 - monthly
 keywords:
@@ -30,8 +30,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 CSS</span>
-						<span>⭐ 55241</span>
-						<span>🔱 2963</span>
+						<span>⭐ 55329</span>
+						<span>🔱 2971</span>
 					</div>
 				<div class="stars-today">⭐ 25013 stars this month</div>
 				</div>
@@ -52,32 +52,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 JavaScript</span>
-						<span>⭐ 72894</span>
-						<span>🔱 4879</span>
+						<span>⭐ 73010</span>
+						<span>🔱 4886</span>
 					</div>
 				<div class="stars-today">⭐ 43171 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/morluto/rea" target="_blank">
-    
-
-
-      
-        morluto /
-
-      rea</a></p>
-				<p>
-      Reverse engineer anything with agents, from app behavior down to native binaries.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 460943</span>
-						<span>🔱 112921</span>
-					</div>
-				<div class="stars-today">⭐ 236618 stars this month</div>
 				</div>
 			</div>
 	
@@ -96,8 +74,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 61012</span>
-						<span>🔱 10970</span>
+						<span>⭐ 61241</span>
+						<span>🔱 10989</span>
 					</div>
 				<div class="stars-today">⭐ 32857 stars this month</div>
 				</div>
@@ -118,8 +96,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 117235</span>
-						<span>🔱 10178</span>
+						<span>⭐ 117295</span>
+						<span>🔱 10183</span>
 					</div>
 				<div class="stars-today">⭐ 17051 stars this month</div>
 				</div>
@@ -140,8 +118,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Rust</span>
-						<span>⭐ 110473</span>
-						<span>🔱 6603</span>
+						<span>⭐ 110573</span>
+						<span>🔱 6606</span>
 					</div>
 				<div class="stars-today">⭐ 29487 stars this month</div>
 				</div>
@@ -162,32 +140,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 195005</span>
-						<span>🔱 22932</span>
+						<span>⭐ 195189</span>
+						<span>🔱 22949</span>
 					</div>
 				<div class="stars-today">⭐ 13927 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/heygen-com/hyperframes" target="_blank">
-    
-
-
-      
-        heygen-com /
-
-      hyperframes</a></p>
-				<p>
-      Write HTML. Render video. Built for agents.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 84528</span>
-						<span>🔱 7825</span>
-					</div>
-				<div class="stars-today">⭐ 21361 stars this month</div>
 				</div>
 			</div>
 	
@@ -206,32 +162,54 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 59370</span>
-						<span>🔱 7193</span>
+						<span>⭐ 59429</span>
+						<span>🔱 7200</span>
 					</div>
 				<div class="stars-today">⭐ 18077 stars this month</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/Leonxlnx/taste-skill" target="_blank">
+				<p><a href="https://github.com/heygen-com/hyperframes" target="_blank">
     
 
 
       
-        Leonxlnx /
+        heygen-com /
 
-      taste-skill</a></p>
+      hyperframes</a></p>
 				<p>
-      Agent skills that give coding agents taste: art direction, reference images and a browser check instead of generic AI pages
+      Write HTML. Render video. Built for agents.
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 JavaScript</span>
-						<span>⭐ 115871</span>
-						<span>🔱 7777</span>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 84617</span>
+						<span>🔱 7834</span>
 					</div>
-				<div class="stars-today">⭐ 20043 stars this month</div>
+				<div class="stars-today">⭐ 21361 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/sherlock-project/sherlock" target="_blank">
+    
+
+
+      
+        sherlock-project /
+
+      sherlock</a></p>
+				<p>
+      Hunt down social media accounts by username across social networks
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 112273</span>
+						<span>🔱 12980</span>
+					</div>
+				<div class="stars-today">⭐ 18365 stars this month</div>
 				</div>
 			</div>
 	
@@ -250,10 +228,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 29527</span>
-						<span>🔱 3730</span>
+						<span>⭐ 29587</span>
+						<span>🔱 3734</span>
 					</div>
 				<div class="stars-today">⭐ 10402 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/Leonxlnx/taste-skill" target="_blank">
+    
+
+
+      
+        Leonxlnx /
+
+      taste-skill</a></p>
+				<p>
+      Agent skills that give coding agents taste: art direction, reference images and a browser check instead of generic AI pages
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 JavaScript</span>
+						<span>⭐ 116000</span>
+						<span>🔱 7782</span>
+					</div>
+				<div class="stars-today">⭐ 20043 stars this month</div>
 				</div>
 			</div>
 	
@@ -272,32 +272,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 36040</span>
-						<span>🔱 3983</span>
+						<span>⭐ 36097</span>
+						<span>🔱 3993</span>
 					</div>
 				<div class="stars-today">⭐ 6228 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/debpalash/VoiceStudio" target="_blank">
-    
-
-
-      
-        debpalash /
-
-      VoiceStudio</a></p>
-				<p>
-      VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 111021</span>
-						<span>🔱 12305</span>
-					</div>
-				<div class="stars-today">⭐ 46324 stars this month</div>
 				</div>
 			</div>
 	
@@ -316,8 +294,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 19829</span>
-						<span>🔱 1857</span>
+						<span>⭐ 19919</span>
+						<span>🔱 1865</span>
 					</div>
 				<div class="stars-today">⭐ 7617 stars this month</div>
 				</div>
@@ -338,8 +316,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Rust</span>
-						<span>⭐ 51395</span>
-						<span>🔱 3592</span>
+						<span>⭐ 51487</span>
+						<span>🔱 3596</span>
 					</div>
 				<div class="stars-today">⭐ 7152 stars this month</div>
 				</div>
