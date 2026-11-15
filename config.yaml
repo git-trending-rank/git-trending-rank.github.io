@@ -19,7 +19,6 @@ updated_option: data
 
 module:
   hugoVersion:
-    extended: true
     min: "0.157.0"
   imports:
     - path: github.com/CaiJimmy/hugo-theme-stack/v4

@@ -33,3 +33,6 @@ make server
 ```
 
 打开 http://localhost:1313 即可查看。
+
+> Hugo v0.170.0 起移除了 extended 构建和内置 Sass，若本地 Hugo 为 0.170.0 及以上，需先安装 Dart Sass：
+> `npm install -g sass-embedded`（Hugo 通过 `sass --embedded` 协议调用，纯 JS 的 `sass` 包不可用）。

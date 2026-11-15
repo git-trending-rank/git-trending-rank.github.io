@@ -3,11 +3,7 @@ name: Scheduled task
 on:
   schedule:
     - cron: '55 1-23/2 * * *'
-      branches:
-        - main
   workflow_dispatch: # 手动触发
-    branches:
-      - main # workflow_dispatch 也可以限制分支。
 
 jobs:
   generated_file_and_push:
@@ -15,15 +11,15 @@ jobs:
 
     steps:
       - name: Checkout code
-        uses: actions/checkout@v6
+        uses: actions/checkout@v7.0.1
 
       - name: Set up Go
-        uses: actions/setup-go@v6
+        uses: actions/setup-go@v7.0.0
         with:
-          go-version: '1.26.4'
+          go-version: '1.27.4'
 
       - name: Build Go project
-        run: go build -o myapp # 替换 myapp 为你的可执行文件名
+        run: go build -o myapp
 
       - name: Run Go programs
         run: |
@@ -52,13 +48,30 @@ jobs:
     needs: generated_file_and_push
     steps:
       - name: Checkout code
-        uses: actions/checkout@v6
+        uses: actions/checkout@v7.0.1
 
+      # hugo mod 依赖 Go 工具链，显式安装避免 runner 预装版本低于 go.mod 要求
+      - name: Setup Go
+        uses: actions/setup-go@v7.0.0
+        with:
+          go-version: '1.27.4'
+
+      # Hugo v0.170.0 起移除了 extended 构建和内置 LibSass，Sass 全部改由 Dart Sass 处理，
+      # 因此不再传 extended: true，改为显式安装 Dart Sass（主题 stack v4 的 toCSS 依赖它）。
       - name: Setup Hugo
-        uses: peaceiris/actions-hugo@v3
+        uses: peaceiris/actions-hugo@v3.2.1
         with:
           hugo-version: 'latest'
-          extended: true
+
+      - name: Setup Node
+        uses: actions/setup-node@v7.1.0
+        with:
+          node-version: '24'
+
+      # 注意装的是 sass-embedded：Hugo 0.170+ 通过 `sass --embedded` 协议调用，
+      # 纯 JS 的 sass 包不支持该参数，会导致 "unexpected EOF" 构建失败。
+      - name: Install Dart Sass
+        run: npm install -g sass-embedded@1.108.2
 
       - name: download themes
         run: mkdir -p themes && git clone --branch v4.0.3 https://github.com/CaiJimmy/hugo-theme-stack.git themes/hugo-theme-stack
@@ -69,7 +82,7 @@ jobs:
       - name: Build site
         run: hugo --config ./config.yaml
       - name: Deploy to GitHub Pages
-        uses: peaceiris/actions-gh-pages@v4
+        uses: peaceiris/actions-gh-pages@v4.1.0
         with:
           github_token: ${{ secrets.GIT_TOKEN }}
           publish_dir: ./docs
