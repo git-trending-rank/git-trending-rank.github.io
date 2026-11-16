@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2026年11月
-date: 2026-11-16T12:06:52Z
+date: 2026-11-16T23:03:00Z
 categories:
 - monthly
 keywords:
@@ -30,8 +30,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 CSS</span>
-						<span>⭐ 55823</span>
-						<span>🔱 3002</span>
+						<span>⭐ 56094</span>
+						<span>🔱 3021</span>
 					</div>
 				<div class="stars-today">⭐ 25448 stars this month</div>
 				</div>
@@ -52,8 +52,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 JavaScript</span>
-						<span>⭐ 73530</span>
-						<span>🔱 4926</span>
+						<span>⭐ 73908</span>
+						<span>🔱 4950</span>
 					</div>
 				<div class="stars-today">⭐ 43540 stars this month</div>
 				</div>
@@ -74,8 +74,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 62184</span>
-						<span>🔱 11096</span>
+						<span>⭐ 62748</span>
+						<span>🔱 11149</span>
 					</div>
 				<div class="stars-today">⭐ 33583 stars this month</div>
 				</div>
@@ -96,32 +96,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 117525</span>
-						<span>🔱 10210</span>
+						<span>⭐ 117679</span>
+						<span>🔱 10221</span>
 					</div>
 				<div class="stars-today">⭐ 17038 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/pbakaus/impeccable" target="_blank">
-    
-
-
-      
-        pbakaus /
-
-      impeccable</a></p>
-				<p>
-      The design vocabulary for your coding agent. Steer with polish and bolder, review with critique and audit, catch AI slop before it ships.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Rust</span>
-						<span>⭐ 111091</span>
-						<span>🔱 6639</span>
-					</div>
-				<div class="stars-today">⭐ 29631 stars this month</div>
 				</div>
 			</div>
 	
@@ -140,10 +118,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 195657</span>
-						<span>🔱 22990</span>
+						<span>⭐ 196012</span>
+						<span>🔱 23009</span>
 					</div>
 				<div class="stars-today">⭐ 14332 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/pbakaus/impeccable" target="_blank">
+    
+
+
+      
+        pbakaus /
+
+      impeccable</a></p>
+				<p>
+      The design vocabulary for your coding agent. Steer with polish and bolder, review with critique and audit, catch AI slop before it ships.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Rust</span>
+						<span>⭐ 111353</span>
+						<span>🔱 6655</span>
+					</div>
+				<div class="stars-today">⭐ 29631 stars this month</div>
 				</div>
 			</div>
 	
@@ -162,8 +162,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 59656</span>
-						<span>🔱 7227</span>
+						<span>⭐ 59769</span>
+						<span>🔱 7234</span>
 					</div>
 				<div class="stars-today">⭐ 18278 stars this month</div>
 				</div>
@@ -184,8 +184,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 84980</span>
-						<span>🔱 7871</span>
+						<span>⭐ 85221</span>
+						<span>🔱 7893</span>
 					</div>
 				<div class="stars-today">⭐ 20878 stars this month</div>
 				</div>
@@ -206,32 +206,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 112872</span>
-						<span>🔱 13016</span>
+						<span>⭐ 113144</span>
+						<span>🔱 13034</span>
 					</div>
 				<div class="stars-today">⭐ 18371 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/AgriciDaniel/claude-seo" target="_blank">
-    
-
-
-      
-        AgriciDaniel /
-
-      claude-seo</a></p>
-				<p>
-      Universal SEO skill for Claude Code. 26 sub-skills + 19 sub-agents covering technical SEO, E-E-A-T, schema, GEO/AEO, agent readiness (Lighthouse Agentic Browsing, WebMCP, llms.txt), backlinks, local SEO, e-commerce, international SEO, Google APIs, and PDF/Excel reporting. 9 optional extensions for live SEO data.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 29879</span>
-						<span>🔱 3762</span>
-					</div>
-				<div class="stars-today">⭐ 10672 stars this month</div>
 				</div>
 			</div>
 	
@@ -250,10 +228,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 JavaScript</span>
-						<span>⭐ 116548</span>
-						<span>🔱 7806</span>
+						<span>⭐ 116869</span>
+						<span>🔱 7828</span>
 					</div>
 				<div class="stars-today">⭐ 19546 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/AgriciDaniel/claude-seo" target="_blank">
+    
+
+
+      
+        AgriciDaniel /
+
+      claude-seo</a></p>
+				<p>
+      Universal SEO skill for Claude Code. 26 sub-skills + 19 sub-agents covering technical SEO, E-E-A-T, schema, GEO/AEO, agent readiness (Lighthouse Agentic Browsing, WebMCP, llms.txt), backlinks, local SEO, e-commerce, international SEO, Google APIs, and PDF/Excel reporting. 9 optional extensions for live SEO data.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 30032</span>
+						<span>🔱 3780</span>
+					</div>
+				<div class="stars-today">⭐ 10672 stars this month</div>
 				</div>
 			</div>
 	
@@ -272,10 +272,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 36249</span>
-						<span>🔱 4000</span>
+						<span>⭐ 36300</span>
+						<span>🔱 4008</span>
 					</div>
 				<div class="stars-today">⭐ 6417 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/backnotprop/plannotator" target="_blank">
+    
+
+
+      
+        backnotprop /
+
+      plannotator</a></p>
+				<p>
+      The workspace to stay in the loop and on top of agents - shape, decide, plan, annotate, review code, share with team, and send all feedback to agents with one click. 
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 12512</span>
+						<span>🔱 1226</span>
+					</div>
+				<div class="stars-today">⭐ 2237 stars this month</div>
 				</div>
 			</div>
 	
@@ -294,8 +316,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 20356</span>
-						<span>🔱 1889</span>
+						<span>⭐ 20557</span>
+						<span>🔱 1898</span>
 					</div>
 				<div class="stars-today">⭐ 7937 stars this month</div>
 				</div>
@@ -316,7 +338,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Rust</span>
-						<span>⭐ 51837</span>
+						<span>⭐ 51996</span>
 						<span>🔱 3628</span>
 					</div>
 				<div class="stars-today">⭐ 7545 stars this month</div>

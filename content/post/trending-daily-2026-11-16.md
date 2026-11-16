@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2026-11-16
-date: 2026-11-16T12:06:51Z
+date: 2026-11-16T23:02:59Z
 categories:
 - daily
 keywords:
@@ -14,28 +14,6 @@ keywords:
 	<main class="container">
         <div class="repo-list" id="repoList">
 
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/dream-num/univer" target="_blank">
-    
-
-
-      
-        dream-num /
-
-      univer</a></p>
-				<p>
-      Build your own AI office with Univer Office SDK. Bring editing, calculation, collaboration, and file processing into your product for people and AI agents. Built on an extensible open-source core.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 27331</span>
-						<span>🔱 2470</span>
-					</div>
-				<div class="stars-today">⭐ 1878 stars today</div>
-				</div>
-			</div>
 	
 			<div class="repo-card">
 				<p><a href="https://github.com/ag-ui-protocol/ag-ui" target="_blank">
@@ -52,32 +30,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 18336</span>
-						<span>🔱 1891</span>
+						<span>⭐ 18911</span>
+						<span>🔱 1961</span>
 					</div>
 				<div class="stars-today">⭐ 790 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/google-labs-code/stitch-skills" target="_blank">
-    
-
-
-      
-        google-labs-code /
-
-      stitch-skills</a></p>
-				<p>
-      A library of Agent Skills designed to work with the Stitch MCP server. Each skill follows the Agent Skills open standard, for compatibility with coding agents such as Antigravity, Gemini CLI, Claude Code, Cursor.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 9570</span>
-						<span>🔱 1197</span>
-					</div>
-				<div class="stars-today">⭐ 247 stars today</div>
 				</div>
 			</div>
 	
@@ -96,142 +52,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 12198</span>
-						<span>🔱 1147</span>
+						<span>⭐ 12512</span>
+						<span>🔱 1226</span>
 					</div>
 				<div class="stars-today">⭐ 689 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/ChromeDevTools/chrome-devtools-mcp" target="_blank">
+				<p><a href="https://github.com/dream-num/univer" target="_blank">
     
 
 
       
-        ChromeDevTools /
+        dream-num /
 
-      chrome-devtools-mcp</a></p>
+      univer</a></p>
 				<p>
-      Chrome DevTools for coding agents
+      Build your own AI office with Univer Office SDK. Bring editing, calculation, collaboration, and file processing into your product for people and AI agents. Built on an extensible open-source core.
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 57404</span>
-						<span>🔱 4839</span>
+						<span>⭐ 27739</span>
+						<span>🔱 2525</span>
 					</div>
-				<div class="stars-today">⭐ 837 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/alibaba/open-code-review" target="_blank">
-    
-
-
-      
-        alibaba /
-
-      open-code-review</a></p>
-				<p>
-      Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Go</span>
-						<span>⭐ 52629</span>
-						<span>🔱 4228</span>
-					</div>
-				<div class="stars-today">⭐ 946 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/Tencent/LoopForge" target="_blank">
-    
-
-
-      
-        Tencent /
-
-      LoopForge</a></p>
-				<p>
-      Self-hosted workflows for coding-agent delivery. Orchestrate CodeBuddy, Codex and Claude Code with scripts and human approval gates. Includes Local workflows for coding assistants.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Go</span>
-						<span>⭐ 2141</span>
-						<span>🔱 334</span>
-					</div>
-				<div class="stars-today">⭐ 1016 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/ggml-org/ggml" target="_blank">
-    
-
-
-      
-        ggml-org /
-
-      ggml</a></p>
-				<p>
-      Tensor library for machine learning
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 C++</span>
-						<span>⭐ 16061</span>
-						<span>🔱 2068</span>
-					</div>
-				<div class="stars-today">⭐ 43 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/elementalsouls/Claude-BugHunter" target="_blank">
-    
-
-
-      
-        elementalsouls /
-
-      Claude-BugHunter</a></p>
-				<p>
-      A Claude Code skill bundle for bug hunting and external red-team work - 82 skills, 15 slash commands, 681 disclosed-report patterns curated across 24 core vulnerability classes, plus enterprise identity + infrastructure attack matrices.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 7031</span>
-						<span>🔱 1077</span>
-					</div>
-				<div class="stars-today">⭐ 98 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/GoogleChrome/modern-web-guidance-src" target="_blank">
-    
-
-
-      
-        GoogleChrome /
-
-      modern-web-guidance-src</a></p>
-				<p>
-      Keep your coding agent up to date with the latest web best practices
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 7711</span>
-						<span>🔱 682</span>
-					</div>
-				<div class="stars-today">⭐ 1200 stars today</div>
+				<div class="stars-today">⭐ 1878 stars today</div>
 				</div>
 			</div>
 	
@@ -250,10 +96,120 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 5965</span>
-						<span>🔱 1257</span>
+						<span>⭐ 6271</span>
+						<span>🔱 1328</span>
 					</div>
 				<div class="stars-today">⭐ 841 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/elementalsouls/Claude-BugHunter" target="_blank">
+    
+
+
+      
+        elementalsouls /
+
+      Claude-BugHunter</a></p>
+				<p>
+      A Claude Code skill bundle for bug hunting and external red-team work - 82 skills, 15 slash commands, 681 disclosed-report patterns curated across 24 core vulnerability classes, plus enterprise identity + infrastructure attack matrices.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 7394</span>
+						<span>🔱 1145</span>
+					</div>
+				<div class="stars-today">⭐ 1057 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/getarcaneapp/arcane" target="_blank">
+    
+
+
+      
+        getarcaneapp /
+
+      arcane</a></p>
+				<p>
+      Modern Docker Management, Designed for Everyone
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Go</span>
+						<span>⭐ 8670</span>
+						<span>🔱 403</span>
+					</div>
+				<div class="stars-today">⭐ 31 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/DeanChensj/jiangshan-map" target="_blank">
+    
+
+
+      
+        DeanChensj /
+
+      jiangshan-map</a></p>
+				<p>
+      江山时序 · 中国历史交互地图时间轴 (403 BCE – Present) | Interactive Historical Atlas of China across 18 dynasties, 198 territory snapshots, ancient-to-modern place genealogy & classical poetry routes
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 JavaScript</span>
+						<span>⭐ 6670</span>
+						<span>🔱 786</span>
+					</div>
+				<div class="stars-today">⭐ 285 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/google-labs-code/stitch-skills" target="_blank">
+    
+
+
+      
+        google-labs-code /
+
+      stitch-skills</a></p>
+				<p>
+      A library of Agent Skills designed to work with the Stitch MCP server. Each skill follows the Agent Skills open standard, for compatibility with coding agents such as Antigravity, Gemini CLI, Claude Code, Cursor.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 9718</span>
+						<span>🔱 1241</span>
+					</div>
+				<div class="stars-today">⭐ 540 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/mvanhorn/last30days-skill" target="_blank">
+    
+
+
+      
+        mvanhorn /
+
+      last30days-skill</a></p>
+				<p>
+      AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 68087</span>
+						<span>🔱 6035</span>
+					</div>
+				<div class="stars-today">⭐ 122 stars today</div>
 				</div>
 			</div>
 	
@@ -267,15 +223,125 @@ keywords:
 
       SkillEvaluator</a></p>
 				<p>
-      Multi-tier framework for evaluating AI agent skills with quality gates, semantic overlap detection, synthetic evaluation dataset generation, and live agent evaluation that measures how skills affect agent behavior.
+      Multi-tier framework for evaluating AI agent skills and plugins with quality gates, semantic overlap detection, synthetic evaluation dataset generation, and live agent evaluation that measures how skills affect agent behavior.
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 2201</span>
-						<span>🔱 293</span>
+						<span>⭐ 2623</span>
+						<span>🔱 356</span>
 					</div>
-				<div class="stars-today">⭐ 122 stars today</div>
+				<div class="stars-today">⭐ 953 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/alibaba/open-code-review" target="_blank">
+    
+
+
+      
+        alibaba /
+
+      open-code-review</a></p>
+				<p>
+      Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Go</span>
+						<span>⭐ 52899</span>
+						<span>🔱 4293</span>
+					</div>
+				<div class="stars-today">⭐ 946 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/google-research/paper-orchestra" target="_blank">
+    
+
+
+      
+        google-research /
+
+      paper-orchestra</a></p>
+				<p>
+      PaperOrchestra is a multi-agent framework for automated AI research paper writing.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 1430</span>
+						<span>🔱 236</span>
+					</div>
+				<div class="stars-today">⭐ 306 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/ChromeDevTools/chrome-devtools-mcp" target="_blank">
+    
+
+
+      
+        ChromeDevTools /
+
+      chrome-devtools-mcp</a></p>
+				<p>
+      Chrome DevTools for coding agents
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 57652</span>
+						<span>🔱 4849</span>
+					</div>
+				<div class="stars-today">⭐ 837 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/sveltejs/svelte" target="_blank">
+    
+
+
+      
+        sveltejs /
+
+      svelte</a></p>
+				<p>
+      web development for the rest of us
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 JavaScript</span>
+						<span>⭐ 88956</span>
+						<span>🔱 6095</span>
+					</div>
+				<div class="stars-today">⭐ 58 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/kajisho5/ffmpeg-skill" target="_blank">
+    
+
+
+      
+        kajisho5 /
+
+      ffmpeg-skill</a></p>
+				<p>
+      Local video editor for coding agents: 42 FFmpeg tools with a machine-readable contract and an MCP server, for Claude Code, Cursor and Codex. Cut, captions, reframe, loudness, platform exports. No cloud, no API keys.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 6629</span>
+						<span>🔱 598</span>
+					</div>
+				<div class="stars-today">⭐ 475 stars today</div>
 				</div>
 			</div>
 	
