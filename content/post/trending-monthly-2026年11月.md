@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2026年11月
-date: 2026-11-17T05:16:05Z
+date: 2026-11-17T14:56:16Z
 categories:
 - monthly
 keywords:
@@ -30,8 +30,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 CSS</span>
-						<span>⭐ 56253</span>
-						<span>🔱 3028</span>
+						<span>⭐ 56624</span>
+						<span>🔱 3047</span>
 					</div>
 				<div class="stars-today">⭐ 25988 stars this month</div>
 				</div>
@@ -52,8 +52,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 JavaScript</span>
-						<span>⭐ 74092</span>
-						<span>🔱 4962</span>
+						<span>⭐ 74494</span>
+						<span>🔱 4985</span>
 					</div>
 				<div class="stars-today">⭐ 43924 stars this month</div>
 				</div>
@@ -74,32 +74,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 63058</span>
-						<span>🔱 11183</span>
+						<span>⭐ 63692</span>
+						<span>🔱 11243</span>
 					</div>
 				<div class="stars-today">⭐ 34691 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/thedotmack/claude-mem" target="_blank">
-    
-
-
-      
-        thedotmack /
-
-      claude-mem</a></p>
-				<p>
-      Persistent Context Across Sessions for Every Agent – Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 117760</span>
-						<span>🔱 10229</span>
-					</div>
-				<div class="stars-today">⭐ 17074 stars this month</div>
 				</div>
 			</div>
 	
@@ -118,10 +96,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 196180</span>
-						<span>🔱 23026</span>
+						<span>⭐ 196503</span>
+						<span>🔱 23051</span>
 					</div>
 				<div class="stars-today">⭐ 14817 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/thedotmack/claude-mem" target="_blank">
+    
+
+
+      
+        thedotmack /
+
+      claude-mem</a></p>
+				<p>
+      Persistent Context Across Sessions for Every Agent – Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 117885</span>
+						<span>🔱 10244</span>
+					</div>
+				<div class="stars-today">⭐ 17074 stars this month</div>
 				</div>
 			</div>
 	
@@ -140,8 +140,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Rust</span>
-						<span>⭐ 111498</span>
-						<span>🔱 6663</span>
+						<span>⭐ 111890</span>
+						<span>🔱 6678</span>
 					</div>
 				<div class="stars-today">⭐ 29881 stars this month</div>
 				</div>
@@ -162,32 +162,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 59841</span>
-						<span>🔱 7243</span>
+						<span>⭐ 59974</span>
+						<span>🔱 7265</span>
 					</div>
 				<div class="stars-today">⭐ 18533 stars this month</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/heygen-com/hyperframes" target="_blank">
+				<p><a href="https://github.com/backnotprop/plannotator" target="_blank">
     
 
 
       
-        heygen-com /
+        backnotprop /
 
-      hyperframes</a></p>
+      plannotator</a></p>
 				<p>
-      Write HTML. Render video. Built for agents.
+      The workspace to stay in the loop and on top of agents - shape, decide, plan, annotate, review code, share with team, and send all feedback to agents with one click. 
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 85343</span>
-						<span>🔱 7906</span>
+						<span>⭐ 12925</span>
+						<span>🔱 1296</span>
 					</div>
-				<div class="stars-today">⭐ 20459 stars this month</div>
+				<div class="stars-today">⭐ 2848 stars this month</div>
 				</div>
 			</div>
 	
@@ -206,10 +206,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 113289</span>
-						<span>🔱 13044</span>
+						<span>⭐ 113603</span>
+						<span>🔱 13077</span>
 					</div>
 				<div class="stars-today">⭐ 19079 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/heygen-com/hyperframes" target="_blank">
+    
+
+
+      
+        heygen-com /
+
+      hyperframes</a></p>
+				<p>
+      Write HTML. Render video. Built for agents.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 85707</span>
+						<span>🔱 7945</span>
+					</div>
+				<div class="stars-today">⭐ 20459 stars this month</div>
 				</div>
 			</div>
 	
@@ -228,8 +250,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 JavaScript</span>
-						<span>⭐ 117037</span>
-						<span>🔱 7835</span>
+						<span>⭐ 117459</span>
+						<span>🔱 7858</span>
 					</div>
 				<div class="stars-today">⭐ 19384 stars this month</div>
 				</div>
@@ -250,76 +272,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 30118</span>
-						<span>🔱 3785</span>
+						<span>⭐ 30252</span>
+						<span>🔱 3793</span>
 					</div>
 				<div class="stars-today">⭐ 10989 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/anthropics/knowledge-work-plugins" target="_blank">
-    
-
-
-      
-        anthropics /
-
-      knowledge-work-plugins</a></p>
-				<p>
-      Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 36323</span>
-						<span>🔱 4011</span>
-					</div>
-				<div class="stars-today">⭐ 6537 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/backnotprop/plannotator" target="_blank">
-    
-
-
-      
-        backnotprop /
-
-      plannotator</a></p>
-				<p>
-      The workspace to stay in the loop and on top of agents - shape, decide, plan, annotate, review code, share with team, and send all feedback to agents with one click. 
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 12711</span>
-						<span>🔱 1250</span>
-					</div>
-				<div class="stars-today">⭐ 2848 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/Vincentwei1021/video-shotcraft" target="_blank">
-    
-
-
-      
-        Vincentwei1021 /
-
-      video-shotcraft</a></p>
-				<p>
-      AI video skill for Claude Code & Codex — cinematic, editable product promos with Remotion: 124 shot recipe cards, 150 motion previews, beat sync, sound design, Motion Workbench & JianYing (CapCut CN) export.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 20710</span>
-						<span>🔱 1908</span>
-					</div>
-				<div class="stars-today">⭐ 8363 stars this month</div>
 				</div>
 			</div>
 	
@@ -338,10 +294,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Rust</span>
-						<span>⭐ 52099</span>
-						<span>🔱 3640</span>
+						<span>⭐ 52256</span>
+						<span>🔱 3653</span>
 					</div>
 				<div class="stars-today">⭐ 7943 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/anthropics/knowledge-work-plugins" target="_blank">
+    
+
+
+      
+        anthropics /
+
+      knowledge-work-plugins</a></p>
+				<p>
+      Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 36380</span>
+						<span>🔱 4017</span>
+					</div>
+				<div class="stars-today">⭐ 6537 stars this month</div>
 				</div>
 			</div>
 	

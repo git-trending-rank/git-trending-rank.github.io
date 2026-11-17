@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2026年第47周
-date: 2026-11-17T05:16:05Z
+date: 2026-11-17T14:56:16Z
 categories:
 - weekly
 keywords:
@@ -30,32 +30,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 8100</span>
-						<span>🔱 703</span>
+						<span>⭐ 8293</span>
+						<span>🔱 715</span>
 					</div>
 				<div class="stars-today">⭐ 6542 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/meta/astryx" target="_blank">
-    
-
-
-      
-        meta /
-
-      astryx</a></p>
-				<p>
-      An open source design system that's fully customizable and agent ready
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 29733</span>
-						<span>🔱 2313</span>
-					</div>
-				<div class="stars-today">⭐ 10939 stars this week</div>
 				</div>
 			</div>
 	
@@ -74,54 +52,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 12711</span>
-						<span>🔱 1250</span>
+						<span>⭐ 12925</span>
+						<span>🔱 1296</span>
 					</div>
 				<div class="stars-today">⭐ 2325 stars this week</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/anthropics/skills" target="_blank">
+				<p><a href="https://github.com/meta/astryx" target="_blank">
     
 
 
       
-        anthropics /
+        meta /
 
-      skills</a></p>
+      astryx</a></p>
 				<p>
-      Public repository for Agent Skills
+      An open source design system that's fully customizable and agent ready
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 196180</span>
-						<span>🔱 23026</span>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 29964</span>
+						<span>🔱 2335</span>
 					</div>
-				<div class="stars-today">⭐ 5666 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/vercel-labs/agent-browser" target="_blank">
-    
-
-
-      
-        vercel-labs /
-
-      agent-browser</a></p>
-				<p>
-      Browser automation CLI for AI agents
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Rust</span>
-						<span>⭐ 52099</span>
-						<span>🔱 3640</span>
-					</div>
-				<div class="stars-today">⭐ 3760 stars this week</div>
+				<div class="stars-today">⭐ 10939 stars this week</div>
 				</div>
 			</div>
 	
@@ -140,8 +96,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Ruby</span>
-						<span>⭐ 16060</span>
-						<span>🔱 1396</span>
+						<span>⭐ 16183</span>
+						<span>🔱 1409</span>
 					</div>
 				<div class="stars-today">⭐ 4679 stars this week</div>
 				</div>
@@ -162,76 +118,54 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 72878</span>
-						<span>🔱 57692</span>
+						<span>⭐ 73017</span>
+						<span>🔱 57756</span>
 					</div>
 				<div class="stars-today">⭐ 4355 stars this week</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/sherlock-project/sherlock" target="_blank">
+				<p><a href="https://github.com/anthropics/skills" target="_blank">
     
 
 
       
-        sherlock-project /
+        anthropics /
 
-      sherlock</a></p>
+      skills</a></p>
 				<p>
-      Hunt down social media accounts by username across social networks
+      Public repository for Agent Skills
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 113289</span>
-						<span>🔱 13044</span>
+						<span>⭐ 196503</span>
+						<span>🔱 23051</span>
 					</div>
-				<div class="stars-today">⭐ 7067 stars this week</div>
+				<div class="stars-today">⭐ 5666 stars this week</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/google/elephant-goldfish-model" target="_blank">
+				<p><a href="https://github.com/elementalsouls/Claude-BugHunter" target="_blank">
     
 
 
       
-        google /
+        elementalsouls /
 
-      elephant-goldfish-model</a></p>
+      Claude-BugHunter</a></p>
 				<p>
-      Open-source plugin for designing and reviewing software with agents
+      A Claude Code skill bundle for bug hunting and external red-team work - 82 skills, 15 slash commands, 681 disclosed-report patterns curated across 24 core vulnerability classes, plus enterprise identity + infrastructure attack matrices.
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 20464</span>
-						<span>🔱 1513</span>
+						<span>⭐ 8423</span>
+						<span>🔱 1284</span>
 					</div>
-				<div class="stars-today">⭐ 4249 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/google-deepmind/mujoco" target="_blank">
-    
-
-
-      
-        google-deepmind /
-
-      mujoco</a></p>
-				<p>
-      Multi-Joint dynamics with Contact. A general purpose physics simulator.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 C++</span>
-						<span>⭐ 18204</span>
-						<span>🔱 2206</span>
-					</div>
-				<div class="stars-today">⭐ 1448 stars this week</div>
+				<div class="stars-today">⭐ 1747 stars this week</div>
 				</div>
 			</div>
 	
@@ -250,32 +184,98 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Go</span>
-						<span>⭐ 53102</span>
-						<span>🔱 4326</span>
+						<span>⭐ 53479</span>
+						<span>🔱 4401</span>
 					</div>
 				<div class="stars-today">⭐ 3056 stars this week</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/addyosmani/agent-skills" target="_blank">
+				<p><a href="https://github.com/vercel-labs/agent-browser" target="_blank">
     
 
 
       
-        addyosmani /
+        vercel-labs /
 
-      agent-skills</a></p>
+      agent-browser</a></p>
 				<p>
-      Production-grade engineering skills for AI coding agents.
+      Browser automation CLI for AI agents
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 JavaScript</span>
-						<span>⭐ 118395</span>
-						<span>🔱 12357</span>
+						<span>🔠 Rust</span>
+						<span>⭐ 52256</span>
+						<span>🔱 3653</span>
 					</div>
-				<div class="stars-today">⭐ 3960 stars this week</div>
+				<div class="stars-today">⭐ 3760 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/ChromeDevTools/chrome-devtools-mcp" target="_blank">
+    
+
+
+      
+        ChromeDevTools /
+
+      chrome-devtools-mcp</a></p>
+				<p>
+      Chrome DevTools for coding agents
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 57967</span>
+						<span>🔱 4867</span>
+					</div>
+				<div class="stars-today">⭐ 2593 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/tradermonty/claude-trading-skills" target="_blank">
+    
+
+
+      
+        tradermonty /
+
+      claude-trading-skills</a></p>
+				<p>
+      Claude Code skills for equity investors and traders — market analysis, technical charting, economic calendars, screeners, and trading strategy development.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 6770</span>
+						<span>🔱 1394</span>
+					</div>
+				<div class="stars-today">⭐ 2407 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/google-labs-code/stitch-skills" target="_blank">
+    
+
+
+      
+        google-labs-code /
+
+      stitch-skills</a></p>
+				<p>
+      A library of Agent Skills designed to work with the Stitch MCP server. Each skill follows the Agent Skills open standard, for compatibility with coding agents such as Antigravity, Gemini CLI, Claude Code, Cursor.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 9956</span>
+						<span>🔱 1306</span>
+					</div>
+				<div class="stars-today">⭐ 943 stars this week</div>
 				</div>
 			</div>
 	
@@ -294,32 +294,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 13806</span>
-						<span>🔱 1078</span>
+						<span>⭐ 13889</span>
+						<span>🔱 1090</span>
 					</div>
 				<div class="stars-today">⭐ 2352 stars this week</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/QwenLM/qwen-code" target="_blank">
+				<p><a href="https://github.com/addyosmani/agent-skills" target="_blank">
     
 
 
       
-        QwenLM /
+        addyosmani /
 
-      qwen-code</a></p>
+      agent-skills</a></p>
 				<p>
-      An open-source AI coding agent that lives in your terminal.
+      Production-grade engineering skills for AI coding agents.
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 30673</span>
-						<span>🔱 3548</span>
+						<span>🔠 JavaScript</span>
+						<span>⭐ 118553</span>
+						<span>🔱 12370</span>
 					</div>
-				<div class="stars-today">⭐ 1497 stars this week</div>
+				<div class="stars-today">⭐ 3960 stars this week</div>
 				</div>
 			</div>
 	
