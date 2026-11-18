@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2026-11-18
-date: 2026-11-18T04:44:29Z
+date: 2026-11-18T14:36:13Z
 categories:
 - daily
 keywords:
@@ -30,142 +30,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 9654</span>
-						<span>🔱 1386</span>
+						<span>⭐ 10647</span>
+						<span>🔱 1472</span>
 					</div>
-				<div class="stars-today">⭐ 1005 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/mvanhorn/last30days-skill" target="_blank">
-    
-
-
-      
-        mvanhorn /
-
-      last30days-skill</a></p>
-				<p>
-      AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 69265</span>
-						<span>🔱 6158</span>
-					</div>
-				<div class="stars-today">⭐ 696 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/alibaba/open-code-review" target="_blank">
-    
-
-
-      
-        alibaba /
-
-      open-code-review</a></p>
-				<p>
-      Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Go</span>
-						<span>⭐ 53872</span>
-						<span>🔱 4438</span>
-					</div>
-				<div class="stars-today">⭐ 763 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/Tencent/LoopForge" target="_blank">
-    
-
-
-      
-        Tencent /
-
-      LoopForge</a></p>
-				<p>
-      Self-hosted workflows for coding-agent delivery. Orchestrate CodeBuddy, Codex and Claude Code with scripts and human approval gates. Includes Local workflows for coding assistants.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Go</span>
-						<span>⭐ 3413</span>
-						<span>🔱 461</span>
-					</div>
-				<div class="stars-today">⭐ 591 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/dream-num/univer" target="_blank">
-    
-
-
-      
-        dream-num /
-
-      univer</a></p>
-				<p>
-      Build your own AI office with Univer Office SDK. Bring editing, calculation, collaboration, and file processing into your product for people and AI agents. Built on an extensible open-source core.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 29099</span>
-						<span>🔱 2626</span>
-					</div>
-				<div class="stars-today">⭐ 1774 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/getarcaneapp/arcane" target="_blank">
-    
-
-
-      
-        getarcaneapp /
-
-      arcane</a></p>
-				<p>
-      Modern Docker Management, Designed for Everyone
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Go</span>
-						<span>⭐ 9414</span>
-						<span>🔱 517</span>
-					</div>
-				<div class="stars-today">⭐ 618 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/google-labs-code/stitch-skills" target="_blank">
-    
-
-
-      
-        google-labs-code /
-
-      stitch-skills</a></p>
-				<p>
-      A library of Agent Skills designed to work with the Stitch MCP server. Each skill follows the Agent Skills open standard, for compatibility with coding agents such as Antigravity, Gemini CLI, Claude Code, Cursor.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 10168</span>
-						<span>🔱 1335</span>
-					</div>
-				<div class="stars-today">⭐ 350 stars today</div>
+				<div class="stars-today">⭐ 2322 stars today</div>
 				</div>
 			</div>
 	
@@ -184,142 +52,142 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 16956</span>
-						<span>🔱 1835</span>
+						<span>⭐ 17085</span>
+						<span>🔱 1876</span>
 					</div>
-				<div class="stars-today">⭐ 201 stars today</div>
+				<div class="stars-today">⭐ 315 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/obra/superpowers" target="_blank">
+				<p><a href="https://github.com/HKUDS/CLI-Anything" target="_blank">
     
 
 
       
-        obra /
+        HKUDS /
 
-      superpowers</a></p>
+      CLI-Anything</a></p>
 				<p>
-      An agentic skills framework & software development methodology that works.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Shell</span>
-						<span>⭐ 319470</span>
-						<span>🔱 28484</span>
-					</div>
-				<div class="stars-today">⭐ 1917 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/ag-ui-protocol/ag-ui" target="_blank">
-    
-
-
-      
-        ag-ui-protocol /
-
-      ag-ui</a></p>
-				<p>
-      AG-UI: the Agent-User Interaction Protocol. Bring Agents into Frontend Applications.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 20099</span>
-						<span>🔱 2071</span>
-					</div>
-				<div class="stars-today">⭐ 1445 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/backnotprop/plannotator" target="_blank">
-    
-
-
-      
-        backnotprop /
-
-      plannotator</a></p>
-				<p>
-      The workspace to stay in the loop and on top of agents - shape, decide, plan, annotate, review code, share with team, and send all feedback to agents with one click. 
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 13137</span>
-						<span>🔱 1316</span>
-					</div>
-				<div class="stars-today">⭐ 691 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/sveltejs/svelte" target="_blank">
-    
-
-
-      
-        sveltejs /
-
-      svelte</a></p>
-				<p>
-      web development for the rest of us
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 JavaScript</span>
-						<span>⭐ 89644</span>
-						<span>🔱 6241</span>
-					</div>
-				<div class="stars-today">⭐ 477 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/affaan-m/ECC" target="_blank">
-    
-
-
-      
-        affaan-m /
-
-      ECC</a></p>
-				<p>
-      The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 JavaScript</span>
-						<span>⭐ 305690</span>
-						<span>🔱 44990</span>
-					</div>
-				<div class="stars-today">⭐ 883 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/jingyaogong/minimind" target="_blank">
-    
-
-
-      
-        jingyaogong /
-
-      minimind</a></p>
-				<p>
-      🧠 Train a 64M-parameter LLM from scratch in just 2h!
+      "CLI-Anything: Making ALL Software Agent-Native" -- CLI-Hub: https://clianything.cc/
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 66148</span>
-						<span>🔱 8681</span>
+						<span>⭐ 59408</span>
+						<span>🔱 5387</span>
 					</div>
-				<div class="stars-today">⭐ 192 stars today</div>
+				<div class="stars-today">⭐ 384 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/mvanhorn/last30days-skill" target="_blank">
+    
+
+
+      
+        mvanhorn /
+
+      last30days-skill</a></p>
+				<p>
+      AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 69672</span>
+						<span>🔱 6218</span>
+					</div>
+				<div class="stars-today">⭐ 1062 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/getarcaneapp/arcane" target="_blank">
+    
+
+
+      
+        getarcaneapp /
+
+      arcane</a></p>
+				<p>
+      Modern Docker Management, Designed for Everyone
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Go</span>
+						<span>⭐ 9628</span>
+						<span>🔱 542</span>
+					</div>
+				<div class="stars-today">⭐ 547 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/NVIDIA/SkillEvaluator" target="_blank">
+    
+
+
+      
+        NVIDIA /
+
+      SkillEvaluator</a></p>
+				<p>
+      Multi-tier framework for evaluating AI agent skills and plugins with quality gates, semantic overlap detection, synthetic evaluation dataset generation, and live agent evaluation that measures how skills affect agent behavior.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 3514</span>
+						<span>🔱 488</span>
+					</div>
+				<div class="stars-today">⭐ 869 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/nvm-sh/nvm" target="_blank">
+    
+
+
+      
+        nvm-sh /
+
+      nvm</a></p>
+				<p>
+      Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Shell</span>
+						<span>⭐ 96125</span>
+						<span>🔱 10775</span>
+					</div>
+				<div class="stars-today">⭐ 199 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/astral-sh/uv" target="_blank">
+    
+
+
+      
+        astral-sh /
+
+      uv</a></p>
+				<p>
+      An extremely fast Python package and project manager, written in Rust.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Rust</span>
+						<span>⭐ 92152</span>
+						<span>🔱 3912</span>
+					</div>
+				<div class="stars-today">⭐ 260 stars today</div>
 				</div>
 			</div>
 	
@@ -338,10 +206,252 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 3252</span>
-						<span>🔱 431</span>
+						<span>⭐ 3839</span>
+						<span>🔱 491</span>
 					</div>
-				<div class="stars-today">⭐ 1072 stars today</div>
+				<div class="stars-today">⭐ 1529 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/google-labs-code/stitch-skills" target="_blank">
+    
+
+
+      
+        google-labs-code /
+
+      stitch-skills</a></p>
+				<p>
+      A library of Agent Skills designed to work with the Stitch MCP server. Each skill follows the Agent Skills open standard, for compatibility with coding agents such as Antigravity, Gemini CLI, Claude Code, Cursor.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 10302</span>
+						<span>🔱 1356</span>
+					</div>
+				<div class="stars-today">⭐ 369 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/sveltejs/svelte" target="_blank">
+    
+
+
+      
+        sveltejs /
+
+      svelte</a></p>
+				<p>
+      web development for the rest of us
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 JavaScript</span>
+						<span>⭐ 89664</span>
+						<span>🔱 6214</span>
+					</div>
+				<div class="stars-today">⭐ 694 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/jquery/jquery" target="_blank">
+    
+
+
+      
+        jquery /
+
+      jquery</a></p>
+				<p>
+      jQuery JavaScript Library
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 JavaScript</span>
+						<span>⭐ 59990</span>
+						<span>🔱 20707</span>
+					</div>
+				<div class="stars-today">⭐ 268 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/appwrite/appwrite" target="_blank">
+    
+
+
+      
+        appwrite /
+
+      appwrite</a></p>
+				<p>
+      The open-source cloud for agents & devs. Including Auth, Databases, Storage, Functions, Messaging, Hosting, Realtime, WAF and more
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 58149</span>
+						<span>🔱 5886</span>
+					</div>
+				<div class="stars-today">⭐ 239 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/openvinotoolkit/openvino" target="_blank">
+    
+
+
+      
+        openvinotoolkit /
+
+      openvino</a></p>
+				<p>
+      OpenVINO™ is an open source toolkit for optimizing and deploying AI inference
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 C++</span>
+						<span>⭐ 11238</span>
+						<span>🔱 3585</span>
+					</div>
+				<div class="stars-today">⭐ 18 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/obra/superpowers" target="_blank">
+    
+
+
+      
+        obra /
+
+      superpowers</a></p>
+				<p>
+      An agentic skills framework & software development methodology that works.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Shell</span>
+						<span>⭐ 319771</span>
+						<span>🔱 28523</span>
+					</div>
+				<div class="stars-today">⭐ 823 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/affaan-m/ECC" target="_blank">
+    
+
+
+      
+        affaan-m /
+
+      ECC</a></p>
+				<p>
+      The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 JavaScript</span>
+						<span>⭐ 306158</span>
+						<span>🔱 45073</span>
+					</div>
+				<div class="stars-today">⭐ 1109 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/DeanChensj/jiangshan-map" target="_blank">
+    
+
+
+      
+        DeanChensj /
+
+      jiangshan-map</a></p>
+				<p>
+      江山时序 · 中国历史交互地图时间轴 (403 BCE – Present) | Interactive Historical Atlas of China across 18 dynasties, 198 territory snapshots, ancient-to-modern place genealogy & classical poetry routes
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 JavaScript</span>
+						<span>⭐ 7829</span>
+						<span>🔱 957</span>
+					</div>
+				<div class="stars-today">⭐ 991 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/n8n-io/n8n" target="_blank">
+    
+
+
+      
+        n8n-io /
+
+      n8n</a></p>
+				<p>
+      Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 210890</span>
+						<span>🔱 61560</span>
+					</div>
+				<div class="stars-today">⭐ 315 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/solidjs/solid" target="_blank">
+    
+
+
+      
+        solidjs /
+
+      solid</a></p>
+				<p>
+      A declarative, efficient, and flexible JavaScript library for building user interfaces.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 36388</span>
+						<span>🔱 1161</span>
+					</div>
+				<div class="stars-today">⭐ 37 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/punkpeye/awesome-mcp-servers" target="_blank">
+    
+
+
+      
+        punkpeye /
+
+      awesome-mcp-servers</a></p>
+				<p>
+      A collection of MCP servers.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 </span>
+						<span>⭐ 97900</span>
+						<span>🔱 20299</span>
+					</div>
+				<div class="stars-today">⭐ 52 stars today</div>
 				</div>
 			</div>
 	

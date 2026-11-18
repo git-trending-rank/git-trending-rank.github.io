@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2026年11月
-date: 2026-11-18T04:44:29Z
+date: 2026-11-18T14:36:12Z
 categories:
 - monthly
 keywords:
@@ -30,8 +30,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 CSS</span>
-						<span>⭐ 57011</span>
-						<span>🔱 3083</span>
+						<span>⭐ 57311</span>
+						<span>🔱 3105</span>
 					</div>
 				<div class="stars-today">⭐ 26594 stars this month</div>
 				</div>
@@ -52,8 +52,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 JavaScript</span>
-						<span>⭐ 74907</span>
-						<span>🔱 5020</span>
+						<span>⭐ 75150</span>
+						<span>🔱 5045</span>
 					</div>
 				<div class="stars-today">⭐ 44314 stars this month</div>
 				</div>
@@ -74,10 +74,54 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 64331</span>
-						<span>🔱 11327</span>
+						<span>⭐ 64850</span>
+						<span>🔱 11374</span>
 					</div>
 				<div class="stars-today">⭐ 35748 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/php/php-src" target="_blank">
+    
+
+
+      
+        php /
+
+      php-src</a></p>
+				<p>
+      The PHP Interpreter
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 C</span>
+						<span>⭐ 41797</span>
+						<span>🔱 8566</span>
+					</div>
+				<div class="stars-today">⭐ 1447 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/milind-soni/OpenMausBot" target="_blank">
+    
+
+
+      
+        milind-soni /
+
+      OpenMausBot</a></p>
+				<p>
+      Open-source Grok Bot alternative with a virtual machine that bots can use
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 25201</span>
+						<span>🔱 3558</span>
+					</div>
+				<div class="stars-today">⭐ 20211 stars this month</div>
 				</div>
 			</div>
 	
@@ -96,8 +140,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 196820</span>
-						<span>🔱 23068</span>
+						<span>⭐ 197042</span>
+						<span>🔱 23085</span>
 					</div>
 				<div class="stars-today">⭐ 15351 stars this month</div>
 				</div>
@@ -118,8 +162,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 118045</span>
-						<span>🔱 10255</span>
+						<span>⭐ 118159</span>
+						<span>🔱 10268</span>
 					</div>
 				<div class="stars-today">⭐ 17236 stars this month</div>
 				</div>
@@ -140,32 +184,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Rust</span>
-						<span>⭐ 112333</span>
-						<span>🔱 6697</span>
+						<span>⭐ 112662</span>
+						<span>🔱 6710</span>
 					</div>
 				<div class="stars-today">⭐ 30177 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/HKUDS/DeepTutor" target="_blank">
-    
-
-
-      
-        HKUDS /
-
-      DeepTutor</a></p>
-				<p>
-      DeepTutor: Lifelong Personalized Tutoring. https://deeptutor.info/.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 60145</span>
-						<span>🔱 7280</span>
-					</div>
-				<div class="stars-today">⭐ 18753 stars this month</div>
 				</div>
 			</div>
 	
@@ -184,10 +206,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 13137</span>
-						<span>🔱 1316</span>
+						<span>⭐ 13300</span>
+						<span>🔱 1338</span>
 					</div>
 				<div class="stars-today">⭐ 3475 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/HKUDS/DeepTutor" target="_blank">
+    
+
+
+      
+        HKUDS /
+
+      DeepTutor</a></p>
+				<p>
+      DeepTutor: Lifelong Personalized Tutoring. https://deeptutor.info/.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 60345</span>
+						<span>🔱 7309</span>
+					</div>
+				<div class="stars-today">⭐ 18753 stars this month</div>
 				</div>
 			</div>
 	
@@ -206,8 +250,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 113863</span>
-						<span>🔱 13101</span>
+						<span>⭐ 114052</span>
+						<span>🔱 13113</span>
 					</div>
 				<div class="stars-today">⭐ 19596 stars this month</div>
 				</div>
@@ -223,37 +267,15 @@ keywords:
 
       hyperframes</a></p>
 				<p>
-      Write HTML. Render video. Built for agents.
+      AI video you can actually edit. HyperFrames is a free, open-source AI video editor. Describe any video and get a real project you can change down to the frame.
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 86091</span>
-						<span>🔱 7976</span>
+						<span>⭐ 86320</span>
+						<span>🔱 8002</span>
 					</div>
 				<div class="stars-today">⭐ 20425 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/Leonxlnx/taste-skill" target="_blank">
-    
-
-
-      
-        Leonxlnx /
-
-      taste-skill</a></p>
-				<p>
-      Agent skills that give coding agents taste: art direction, reference images and a browser check instead of generic AI pages
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 JavaScript</span>
-						<span>⭐ 117879</span>
-						<span>🔱 7888</span>
-					</div>
-				<div class="stars-today">⭐ 19688 stars this month</div>
 				</div>
 			</div>
 	
@@ -272,10 +294,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 30440</span>
-						<span>🔱 3801</span>
+						<span>⭐ 30573</span>
+						<span>🔱 3816</span>
 					</div>
 				<div class="stars-today">⭐ 11246 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/Leonxlnx/taste-skill" target="_blank">
+    
+
+
+      
+        Leonxlnx /
+
+      taste-skill</a></p>
+				<p>
+      Agent skills that give coding agents taste: art direction, reference images and a browser check instead of generic AI pages
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 JavaScript</span>
+						<span>⭐ 118182</span>
+						<span>🔱 7909</span>
+					</div>
+				<div class="stars-today">⭐ 19688 stars this month</div>
 				</div>
 			</div>
 	
@@ -294,32 +338,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Rust</span>
-						<span>⭐ 52423</span>
-						<span>🔱 3664</span>
+						<span>⭐ 52553</span>
+						<span>🔱 3675</span>
 					</div>
 				<div class="stars-today">⭐ 8282 stars this month</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/anthropics/knowledge-work-plugins" target="_blank">
+				<p><a href="https://github.com/Vincentwei1021/video-shotcraft" target="_blank">
     
 
 
       
-        anthropics /
+        Vincentwei1021 /
 
-      knowledge-work-plugins</a></p>
+      video-shotcraft</a></p>
 				<p>
-      Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork
+      AI video skill for Claude Code & Codex — cinematic, editable product promos with Remotion: 124 shot recipe cards, 150 motion previews, beat sync, sound design, Motion Workbench & JianYing (CapCut CN) export.
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 36457</span>
-						<span>🔱 4024</span>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 21167</span>
+						<span>🔱 1949</span>
 					</div>
-				<div class="stars-today">⭐ 6565 stars this month</div>
+				<div class="stars-today">⭐ 8794 stars this month</div>
 				</div>
 			</div>
 	
