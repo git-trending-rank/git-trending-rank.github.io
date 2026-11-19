@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2026-11-19
-date: 2026-11-19T04:34:33Z
+date: 2026-11-19T14:43:12Z
 categories:
 - daily
 keywords:
@@ -16,288 +16,24 @@ keywords:
 
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/cursor/plugins" target="_blank">
+				<p><a href="https://github.com/elementalsouls/Claude-BugHunter" target="_blank">
     
 
 
       
-        cursor /
+        elementalsouls /
 
-      plugins</a></p>
+      Claude-BugHunter</a></p>
 				<p>
-      Cursor plugin specification and official plugins
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 17289</span>
-						<span>🔱 1909</span>
-					</div>
-				<div class="stars-today">⭐ 314 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/HKUDS/CLI-Anything" target="_blank">
-    
-
-
-      
-        HKUDS /
-
-      CLI-Anything</a></p>
-				<p>
-      "CLI-Anything: Making ALL Software Agent-Native" -- CLI-Hub: https://clianything.cc/
+      A Claude Code skill bundle for bug hunting and external red-team work - 82 skills, 15 slash commands, 681 disclosed-report patterns curated across 24 core vulnerability classes, plus enterprise identity + infrastructure attack matrices.
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 59912</span>
-						<span>🔱 5439</span>
+						<span>⭐ 11915</span>
+						<span>🔱 1558</span>
 					</div>
-				<div class="stars-today">⭐ 389 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/mvanhorn/last30days-skill" target="_blank">
-    
-
-
-      
-        mvanhorn /
-
-      last30days-skill</a></p>
-				<p>
-      AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 70175</span>
-						<span>🔱 6254</span>
-					</div>
-				<div class="stars-today">⭐ 1059 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/getarcaneapp/arcane" target="_blank">
-    
-
-
-      
-        getarcaneapp /
-
-      arcane</a></p>
-				<p>
-      Modern Docker Management, Designed for Everyone
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Go</span>
-						<span>⭐ 9889</span>
-						<span>🔱 568</span>
-					</div>
-				<div class="stars-today">⭐ 547 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/NVIDIA/SkillEvaluator" target="_blank">
-    
-
-
-      
-        NVIDIA /
-
-      SkillEvaluator</a></p>
-				<p>
-      Multi-tier framework for evaluating AI agent skills and plugins with quality gates, semantic overlap detection, synthetic evaluation dataset generation, and live agent evaluation that measures how skills affect agent behavior.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 3818</span>
-						<span>🔱 524</span>
-					</div>
-				<div class="stars-today">⭐ 312 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/nvm-sh/nvm" target="_blank">
-    
-
-
-      
-        nvm-sh /
-
-      nvm</a></p>
-				<p>
-      Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Shell</span>
-						<span>⭐ 96169</span>
-						<span>🔱 10781</span>
-					</div>
-				<div class="stars-today">⭐ 237 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/astral-sh/uv" target="_blank">
-    
-
-
-      
-        astral-sh /
-
-      uv</a></p>
-				<p>
-      An extremely fast Python package and project manager, written in Rust.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Rust</span>
-						<span>⭐ 92275</span>
-						<span>🔱 3924</span>
-					</div>
-				<div class="stars-today">⭐ 258 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/google-research/paper-orchestra" target="_blank">
-    
-
-
-      
-        google-research /
-
-      paper-orchestra</a></p>
-				<p>
-      PaperOrchestra is a multi-agent framework for automated AI research paper writing.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 4436</span>
-						<span>🔱 549</span>
-					</div>
-				<div class="stars-today">⭐ 1524 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/google-labs-code/stitch-skills" target="_blank">
-    
-
-
-      
-        google-labs-code /
-
-      stitch-skills</a></p>
-				<p>
-      A library of Agent Skills designed to work with the Stitch MCP server. Each skill follows the Agent Skills open standard, for compatibility with coding agents such as Antigravity, Gemini CLI, Claude Code, Cursor.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 10462</span>
-						<span>🔱 1370</span>
-					</div>
-				<div class="stars-today">⭐ 365 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/sveltejs/svelte" target="_blank">
-    
-
-
-      
-        sveltejs /
-
-      svelte</a></p>
-				<p>
-      web development for the rest of us
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 JavaScript</span>
-						<span>⭐ 89654</span>
-						<span>🔱 6208</span>
-					</div>
-				<div class="stars-today">⭐ 692 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/jquery/jquery" target="_blank">
-    
-
-
-      
-        jquery /
-
-      jquery</a></p>
-				<p>
-      jQuery JavaScript Library
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 JavaScript</span>
-						<span>⭐ 60030</span>
-						<span>🔱 20709</span>
-					</div>
-				<div class="stars-today">⭐ 266 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/appwrite/appwrite" target="_blank">
-    
-
-
-      
-        appwrite /
-
-      appwrite</a></p>
-				<p>
-      The open-source cloud for agents & devs. Including Auth, Databases, Storage, Functions, Messaging, Hosting, Realtime, WAF and more
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 58271</span>
-						<span>🔱 5884</span>
-					</div>
-				<div class="stars-today">⭐ 232 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/openvinotoolkit/openvino" target="_blank">
-    
-
-
-      
-        openvinotoolkit /
-
-      openvino</a></p>
-				<p>
-      OpenVINO™ is an open source toolkit for optimizing and deploying AI inference
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 C++</span>
-						<span>⭐ 11369</span>
-						<span>🔱 3604</span>
-					</div>
-				<div class="stars-today">⭐ 24 stars today</div>
+				<div class="stars-today">⭐ 1353 stars today</div>
 				</div>
 			</div>
 	
@@ -316,120 +52,318 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Shell</span>
-						<span>⭐ 321429</span>
-						<span>🔱 28569</span>
+						<span>⭐ 321770</span>
+						<span>🔱 28601</span>
 					</div>
-				<div class="stars-today">⭐ 822 stars today</div>
+				<div class="stars-today">⭐ 2029 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/affaan-m/ECC" target="_blank">
+				<p><a href="https://github.com/HKUDS/CLI-Anything" target="_blank">
     
 
 
       
-        affaan-m /
+        HKUDS /
 
-      ECC</a></p>
+      CLI-Anything</a></p>
 				<p>
-      The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.
+      "CLI-Anything: Making ALL Software Agent-Native" -- CLI-Hub: https://clianything.cc/
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 JavaScript</span>
-						<span>⭐ 306665</span>
-						<span>🔱 45147</span>
+						<span>🔠 Python</span>
+						<span>⭐ 60290</span>
+						<span>🔱 5468</span>
 					</div>
-				<div class="stars-today">⭐ 1108 stars today</div>
+				<div class="stars-today">⭐ 899 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/DeanChensj/jiangshan-map" target="_blank">
+				<p><a href="https://github.com/jingyaogong/minimind" target="_blank">
     
 
 
       
-        DeanChensj /
+        jingyaogong /
 
-      jiangshan-map</a></p>
+      minimind</a></p>
 				<p>
-      江山时序 · 中国历史交互地图时间轴 (403 BCE – Present) | Interactive Historical Atlas of China across 18 dynasties, 198 territory snapshots, ancient-to-modern place genealogy & classical poetry routes
+      🧠 两小时从 0 训出你的 64M 大模型。Train your own 64M LLM from scratch in 2 hours.
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 JavaScript</span>
-						<span>⭐ 8111</span>
-						<span>🔱 992</span>
+						<span>🔠 Python</span>
+						<span>⭐ 66687</span>
+						<span>🔱 8763</span>
 					</div>
-				<div class="stars-today">⭐ 218 stars today</div>
+				<div class="stars-today">⭐ 687 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/n8n-io/n8n" target="_blank">
+				<p><a href="https://github.com/cursor/plugins" target="_blank">
     
 
 
       
-        n8n-io /
+        cursor /
 
-      n8n</a></p>
+      plugins</a></p>
 				<p>
-      Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 211178</span>
-						<span>🔱 61575</span>
-					</div>
-				<div class="stars-today">⭐ 325 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/solidjs/solid" target="_blank">
-    
-
-
-      
-        solidjs /
-
-      solid</a></p>
-				<p>
-      A declarative, efficient, and flexible JavaScript library for building user interfaces.
+      Cursor plugin specification and official plugins
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 36636</span>
-						<span>🔱 1185</span>
+						<span>⭐ 17452</span>
+						<span>🔱 1926</span>
 					</div>
-				<div class="stars-today">⭐ 40 stars today</div>
+				<div class="stars-today">⭐ 383 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/punkpeye/awesome-mcp-servers" target="_blank">
+				<p><a href="https://github.com/firecrawl/firecrawl" target="_blank">
     
 
 
       
-        punkpeye /
+        firecrawl /
 
-      awesome-mcp-servers</a></p>
+      firecrawl</a></p>
 				<p>
-      A collection of MCP servers.
+      Knowledge infrastructure to make your agents smarter. Search, scrape and 550+ data providers through one API.
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 </span>
-						<span>⭐ 98097</span>
-						<span>🔱 20366</span>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 203714</span>
+						<span>🔱 10674</span>
 					</div>
-				<div class="stars-today">⭐ 53 stars today</div>
+				<div class="stars-today">⭐ 795 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/nginx/nginx" target="_blank">
+    
+
+
+      
+        nginx /
+
+      nginx</a></p>
+				<p>
+      The official NGINX Open Source repository.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 C</span>
+						<span>⭐ 32250</span>
+						<span>🔱 8408</span>
+					</div>
+				<div class="stars-today">⭐ 66 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/openvinotoolkit/openvino" target="_blank">
+    
+
+
+      
+        openvinotoolkit /
+
+      openvino</a></p>
+				<p>
+      OpenVINO™ is an open source toolkit for optimizing and deploying AI inference
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 C++</span>
+						<span>⭐ 11479</span>
+						<span>🔱 3611</span>
+					</div>
+				<div class="stars-today">⭐ 246 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/cathrynlavery/diagram-design" target="_blank">
+    
+
+
+      
+        cathrynlavery /
+
+      diagram-design</a></p>
+				<p>
+      Editorial diagram design for Claude Code, Codex, GitHub Copilot, Cursor, Factory Droid, Qoder, and Pi. 45 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 HTML</span>
+						<span>⭐ 68421</span>
+						<span>🔱 4602</span>
+					</div>
+				<div class="stars-today">⭐ 332 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/mvanhorn/last30days-skill" target="_blank">
+    
+
+
+      
+        mvanhorn /
+
+      last30days-skill</a></p>
+				<p>
+      AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 70566</span>
+						<span>🔱 6285</span>
+					</div>
+				<div class="stars-today">⭐ 952 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/google-labs-code/stitch-skills" target="_blank">
+    
+
+
+      
+        google-labs-code /
+
+      stitch-skills</a></p>
+				<p>
+      A library of Agent Skills designed to work with the Stitch MCP server. Each skill follows the Agent Skills open standard, for compatibility with coding agents such as Antigravity, Gemini CLI, Claude Code, Cursor.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 10607</span>
+						<span>🔱 1379</span>
+					</div>
+				<div class="stars-today">⭐ 303 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/mjmirza/app-store-compliance" target="_blank">
+    
+
+
+      
+        mjmirza /
+
+      app-store-compliance</a></p>
+				<p>
+      Avoid common App Store and Google Play rejections. Open playbook and pre-submission guard with 117 documented rejection patterns and fixes, privacy manifest and Data safety checks, 95 tracked deadlines (EU AI Act, DSA, COPPA, age laws), and a skill for AI coding agents.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Shell</span>
+						<span>⭐ 1578</span>
+						<span>🔱 117</span>
+					</div>
+				<div class="stars-today">⭐ 542 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/Tracer-Cloud/opensre" target="_blank">
+    
+
+
+      
+        Tracer-Cloud /
+
+      opensre</a></p>
+				<p>
+      The open-source agent for CI/CD reliability.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 12942</span>
+						<span>🔱 1891</span>
+					</div>
+				<div class="stars-today">⭐ 25 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/toeverything/AFFiNE" target="_blank">
+    
+
+
+      
+        toeverything /
+
+      AFFiNE</a></p>
+				<p>
+      There can be more than Notion and Miro. AFFiNE(pronounced [ə‘fain]) is a next-gen knowledge base that brings planning, sorting and creating all together. Privacy first, open-source, customizable and ready to use. 
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 74882</span>
+						<span>🔱 5548</span>
+					</div>
+				<div class="stars-today">⭐ 170 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/XiaoYouChR/Ghost-Downloader-3" target="_blank">
+    
+
+
+      
+        XiaoYouChR /
+
+      Ghost-Downloader-3</a></p>
+				<p>
+      The only downloader you need. 下载器的集大成者。
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 12393</span>
+						<span>🔱 780</span>
+					</div>
+				<div class="stars-today">⭐ 432 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/zhouxiaoka/autoclip" target="_blank">
+    
+
+
+      
+        zhouxiaoka /
+
+      autoclip</a></p>
+				<p>
+      AutoClip｜一个链接，一键出片。开源 AI 视频剪辑桌面工具，将播客、访谈、课程等长视频自动剪成短视频，生成字幕、封面和发布文案，适配抖音、小红书、TikTok、Reels 与 YouTube Shorts。Open-source AI video clipping & content repurposing.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 10973</span>
+						<span>🔱 1923</span>
+					</div>
+				<div class="stars-today">⭐ 110 stars today</div>
 				</div>
 			</div>
 	

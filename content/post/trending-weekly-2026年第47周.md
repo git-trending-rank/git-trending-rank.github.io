@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2026年第47周
-date: 2026-11-19T04:34:32Z
+date: 2026-11-19T14:43:12Z
 categories:
 - weekly
 keywords:
@@ -14,28 +14,6 @@ keywords:
 	<main class="container">
         <div class="repo-list" id="repoList">
 
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/GoogleChrome/modern-web-guidance-src" target="_blank">
-    
-
-
-      
-        GoogleChrome /
-
-      modern-web-guidance-src</a></p>
-				<p>
-      Keep your coding agent up to date with the latest web best practices
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 8893</span>
-						<span>🔱 742</span>
-					</div>
-				<div class="stars-today">⭐ 7257 stars this week</div>
-				</div>
-			</div>
 	
 			<div class="repo-card">
 				<p><a href="https://github.com/backnotprop/plannotator" target="_blank">
@@ -52,76 +30,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 13493</span>
-						<span>🔱 1359</span>
+						<span>⭐ 13591</span>
+						<span>🔱 1370</span>
 					</div>
 				<div class="stars-today">⭐ 3290 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/meta/astryx" target="_blank">
-    
-
-
-      
-        meta /
-
-      astryx</a></p>
-				<p>
-      An open source design system that's fully customizable and agent ready
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 30641</span>
-						<span>🔱 2400</span>
-					</div>
-				<div class="stars-today">⭐ 6250 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/we-promise/sure" target="_blank">
-    
-
-
-      
-        we-promise /
-
-      sure</a></p>
-				<p>
-      The personal finance app for everyone (by everyone)
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Ruby</span>
-						<span>⭐ 16529</span>
-						<span>🔱 1450</span>
-					</div>
-				<div class="stars-today">⭐ 3866 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/alibaba/open-code-review" target="_blank">
-    
-
-
-      
-        alibaba /
-
-      open-code-review</a></p>
-				<p>
-      Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Go</span>
-						<span>⭐ 54215</span>
-						<span>🔱 4486</span>
-					</div>
-				<div class="stars-today">⭐ 4383 stars this week</div>
 				</div>
 			</div>
 	
@@ -140,98 +52,54 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 10462</span>
-						<span>🔱 1370</span>
+						<span>⭐ 10607</span>
+						<span>🔱 1379</span>
 					</div>
 				<div class="stars-today">⭐ 1567 stars this week</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/tradermonty/claude-trading-skills" target="_blank">
+				<p><a href="https://github.com/GoogleChrome/modern-web-guidance-src" target="_blank">
     
 
 
       
-        tradermonty /
+        GoogleChrome /
 
-      claude-trading-skills</a></p>
+      modern-web-guidance-src</a></p>
 				<p>
-      Claude Code skills for equity investors and traders — market analysis, technical charting, economic calendars, screeners, and trading strategy development.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 7101</span>
-						<span>🔱 1441</span>
-					</div>
-				<div class="stars-today">⭐ 3242 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/ChromeDevTools/chrome-devtools-mcp" target="_blank">
-    
-
-
-      
-        ChromeDevTools /
-
-      chrome-devtools-mcp</a></p>
-				<p>
-      Chrome DevTools for coding agents
+      Keep your coding agent up to date with the latest web best practices
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 58245</span>
-						<span>🔱 4878</span>
+						<span>⭐ 9024</span>
+						<span>🔱 750</span>
 					</div>
-				<div class="stars-today">⭐ 3143 stars this week</div>
+				<div class="stars-today">⭐ 7257 stars this week</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/anthropics/skills" target="_blank">
+				<p><a href="https://github.com/alibaba/open-code-review" target="_blank">
     
 
 
       
-        anthropics /
+        alibaba /
 
-      skills</a></p>
+      open-code-review</a></p>
 				<p>
-      Public repository for Agent Skills
+      Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 197294</span>
-						<span>🔱 23106</span>
+						<span>🔠 Go</span>
+						<span>⭐ 54322</span>
+						<span>🔱 4495</span>
 					</div>
-				<div class="stars-today">⭐ 4381 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/ZhuLinsen/daily_stock_analysis" target="_blank">
-    
-
-
-      
-        ZhuLinsen /
-
-      daily_stock_analysis</a></p>
-				<p>
-      LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。 LLM-powered multi-market stock analysis system with multi-source market data, real-time news, decision dashboard, automated notifications, and cost-free scheduled runs.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 73397</span>
-						<span>🔱 57914</span>
-					</div>
-				<div class="stars-today">⭐ 3566 stars this week</div>
+				<div class="stars-today">⭐ 4383 stars this week</div>
 				</div>
 			</div>
 	
@@ -250,10 +118,54 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 70175</span>
-						<span>🔱 6254</span>
+						<span>⭐ 70566</span>
+						<span>🔱 6285</span>
 					</div>
 				<div class="stars-today">⭐ 2423 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/ChromeDevTools/chrome-devtools-mcp" target="_blank">
+    
+
+
+      
+        ChromeDevTools /
+
+      chrome-devtools-mcp</a></p>
+				<p>
+      Chrome DevTools for coding agents
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 58310</span>
+						<span>🔱 4882</span>
+					</div>
+				<div class="stars-today">⭐ 3143 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/tradermonty/claude-trading-skills" target="_blank">
+    
+
+
+      
+        tradermonty /
+
+      claude-trading-skills</a></p>
+				<p>
+      Claude Code skills for equity investors and traders — market analysis, technical charting, economic calendars, screeners, and trading strategy development.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 7177</span>
+						<span>🔱 1451</span>
+					</div>
+				<div class="stars-today">⭐ 3242 stars this week</div>
 				</div>
 			</div>
 	
@@ -272,54 +184,76 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 20480</span>
-						<span>🔱 2106</span>
+						<span>⭐ 20569</span>
+						<span>🔱 2115</span>
 					</div>
 				<div class="stars-today">⭐ 3221 stars this week</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/vercel-labs/agent-browser" target="_blank">
+				<p><a href="https://github.com/meta/astryx" target="_blank">
     
 
 
       
-        vercel-labs /
+        meta /
 
-      agent-browser</a></p>
+      astryx</a></p>
 				<p>
-      Browser automation CLI for AI agents
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Rust</span>
-						<span>⭐ 52680</span>
-						<span>🔱 3688</span>
-					</div>
-				<div class="stars-today">⭐ 2987 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/openai/codex-security" target="_blank">
-    
-
-
-      
-        openai /
-
-      codex-security</a></p>
-				<p>
-      OpenAI's Codex Security CLI and TypeScript SDK for finding, validating, and fixing security vulnerabilities. npm: https://www.npmjs.com/package/@openai/codex-security
+      An open source design system that's fully customizable and agent ready
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 14134</span>
-						<span>🔱 1103</span>
+						<span>⭐ 30817</span>
+						<span>🔱 2413</span>
 					</div>
-				<div class="stars-today">⭐ 2630 stars this week</div>
+				<div class="stars-today">⭐ 6250 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/pookjw/HermesEnabler" target="_blank">
+    
+
+
+      
+        pookjw /
+
+      HermesEnabler</a></p>
+				<p>
+      Enable Hermès Watch Faces on any Apple Watch devices
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Objective-C</span>
+						<span>⭐ 2234</span>
+						<span>🔱 189</span>
+					</div>
+				<div class="stars-today">⭐ 1019 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/we-promise/sure" target="_blank">
+    
+
+
+      
+        we-promise /
+
+      sure</a></p>
+				<p>
+      The personal finance app for everyone (by everyone)
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Ruby</span>
+						<span>⭐ 16628</span>
+						<span>🔱 1466</span>
+					</div>
+				<div class="stars-today">⭐ 3866 stars this week</div>
 				</div>
 			</div>
 	
@@ -338,10 +272,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 29926</span>
-						<span>🔱 2708</span>
+						<span>⭐ 30394</span>
+						<span>🔱 2733</span>
 					</div>
 				<div class="stars-today">⭐ 6840 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/kajisho5/ffmpeg-skill" target="_blank">
+    
+
+
+      
+        kajisho5 /
+
+      ffmpeg-skill</a></p>
+				<p>
+      Local video editor for coding agents: 42 FFmpeg tools with a machine-readable contract and an MCP server, for Claude Code, Cursor and Codex. Cut, captions, reframe, loudness, platform exports. No cloud, no API keys.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 8186</span>
+						<span>🔱 767</span>
+					</div>
+				<div class="stars-today">⭐ 2894 stars this week</div>
 				</div>
 			</div>
 	

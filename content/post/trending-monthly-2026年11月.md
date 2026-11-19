@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2026年11月
-date: 2026-11-19T04:34:32Z
+date: 2026-11-19T14:43:12Z
 categories:
 - monthly
 keywords:
@@ -30,8 +30,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 CSS</span>
-						<span>⭐ 57624</span>
-						<span>🔱 3125</span>
+						<span>⭐ 57876</span>
+						<span>🔱 3144</span>
 					</div>
 				<div class="stars-today">⭐ 27295 stars this month</div>
 				</div>
@@ -52,54 +52,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 JavaScript</span>
-						<span>⭐ 75435</span>
-						<span>🔱 5067</span>
+						<span>⭐ 75672</span>
+						<span>🔱 5085</span>
 					</div>
 				<div class="stars-today">⭐ 44600 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/pingdotgg/t3code" target="_blank">
-    
-
-
-      
-        pingdotgg /
-
-      t3code</a></p>
-				<p>
-      The best way to control Claude Code, Codex and more from any computer or phone
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 65425</span>
-						<span>🔱 11464</span>
-					</div>
-				<div class="stars-today">⭐ 36872 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/php/php-src" target="_blank">
-    
-
-
-      
-        php /
-
-      php-src</a></p>
-				<p>
-      The PHP Interpreter
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 C</span>
-						<span>⭐ 41814</span>
-						<span>🔱 8575</span>
-					</div>
-				<div class="stars-today">⭐ 1454 stars this month</div>
 				</div>
 			</div>
 	
@@ -118,10 +74,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 25475</span>
-						<span>🔱 3607</span>
+						<span>⭐ 25667</span>
+						<span>🔱 3636</span>
 					</div>
 				<div class="stars-today">⭐ 20270 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/pingdotgg/t3code" target="_blank">
+    
+
+
+      
+        pingdotgg /
+
+      t3code</a></p>
+				<p>
+      The best way to control Claude Code, Codex and more from any computer or phone
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 66020</span>
+						<span>🔱 11528</span>
+					</div>
+				<div class="stars-today">⭐ 36872 stars this month</div>
 				</div>
 			</div>
 	
@@ -140,8 +118,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 197294</span>
-						<span>🔱 23106</span>
+						<span>⭐ 197555</span>
+						<span>🔱 23141</span>
 					</div>
 				<div class="stars-today">⭐ 15769 stars this month</div>
 				</div>
@@ -162,32 +140,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 118279</span>
-						<span>🔱 10283</span>
+						<span>⭐ 118351</span>
+						<span>🔱 10292</span>
 					</div>
 				<div class="stars-today">⭐ 17311 stars this month</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/pbakaus/impeccable" target="_blank">
+				<p><a href="https://github.com/Jakeschincariol/instagram-agent-skill" target="_blank">
     
 
 
       
-        pbakaus /
+        Jakeschincariol /
 
-      impeccable</a></p>
+      instagram-agent-skill</a></p>
 				<p>
-      The design vocabulary for your coding agent. Steer with polish and bolder, review with critique and audit, catch AI slop before it ships.
+      Thirteen Claude skills that run an Instagram account: Reels off 26 scored hook formulas, a viral research skill, a caption linter, and a humanizer. Free, MIT.
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Rust</span>
-						<span>⭐ 112991</span>
-						<span>🔱 6730</span>
+						<span>🔠 Python</span>
+						<span>⭐ 7228</span>
+						<span>🔱 1403</span>
 					</div>
-				<div class="stars-today">⭐ 30662 stars this month</div>
+				<div class="stars-today">⭐ 5309 stars this month</div>
 				</div>
 			</div>
 	
@@ -206,8 +184,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 13493</span>
-						<span>🔱 1359</span>
+						<span>⭐ 13591</span>
+						<span>🔱 1370</span>
 					</div>
 				<div class="stars-today">⭐ 3868 stars this month</div>
 				</div>
@@ -228,10 +206,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 60558</span>
-						<span>🔱 7334</span>
+						<span>⭐ 60725</span>
+						<span>🔱 7351</span>
 					</div>
 				<div class="stars-today">⭐ 19065 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/pbakaus/impeccable" target="_blank">
+    
+
+
+      
+        pbakaus /
+
+      impeccable</a></p>
+				<p>
+      The design vocabulary for your coding agent. Steer with polish and bolder, review with critique and audit, catch AI slop before it ships.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Rust</span>
+						<span>⭐ 113273</span>
+						<span>🔱 6747</span>
+					</div>
+				<div class="stars-today">⭐ 30662 stars this month</div>
 				</div>
 			</div>
 	
@@ -250,32 +250,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 114248</span>
-						<span>🔱 13134</span>
+						<span>⭐ 114454</span>
+						<span>🔱 13149</span>
 					</div>
 				<div class="stars-today">⭐ 20046 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/heygen-com/hyperframes" target="_blank">
-    
-
-
-      
-        heygen-com /
-
-      hyperframes</a></p>
-				<p>
-      AI video you can actually edit. HyperFrames is a free, open-source AI video editor. Describe any video and get a real project you can change down to the frame.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 86612</span>
-						<span>🔱 8046</span>
-					</div>
-				<div class="stars-today">⭐ 20375 stars this month</div>
 				</div>
 			</div>
 	
@@ -294,32 +272,98 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 30713</span>
-						<span>🔱 3826</span>
+						<span>⭐ 30833</span>
+						<span>🔱 3836</span>
 					</div>
 				<div class="stars-today">⭐ 11532 stars this month</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/Leonxlnx/taste-skill" target="_blank">
+				<p><a href="https://github.com/google-labs-code/stitch-skills" target="_blank">
     
 
 
       
-        Leonxlnx /
+        google-labs-code /
 
-      taste-skill</a></p>
+      stitch-skills</a></p>
 				<p>
-      Agent skills that give coding agents taste: art direction, reference images and a browser check instead of generic AI pages
+      A library of Agent Skills designed to work with the Stitch MCP server. Each skill follows the Agent Skills open standard, for compatibility with coding agents such as Antigravity, Gemini CLI, Claude Code, Cursor.
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 JavaScript</span>
-						<span>⭐ 118532</span>
-						<span>🔱 7931</span>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 10607</span>
+						<span>🔱 1379</span>
 					</div>
-				<div class="stars-today">⭐ 20055 stars this month</div>
+				<div class="stars-today">⭐ 1841 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/heygen-com/hyperframes" target="_blank">
+    
+
+
+      
+        heygen-com /
+
+      hyperframes</a></p>
+				<p>
+      AI video you can actually edit. HyperFrames is a free, open-source AI video editor. Describe any video and get a real project you can change down to the frame.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 86840</span>
+						<span>🔱 8073</span>
+					</div>
+				<div class="stars-today">⭐ 20375 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/elementalsouls/Claude-BugHunter" target="_blank">
+    
+
+
+      
+        elementalsouls /
+
+      Claude-BugHunter</a></p>
+				<p>
+      A Claude Code skill bundle for bug hunting and external red-team work - 82 skills, 15 slash commands, 681 disclosed-report patterns curated across 24 core vulnerability classes, plus enterprise identity + infrastructure attack matrices.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 11915</span>
+						<span>🔱 1558</span>
+					</div>
+				<div class="stars-today">⭐ 5774 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/kajisho5/ffmpeg-skill" target="_blank">
+    
+
+
+      
+        kajisho5 /
+
+      ffmpeg-skill</a></p>
+				<p>
+      Local video editor for coding agents: 42 FFmpeg tools with a machine-readable contract and an MCP server, for Claude Code, Cursor and Codex. Cut, captions, reframe, loudness, platform exports. No cloud, no API keys.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 8186</span>
+						<span>🔱 767</span>
+					</div>
+				<div class="stars-today">⭐ 6030 stars this month</div>
 				</div>
 			</div>
 	
@@ -338,32 +382,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Rust</span>
-						<span>⭐ 52680</span>
-						<span>🔱 3688</span>
+						<span>⭐ 52798</span>
+						<span>🔱 3693</span>
 					</div>
 				<div class="stars-today">⭐ 8540 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/Vincentwei1021/video-shotcraft" target="_blank">
-    
-
-
-      
-        Vincentwei1021 /
-
-      video-shotcraft</a></p>
-				<p>
-      AI video skill for Claude Code & Codex — cinematic, editable product promos with Remotion: 124 shot recipe cards, 150 motion previews, beat sync, sound design, Motion Workbench & JianYing (CapCut CN) export.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 21398</span>
-						<span>🔱 1974</span>
-					</div>
-				<div class="stars-today">⭐ 8934 stars this month</div>
 				</div>
 			</div>
 	
