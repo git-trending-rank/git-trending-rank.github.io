@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2026年11月
-date: 2026-11-23T16:31:34Z
+date: 2026-11-24T03:28:58Z
 categories:
 - monthly
 keywords:
@@ -30,10 +30,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 CSS</span>
-						<span>⭐ 59937</span>
-						<span>🔱 3278</span>
+						<span>⭐ 60134</span>
+						<span>🔱 3283</span>
 					</div>
-				<div class="stars-today">⭐ 29000 stars this month</div>
+				<div class="stars-today">⭐ 29144 stars this month</div>
 				</div>
 			</div>
 	
@@ -52,10 +52,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 JavaScript</span>
-						<span>⭐ 77423</span>
-						<span>🔱 5216</span>
+						<span>⭐ 77591</span>
+						<span>🔱 5231</span>
 					</div>
-				<div class="stars-today">⭐ 39307 stars this month</div>
+				<div class="stars-today">⭐ 36869 stars this month</div>
 				</div>
 			</div>
 	
@@ -74,10 +74,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 27105</span>
-						<span>🔱 3865</span>
+						<span>⭐ 27223</span>
+						<span>🔱 3875</span>
 					</div>
-				<div class="stars-today">⭐ 21485 stars this month</div>
+				<div class="stars-today">⭐ 21809 stars this month</div>
 				</div>
 			</div>
 	
@@ -96,10 +96,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 74161</span>
-						<span>🔱 12348</span>
+						<span>⭐ 75198</span>
+						<span>🔱 12454</span>
 					</div>
-				<div class="stars-today">⭐ 41514 stars this month</div>
+				<div class="stars-today">⭐ 44453 stars this month</div>
 				</div>
 			</div>
 	
@@ -118,10 +118,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 199339</span>
-						<span>🔱 23332</span>
+						<span>⭐ 199535</span>
+						<span>🔱 23350</span>
 					</div>
-				<div class="stars-today">⭐ 16473 stars this month</div>
+				<div class="stars-today">⭐ 16727 stars this month</div>
 				</div>
 			</div>
 	
@@ -140,10 +140,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 119258</span>
-						<span>🔱 10358</span>
+						<span>⭐ 119348</span>
+						<span>🔱 10367</span>
 					</div>
-				<div class="stars-today">⭐ 17416 stars this month</div>
+				<div class="stars-today">⭐ 17492 stars this month</div>
 				</div>
 			</div>
 	
@@ -162,10 +162,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 8533</span>
-						<span>🔱 1540</span>
+						<span>⭐ 8682</span>
+						<span>🔱 1552</span>
 					</div>
-				<div class="stars-today">⭐ 5773 stars this month</div>
+				<div class="stars-today">⭐ 6023 stars this month</div>
 				</div>
 			</div>
 	
@@ -184,10 +184,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 14620</span>
-						<span>🔱 1441</span>
+						<span>⭐ 14697</span>
+						<span>🔱 1427</span>
 					</div>
-				<div class="stars-today">⭐ 4793 stars this month</div>
+				<div class="stars-today">⭐ 5093 stars this month</div>
 				</div>
 			</div>
 	
@@ -206,10 +206,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 61877</span>
-						<span>🔱 7454</span>
+						<span>⭐ 61984</span>
+						<span>🔱 7460</span>
 					</div>
-				<div class="stars-today">⭐ 19718 stars this month</div>
+				<div class="stars-today">⭐ 19919 stars this month</div>
 				</div>
 			</div>
 	
@@ -228,10 +228,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Go</span>
-						<span>⭐ 40409</span>
-						<span>🔱 3709</span>
+						<span>⭐ 40588</span>
+						<span>🔱 3719</span>
 					</div>
-				<div class="stars-today">⭐ 20728 stars this month</div>
+				<div class="stars-today">⭐ 20747 stars this month</div>
 				</div>
 			</div>
 	
@@ -250,10 +250,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Rust</span>
-						<span>⭐ 115461</span>
-						<span>🔱 6885</span>
+						<span>⭐ 115705</span>
+						<span>🔱 6895</span>
 					</div>
-				<div class="stars-today">⭐ 30634 stars this month</div>
+				<div class="stars-today">⭐ 30675 stars this month</div>
 				</div>
 			</div>
 	
@@ -272,10 +272,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 116186</span>
-						<span>🔱 13273</span>
+						<span>⭐ 116391</span>
+						<span>🔱 13289</span>
 					</div>
-				<div class="stars-today">⭐ 21408 stars this month</div>
+				<div class="stars-today">⭐ 21780 stars this month</div>
 				</div>
 			</div>
 	
@@ -294,10 +294,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 31833</span>
-						<span>🔱 3912</span>
+						<span>⭐ 31955</span>
+						<span>🔱 3920</span>
 					</div>
-				<div class="stars-today">⭐ 12006 stars this month</div>
+				<div class="stars-today">⭐ 12148 stars this month</div>
 				</div>
 			</div>
 	
@@ -316,10 +316,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 12168</span>
-						<span>🔱 1506</span>
+						<span>⭐ 12350</span>
+						<span>🔱 1517</span>
 					</div>
-				<div class="stars-today">⭐ 3189 stars this month</div>
+				<div class="stars-today">⭐ 3630 stars this month</div>
 				</div>
 			</div>
 	
@@ -338,10 +338,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 88751</span>
-						<span>🔱 8277</span>
+						<span>⭐ 89025</span>
+						<span>🔱 8301</span>
 					</div>
-				<div class="stars-today">⭐ 18847 stars this month</div>
+				<div class="stars-today">⭐ 18679 stars this month</div>
 				</div>
 			</div>
 	
@@ -355,15 +355,15 @@ keywords:
 
       Claude-BugHunter</a></p>
 				<p>
-      A Claude Code skill bundle for bug hunting and external red-team work - 82 skills, 15 slash commands, 681 disclosed-report patterns curated across 24 core vulnerability classes, plus enterprise identity + infrastructure attack matrices.
+      A Claude Code skill bundle for bug hunting and external red-team work - 84 skills, 15 slash commands, 681 disclosed-report patterns curated across 24 core vulnerability classes, plus enterprise identity + infrastructure attack matrices.
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 19212</span>
-						<span>🔱 2076</span>
+						<span>⭐ 19956</span>
+						<span>🔱 2114</span>
 					</div>
-				<div class="stars-today">⭐ 11667 stars this month</div>
+				<div class="stars-today">⭐ 13817 stars this month</div>
 				</div>
 			</div>
 	
@@ -382,10 +382,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 10101</span>
-						<span>🔱 887</span>
+						<span>⭐ 10287</span>
+						<span>🔱 899</span>
 					</div>
-				<div class="stars-today">⭐ 7477 stars this month</div>
+				<div class="stars-today">⭐ 8031 stars this month</div>
 				</div>
 			</div>
 	
@@ -404,10 +404,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Rust</span>
-						<span>⭐ 53568</span>
-						<span>🔱 3751</span>
+						<span>⭐ 53642</span>
+						<span>🔱 3764</span>
 					</div>
-				<div class="stars-today">⭐ 9083 stars this month</div>
+				<div class="stars-today">⭐ 9273 stars this month</div>
 				</div>
 			</div>
 	
