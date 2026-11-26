@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2026-11-26
-date: 2026-11-26T13:14:57Z
+date: 2026-11-26T22:38:18Z
 categories:
 - daily
 keywords:
@@ -30,8 +30,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 23868</span>
-						<span>🔱 2430</span>
+						<span>⭐ 24457</span>
+						<span>🔱 2490</span>
 					</div>
 				<div class="stars-today">⭐ 1600 stars today</div>
 				</div>
@@ -52,8 +52,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Shell</span>
-						<span>⭐ 327084</span>
-						<span>🔱 29007</span>
+						<span>⭐ 327429</span>
+						<span>🔱 29039</span>
 					</div>
 				<div class="stars-today">⭐ 853 stars today</div>
 				</div>
@@ -74,8 +74,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 66076</span>
-						<span>🔱 6006</span>
+						<span>⭐ 66310</span>
+						<span>🔱 6030</span>
 					</div>
 				<div class="stars-today">⭐ 744 stars today</div>
 				</div>
@@ -96,8 +96,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 71439</span>
-						<span>🔱 9270</span>
+						<span>⭐ 71594</span>
+						<span>🔱 9294</span>
 					</div>
 				<div class="stars-today">⭐ 701 stars today</div>
 				</div>
@@ -118,8 +118,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 19674</span>
-						<span>🔱 2125</span>
+						<span>⭐ 19770</span>
+						<span>🔱 2138</span>
 					</div>
 				<div class="stars-today">⭐ 268 stars today</div>
 				</div>
@@ -140,8 +140,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 210569</span>
-						<span>🔱 11023</span>
+						<span>⭐ 210881</span>
+						<span>🔱 11047</span>
 					</div>
 				<div class="stars-today">⭐ 1042 stars today</div>
 				</div>
@@ -162,8 +162,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 C</span>
-						<span>⭐ 33458</span>
-						<span>🔱 8411</span>
+						<span>⭐ 33511</span>
+						<span>🔱 8421</span>
 					</div>
 				<div class="stars-today">⭐ 150 stars today</div>
 				</div>
@@ -184,8 +184,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 C++</span>
-						<span>⭐ 12749</span>
-						<span>🔱 3720</span>
+						<span>⭐ 12805</span>
+						<span>🔱 3735</span>
 					</div>
 				<div class="stars-today">⭐ 176 stars today</div>
 				</div>
@@ -206,8 +206,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 HTML</span>
-						<span>⭐ 73532</span>
-						<span>🔱 4899</span>
+						<span>⭐ 73804</span>
+						<span>🔱 4928</span>
 					</div>
 				<div class="stars-today">⭐ 951 stars today</div>
 				</div>
@@ -228,8 +228,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 75472</span>
-						<span>🔱 6654</span>
+						<span>⭐ 75698</span>
+						<span>🔱 6674</span>
 					</div>
 				<div class="stars-today">⭐ 755 stars today</div>
 				</div>
@@ -250,8 +250,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 13155</span>
-						<span>🔱 1550</span>
+						<span>⭐ 13267</span>
+						<span>🔱 1562</span>
 					</div>
 				<div class="stars-today">⭐ 308 stars today</div>
 				</div>
@@ -272,8 +272,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Shell</span>
-						<span>⭐ 6805</span>
-						<span>🔱 447</span>
+						<span>⭐ 6992</span>
+						<span>🔱 464</span>
 					</div>
 				<div class="stars-today">⭐ 561 stars today</div>
 				</div>
@@ -294,8 +294,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 15676</span>
-						<span>🔱 2039</span>
+						<span>⭐ 15791</span>
+						<span>🔱 2059</span>
 					</div>
 				<div class="stars-today">⭐ 325 stars today</div>
 				</div>
@@ -316,8 +316,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 78754</span>
-						<span>🔱 5733</span>
+						<span>⭐ 78930</span>
+						<span>🔱 5751</span>
 					</div>
 				<div class="stars-today">⭐ 521 stars today</div>
 				</div>
@@ -338,8 +338,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 18790</span>
-						<span>🔱 1128</span>
+						<span>⭐ 19057</span>
+						<span>🔱 1148</span>
 					</div>
 				<div class="stars-today">⭐ 887 stars today</div>
 				</div>
@@ -355,13 +355,13 @@ keywords:
 
       autoclip</a></p>
 				<p>
-      AutoClip｜一个链接，一键出片。开源 AI 视频剪辑桌面工具，将播客、访谈、课程等长视频自动剪成短视频，生成字幕、封面和发布文案，适配抖音、小红书、TikTok、Reels 与 YouTube Shorts。Open-source AI video clipping & content repurposing.
+      AutoClip｜The open-source OpusClip alternative — local-first AI clipping & MCP server, zero subscriptions. 一个链接，一键出片。开源 AI 视频剪辑桌面工具，将播客、访谈、课程等长视频自动剪成短视频，生成字幕、封面和发布文案，适配抖音、小红书、TikTok、Reels 与 YouTube Shorts。
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 16671</span>
-						<span>🔱 2364</span>
+						<span>⭐ 16888</span>
+						<span>🔱 2379</span>
 					</div>
 				<div class="stars-today">⭐ 770 stars today</div>
 				</div>
