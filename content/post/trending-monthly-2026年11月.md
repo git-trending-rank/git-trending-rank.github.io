@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2026年11月
-date: 2026-11-26T03:47:51Z
+date: 2026-11-26T13:14:58Z
 categories:
 - monthly
 keywords:
@@ -30,8 +30,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 CSS</span>
-						<span>⭐ 61175</span>
-						<span>🔱 3354</span>
+						<span>⭐ 61390</span>
+						<span>🔱 3364</span>
 					</div>
 				<div class="stars-today">⭐ 28295 stars this month</div>
 				</div>
@@ -52,8 +52,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 JavaScript</span>
-						<span>⭐ 78418</span>
-						<span>🔱 5307</span>
+						<span>⭐ 78578</span>
+						<span>🔱 5318</span>
 					</div>
 				<div class="stars-today">⭐ 32663 stars this month</div>
 				</div>
@@ -74,8 +74,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 27884</span>
-						<span>🔱 3978</span>
+						<span>⭐ 28015</span>
+						<span>🔱 3991</span>
 					</div>
 				<div class="stars-today">⭐ 22391 stars this month</div>
 				</div>
@@ -96,8 +96,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 79700</span>
-						<span>🔱 14068</span>
+						<span>⭐ 80331</span>
+						<span>🔱 14193</span>
 					</div>
 				<div class="stars-today">⭐ 49283 stars this month</div>
 				</div>
@@ -118,8 +118,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 200595</span>
-						<span>🔱 23459</span>
+						<span>⭐ 200806</span>
+						<span>🔱 23485</span>
 					</div>
 				<div class="stars-today">⭐ 17272 stars this month</div>
 				</div>
@@ -140,8 +140,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 119804</span>
-						<span>🔱 10419</span>
+						<span>⭐ 119880</span>
+						<span>🔱 10424</span>
 					</div>
 				<div class="stars-today">⭐ 17424 stars this month</div>
 				</div>
@@ -162,8 +162,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 9349</span>
-						<span>🔱 1607</span>
+						<span>⭐ 9454</span>
+						<span>🔱 1616</span>
 					</div>
 				<div class="stars-today">⭐ 6421 stars this month</div>
 				</div>
@@ -184,8 +184,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 15107</span>
-						<span>🔱 1449</span>
+						<span>⭐ 15182</span>
+						<span>🔱 1456</span>
 					</div>
 				<div class="stars-today">⭐ 5475 stars this month</div>
 				</div>
@@ -206,8 +206,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 JavaScript</span>
-						<span>⭐ 87295</span>
-						<span>🔱 2473</span>
+						<span>⭐ 87808</span>
+						<span>🔱 2488</span>
 					</div>
 				<div class="stars-today">⭐ 47629 stars this month</div>
 				</div>
@@ -228,8 +228,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 62830</span>
-						<span>🔱 7580</span>
+						<span>⭐ 63092</span>
+						<span>🔱 7605</span>
 					</div>
 				<div class="stars-today">⭐ 20351 stars this month</div>
 				</div>
@@ -245,13 +245,13 @@ keywords:
 
       magpie</a></p>
 				<p>
-      Every agent's model. One place. Codex on DeepSeek, Claude Code on Kimi, from the menu bar.
+      Pool every plan you pay for — Claude, ChatGPT, Copilot, GLM Coding Plan, Kimi Code and more — and use them in any agent: Claude Code, Codex, Claude Desktop… When one runs out, the next takes over.
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Go</span>
-						<span>⭐ 41579</span>
-						<span>🔱 3815</span>
+						<span>⭐ 41890</span>
+						<span>🔱 3840</span>
 					</div>
 				<div class="stars-today">⭐ 20593 stars this month</div>
 				</div>
@@ -272,8 +272,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Rust</span>
-						<span>⭐ 116980</span>
-						<span>🔱 6998</span>
+						<span>⭐ 117244</span>
+						<span>🔱 7019</span>
 					</div>
 				<div class="stars-today">⭐ 30151 stars this month</div>
 				</div>
@@ -294,8 +294,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 117645</span>
-						<span>🔱 13426</span>
+						<span>⭐ 117853</span>
+						<span>🔱 13449</span>
 					</div>
 				<div class="stars-today">⭐ 22950 stars this month</div>
 				</div>
@@ -316,8 +316,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 32450</span>
-						<span>🔱 3953</span>
+						<span>⭐ 32534</span>
+						<span>🔱 3962</span>
 					</div>
 				<div class="stars-today">⭐ 12180 stars this month</div>
 				</div>
@@ -338,8 +338,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 13022</span>
-						<span>🔱 1540</span>
+						<span>⭐ 13155</span>
+						<span>🔱 1550</span>
 					</div>
 				<div class="stars-today">⭐ 4344 stars this month</div>
 				</div>
@@ -360,8 +360,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 90246</span>
-						<span>🔱 8406</span>
+						<span>⭐ 90530</span>
+						<span>🔱 8436</span>
 					</div>
 				<div class="stars-today">⭐ 18511 stars this month</div>
 				</div>
@@ -382,8 +382,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 23201</span>
-						<span>🔱 2373</span>
+						<span>⭐ 23868</span>
+						<span>🔱 2430</span>
 					</div>
 				<div class="stars-today">⭐ 17223 stars this month</div>
 				</div>
@@ -404,8 +404,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 11174</span>
-						<span>🔱 944</span>
+						<span>⭐ 11353</span>
+						<span>🔱 955</span>
 					</div>
 				<div class="stars-today">⭐ 8284 stars this month</div>
 				</div>
@@ -426,8 +426,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Rust</span>
-						<span>⭐ 54004</span>
-						<span>🔱 3771</span>
+						<span>⭐ 54077</span>
+						<span>🔱 3775</span>
 					</div>
 				<div class="stars-today">⭐ 9541 stars this month</div>
 				</div>
